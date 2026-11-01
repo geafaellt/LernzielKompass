@@ -1,0 +1,1400 @@
+{
+  "id": "FSP-REVERSE-001",
+  "checked_on": "2026-11-01",
+  "base_commit": "84d84af499e91417eb84ddbc90fa6b96c97f9f87",
+  "app_version": "1.291",
+  "scope": {
+    "fsp": "Deutsch-Heimatkunde/Sachunterricht 2019, Bänder 1/2 und 3/4",
+    "gs": [
+      "Deutsch 2026, Klassen 1/2, 3, 4",
+      "Sachunterricht 2019, Klassen 1/2, 3, 4"
+    ],
+    "excluded": "Andere GS-Fächer und höhere Klassen; keine Aussage über den gesamten GS-Lehrplan.",
+    "user_confirmed": "Vergleich am 01.11.2026 auf Deutsch und Sachunterricht erweitert."
+  },
+  "method": "Rückwärtsprüfung auf Ebene aller 22 FSP-Bereich-Band-Kombinationen anhand der Inventuren, übergeordneten Ziele, amtlichen Fachlehrpläne und ausgewählter konkreter Gegenanker. Gegenbezug widerlegt vollständiges Fehlen eines ganzen Bereichs, belegt aber keine vollständige Abdeckung seiner Unterziele. Keine neue Freigabe einzelner Karten.",
+  "counts": {
+    "fsp_areas": 22,
+    "fsp_inventory_rows": 451,
+    "gs_deutsch_inventory_rows": 488,
+    "gs_sachunterricht_inventory_rows": 283,
+    "fully_absent_areas_demonstrated": 0,
+    "new_cards": 0,
+    "new_forward_review_rows": 0
+  },
+  "finding": "Kein vollständig anschlussloser FSP-Lern- oder Wahlbereich nachgewiesen. In jedem Bereich besteht mindestens ein fachlicher oder sprachlicher Gegenbezug. Teilanforderungen, Wahlbedingungen und Stufenverschiebungen verhindern eine pauschale Vollabdeckung.",
+  "sources": [
+    {
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146",
+      "version": "2019"
+    },
+    {
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "version": "2026"
+    },
+    {
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80",
+      "version": "2019"
+    }
+  ],
+  "areas": [
+    {
+      "fsp_area_id": "page146_39133",
+      "grade": "1/2",
+      "title": "Lernbereich 1: Lesen und Schreiben",
+      "inventory_rows": 57,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39201",
+          "grade": "1/2",
+          "label": "Kennen grundlegender Funktionsweisen der Schriftsprache",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39201",
+          "level": 1,
+          "overarching_goal_id": "page146_39201",
+          "overarching_goal": "Kennen grundlegender Funktionsweisen der Schriftsprache"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186408",
+          "grade": "1/2",
+          "label": "Untersuchen der Buchstaben-Laut-Zuordnungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186408",
+          "level": 2,
+          "overarching_goal_id": "page908_186401",
+          "overarching_goal": "Beherrschen basaler Lesefertigkeiten"
+        },
+        {
+          "id": "page908_186315",
+          "grade": "1/2",
+          "label": "Kennen von Schreibfertigkeiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186315",
+          "level": 1,
+          "overarching_goal_id": "page908_186315",
+          "overarching_goal": "Kennen von Schreibfertigkeiten"
+        }
+      ],
+      "boundary": "Schriftspracherwerb und basale Sprachwahrnehmung haben Gegenbezüge in GS Deutsch 1/2. Kein Vollständigkeitsnachweis für alle Feinabstufungen."
+    },
+    {
+      "fsp_area_id": "page146_39135",
+      "grade": "1/2",
+      "title": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+      "inventory_rows": 13,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39562",
+          "grade": "1/2",
+          "label": "Sich positionieren zur eigenen Lernumgebung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39562",
+          "level": 1,
+          "overarching_goal_id": "page146_39562",
+          "overarching_goal": "Sich positionieren zur eigenen Lernumgebung"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5614",
+          "grade": "1/2",
+          "label": "Einrichten der Arbeitsumgebung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5614",
+          "level": 3,
+          "overarching_goal_id": "page80_5591",
+          "overarching_goal": "Anwenden von Formen des gemeinsamen und individuellen Lernens",
+          "gs_area": "LB1"
+        },
+        {
+          "id": "page908_186349",
+          "grade": "1/2",
+          "label": "individuelle Wörter",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186349",
+          "level": 2,
+          "overarching_goal_id": "page908_186347",
+          "overarching_goal": "Beherrschen der Schreibung häufiger Inhaltswörter"
+        }
+      ],
+      "boundary": "Lernumgebung ist in SU 1/2 konkret verankert; eigene Namensschreibung bleibt gegenüber individuellen Wörtern spezifischer."
+    },
+    {
+      "fsp_area_id": "page146_39139",
+      "grade": "1/2",
+      "title": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+      "inventory_rows": 34,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39605",
+          "grade": "1/2",
+          "label": "Kennen der Klassengemeinschaft",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39605",
+          "level": 1,
+          "overarching_goal_id": "page146_39605",
+          "overarching_goal": "Kennen der Klassengemeinschaft"
+        },
+        {
+          "id": "page146_39702",
+          "grade": "1/2",
+          "label": "Kennen von Sprachformen zum Umgang miteinander",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39702",
+          "level": 1,
+          "overarching_goal_id": "page146_39702",
+          "overarching_goal": "Kennen von Sprachformen zum Umgang miteinander"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5591",
+          "grade": "1/2",
+          "label": "Anwenden von Formen des gemeinsamen und individuellen Lernens",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5591",
+          "level": 1,
+          "overarching_goal_id": "page80_5591",
+          "overarching_goal": "Anwenden von Formen des gemeinsamen und individuellen Lernens",
+          "gs_area": "LB1"
+        },
+        {
+          "id": "page908_186287",
+          "grade": "1/2",
+          "label": "Kennen von Formen und Regeln des Miteinandersprechens",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186287",
+          "level": 1,
+          "overarching_goal_id": "page908_186287",
+          "overarching_goal": "Kennen von Formen und Regeln des Miteinandersprechens"
+        }
+      ],
+      "boundary": "Gemeinschaft und sprachlicher Umgang besitzen Gegenbezüge. Häusliches Umfeld, Freizeit und einzelne Verhaltensanforderungen sind gesondert abzugrenzen."
+    },
+    {
+      "fsp_area_id": "page146_39141",
+      "grade": "1/2",
+      "title": "Lernbereich 4: Mach mit, bleib fit 65 Ustd.",
+      "inventory_rows": 17,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39728",
+          "grade": "1/2",
+          "label": "Kennen von Verhaltensweisen zur Gesunderhaltung des Körpers",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39728",
+          "level": 1,
+          "overarching_goal_id": "page146_39728",
+          "overarching_goal": "Kennen von Verhaltensweisen zur Gesunderhaltung des Körpers"
+        },
+        {
+          "id": "page146_39744",
+          "grade": "1/2",
+          "label": "Einblick gewinnen in gesunde Ernährungsgewohnheiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39744",
+          "level": 1,
+          "overarching_goal_id": "page146_39744",
+          "overarching_goal": "Einblick gewinnen in gesunde Ernährungsgewohnheiten"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5624",
+          "grade": "1/2",
+          "label": "Zusammenhang zwischen Körperhygiene und Gesundheit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5624",
+          "level": 2,
+          "overarching_goal_id": "page80_5623",
+          "overarching_goal": "Kennen von wichtigen Verhaltensweisen für die eigene Gesundheit",
+          "gs_area": "LB2"
+        },
+        {
+          "id": "page80_5630",
+          "grade": "1/2",
+          "label": "Auswählen von Nahrungsmitteln für gesunde Ernährung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5630",
+          "level": 2,
+          "overarching_goal_id": "page80_5623",
+          "overarching_goal": "Kennen von wichtigen Verhaltensweisen für die eigene Gesundheit",
+          "gs_area": "LB2"
+        }
+      ],
+      "boundary": "Hygiene und Ernährung haben sachliche Gegenanker in SU 1/2. Die bisher fehlende Deutsch-Karte bedeutet keine Lücke im Vergleich beider GS-Fächer."
+    },
+    {
+      "fsp_area_id": "page146_39143",
+      "grade": "1/2",
+      "title": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+      "inventory_rows": 25,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39754",
+          "grade": "1/2",
+          "label": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39754",
+          "level": 1,
+          "overarching_goal_id": "page146_39754",
+          "overarching_goal": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt"
+        },
+        {
+          "id": "page146_39784",
+          "grade": "1/2",
+          "label": "Kennen räumlicher Gegebenheiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39784",
+          "level": 1,
+          "overarching_goal_id": "page146_39784",
+          "overarching_goal": "Kennen räumlicher Gegebenheiten"
+        },
+        {
+          "id": "page146_39799",
+          "grade": "1/2",
+          "label": "Übertragen von Wissen über die Bedeutung von Signalen und Zeichen auf das eigene Verhalten im Straßenverkehr",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39799",
+          "level": 1,
+          "overarching_goal_id": "page146_39799",
+          "overarching_goal": "Übertragen von Wissen über die Bedeutung von Signalen und Zeichen auf das eigene Verhalten im Straßenverkehr"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5796",
+          "grade": "1/2",
+          "label": "Orientieren am Tagesablauf",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5796",
+          "level": 2,
+          "overarching_goal_id": "page80_5787",
+          "overarching_goal": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "gs_area": "LB5"
+        },
+        {
+          "id": "page80_5787",
+          "grade": "1/2",
+          "label": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5787",
+          "level": 1,
+          "overarching_goal_id": "page80_5787",
+          "overarching_goal": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "gs_area": "LB5"
+        },
+        {
+          "id": "page80_5820",
+          "grade": "1/2",
+          "label": "Anwenden von Regeln zur Verkehrssicherheit auf dem Schulweg",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5820",
+          "level": 1,
+          "overarching_goal_id": "page80_5820",
+          "overarching_goal": "Anwenden von Regeln zur Verkehrssicherheit auf dem Schulweg",
+          "gs_area": "LB5"
+        }
+      ],
+      "boundary": "Zeit, Raum und Verkehr sind Gegenstände von SU 1/2; Zieloperatoren und Handlungsumfang bleiben getrennt."
+    },
+    {
+      "fsp_area_id": "page146_39146",
+      "grade": "1/2",
+      "title": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+      "inventory_rows": 22,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39818",
+          "grade": "1/2",
+          "label": "Kennen jahreszeitlicher Veränderungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39818",
+          "level": 1,
+          "overarching_goal_id": "page146_39818",
+          "overarching_goal": "Kennen jahreszeitlicher Veränderungen"
+        },
+        {
+          "id": "page146_39846",
+          "grade": "1/2",
+          "label": "Einblick gewinnen in die Wirkung des Sonnenlichts",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39846",
+          "level": 1,
+          "overarching_goal_id": "page146_39846",
+          "overarching_goal": "Einblick gewinnen in die Wirkung des Sonnenlichts"
+        },
+        {
+          "id": "page146_39849",
+          "grade": "1/2",
+          "label": "Kennen ausgewählter Pflanzen- und Tierarten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39849",
+          "level": 1,
+          "overarching_goal_id": "page146_39849",
+          "overarching_goal": "Kennen ausgewählter Pflanzen- und Tierarten"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5664",
+          "grade": "1/2",
+          "label": "Kennen jahreszeitlicher Veränderungen in der Natur",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5664",
+          "level": 1,
+          "overarching_goal_id": "page80_5664",
+          "overarching_goal": "Kennen jahreszeitlicher Veränderungen in der Natur",
+          "gs_area": "LB3"
+        },
+        {
+          "id": "page80_5721",
+          "grade": "1/2",
+          "label": "Einblick gewinnen in das Phänomen Licht",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5721",
+          "level": 1,
+          "overarching_goal_id": "page80_5721",
+          "overarching_goal": "Einblick gewinnen in das Phänomen Licht",
+          "gs_area": "LB4"
+        },
+        {
+          "id": "page80_5694",
+          "grade": "1/2",
+          "label": "Kennen von Tieren in ihren unterschiedlichen Lebensräumen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5694",
+          "level": 1,
+          "overarching_goal_id": "page80_5694",
+          "overarching_goal": "Kennen von Tieren in ihren unterschiedlichen Lebensräumen",
+          "gs_area": "LB3"
+        }
+      ],
+      "boundary": "Jahreszeiten, Licht und Artenkenntnis besitzen Gegenbezüge; Auswahl und Umfang der Arten sind nicht gleichgesetzt."
+    },
+    {
+      "fsp_area_id": "page146_39148",
+      "grade": "1/2",
+      "title": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+      "inventory_rows": 7,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39869",
+          "grade": "1/2",
+          "label": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39869",
+          "level": 1,
+          "overarching_goal_id": "page146_39869",
+          "overarching_goal": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken"
+        },
+        {
+          "id": "page146_39882",
+          "grade": "1/2",
+          "label": "Sich positionieren zum Verhalten von Märchengestalten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39882",
+          "level": 1,
+          "overarching_goal_id": "page146_39882",
+          "overarching_goal": "Sich positionieren zum Verhalten von Märchengestalten"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186450",
+          "grade": "1/2",
+          "label": "Einblick gewinnen in das Erschließen und Nutzen unterschiedlicher Texte",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186450",
+          "level": 1,
+          "overarching_goal_id": "page908_186450",
+          "overarching_goal": "Einblick gewinnen in das Erschließen und Nutzen unterschiedlicher Texte"
+        },
+        {
+          "id": "page908_186459",
+          "grade": "1/2",
+          "label": "Kennen von Kinderbüchern",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186459",
+          "level": 1,
+          "overarching_goal_id": "page908_186459",
+          "overarching_goal": "Kennen von Kinderbüchern"
+        }
+      ],
+      "boundary": "Literarische Texte und Kinderbücher sind in GS Deutsch verankert; spezifische Figurenurteile separat prüfen."
+    },
+    {
+      "fsp_area_id": "page146_39150",
+      "grade": "1/2",
+      "title": "Wahlbereich 1: Sprache entdecken",
+      "inventory_rows": 10,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39893",
+          "grade": "1/2",
+          "label": "Anwenden von Sprachwissen beim Erkunden der Umwelt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39893",
+          "level": 1,
+          "overarching_goal_id": "page146_39893",
+          "overarching_goal": "Anwenden von Sprachwissen beim Erkunden der Umwelt"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186480",
+          "grade": "1/2",
+          "label": "Klären von Wortbedeutungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186480",
+          "level": 3,
+          "overarching_goal_id": "page908_186477",
+          "overarching_goal": "Einblick gewinnen in Formen des sprachlichen Handelns"
+        },
+        {
+          "id": "page908_186408",
+          "grade": "1/2",
+          "label": "Untersuchen der Buchstaben-Laut-Zuordnungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186408",
+          "level": 2,
+          "overarching_goal_id": "page908_186401",
+          "overarching_goal": "Beherrschen basaler Lesefertigkeiten"
+        }
+      ],
+      "boundary": "Sprachliche Erkundung hat Gegenbezüge in Wortbedeutung und Schriftspracherwerb. FSP-Wahlbereich ist nicht automatisch für alle Lernenden gewählt."
+    },
+    {
+      "fsp_area_id": "page146_39152",
+      "grade": "1/2",
+      "title": "Wahlbereich 2: Mein Buch",
+      "inventory_rows": 10,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39934",
+          "grade": "1/2",
+          "label": "Anwenden von Schrittfolgen zur Herstellung eines Buches",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39934",
+          "level": 1,
+          "overarching_goal_id": "page146_39934",
+          "overarching_goal": "Anwenden von Schrittfolgen zur Herstellung eines Buches"
+        },
+        {
+          "id": "page146_39950",
+          "grade": "1/2",
+          "label": "Anwenden von Sprachwissen beim Vorstellen und Lesen des Buches",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39950",
+          "level": 1,
+          "overarching_goal_id": "page146_39950",
+          "overarching_goal": "Anwenden von Sprachwissen beim Vorstellen und Lesen des Buches"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186472",
+          "grade": "1/2",
+          "label": "Erproben verschiedener Präsentationsformen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186472",
+          "level": 2,
+          "overarching_goal_id": "page908_186466",
+          "overarching_goal": "Einblick gewinnen in Möglichkeiten der Textpräsentation"
+        },
+        {
+          "id": "page908_186385",
+          "grade": "1/2",
+          "label": "Erproben von Mitteln zur formalen Gestaltung schriftlicher Arbeiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186385",
+          "level": 2,
+          "overarching_goal_id": "page908_186380",
+          "overarching_goal": "Kennen von Möglichkeiten zum Formulieren von einfachen Texten"
+        }
+      ],
+      "boundary": "GS Deutsch nennt eigene Text-Bild-Produkte und Gestaltung, darunter Faltbuch nur als Bemerkungsbeispiel. FSP verlangt bei Wahl des Bereichs eine Herstellungsschrittfolge; keine pauschale technische Gleichsetzung."
+    },
+    {
+      "fsp_area_id": "page146_39156",
+      "grade": "1/2",
+      "title": "Wahlbereich 3: Wir spielen Theater",
+      "inventory_rows": 11,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39967",
+          "grade": "1/2",
+          "label": "Übertragen des Inhaltes auf das szenische Spiel",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39967",
+          "level": 1,
+          "overarching_goal_id": "page146_39967",
+          "overarching_goal": "Übertragen des Inhaltes auf das szenische Spiel"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186470",
+          "grade": "1/2",
+          "label": "Erproben des szenischen Gestaltens",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186470",
+          "level": 2,
+          "overarching_goal_id": "page908_186466",
+          "overarching_goal": "Einblick gewinnen in Möglichkeiten der Textpräsentation"
+        }
+      ],
+      "boundary": "Szenisches Spiel hat einen ausdrücklichen Deutsch-Gegenbezug; FSP-Wahlbereich und abweichende Operatoren berücksichtigen."
+    },
+    {
+      "fsp_area_id": "page146_39158",
+      "grade": "1/2",
+      "title": "Wahlbereich 4: Natur entdecken",
+      "inventory_rows": 8,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_39984",
+          "grade": "1/2",
+          "label": "Kennen und Erleben von Besonderheiten aus der Region",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39984",
+          "level": 1,
+          "overarching_goal_id": "page146_39984",
+          "overarching_goal": "Kennen und Erleben von Besonderheiten aus der Region"
+        },
+        {
+          "id": "page146_39992",
+          "grade": "1/2",
+          "label": "von Entdeckungen erzählen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39992",
+          "level": 3,
+          "overarching_goal_id": "page146_39984",
+          "overarching_goal": "Kennen und Erleben von Besonderheiten aus der Region"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5787",
+          "grade": "1/2",
+          "label": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5787",
+          "level": 1,
+          "overarching_goal_id": "page80_5787",
+          "overarching_goal": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "gs_area": "LB5"
+        },
+        {
+          "id": "page80_5694",
+          "grade": "1/2",
+          "label": "Kennen von Tieren in ihren unterschiedlichen Lebensräumen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5694",
+          "level": 1,
+          "overarching_goal_id": "page80_5694",
+          "overarching_goal": "Kennen von Tieren in ihren unterschiedlichen Lebensräumen",
+          "gs_area": "LB3"
+        },
+        {
+          "id": "page908_186273",
+          "grade": "1/2",
+          "label": "Erzählen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186273",
+          "level": 2,
+          "overarching_goal_id": "page908_186271",
+          "overarching_goal": "Einblick gewinnen in Formen des situations- und adressatengerechten Kommunizierens"
+        }
+      ],
+      "boundary": "Regionale Erkundung und Naturgegenstände besitzen SU-Anschlüsse, Erzählen einen Deutsch-Anschluss. Die konkrete regionale Auswahl bleibt bedingt."
+    },
+    {
+      "fsp_area_id": "page146_40039",
+      "grade": "3/4",
+      "title": "Lernbereich 1: Lesen und Schreiben",
+      "inventory_rows": 49,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40088",
+          "grade": "3/4",
+          "label": "Entwickeln von Sprachwahrnehmungsleistungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40088",
+          "level": 1,
+          "overarching_goal_id": "page146_40088",
+          "overarching_goal": "Entwickeln von Sprachwahrnehmungsleistungen"
+        },
+        {
+          "id": "page146_40095",
+          "grade": "3/4",
+          "label": "Kennen aller Buchstaben und Buchstabenverbindungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40095",
+          "level": 1,
+          "overarching_goal_id": "page146_40095",
+          "overarching_goal": "Kennen aller Buchstaben und Buchstabenverbindungen"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "label": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "level": 1,
+          "overarching_goal_id": "page146_40107",
+          "overarching_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186402",
+          "grade": "1/2",
+          "label": "Entwickeln einer differenzierten Wahrnehmungsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186402",
+          "level": 2,
+          "overarching_goal_id": "page908_186401",
+          "overarching_goal": "Beherrschen basaler Lesefertigkeiten"
+        },
+        {
+          "id": "page908_186408",
+          "grade": "1/2",
+          "label": "Untersuchen der Buchstaben-Laut-Zuordnungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186408",
+          "level": 2,
+          "overarching_goal_id": "page908_186401",
+          "overarching_goal": "Beherrschen basaler Lesefertigkeiten"
+        },
+        {
+          "id": "page908_186425",
+          "grade": "1/2",
+          "label": "Kennen von Strategien zum Leseverstehen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186425",
+          "level": 1,
+          "overarching_goal_id": "page908_186425",
+          "overarching_goal": "Kennen von Strategien zum Leseverstehen"
+        }
+      ],
+      "boundary": "Basale Anforderungen aus FSP 3/4 haben teilweise ihre ausdrücklichen GS-Anker in 1/2. Entwicklungszeitliche Verschiebung ist keine vollständige Inhaltslücke."
+    },
+    {
+      "fsp_area_id": "page146_40042",
+      "grade": "3/4",
+      "title": "Lernbereich 2: Jeder ist etwas Besonderes 50 Ustd.",
+      "inventory_rows": 13,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40241",
+          "grade": "3/4",
+          "label": "Kennen von Unterschieden zwischen Jungen und Mädchen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40241",
+          "level": 1,
+          "overarching_goal_id": "page146_40241",
+          "overarching_goal": "Kennen von Unterschieden zwischen Jungen und Mädchen"
+        },
+        {
+          "id": "page146_40250",
+          "grade": "3/4",
+          "label": "Sachbegriffe verwenden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40250",
+          "level": 3,
+          "overarching_goal_id": "page146_40241",
+          "overarching_goal": "Kennen von Unterschieden zwischen Jungen und Mädchen"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5645",
+          "grade": "1/2",
+          "label": "Kennen der Geschlechtsmerkmale bei Jungen und Mädchen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5645",
+          "level": 1,
+          "overarching_goal_id": "page80_5645",
+          "overarching_goal": "Kennen der Geschlechtsmerkmale bei Jungen und Mädchen",
+          "gs_area": "LB2"
+        },
+        {
+          "id": "page80_6278",
+          "grade": "4",
+          "label": "Kennen von Merkmalen der Pubertät",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6278",
+          "level": 1,
+          "overarching_goal_id": "page80_6278",
+          "overarching_goal": "Kennen von Merkmalen der Pubertät",
+          "gs_area": "LB2"
+        },
+        {
+          "id": "page908_186843",
+          "grade": "4",
+          "label": "Verwenden von Bildungs- und Fachsprache",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186843",
+          "level": 2,
+          "overarching_goal_id": "page908_186840",
+          "overarching_goal": "Beherrschen von Formen des situations- und adressatengerechten Kommunizierens"
+        }
+      ],
+      "boundary": "Körperliche Entwicklung und Fachwortgebrauch besitzen Gegenanker; persönliche Angaben und Unterschrift nicht durch diese Ausschnitte mitabgedeckt."
+    },
+    {
+      "fsp_area_id": "page146_40045",
+      "grade": "3/4",
+      "title": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+      "inventory_rows": 30,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40263",
+          "grade": "3/4",
+          "label": "Kennen familiärer Strukturen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40263",
+          "level": 1,
+          "overarching_goal_id": "page146_40263",
+          "overarching_goal": "Kennen familiärer Strukturen"
+        },
+        {
+          "id": "page146_40320",
+          "grade": "3/4",
+          "label": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40320",
+          "level": 1,
+          "overarching_goal_id": "page146_40320",
+          "overarching_goal": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_6266",
+          "grade": "4",
+          "label": "Veränderungen im Familienleben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6266",
+          "level": 2,
+          "overarching_goal_id": "page80_6263",
+          "overarching_goal": "Kennen von Lebensgewohnheiten früher und heute in einer Stadt der Region",
+          "gs_area": "LB1"
+        },
+        {
+          "id": "page908_186365",
+          "grade": "1/2",
+          "label": "adressatengerechtes Schreiben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186365",
+          "level": 3,
+          "overarching_goal_id": "page908_186360",
+          "overarching_goal": "Einblick gewinnen in die Bedeutung des Schreibens"
+        },
+        {
+          "id": "page908_186538",
+          "grade": "3",
+          "label": "Übertragen des Wissens über Formen und Regeln des Miteinandersprechens",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186538",
+          "level": 1,
+          "overarching_goal_id": "page908_186538",
+          "overarching_goal": "Übertragen des Wissens über Formen und Regeln des Miteinandersprechens"
+        }
+      ],
+      "boundary": "Familienleben ist nur teilweise anschlussfähig: GS betont historischen Wandel, FSP Strukturen und Aufgabenverteilung. Sprachliche Umgangsformen besitzen zusätzliche Deutsch-Anschlüsse."
+    },
+    {
+      "fsp_area_id": "page146_40047",
+      "grade": "3/4",
+      "title": "Lernbereich 4: Mach mit, bleib fit 70 Ustd.",
+      "inventory_rows": 11,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40335",
+          "grade": "3/4",
+          "label": "Kennen der Bedeutung der Sinnesorgane",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40335",
+          "level": 1,
+          "overarching_goal_id": "page146_40335",
+          "overarching_goal": "Kennen der Bedeutung der Sinnesorgane"
+        },
+        {
+          "id": "page146_40337",
+          "grade": "3/4",
+          "label": "Übertragen des Wissens über gesundheitsfördernde Verhaltensweisen auf die Entwicklung von Gewohnheiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40337",
+          "level": 1,
+          "overarching_goal_id": "page146_40337",
+          "overarching_goal": "Übertragen des Wissens über gesundheitsfördernde Verhaltensweisen auf die Entwicklung von Gewohnheiten"
+        },
+        {
+          "id": "page146_40351",
+          "grade": "3/4",
+          "label": "Sich positionieren zu Ernährungsgewohnheiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40351",
+          "level": 1,
+          "overarching_goal_id": "page146_40351",
+          "overarching_goal": "Sich positionieren zu Ernährungsgewohnheiten"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_6015",
+          "grade": "3",
+          "label": "Kennen der Sinnesorgane",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6015",
+          "level": 1,
+          "overarching_goal_id": "page80_6015",
+          "overarching_goal": "Kennen der Sinnesorgane",
+          "gs_area": "LB2"
+        },
+        {
+          "id": "page80_5624",
+          "grade": "1/2",
+          "label": "Zusammenhang zwischen Körperhygiene und Gesundheit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5624",
+          "level": 2,
+          "overarching_goal_id": "page80_5623",
+          "overarching_goal": "Kennen von wichtigen Verhaltensweisen für die eigene Gesundheit",
+          "gs_area": "LB2"
+        },
+        {
+          "id": "page80_6286",
+          "grade": "4",
+          "label": "Sich positionieren zu gesunder Lebensweise",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6286",
+          "level": 1,
+          "overarching_goal_id": "page80_6286",
+          "overarching_goal": "Sich positionieren zu gesunder Lebensweise",
+          "gs_area": "LB2"
+        }
+      ],
+      "boundary": "Sinnesorgane, Gesundheit und Ernährung besitzen SU-Gegenbezüge in unterschiedlichen Klassen. Kennen, Gewohnheitsentwicklung und Positionieren nicht gleichsetzen."
+    },
+    {
+      "fsp_area_id": "page146_40050",
+      "grade": "3/4",
+      "title": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+      "inventory_rows": 41,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40359",
+          "grade": "3/4",
+          "label": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40359",
+          "level": 1,
+          "overarching_goal_id": "page146_40359",
+          "overarching_goal": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt"
+        },
+        {
+          "id": "page146_40395",
+          "grade": "3/4",
+          "label": "Einblick gewinnen in wichtige öffentliche und soziale Einrichtungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40395",
+          "level": 1,
+          "overarching_goal_id": "page146_40395",
+          "overarching_goal": "Einblick gewinnen in wichtige öffentliche und soziale Einrichtungen"
+        },
+        {
+          "id": "page146_40405",
+          "grade": "3/4",
+          "label": "Anwenden von Wissen über verkehrssicheres Verhalten als Fußgänger und Radfahrer",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40405",
+          "level": 1,
+          "overarching_goal_id": "page146_40405",
+          "overarching_goal": "Anwenden von Wissen über verkehrssicheres Verhalten als Fußgänger und Radfahrer"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_5796",
+          "grade": "1/2",
+          "label": "Orientieren am Tagesablauf",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5796",
+          "level": 2,
+          "overarching_goal_id": "page80_5787",
+          "overarching_goal": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "gs_area": "LB5"
+        },
+        {
+          "id": "page80_5799",
+          "grade": "1/2",
+          "label": "öffentliche Einrichtungen im Schul- und Wohnumfeld",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5799",
+          "level": 2,
+          "overarching_goal_id": "page80_5787",
+          "overarching_goal": "Kennen der Lernumgebung und des regionalen Umfeldes",
+          "gs_area": "LB5"
+        },
+        {
+          "id": "page80_6149",
+          "grade": "3",
+          "label": "Anwenden von Regeln zur Verkehrssicherheit als Fußgänger und Radfahrer",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6149",
+          "level": 1,
+          "overarching_goal_id": "page80_6149",
+          "overarching_goal": "Anwenden von Regeln zur Verkehrssicherheit als Fußgänger und Radfahrer",
+          "gs_area": "LB5"
+        }
+      ],
+      "boundary": "Zeit, Einrichtungen und Verkehr sind in SU verankert; teilweise stufenübergreifender Bezug zu GS 1/2."
+    },
+    {
+      "fsp_area_id": "page146_40054",
+      "grade": "3/4",
+      "title": "Lernbereich 6: Natur entdecken und erleben 120 Ustd.",
+      "inventory_rows": 37,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40423",
+          "grade": "3/4",
+          "label": "Kennen typischer Wettererscheinungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40423",
+          "level": 1,
+          "overarching_goal_id": "page146_40423",
+          "overarching_goal": "Kennen typischer Wettererscheinungen"
+        },
+        {
+          "id": "page146_40444",
+          "grade": "3/4",
+          "label": "Einblick gewinnen in den Kreislauf des Wassers",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40444",
+          "level": 1,
+          "overarching_goal_id": "page146_40444",
+          "overarching_goal": "Einblick gewinnen in den Kreislauf des Wassers"
+        },
+        {
+          "id": "page146_40446",
+          "grade": "3/4",
+          "label": "Einblick gewinnen in den Lebensraum Wald",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40446",
+          "level": 1,
+          "overarching_goal_id": "page146_40446",
+          "overarching_goal": "Einblick gewinnen in den Lebensraum Wald"
+        },
+        {
+          "id": "page146_40463",
+          "grade": "3/4",
+          "label": "Kennen weiterer Pflanzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40463",
+          "level": 1,
+          "overarching_goal_id": "page146_40463",
+          "overarching_goal": "Kennen weiterer Pflanzen"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_6070",
+          "grade": "3",
+          "label": "Kennen von Möglichkeiten, sich über Wetter zu informieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6070",
+          "level": 1,
+          "overarching_goal_id": "page80_6070",
+          "overarching_goal": "Kennen von Möglichkeiten, sich über Wetter zu informieren",
+          "gs_area": "LB4"
+        },
+        {
+          "id": "page80_6089",
+          "grade": "3",
+          "label": "Übertragen des Wissens über Zustandsänderungen des Wassers auf den Kreislauf des Wassers in der Natur",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6089",
+          "level": 1,
+          "overarching_goal_id": "page80_6089",
+          "overarching_goal": "Übertragen des Wissens über Zustandsänderungen des Wassers auf den Kreislauf des Wassers in der Natur",
+          "gs_area": "LB4"
+        },
+        {
+          "id": "page80_6295",
+          "grade": "4",
+          "label": "Kennen des Waldes als Lebensgemeinschaft durch Exkursion",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6295",
+          "level": 1,
+          "overarching_goal_id": "page80_6295",
+          "overarching_goal": "Kennen des Waldes als Lebensgemeinschaft durch Exkursion",
+          "gs_area": "LB3"
+        },
+        {
+          "id": "page80_6036",
+          "grade": "3",
+          "label": "Kennen des Anbaus von Getreide und Kartoffel sowie deren Verwendung als Grundnahrungsmittel",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6036",
+          "level": 1,
+          "overarching_goal_id": "page80_6036",
+          "overarching_goal": "Kennen des Anbaus von Getreide und Kartoffel sowie deren Verwendung als Grundnahrungsmittel",
+          "gs_area": "LB3"
+        }
+      ],
+      "boundary": "Wetter, Wasserkreislauf, Wald und Nutzpflanzen besitzen konkrete SU-Gegenbezüge; Umfang und Erkenntnistiefe unterscheiden sich."
+    },
+    {
+      "fsp_area_id": "page146_40056",
+      "grade": "3/4",
+      "title": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+      "inventory_rows": 8,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "label": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "level": 1,
+          "overarching_goal_id": "page146_40480",
+          "overarching_goal": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186707",
+          "grade": "3",
+          "label": "Kennen wesentlicher Merkmale ausgewählter Texte",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186707",
+          "level": 1,
+          "overarching_goal_id": "page908_186707",
+          "overarching_goal": "Kennen wesentlicher Merkmale ausgewählter Texte"
+        },
+        {
+          "id": "page908_186733",
+          "grade": "3",
+          "label": "Kennen weiterer Kinderbücher",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186733",
+          "level": 1,
+          "overarching_goal_id": "page908_186733",
+          "overarching_goal": "Kennen weiterer Kinderbücher"
+        },
+        {
+          "id": "page908_186985",
+          "grade": "4",
+          "label": "Kennen weiterer Kinderbücher",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186985",
+          "level": 1,
+          "overarching_goal_id": "page908_186985",
+          "overarching_goal": "Kennen weiterer Kinderbücher"
+        }
+      ],
+      "boundary": "Literatur hat Gegenanker in GS Deutsch 3 und 4; Inhaltswiedergabe, Deutung und Positionierung bleiben unterschiedliche Anforderungen."
+    },
+    {
+      "fsp_area_id": "page146_40058",
+      "grade": "3/4",
+      "title": "Wahlbereich 1: Feuer – Wasser – Erde – Luft",
+      "inventory_rows": 16,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40495",
+          "grade": "3/4",
+          "label": "Nutzen und Gefahr von Feuer",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40495",
+          "level": 2,
+          "overarching_goal_id": "page146_40492",
+          "overarching_goal": "Einblick gewinnen in die vier Elemente"
+        },
+        {
+          "id": "page146_40501",
+          "grade": "3/4",
+          "label": "Wasser als Naturkraft",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40501",
+          "level": 2,
+          "overarching_goal_id": "page146_40492",
+          "overarching_goal": "Einblick gewinnen in die vier Elemente"
+        },
+        {
+          "id": "page146_40506",
+          "grade": "3/4",
+          "label": "Erde",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40506",
+          "level": 2,
+          "overarching_goal_id": "page146_40492",
+          "overarching_goal": "Einblick gewinnen in die vier Elemente"
+        },
+        {
+          "id": "page146_40510",
+          "grade": "3/4",
+          "label": "Luft",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40510",
+          "level": 2,
+          "overarching_goal_id": "page146_40492",
+          "overarching_goal": "Einblick gewinnen in die vier Elemente"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_6322",
+          "grade": "4",
+          "label": "Kennen des Einflusses von Feuer auf das Leben der Menschen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6322",
+          "level": 1,
+          "overarching_goal_id": "page80_6322",
+          "overarching_goal": "Kennen des Einflusses von Feuer auf das Leben der Menschen",
+          "gs_area": "LB4"
+        },
+        {
+          "id": "page80_5925",
+          "grade": "1/2",
+          "label": "Einblick gewinnen in die Bedeutung von Wind und Wasser als Naturkräfte",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5925",
+          "level": 1,
+          "overarching_goal_id": "page80_5925",
+          "overarching_goal": "Einblick gewinnen in die Bedeutung von Wind und Wasser als Naturkräfte",
+          "gs_area": "WB6"
+        },
+        {
+          "id": "page80_6306",
+          "grade": "4",
+          "label": "Einblick gewinnen in die Bedeutung des Bodens",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6306",
+          "level": 1,
+          "overarching_goal_id": "page80_6306",
+          "overarching_goal": "Einblick gewinnen in die Bedeutung des Bodens",
+          "gs_area": "LB3"
+        },
+        {
+          "id": "page80_5741",
+          "grade": "1/2",
+          "label": "Kennen wesentlicher Eigenschaften der Luft durch Probieren und Experimentieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5741",
+          "level": 1,
+          "overarching_goal_id": "page80_5741",
+          "overarching_goal": "Kennen wesentlicher Eigenschaften der Luft durch Probieren und Experimentieren",
+          "gs_area": "LB4"
+        }
+      ],
+      "boundary": "Feuer, Wasser, Erde/Boden und Luft verteilen sich auf SU 1/2 bis 4. Wasser als Naturkraft ist hier ein GS-Wahlbereich; Erdeformen ist nicht durch Bodenwissen insgesamt abgedeckt."
+    },
+    {
+      "fsp_area_id": "page146_40061",
+      "grade": "3/4",
+      "title": "Wahlbereich 2: Walderlebnisse",
+      "inventory_rows": 11,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40514",
+          "grade": "3/4",
+          "label": "Einblick gewinnen in Arbeiten für den Wald unter dem Aspekt einer nachhaltigen Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40514",
+          "level": 1,
+          "overarching_goal_id": "page146_40514",
+          "overarching_goal": "Einblick gewinnen in Arbeiten für den Wald unter dem Aspekt einer nachhaltigen Entwicklung"
+        },
+        {
+          "id": "page146_40520",
+          "grade": "3/4",
+          "label": "Kennen ausgewählter Nutzhölzer und deren Verwendung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40520",
+          "level": 1,
+          "overarching_goal_id": "page146_40520",
+          "overarching_goal": "Kennen ausgewählter Nutzhölzer und deren Verwendung"
+        },
+        {
+          "id": "page146_40526",
+          "grade": "3/4",
+          "label": "Einblick gewinnen in den Weg vom Baum zum Holzprodukt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40526",
+          "level": 1,
+          "overarching_goal_id": "page146_40526",
+          "overarching_goal": "Einblick gewinnen in den Weg vom Baum zum Holzprodukt"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_6318",
+          "grade": "4",
+          "label": "Beurteilen von Verhaltensweisen des Menschen in der Natur",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6318",
+          "level": 1,
+          "overarching_goal_id": "page80_6318",
+          "overarching_goal": "Beurteilen von Verhaltensweisen des Menschen in der Natur",
+          "gs_area": "LB3"
+        },
+        {
+          "id": "page80_6302",
+          "grade": "4",
+          "label": "Bedeutung des Waldes für Mensch und Tier",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6302",
+          "level": 2,
+          "overarching_goal_id": "page80_6295",
+          "overarching_goal": "Kennen des Waldes als Lebensgemeinschaft durch Exkursion",
+          "gs_area": "LB3"
+        },
+        {
+          "id": "page80_6180",
+          "grade": "3",
+          "label": "Einblick gewinnen in jahrhundertelange Nutzung ausgewählter Pflanzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6180",
+          "level": 1,
+          "overarching_goal_id": "page80_6180",
+          "overarching_goal": "Einblick gewinnen in jahrhundertelange Nutzung ausgewählter Pflanzen",
+          "gs_area": "WB2"
+        },
+        {
+          "id": "page80_6393",
+          "grade": "4",
+          "label": "Einblick gewinnen in den Herstellungsprozess eines Produktes an einem Beispiel",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6393",
+          "level": 1,
+          "overarching_goal_id": "page80_6393",
+          "overarching_goal": "Einblick gewinnen in den Herstellungsprozess eines Produktes an einem Beispiel",
+          "gs_area": "WB4"
+        }
+      ],
+      "boundary": "Waldschutz und Rohstoffherkunft besitzen Pflichtbezüge. Nutzholzverwendung und Herstellungsweg sind nur bedingt über passende GS-Wahlbereiche und denselben gewählten Gegenstand anschlussfähig."
+    },
+    {
+      "fsp_area_id": "page146_40063",
+      "grade": "3/4",
+      "title": "Wahlbereich 3: Bei uns entdeckt: Burgen, Schlösser ...",
+      "inventory_rows": 10,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40531",
+          "grade": "3/4",
+          "label": "Kennen und Erleben einer historischen Anlage in der Region",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40531",
+          "level": 1,
+          "overarching_goal_id": "page146_40531",
+          "overarching_goal": "Kennen und Erleben einer historischen Anlage in der Region"
+        },
+        {
+          "id": "page146_40542",
+          "grade": "3/4",
+          "label": "Sich positionieren zur Pflege und Erhaltung historischer Gebäude",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40542",
+          "level": 1,
+          "overarching_goal_id": "page146_40542",
+          "overarching_goal": "Sich positionieren zur Pflege und Erhaltung historischer Gebäude"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page80_6405",
+          "grade": "4",
+          "label": "Kennen einer historischen Anlage der Region",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6405",
+          "level": 1,
+          "overarching_goal_id": "page80_6405",
+          "overarching_goal": "Kennen einer historischen Anlage der Region",
+          "gs_area": "WB5"
+        },
+        {
+          "id": "page80_6407",
+          "grade": "4",
+          "label": "Sich positionieren zur Erhaltung der Schlösser, Burgen und Gärten in der Region",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6407",
+          "level": 1,
+          "overarching_goal_id": "page80_6407",
+          "overarching_goal": "Sich positionieren zur Erhaltung der Schlösser, Burgen und Gärten in der Region",
+          "gs_area": "WB5"
+        }
+      ],
+      "boundary": "Historische Anlage und Erhaltung besitzen konkrete Gegenanker in GS Klasse 4, Wahlbereich 5. Auswahl beider Wahlbereiche und derselben Anlage erforderlich."
+    },
+    {
+      "fsp_area_id": "page146_40067",
+      "grade": "3/4",
+      "title": "Wahlbereich 4: Wir spielen Theater",
+      "inventory_rows": 11,
+      "status": "Gegenbezug vorhanden; keine Vollabdeckung festgestellt",
+      "fsp_evidence": [
+        {
+          "id": "page146_40550",
+          "grade": "3/4",
+          "label": "Übertragen des Inhalts auf das szenische Gestalten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40550",
+          "level": 1,
+          "overarching_goal_id": "page146_40550",
+          "overarching_goal": "Übertragen des Inhalts auf das szenische Gestalten"
+        }
+      ],
+      "gs_counter_evidence": [
+        {
+          "id": "page908_186749",
+          "grade": "3",
+          "label": "Vertiefen szenischen Gestaltens von Texten unterschiedlicher medialer Form",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186749",
+          "level": 2,
+          "overarching_goal_id": "page908_186746",
+          "overarching_goal": "Kennen von Möglichkeiten des Präsentierens"
+        },
+        {
+          "id": "page908_186847",
+          "grade": "4",
+          "label": "Beherrschen bekannter Ausdrucks- und Gestaltungsmittel beim Sprechen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186847",
+          "level": 1,
+          "overarching_goal_id": "page908_186847",
+          "overarching_goal": "Beherrschen bekannter Ausdrucks- und Gestaltungsmittel beim Sprechen"
+        }
+      ],
+      "boundary": "Szenisches Gestalten ist in GS Deutsch verankert. FSP-Wahlbereich, Rollenbeitrag und jeweilige Anforderungen bleiben getrennt."
+    }
+  ],
+  "limitations": [
+    "Keine abschließende Einzelentscheidung über alle 451 FSP-Zeilen; die Bereichsprüfung ist vollständig, die zeilenweise Vollabdeckungsprüfung nicht.",
+    "Explizite Kartenreferenzen sind kein Deckungsmaß. Die vier zuvor im Deutschmodul unreferenzierten Bereiche dürfen im erweiterten Vergleich nicht als fehlend bezeichnet werden.",
+    "Bemerkungen sind Hinweise und Beispiele, keine zusätzlich erfundenen Pflichtziele. Wahlbereiche gelten nur bei tatsächlicher Wahl.",
+    "Gleicher Gegenstand ist keine Gleichheit von Operatoren oder Kriterien. Aufgaben/Lernhandlungen und Hilfsmittel werden hier nicht vorgeschlagen oder befüllt."
+  ],
+  "forward_audit_unchanged": {
+    "last_batch": "DE-UZ-037",
+    "next_id": "page908_186876",
+    "pending": 28,
+    "uncertain": 15
+  },
+  "specific_boundaries": [
+    {
+      "id": "R-01",
+      "fsp_ids": [
+        "page146_40240"
+      ],
+      "gs_candidates": [
+        "page908_186349",
+        "page908_186365",
+        "page908_186618"
+      ],
+      "status": "Kein eigenständiger spezifischer GS-Zielanker festgestellt",
+      "finding": "Die Unterschrift ist im FSP 3/4 ausdrücklich als Unterinhalt persönlicher Angaben genannt. Begriffsklärung, Bedeutung und Anwendungsmöglichkeiten stehen in der Bemerkungsspalte. GS-Deutsch-Ziele zu individuellen Wörtern, adressatengerechtem Schreiben und Schreibfunktionen ermöglichen einen Zugang, sichern diesen speziellen Gegenstand aber nicht ausdrücklich. Keine Behauptung eines fehlenden gesamten Schreibbereichs.",
+      "scope_limit": "Einzelbefund zur ausdrücklichen Ausweisung im Fachlehrplan; keine Aussage über tatsächliche Unterrichtspraxis oder andere GS-Fächer."
+    },
+    {
+      "id": "R-02",
+      "fsp_ids": [
+        "page146_40263",
+        "page146_40265",
+        "page146_40277",
+        "page146_40279",
+        "page146_40281"
+      ],
+      "gs_candidates": [
+        "page80_6263",
+        "page80_6266",
+        "page908_186275",
+        "page908_186538"
+      ],
+      "status": "Teilbezug; spezifischer Restumfang",
+      "finding": "GS-SU 4 behandelt Familienveränderungen im historischen Vergleich. Das ist kein vollständiger Nachweis für FSP-Generationenbeziehungen, familiäres Begriffswissen und das Planen/Ordnen eigener Aufgaben. Sprachziele tragen die Darstellung, ersetzen aber das Strukturwissen nicht. Familienstammbäume und Verwandtschaftsgrade sind im FSP Bemerkungen und werden nicht als zusätzliches Pflichtziel ausgegeben.",
+      "scope_limit": "Der Bereich Familie fehlt nicht vollständig. Die verbleibenden FSP-Unteranforderungen sind nicht pauschal durch den GS-Gegenanker erfüllt."
+    },
+    {
+      "id": "R-03",
+      "fsp_ids": [
+        "page146_40520",
+        "page146_40521",
+        "page146_40526"
+      ],
+      "gs_candidates": [
+        "page80_6302",
+        "page80_6318",
+        "page80_6180",
+        "page80_6393",
+        "page80_6395"
+      ],
+      "status": "Pflichtbezüge begrenzt; weitere Anschlüsse wahlabhängig",
+      "finding": "Der Wald als Rohstoffquelle und Waldschutz sind in GS-SU vorhanden. Spezifische Nutzholzverwendung und die Verarbeitungskette sind bedingt über GS3-WB2 bzw. GS4-WB4 anschlussfähig, wenn der passende Pflanzen- bzw. Holzgegenstand tatsächlich gewählt ist. GS nennt Baumaterial bei Jahrtausendpflanzen als Bemerkungsbeispiel; das begründet keine Pflicht zur Nutzhölzerkunde für alle Kinder. Aufforstung, Anbau und Pflege sind als konkreter FSP-Restumfang festzuhalten.",
+      "scope_limit": "Keine vollständige Lücke des FSP-Wahlbereichs Walderlebnisse und keine pauschale Deckung aller Forstwirtschaftsanforderungen."
+    },
+    {
+      "id": "R-04",
+      "fsp_ids": [
+        "page146_40088",
+        "page146_40095"
+      ],
+      "gs_candidates": [
+        "page908_186317",
+        "page908_186402",
+        "page908_186408"
+      ],
+      "status": "Stufenübergreifender Gegenbezug",
+      "finding": "Basale Sprachwahrnehmung und Buchstabenkenntnis werden im FSP-Band 3/4 weiterhin ausdrücklich geführt; entsprechende GS-Ziele liegen bereits in 1/2. Die Anforderungen sind deshalb nicht insgesamt fehlend, aber nicht als neu eingeführtes gleichjähriges GS3/4-Ziel anzusetzen.",
+      "scope_limit": "Entwicklungsstand und Operatoren gesondert prüfen; keine Gleichsetzung von Klassenjahrgang und FSP-Band."
+    },
+    {
+      "id": "R-05",
+      "fsp_ids": [
+        "page146_39934",
+        "page146_39949"
+      ],
+      "gs_candidates": [
+        "page908_186472",
+        "page908_186385"
+      ],
+      "status": "Gegenbezug mit unterschiedlicher Verbindlichkeit und Detailtiefe",
+      "finding": "Die Herstellung eines Buches ist im FSP-Wahlbereich als konkreter Inhalt enthalten. GS Deutsch 1/2 nennt Präsentationsformen und formale Gestaltung; eigene Text-Bild-Produkte einschließlich Faltbuch stehen als Bemerkungsbeispiele. Damit ist Buchgestaltung kein vollständig fehlender Bereich, die gesamte Herstellungsschrittfolge aber kein ausdrücklich identischer GS-Pflichtinhalt.",
+      "scope_limit": "Die Wahl von Aufgaben, Lernhandlungen, Techniken und Hilfsmitteln bleibt bei der Lehrkraft."
+    }
+  ],
+  "validation": {
+    "result": "PASS",
+    "checks": [
+      "22 eindeutige FSP-Bereich-Band-Kombinationen; 451 Inventurzeilen vollständig in der Bereichsmatrix berücksichtigt.",
+      "Alle verwendeten IDs, Klassen/Bänder und übergeordneten Ziele gegen Inventuren geprüft; FSP- und Deutsch-HTML-Anker geprüft.",
+      "GS-SU-Anker gegen Repository-Inventur; Inhalte und Spaltenstatus an der amtlichen aktuellen Webquelle gegengeprüft. Kein neuer vollständiger SU-HTML-Snapshot gespeichert.",
+      "11 Ausgangsdateien anhand ihrer Git-Blob-SHAs gegen main geprüft.",
+      "Nur Audit-JSON und README geändert; App, Karten, Sachunterricht-Baseline, Vorwärtsprüfstände und Quelleninventuren unverändert. Keine App-Versionssteigerung."
+    ],
+    "not_run": "scripts/check-deutsch.py und scripts/prepare-pages.py nicht ausgeführt: reine Auditdokumentation ohne App-/Moduländerung; gezielte Node-Daten-, Anker- und Bestandsprüfungen durchgeführt."
+  }
+}
