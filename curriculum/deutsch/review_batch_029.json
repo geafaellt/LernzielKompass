@@ -1,0 +1,857 @@
+{
+  "batch": "DE-UZ-029",
+  "date": "2026-11-01",
+  "source_commit": "8bfed19a008f91ff4edd0fc985a5a7b87c390f18",
+  "entries": [
+    {
+      "gs_id": "page908_186591",
+      "target": "Wortebene",
+      "classification": "Gliederungszeile unter einem Lehrplanziel",
+      "level": 2,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "",
+      "decision": "Gliederungszeile: begrenzte Ausschnitte zugeordnet",
+      "reason": "Wortebene bündelt die folgenden Inhalte ohne eigenen Operator. Nur die Ausschnitte Doppelkonsonanten und Stammkonstanz bei Auslautverhärtung werden über DE-025 nachgewiesen. Die weiteren Einzelzeilen 593/595/596 bleiben ausdrücklich nicht angeschlossen.",
+      "cards": [
+        "DE-025"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "shared_objects": [
+        "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an bekannten Zweisilbern die Doppelkonsonantenschreibung erläutern und an einem bekannten Wortpaar mit Auslautverhärtung die gleichbleibende Stammschreibung erklären. Anforderungsniveau: Kennen.",
+          "criterion": "Am erarbeiteten Zweisilber wird der Doppelkonsonant mit der kurzen betonten Vokalqualität verbunden, ohne zwei hörbare Konsonanten zu behaupten. Am erarbeiteten Wortpaar wird die gleichbleibende Schreibung trotz unterschiedlicher Aussprache zutreffend erklärt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können an ausgewählten bekannten Wörtern erste Unterschiede zwischen Sprech- und Schreibweise bei Doppelkonsonanten und Auslautverhärtung wahrnehmen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine zutreffende Beobachtung zur doppelten Buchstabenschreibung oder zur Abweichung zwischen gesprochenem Auslaut und geschriebenem Buchstaben wird erkennbar. Weder ein vollständig erklärtes Silbenmodell noch die selbstständige Ableitung unbekannter Schreibungen wird verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "Wortebene bündelt die folgenden Inhalte ohne eigenen Operator. Nur die Ausschnitte Doppelkonsonanten und Stammkonstanz bei Auslautverhärtung werden über DE-025 nachgewiesen. Die weiteren Einzelzeilen 593/595/596 bleiben ausdrücklich nicht angeschlossen.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186592",
+      "target": "Zweisilber mit Doppelkonsonanten",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "auch besondere Silbengelenke <ck> und <tz>",
+      "decision": "bestehenden begrenzten Anschluss präzisiert",
+      "reason": "FSP40226 führt doppelte Konsonanten in den Bemerkungen zum Einblicksziel auf. Dies trägt den gemeinsamen Wortgegenstand, nicht den vollständigen GS-Silbengelenkansatz. Gewöhnliche Doppelkonsonanten bleiben zugeordnet; ck/tz und die systematische Erklärung des Silbenmodells werden nicht als FSP-Anforderung behauptet. Die Kriterien unterscheiden GS-Erklärung und FSP-Erstbeobachtung; zwei hörbare Konsonanten werden nicht unterstellt.",
+      "cards": [
+        "DE-025"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "shared_objects": [
+        "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an bekannten Zweisilbern die Doppelkonsonantenschreibung erläutern und an einem bekannten Wortpaar mit Auslautverhärtung die gleichbleibende Stammschreibung erklären. Anforderungsniveau: Kennen.",
+          "criterion": "Am erarbeiteten Zweisilber wird der Doppelkonsonant mit der kurzen betonten Vokalqualität verbunden, ohne zwei hörbare Konsonanten zu behaupten. Am erarbeiteten Wortpaar wird die gleichbleibende Schreibung trotz unterschiedlicher Aussprache zutreffend erklärt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können an ausgewählten bekannten Wörtern erste Unterschiede zwischen Sprech- und Schreibweise bei Doppelkonsonanten und Auslautverhärtung wahrnehmen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine zutreffende Beobachtung zur doppelten Buchstabenschreibung oder zur Abweichung zwischen gesprochenem Auslaut und geschriebenem Buchstaben wird erkennbar. Weder ein vollständig erklärtes Silbenmodell noch die selbstständige Ableitung unbekannter Schreibungen wird verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "FSP40226 führt doppelte Konsonanten in den Bemerkungen zum Einblicksziel auf. Dies trägt den gemeinsamen Wortgegenstand, nicht den vollständigen GS-Silbengelenkansatz. Gewöhnliche Doppelkonsonanten bleiben zugeordnet; ck/tz und die systematische Erklärung des Silbenmodells werden nicht als FSP-Anforderung behauptet. Die Kriterien unterscheiden GS-Erklärung und FSP-Erstbeobachtung; zwei hörbare Konsonanten werden nicht unterstellt.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186593",
+      "target": "Zweisilber mit silbentrennendem <h>",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "leseerleichternde Funktion entdecken",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Die GS verlangt Kenntnis des silbentrennenden h und seiner leseerleichternden Funktion. Das FSP-Dehnungs-h in 40226 ist ein anderes Phänomen. Der Rechtschreibrahmen trennt das h am Beginn der zweiten Silbe von der zusätzlichen Längenmarkierung vor l/m/n/r. Allgemeine Struktureinsicht oder Sprech-/Schreibvergleiche belegen diese spezifische Funktion nicht.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_grade": "3",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren gelten nur im jeweiligen Kandidaten-Elternziel; kein Anschluss bestätigt."
+        }
+      ],
+      "residual_scope": "Die GS verlangt Kenntnis des silbentrennenden h und seiner leseerleichternden Funktion. Das FSP-Dehnungs-h in 40226 ist ein anderes Phänomen. Der Rechtschreibrahmen trennt das h am Beginn der zweiten Silbe von der zusätzlichen Längenmarkierung vor l/m/n/r. Allgemeine Struktureinsicht oder Sprech-/Schreibvergleiche belegen diese spezifische Funktion nicht.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186594",
+      "target": "Konstanthaltung von Wortstämmen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "er packt, weil pack-en Reh, weil Reh-e Auslautverhärtung: stündlich, weil Stund-e",
+      "decision": "bestehenden begrenzten Anschluss präzisiert",
+      "reason": "Auslautverhärtung ist in der FSP-Bemerkung ausdrücklich genannt; gemeinsame verwandte Wortformen sind damit begründet. GS erklärt im bekannten Fall die gleichbleibende Stammschreibung; FSP nimmt eine Sprech-/Schreibabweichung wahr. FSP-Wortbausteine beim Erlesen unbekannter Wörter belegen keine orthografische Ableitungsstrategie. Stammkonstanz bei allen Markierungen, darunter vererbtes h und ck/tz, bleibt Restumfang.",
+      "cards": [
+        "DE-025"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [
+        "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an bekannten Zweisilbern die Doppelkonsonantenschreibung erläutern und an einem bekannten Wortpaar mit Auslautverhärtung die gleichbleibende Stammschreibung erklären. Anforderungsniveau: Kennen.",
+          "criterion": "Am erarbeiteten Zweisilber wird der Doppelkonsonant mit der kurzen betonten Vokalqualität verbunden, ohne zwei hörbare Konsonanten zu behaupten. Am erarbeiteten Wortpaar wird die gleichbleibende Schreibung trotz unterschiedlicher Aussprache zutreffend erklärt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können an ausgewählten bekannten Wörtern erste Unterschiede zwischen Sprech- und Schreibweise bei Doppelkonsonanten und Auslautverhärtung wahrnehmen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine zutreffende Beobachtung zur doppelten Buchstabenschreibung oder zur Abweichung zwischen gesprochenem Auslaut und geschriebenem Buchstaben wird erkennbar. Weder ein vollständig erklärtes Silbenmodell noch die selbstständige Ableitung unbekannter Schreibungen wird verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "Auslautverhärtung ist in der FSP-Bemerkung ausdrücklich genannt; gemeinsame verwandte Wortformen sind damit begründet. GS erklärt im bekannten Fall die gleichbleibende Stammschreibung; FSP nimmt eine Sprech-/Schreibabweichung wahr. FSP-Wortbausteine beim Erlesen unbekannter Wörter belegen keine orthografische Ableitungsstrategie. Stammkonstanz bei allen Markierungen, darunter vererbtes h und ck/tz, bleibt Restumfang.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186595",
+      "target": "Formen der Wortbildung",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "Zusammensetzungen: Vertretungsplan, hellblau, Betttuch Ableitungen: Vertretung, Gesundheit, verschiebbar",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "GS behandelt die Bildung und Schreibung zusammengesetzter und abgeleiteter Wörter. FSP40116 betrifft das ganzheitliche Erlesen häufiger Wortteile; FSP40218 nennt Zusammensetzungen nur als Kontext der Worttrennung. Beides belegt weder Kenntnis der Wortbildungsformen noch der Schreibungen an Morphemgrenzen. Ein gemeinsames Wort allein reicht als Anschluss nicht aus.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40218",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Silbentrennung",
+          "remarks": "Trennungsregeln: Zeilenende, Zusammensetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40218",
+          "parent_target_id": "page146_40218"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_grade": "3",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren gelten nur im jeweiligen Kandidaten-Elternziel; kein Anschluss bestätigt."
+        }
+      ],
+      "residual_scope": "GS behandelt die Bildung und Schreibung zusammengesetzter und abgeleiteter Wörter. FSP40116 betrifft das ganzheitliche Erlesen häufiger Wortteile; FSP40218 nennt Zusammensetzungen nur als Kontext der Worttrennung. Beides belegt weder Kenntnis der Wortbildungsformen noch der Schreibungen an Morphemgrenzen. Ein gemeinsames Wort allein reicht als Anschluss nicht aus.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186596",
+      "target": "Großschreibung als kommunikative Markierung",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "Anredepronomina",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Die GS-Bemerkung präzisiert die kommunikative Großschreibung von Anredepronomina. FSP-Personalpronomen als Ersatz für Substantive belegen diese Höflichkeitsmarkierung nicht. Auch Großschreibung von Substantiven/Satzanfängen und allgemeines normgerechtes Schreiben sind kein spezifischer Beleg.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40192",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Wortart Personalpronomen",
+          "remarks": "lateinische und/oder deutsche Bezeichnung verwenden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40192",
+          "parent_target_id": "page146_40192"
+        },
+        {
+          "id": "page146_40194",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Ersatz für Substantive",
+          "remarks": "mit Verben verbinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40194",
+          "parent_target_id": "page146_40192"
+        },
+        {
+          "id": "page146_40219",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40219",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40221",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40221",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39379",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39379",
+          "parent_target_id": "page146_39375"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_grade": "3",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren gelten nur im jeweiligen Kandidaten-Elternziel; kein Anschluss bestätigt."
+        }
+      ],
+      "residual_scope": "Die GS-Bemerkung präzisiert die kommunikative Großschreibung von Anredepronomina. FSP-Personalpronomen als Ersatz für Substantive belegen diese Höflichkeitsmarkierung nicht. Auch Großschreibung von Substantiven/Satzanfängen und allgemeines normgerechtes Schreiben sind kein spezifischer Beleg.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186597",
+      "target": "Satzebene",
+      "classification": "Gliederungszeile unter einem Lehrplanziel",
+      "level": 2,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "",
+      "decision": "Gliederungszeile: begrenzte Ausschnitte zugeordnet",
+      "reason": "Satzebene ist eine Gliederungszeile unter Kennen weiterer Regelmäßigkeiten. Zugeordnet werden ausschließlich Worttrennung am Zeilenende sowie Doppelpunkt/Anführungszeichen bei wörtlicher Rede. Damit sind weder alle Satzzeichen noch satzbezogene Großschreibung abgedeckt.",
+      "cards": [
+        "DE-114",
+        "DE-152"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40218",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Silbentrennung",
+          "remarks": "Trennungsregeln: Zeilenende, Zusammensetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40218",
+          "parent_target_id": "page146_40218"
+        },
+        {
+          "id": "page146_40202",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die wörtliche Rede",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40202",
+          "parent_target_id": "page146_40202"
+        },
+        {
+          "id": "page146_40204",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "im Text erkennen",
+          "remarks": "Doppelpunkt, Anführungszeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40204",
+          "parent_target_id": "page146_40202"
+        }
+      ],
+      "shared_objects": [
+        "Ausgewählte mehrsilbige Wörter am Zeilenende",
+        "Eine bekannte Textstelle mit vorangestelltem Begleitsatz und wörtlicher Rede"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einem bekannten mehrsilbigen Wort eine erarbeitete zulässige Trennstelle am Zeilenende und die Funktion des Trennstrichs erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Die genannte Trennstelle ist für das bekannte Wort zulässig; der Trennstrich wird als Zeichen für die Fortsetzung des Wortes in der nächsten Zeile erklärt. Keine vollständige Beherrschung aller Sonderregeln vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können an einem ausgewählten Wort erste Einsichten in eine mögliche Trennung am Zeilenende zeigen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine zulässige Trennstelle wird erkannt und die Zusammengehörigkeit der Wortteile über den Zeilenwechsel hinweg wird deutlich. Ein selbstständiger sicherer Regeltransfer auf unbekannte Wörter ist nicht verlangt."
+        },
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einer bekannten Textstelle die ankündigende Funktion des Doppelpunkts und die Kennzeichnung der wörtlichen Rede durch paarige Anführungszeichen erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Doppelpunkt und beide Anführungszeichen werden zutreffend bezeichnet; die angekündigte Äußerung und ihr Anfang und Ende sind richtig zugeordnet. Die jeweilige Zeichenfunktion wird am erarbeiteten Beispiel erklärt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können in einer ausgewählten Textstelle wörtliche Rede an Doppelpunkt und Anführungszeichen erkennen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine Äußerung wird als wörtliche Rede erkannt; die zugehörigen Zeichen und der von den Anführungszeichen umschlossene Wortlaut werden zutreffend zugeordnet. Eigenständiges korrektes Verschriften sämtlicher Formen wörtlicher Rede wird nicht verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "Satzebene ist eine Gliederungszeile unter Kennen weiterer Regelmäßigkeiten. Zugeordnet werden ausschließlich Worttrennung am Zeilenende sowie Doppelpunkt/Anführungszeichen bei wörtlicher Rede. Damit sind weder alle Satzzeichen noch satzbezogene Großschreibung abgedeckt.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186598",
+      "target": "Großschreibung als satzbezogene Markierung",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "erweiterbare Kerne von Nominalgruppen mit allen Wortarten: das (schöne) Haus, das (laute) Bellen, das (leuchtende) Rot",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "GS verlangt satzbezogene Großschreibung erweiterbarer Kerne von Nominalgruppen mit allen Wortarten. FSP nennt Großschreibung von Substantiven/Satzanfängen sowie Artikelfähigkeit. Diese Wortartbezüge sind Voraussetzungen, aber kein Nachweis des syntaktischen Kernprinzips oder dessen Ausweitung auf andere Wortarten. Auch das gleiche korrekt geschriebene Nomen würde den Unterschied verdecken; daher keine scheinbare Gleichsetzung. Allgemeine Struktureinsichten im Stufenbandziel schließen die Beleglücke nicht.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39379",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39379",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40175",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Substantiv",
+          "remarks": "lateinische und/oder deutsche Bezeichnung verwenden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40175",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40177",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Bezeichnung von Lebewesen, Gegenständen und Erscheinungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40177",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40219",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40219",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40221",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40221",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40179",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikelfähigkeit",
+          "remarks": "bestimmte und unbestimmte Artikel zuordnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40179",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_grade": "3",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren gelten nur im jeweiligen Kandidaten-Elternziel; kein Anschluss bestätigt."
+        }
+      ],
+      "residual_scope": "GS verlangt satzbezogene Großschreibung erweiterbarer Kerne von Nominalgruppen mit allen Wortarten. FSP nennt Großschreibung von Substantiven/Satzanfängen sowie Artikelfähigkeit. Diese Wortartbezüge sind Voraussetzungen, aber kein Nachweis des syntaktischen Kernprinzips oder dessen Ausweitung auf andere Wortarten. Auch das gleiche korrekt geschriebene Nomen würde den Unterschied verdecken; daher keine scheinbare Gleichsetzung. Allgemeine Struktureinsichten im Stufenbandziel schließen die Beleglücke nicht.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186599",
+      "target": "grammatische Gliederungszeichen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "Komma, Doppelpunkt",
+      "decision": "begrenzter Anschluss ergänzt",
+      "reason": "FSP40204 nennt Doppelpunkt und Anführungszeichen zum Erkennen wörtlicher Rede. Der Doppelpunkt als Ankündigung einer direkten Äußerung ist ein belegter gemeinsamer Ausschnitt. Komma sowie weitere Doppelpunktfunktionen bleiben unverbunden. Kennen der Zeichenfunktion auf GS-Seite wird vom ersten Erkennen auf FSP-Seite getrennt.",
+      "cards": [
+        "DE-152"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40202",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die wörtliche Rede",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40202",
+          "parent_target_id": "page146_40202"
+        },
+        {
+          "id": "page146_40204",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "im Text erkennen",
+          "remarks": "Doppelpunkt, Anführungszeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40204",
+          "parent_target_id": "page146_40202"
+        }
+      ],
+      "shared_objects": [
+        "Eine bekannte Textstelle mit vorangestelltem Begleitsatz und wörtlicher Rede"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einer bekannten Textstelle die ankündigende Funktion des Doppelpunkts und die Kennzeichnung der wörtlichen Rede durch paarige Anführungszeichen erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Doppelpunkt und beide Anführungszeichen werden zutreffend bezeichnet; die angekündigte Äußerung und ihr Anfang und Ende sind richtig zugeordnet. Die jeweilige Zeichenfunktion wird am erarbeiteten Beispiel erklärt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können in einer ausgewählten Textstelle wörtliche Rede an Doppelpunkt und Anführungszeichen erkennen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine Äußerung wird als wörtliche Rede erkannt; die zugehörigen Zeichen und der von den Anführungszeichen umschlossene Wortlaut werden zutreffend zugeordnet. Eigenständiges korrektes Verschriften sämtlicher Formen wörtlicher Rede wird nicht verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "FSP40204 nennt Doppelpunkt und Anführungszeichen zum Erkennen wörtlicher Rede. Der Doppelpunkt als Ankündigung einer direkten Äußerung ist ein belegter gemeinsamer Ausschnitt. Komma sowie weitere Doppelpunktfunktionen bleiben unverbunden. Kennen der Zeichenfunktion auf GS-Seite wird vom ersten Erkennen auf FSP-Seite getrennt.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186600",
+      "target": "Worttrennung am Zeilenende",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "Trennstrich",
+      "decision": "bestehenden begrenzten Anschluss präzisiert",
+      "reason": "Das FSP-Einblicksziel Silbentrennung wird durch die Bemerkung Zeilenende/ Zusammensetzungen konkretisiert. Damit ist Worttrennung am Zeilenende direkt begründet. Das GS-Kriterium fordert Erklärung der bekannten Trennstelle und des Trennstrichs, FSP eine erste zutreffende Einsicht. Die bisher tautologische FSP-Kriterienformulierung ist ersetzt. Kein Beherrschen sämtlicher Sonderregeln.",
+      "cards": [
+        "DE-114"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40218",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Silbentrennung",
+          "remarks": "Trennungsregeln: Zeilenende, Zusammensetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40218",
+          "parent_target_id": "page146_40218"
+        }
+      ],
+      "shared_objects": [
+        "Ausgewählte mehrsilbige Wörter am Zeilenende"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einem bekannten mehrsilbigen Wort eine erarbeitete zulässige Trennstelle am Zeilenende und die Funktion des Trennstrichs erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Die genannte Trennstelle ist für das bekannte Wort zulässig; der Trennstrich wird als Zeichen für die Fortsetzung des Wortes in der nächsten Zeile erklärt. Keine vollständige Beherrschung aller Sonderregeln vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können an einem ausgewählten Wort erste Einsichten in eine mögliche Trennung am Zeilenende zeigen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine zulässige Trennstelle wird erkannt und die Zusammengehörigkeit der Wortteile über den Zeilenwechsel hinweg wird deutlich. Ein selbstständiger sicherer Regeltransfer auf unbekannte Wörter ist nicht verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "Das FSP-Einblicksziel Silbentrennung wird durch die Bemerkung Zeilenende/ Zusammensetzungen konkretisiert. Damit ist Worttrennung am Zeilenende direkt begründet. Das GS-Kriterium fordert Erklärung der bekannten Trennstelle und des Trennstrichs, FSP eine erste zutreffende Einsicht. Die bisher tautologische FSP-Kriterienformulierung ist ersetzt. Kein Beherrschen sämtlicher Sonderregeln.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186601",
+      "target": "kommunikative Zeichen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "Anführungszeichen der wörtlichen Rede",
+      "decision": "begrenzter Anschluss ergänzt",
+      "reason": "Anführungszeichen sind in der FSP-Bemerkung zum Erkennen wörtlicher Rede ausdrücklich belegt. Gemeinsam ist der durch ein Zeichenpaar markierte Wortlaut. GS erläutert die bekannte Funktion, FSP erkennt eine direkte Äußerung. Mündliches Rollenspiel und selbstständiges Setzen aller Redezeichen werden aus diesem Erkennensziel nicht abgeleitet.",
+      "cards": [
+        "DE-152"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40202",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die wörtliche Rede",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40202",
+          "parent_target_id": "page146_40202"
+        },
+        {
+          "id": "page146_40204",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "im Text erkennen",
+          "remarks": "Doppelpunkt, Anführungszeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40204",
+          "parent_target_id": "page146_40202"
+        }
+      ],
+      "shared_objects": [
+        "Eine bekannte Textstelle mit vorangestelltem Begleitsatz und wörtlicher Rede"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einer bekannten Textstelle die ankündigende Funktion des Doppelpunkts und die Kennzeichnung der wörtlichen Rede durch paarige Anführungszeichen erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Doppelpunkt und beide Anführungszeichen werden zutreffend bezeichnet; die angekündigte Äußerung und ihr Anfang und Ende sind richtig zugeordnet. Die jeweilige Zeichenfunktion wird am erarbeiteten Beispiel erklärt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können in einer ausgewählten Textstelle wörtliche Rede an Doppelpunkt und Anführungszeichen erkennen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine Äußerung wird als wörtliche Rede erkannt; die zugehörigen Zeichen und der von den Anführungszeichen umschlossene Wortlaut werden zutreffend zugeordnet. Eigenständiges korrektes Verschriften sämtlicher Formen wörtlicher Rede wird nicht verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "residual_scope": "Anführungszeichen sind in der FSP-Bemerkung zum Erkennen wörtlicher Rede ausdrücklich belegt. Gemeinsam ist der durch ein Zeichenpaar markierte Wortlaut. GS erläutert die bekannte Funktion, FSP erkennt eine direkte Äußerung. Mündliches Rollenspiel und selbstständiges Setzen aller Redezeichen werden aus diesem Erkennensziel nicht abgeleitet.",
+      "uncertainty": "Keine zusätzliche ungeklärte Anschlussfrage. Begrenzt belegter Anschluss bzw. begründeter Nichtanschluss; kein Vollabdeckungsanspruch und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung."
+    }
+  ],
+  "app_version": "1.281",
+  "source_verification": "Amtliche Onlinelehrpläne GS Deutsch 2026 und FSP Lernen Deutsch-HKS 2019 am 01.11.2026 mit den aktuellen Inventuren abgeglichen; Rechtschreibrahmen 2025 S. 9–12, 17–21 und 24 herangezogen. Teilpakete Wortebene (6 Zeilen) und Satzebene (5 Zeilen). FSP-Bänder 1/2 und 3/4 sowie übergreifende 3/4-Ziele zu Schriftsprache und normgerechtem Schreiben berücksichtigt; sie ersetzen keinen spezifischen tabellarischen Beleg. Wort-/Satzebene sind Gliederungszeilen, keine eigenständigen Operatorziele.",
+  "validation": "PASS: 150 eindeutige Karten, 117 Zielblöcke; Quellenanker, Elternziele, Operatoren, Stufenbänder und zwei Feinziele je Karte geprüft. Geänderte Karten besitzen eindeutige Quellen-IDs und passende Unterziel-Eltern. 147 bisherige Karten unverändert; nur DE-025/114 präzisiert, DE-152 ergänzt. Sachunterricht bytegleich zur Baseline; beide Inventuren gegen GitHub-Blob-SHAs geprüft. Deutsch-JSON identisch eingebettet; drei JavaScript-Blöcke syntaktisch geprüft. Root- und dist-Seite identisch, Berliner Aktualisierungsdatum 01.11.2026. CSV-Zählstände und eindeutige Prüf-IDs geprüft. Gleichwertige Node-Prüfungen zu scripts/check-deutsch.py und scripts/prepare-pages.py, da Python auf dem Host nicht verfügbar ist; Python-Generator nicht ausgeführt. Keine Aufgaben-/Hilfsmittelvorschläge. Liveprüfung nach Veröffentlichung noch ausstehend.",
+  "counts": {
+    "newly_reviewed": 8,
+    "reviewed_total": 125,
+    "assigned_rows_reviewed_this_batch": 3,
+    "assigned_rows_reviewed_total": 17,
+    "cards": 150,
+    "uncovered": 176,
+    "uncovered_pending_individual_review": 116,
+    "documented_no_direct_connection": 57,
+    "documented_connection_uncertain": 3,
+    "revisited_rows_this_batch": 0
+  },
+  "next_id": "page908_186615",
+  "next_target": "Aufsuchen von Wörtern nach Zweit- und Drittbuchstabe"
+}

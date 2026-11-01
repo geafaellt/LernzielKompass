@@ -230,3 +230,12 @@ Vier vorläufige Nichtanschlüsse: eigene Zuhörstrategien/Hörbedingungen, Zusa
 Daten-/Quellen-/Operatoren-/Syntaxprüfung und Sachunterricht-Vergleich bestanden. Gleichwertige Prüfung und Datumssynchronisierung mit Node, da Python nicht verfügbar ist; Python-Generator nicht ausgeführt. Nur DE-016/020 geändert, DE-151 ergänzt; übrige 146 vorhandene Karten unverändert. Kein PDF-Download-Test.
 
 Live-Browserprüfung nach Veröffentlichung bestanden: Version 1.280 und Datum 01.11.2026 sichtbar; DE-020 mit präzisierter Textanordnung sichtbar; DE-151 mit Quellen und Operatorenvergleich Übertragen/Kennen geöffnet.
+
+
+### DE-UZ-029 · 01.11.2026 · GS3 Rechtschreibung
+
+11 Zeilen einzeln geprüft: 8 zuvor offene sowie 3 zuvor zugeordnete Zeilen. Wortebene und Satzebene als Gliederungszeilen ausgewiesen. DE-025 (Doppelkonsonanten/Stammkonstanz bei Auslautverhärtung) und DE-114 (Worttrennung) präzisiert; DE-152 für Doppelpunkt und Anführungszeichen bei wörtlicher Rede ergänzt. Vier begründete Nichtanschlüsse: silbentrennendes h, Wortbildungsformen, Anredepronomina, syntaktische Großschreibung erweiterbarer Nominalgruppenkerne. FSP-Dehnungs-h, lesende Wortbausteinerkennung und Substantivgroßschreibung wurden nicht gleichgesetzt.
+
+Stand: 150 Karten; 176 Zeilen ohne Karte, davon 116 noch einzeln zu prüfen, 57 dokumentierte Nichtanschlüsse und 3 unveränderte Unsicherheiten. Kumulativ 125 zuvor offene und 17 zuvor zugeordnete Zeilen geprüft. Fortsetzung: page908_186615 „Aufsuchen von Wörtern nach Zweit- und Drittbuchstabe“. Details, Kriterien, Restumfang und Belege: review_batch_029.json. App 1.281, Modul DE-2026-11-01.5. Sachunterricht und stabile Karten-IDs erhalten; Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Validierung vor Veröffentlichung bestanden: 150 Karten und 117 Zielblöcke, Quellen/Operatoren/Stufenbänder, eingebettete Daten und drei Skripte geprüft; Sachunterricht bytegleich, 147 übrige Karten unverändert. Node-Prüfungen äquivalent zu check-deutsch.py/prepare-pages.py; Python-Generator mangels Python nicht ausgeführt. Liveprüfung steht bis zur Veröffentlichung aus.
