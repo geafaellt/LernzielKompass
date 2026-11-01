@@ -204,3 +204,5 @@ Acht offene und zwei bereits zugeordnete Zeilen geprüft (186528–186542; zehn 
 147 Karten; 189 Unterzielzeilen ohne Karte: 143 ohne Einzelprüfung, 44 dokumentierte Nichtanschlüsse, 2 geprüfte offene Anschlüsse. Insgesamt 98 zuvor offene und 9 zuvor zugeordnete Zeilen geprüft. Fortsetzung: page908_186544 (Verstehen anderer Meinungen). Offene Anschlüsse 186437/186452 bleiben erhalten. Reproduktion: batch_026_review.py und batch_026_cards.json, eingebunden in build_deutsch.py. Aufgaben/Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung.
 
 Daten-/Quellen-/Syntaxprüfung und Sachunterricht-Vergleich bestanden; Prüfinvarianten des Python-Skripts mit Node ausgeführt, da Python auf dem Host fehlt. Python-Generator nicht ausgeführt. Nur DE-004/007 geändert; übrige 143 vorhandene Karten unverändert. Kein PDF-Download-Test.
+
+Live-Browserkontrolle nach Veröffentlichung bestanden: Version 1.278 mit Datum 01.11.2026, DE-148/149 in Deutsch Klasse 3 sichtbar; DE-148 mit Quellen und Operatorenvergleich geöffnet.
