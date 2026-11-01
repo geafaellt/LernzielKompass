@@ -1,5 +1,5 @@
 from pathlib import Path
-import json,re,subprocess,tempfile
+import json,re,subprocess,tempfile,unicodedata
 root=Path(__file__).resolve().parents[1];d=root/'curriculum/deutsch'
 m=json.loads((d/'deutsch_module.json').read_text());html=(root/'dist/index.html').read_text()
 rows={k:{r['id']:r for r in json.loads((d/(k+'_inventory.json')).read_text())['rows']} for k in ['gs','fsp']}
@@ -22,6 +22,14 @@ embedded=json.loads(re.search(r'<script id="deutsch-data" type="application/json
 base=(root/'curriculum/sachunterricht/baseline.json').read_text()
 pat=r'<script id="curriculum-data" type="application/json">(.*?)</script>'
 assert re.search(pat,html,re.S)[1]==base,'Sachunterricht changed'
+titles=json.loads((root/'curriculum/card_titles.json').read_text())
+embedded_titles=json.loads(re.search(r'<script id="card-title-data" type="application/json">(.*?)</script>',html,re.S)[1])
+assert embedded_titles==titles
+all_cards=json.loads(base)['connections']+m['connections']
+assert set(titles).issubset({c['id'] for c in all_cards}), 'Unknown card title ID'
+assert all(c['theme']==titles.get(c['id'],c['theme']) for c in m['connections']), 'German title generation drift'
+display_titles=[unicodedata.normalize('NFKC',titles.get(c['id'],c['theme'])).strip().casefold() for c in all_cards]
+assert len(display_titles)==len(set(display_titles)), 'Duplicate card titles'
 for attr,js in re.findall(r'<script([^>]*)>(.*?)</script>',html,re.S):
  if 'application/json' in attr or not js.strip():continue
  with tempfile.NamedTemporaryFile(suffix='.js',mode='w') as f:
