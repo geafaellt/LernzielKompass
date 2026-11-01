@@ -1,0 +1,1648 @@
+{
+  "batch": "DE-UZ-042",
+  "date": "2026-11-01",
+  "source_commit": "b2d476058abc4dd9fd650fb4ea055db1d9443b06",
+  "scope": "Fortsetzung der GS-Deutsch-Unterzielprüfung: zehn vorhandene Anschlussfragen nachgeprüft. Keine Erstprüfungen, keine Rückwärts-Einzelprüfung, keine App-Änderung.",
+  "packages": [
+    {
+      "name": "Wortstämme und kommunikative Perspektiven",
+      "ids": [
+        "page908_186811",
+        "page908_187013"
+      ]
+    },
+    {
+      "name": "Wortschatz, Präsentation und Hörnachbereitung",
+      "ids": [
+        "page908_186844",
+        "page908_186860",
+        "page908_186866",
+        "page908_186872"
+      ]
+    },
+    {
+      "name": "Schreibreflexion und Lesevorbereitung",
+      "ids": [
+        "page908_186876",
+        "page908_186926"
+      ]
+    },
+    {
+      "name": "Informationskritik und Rechtebezug",
+      "ids": [
+        "page908_186971",
+        "page908_186993"
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "gs_id": "page908_186811",
+      "target": "Erkennen von Wortstämmen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über Formen der Wortschatzerweiterung",
+      "remarks": "Prinzip der Stammschreibung erkennen",
+      "decision": "Anschluss weiterhin unklar; präzisierter Gegenstand und Abschlussfrage",
+      "reason": "Die Gegenprüfung der vollständigen FSP-Lese- und Schreibgruppen bestätigt Wortstämme ausdrücklich nur als häufige ganzheitlich gelesene Wortteile (40116 unter 40107). GS3 ordnet deren Erkennen dagegen der Übertragung von Formen der Wortschatzerweiterung zu; die Bemerkung ergänzt das Prinzip der Stammschreibung. Der zusätzliche FSP-Einblick in unterschiedliche Sprech- und Schreibweisen (40226) nennt Erscheinungen, aber keine ausdrückliche Stammregel oder Wortfamilienbildung. Ein gemeinsamer sichtbarer Wortteil ist somit belegt; noch nicht hinreichend geklärt ist, wie die Zuordnung beiden funktionalen Zusammenhängen gerecht wird, ohne die GS-Zeile auf Lesedekodierung zu verkürzen. Ein pauschaler Nichtanschluss wäre wegen des ausdrücklichen Stammbelegs ebenfalls verfrüht.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39201",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen grundlegender Funktionsweisen der Schriftsprache",
+          "remarks": "⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39201",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39232",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Buchstaben- und Lautstruktur von Silben und einfachen Wörtern",
+          "remarks": "Stellung der Laute in Silbe und im Wort Leserichtung Einsatz digitaler Medien und Lernsoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39232",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39235",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortaufbau und Wortabbau",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39235",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "1/2",
+          "section": "Kommunikative Fähigkeiten / Grundlagen Lesen und Schreiben",
+          "statement": "Wortschatz in vielfältigen Lerninhalten erweitern; erste Einsichten in Schriftstrukturen und erste orthografische sowie grammatische Regeln erwerben. Diese allgemeinen Ziele benennen keine spezifischen Satzproben oder lexikalische Mehrdeutigkeitsanalyse.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "3/4",
+          "section": "Kommunikative Fähigkeiten / Grundlagen Lesen und Schreiben",
+          "statement": "Wortschatz sowie Einsichten in Schriftstrukturen vertiefen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden. Die positiven allgemeinen Bezüge ersetzen nicht den Nachweis der besonderen GS-Verfahren.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "gs_grade": "3",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Kandidaten behalten die Operatoren ihrer übergeordneten Lehrplanziele. Bemerkungen liefern Kontext und Beispiele, keine eigenen Zieloperatoren."
+        }
+      ],
+      "residual_scope": "Wiedererkennung beim Lesen, Bedeutungszusammenhang einer Wortfamilie und orthografische Stammkonstanz bleiben drei verschiedene Nachweise. Die FSP-Lesestrategie darf nicht aus dem Übertragen auf das Erlesen herausgelöst werden.",
+      "uncertainty": "Für den Abschluss ist der gemeinsame Stammgegenstand mit getrenntem GS-Wortschatzerweiterungsnachweis und FSP-Lesenachweis zu bestimmen. Bloße gleiche Buchstabenfolge genügt nicht; die Stammschreibungsbemerkung ist nicht automatisch ein zusätzlicher FSP-Operator.",
+      "previous_decision": "DE-UZ-036: Anschluss unklar; Wortstammbezug fachlich einzugrenzen. FSP3/4 nennt Wortstämme ausdrücklich beim ganzheitlichen Lesen häufiger Wortbausteine. Das ist ein positiver gemeinsamer Gegenstand. Die GS-Zeile steht jedoch unter Übertragen von Formen der Wortschatzerweiterung und erläutert das Prinzip der Stammschreibung. Offen bleibt, wie der gemeinsame Ausschnitt Stammwiedererkennung mit Bedeutungsbezug und Stammschreibung abzugrenzen ist, ohne dem FSP eine morphologische oder orthografische Regelkompetenz zuzuschreiben. Der positive FSP-Beleg wird nicht als fehlend bewertet. Restumfang: Lesendes Wiedererkennen, semantischer Wortfamilienbezug und orthografische Stammkonstanz getrennt halten; vor einer Karte gemeinsame Feinziele und Kriterien sichern.",
+      "representation": "Offene Anschlussfrage; keine neue Karte und keine zusätzliche Erstprüfung gezählt."
+    },
+    {
+      "gs_id": "page908_186844",
+      "target": "Verwenden eines umfangreichen Wortschatzes",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Beherrschen von Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "",
+      "decision": "übergreifender Teilanschluss gesichert; keine Operatorenkarte",
+      "reason": "Das gemeinsame Ziel ist kein kleiner einzelner Fachwortbestand, sondern ein in mehreren lebensnahen Inhaltsbereichen verfügbarer Wortschatz. FSP3/4 verlangt ausdrücklich dessen Festigung und Erweiterung in vielfältigen Lerninhalten. Damit ist die inhaltliche Breite übergreifend belegt. GS4 verlangt sichere situations- und adressatengerechte Verwendung unter Beherrschen; FSP beschreibt Entwicklung und Festigung, keine gleich hohe Beherrschensstufe und keinen zahlenmäßig definierten Umfang. Der Teilanschluss wird über qualitative Breite und Verfügbarkeit beschrieben, nicht über eine erfundene Mindestwortzahl.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39794",
+          "grade": "1/2",
+          "area_id": "page146_39143",
+          "area": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+          "level": 1,
+          "target": "Anwenden von Begriffen zur Bezeichnung von Lagebeziehungen im Raum",
+          "remarks": "Klassenraum, Schulhaus, Schulgelände Bezeichnungen: auf, unter, vor, hinter, rechts, links, neben, zwischen Suchspiele ➔ MA, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39794",
+          "parent_target_id": "page146_39794"
+        },
+        {
+          "id": "page146_40241",
+          "grade": "3/4",
+          "area_id": "page146_40042",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 50 Ustd.",
+          "level": 1,
+          "target": "Kennen von Unterschieden zwischen Jungen und Mädchen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40241",
+          "parent_target_id": "page146_40241"
+        },
+        {
+          "id": "page146_40250",
+          "grade": "3/4",
+          "area_id": "page146_40042",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 50 Ustd.",
+          "level": 3,
+          "target": "Sachbegriffe verwenden",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40250",
+          "parent_target_id": "page146_40241"
+        },
+        {
+          "id": "page146_40263",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Kennen familiärer Strukturen",
+          "remarks": "Freiwilligkeit der Schüleräußerung und Datenschutz beachten Möglichkeiten und Risiken digitaler Medien einfache Familienstammbäume und Verwandtschaftsgrade ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40263",
+          "parent_target_id": "page146_40263"
+        },
+        {
+          "id": "page146_40271",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Begriffswissen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40271",
+          "parent_target_id": "page146_40263"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "1/2",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten in lebensnahen Situationen und Wortschatz in vielfältigen Lerninhalten entwickeln; erste Arbeitstechniken sowie Kontrolle von Zwischen- und Endergebnissen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "3/4",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten sowie Wortschatz in vielfältigen Lerninhalten festigen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden und Kontrolle von Lernergebnissen festigen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [
+        "In unterschiedlichen lebensnahen Inhaltsbereichen verfügbarer und passend verwendeter Wortschatz"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Einen in mehreren vertrauten Inhaltsbereichen verfügbaren Wortschatz sicher und situations- sowie adressatengerecht verwenden.",
+          "criterion": "Über mehrere passende Kommunikationssituationen hinweg zeigen sich inhaltliche Breite, treffende Wortwahl und selbstständige Verfügbarkeit. Ein einziger Themenwortbestand oder korrektes Benennen weniger Sachbegriffe genügt nicht; keine amtliche Mindestwortzahl wird behauptet."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Den eigenen Wortschatz in vielfältigen Lerninhalten festigen und erweitern; übergreifendes Ziel des Bandes 3/4.",
+          "criterion": "Gegenüber dem individuellen Ausgangsstand werden Wörter aus unterschiedlichen erarbeiteten Inhaltsbereichen bedeutungsgerecht verfügbar. Bloßes Nachsprechen oder eine isolierte Wortliste weist die Erweiterung aktiver Verwendung nicht hinreichend nach."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs_parent_operator": "Beherrschen",
+          "gs_specific_requirement": "Verwenden eines umfangreichen Wortschatzes",
+          "gs_grade": "4",
+          "gs_band": "3/4",
+          "fsp_band": "3/4",
+          "fsp_operator": null,
+          "fsp_level": "übergreifendes fachliches Stufenbandziel",
+          "alignment": "same-band"
+        }
+      ],
+      "residual_scope": "Der ganze Umfang und die durchgängige Sicherheit der GS4-Anforderung werden nicht als gleichwertiges FSP-Ziel behauptet. Orthografischer Grundwortschatz und aktiver mündlicher Wortschatz bleiben getrennt; Mehrsprachigkeit und individuelle Voraussetzungen werden berücksichtigt.",
+      "uncertainty": "Für den begrenzten übergreifenden Gegenstand geklärt. Keine vollständige oder operatorengleiche Abdeckung der GS-Zeile behauptet.",
+      "previous_decision": "DE-UZ-037: Anschluss unklar; Wortschatzumfang abzugrenzen. FSP1/2 und 3/4 erweitern ihren Wortschatz ausdrücklich in der Auseinandersetzung mit vielfältigen Lerninhalten. Konkrete Sachbegriffe und räumliche Begriffe belegen Wortbestände. GS4 verlangt jedoch die sichere Verwendung eines umfangreichen Wortschatzes. Ein kleiner thematischer Bestand allein weist diese Breite nicht nach. Ein angemessener gemeinsamer Gegenstand mit nachvollziehbarem Umfangskriterium bleibt zu bestimmen. Restumfang: Die neuen Fachwortkarten werden nicht zugleich als Nachweis eines umfangreichen Wortschatzes gezählt.",
+      "representation": "Positiver Teilanschluss im Audit. Keine Karte: kein tabellarischer FSP-Operator für diesen Gegenstand. Der Tabellenoperator eines benachbarten Sachziels wird nicht ausgeliehen."
+    },
+    {
+      "gs_id": "page908_186860",
+      "target": "Nutzen von Hilfsmitteln zur Visualisierung für das Präsentieren",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Beherrschen des Wissens über solistisches Sprechen",
+      "remarks": "Tafel, Plakat, Moderationskarten, Whiteboard, digitale Möglichkeiten ⇒ Medienbildung",
+      "decision": "übergreifender Teilanschluss gesichert; keine Operatorenkarte",
+      "reason": "Die FSP-Grundlagen nennen sowohl Visualisierungs- als auch Präsentationstechniken und verlangen situationsgerechte Nutzung geeigneter Techniken. Das trägt einen positiven methodischen Teilanschluss: eine Darstellung hat eine erkennbare Funktion für das Verständnis der präsentierten Information. Eine bloße Dokumentation belegt dies nicht. Die Übertragung auf einen konkreten Fachinhalt ist eine didaktische Konkretisierung des allgemeinen Zieles; sie ist kein wörtliches FSP3/4-Unterziel. GS4-Beherrschen des solistischen Sprechens bleibt die höhere und spezifischere Anforderung.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39954",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 1,
+          "target": "Kennen des Inhaltes der Textvorlage",
+          "remarks": "vorlesen, erzählen Hörbücher, Filme Büchereibesuch ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39954",
+          "parent_target_id": "page146_39954"
+        },
+        {
+          "id": "page146_39961",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 3,
+          "target": "Wesentliches finden",
+          "remarks": "veranschaulichen: Bilder, Symbole, Stützwörter",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39961",
+          "parent_target_id": "page146_39954"
+        },
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40299",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Informationen aufnehmen und weitergeben",
+          "remarks": "Informationen aus Texten erschließen Anschauungstafeln gestalten Schülerzeitungen Beachten von Urheberrecht und geistigem Eigentum bei fremden Bildern und Texten ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40299",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40395",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in wichtige öffentliche und soziale Einrichtungen",
+          "remarks": "Rathaus, Feuerwehr, Polizei, Krankenhaus, Kirche, Bahnhof Exkursionen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40395",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40399",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "Informationen wiedergeben",
+          "remarks": "Bericht, Artikel, Wandzeitung ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40399",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40545",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 1,
+          "target": "Kennen eines geeigneten Textes",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40545",
+          "parent_target_id": "page146_40545"
+        },
+        {
+          "id": "page146_40548",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "Wesentliches festhalten",
+          "remarks": "Manuskript anfertigen und fixieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40548",
+          "parent_target_id": "page146_40545"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Techniken",
+          "statement": "Erwerb von Techniken zur Beschaffung, Überprüfung, Verarbeitung und Aufbereitung von Informationen; ausdrücklich unter anderem Mnemo-, Visualisierungs- und Präsentationstechniken.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29747"
+        },
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Ziel",
+          "statement": "Individuell geeignete Techniken und Medien situationsgerecht nutzen; eigene Lernvoraussetzungen realistisch einschätzen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29750"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "1/2",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten in lebensnahen Situationen und Wortschatz in vielfältigen Lerninhalten entwickeln; erste Arbeitstechniken sowie Kontrolle von Zwischen- und Endergebnissen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "3/4",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten sowie Wortschatz in vielfältigen Lerninhalten festigen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden und Kontrolle von Lernergebnissen festigen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [
+        "Verständnisfördernde Funktion einer Visualisierung bei der Präsentation von Informationen"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Eine von der Lehrkraft bestimmte Visualisierung sicher und inhaltlich passend mit dem eigenen Vortrag verbinden.",
+          "criterion": "Die Verbindung zwischen gesprochenem Inhalt und Darstellung ist nachvollziehbar und unterstützt das Verständnis. Bloßes Vorhandensein einer Darstellung genügt nicht; der solistische Vortrag bleibt GS-Anforderung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Eine für den individuellen Lernstand geeignete Visualisierungs- und Präsentationstechnik in ihrem Informationszusammenhang situationsgerecht nutzen; didaktische Konkretisierung des allgemeinen Grundlagenzieles.",
+          "criterion": "Die dargestellte Information und ihre kommunikative Funktion sind erkennbar verbunden. Das individuelle Maß an Unterstützung wird ausgewiesen; selbstständiges Beherrschen eines vollständigen solistischen Vortrags wird nicht vorausgesetzt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs_parent_operator": "Beherrschen",
+          "gs_specific_requirement": "Nutzen von Hilfsmitteln zur Visualisierung für das Präsentieren",
+          "gs_grade": "4",
+          "gs_band": "3/4",
+          "fsp_band": null,
+          "fsp_operator": null,
+          "fsp_level": "allgemeines schulartbezogenes Grundlagenziel, kein explizites Stufenbandziel",
+          "alignment": "nicht als Stufenbandentsprechung ausgewiesen; Anwendung in 3/4 ist didaktische Konkretisierung"
+        }
+      ],
+      "residual_scope": "Kein speziell auf FSP3/4 festgelegtes Niveau, keine verpflichtende einzelne Visualisierungstechnik und keine Vollentsprechung des GS4-Vortrags. Auswahl sämtlicher Aufgaben und Hilfsmittel bleibt ausschließlich der Lehrkraft überlassen; die Lehrplanbeispiele werden nicht als Vorschläge übernommen.",
+      "uncertainty": "Für den begrenzten übergreifenden Gegenstand geklärt. Keine vollständige oder operatorengleiche Abdeckung der GS-Zeile behauptet.",
+      "previous_decision": "DE-UZ-037: Anschluss unklar; Visualisierung für Präsentationen abzugrenzen. Die allgemeinen FSP-Grundlagen Lernen lernen nennen Visualisierungs- und Präsentationstechniken ausdrücklich. FSP1/2-Wahlbereich Theater veranschaulicht Wesentliches, FSP3/4 nennt dokumentierende Darstellungen. Dies sind positive Belege; unklar bleibt die genaue Verbindung zwischen selbst genutzter Visualisierung und solistischem Präsentieren im geprüften Stufenband. Keine vorschnelle Zuordnung einer bloßen Dokumentation zur GS-Anforderung. Restumfang: Zielgegenstand Visualisierung und Nachweis ihres kommunikativen Nutzens klären; keine Hilfsmittel auswählen oder vorschlagen.",
+      "representation": "Positiver Teilanschluss im Audit. Keine Karte: kein tabellarischer FSP-Operator für diesen Gegenstand. Der Tabellenoperator eines benachbarten Sachziels wird nicht ausgeliehen."
+    },
+    {
+      "gs_id": "page908_186866",
+      "target": "Nutzen von Techniken des Auswendiglernens",
+      "classification": "untergeordnetes Unterziel",
+      "level": 3,
+      "parent_goal": "Beherrschen des Wissens über solistisches Sprechen",
+      "remarks": "sebstständig",
+      "decision": "übergreifender Teilanschluss gesichert; keine Operatorenkarte",
+      "reason": "Mnemo-Techniken sind in den allgemeinen FSP-Grundlagen ausdrücklich als zu erwerbende Lerntechniken genannt. Der positive gemeinsame Gegenstand ist das bewusste Nutzen einer Gedächtnistechnik, nicht nur ein auswendig verfügbares Produkt. Damit lässt sich der methodische Teilanschluss mit getrennten Kriterien sichern. FSP3/4 nennt zunehmend selbstständige Arbeitstechniken, legt aber für diese einzelne Technik keinen Abschlussstandard fest. Das sichere selbstständige Auswendiglernen zur Präsentation bleibt die spezifische GS4-Anforderung.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39869",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken",
+          "remarks": "➔ MA, Kl. 1/2, LBW 1 ➔ WE, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39869",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39876",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 3,
+          "target": "aktiv und zielgerichtet zuhören",
+          "remarks": "Höraufgaben, Gedächtnistraining",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39876",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39967",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhaltes auf das szenische Spiel",
+          "remarks": "Hand- und Fingerpuppenspiel, Rollenspiel",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39967",
+          "parent_target_id": "page146_39967"
+        },
+        {
+          "id": "page146_39976",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 3,
+          "target": "prägnante Textstellen wortgenau wiedergeben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39976",
+          "parent_target_id": "page146_39967"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40483",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "aktives, zielgerichtetes Zuhören",
+          "remarks": "Höraufgaben, Gedächtnistraining",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40483",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40550",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhalts auf das szenische Gestalten",
+          "remarks": "⇒ Kommunikationsfähigkeit ⇒ Sozialkompetenz ➔ KU, Kl. 3/4, LBW 1 ➔ WE, Kl. 3/4, LBW 2 ➔ MU, Kl. 3/4, LBW 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40550",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40559",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "szenisches Spiel",
+          "remarks": "prägnante Stellen besonders beachten Texte weitgehend wortgetreu wiedergeben frei vortragen schöpferisches Potential der Schüler nutzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40559",
+          "parent_target_id": "page146_40550"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Techniken",
+          "statement": "Erwerb von Techniken zur Beschaffung, Überprüfung, Verarbeitung und Aufbereitung von Informationen; ausdrücklich unter anderem Mnemo-, Visualisierungs- und Präsentationstechniken.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29747"
+        },
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Ziel",
+          "statement": "Individuell geeignete Techniken und Medien situationsgerecht nutzen; eigene Lernvoraussetzungen realistisch einschätzen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29750"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "1/2",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten in lebensnahen Situationen und Wortschatz in vielfältigen Lerninhalten entwickeln; erste Arbeitstechniken sowie Kontrolle von Zwischen- und Endergebnissen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "3/4",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten sowie Wortschatz in vielfältigen Lerninhalten festigen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden und Kontrolle von Lernergebnissen festigen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037"
+        }
+      ],
+      "intermediate_context": "Nutzen von Strategien für das Präsentieren (page908_186864)",
+      "shared_objects": [
+        "Bewusste Nutzung einer individuell geeigneten Gedächtnistechnik zum Behalten und Abrufen sprachlicher Inhalte"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Eine erarbeitete Gedächtnistechnik zum Auswendiglernen für eine Präsentation selbstständig und sicher nutzen.",
+          "criterion": "Neben dem Abruf des Inhalts ist die tatsächlich verwendete Technik nachvollziehbar; Anwendung und Selbstständigkeit sind belegt. Fehlerfreier Vortrag allein gilt nicht als Strategienachweis."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Eine individuell geeignete Gedächtnistechnik für sprachliche Inhalte situationsgerecht nutzen; Konkretisierung des allgemeinen FSP-Grundlagenzieles.",
+          "criterion": "Die Nutzung der Technik und ihr Bezug zum Behalten oder Abrufen sind erkennbar. Unterstützung und individueller Entwicklungsstand bleiben ausgewiesen; vollständiges selbstständiges Beherrschen wird nicht aus dem allgemeinen Ziel abgeleitet."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs_parent_operator": "Beherrschen",
+          "gs_specific_requirement": "Nutzen von Techniken des Auswendiglernens",
+          "gs_grade": "4",
+          "gs_band": "3/4",
+          "fsp_band": null,
+          "fsp_operator": null,
+          "fsp_level": "allgemeines schulartbezogenes Grundlagenziel, kein explizites Stufenbandziel",
+          "alignment": "nicht als Stufenbandentsprechung ausgewiesen; Anwendung in 3/4 ist didaktische Konkretisierung"
+        }
+      ],
+      "residual_scope": "Keine konkrete Lernhandlung oder Technik wird vorgeschlagen oder automatisch vorgegeben. Kein FSP-Stufenbandabschlussstandard und keine Gleichsetzung von Gedächtnistraining, wortgetreuem Vortrag und nachgewiesener Strategie. Der verwandte frühere Fall 186555 muss im Licht dieses Grundlagenbelegs gesondert nachgeprüft werden.",
+      "uncertainty": "Für den begrenzten übergreifenden Gegenstand geklärt. Keine vollständige oder operatorengleiche Abdeckung der GS-Zeile behauptet.",
+      "previous_decision": "DE-UZ-037: Anschluss unklar; Mnemotechniken stufenbezogen konkretisieren. Die FSP-Grundlagen Lernen lernen nennen Mnemotechniken ausdrücklich. Zusätzlich nennt der Fachplan Gedächtnistraining, wortgenaue Wiedergabe und freies Vortragen. Der positive Strategiebeleg darf nicht als fehlend ausgegeben werden. Seine genaue Stufenbandkonkretisierung und das Verhältnis zur selbstständigen sicheren GS-Nutzung beim Auswendiglernen sind noch zu klären; ein auswendig verfügbarer Text allein weist keine Lerntechnik nach. Restumfang: Konkreter Verfahrensnachweis ohne Vorgabe einer Lernhandlung erforderlich; frühere GS3-Abgrenzung 186555 später mit diesem Grundlagenbeleg erneut prüfen.",
+      "representation": "Positiver Teilanschluss im Audit. Keine Karte: kein tabellarischer FSP-Operator für diesen Gegenstand. Der Tabellenoperator eines benachbarten Sachziels wird nicht ausgeliehen."
+    },
+    {
+      "gs_id": "page908_186872",
+      "target": "Sichern und Weiterverwenden von Informationen",
+      "classification": "untergeordnetes Unterziel",
+      "level": 3,
+      "parent_goal": "Beherrschen des Wissens über das verstehende Zuhören",
+      "remarks": "eigene Fragen stellen",
+      "decision": "Anschluss weiterhin unklar; präzisierter Gegenstand und Abschlussfrage",
+      "reason": "Zusätzlich zum allgemeinen Informationsziel wurde der FSP3/4-Komplex öffentliche und soziale Einrichtungen vollständig gegengeprüft: 40397 nennt Befragung als Bemerkung zur Informationsgewinnung; 40399 nennt Wiedergabe, 40403 gezieltes Fragen. Das ist ein konkreter positiver Kandidat für mündlich gewonnene Informationen, also mehr als nur schriftliche Textarbeit. Noch nicht gesichert ist die für GS-Hörnachbereitung verlangte Funktion des Sicherns und Weiterverwendens: bloße Wiedergabe, eine erste Frage oder das Aufnehmen von Fakten allein beweisen keine weitere Nutzung bereits gehörter Information. Der Sachkontext und das FSP-Einblicksziel müssen bei einer möglichen Verbindung erhalten bleiben.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39605",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Kennen der Klassengemeinschaft",
+          "remarks": "➔ ETH, Kl. 1/2, LB 2 ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39605",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_39634",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 3,
+          "target": "Informationen aufnehmen und verarbeiten",
+          "remarks": "Informationen aufnehmen und gestalten: Wandzeitung, Einladung ⇒ Medienbildung ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39634",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40299",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Informationen aufnehmen und weitergeben",
+          "remarks": "Informationen aus Texten erschließen Anschauungstafeln gestalten Schülerzeitungen Beachten von Urheberrecht und geistigem Eigentum bei fremden Bildern und Texten ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40299",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40395",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in wichtige öffentliche und soziale Einrichtungen",
+          "remarks": "Rathaus, Feuerwehr, Polizei, Krankenhaus, Kirche, Bahnhof Exkursionen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40395",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40397",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "Informationen einholen",
+          "remarks": "Befragung, Aufträge, Sachtexte, Recherche mithilfe digitaler Medien ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40397",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40399",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "Informationen wiedergeben",
+          "remarks": "Bericht, Artikel, Wandzeitung ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40399",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40396",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 2,
+          "target": "Bedeutung",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40396",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40403",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "gezielt fragen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40403",
+          "parent_target_id": "page146_40395"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "1/2",
+          "section": "Kommunikative Fähigkeiten / Lesen und Schreiben",
+          "statement": "Wortschatz und sprachliche Fähigkeiten in lebensnahen Situationen entwickeln; erste Lese-/Schriftstrukturen und Arbeitstechniken unter Anleitung erwerben. Dies liefert Rahmenziele, keinen pauschalen Nachweis aller GS-Sprech- und Hörverfahren.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "3/4",
+          "section": "Kommunikative Fähigkeiten / Lesen und Schreiben",
+          "statement": "Wortschatz, sprachliche Fähigkeiten und Schriftstrukturen vertiefen; Lernergebnisse kontrollieren und Arbeitstechniken zunehmend selbstständig nutzen. Wertungen und Schlussfolgerungen beziehen sich ausdrücklich auf Gelesenes, nicht automatisch auf Gehörtes.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "allgemeine Grundlagen, kein einzelnes Stufenbandziel",
+          "grade": "stufenübergreifend",
+          "section": "Lernen lernen: Strategien und Techniken",
+          "statement": "Informationsverarbeitung und -aufbereitung umfassen unter anderem Mnemo-, Strukturierungs-, Visualisierungs- und Präsentationstechniken. Konzentrations- sowie Kommunikationstechniken werden ebenfalls ausdrücklich genannt. Die fach- und stufenbezogene Konkretisierung und Operatorrepräsentation sind gesondert zu prüfen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        }
+      ],
+      "intermediate_context": "Nachbereiten des zielgerichteten Zuhörens (page908_186870)",
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Beherrschen",
+          "gs_grade": "4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren bleiben an den benannten übergeordneten Lehrplanzielen; allgemeine Grundlagen und Bemerkungen erhalten keinen erfundenen Tabellenoperator."
+        }
+      ],
+      "residual_scope": "Kein pauschales Urteil fehlenden Hörbezugs. Ein möglicher Anschluss muss gehörte Information, ihren Erhalt und ihre spätere Verwendung erkennbar verbinden. GS-Beherrschen und FSP-Einblick dürfen nicht angeglichen werden.",
+      "uncertainty": "Prüfen, ob der konkrete Einrichtungsbezug mit Informationsgewinnung und gezieltem Fragen einen hinreichend belegbaren Weiterverwendungsausschnitt trägt oder nur Aufnahme/Wiedergabe; dafür getrennte Kriterien sichern, keine Lernhandlung vorgeben.",
+      "previous_decision": "DE-UZ-037: Anschluss unklar; hörbezogene Informationsnutzung abzugrenzen. FSP-Grundlagen nennen Verarbeitung und Aufbereitung von Informationen; FSP1/2 und 3/4 enthalten Informationsaufnahme, Weitergabe und Dokumentation in Sachkontexten. Das ist positive Nähe zum Sichern und Weiterverwenden. Für einen belastbaren GS4-Höranschluss bleiben Herkunft aus Gehörtem, selbstständige Weiterverwendung und passende Kriterien abzugrenzen. Schriftliche Textarbeit oder Wandzeitung wird nicht automatisch als Hörnachbereitung gewertet. Restumfang: Noch keine Karte für weiterführende Nutzung gehörter Informationen; nicht auf reine Inhaltswiedergabe verkürzen.",
+      "representation": "Offene Anschlussfrage; keine neue Karte und keine zusätzliche Erstprüfung gezählt."
+    },
+    {
+      "gs_id": "page908_186876",
+      "target": "Reflektieren über das Schreiben",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Beherrschen von Schreibfertigkeiten",
+      "remarks": "Kriterien: Lesbarkeit und Flüssigkeit",
+      "decision": "Anschluss weiterhin unklar; präzisierter Gegenstand und Abschlussfrage",
+      "reason": "FSP3/4 nennt lesbares Schriftbild und angemessenes Schreibtempo (40127); das Bandziel fordert Kontrolle von Lernergebnissen. Die allgemeinen Regulationsstrategien und der Zieltext zur Lernkompetenz enthalten außerdem Selbstreflexion beziehungsweise realistische Selbsteinschätzung. Diese positiven Belege wurden nun getrennt von kommentierendem Schreiben erfasst. Offen bleibt ihre genaue Verbindung zur GS-Reflexion über Lesbarkeit und Flüssigkeit: Lesbarkeit ist ein Merkmal des Ergebnisses, Flüssigkeit betrifft den Schreibprozess und lässt sich nicht aus dem Schriftbild oder Tempo allein ableiten. Eine Ergebniskontrolle ohne Prozessbezug würde daher nur einen Teil der Frage beantworten.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39267",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben lauttreuer Wörter",
+          "remarks": "⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39267",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39290",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Abschreiben und Nachschreiben von Wörtern und Sätzen",
+          "remarks": "Kommentieren der Arbeitsschritte und des Schreibvorgangs ⇒ Lern- und Methodenkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39290",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39297",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "angemessenes Schreibtempo",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39297",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40127",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+          "remarks": "Schreibrichtung, angemessenes Schreibtempo sauberes und lesbares Schriftbild unter Verwendung der Schulausgangsschrift ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40127",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40144",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "kommentierendes Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40144",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "1/2",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten in lebensnahen Situationen und Wortschatz in vielfältigen Lerninhalten entwickeln; erste Arbeitstechniken sowie Kontrolle von Zwischen- und Endergebnissen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "3/4",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten sowie Wortschatz in vielfältigen Lerninhalten festigen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden und Kontrolle von Lernergebnissen festigen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037"
+        },
+        {
+          "classification": "allgemeines Grundlagenziel, kein Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Regulationsstrategien",
+          "statement": "Selbstreflexion und Selbststeuerung des eigenen Lernprozesses.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29678"
+        },
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Ziel",
+          "statement": "Individuell geeignete Techniken und Medien situationsgerecht nutzen; eigene Lernvoraussetzungen realistisch einschätzen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29750"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Beherrschen",
+          "fsp": "Kandidatenoperatoren siehe übergeordnete FSP-Ziele; kein gemeinsamer Operator festgelegt",
+          "gs_grade": "4",
+          "fsp_bands_considered": [
+            "1/2",
+            "3/4"
+          ]
+        }
+      ],
+      "residual_scope": "Keine Gleichsetzung von angemessenem Tempo mit flüssigem Schreiben; keine Bewertung des eigenen Prozesses allein aus einem fertigen Schriftbild. Allgemeine Selbstreflexion bleibt positiver Beleg, aber noch keine vollständige Kriterienentsprechung.",
+      "uncertainty": "Abgrenzen, ob eine ausdrücklich auf Lesbarkeit begrenzte Reflexion fachlich aus Bandziel und Schreibziel gemeinsam trägt; Flüssigkeit und möglicher Prozessnachweis bleiben getrennt. Einen solchen begrenzten Anschluss nicht als Abdeckung beider GS-Kriterien ausgeben.",
+      "previous_decision": "DE-UZ-038: Anschluss unklar; Reflexion des Schriftbilds abzugrenzen. FSP1/2 kommentiert Schreibvorgänge; FSP3/4 nennt lesbares Schriftbild und angemessenes Tempo. Die übergreifenden Stufenbandziele enthalten Kontrolle von Lernergebnissen. Das sind positive Belege, aber die genaue Verbindung zur eigenen kriterienbezogenen Reflexion von Lesbarkeit und Flüssigkeit ist nicht hinreichend konkretisiert. Schreibausführung und Kommentieren werden nicht mit metakognitiver Bewertung gleichgesetzt. Restumfang: Kontrolle von Lernergebnissen bleibt als positiver Beleg erhalten; noch kein gesicherter Reflexionsanschluss.",
+      "representation": "Offene Anschlussfrage; keine neue Karte und keine zusätzliche Erstprüfung gezählt."
+    },
+    {
+      "gs_id": "page908_186926",
+      "target": "Klären der Textsorte",
+      "classification": "untergeordnetes Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen weiterer Strategien zum Leseverstehen",
+      "remarks": "",
+      "decision": "kein hinreichend belegter direkter Anschluss für Textsortenklärung als vorbereitende Lesestrategie",
+      "reason": "Der Zwischenanker Vorbereiten des Lesens ist entscheidend: GS4 verlangt Kenntnis einer vorbereitenden Strategie, nicht allein Kenntnis von Textarten. In FSP1/2 stehen literarische Textarten im Einblicksziel, in FSP3/4 im Kennensziel für literarische Texte. Die gesonderte FSP3/4-Lesestrategiengruppe nennt Wortbausteine, zeilenübergreifendes Lesen und Sinnzusammenhänge, aber keine vorausgehende Textsortenklärung oder deren Steuerungsfunktion. Allgemeine Lese- und Arbeitstechniken belegen diese spezielle Funktion ebenfalls nicht. Die vormals offene Frage wird für den genau eingegrenzten direkten Anschluss negativ entschieden; Textartenkenntnis bleibt ausdrücklich vorhanden.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39869",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken",
+          "remarks": "➔ MA, Kl. 1/2, LBW 1 ➔ WE, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39869",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39874",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 2,
+          "target": "Märchen, Kinderbuch und andere literarische Texte",
+          "remarks": "Lieblingsbücher der Schüler Fantasiegeschichten, Unsinngeschichten, Geschichten mit offenem Ende, Gedichte Besuch einer Bibliothek",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39874",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40109",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Lesestrategien",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40109",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40482",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 2,
+          "target": "Märchen, Kinderbuch und andere literarische Texte",
+          "remarks": "Tiergeschichten, Ortssagen, Fabeln, Gedichte eigenes Kinderbuch vorstellen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40482",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40111",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "zeilenübergreifendes Lesen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40111",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40114",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Lesen in Sinnzusammenhängen",
+          "remarks": "ausdrucksvolles Lesen anbahnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40114",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "1/2",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten in lebensnahen Situationen und Wortschatz in vielfältigen Lerninhalten entwickeln; erste Arbeitstechniken sowie Kontrolle von Zwischen- und Endergebnissen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "3/4",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten sowie Wortschatz in vielfältigen Lerninhalten festigen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden und Kontrolle von Lernergebnissen festigen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037"
+        },
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Techniken",
+          "statement": "Erwerb von Techniken zur Beschaffung, Überprüfung, Verarbeitung und Aufbereitung von Informationen; ausdrücklich unter anderem Mnemo-, Visualisierungs- und Präsentationstechniken.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29747"
+        }
+      ],
+      "intermediate_context": "page908_186924: Vorbereiten des Lesens",
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs_parent_operator": "Kennen",
+          "gs_grade": "4",
+          "fsp_bands_considered": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp_candidate_operators": [
+            "Einblick gewinnen",
+            "Kennen",
+            "Übertragen"
+          ],
+          "reason": "Operatoren beziehen sich auf unterschiedliche Zielgegenstände: literarische Textkenntnis bzw. andere Lesestrategien statt Textsortenklärung vor dem Lesen."
+        }
+      ],
+      "residual_scope": "Keine Aussage, dass FSP keine Textarten kennt oder eine Lehrkraft diese Strategie nicht unterrichten dürfte. Belegt ist nur kein hinreichend bestimmter direkter Anschluss für diese vorbereitende Strategie in den geprüften Quellen.",
+      "uncertainty": "Die konkrete Anschlussfrage ist als begründeter Nichtanschluss abgeschlossen. Bei künftigem zusätzlichem Quellenbeleg wieder zu öffnen.",
+      "previous_decision": "DE-UZ-038: Anschluss unklar; Textsortenwissen als Lesestrategie abzugrenzen. FSP kennt vielfältige literarische Texte und nennt Sachtexte als Lesekontexte; konkrete Textarten werden teilweise in Unterzielen und teilweise in Bemerkungen geführt. Damit besteht positive inhaltliche Nähe. Ob und wie dieses Wissen die Textsortenklärung vor dem Lesen als GS-Strategie trägt, muss präziser gefasst werden. Eine bloße Nennung von Märchen oder Sachtext ist noch kein Strategienachweis. Restumfang: Textsortenkenntnis nicht als fehlend behaupten, aber noch keine Vorbereitungsstrategie freigeben.",
+      "representation": "Begründeter Nichtanschluss im Audit; keine Karte."
+    },
+    {
+      "gs_id": "page908_186971",
+      "target": "Einschätzen ausgewählter Informationen in Hinblick auf Aussagekraft",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über ein vielfältiges Medienangebot",
+      "remarks": "Glaubwürdigkeit prüfen",
+      "decision": "übergreifender Teilanschluss gesichert; keine Operatorenkarte",
+      "reason": "Informationsüberprüfung ist im allgemeinen FSP-Abschnitt Lernen lernen ausdrücklich enthalten; kritischer Medienumgang ist zusätzlich als Medienbildungsziel belegt. Das sichert einen begrenzten übergreifenden Anschluss für den prüfenden Umgang mit ausgewählten medialen Sachinformationen. Die Prüfung einer Information muss einen nachvollziehbaren Grund für ihre Einschätzung liefern; reine Entnahme oder Wiederholung genügt nicht. Eine bestimmte Quellenvergleichsmethode, ein fachlicher Tabellenoperator und ein FSP3/4-Abschlussniveau werden daraus nicht erfunden.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39818",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 1,
+          "target": "Kennen jahreszeitlicher Veränderungen",
+          "remarks": "⇒ Wahrnehmungsförderung ➔ ETH, Kl. 1/2, LB 4 ➔ RE/e, Kl. 1/2, LB 3 ➔ RE/k, Kl. 1/2, LB 3 ➔ WE, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39818",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_39837",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 3,
+          "target": "Informationen aus verschiedenen Medien entnehmen",
+          "remarks": "literarische Texte, Sachtexte Einsatz traditioneller und digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39837",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_40395",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in wichtige öffentliche und soziale Einrichtungen",
+          "remarks": "Rathaus, Feuerwehr, Polizei, Krankenhaus, Kirche, Bahnhof Exkursionen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40395",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40397",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "Informationen einholen",
+          "remarks": "Befragung, Aufträge, Sachtexte, Recherche mithilfe digitaler Medien ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40397",
+          "parent_target_id": "page146_40395"
+        },
+        {
+          "id": "page146_40423",
+          "grade": "3/4",
+          "area_id": "page146_40054",
+          "area": "Lernbereich 6: Natur entdecken und erleben 120 Ustd.",
+          "level": 1,
+          "target": "Kennen typischer Wettererscheinungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40423",
+          "parent_target_id": "page146_40423"
+        },
+        {
+          "id": "page146_40428",
+          "grade": "3/4",
+          "area_id": "page146_40054",
+          "area": "Lernbereich 6: Natur entdecken und erleben 120 Ustd.",
+          "level": 3,
+          "target": "Informationen aus Medien entnehmen",
+          "remarks": "Einsatz traditioneller und digitaler Medien Wettertabelle anfertigen ⇒ Lern- und Methodenkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40428",
+          "parent_target_id": "page146_40423"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Lernen lernen: Techniken",
+          "statement": "Erwerb von Techniken zur Beschaffung, Überprüfung, Verarbeitung und Aufbereitung von Informationen; ausdrücklich unter anderem Mnemo-, Visualisierungs- und Präsentationstechniken.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29747"
+        },
+        {
+          "classification": "allgemeines schulartbezogenes Grundlagenziel; kein eigenes Stufenbandziel",
+          "grade": null,
+          "section": "Medienbildung",
+          "statement": "Kenntnisse für sicheren, sachgerechten, kritischen und verantwortlichen Medienumgang erwerben; Medien interessen- und funktionsabhängig auswählen und nutzen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page_uziel3"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "1/2",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten in lebensnahen Situationen und Wortschatz in vielfältigen Lerninhalten entwickeln; erste Arbeitstechniken sowie Kontrolle von Zwischen- und Endergebnissen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132"
+        },
+        {
+          "classification": "übergreifendes fachliches Stufenbandziel",
+          "grade": "3/4",
+          "section": "Ziele",
+          "statement": "Sprachfähigkeiten sowie Wortschatz in vielfältigen Lerninhalten festigen und erweitern; Arbeitstechniken zunehmend selbstständig anwenden und Kontrolle von Lernergebnissen festigen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [
+        "Nachvollziehbare Einschätzung einer ausgewählten medialen Sachinformation anhand eines prüfbaren Grundes"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Wissen über Medienangebote auf die Einschätzung einer ausgewählten Information anwenden und deren Aussagekraft beziehungsweise Glaubwürdigkeit begründet einschätzen.",
+          "criterion": "Die Einschätzung bezieht sich auf einen nachvollziehbaren Prüfgrund und unterscheidet belegte Aussagen von verbleibender Unsicherheit. Gefallen, Bekanntheit des Mediums oder bloßes Wiedergeben der Aussage reichen nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Eine ausgewählte Sachinformation kritisch prüfen und die eigene Einschätzung auf einen nachvollziehbaren Grund beziehen; didaktische Konkretisierung der allgemeinen Ziele Informationsüberprüfung und Medienbildung.",
+          "criterion": "Information, Prüfgrund und Einschätzung sind unterscheidbar. Bestehende Unsicherheit darf benannt werden; Unterstützung wird ausgewiesen. Eine vollständige Analyse journalistischer Quellen oder von Desinformation wird nicht verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs_parent_operator": "Übertragen",
+          "gs_specific_requirement": "Einschätzen ausgewählter Informationen in Hinblick auf Aussagekraft",
+          "gs_grade": "4",
+          "gs_band": "3/4",
+          "fsp_band": null,
+          "fsp_operator": null,
+          "fsp_level": "allgemeines schulartbezogenes Grundlagenziel, kein explizites Stufenbandziel",
+          "alignment": "nicht als Stufenbandentsprechung ausgewiesen; Anwendung in 3/4 ist didaktische Konkretisierung"
+        }
+      ],
+      "residual_scope": "Der Teilanschluss belegt keine vollständige GS4-Medienkritik, kein systematisches Fake-News-Verfahren und kein speziell festgelegtes FSP3/4-Niveau. Konkrete Prüfmethode, Lernhandlung und Hilfsmittel werden nicht vorgeschlagen.",
+      "uncertainty": "Für den begrenzten übergreifenden Gegenstand geklärt. Keine vollständige oder operatorengleiche Abdeckung der GS-Zeile behauptet.",
+      "previous_decision": "DE-UZ-039: Anschluss unklar; positive Belege weiter abzugrenzen. FSP fordert in den allgemeinen Grundlagen ausdrücklich Informationsüberprüfung sowie kritischen Medienumgang. Die konkreten Zeilen zur Informationsentnahme und Recherche legen aber keine Prüfung von Aussagekraft oder Glaubwürdigkeit fest. Die positiven allgemeinen Belege verbieten einen pauschalen Nichtanschluss; ein bestimmter Fachkontext mit belastbarem Bewertungsmaßstab und zugehörigem Operator ist noch abzugrenzen. Restumfang: Offen ist der engere Anschluss einer Glaubwürdigkeitsprüfung; Informationsentnahme und Inhaltsrichtigkeit allein genügen nicht.",
+      "representation": "Positiver Teilanschluss im Audit. Keine Karte: kein tabellarischer FSP-Operator für diesen Gegenstand. Der Tabellenoperator eines benachbarten Sachziels wird nicht ausgeliehen."
+    },
+    {
+      "gs_id": "page908_186993",
+      "target": "kritischer Umgang mit Informationen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über digitale Formate und Umgebungen",
+      "remarks": "Datenschutz, Schutz der eigenen Identität sowie Persönlichkeits- und Urheberrechte beachten Fake News",
+      "decision": "Anschluss weiterhin unklar; präzisierter Gegenstand und Abschlussfrage",
+      "reason": "Die Gegenprüfung bestätigt mehrere ausdrückliche Rechtebelege: eigenes Bild bei FSP1/2-Materialsammlung; fremde Bilder und Texte bei FSP1/2-Naturdokumentation sowie FSP3/4-Informationsweitergabe, zeitlicher Orientierung und weiteren Naturkontexten. Die zusätzliche Recherche berücksichtigt 40458 und 40497; beide nennen das Beachten von Urheberrecht bei Medieninformationen. Dies sind Bemerkungen mit konkretem Sachkontext, keine selbstständigen Rechtsziele. Für GS4 steht die Zeile unter Übertragen des Wissens über digitale Formate. Noch abzugrenzen ist ein enger digitaler Informations- oder Rechtegegenstand, der diesen Zusammenhang und zugleich den jeweiligen FSP-Sachzieloperator trägt. Datenschutz als Schutzvorgabe für freiwillige familiäre Äußerungen (40263) bleibt vom Lernziel der Kinder getrennt.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39934",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 1,
+          "target": "Anwenden von Schrittfolgen zur Herstellung eines Buches",
+          "remarks": "⇒ Medienbildung ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39934",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_39941",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 2,
+          "target": "Materialsammlung",
+          "remarks": "Zeitschriften, Kataloge, Prospekte, Fotos und weitere traditionelle und digitale Medienangebote Recht am eigenen Bild",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39941",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_39984",
+          "grade": "1/2",
+          "area_id": "page146_39158",
+          "area": "Wahlbereich 4: Natur entdecken",
+          "level": 1,
+          "target": "Kennen und Erleben von Besonderheiten aus der Region",
+          "remarks": "Schutzgebiete, Lehrpfade, Naturschutzstationen Exkursionen ⇒ Wahrnehmungsförderung ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39984",
+          "parent_target_id": "page146_39984"
+        },
+        {
+          "id": "page146_40007",
+          "grade": "1/2",
+          "area_id": "page146_39158",
+          "area": "Wahlbereich 4: Natur entdecken",
+          "level": 3,
+          "target": "beschriften",
+          "remarks": "Beachten von Urheberrecht und geistigem Eigentum bei fremden Bildern und Texten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40007",
+          "parent_target_id": "page146_39984"
+        },
+        {
+          "id": "page146_40263",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Kennen familiärer Strukturen",
+          "remarks": "Freiwilligkeit der Schüleräußerung und Datenschutz beachten Möglichkeiten und Risiken digitaler Medien einfache Familienstammbäume und Verwandtschaftsgrade ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40263",
+          "parent_target_id": "page146_40263"
+        },
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40294",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Feste und Traditionen im Schulalltag",
+          "remarks": "zunehmend selbstständige und eigenverantwortliche Vorbereitung und Durchführung außerschulische Hilfe ⇒ Werteorientierung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40294",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40299",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Informationen aufnehmen und weitergeben",
+          "remarks": "Informationen aus Texten erschließen Anschauungstafeln gestalten Schülerzeitungen Beachten von Urheberrecht und geistigem Eigentum bei fremden Bildern und Texten ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40299",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40359",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 1,
+          "target": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40359",
+          "parent_target_id": "page146_40359"
+        },
+        {
+          "id": "page146_40383",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "Informationen aus Texten entnehmen",
+          "remarks": "Sachtexte, literarische Texte Weihnachtsgeschichte Beachten von Urheberrecht und geistigem Eigentum",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40383",
+          "parent_target_id": "page146_40359"
+        },
+        {
+          "id": "page146_40453",
+          "grade": "3/4",
+          "area_id": "page146_40054",
+          "area": "Lernbereich 6: Natur entdecken und erleben 120 Ustd.",
+          "level": 1,
+          "target": "Kennen ausgewählter Tierarten",
+          "remarks": "⇒ Bildung für nachhaltige Entwicklung ➔ MA, Kl. 3/4, LBW 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40453",
+          "parent_target_id": "page146_40453"
+        },
+        {
+          "id": "page146_40458",
+          "grade": "3/4",
+          "area_id": "page146_40054",
+          "area": "Lernbereich 6: Natur entdecken und erleben 120 Ustd.",
+          "level": 3,
+          "target": "Informationen aus Medien entnehmen",
+          "remarks": "Einbeziehen traditioneller und digitaler Medien Beachten von Urheberrecht und geistigem Eigentum bei fremden Bildern und Texten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40458",
+          "parent_target_id": "page146_40453"
+        },
+        {
+          "id": "page146_40492",
+          "grade": "3/4",
+          "area_id": "page146_40058",
+          "area": "Wahlbereich 1: Feuer – Wasser – Erde – Luft",
+          "level": 1,
+          "target": "Einblick gewinnen in die vier Elemente",
+          "remarks": "⇒ Bildung für nachhaltige Entwicklung ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40492",
+          "parent_target_id": "page146_40492"
+        },
+        {
+          "id": "page146_40497",
+          "grade": "3/4",
+          "area_id": "page146_40058",
+          "area": "Wahlbereich 1: Feuer – Wasser – Erde – Luft",
+          "level": 3,
+          "target": "Informationen aus verschiedenen Medien entnehmen",
+          "remarks": "Einbeziehen traditioneller und digitaler Medien Beachten von Urheberrecht und geistigem Eigentum ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40497",
+          "parent_target_id": "page146_40492"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "1/2",
+          "section": "Lesen und Schreiben / Grundwissen über die Umwelt",
+          "statement": "Erste Fähigkeiten zum Lesen und Verstehen einfacher Texte sowie zur Informationsgewinnung und Wiedergabe mit verschiedenen Medien. Diese allgemeinen Anforderungen konkretisieren keine spezielle digitale Lese- oder Bewertungsstrategie.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "3/4",
+          "section": "Lesen und Schreiben / Grundwissen über die Umwelt",
+          "statement": "Textverstehen vertiefen, Gelesenes verarbeiten, Wertungen und Schlussfolgerungen ableiten; Informationen aus verschiedenen Medien gewinnen und wiedergeben. Keine automatische Gleichsetzung mit Bewertung sprachlicher Mittel, Glaubwürdigkeitsprüfung oder Textvergleich.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "allgemeine Grundlagen, kein Stufenbandziel",
+          "grade": "stufenübergreifend",
+          "section": "Überfachliche Ziele: Medienbildung / Lernen lernen",
+          "statement": "Kritischer, verantwortlicher Medienumgang, interessen- und funktionsbezogene Auswahl, Alternativen und Wirkungen eigenen medialen Handelns; Techniken der Beschaffung, Überprüfung, Verarbeitung und Aufbereitung von Informationen. Diese positiven Belege erhalten keinen erfundenen Tabellenoperator.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Siehe die übergeordneten FSP-Ziele der Kandidaten; kein gemeinsamer Operator festgelegt",
+          "gs_grade": "4",
+          "fsp_bands_considered": [
+            "1/2",
+            "3/4"
+          ]
+        }
+      ],
+      "residual_scope": "Kein Nachweis vollständiger Entsprechung für Fake News, Schutz der eigenen Identität und alle Persönlichkeitsrechte. Rechtebelege nicht als fehlend behandeln, aber auch nicht aus ihrem Sachkontext lösen. Keine rechtliche Einzelfallberatung.",
+      "uncertainty": "Vorrangig einen begrenzten Umgang mit fremden Bildern/Texten im belegten Sachkontext prüfen; GS-digitales Übertragen, FSP-Sachziel und Rechtebemerkung müssen durch getrennte Kriterien verbunden bleiben.",
+      "previous_decision": "DE-UZ-039: Anschluss unklar; positive Belege weiter abzugrenzen. FSP nennt Recht am eigenen Bild und Urheberrecht in Bemerkungen zur Materialsammlung, Dokumentation und Informationsweitergabe. Datenschutz bei familiären Strukturen ist zugleich eine Vorgabe zum Schutz freiwilliger Schüleräußerungen und darf nicht automatisch in ein Schülerziel umgedeutet werden. Allgemeine Medienbildung verlangt kritischen verantwortlichen Umgang. Die positiven Belege sind gesichert; die Übertragung auf digitale Formate samt tragfähigen getrennten Erfolgskriterien bleibt zu klären. Restumfang: Keine Vollentsprechung für Fake News, Identitätsschutz und Informationsrechte. Möglicher enger Rechteanschluss bleibt offen; Bemerkungen erhalten keinen eigenständigen Operator.",
+      "representation": "Offene Anschlussfrage; keine neue Karte und keine zusätzliche Erstprüfung gezählt."
+    },
+    {
+      "gs_id": "page908_187013",
+      "target": "Untersuchen verschiedener Perspektiven",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über mündliche und schriftliche Kommunikation",
+      "remarks": "",
+      "decision": "Anschluss weiterhin unklar; präzisierter Gegenstand und Abschlussfrage",
+      "reason": "Die Nachprüfung trennt das Untersuchungsergebnis der GS von einer unbelegt verschärften sprachwissenschaftlichen Analyse: Der GS-Wortlaut verlangt verschiedene Perspektiven innerhalb mündlicher und schriftlicher Kommunikation, nennt jedoch kein eigenes linguistisches Analyseverfahren. FSP3/4 begründet Meinungen und bahnt Verständnis für Probleme anderer an (40309/40317); damit ist ein inhaltlicher Perspektivgegenstand vorhanden. Rollentausch und rollengerechtes Verhalten sind zusätzliche Kandidaten. Offen bleibt die genaue Verbindung von Perspektivenvergleich im GS-Kommunikationskontext mit dem FSP-Positionieren oder szenischen Gestalten. Der bereits gesicherte GS3-Anschluss DE-172 und das Rollenhandeln DE-096 werden nicht automatisch auf diese GS4-Untersuchungszeile ausgedehnt.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39649",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "⇒ Sozialkompetenz ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39649",
+          "parent_target_id": "page146_39649"
+        },
+        {
+          "id": "page146_39665",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 3,
+          "target": "Empfindungen und Gefühle äußern",
+          "remarks": "mit Enttäuschungen umgehen Situationsbilder ⇒ realistisches Selbstkonzept",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39665",
+          "parent_target_id": "page146_39649"
+        },
+        {
+          "id": "page146_39967",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhaltes auf das szenische Spiel",
+          "remarks": "Hand- und Fingerpuppenspiel, Rollenspiel",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39967",
+          "parent_target_id": "page146_39967"
+        },
+        {
+          "id": "page146_39969",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 2,
+          "target": "rollengerechtes Verhalten",
+          "remarks": "Auswahl der Rolle, Verkleidung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39969",
+          "parent_target_id": "page146_39967"
+        },
+        {
+          "id": "page146_40305",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "Überwindung soziokultureller und interessenbestimmter Barrieren ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40305",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40309",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Meinungen begründen",
+          "remarks": "Kausalbeziehung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40309",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40310",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Konfliktbewältigung",
+          "remarks": "Streitschlichtung – Einsicht sich entschuldigen, jemandem verzeihen Umgang mit Schwächeren Verantwortung für die Konsequenzen des eigenen Handelns übernehmen ⇒ Förderung des sozial-emotionalen Verhaltens ➔ RE/e, Kl. 3/4, LB 1 ➔ RE/k, Kl. 3/4, LB 1 ➔ SPO, Kl. 3/4, LBW 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40310",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40317",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Gespräche führen",
+          "remarks": "zuhören können Verständnis für Probleme anderer anbahnen auf Befindlichkeiten reagieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40317",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40320",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+          "remarks": "Situationsbezug beachten sprachliche Mittel, Form ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40320",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40323",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Einladungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40323",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40550",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhalts auf das szenische Gestalten",
+          "remarks": "⇒ Kommunikationsfähigkeit ⇒ Sozialkompetenz ➔ KU, Kl. 3/4, LBW 1 ➔ WE, Kl. 3/4, LBW 2 ➔ MU, Kl. 3/4, LBW 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40550",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40556",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 2,
+          "target": "rollengerechtes Verhalten",
+          "remarks": "gesellschaftliche Geschlechterrollen thematisieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40556",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40557",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "Mimik und Gestik",
+          "remarks": "Auswahl, Vergabe, Erprobung und eventuell Tausch der Rollen in der Gruppe",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40557",
+          "parent_target_id": "page146_40550"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "1/2",
+          "section": "Kommunikation / Grundlagen des Lesens und Schreibens",
+          "statement": "Elementare Sprachfähigkeiten, erste Einsichten in Schriftsprache sowie Freude am Umgang mit Sprache. Diese Rahmenziele belegen keine einzelnen weiterführenden grammatischen Kategorien.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "übergreifende Stufenbandziele",
+          "grade": "3/4",
+          "section": "Kommunikation / Schriftstrukturen / zeitliche Orientierung",
+          "statement": "Sprachfähigkeiten erweitern, Einsichten in grundlegende Strukturen der Schriftsprache vertiefen, Freude am Umgang mit Sprache und Orientierung in Raum und Zeit entwickeln. Keine pauschale Entsprechung spezieller Tempus-, Satzglied- oder Perspektivanforderungen.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        },
+        {
+          "classification": "allgemeine Grundlagen, kein Tabellenziel und kein einzelnes Stufenband",
+          "grade": "stufenübergreifend",
+          "section": "Sprachförderung und Sozialkompetenz",
+          "statement": "Satzbildung und Sprachverständnis sowie Einfühlen in andere Einstellungen bilden unterstützende allgemeine Ziele. Daraus werden keine eigenständigen Tabellenoperatoren abgeleitet.",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+        }
+      ],
+      "intermediate_context": "",
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "gs_grade": "4",
+          "gs_curriculum_band": "3/4",
+          "fsp_candidates": [
+            {
+              "id": "page146_39649",
+              "goal": "Sich positionieren zum Umgang miteinander",
+              "band": "1/2"
+            },
+            {
+              "id": "page146_39967",
+              "goal": "Übertragen des Inhaltes auf das szenische Spiel",
+              "band": "1/2"
+            },
+            {
+              "id": "page146_40305",
+              "goal": "Sich positionieren zum Umgang miteinander",
+              "band": "3/4"
+            },
+            {
+              "id": "page146_40320",
+              "goal": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+              "band": "3/4"
+            },
+            {
+              "id": "page146_40550",
+              "goal": "Übertragen des Inhalts auf das szenische Gestalten",
+              "band": "3/4"
+            }
+          ],
+          "conclusion": "Kein hinreichend gesicherter Kartenanschluss; keine neuen Feinziele oder Kriterien als gültige Zuordnung veröffentlicht."
+        }
+      ],
+      "residual_scope": "Weder Empathie noch Übernahme einer Rolle allein beweist das Untersuchen verschiedener Perspektiven. Umgekehrt wird kein formales linguistisches Verfahren zur ungeschriebenen GS-Voraussetzung gemacht. Mündlicher und schriftlicher Kontext sowie ein begrenzter Ausschnitt sind getrennt auszuweisen.",
+      "uncertainty": "Prüfen, ob ein begrenzter Vergleich begründeter Sichtweisen in einem gemeinsamen Kommunikationsgegenstand trägt; GS-Untersuchen und FSP-Positionieren benötigen jeweils eigene Kriterien.",
+      "additional_sources": [],
+      "previous_decision": "DE-UZ-040: Anschluss unklar; positiver Teilbezug gesichert. FSP3/4 verlangt Verständnis für Probleme anderer, begründete Meinungen und rollengerechtes Verhalten; die allgemeinen Sozialkompetenzziele umfassen das Einfühlen in andere Einstellungen. Diese positiven Belege berühren Perspektiven. GS4 verlangt hier jedoch das Untersuchen verschiedener Perspektiven innerhalb der mündlichen und schriftlichen Kommunikation unter Übertragen. Handeln in einer Rolle oder Empathie wird nicht ohne Weiteres zur sprachlichen Untersuchung von Perspektiven. Der vorhandene Anschluss DE-096 betrifft das gesonderte Agieren in Sprecher-/Empfängerrollen und deckt diese Zeile nicht automatisch ab. Restumfang: Gemeinsamer kommunikativer Perspektivgegenstand und getrennte Kriterien noch abzugrenzen; weder Empathie noch Rollenspiel als vollständigen Untersuchungsauftrag behandeln.",
+      "representation": "Offene Anschlussfrage; keine neue Karte und keine zusätzliche Erstprüfung gezählt."
+    }
+  ],
+  "app_version": "1.294 unverändert",
+  "module_version": "DE-2026-11-01.18",
+  "counts": {
+    "newly_reviewed": 0,
+    "reviewed_total": 241,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 41,
+    "cards": 172,
+    "uncovered": 141,
+    "uncovered_pending_individual_review": 0,
+    "documented_no_direct_connection": 124,
+    "documented_connection_uncertain": 8,
+    "revisited_rows_this_batch": 10,
+    "assigned_rows_pending_individual_review": 89,
+    "documented_overarching_connection_without_card": 9,
+    "uncertain_connections_resolved_this_batch": 5,
+    "source_rechecks_pending": 1
+  },
+  "next_id": "page908_187030",
+  "next_target": "weitere Wörter und Wendungen zur Markierung der Zeitstufen Vergangenheit, Gegenwart und Zukunft",
+  "source_verification": {
+    "online_check": "Amtliche Seiten GS Deutsch Lehrplan 908 (Überarbeitung 2026) und FSP Lernen DE-HKS Lehrplan 146 (2019) am 01.11.2026 erneut erreichbar; relevante Inhalte mit gespeicherten Fassungen geprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "stored_sources": "SHA256 aller drei gespeicherten amtlichen Quelldateien stimmt mit sources/SHA256SUMS überein.",
+    "repository_check": "Vor Bearbeitung alle 121 lokal vorhandenen versionierten Dateien gegen Git-Blobs des aktuellen main geprüft: identisch. Nur die für die Fachprüfung irrelevante .gitignore fehlt im lokalen Lesestand.",
+    "classification_note": "Vier neue übergreifende Teilanschlüsse: 186844 fachliches Stufenbandziel 3/4; 186860, 186866 und 186971 allgemeine schulartbezogene Grundlagenziele ohne eigenes Stufenbandniveau. Die Anwendung auf 3/4 ist als didaktische Konkretisierung gekennzeichnet, nicht als wörtliches Stufenbandziel."
+  },
+  "followup_notes": [
+    "Zuerst die noch nicht erneut geprüften Anschlussfragen 187030 und 187036; danach verbliebene Rückfragen einschließlich 186659. Keine Wiederholung als neue Erstprüfung zählen.",
+    "186555 nach den offenen Anschlussfragen gesondert anhand des jetzt exakt verankerten Mnemo-Technik-Belegs nachprüfen; in source_recheck_queue gespeichert. Dieser Fall wurde hier nicht als erneut geprüft oder geklärt gezählt.",
+    "Anschließend 89 bereits zugeordnete Unterzielzeilen einzeln prüfen. Gesamtprüfung nicht abgeschlossen.",
+    "Übergreifende Teilanschlüsse ohne Karte zählen positiv und getrennt von Nichtanschlüssen. Die Karteninventur uncovered_child_ids bildet keine vollständige curriculare Abdeckung ab.",
+    "Aufgaben/Lernhandlungen und Hilfsmittel bleiben vollständig Lehrkraftentscheidung. Keine Vorschläge, keine Befüllung; alle Karten, IDs und Sachunterricht erhalten."
+  ],
+  "validation": "PASS: Zehn bestehende Anschlussfragen erneut geprüft, vier begrenzte übergreifende Teilanschlüsse und ein begründeter Nichtanschluss geklärt. Fünf in diesem Paket weiterhin offen. 172 Karten, 117 Zielblöcke; alle Quellenanker, Operatoren, Bänder, Feinziele und Kriterien der bestehenden Karten gültig. 307 eindeutige Kartentitel. Inventuren (488 GS-/451 FSP-Zeilen), Quellenprüfsummen, Sachunterricht, Registry, Generator, Modul und root/dist gegenüber main unverändert. Drei eingebettete JavaScript-Blöcke syntaktisch gültig; Daten vollständig eingebettet. Zehn CSV-Prüftexte geändert, alle Zuordnungs- und Quelldatenfelder erhalten. 241 Erstprüfungen, 41 Prüfungen zuvor zugeordneter Zeilen; keine Doppelzählung der Wiederprüfungen. 141 Unterziele ohne Karte = 124 Nichtanschlüsse + 8 offene Anschlussfragen + 9 gesicherte übergreifende Teilanschlüsse. 89 zugeordnete Zeilen ungeprüft, eine gesonderte Quellen-Nachprüfung 186555 vorgemerkt. Fortsetzung 187030. Gleichwertige Node-Prüfungen gemäß check-deutsch.py; Python-Aufruf scheitert an fehlenden Xcode-Werkzeugen. Keine App-Änderung, keine künstliche Versionssteigerung und keine Pages-Aufbereitung erforderlich.",
+  "publication": {
+    "app_changed": false,
+    "app_version": "1.294",
+    "pages_preparation": "Nicht erforderlich: index.html und dist/index.html bleiben bytegleich zum geprüften main; nur Auditdateien geändert.",
+    "pdf_download_test": false
+  }
+}
