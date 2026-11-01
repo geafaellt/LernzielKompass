@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-039",
+  "last_batch": "DE-UZ-040",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -233,22 +233,31 @@
     "page908_186971",
     "page908_186982",
     "page908_186993",
-    "page908_187000"
+    "page908_187000",
+    "page908_187013",
+    "page908_187022",
+    "page908_187023",
+    "page908_187024",
+    "page908_187026",
+    "page908_187030",
+    "page908_187035",
+    "page908_187036"
   ],
-  "next_id": "page908_187013",
+  "next_id": "page908_186437",
   "counts": {
-    "newly_reviewed": 10,
-    "reviewed_total": 233,
+    "newly_reviewed": 8,
+    "reviewed_total": 241,
     "assigned_rows_reviewed_this_batch": 0,
     "assigned_rows_reviewed_total": 41,
     "cards": 169,
     "uncovered": 145,
-    "uncovered_pending_individual_review": 8,
-    "documented_no_direct_connection": 118,
-    "documented_connection_uncertain": 19,
-    "revisited_rows_this_batch": 0
+    "uncovered_pending_individual_review": 0,
+    "documented_no_direct_connection": 123,
+    "documented_connection_uncertain": 22,
+    "revisited_rows_this_batch": 0,
+    "assigned_rows_pending_individual_review": 89
   },
-  "phase": "uncovered_rows",
+  "phase": "uncertain_connections",
   "complete": false,
   "reviewed_previously_assigned_ids": [
     "page908_186403",
@@ -312,6 +321,9 @@
     "page908_186876",
     "page908_186926",
     "page908_186971",
-    "page908_186993"
+    "page908_186993",
+    "page908_187013",
+    "page908_187030",
+    "page908_187036"
   ]
 }
