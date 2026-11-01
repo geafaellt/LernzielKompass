@@ -1,6 +1,6 @@
 {
   "schema_version": "deutsch-1.0",
-  "version": "DE-2026-11-01.1",
+  "version": "DE-2026-11-01.2",
   "checked_on": "2026-10-30",
   "status": "Abgleichsentwurf zur fachlichen Erprobung",
   "scope": "GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.",
@@ -3014,6 +3014,55 @@
       "version": "2025",
       "url": "https://www.schulportal.sachsen.de/lplandb/material/513/JfY9HcZHEdq5jhm8t45J",
       "checked_on": "2026-10-30"
+    },
+    {
+      "id": "Q-DE-page908_186528",
+      "title": "Grundschule Deutsch · 3 · Informieren",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186528",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_39579",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 1/2 · Kennen des häuslichen Umfeldes",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39579",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_39597",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 1/2 · Aufgaben im häuslichen Umfeld",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39597",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_39600",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 1/2 · von einfachen Tätigkeiten berichten",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39600",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186530",
+      "title": "Grundschule Deutsch · 3 · Verwenden eines angemessenen Wortschatzes",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186530",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186540",
+      "title": "Grundschule Deutsch · 3 · Entwickeln einer Gesprächskultur",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186540",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186542",
+      "title": "Grundschule Deutsch · 3 · Schaffen einer wertschätzenden Gesprächsatmosphäre",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186542",
+      "checked_on": "2026-11-01"
     }
   ],
   "connections": [
@@ -3222,18 +3271,18 @@
         {
           "track": "Grundschule",
           "goal": "Die Lernenden können Stimme und Körpersprache passend zu einer Rolle einsetzen. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
-          "criterion": "Das Gelernte wird bei verändertem Beispiel mit erkennbar gleicher Grundstruktur passend genutzt. Inhaltlicher Bezug: Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen."
+          "criterion": "In einer vergleichbaren, noch nicht gestalteten Szene werden bekannte Mimik, Gestik und Sprachmelodie passend zur Rolle eingesetzt; der Bezug zum Szeneninhalt ist erkennbar."
         },
         {
           "track": "FSP Lernen",
           "goal": "Die Lernenden können: Den Inhalt der bekannten Szene auf ein szenisches Spiel übertragen und passende sprachliche Mittel, Mimik und Gestik einsetzen.",
-          "criterion": "Stimme und mindestens ein körperliches Ausdrucksmittel passen erkennbar zur gewählten Rolle und Szene. Die konkrete Materialmenge und erlaubte Hilfen legt die Lehrkraft vorab fest."
+          "criterion": "Der Inhalt der bekannten Szene wird in rollengerechtes Spiel umgesetzt; Mimik, Gestik und Sprachmelodie unterstützen erkennbar die dargestellte Situation. Reines Nachsprechen ohne szenischen Inhaltsbezug genügt nicht."
         }
       ],
       "shared_object_suggestion": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
-      "operator_relation": "GS: Übertragen; FSP: Übertragen. Der FSP-Operator gehört zum genannten übergeordneten Ziel und wird nur innerhalb seines Sach- bzw. Textkontextes verwendet. Nur bei tatsächlicher Wahl des FSP-Wahlbereichs 4. Keine vollständige Abdeckung von Sprachvarietäten.",
-      "review_note": "Gemeinsamer Zielausschnitt: Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen. Nur bei tatsächlicher Wahl des FSP-Wahlbereichs 4. Keine vollständige Abdeckung von Sprachvarietäten.",
-      "app_review_message": "Gemeinsamer Zielausschnitt: Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen. Nur bei tatsächlicher Wahl des FSP-Wahlbereichs 4. Keine vollständige Abdeckung von Sprachvarietäten. Feinziele, Aufgaben und Erfolgskriterien sind didaktische Vorschläge; keine amtlichen Formulierungen.",
+      "operator_relation": "Beide Operatoren lauten Übertragen, beziehen sich aber auf unterschiedliche Transferbeziehungen: GS Gestaltungsmittel in vergleichbarer Sprechsituation; FSP Textinhalt in szenischer Darstellung. FSP-Wahlbereich 4 erforderlich.",
+      "review_note": "Gemeinsamer Zielausschnitt: Mimik, Gestik, Körpersprache und Sprachmelodie im szenischen Spiel. Nur bei tatsächlicher Wahl des FSP-Wahlbereichs 4. GS überträgt bekannte Gestaltungsmittel auf eine vergleichbare neue Szene; FSP überträgt Textinhalt in szenische Darstellung. Pausengestaltung und Blickkontakt sind nicht ausdrücklich als FSP-Ziel benannt. Keine vollständige Abdeckung der GS-Unterziele oder von Sprachvarietäten.",
+      "app_review_message": "Gemeinsamer Zielausschnitt: Mimik, Gestik, Körpersprache und Sprachmelodie im szenischen Spiel. Nur bei tatsächlicher Wahl des FSP-Wahlbereichs 4. GS überträgt bekannte Gestaltungsmittel auf eine vergleichbare neue Szene; FSP überträgt Textinhalt in szenische Darstellung. Pausengestaltung und Blickkontakt sind nicht ausdrücklich als FSP-Ziel benannt. Keine vollständige Abdeckung der GS-Unterziele oder von Sprachvarietäten. Feinziele und Kriterien sind didaktische Konkretisierungen. Lernhandlung/Aufgabe und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
       "content_review_required": true,
       "stage_alignment": {
         "relation": "same-band",
@@ -3364,7 +3413,7 @@
       "subject": "Deutsch",
       "theme": "Gesprächsregeln und begründete Meinungen",
       "app_area": "DE-page908_186519",
-      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Sprechen und Zuhören; Übertragen des Wissens über Formen und Regeln des Miteinandersprechens; Konkretisierung: Finden, Äußern und Begründen der eigenen Meinung; Beachten gemeinsamer Gesprächsregeln",
+      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Sprechen und Zuhören; Übertragen des Wissens über Formen und Regeln des Miteinandersprechens; Konkretisierung: Entwickeln einer Gesprächskultur; Schaffen einer wertschätzenden Gesprächsatmosphäre; Finden, Äußern und Begründen der eigenen Meinung; Beachten gemeinsamer Gesprächsregeln",
       "gs_operator": "Übertragen",
       "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 3: Einer braucht den anderen 100 Ustd.; Sich positionieren zum Leben in der Klassengemeinschaft; Zielausschnitt: Regeln formulieren; Verhalten einschätzen und werten",
       "fsp_operator": "Sich positionieren",
@@ -3373,6 +3422,8 @@
       "user_approval": false,
       "source_ids": [
         "Q-DE-page908_186538",
+        "Q-DE-page908_186540",
+        "Q-DE-page908_186542",
         "Q-DE-page908_186543",
         "Q-DE-page908_186546",
         "Q-DE-page146_40282",
@@ -3381,6 +3432,8 @@
       ],
       "gs_target_ids": [
         "page908_186538",
+        "page908_186540",
+        "page908_186542",
         "page908_186543",
         "page908_186546"
       ],
@@ -3392,19 +3445,19 @@
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Die Lernenden können eine Gesprächsregel einhalten und die eigene Einschätzung mit einer Beobachtung begründen. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
-          "criterion": "Das Gelernte wird bei verändertem Beispiel mit erkennbar gleicher Grundstruktur passend genutzt. Inhaltlicher Bezug: Eine Gesprächsregel für den Klassenrat."
+          "goal": "Die Lernenden können bekannte Gesprächsregeln in einer vergleichbaren neuen Klassenratssituation nutzen, mit wertschätzenden Formulierungen zur Verständigung beitragen und eine eigene Einschätzung begründen. Anforderungsniveau: Übertragen.",
+          "criterion": "Im neuen Gesprächsanlass wird eine bekannte Regel passend genutzt; die Formulierung würdigt die Gesprächspartner, und eine eigene Einschätzung wird mit einer konkreten Beobachtung begründet."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Die Lernenden können: Das Verhalten in einer konkreten Klassensituation einschätzen und die eigene Meinung dazu begründen.",
-          "criterion": "Eine eigene Einschätzung wird durch eine konkrete Beobachtung zum Gesprächsverhalten begründet. Die konkrete Materialmenge und erlaubte Hilfen legt die Lehrkraft vorab fest."
+          "goal": "Die Lernenden können den Umgangston in einer konkreten Klassensituation einschätzen, ihre Wertung begründen und eine dazu passende Gesprächsregel formulieren. Anforderungsniveau: Sich positionieren.",
+          "criterion": "Die eigene Wertung des Umgangstons wird durch eine konkrete Beobachtung gestützt; die formulierte Regel passt zur beurteilten Situation und zu einem respektvollen Miteinander."
         }
       ],
       "shared_object_suggestion": "Eine Gesprächsregel für den Klassenrat",
-      "operator_relation": "GS: Übertragen; FSP: Sich positionieren. Der FSP-Operator gehört zum genannten übergeordneten Ziel und wird nur innerhalb seines Sach- bzw. Textkontextes verwendet. FSP-Ziel: Positionierung zum Leben in der Klassengemeinschaft. Kein vollständiger Beleg für Fachsprache, digitale Gesprächsregeln oder sämtliche Gesprächsformen.",
-      "review_note": "Gemeinsamer Zielausschnitt: Eine Gesprächsregel für den Klassenrat. FSP-Ziel: Positionierung zum Leben in der Klassengemeinschaft. Kein vollständiger Beleg für Fachsprache, digitale Gesprächsregeln oder sämtliche Gesprächsformen.",
-      "app_review_message": "Gemeinsamer Zielausschnitt: Eine Gesprächsregel für den Klassenrat. FSP-Ziel: Positionierung zum Leben in der Klassengemeinschaft. Kein vollständiger Beleg für Fachsprache, digitale Gesprächsregeln oder sämtliche Gesprächsformen. Feinziele, Aufgaben und Erfolgskriterien sind didaktische Vorschläge; keine amtlichen Formulierungen.",
+      "operator_relation": "GS3 Übertragen bekannter Gesprächsregeln ↔ FSP3/4 Sich positionieren zum Klassenleben. Gleicher Lehrplanband, unterschiedliche Operatoren und Nachweise.",
+      "review_note": "Begrenzter Anschluss von Gesprächskultur und wertschätzender Gesprächsatmosphäre über demokratische Mitbestimmung, Regeln und begründete Bewertung des Umgangstons in der Klassengemeinschaft. FSP-Sich-positionieren verlangt die eigene begründete Wertung; höfliches Sprechen allein genügt nicht. Keine vollständige Abdeckung aller Gesprächsformen, von Redebeitragsfeedback, Fachsprache oder digitalen Gesprächsregeln.",
+      "app_review_message": "Begrenzter Anschluss von Gesprächskultur und wertschätzender Gesprächsatmosphäre über demokratische Mitbestimmung, Regeln und begründete Bewertung des Umgangstons in der Klassengemeinschaft. FSP-Sich-positionieren verlangt die eigene begründete Wertung; höfliches Sprechen allein genügt nicht. Keine vollständige Abdeckung aller Gesprächsformen, von Redebeitragsfeedback, Fachsprache oder digitalen Gesprächsregeln. Feinziele und Kriterien sind didaktische Konkretisierungen. Lernhandlung/Aufgabe und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
       "content_review_required": true,
       "stage_alignment": {
         "relation": "same-band",
@@ -11183,6 +11236,112 @@
         ],
         "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
       }
+    },
+    {
+      "id": "DE-148",
+      "subject": "Deutsch",
+      "theme": "Über eine häusliche Tätigkeit berichten",
+      "app_area": "DE-page908_186519",
+      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Sprechen und Zuhören; Kennen von Formen des situations- und adressatengerechten Kommunizierens; Konkretisierung: Informieren",
+      "gs_operator": "Kennen",
+      "fsp_anchor": "FSP(L) Kl. 1/2 · DE-HKS Lernbereich 3: Einer braucht den anderen 85 Ustd.; Kennen des häuslichen Umfeldes; Zielausschnitt: Aufgaben im häuslichen Umfeld; von einfachen Tätigkeiten berichten",
+      "fsp_operator": "Kennen",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186526",
+        "Q-DE-page908_186528",
+        "Q-DE-page146_39579",
+        "Q-DE-page146_39597",
+        "Q-DE-page146_39600"
+      ],
+      "gs_target_ids": [
+        "page908_186526",
+        "page908_186528"
+      ],
+      "fsp_target_ids": [
+        "page146_39579",
+        "page146_39597",
+        "page146_39600"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einem bekannten Beispiel erläutern und zeigen, wie ein sachlicher Bericht über eine Alltagstätigkeit verständlich informiert. Anforderungsniveau: Kennen.",
+          "criterion": "Die wesentliche Tätigkeit und ihr Ablauf werden sachlich und nachvollziehbar wiedergegeben; an diesem bekannten Beispiel wird ein Merkmal des informierenden Berichtens erläutert."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können eine vertraute Tätigkeit im häuslichen Umfeld benennen und darüber in verständlichen Sätzen berichten. Anforderungsniveau: Kennen.",
+          "criterion": "Der Bericht gibt zutreffend wieder, was bei der vertrauten Tätigkeit geschieht; der Bezug zum häuslichen Umfeld bleibt erkennbar. Kein Transfer auf eine neue Anforderung verlangt."
+        }
+      ],
+      "shared_object_suggestion": "Ein sachlicher Bericht über eine vertraute, überschaubare Tätigkeit im häuslichen Umfeld",
+      "operator_relation": "GS3 Kennen ↔ FSP1/2 Kennen; stufenübergreifender Anschluss im ausdrücklich benannten häuslichen Kontext.",
+      "review_note": "Begrenzter Anschluss von GS3 Informieren an FSP1/2 Berichten im häuslichen Umfeld. Beide übergeordneten Operatoren: Kennen. Keine Gleichsetzung aller Alltagssituationen oder Berichtsformen. Persönliche Angaben bleiben freiwillig; eine vertraute Tätigkeit kann ohne Offenlegung privater Familienverhältnisse beschrieben werden.",
+      "app_review_message": "Begrenzter Anschluss von GS3 Informieren an FSP1/2 Berichten im häuslichen Umfeld. Beide übergeordneten Operatoren: Kennen. Keine Gleichsetzung aller Alltagssituationen oder Berichtsformen. Persönliche Angaben bleiben freiwillig; eine vertraute Tätigkeit kann ohne Offenlegung privater Familienverhältnisse beschrieben werden. Feinziele und Kriterien sind didaktische Konkretisierungen. Lernhandlung/Aufgabe und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "cross-band",
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
+    },
+    {
+      "id": "DE-149",
+      "subject": "Deutsch",
+      "theme": "Räumlichen Wortschatz verständlich verwenden",
+      "app_area": "DE-page908_186519",
+      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Sprechen und Zuhören; Kennen von Formen des situations- und adressatengerechten Kommunizierens; Konkretisierung: Verwenden eines angemessenen Wortschatzes",
+      "gs_operator": "Kennen",
+      "fsp_anchor": "FSP(L) Kl. 1/2 · DE-HKS Lernbereich 5: Die Welt um mich herum 95 Ustd.; Anwenden von Begriffen zur Bezeichnung von Lagebeziehungen im Raum",
+      "fsp_operator": "Anwenden",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186526",
+        "Q-DE-page908_186530",
+        "Q-DE-page146_39794"
+      ],
+      "gs_target_ids": [
+        "page908_186526",
+        "page908_186530"
+      ],
+      "fsp_target_ids": [
+        "page146_39794"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können passende Lagewörter in einer bekannten mündlichen Suchanweisung verwenden und deren Bedeutung für eine verständliche Orientierung erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "An der bekannten Anordnung werden Lagewörter zutreffend auf Gegenstände bezogen und ihre Bedeutung für den Zuhörer nachvollziehbar erklärt. Kein selbstständiger Transfer auf eine neue Anordnung vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Erarbeitete Lagebegriffe für eine neue räumliche Anordnung im Klassenraum selbst auswählen und so verwenden, dass ein Partner den gesuchten Gegenstand findet.",
+          "criterion": "Bei einer vorher nicht geübten Anordnung werden passende Lagebegriffe selbst ausgewählt; der Partner kann damit den Gegenstand eindeutig finden. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "shared_object_suggestion": "Eine mündliche Suchanweisung zu einem Gegenstand im Klassenraum",
+      "operator_relation": "GS3 Kennen ↔ FSP1/2 Anwenden. Der gemeinsame Wortbestand begründet keine Gleichsetzung der Operatoren.",
+      "review_note": "Nur räumlicher Wortschatz im Klassenraum. GS3 Kennen zu FSP1/2 Anwenden; unterschiedliche Anforderungsniveaus trotz stufenübergreifendem Anschluss. Der FSP-Nachweis verlangt eine neue räumliche Anordnung und eigene Auswahl geeigneter Begriffe. Keine vollständige Abdeckung angemessenen Wortschatzes oder von Bildungs- und Fachsprache.",
+      "app_review_message": "Nur räumlicher Wortschatz im Klassenraum. GS3 Kennen zu FSP1/2 Anwenden; unterschiedliche Anforderungsniveaus trotz stufenübergreifendem Anschluss. Der FSP-Nachweis verlangt eine neue räumliche Anordnung und eigene Auswahl geeigneter Begriffe. Keine vollständige Abdeckung angemessenen Wortschatzes oder von Bildungs- und Fachsprache. Feinziele und Kriterien sind didaktische Konkretisierungen. Lernhandlung/Aufgabe und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "cross-band",
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
     }
   ],
   "target_audit": [
@@ -11794,13 +11953,13 @@
       "target": "Kennen von Formen des situations- und adressatengerechten Kommunizierens",
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
-        "DE-002"
+        "DE-002",
+        "DE-148",
+        "DE-149"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186528",
         "page908_186529",
-        "page908_186530",
         "page908_186531",
         "page908_186532"
       ],
@@ -11832,8 +11991,6 @@
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186540",
-        "page908_186542",
         "page908_186544",
         "page908_186545"
       ],

@@ -1,0 +1,793 @@
+{
+  "batch": "DE-UZ-026",
+  "date": "2026-11-01",
+  "source_commit": "76c0e5747af4ab14101a786a69bf3c59d310fb68",
+  "entries": [
+    {
+      "gs_id": "page908_186528",
+      "target": "Informieren",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "Berichten über Alltagssituationen",
+      "decision": "begrenzter Anschluss ergänzt",
+      "reason": "Der FSP-Unterpunkt berichtet ausdrücklich über vertraute häusliche Tätigkeiten. Damit besteht ein enger sprachlicher Anschluss an das Informieren über Alltagssituationen. GS3 und FSP1/2 stehen beide unter Kennen; der häusliche Kontext wird nicht verallgemeinert. Berichte über schulische Höhepunkte in FSP3/4 sind eine weitere Kontextnähe, ersetzen aber nicht den gewählten häuslichen Anker.",
+      "cards": [
+        "DE-148"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39579",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Kennen des häuslichen Umfeldes",
+          "remarks": "⇒ Werteorientierung ➔ ETH, Kl. 1/2, LB 2 ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39579",
+          "parent_target_id": "page146_39579"
+        },
+        {
+          "id": "page146_39597",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 2,
+          "target": "Aufgaben im häuslichen Umfeld",
+          "remarks": "Fürsorge, Hilfeleistungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39597",
+          "parent_target_id": "page146_39579"
+        },
+        {
+          "id": "page146_39600",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 3,
+          "target": "von einfachen Tätigkeiten berichten",
+          "remarks": "vertraute, überschaubare Handlungen Sätze bilden Satzmuster",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39600",
+          "parent_target_id": "page146_39579"
+        },
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40304",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "über Höhepunkte berichten",
+          "remarks": "sachorientiertes Darstellen Reihenfolge beachten Wesentliches in einfachen Sätzen wiedergeben Situationsbezug Differenzierung: mündlich/schriftlich",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40304",
+          "parent_target_id": "page146_40282"
+        }
+      ],
+      "shared_objects": [
+        "Ein sachlicher Bericht über eine vertraute, überschaubare Tätigkeit im häuslichen Umfeld"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einem bekannten Beispiel erläutern und zeigen, wie ein sachlicher Bericht über eine Alltagstätigkeit verständlich informiert. Anforderungsniveau: Kennen.",
+          "criterion": "Die wesentliche Tätigkeit und ihr Ablauf werden sachlich und nachvollziehbar wiedergegeben; an diesem bekannten Beispiel wird ein Merkmal des informierenden Berichtens erläutert."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können eine vertraute Tätigkeit im häuslichen Umfeld benennen und darüber in verständlichen Sätzen berichten. Anforderungsniveau: Kennen.",
+          "criterion": "Der Bericht gibt zutreffend wieder, was bei der vertrauten Tätigkeit geschieht; der Bezug zum häuslichen Umfeld bleibt erkennbar. Kein Transfer auf eine neue Anforderung verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186529",
+      "target": "Erwerben von Bildungs- und Fachsprache",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "FSP enthält Wortschatzerweiterung als übergreifendes Ziel, räumliche Begriffe, grammatische Bezeichnungen und Begriffswissen zu Familienstrukturen. Diese konkretisieren Wortbestände, belegen aber keinen ausdrücklich ausgearbeiteten Erwerb von Bildungs- und Fachsprache im situations- und adressatenbezogenen Sprechen. Daher vorläufig kein eigenständiger Kartenanschluss; kein Urteil, dass fachsprachliche Förderung im FSP ausgeschlossen sei.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39794",
+          "grade": "1/2",
+          "area_id": "page146_39143",
+          "area": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+          "level": 1,
+          "target": "Anwenden von Begriffen zur Bezeichnung von Lagebeziehungen im Raum",
+          "remarks": "Klassenraum, Schulhaus, Schulgelände Bezeichnungen: auf, unter, vor, hinter, rechts, links, neben, zwischen Suchspiele ➔ MA, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39794",
+          "parent_target_id": "page146_39794"
+        },
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40263",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Kennen familiärer Strukturen",
+          "remarks": "Freiwilligkeit der Schüleräußerung und Datenschutz beachten Möglichkeiten und Risiken digitaler Medien einfache Familienstammbäume und Verwandtschaftsgrade ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40263",
+          "parent_target_id": "page146_40263"
+        },
+        {
+          "id": "page146_40271",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Begriffswissen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40271",
+          "parent_target_id": "page146_40263"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten bleiben an ihren vollständigen Elternzielen; kein direkter Anschluss bestätigt."
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186530",
+      "target": "Verwenden eines angemessenen Wortschatzes",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "",
+      "decision": "begrenzter Anschluss ergänzt",
+      "reason": "Lagebegriffe werden im FSP ausdrücklich zum sprachlichen Orientieren im Raum angewandt. Der gemeinsame Wortbestand erlaubt einen begrenzten Anschluss an angemessenen Wortschatz. GS3 Kennen am erarbeiteten Beispiel wird von FSP1/2 Anwenden an einer neuen Anordnung unterschieden; kein Vollanschluss des Wortschatzziels.",
+      "cards": [
+        "DE-149"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39794",
+          "grade": "1/2",
+          "area_id": "page146_39143",
+          "area": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+          "level": 1,
+          "target": "Anwenden von Begriffen zur Bezeichnung von Lagebeziehungen im Raum",
+          "remarks": "Klassenraum, Schulhaus, Schulgelände Bezeichnungen: auf, unter, vor, hinter, rechts, links, neben, zwischen Suchspiele ➔ MA, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39794",
+          "parent_target_id": "page146_39794"
+        }
+      ],
+      "shared_objects": [
+        "Eine mündliche Suchanweisung zu einem Gegenstand im Klassenraum"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können passende Lagewörter in einer bekannten mündlichen Suchanweisung verwenden und deren Bedeutung für eine verständliche Orientierung erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "An der bekannten Anordnung werden Lagewörter zutreffend auf Gegenstände bezogen und ihre Bedeutung für den Zuhörer nachvollziehbar erklärt. Kein selbstständiger Transfer auf eine neue Anordnung vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Erarbeitete Lagebegriffe für eine neue räumliche Anordnung im Klassenraum selbst auswählen und so verwenden, dass ein Partner den gesuchten Gegenstand findet.",
+          "criterion": "Bei einer vorher nicht geübten Anordnung werden passende Lagebegriffe selbst ausgewählt; der Partner kann damit den Gegenstand eindeutig finden. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186531",
+      "target": "Erproben erster Rückmeldungen zu Redebeiträgen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "Lerninhalte und -abläufe reflektieren, Kriterien vereinbaren",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Bewerten von Verhalten und Umgangston sowie Gespräche führen bieten Nähe. Auch die übergreifende kritische Reflexion eigenen Verhaltens wurde berücksichtigt. Ein Rückmelden zu einem Redebeitrag anhand vereinbarter Kriterien und die Reflexion von Lerninhalten/-abläufen sind damit jedoch nicht hinreichend konkret belegt. Die neue Fassung von DE-007 wird nicht als Redebeitragsfeedback gewertet.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40291",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Verhalten einschätzen und werten",
+          "remarks": "Umgangston Kausalbeziehungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40291",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40305",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "Überwindung soziokultureller und interessenbestimmter Barrieren ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40305",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40317",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Gespräche führen",
+          "remarks": "zuhören können Verständnis für Probleme anderer anbahnen auf Befindlichkeiten reagieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40317",
+          "parent_target_id": "page146_40305"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten bleiben an ihren vollständigen Elternzielen; kein direkter Anschluss bestätigt."
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186532",
+      "target": "Nutzen digitaler Werkzeuge",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "Diktierfunktion ⇒ Medienbildung",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "FSP benennt Lernprogramme und Textverarbeitung bzw. digitale Schreibmedien. Die GS-Zeile steht im mündlichen Kommunizieren und konkretisiert digitale Werkzeuge durch die Diktierfunktion. Texteingabe am Computer belegt keine Spracheingabe. Digitale Medien als allgemeiner Kontext reichen für diesen spezifischen Anschluss nicht aus.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39318",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden von Sprachwissen beim Lernen am Computer",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39318",
+          "parent_target_id": "page146_39318"
+        },
+        {
+          "id": "page146_40153",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen digitaler Medien als Hilfsmittel zum Schreiben",
+          "remarks": "⇒ informatische Bildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40153",
+          "parent_target_id": "page146_40153"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten bleiben an ihren vollständigen Elternzielen; kein direkter Anschluss bestätigt."
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186535",
+      "target": "Körperhaltung und Körpersprache",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über Ausdrucks- und Gestaltungsmittel beim Sprechen",
+      "remarks": "Mimik, Gestik, Blickkontakt",
+      "decision": "bestehenden begrenzten Anschluss präzisiert",
+      "reason": "FSP-Wahlbereich 4 nennt Mimik, Gestik und Körpersprache. Anschluss nur im szenischen Textkontext; Blickkontakt ist nicht ausdrücklich benannt. Beide Elternziele lauten Übertragen, die Transfergegenstände unterscheiden sich jedoch: bekannte Gestaltungsmittel in einer vergleichbaren Sprechsituation versus Textinhalt in szenischer Darstellung.",
+      "cards": [
+        "DE-004"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40550",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhalts auf das szenische Gestalten",
+          "remarks": "⇒ Kommunikationsfähigkeit ⇒ Sozialkompetenz ➔ KU, Kl. 3/4, LBW 1 ➔ WE, Kl. 3/4, LBW 2 ➔ MU, Kl. 3/4, LBW 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40550",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40556",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 2,
+          "target": "rollengerechtes Verhalten",
+          "remarks": "gesellschaftliche Geschlechterrollen thematisieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40556",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40557",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "Mimik und Gestik",
+          "remarks": "Auswahl, Vergabe, Erprobung und eventuell Tausch der Rollen in der Gruppe",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40557",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40558",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "sprachliche Mittel",
+          "remarks": "Rhythmus, Melodie, Lautstärke, Körpersprache",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40558",
+          "parent_target_id": "page146_40550"
+        }
+      ],
+      "shared_objects": [
+        "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können Stimme und Körpersprache passend zu einer Rolle einsetzen. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
+          "criterion": "In einer vergleichbaren, noch nicht gestalteten Szene werden bekannte Mimik, Gestik und Sprachmelodie passend zur Rolle eingesetzt; der Bezug zum Szeneninhalt ist erkennbar."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Den Inhalt der bekannten Szene auf ein szenisches Spiel übertragen und passende sprachliche Mittel, Mimik und Gestik einsetzen.",
+          "criterion": "Der Inhalt der bekannten Szene wird in rollengerechtes Spiel umgesetzt; Mimik, Gestik und Sprachmelodie unterstützen erkennbar die dargestellte Situation. Reines Nachsprechen ohne szenischen Inhaltsbezug genügt nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186536",
+      "target": "Stimmeinsatz: Pausen, Sprachmelodie",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über Ausdrucks- und Gestaltungsmittel beim Sprechen",
+      "remarks": "",
+      "decision": "bestehenden begrenzten Anschluss präzisiert",
+      "reason": "Sprachmelodie ist über Melodie als FSP-Bemerkung zu sprachlichen Mitteln belegt. Pausengestaltung ist nicht ausdrücklich genannt; Rhythmus wird nicht pauschal gleichgesetzt. Der Anschluss bleibt auf Sprachmelodie in szenischer Gestaltung bei Wahl des Wahlbereichs 4 begrenzt.",
+      "cards": [
+        "DE-004"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40550",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhalts auf das szenische Gestalten",
+          "remarks": "⇒ Kommunikationsfähigkeit ⇒ Sozialkompetenz ➔ KU, Kl. 3/4, LBW 1 ➔ WE, Kl. 3/4, LBW 2 ➔ MU, Kl. 3/4, LBW 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40550",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40558",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "sprachliche Mittel",
+          "remarks": "Rhythmus, Melodie, Lautstärke, Körpersprache",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40558",
+          "parent_target_id": "page146_40550"
+        }
+      ],
+      "shared_objects": [
+        "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können Stimme und Körpersprache passend zu einer Rolle einsetzen. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
+          "criterion": "In einer vergleichbaren, noch nicht gestalteten Szene werden bekannte Mimik, Gestik und Sprachmelodie passend zur Rolle eingesetzt; der Bezug zum Szeneninhalt ist erkennbar."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Den Inhalt der bekannten Szene auf ein szenisches Spiel übertragen und passende sprachliche Mittel, Mimik und Gestik einsetzen.",
+          "criterion": "Der Inhalt der bekannten Szene wird in rollengerechtes Spiel umgesetzt; Mimik, Gestik und Sprachmelodie unterstützen erkennbar die dargestellte Situation. Reines Nachsprechen ohne szenischen Inhaltsbezug genügt nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186537",
+      "target": "Sprachvarietäten",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über Ausdrucks- und Gestaltungsmittel beim Sprechen",
+      "remarks": "Dialekt, Erst- und Zweitsprache, Alltags-, Bildungs- und Fachsprache",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "FSP berücksichtigt Mehrsprachigkeit und kulturelle Vielfalt als didaktischen Kontext. Melodie, Rhythmus und Lautstärke im Theater sind keine Sprachvarietäten. Ein gezieltes Übertragen von Kenntnissen über Dialekt, Erst-/Zweitsprache oder sprachliche Register beim gestaltenden Sprechen ist hier nicht hinreichend belegt.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39649",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "⇒ Sozialkompetenz ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39649",
+          "parent_target_id": "page146_39649"
+        },
+        {
+          "id": "page146_40550",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 1,
+          "target": "Übertragen des Inhalts auf das szenische Gestalten",
+          "remarks": "⇒ Kommunikationsfähigkeit ⇒ Sozialkompetenz ➔ KU, Kl. 3/4, LBW 1 ➔ WE, Kl. 3/4, LBW 2 ➔ MU, Kl. 3/4, LBW 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40550",
+          "parent_target_id": "page146_40550"
+        },
+        {
+          "id": "page146_40558",
+          "grade": "3/4",
+          "area_id": "page146_40067",
+          "area": "Wahlbereich 4: Wir spielen Theater",
+          "level": 3,
+          "target": "sprachliche Mittel",
+          "remarks": "Rhythmus, Melodie, Lautstärke, Körpersprache",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40558",
+          "parent_target_id": "page146_40550"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "gs_band": "3/4",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten bleiben an ihren vollständigen Elternzielen; kein direkter Anschluss bestätigt."
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186540",
+      "target": "Entwickeln einer Gesprächskultur",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über Formen und Regeln des Miteinandersprechens",
+      "remarks": "Mitbestimmung Pro-und Kontra-Debatte Nachdenk- und Reflexionsgespräche Sachgespräche Textüberarbeitungsgespräche Schreibgespräche ➔ SU, Kl. 3, LB 2",
+      "decision": "begrenzten Anschluss ergänzt",
+      "reason": "Mitbestimmung ist in den Bemerkungen des FSP-Elternziels durch Vorschläge, Diskussion und Abstimmung konkretisiert. Zusammen mit Regelformulierung und begründeter Verhaltensbewertung trägt dies den begrenzten Anschluss im Klassenrat. Sämtliche GS-Gesprächsformen, insbesondere Textüberarbeitungs- und Schreibgespräche, sind dadurch nicht abgedeckt.",
+      "cards": [
+        "DE-007"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40289",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Regeln formulieren",
+          "remarks": "mündlich und schriftlich Aufforderungssatz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40289",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40291",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Verhalten einschätzen und werten",
+          "remarks": "Umgangston Kausalbeziehungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40291",
+          "parent_target_id": "page146_40282"
+        }
+      ],
+      "shared_objects": [
+        "Eine Gesprächsregel für den Klassenrat"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können bekannte Gesprächsregeln in einer vergleichbaren neuen Klassenratssituation nutzen, mit wertschätzenden Formulierungen zur Verständigung beitragen und eine eigene Einschätzung begründen. Anforderungsniveau: Übertragen.",
+          "criterion": "Im neuen Gesprächsanlass wird eine bekannte Regel passend genutzt; die Formulierung würdigt die Gesprächspartner, und eine eigene Einschätzung wird mit einer konkreten Beobachtung begründet."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können den Umgangston in einer konkreten Klassensituation einschätzen, ihre Wertung begründen und eine dazu passende Gesprächsregel formulieren. Anforderungsniveau: Sich positionieren.",
+          "criterion": "Die eigene Wertung des Umgangstons wird durch eine konkrete Beobachtung gestützt; die formulierte Regel passt zur beurteilten Situation und zu einem respektvollen Miteinander."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Sich positionieren",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    },
+    {
+      "gs_id": "page908_186542",
+      "target": "Schaffen einer wertschätzenden Gesprächsatmosphäre",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen des Wissens über Formen und Regeln des Miteinandersprechens",
+      "remarks": "",
+      "decision": "begrenzten Anschluss ergänzt",
+      "reason": "Umgangston, Regeln und Positionierung zum Klassenleben tragen einen begrenzten Anschluss an eine wertschätzende Gesprächsatmosphäre. GS überträgt Regeln in einen vergleichbaren neuen Anlass; FSP bewertet den Umgangston begründet. FSP1/2 nennt wertschätzende Kommunikation ausdrücklich als Bemerkung; dieser alternative Kontext wird nicht mit dem FSP3/4-Operator vermischt.",
+      "cards": [
+        "DE-007"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40289",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Regeln formulieren",
+          "remarks": "mündlich und schriftlich Aufforderungssatz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40289",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40291",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Verhalten einschätzen und werten",
+          "remarks": "Umgangston Kausalbeziehungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40291",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_39605",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Kennen der Klassengemeinschaft",
+          "remarks": "➔ ETH, Kl. 1/2, LB 2 ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39605",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_39617",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 2,
+          "target": "Regeln für gemeinsames und individuelles Lernen",
+          "remarks": "Verhaltensmuster und Ordnungsregeln Hausordnung, Klassenordnung wertschätzende Kommunikation als Grundlage zur Konfliktlösung ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39617",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_40305",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "Überwindung soziokultureller und interessenbestimmter Barrieren ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40305",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40317",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Gespräche führen",
+          "remarks": "zuhören können Verständnis für Probleme anderer anbahnen auf Befindlichkeiten reagieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40317",
+          "parent_target_id": "page146_40305"
+        }
+      ],
+      "shared_objects": [
+        "Eine Gesprächsregel für den Klassenrat"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können bekannte Gesprächsregeln in einer vergleichbaren neuen Klassenratssituation nutzen, mit wertschätzenden Formulierungen zur Verständigung beitragen und eine eigene Einschätzung begründen. Anforderungsniveau: Übertragen.",
+          "criterion": "Im neuen Gesprächsanlass wird eine bekannte Regel passend genutzt; die Formulierung würdigt die Gesprächspartner, und eine eigene Einschätzung wird mit einer konkreten Beobachtung begründet."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können den Umgangston in einer konkreten Klassensituation einschätzen, ihre Wertung begründen und eine dazu passende Gesprächsregel formulieren. Anforderungsniveau: Sich positionieren.",
+          "criterion": "Die eigene Wertung des Umgangstons wird durch eine konkrete Beobachtung gestützt; die formulierte Regel passt zur beurteilten Situation und zu einem respektvollen Miteinander."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Sich positionieren",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "3",
+            "gs_curriculum_band": "3/4",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss oder vorläufiger Nichtanschluss; keine vollständige Zielabdeckung und keine Aussage über didaktische Unmöglichkeit. Aufgaben und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 8,
+    "reviewed_total": 98,
+    "assigned_rows_reviewed_this_batch": 2,
+    "assigned_rows_reviewed_total": 9,
+    "cards": 147,
+    "uncovered": 189,
+    "uncovered_pending_individual_review": 143,
+    "documented_no_direct_connection": 44,
+    "documented_connection_uncertain": 2,
+    "revisited_rows_this_batch": 0
+  },
+  "next_id": "page908_186544",
+  "next_target": "Verstehen anderer Meinungen",
+  "app_version": "1.278",
+  "source_verification": "Amtliche Onlinelehrpläne GS Deutsch (2026) und FSP Lernen DE-HKS (2019) am 01.11.2026 mit Inventuren abgeglichen. Elternziele, Unterpunkte, Bemerkungen und übergreifende Kommunikationsziele berücksichtigt. GS Sprechen und Zuhören Klasse 3; FSP1/2 häusliches Umfeld/räumliche Orientierung, FSP3/4 Klassengemeinschaft und Wahlbereich 4. Allgemeine Wortschatz-, Mehrsprachigkeits- und Reflexionsziele nicht als spezifische Einzelziele umgedeutet.",
+  "validation": "PASS: 147 eindeutige Karten; 117 Zielblöcke; Quellen-, Operatoren-, Stufen- und Feinziele geprüft. Eingebettetes Deutsch-Modul identisch, drei JavaScript-Blöcke syntaktisch geprüft, Sachunterricht bytegleich zur Baseline, beide Pages-Dateien identisch. Prüfinvarianten aus scripts/check-deutsch.py mit Node ausgeführt, da Python auf dem Host nicht verfügbar ist; Python-Skript und Generator nicht ausgeführt. Nur DE-004/007 geändert, DE-148/149 ergänzt; übrige 143 Karten unverändert. CSV- und Fortschrittszähler abgeglichen. Keine Aufgaben-/Hilfsmittelvorschläge. Browserprüfung folgt nach Veröffentlichung; kein PDF-Download-Test."
+}
