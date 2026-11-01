@@ -1,6 +1,6 @@
 {
   "schema_version": "deutsch-1.0",
-  "version": "DE-2026-11-01.13",
+  "version": "DE-2026-11-01.14",
   "checked_on": "2026-10-30",
   "status": "Abgleichsentwurf zur fachlichen Erprobung",
   "scope": "GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.",
@@ -2243,28 +2243,28 @@
       "title": "Grundschule Deutsch · 3 · Übertragen des Wissens über Formen der Wortschatzerweiterung",
       "version": "2004/2009/2019/2025/2026",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186810",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page908_186813",
       "title": "Grundschule Deutsch · 3 · Bilden von Oberbegriffen",
       "version": "2004/2009/2019/2025/2026",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186813",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page146_40351",
       "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Sich positionieren zu Ernährungsgewohnheiten",
       "version": "2005/2010/2019",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40351",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page146_40355",
       "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Ober- und Unterbegriffe bilden",
       "version": "2005/2010/2019",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40355",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page908_187033",
@@ -2313,14 +2313,14 @@
       "title": "Grundschule Deutsch · 3 · Übertragen des Wissens über sprachliche Strukturen in Sätzen",
       "version": "2004/2009/2019/2025/2026",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186815",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page908_186819",
       "title": "Grundschule Deutsch · 3 · wörtliche Rede mit vorangestelltem Begleitsatz",
       "version": "2004/2009/2019/2025/2026",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186819",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page146_40202",
@@ -2341,7 +2341,7 @@
       "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · mündlicher Gebrauch",
       "version": "2005/2010/2019",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40208",
-      "checked_on": "2026-10-30"
+      "checked_on": "2026-11-01"
     },
     {
       "id": "Q-DE-page908_186938",
@@ -3426,6 +3426,13 @@
       "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · über Ernte früher und heute sprechen",
       "version": "2005/2010/2019",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40472",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40354",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · gesunde Ernährung",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40354",
       "checked_on": "2026-11-01"
     }
   ],
@@ -9240,6 +9247,7 @@
         "Q-DE-page908_186810",
         "Q-DE-page908_186813",
         "Q-DE-page146_40351",
+        "Q-DE-page146_40354",
         "Q-DE-page146_40355"
       ],
       "gs_target_ids": [
@@ -9248,24 +9256,25 @@
       ],
       "fsp_target_ids": [
         "page146_40351",
+        "page146_40354",
         "page146_40355"
       ],
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Die Lernenden können Lebensmittelwörter passenden Oberbegriffen zuordnen und die Ordnung begründen. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
-          "criterion": "Das Gelernte wird bei verändertem Beispiel mit erkennbar gleicher Grundstruktur passend genutzt. Inhaltlicher Bezug: Lebensmittel für ein gemeinsames Pausenfrühstück."
+          "goal": "Die Lernenden können ein bekanntes Verfahren der Oberbegriffsbildung auf neue, vergleichbare Lebensmittelwörter übertragen und den gemeinsamen Begriff begründen. Anforderungsniveau: Übertragen.",
+          "criterion": "Für die neue Wortgruppe wird ein zutreffender Oberbegriff gebildet oder ausgewählt und das gemeinsame Merkmal erklärt. Bloßes Aufzählen bekannter Lebensmittel oder Wiederholen einer eingeübten Zuordnung genügt nicht."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Die Lernenden können Lebensmittelbegriffe ordnen und die eigene Frühstücksauswahl anhand eines erarbeiteten Ernährungskriteriums beurteilen und begründen.",
-          "criterion": "Die Begriffe sind sinnvoll geordnet; die Beurteilung der eigenen Auswahl bezieht sich auf ein erarbeitetes Ernährungskriterium und nennt einen passenden Grund."
+          "goal": "Die Lernenden können im Kontext gesunder Ernährung Ober- und Unterbegriffe bilden und zu einer eigenen Ernährungsgewohnheit begründet Stellung nehmen. Anforderungsniveau des übergeordneten Lehrplanziels: Sich positionieren.",
+          "criterion": "Lebensmittelbegriffe werden sachlich passend zusammengefasst; die eigene Einschätzung einer Ernährungsgewohnheit wird anhand eines erarbeiteten Ernährungskriteriums begründet. Eine reine Begriffszuordnung weist das übergeordnete Sich-positionieren noch nicht nach."
         }
       ],
       "shared_object_suggestion": "Lebensmittel für ein gemeinsames Pausenfrühstück",
-      "operator_relation": "GS: Übertragen; FSP: Sich positionieren. Der FSP-Operator gehört zum genannten übergeordneten Ziel und wird nur innerhalb seines Sach- bzw. Textkontextes verwendet. FSP-Positionierung zu Ernährungsgewohnheiten ist der Rahmen. Keine vollständige Gleichsetzung mit Wortfamilien, Wortfeldern oder Mehrdeutigkeit.",
-      "review_note": "Gemeinsamer Zielausschnitt: Lebensmittel für ein gemeinsames Pausenfrühstück. FSP-Positionierung zu Ernährungsgewohnheiten ist der Rahmen. Keine vollständige Gleichsetzung mit Wortfamilien, Wortfeldern oder Mehrdeutigkeit.",
-      "app_review_message": "Gemeinsamer Zielausschnitt: Lebensmittel für ein gemeinsames Pausenfrühstück. FSP-Positionierung zu Ernährungsgewohnheiten ist der Rahmen. Keine vollständige Gleichsetzung mit Wortfamilien, Wortfeldern oder Mehrdeutigkeit. Feinziele, Aufgaben und Erfolgskriterien sind didaktische Vorschläge; keine amtlichen Formulierungen.",
+      "operator_relation": "GS3 Übertragen verlangt die Nutzung eines bekannten Verfahrens der Oberbegriffsbildung bei vergleichbaren neuen Lebensmittelwörtern. FSP3/4 verbindet die Begriffsbildung ausdrücklich mit gesunder Ernährung und einer begründeten Position zu Ernährungsgewohnheiten. Das gemeinsame Ordnen allein weist beide Operatoren nicht vollständig nach.",
+      "review_note": "Begrenzter Anschluss für Oberbegriffsbildung bei Lebensmittelwörtern. Der Zwischeninhalt gesunde Ernährung ist ausdrücklich verankert. GS-Transfer und FSP-Positionierung werden getrennt nachgewiesen. Keine Abdeckung von Wortstämmen, Assoziationssammlung, Mehrdeutigkeit oder sämtlichen Formen der Wortschatzerweiterung.",
+      "app_review_message": "Begrenzter Anschluss für Oberbegriffsbildung bei Lebensmittelwörtern. Der Zwischeninhalt gesunde Ernährung ist ausdrücklich verankert. GS-Transfer und FSP-Positionierung werden getrennt nachgewiesen. Keine Abdeckung von Wortstämmen, Assoziationssammlung, Mehrdeutigkeit oder sämtlichen Formen der Wortschatzerweiterung. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
       "content_review_required": true,
       "stage_alignment": {
         "relation": "same-band",
@@ -9465,19 +9474,19 @@
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Die Lernenden können wörtliche Rede mit vorangestelltem Begleitsatz untersuchen und passende Zeichen setzen. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
-          "criterion": "Das Gelernte wird bei verändertem Beispiel mit erkennbar gleicher Grundstruktur passend genutzt. Inhaltlicher Bezug: Ein kurzer Dialog aus einem gemeinsamen Lesetext."
+          "goal": "Die Lernenden können bekannte Strukturen wörtlicher Rede mit vorangestelltem Begleitsatz auf einen vergleichbaren neuen Fall übertragen und die dazugehörige Zeichensetzung erklären. Anforderungsniveau: Übertragen.",
+          "criterion": "Begleitsatz und wiedergegebene Äußerung sind im neuen Fall zutreffend unterschieden. Doppelpunkt, öffnende und schließende Anführungszeichen sowie das zur Äußerung passende Schlusszeichen stehen korrekt; ihre Funktion ist nachvollziehbar erklärt. Ein bloßes Wiedererkennen der Zeichen genügt nicht."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Die Lernenden können: Wörtliche Rede im Text anhand von Doppelpunkt und Anführungszeichen entdecken und mit verteilten Rollen lesen.",
-          "criterion": "Eine Stelle wörtlicher Rede wird erkannt; die Rollen beim Lesen sind zutreffend unterschieden. Die konkrete Materialmenge und erlaubte Hilfen legt die Lehrkraft vorab fest."
+          "goal": "Die Lernenden können an einer überschaubaren Textstelle wörtliche Rede entdecken und die wiedergegebene Äußerung einer sprechenden Figur zuordnen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Eine direkte Äußerung und die zugehörige Figur werden zutreffend erkannt; Doppelpunkt und Anführungszeichen können dabei als erste Orientierung dienen. Die Wiedererkennbarkeit des Gesagten wird auch im mündlichen Gebrauch deutlich. Eine selbstständig normgerechte Verschriftlichung oder eine bestimmte Vortragsform wird nicht vorausgesetzt."
         }
       ],
       "shared_object_suggestion": "Ein kurzer Dialog aus einem gemeinsamen Lesetext",
-      "operator_relation": "GS: Übertragen; FSP: Einblick gewinnen. Der FSP-Operator gehört zum genannten übergeordneten Ziel und wird nur innerhalb seines Sach- bzw. Textkontextes verwendet. FSP Einblick ist kein Beleg für selbstständig korrektes Verschriften sämtlicher Formen wörtlicher Rede.",
-      "review_note": "Gemeinsamer Zielausschnitt: Ein kurzer Dialog aus einem gemeinsamen Lesetext. FSP Einblick ist kein Beleg für selbstständig korrektes Verschriften sämtlicher Formen wörtlicher Rede.",
-      "app_review_message": "Gemeinsamer Zielausschnitt: Ein kurzer Dialog aus einem gemeinsamen Lesetext. FSP Einblick ist kein Beleg für selbstständig korrektes Verschriften sämtlicher Formen wörtlicher Rede. Feinziele, Aufgaben und Erfolgskriterien sind didaktische Vorschläge; keine amtlichen Formulierungen.",
+      "operator_relation": "GS3 Übertragen verlangt die sichere Nutzung der bekannten Struktur mit vorangestelltem Begleitsatz in einem vergleichbaren neuen Fall. FSP3/4 Einblick gewinnen eröffnet einen ersten Zugang zum Erkennen und mündlichen Gebrauch wörtlicher Rede. Die FSP-Bemerkung zu Doppelpunkt und Anführungszeichen begründet keine gleichwertige Zeichensetzungsanforderung.",
+      "review_note": "Gemeinsamer Gegenstand ist direkte Rede in einem kurzen Text mit vorangestelltem Begleitsatz. Nachgestellte oder eingeschobene Begleitsätze und eine umfassende Satzgliedanalyse bleiben außerhalb. Lesen mit verteilten Rollen und szenisches Gestalten sind Beispiele in der FSP-Bemerkung; sie werden nicht als verpflichtende Lernhandlung oder automatischer Aufgabenvorschlag übernommen.",
+      "app_review_message": "Gemeinsamer Gegenstand ist direkte Rede in einem kurzen Text mit vorangestelltem Begleitsatz. Nachgestellte oder eingeschobene Begleitsätze und eine umfassende Satzgliedanalyse bleiben außerhalb. Lesen mit verteilten Rollen und szenisches Gestalten sind Beispiele in der FSP-Bemerkung; sie werden nicht als verpflichtende Lernhandlung oder automatischer Aufgabenvorschlag übernommen. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
       "content_review_required": true,
       "stage_alignment": {
         "relation": "same-band",
