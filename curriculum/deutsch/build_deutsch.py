@@ -107,7 +107,7 @@ exclusions={
  '186611':'Vokalverdopplung und Dehnungs-h im FSP sind keine pauschalen Merkwörter: Ihre Funktion muss jeweils geprüft werden. Keine fachlich gesicherte Gleichsetzung der GS-Merkschreibungen.',
  '186893':'Das FSP-Einblicksziel zur unterschiedlichen Sprech-/Schreibweise weist kein Beherrschen des GS-Wissens über nicht regelgeleitete Schreibungen aus.',
  '186388':'DE-HKS1–4 enthält Schreiben und Lernkontrolle, aber keinen gleichwertigen spezifischen Zielanker zur kriteriengeleiteten Überarbeitung vollständiger Texte. Didaktisch möglich, hier keine eigenständige Anschlusskarte.',
- '186651':'Kriteriengeleitete Textüberarbeitung einschließlich Schreibkonferenz und digitaler Überarbeitung ist im geprüften FSP-Primarstufenplan nicht als entsprechender eigener Zielkomplex belegt.',
+ '186651':'Kriteriengeleitete Textüberarbeitung, Schreibkonferenz und digitale Revision sind nicht als entsprechender FSP-Zielkomplex belegt. Der übergreifende Kontrollbeleg ist positiv berücksichtigt; der genaue Anschluss der Selbstkontrolle (186659) bleibt nach DE-UZ-031 offen.',
  '186912':'Routinierte Überarbeitung eigener und fremder Texte ist durch FSP-Schreibverfahren und freies Schreiben nicht hinreichend belegt.',
  '186485':'Mehrsprachigkeit und kulturelle Vielfalt erscheinen im FSP in thematischen Bemerkungen; ein systematisches Untersuchen sprachlicher Vielfalt ist kein entsprechendes explizites FSP-Ziel.',
  '186782':'Regionalsprache, Sprachvergleich und Gebärdensprache nicht als entsprechender FSP-Primarstufen-Zielkomplex belegt. Achtung von Vielfalt ist keine sprachsystematische Untersuchung.',
@@ -221,6 +221,8 @@ from batch_029_review import refine as refine_batch029
 refine_batch029(connections)
 from batch_030_review import refine as refine_batch030
 refine_batch030(connections)
+from batch_031_review import refine as refine_batch031
+refine_batch031(connections)
 # Synchronize reviewed row coverage and new source anchors before assembling the audit.
 for c in connections:
  if c['id'] in ['DE-004','DE-007','DE-148','DE-149','DE-012','DE-016','DE-150','DE-020','DE-151','DE-025','DE-114','DE-152','DE-045','DE-123','DE-153','DE-154','DE-155']:
@@ -239,6 +241,8 @@ for sid in ["Q-DE-page908_186589","Q-DE-page908_186591","Q-DE-page908_186592","Q
 sources['Q-DE-FSP34-SCHREIBANLASS']={"id":"Q-DE-FSP34-SCHREIBANLASS","title":"FSP Lernen Deutsch-Heimatkunde/Sachunterricht · Klassenstufen 3/4 · Übergreifende Ziele: Schreibanlass berücksichtigen","version":"2005/2010/2019","url":"https://www.schulportal.sachsen.de/lplandb/lehrplan/146","checked_on":"2026-11-01"}
 for sid in ["Q-DE-page908_186620","Q-DE-page908_186623","Q-DE-page908_186624","Q-DE-page146_39934","Q-DE-page146_39938","Q-DE-page146_39941","Q-DE-page146_39944","Q-DE-page146_39945","Q-DE-page146_39947","Q-DE-page908_186631","Q-DE-page908_186645","Q-DE-page908_186646","Q-DE-page908_186648","Q-DE-page146_40488","Q-DE-page908_186622","Q-DE-page908_186625","Q-DE-page146_40320","Q-DE-page146_40323","Q-DE-FSP34-SCHREIBANLASS","Q-DE-page908_186634","Q-DE-page146_40126","Q-DE-page146_40150","Q-DE-page908_186636","Q-DE-page146_40531","Q-DE-page146_40532","Q-DE-page146_40541"]:
  sources[sid]['checked_on']='2026-11-01'
+for sid in ["Q-DE-page908_186668","Q-DE-page908_186670","Q-DE-page146_39247","Q-DE-page146_39253","Q-DE-page146_39256","Q-DE-page146_39259","Q-DE-page146_39266","Q-DE-page146_40107","Q-DE-page146_40111","Q-DE-page146_40114","Q-DE-page146_40116"]:
+ sources[sid]['checked_on']='2026-11-01'
 # Teacher-owned planning fields: never publish automatic task or aid suggestions.
 for card in connections:
  card.pop('task_suggestions', None)
@@ -254,6 +258,6 @@ source_list=list(sources.values())
 source_list.append({'id':'Q-DE-RSR-2025','title':'Sächsischer Rechtschreibrahmen für die Grundschule','version':'2025','url':'https://www.schulportal.sachsen.de/lplandb/material/513/JfY9HcZHEdq5jhm8t45J','checked_on':'2026-11-01'})
 for c in connections:
  if c['app_area'] in ['DE-page908_186313','DE-page908_186520','DE-page908_186831'] and 'Q-DE-RSR-2025' not in c['source_ids']:c['source_ids'].append('Q-DE-RSR-2025')
-module={'schema_version':'deutsch-1.0','version':'DE-2026-11-01.6','checked_on':'2026-10-30','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
+module={'schema_version':'deutsch-1.0','version':'DE-2026-11-01.7','checked_on':'2026-10-30','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
 (ROOT/'deutsch_module.json').write_text(json.dumps(module,ensure_ascii=False,indent=2))
 print(len(connections),'Karten;',len(audit),'Zielblöcke;',len(exclusions),'Abgrenzungen')
