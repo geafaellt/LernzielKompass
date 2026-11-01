@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-040",
+  "last_batch": "DE-UZ-041",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -243,19 +243,21 @@
     "page908_187035",
     "page908_187036"
   ],
-  "next_id": "page908_186437",
+  "next_id": "page908_186811",
   "counts": {
-    "newly_reviewed": 8,
+    "newly_reviewed": 0,
     "reviewed_total": 241,
     "assigned_rows_reviewed_this_batch": 0,
     "assigned_rows_reviewed_total": 41,
-    "cards": 169,
-    "uncovered": 145,
+    "cards": 172,
+    "uncovered": 141,
     "uncovered_pending_individual_review": 0,
     "documented_no_direct_connection": 123,
-    "documented_connection_uncertain": 22,
-    "revisited_rows_this_batch": 0,
-    "assigned_rows_pending_individual_review": 89
+    "documented_connection_uncertain": 13,
+    "revisited_rows_this_batch": 10,
+    "assigned_rows_pending_individual_review": 89,
+    "documented_overarching_connection_without_card": 5,
+    "uncertain_connections_resolved_this_batch": 9
   },
   "phase": "uncertain_connections",
   "complete": false,
@@ -303,16 +305,7 @@
     "page908_186871"
   ],
   "unresolved_connection_ids": [
-    "page908_186437",
-    "page908_186452",
-    "page908_186544",
     "page908_186659",
-    "page908_186705",
-    "page908_186706",
-    "page908_186727",
-    "page908_186772",
-    "page908_186793",
-    "page908_186795",
     "page908_186811",
     "page908_186844",
     "page908_186860",
@@ -325,5 +318,36 @@
     "page908_187013",
     "page908_187030",
     "page908_187036"
-  ]
+  ],
+  "overarching_connection_ids": [
+    "page908_186437",
+    "page908_186452",
+    "page908_186705",
+    "page908_186706",
+    "page908_186727"
+  ],
+  "reviewed_uncertain_connection_ids": [
+    "page908_186437",
+    "page908_186452",
+    "page908_186544",
+    "page908_186659",
+    "page908_186705",
+    "page908_186706",
+    "page908_186727",
+    "page908_186772",
+    "page908_186793",
+    "page908_186795"
+  ],
+  "resolved_uncertain_connection_ids": [
+    "page908_186437",
+    "page908_186452",
+    "page908_186544",
+    "page908_186705",
+    "page908_186706",
+    "page908_186727",
+    "page908_186772",
+    "page908_186793",
+    "page908_186795"
+  ],
+  "uncertainty_round_note": "186659 in DE-UZ-041 erneut geprüft und bewusst offen gehalten. Zunächst übrige noch nicht erneut geprüfte Anschlussfragen ab 186811, danach verbliebene Rückfragen; keine Doppelzählung als neue Einzelzeilen."
 }

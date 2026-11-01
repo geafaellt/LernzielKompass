@@ -1,6 +1,6 @@
 {
   "schema_version": "deutsch-1.0",
-  "version": "DE-2026-11-01.17",
+  "version": "DE-2026-11-01.18",
   "checked_on": "2026-11-01",
   "status": "Abgleichsentwurf zur fachlichen Erprobung",
   "scope": "GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.",
@@ -3552,6 +3552,62 @@
       "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Grüße und Glückwünsche",
       "version": "2005/2010/2019",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40322",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186544",
+      "title": "GS Deutsch · 3 · Verstehen anderer Meinungen",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186544",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40305",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Sich positionieren zum Umgang miteinander",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40305",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40307",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Freunde haben – Freundschaften pflegen",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40307",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40309",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Meinungen begründen",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40309",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40317",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Gespräche führen",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40317",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186772",
+      "title": "GS Deutsch · 3 · Sprichwörter",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186772",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186793",
+      "title": "GS Deutsch · 3 · Nomen",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186793",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186795",
+      "title": "GS Deutsch · 3 · Abstrakte",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186795",
       "checked_on": "2026-11-01"
     }
   ],
@@ -13104,6 +13160,178 @@
         ],
         "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
       }
+    },
+    {
+      "id": "DE-172",
+      "subject": "Deutsch",
+      "theme": "Die Sicht eines anderen in einem Freundschaftsgespräch verstehen",
+      "app_area": "DE-page908_186519",
+      "gs_anchor": "GS Deutsch Kl. 3 · Sprechen und Zuhören; Übertragen des Wissens über Formen und Regeln des Miteinandersprechens; Konkretisierung: Verstehen anderer Meinungen",
+      "gs_operator": "Übertragen",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 3: Einer braucht den anderen; Sich positionieren zum Umgang miteinander; Freunde haben – Freundschaften pflegen; Meinungen begründen; Gespräche führen",
+      "fsp_operator": "Sich positionieren",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186538",
+        "Q-DE-page908_186544",
+        "Q-DE-page146_40305",
+        "Q-DE-page146_40307",
+        "Q-DE-page146_40309",
+        "Q-DE-page146_40317"
+      ],
+      "gs_target_ids": [
+        "page908_186538",
+        "page908_186544"
+      ],
+      "fsp_target_ids": [
+        "page146_40305",
+        "page146_40307",
+        "page146_40309",
+        "page146_40317"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können bekannte Gesprächsregeln auf eine weitere Freundschaftssituation übertragen und die geäußerte Sicht einer anderen Person sinngemäß erfassen.",
+          "criterion": "Die andere Sicht wird inhaltlich zutreffend von der eigenen unterschieden. Die Reaktion lässt erkennen, welches Anliegen oder welcher Grund verstanden wurde; bloßes Zustimmen oder Wiederholen einzelner Wörter genügt nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können zum Umgang miteinander in einer Freundschaft begründet Stellung nehmen und dabei die geäußerten Probleme und Befindlichkeiten einer anderen Person berücksichtigen.",
+          "criterion": "Die eigene Einschätzung enthält einen nachvollziehbaren Grund und bezieht das tatsächlich geäußerte Anliegen der anderen Person ein. Zustimmung zur fremden Meinung ist nicht erforderlich; Verständnis wird nicht mit Übereinstimmung verwechselt."
+        }
+      ],
+      "shared_object_suggestion": "Unterschiedliche Sichtweisen zu einer überschaubaren Freundschaftssituation",
+      "operator_relation": "GS3 Übertragen von Gesprächswissen; FSP3/4 Sich positionieren zum Umgang miteinander. Verstehen der anderen Sicht ist auf FSP-Seite durch Gespräche mit Verständnis für Probleme anderer und begründete Meinungen konkretisiert; es bleibt Teil einer eigenen begründeten Position.",
+      "review_note": "Begrenzt auf den FSP-Kontext Freundschaft und Umgang miteinander. Der ausdrückliche Zuhör- und Verständnisbezug trägt den Anschluss. Keine vollständige Abdeckung beliebiger Debatten, politischer Positionen oder schriftlicher Perspektivanalyse. Gefühle werden nicht als Meinungen gleichgesetzt; maßgeblich ist die geäußerte Sicht mit ihrem Anliegen oder Grund.",
+      "app_review_message": "Begrenzt auf den FSP-Kontext Freundschaft und Umgang miteinander. Der ausdrückliche Zuhör- und Verständnisbezug trägt den Anschluss. Keine vollständige Abdeckung beliebiger Debatten, politischer Positionen oder schriftlicher Perspektivanalyse. Gefühle werden nicht als Meinungen gleichgesetzt; maßgeblich ist die geäußerte Sicht mit ihrem Anliegen oder Grund. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
+    },
+    {
+      "id": "DE-173",
+      "subject": "Deutsch",
+      "theme": "Ein Sprichwort zur Ernte in seinem Sinn verstehen",
+      "app_area": "DE-page908_186523",
+      "gs_anchor": "GS Deutsch Kl. 3 · Sprache und Sprachgebrauch untersuchen; Kennen von Möglichkeiten sprachlicher Verständigung als Form des Handelns; Unterscheiden besonderer Sprachformen; Sprichwörter: Sinn und Bedeutung",
+      "gs_operator": "Kennen",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 6: Natur entdecken und erleben; Kennen weiterer Pflanzen; Getreide; über Ernte früher und heute sprechen (Bemerkungsbeispiel: Sprichwörter)",
+      "fsp_operator": "Kennen",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186769",
+        "Q-DE-page908_186771",
+        "Q-DE-page908_186772",
+        "Q-DE-page146_40463",
+        "Q-DE-page146_40470",
+        "Q-DE-page146_40472"
+      ],
+      "gs_target_ids": [
+        "page908_186769",
+        "page908_186771",
+        "page908_186772"
+      ],
+      "fsp_target_ids": [
+        "page146_40463",
+        "page146_40470",
+        "page146_40472"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können den erarbeiteten Sinn eines Sprichwortes mit Saat- oder Erntebezug erläutern und dessen gemeinte Aussage vom bloßen Wortlaut unterscheiden. Anforderungsniveau: Kennen.",
+          "criterion": "Die Erklärung gibt die erarbeitete allgemeine Aussage zutreffend wieder und benennt ihren Bezug zum sprachlichen Bild der Saat oder Ernte. Eine bloße Beschreibung des Erntevorgangs genügt für den GS-Sinnbezug nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können einen bekannten Sachverhalt zur Getreideernte früher oder heute im Zusammenhang mit einem passenden Sprichwort in Grundzügen wiedergeben. Anforderungsniveau: Kennen.",
+          "criterion": "Der Sachbezug zur Getreideernte ist verständlich und sachlich richtig. Der Bild- oder Wortlautbezug des Sprichwortes passt zum behandelten Sachverhalt. Eine abstrakte Sprichwortanalyse oder ein Herkunftsnachweis wird nicht verlangt; die Redewendung gilt nicht als naturwissenschaftlicher Beweis."
+        }
+      ],
+      "shared_object_suggestion": "Ein Sprichwort mit Saat- oder Erntebezug und der zugehörige Sachzusammenhang der Getreideernte",
+      "operator_relation": "Beide übergeordneten Lehrplanziele verwenden Kennen. GS3 erschließt Sinn und gemeinte Aussage einer besonderen Sprachform; FSP3/4 kennt den Sachzusammenhang Getreideernte früher/heute. Das ausdrücklich genannte Bemerkungsbeispiel Sprichwörter ermöglicht diesen begrenzten gemeinsamen Gegenstand, erhält aber keinen eigenen Operator.",
+      "review_note": "Anschluss nur bei einem tatsächlich zum Getreide-/Erntekontext passenden Sprichwort. Sprichwörter sind ein FSP-Bemerkungsbeispiel, kein verbindlicher Auftrag zur umfassenden Gattungs-, Herkunfts- oder Metaphernanalyse. Eine Bauernregel ist nicht automatisch ein Sprichwort. Der gemeinsame Bildbereich verbindet unterschiedliche GS- und FSP-Nachweise; ein bloßes Stichwort Ernte genügt nicht.",
+      "app_review_message": "Anschluss nur bei einem tatsächlich zum Getreide-/Erntekontext passenden Sprichwort. Sprichwörter sind ein FSP-Bemerkungsbeispiel, kein verbindlicher Auftrag zur umfassenden Gattungs-, Herkunfts- oder Metaphernanalyse. Eine Bauernregel ist nicht automatisch ein Sprichwort. Der gemeinsame Bildbereich verbindet unterschiedliche GS- und FSP-Nachweise; ein bloßes Stichwort Ernte genügt nicht. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
+    },
+    {
+      "id": "DE-174",
+      "subject": "Deutsch",
+      "theme": "Nomen für nichtgegenständliche Erscheinungen erkennen",
+      "app_area": "DE-page908_186523",
+      "gs_anchor": "GS Deutsch Kl. 3 · Sprache und Sprachgebrauch untersuchen; Kennen weiterer Merkmale ausgewählter Wortarten; Nomen; Abstrakte (Ausschnitt: Nichtgegenständliches)",
+      "gs_operator": "Kennen",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 1: Lesen und Schreiben; Kennen von Wortarten; Substantiv; Bezeichnung von Lebewesen, Gegenständen und Erscheinungen",
+      "fsp_operator": "Kennen",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186789",
+        "Q-DE-page908_186793",
+        "Q-DE-page908_186795",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40177",
+        "Q-DE-RSR-2025"
+      ],
+      "gs_target_ids": [
+        "page908_186789",
+        "page908_186793",
+        "page908_186795"
+      ],
+      "fsp_target_ids": [
+        "page146_40166",
+        "page146_40175",
+        "page146_40177"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können ein erarbeitetes Nomen für eine nichtgegenständliche Erscheinung als abstraktes Nomen erkennen und seine Bedeutung erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Wortart und Bedeutung werden richtig angegeben. Die Erklärung unterscheidet die bezeichnete Erscheinung von einem einzelnen gegenständlichen Ding. Eine pauschale Behauptung, alle Erscheinungen seien abstrakt, erfüllt das Kriterium nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können ein bekanntes Substantiv als Bezeichnung einer erarbeiteten Erscheinung erkennen und die gemeinte Erscheinung verständlich benennen. Anforderungsniveau: Kennen.",
+          "criterion": "Das bekannte Wort wird zutreffend der Wortart Substantiv/Nomen zugeordnet und mit der gemeinten Erscheinung verbunden. Der Fachbegriff Abstraktum oder eine vollständige Klassifikation abstrakter Nomen ist nicht verlangt."
+        }
+      ],
+      "shared_object_suggestion": "Ein erarbeitetes Nomen für eine nichtgegenständliche Erscheinung, beispielsweise Kälte",
+      "operator_relation": "GS3 Kennen eines weiteren Nomenmerkmals; FSP3/4 Kennen von Substantiven als Bezeichnungen unter anderem für Erscheinungen. Der Schnittbereich ist ein nichtgegenständlicher Erscheinungsbegriff. Die Fachkategorie abstraktes Nomen wird nur auf GS-Seite verlangt.",
+      "review_note": "Begrenzt auf nichtgegenständliche Erscheinungen. Kälte ist eine didaktische Konkretisierung, keine amtliche Wortliste. Die FSP-Kategorie Erscheinungen umfasst nicht ausschließlich Abstrakta und deckt die GS-Kategorie Gefühle nicht pauschal ab. Das kommunikative Äußern von Gefühlen wird nicht als Wortartklassifikation benutzt. Der GS-Rechtschreibrahmen ergänzt Schriftstrukturwissen, erweitert aber keine FSP-Ziele.",
+      "app_review_message": "Begrenzt auf nichtgegenständliche Erscheinungen. Kälte ist eine didaktische Konkretisierung, keine amtliche Wortliste. Die FSP-Kategorie Erscheinungen umfasst nicht ausschließlich Abstrakta und deckt die GS-Kategorie Gefühle nicht pauschal ab. Das kommunikative Äußern von Gefühlen wird nicht als Wortartklassifikation benutzt. Der GS-Rechtschreibrahmen ergänzt Schriftstrukturwissen, erweitert aber keine FSP-Ziele. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
     }
   ],
   "target_audit": [
@@ -13749,11 +13977,11 @@
       "target": "Übertragen des Wissens über Formen und Regeln des Miteinandersprechens",
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
-        "DE-007"
+        "DE-007",
+        "DE-172"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186544",
         "page908_186545"
       ],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
@@ -14163,11 +14391,11 @@
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
         "DE-092",
-        "DE-161"
+        "DE-161",
+        "DE-173"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186772",
         "page908_186773"
       ],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
@@ -14224,15 +14452,14 @@
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
         "DE-101",
-        "DE-162"
+        "DE-162",
+        "DE-174"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
         "page908_186790",
         "page908_186791",
         "page908_186792",
-        "page908_186793",
-        "page908_186795",
         "page908_186796",
         "page908_186798",
         "page908_186799",
