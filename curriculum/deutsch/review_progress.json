@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-042",
+  "last_batch": "DE-UZ-043",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -243,24 +243,25 @@
     "page908_187035",
     "page908_187036"
   ],
-  "next_id": "page908_187030",
+  "next_id": "page908_186273",
   "counts": {
     "newly_reviewed": 0,
     "reviewed_total": 241,
-    "assigned_rows_reviewed_this_batch": 0,
-    "assigned_rows_reviewed_total": 41,
-    "cards": 172,
-    "uncovered": 141,
+    "assigned_rows_reviewed_this_batch": 1,
+    "assigned_rows_reviewed_total": 42,
+    "cards": 177,
+    "uncovered": 136,
     "uncovered_pending_individual_review": 0,
-    "documented_no_direct_connection": 124,
-    "documented_connection_uncertain": 8,
-    "revisited_rows_this_batch": 10,
-    "assigned_rows_pending_individual_review": 89,
-    "documented_overarching_connection_without_card": 9,
-    "uncertain_connections_resolved_this_batch": 5,
-    "source_rechecks_pending": 1
+    "documented_no_direct_connection": 125,
+    "documented_connection_uncertain": 0,
+    "revisited_rows_this_batch": 9,
+    "assigned_rows_pending_individual_review": 88,
+    "documented_overarching_connection_without_card": 11,
+    "uncertain_connections_resolved_this_batch": 8,
+    "source_rechecks_pending": 0,
+    "source_rechecks_completed_this_batch": 1
   },
-  "phase": "uncertain_connections",
+  "phase": "previously_assigned_rows",
   "complete": false,
   "reviewed_previously_assigned_ids": [
     "page908_186403",
@@ -303,18 +304,10 @@
     "page908_186813",
     "page908_186819",
     "page908_186862",
-    "page908_186871"
+    "page908_186871",
+    "page908_186875"
   ],
-  "unresolved_connection_ids": [
-    "page908_186659",
-    "page908_186811",
-    "page908_186872",
-    "page908_186876",
-    "page908_186993",
-    "page908_187013",
-    "page908_187030",
-    "page908_187036"
-  ],
+  "unresolved_connection_ids": [],
   "overarching_connection_ids": [
     "page908_186437",
     "page908_186452",
@@ -324,7 +317,9 @@
     "page908_186844",
     "page908_186860",
     "page908_186866",
-    "page908_186971"
+    "page908_186971",
+    "page908_186876",
+    "page908_186555"
   ],
   "reviewed_uncertain_connection_ids": [
     "page908_186437",
@@ -346,7 +341,9 @@
     "page908_186926",
     "page908_186971",
     "page908_186993",
-    "page908_187013"
+    "page908_187013",
+    "page908_187030",
+    "page908_187036"
   ],
   "resolved_uncertain_connection_ids": [
     "page908_186437",
@@ -362,15 +359,28 @@
     "page908_186860",
     "page908_186866",
     "page908_186971",
-    "page908_186926"
+    "page908_186926",
+    "page908_186659",
+    "page908_186811",
+    "page908_186872",
+    "page908_186876",
+    "page908_186993",
+    "page908_187013",
+    "page908_187030",
+    "page908_187036"
   ],
-  "uncertainty_round_note": "DE-UZ-042: Zehn weitere Anschlussfragen erneut geprüft. Vier übergreifende Teilanschlüsse und ein begründeter Nichtanschluss geklärt; fünf weiter offen. Zunächst die noch nicht erneut geprüften Fragen 187030 und 187036, anschließend die verbleibenden Rückfragen einschließlich 186659. Bereits geprüfte IDs nicht erneut als Erstprüfungen zählen. Allgemeine Schulartziele ohne eigenes Stufenband sind von fachlichen Stufenbandzielen unterschieden.",
+  "uncertainty_round_note": "Die acht verbliebenen Anschlussfragen sind für ausdrücklich begrenzte Ausschnitte entschieden: fünf Karten, ein übergreifender Teilanschluss und zwei Nichtanschlüsse. Die vorgemerkte Quellen-Nachprüfung 186555 ist ebenfalls abgeschlossen. Restumfang und Voraussetzungen bleiben bestehen; keine Vollabdeckung behauptet. Nächste Phase: die verbleibenden 88 bereits zugeordneten Unterzielzeilen in Inventurreihenfolge.",
   "source_recheck_queue": [
     {
       "gs_id": "page908_186555",
       "reason": "Verwandter früherer GS3-Auswendiglernfall: die allgemeine FSP-Nennung von Mnemo-Techniken ist in DE-UZ-042 jetzt präzise verankert. Frühere Abgrenzung gesondert nachprüfen, nicht stillschweigend durch GS4-Entscheidung ersetzen.",
       "queued_by": "DE-UZ-042",
-      "status": "pending"
+      "status": "completed",
+      "completed_by": "DE-UZ-043",
+      "outcome": "übergreifender Teilanschluss ohne Karte; frühere direkte Abgrenzung für diesen Ausschnitt korrigiert"
     }
+  ],
+  "reviewed_source_recheck_ids": [
+    "page908_186555"
   ]
 }

@@ -113,6 +113,8 @@ from batch_039_review import append as append_batch039
 append_batch039(T)
 from batch_041_review import append as append_batch041
 append_batch041(T)
+from batch_043_review import append as append_batch043
+append_batch043(T)
 # Explicit exclusions instead of inventing equivalent FSP goals.
 exclusions={
  '187034':'Der FSP-Anker zu Satzarten belegt nicht die für GS4 konkretisierten Satzergänzungen. Satzarten sind als stufenübergreifende Wiederaufnahme von GS1/2 gesondert verfügbar.',
@@ -257,9 +259,11 @@ from batch_039_review import refine as refine_batch039
 refine_batch039(connections)
 from batch_041_review import refine as refine_batch041
 refine_batch041(connections)
+from batch_043_review import refine as refine_batch043
+refine_batch043(connections)
 # Synchronize reviewed row coverage and new source anchors before assembling the audit.
 for c in connections:
- if c['id'] in ['DE-004','DE-007','DE-148','DE-149','DE-012','DE-016','DE-150','DE-020','DE-151','DE-025','DE-114','DE-152','DE-045','DE-123','DE-153','DE-154','DE-155','DE-062','DE-079','DE-156','DE-157','DE-072','DE-083','DE-087','DE-089','DE-158','DE-159','DE-160','DE-092','DE-095','DE-161','DE-101','DE-162','DE-102','DE-108','DE-013','DE-017','DE-163','DE-164','DE-165','DE-166','DE-167','DE-168','DE-169','DE-170','DE-171','DE-172','DE-173','DE-174']:
+ if c['id'] in ['DE-004','DE-007','DE-148','DE-149','DE-012','DE-016','DE-150','DE-020','DE-151','DE-025','DE-114','DE-152','DE-045','DE-123','DE-153','DE-154','DE-155','DE-062','DE-079','DE-156','DE-157','DE-072','DE-083','DE-087','DE-089','DE-158','DE-159','DE-160','DE-092','DE-095','DE-161','DE-101','DE-162','DE-102','DE-108','DE-013','DE-017','DE-163','DE-164','DE-165','DE-166','DE-167','DE-168','DE-169','DE-170','DE-171','DE-172','DE-173','DE-174','DE-021','DE-175','DE-176','DE-177','DE-178','DE-179']:
   usedrows.update(c['gs_target_ids'])
   for rid in c['gs_target_ids']: source(grows[rid.split('_')[-1]], 'gs')
   for rid in c['fsp_target_ids']: source(frows[rid.split('_')[-1]], 'fsp')
@@ -296,6 +300,8 @@ for sid in ["Q-DE-page908_186994","Q-DE-page908_187000","Q-DE-page146_39950","Q-
  sources[sid]['checked_on']='2026-11-01'
 for sid in ["Q-DE-page908_186538","Q-DE-page908_186544","Q-DE-page146_40305","Q-DE-page146_40307","Q-DE-page146_40309","Q-DE-page146_40317","Q-DE-page908_186769","Q-DE-page908_186771","Q-DE-page908_186772","Q-DE-page146_40463","Q-DE-page146_40470","Q-DE-page146_40472","Q-DE-page908_186789","Q-DE-page908_186793","Q-DE-page908_186795","Q-DE-page146_40166","Q-DE-page146_40175","Q-DE-page146_40177"]:
  sources[sid]['checked_on']='2026-11-01'
+for sid in ["Q-DE-page908_186810","Q-DE-page908_186811","Q-DE-page146_40107","Q-DE-page146_40109","Q-DE-page146_40116","Q-DE-page908_186867","Q-DE-page908_186870","Q-DE-page908_186872","Q-DE-page146_40395","Q-DE-page146_40396","Q-DE-page146_40397","Q-DE-page146_40399","Q-DE-page146_40401","Q-DE-page146_40403","Q-DE-page908_186987","Q-DE-page908_186993","Q-DE-page146_40282","Q-DE-page146_40294","Q-DE-page146_40299","Q-DE-page908_187011","Q-DE-page908_187013","Q-DE-page146_40305","Q-DE-page146_40307","Q-DE-page146_40309","Q-DE-page146_40310","Q-DE-page146_40317","Q-DE-page908_187021","Q-DE-page908_187030","Q-DE-page146_40463","Q-DE-page146_40470","Q-DE-page146_40472","Q-DE-page908_186874","Q-DE-page908_186875","Q-DE-page146_40126","Q-DE-page146_40127"]:
+ sources[sid]['checked_on']='2026-11-01'
 # Teacher-owned planning fields: never publish automatic task or aid suggestions.
 for card in connections:
  card.pop('task_suggestions', None)
@@ -326,6 +332,6 @@ source_list=list(sources.values())
 source_list.append({'id':'Q-DE-RSR-2025','title':'Sächsischer Rechtschreibrahmen für die Grundschule','version':'2025','url':'https://www.schulportal.sachsen.de/lplandb/material/513/JfY9HcZHEdq5jhm8t45J','checked_on':'2026-11-01'})
 for c in connections:
  if c['app_area'] in ['DE-page908_186313','DE-page908_186520','DE-page908_186831'] and 'Q-DE-RSR-2025' not in c['source_ids']:c['source_ids'].append('Q-DE-RSR-2025')
-module={'schema_version':'deutsch-1.0','version':'DE-2026-11-01.18','checked_on':'2026-11-01','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
+module={'schema_version':'deutsch-1.0','version':'DE-2026-11-01.19','checked_on':'2026-11-01','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
 (ROOT/'deutsch_module.json').write_text(json.dumps(module,ensure_ascii=False,indent=2))
 print(len(connections),'Karten;',len(audit),'Zielblöcke;',len(exclusions),'Abgrenzungen')
