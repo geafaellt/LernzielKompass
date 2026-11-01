@@ -1,6 +1,6 @@
 {
   "schema_version": "deutsch-1.0",
-  "version": "DE-2026-11-01.16",
+  "version": "DE-2026-11-01.17",
   "checked_on": "2026-11-01",
   "status": "Abgleichsentwurf zur fachlichen Erprobung",
   "scope": "GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.",
@@ -3524,6 +3524,34 @@
       "title": "Grundschule Deutsch · 4 · produktives Schreiben",
       "version": "2004/2009/2019/2025/2026",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186908",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_187000",
+      "title": "GS Deutsch · 4 · Verwenden verschiedener Möglichkeiten von Textpräsentationen",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_187000",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186969",
+      "title": "GS Deutsch · 4 · digitale Medien",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186969",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186947",
+      "title": "GS Deutsch · 4 · Sach- und Gebrauchstexte",
+      "version": "2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186947",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40322",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Grüße und Glückwünsche",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40322",
       "checked_on": "2026-11-01"
     }
   ],
@@ -12914,6 +12942,168 @@
         ],
         "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
       }
+    },
+    {
+      "id": "DE-169",
+      "subject": "Deutsch",
+      "theme": "Ein eigenes Buch sicher als Textpräsentation verwenden",
+      "app_area": "DE-page908_186833",
+      "gs_anchor": "GS Deutsch Kl. 4 · Lernbereich: Sich mit Texten und anderen Medien auseinandersetzen; Beherrschen von Möglichkeiten des Präsentierens; Konkretisierung: Verwenden verschiedener Möglichkeiten von Textpräsentationen (Ausschnitt: eigenes Buch)",
+      "gs_operator": "Beherrschen",
+      "fsp_anchor": "FSP(L) Kl. 1/2 · DE-HKS Wahlbereich 2: Mein Buch; Anwenden von Sprachwissen beim Vorstellen und Lesen des Buches",
+      "fsp_operator": "Anwenden",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt · FSP-Wahlbereich erforderlich",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186994",
+        "Q-DE-page908_187000",
+        "Q-DE-page146_39950"
+      ],
+      "gs_target_ids": [
+        "page908_186994",
+        "page908_187000"
+      ],
+      "fsp_target_ids": [
+        "page146_39950"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können ein eigenes Buch sicher und selbstständig als Textpräsentation verwenden und dessen Inhalte für andere verständlich zugänglich machen. Anforderungsniveau: Beherrschen.",
+          "criterion": "Das sprachliche Vorstellen und Lesen sind in der erarbeiteten Präsentationsform sicher aufeinander abgestimmt. Die Inhalte werden verständlich vermittelt; eine bloße Erläuterung der Form genügt nicht. Die Vielfalt mehrerer Präsentationsformen bleibt außerhalb dieses Ausschnitts."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Sprachwissen beim verständlichen Vorstellen und Lesen des eigenen Buches in einer neuen Präsentationssituation anwenden.",
+          "criterion": "In der neuen Präsentationssituation werden Inhalte des eigenen Buches sprachlich verständlich vorgestellt und ausgewählte Textanteile gelesen. Erarbeitetes Sprachwissen wird passend eingesetzt; bloßes Zeigen oder Herstellen des Buches genügt nicht."
+        }
+      ],
+      "shared_object_suggestion": "Ein eigenes kleines Buch mit Text und Bild",
+      "operator_relation": "Stufenübergreifend GS4 Beherrschen einer sicher verfügbaren Textpräsentation ↔ FSP1/2 Anwenden von Sprachwissen in einer neuen Präsentationssituation. FSP-Wahlbereich 2 Mein Buch ist Voraussetzung. Kein gleiches Anforderungsniveau allein wegen des gemeinsamen Buches.",
+      "review_note": "Nur das sprachliche Vorstellen und Lesen eines eigenen Buches. Digitale Textgestaltung, Plakat und Fotogalerie sind GS-Bemerkungsbeispiele und hier nicht abgedeckt. FSP-Buchherstellung ist ein gesondertes Ziel und ersetzt die sprachliche Präsentation nicht. Die GS-Vielfalt verschiedener Formen bleibt als Restumfang bestehen.",
+      "app_review_message": "Nur das sprachliche Vorstellen und Lesen eines eigenen Buches. Digitale Textgestaltung, Plakat und Fotogalerie sind GS-Bemerkungsbeispiele und hier nicht abgedeckt. FSP-Buchherstellung ist ein gesondertes Ziel und ersetzt die sprachliche Präsentation nicht. Die GS-Vielfalt verschiedener Formen bleibt als Restumfang bestehen. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "cross-band",
+        "gs_anchor_grade": "4",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
+    },
+    {
+      "id": "DE-170",
+      "subject": "Deutsch",
+      "theme": "Eigene Erfahrungen mit digitalen Freizeitangeboten beschreiben und einordnen",
+      "app_area": "DE-page908_186833",
+      "gs_anchor": "GS Deutsch Kl. 4 · Lernbereich: Sich mit Texten und anderen Medien auseinandersetzen; Übertragen des Wissens über ein vielfältiges Medienangebot; Konkretisierung: Beschreiben von eigenen Lese- und Medienerfahrungen – digitale Medien",
+      "gs_operator": "Übertragen",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 3: Einer braucht den anderen; Sich positionieren zur Freizeitgestaltung; Zielausschnitt: Freizeitangebote (mediale und nichtmediale Möglichkeiten); sich über Freizeitangebote austauschen",
+      "fsp_operator": "Sich positionieren",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186953",
+        "Q-DE-page908_186965",
+        "Q-DE-page908_186969",
+        "Q-DE-page146_40324",
+        "Q-DE-page146_40326",
+        "Q-DE-page146_40332",
+        "Q-DE-FSP-GRUNDLAGEN-MEDIENBILDUNG"
+      ],
+      "gs_target_ids": [
+        "page908_186953",
+        "page908_186965",
+        "page908_186969"
+      ],
+      "fsp_target_ids": [
+        "page146_40324",
+        "page146_40326",
+        "page146_40332"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können Wissen über digitale Medienangebote auf die Beschreibung einer weiteren eigenen Erfahrung mit einem digitalen Freizeitangebot übertragen. Anforderungsniveau: Übertragen.",
+          "criterion": "Die Beschreibung verbindet eine konkrete eigene Medienerfahrung nachvollziehbar mit bekannten Merkmalen oder Nutzungsmöglichkeiten des Angebots. Erarbeitetes Wissen wird auf die weitere Erfahrung bezogen; bloßes Nennen des Angebots genügt nicht. Private Nutzungsdaten sind kein Erfolgskriterium."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können die Nutzung eines bekannten digitalen Freizeitangebots gegenüber einer nichtmedialen Freizeitmöglichkeit begründet einschätzen und eine eigene Position vertreten. Anforderungsniveau: Sich positionieren.",
+          "criterion": "Die Einschätzung enthält einen sachlich nachvollziehbaren Grund mit Bezug zu Interessen, Wirkung oder einer Alternative. Andere begründete Positionen werden anerkannt; die eigene kann überprüft werden. Nicht die gewählte Vorliebe, sondern die nachvollziehbare Begründung zählt."
+        }
+      ],
+      "shared_object_suggestion": "Ein bekanntes digitales Freizeitangebot und seine Bedeutung für die eigene Freizeit",
+      "operator_relation": "GS4 Übertragen von Medienwissen auf eine weitere eigene Erfahrung; FSP3/4 Sich positionieren zur Freizeitgestaltung mit begründeter Einschätzung. Der gemeinsame Gegenstand ist die eigene Erfahrung mit einem digitalen Freizeitangebot. Allgemeine Medienbildung stützt die Reflexion eigenen medialen Handelns, trägt aber keinen erfundenen Tabellenoperator.",
+      "review_note": "Nur eigene Erfahrungen mit digitalen Medien in der Freizeit. FSP nennt mediale und nichtmediale Angebote sowie den Austausch darüber; die allgemeinen Grundlagen ergänzen Wirkungen eigenen medialen Handelns und bewusste Alternativen. Kein Gesamtanschluss für sämtliche digitalen Leseerfahrungen, ein Medientagebuch oder eine Glaubwürdigkeitsprüfung. Beschreiben und begründetes Sich-Positionieren bleiben getrennte Anforderungen. Keine Offenlegung privater Nutzungsdaten.",
+      "app_review_message": "Nur eigene Erfahrungen mit digitalen Medien in der Freizeit. FSP nennt mediale und nichtmediale Angebote sowie den Austausch darüber; die allgemeinen Grundlagen ergänzen Wirkungen eigenen medialen Handelns und bewusste Alternativen. Kein Gesamtanschluss für sämtliche digitalen Leseerfahrungen, ein Medientagebuch oder eine Glaubwürdigkeitsprüfung. Beschreiben und begründetes Sich-Positionieren bleiben getrennte Anforderungen. Keine Offenlegung privater Nutzungsdaten. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "4",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
+    },
+    {
+      "id": "DE-171",
+      "subject": "Deutsch",
+      "theme": "Merkmale eines schriftlichen Glückwunsches erklären",
+      "app_area": "DE-page908_186833",
+      "gs_anchor": "GS Deutsch Kl. 4 · Lernbereich: Sich mit Texten und anderen Medien auseinandersetzen; Kennen wesentlicher Merkmale weiterer Texte; Konkretisierung: Sach- und Gebrauchstexte (Ausschnitt: schriftlicher Glückwunsch als weitere erarbeitete Textform)",
+      "gs_operator": "Kennen",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 3: Einer braucht den anderen; Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander; Zielausschnitt: Grüße und Glückwünsche",
+      "fsp_operator": "Anwenden",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186944",
+        "Q-DE-page908_186947",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40322"
+      ],
+      "gs_target_ids": [
+        "page908_186944",
+        "page908_186947"
+      ],
+      "fsp_target_ids": [
+        "page146_40320",
+        "page146_40322"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können wesentliche Merkmale eines erarbeiteten schriftlichen Glückwunsches und deren Zusammenhang mit seiner kommunikativen Funktion erläutern. Anforderungsniveau: Kennen weiterer Texte.",
+          "criterion": "Empfängerbezug, Anlass und Glückwunschformulierung werden am erarbeiteten Text richtig erläutert. Die Funktion wird vom Einladen oder sachlichen Informieren unterschieden. Der Text muss das bereits erarbeitete Repertoire erweitern; bloßes Wiederholen einer schon bekannten Textform erfüllt den Anschluss an weitere Texte nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können einen schriftlichen Glückwunsch für einen neuen Anlass situations- und empfängerbezogen verwenden. Anforderungsniveau: Anwenden.",
+          "criterion": "Glückwunschabsicht, Anlass und Empfängerbezug sind verständlich und passen zur neuen Situation. Sprachliche Mittel und Form unterstützen die Absicht; ein bloßes Aufzählen von Merkmalen erfüllt Anwenden nicht."
+        }
+      ],
+      "shared_object_suggestion": "Ein schriftlicher Glückwunsch zu einem persönlichen oder gemeinsamen Anlass",
+      "operator_relation": "GS4 Kennen der Merkmale einer weiteren Gebrauchstextform ↔ FSP3/4 Anwenden schriftlicher Gebrauchsformen. Gemeinsamer Textgegenstand, getrennte Nachweise: Merkmale und Funktion erläutern beziehungsweise situationsgerecht verwenden.",
+      "review_note": "Begrenzt auf den ausdrücklich im FSP genannten Glückwunsch in schriftlicher Form. Für GS4 muss dieser Text das bereits erarbeitete Textrepertoire erweitern; andernfalls ist diese Karte für das Ziel weiterer Texte nicht passend. Der konkrete Lernstand ist durch die Lehrkraft zu prüfen. Keine Vollabdeckung aller Sach- und Gebrauchstexte und keine Gleichsetzung von Merkmalskenntnis mit Textproduktion.",
+      "app_review_message": "Begrenzt auf den ausdrücklich im FSP genannten Glückwunsch in schriftlicher Form. Für GS4 muss dieser Text das bereits erarbeitete Textrepertoire erweitern; andernfalls ist diese Karte für das Ziel weiterer Texte nicht passend. Der konkrete Lernstand ist durch die Lehrkraft zu prüfen. Keine Vollabdeckung aller Sach- und Gebrauchstexte und keine Gleichsetzung von Merkmalskenntnis mit Textproduktion. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "4",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
     }
   ],
   "target_audit": [
@@ -14447,11 +14637,11 @@
       "target": "Kennen wesentlicher Merkmale weiterer Texte",
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
-        "DE-075"
+        "DE-075",
+        "DE-171"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186947",
         "page908_186949"
       ],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
@@ -14463,11 +14653,11 @@
       "target": "Übertragen des Wissens über ein vielfältiges Medienangebot",
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
-        "DE-080"
+        "DE-080",
+        "DE-170"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186969",
         "page908_186971"
       ],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
@@ -14536,12 +14726,11 @@
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
         "DE-014",
-        "DE-088"
+        "DE-088",
+        "DE-169"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
-      "uncovered_child_ids": [
-        "page908_187000"
-      ],
+      "uncovered_child_ids": [],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
     },
     {

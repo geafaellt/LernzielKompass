@@ -109,6 +109,8 @@ from batch_037_review import append as append_batch037
 append_batch037(T)
 from batch_038_review import append as append_batch038
 append_batch038(T)
+from batch_039_review import append as append_batch039
+append_batch039(T)
 # Explicit exclusions instead of inventing equivalent FSP goals.
 exclusions={
  '187034':'Der FSP-Anker zu Satzarten belegt nicht die für GS4 konkretisierten Satzergänzungen. Satzarten sind als stufenübergreifende Wiederaufnahme von GS1/2 gesondert verfügbar.',
@@ -249,9 +251,11 @@ from batch_037_review import refine as refine_batch037
 refine_batch037(connections)
 from batch_038_review import refine as refine_batch038
 refine_batch038(connections)
+from batch_039_review import refine as refine_batch039
+refine_batch039(connections)
 # Synchronize reviewed row coverage and new source anchors before assembling the audit.
 for c in connections:
- if c['id'] in ['DE-004','DE-007','DE-148','DE-149','DE-012','DE-016','DE-150','DE-020','DE-151','DE-025','DE-114','DE-152','DE-045','DE-123','DE-153','DE-154','DE-155','DE-062','DE-079','DE-156','DE-157','DE-072','DE-083','DE-087','DE-089','DE-158','DE-159','DE-160','DE-092','DE-095','DE-161','DE-101','DE-162','DE-102','DE-108','DE-013','DE-017','DE-163','DE-164','DE-165','DE-166','DE-167','DE-168']:
+ if c['id'] in ['DE-004','DE-007','DE-148','DE-149','DE-012','DE-016','DE-150','DE-020','DE-151','DE-025','DE-114','DE-152','DE-045','DE-123','DE-153','DE-154','DE-155','DE-062','DE-079','DE-156','DE-157','DE-072','DE-083','DE-087','DE-089','DE-158','DE-159','DE-160','DE-092','DE-095','DE-161','DE-101','DE-162','DE-102','DE-108','DE-013','DE-017','DE-163','DE-164','DE-165','DE-166','DE-167','DE-168','DE-169','DE-170','DE-171']:
   usedrows.update(c['gs_target_ids'])
   for rid in c['gs_target_ids']: source(grows[rid.split('_')[-1]], 'gs')
   for rid in c['fsp_target_ids']: source(frows[rid.split('_')[-1]], 'fsp')
@@ -284,6 +288,8 @@ for sid in ["Q-DE-page908_186859","Q-DE-page908_186862","Q-DE-page146_40480","Q-
  sources[sid]['checked_on']='2026-11-01'
 for sid in ["Q-DE-page908_186874","Q-DE-page908_186877","Q-DE-page146_40153","Q-DE-page146_40159","Q-DE-page146_40163","Q-DE-page908_186899","Q-DE-page908_186900","Q-DE-page146_40320","Q-DE-page146_40323","Q-DE-FSP34-SCHREIBANLASS","Q-DE-page908_186902","Q-DE-page908_186904","Q-DE-page908_186906","Q-DE-page908_186908","Q-DE-page146_40488"]:
  sources[sid]['checked_on']='2026-11-01'
+for sid in ["Q-DE-page908_186994","Q-DE-page908_187000","Q-DE-page146_39950","Q-DE-page908_186953","Q-DE-page908_186965","Q-DE-page908_186969","Q-DE-page146_40324","Q-DE-page146_40326","Q-DE-page146_40332","Q-DE-FSP-GRUNDLAGEN-MEDIENBILDUNG","Q-DE-page908_186944","Q-DE-page908_186947","Q-DE-page146_40320","Q-DE-page146_40322"]:
+ sources[sid]['checked_on']='2026-11-01'
 # Teacher-owned planning fields: never publish automatic task or aid suggestions.
 for card in connections:
  card.pop('task_suggestions', None)
@@ -314,6 +320,6 @@ source_list=list(sources.values())
 source_list.append({'id':'Q-DE-RSR-2025','title':'Sächsischer Rechtschreibrahmen für die Grundschule','version':'2025','url':'https://www.schulportal.sachsen.de/lplandb/material/513/JfY9HcZHEdq5jhm8t45J','checked_on':'2026-11-01'})
 for c in connections:
  if c['app_area'] in ['DE-page908_186313','DE-page908_186520','DE-page908_186831'] and 'Q-DE-RSR-2025' not in c['source_ids']:c['source_ids'].append('Q-DE-RSR-2025')
-module={'schema_version':'deutsch-1.0','version':'DE-2026-11-01.16','checked_on':'2026-11-01','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
+module={'schema_version':'deutsch-1.0','version':'DE-2026-11-01.17','checked_on':'2026-11-01','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
 (ROOT/'deutsch_module.json').write_text(json.dumps(module,ensure_ascii=False,indent=2))
 print(len(connections),'Karten;',len(audit),'Zielblöcke;',len(exclusions),'Abgrenzungen')
