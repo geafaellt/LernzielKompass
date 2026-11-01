@@ -1,0 +1,303 @@
+{
+  "batch": "DE-UZ-018",
+  "date": "2026-10-31",
+  "source_commit": "51fe481e47fba7a41fe8b49e4cb829b35749dd1c",
+  "entries": [
+    {
+      "gs_id": "page908_186453",
+      "target": "Vorlesen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Einblick gewinnen in das Erschließen und Nutzen unterschiedlicher Texte",
+      "context_parent": "page908_186452",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Vorlesen ist in GS ein Weg zur Lesemotivation unter Einblick gewinnen, nicht mit sinngestaltendem Vorlesen an anderer Stelle gleichzusetzen. FSP1/2 WB3 nennt Vorlesen als Zugang zur Textvorlage in der Bemerkung zum Ziel Kennen des Inhaltes. Der gemeinsame Ausschnitt ist das Erschließen derselben vorgelesenen Vorlage. FSP-Wahlbereich bleibt zwingend; kein Nachweis innerer Freude und keine eigene Vortragsleistung. WB1 vorlesen ist eine weitere Zielnähe, sein übergeordnetes Anwenden von Sprachwissen wäre durch bloßes Zuhören aber nicht hinreichend operationalisiert. Ausdrucksvolles Lesen in FSP3/4 wird nicht gleichgesetzt.",
+      "cards": [
+        "DE-141"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39893",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 1,
+          "target": "Anwenden von Sprachwissen beim Erkunden der Umwelt",
+          "remarks": "Exkursionen ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39893",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_39926",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 3,
+          "target": "vorlesen",
+          "remarks": "Gedichte, Geschichten, Tonträger Höraufgaben Vorlesen durch Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39926",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_39954",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 1,
+          "target": "Kennen des Inhaltes der Textvorlage",
+          "remarks": "vorlesen, erzählen Hörbücher, Filme Büchereibesuch ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39954",
+          "parent_target_id": "page146_39954"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40484",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "ausdrucksvolles Lesen",
+          "remarks": "nach Vorbereitung, Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40484",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [
+        "Eine kurze literarische Textvorlage für den FSP-Wahlbereich Wir spielen Theater"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an einer vorgelesenen literarischen Textvorlage erste Vorstellungen zum Inhalt äußern. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Eine erste inhaltlich passende Vorstellung zur vorgelesenen Textvorlage wird erkennbar. Eigene flüssige oder ausdrucksvolle Vorleseleistung und bekundete Lesefreude sind keine Kriterien dieses Ausschnitts."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Den Inhalt der erarbeiteten Textvorlage in wesentlichen Zügen wiedergeben.",
+          "criterion": "Wesentliche Inhalte der erarbeiteten Textvorlage werden zutreffend wiedergegeben. Szenische Umsetzung ist ein anderes Ziel und wird hier nicht vorausgesetzt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur benannter Ausschnitt; keine vollständige Zielabdeckung. Motivation, Genuss und persönliche Vorlieben sind nicht aus einer einzelnen Leistungsbeobachtung ableitbar. Die Lehrkraft entscheidet über Lernhandlung/Aufgabe und Hilfsmittel."
+    },
+    {
+      "gs_id": "page908_186454",
+      "target": "informierendes, handlungsanleitendes, unterhaltendes und genießendes Lesen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Einblick gewinnen in das Erschließen und Nutzen unterschiedlicher Texte",
+      "context_parent": "page908_186452",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Nur informierendes Lesen wird angeschlossen: GS entdeckt sachbezogene Informationen, FSP3/4 erliest einen unbekannten kleinen Sachtext und erfasst Wesentliches. Die anderen Zwecke werden dadurch nicht abgedeckt. Literarische Texte und Lesefreude begründen Nähe zu Unterhaltung und Genuss, aber keinen beobachtbaren Nachweis des inneren Erlebens. Für handlungsanleitendes Lesen wird in diesem Paket keine Zuordnung behauptet.",
+      "cards": [
+        "DE-142"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39869",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken",
+          "remarks": "➔ MA, Kl. 1/2, LBW 1 ➔ WE, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39869",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39879",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 3,
+          "target": "Inhalt verstehen und wiedergeben",
+          "remarks": "nacherzählen, über Gelesenes sprechen, eine Bildgeschichte gestalten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39879",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40123",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wesentliches erfassen",
+          "remarks": "schriftliches Beantworten von Fragen mit Texthilfe Teilüberschriften finden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40123",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [
+        "Ein kurzer Sachtext zu einer gemeinsam gewählten Sachfrage"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können in einem kurzen Sachtext erste sachbezogene Informationen entdecken und mit der Sachfrage verbinden. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Eine erste sachbezogene Information aus dem kurzen Text wird erkannt und nachvollziehbar auf die Sachfrage bezogen. Keine vollständige Analyse oder selbstständige Strategieauswahl vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Erarbeitete Lesefertigkeiten auf einen unbekannten kleinen Sachtext übertragen und eine für die Sachfrage wesentliche Information erfassen.",
+          "criterion": "Aus einem selbst erlesenen unbekannten kleinen Sachtext wird eine für die Sachfrage wesentliche Information zutreffend gewonnen. Bloßes Erinnern an zuvor vorgelesene Inhalte erfüllt Übertragen auf das Erlesen nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur benannter Ausschnitt; keine vollständige Zielabdeckung. Motivation, Genuss und persönliche Vorlieben sind nicht aus einer einzelnen Leistungsbeobachtung ableitbar. Die Lehrkraft entscheidet über Lernhandlung/Aufgabe und Hilfsmittel."
+    },
+    {
+      "gs_id": "page908_186457",
+      "target": "Entwickeln des Verständnisses für Sach- und Gebrauchstexte",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in das Erschließen und Nutzen unterschiedlicher Texte",
+      "context_parent": "page908_186450",
+      "remarks": "Bezüge zwischen Text, Bildern und grafischen Darstellungen herstellen Texte aus anderen Fächern ➔ SU, Kl. 1/2, LB 3",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Gemeinsamer Gegenstand ist ein kurzer Sachtext und seine Information zu einer Sachfrage. FSP nennt Sachtexte als Bemerkung zum Erlesen unbekannter kleiner Texte, Wesentliches erfassen als Unterziel. GS-Einblick und FSP-Übertragen werden getrennt konkretisiert. Die GS-Bemerkungen zu Bildern/grafischen Darstellungen sind damit nicht vollständig abgedeckt; Gebrauchstexte bleiben ebenfalls Restumfang.",
+      "cards": [
+        "DE-142"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40123",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wesentliches erfassen",
+          "remarks": "schriftliches Beantworten von Fragen mit Texthilfe Teilüberschriften finden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40123",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [
+        "Ein kurzer Sachtext zu einer gemeinsam gewählten Sachfrage"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können in einem kurzen Sachtext erste sachbezogene Informationen entdecken und mit der Sachfrage verbinden. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Eine erste sachbezogene Information aus dem kurzen Text wird erkannt und nachvollziehbar auf die Sachfrage bezogen. Keine vollständige Analyse oder selbstständige Strategieauswahl vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Erarbeitete Lesefertigkeiten auf einen unbekannten kleinen Sachtext übertragen und eine für die Sachfrage wesentliche Information erfassen.",
+          "criterion": "Aus einem selbst erlesenen unbekannten kleinen Sachtext wird eine für die Sachfrage wesentliche Information zutreffend gewonnen. Bloßes Erinnern an zuvor vorgelesene Inhalte erfüllt Übertragen auf das Erlesen nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur benannter Ausschnitt; keine vollständige Zielabdeckung. Motivation, Genuss und persönliche Vorlieben sind nicht aus einer einzelnen Leistungsbeobachtung ableitbar. Die Lehrkraft entscheidet über Lernhandlung/Aufgabe und Hilfsmittel."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 3,
+    "reviewed_total": 69,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 4,
+    "cards": 140,
+    "uncovered": 202,
+    "uncovered_pending_individual_review": 172,
+    "documented_no_direct_connection": 28,
+    "documented_connection_uncertain": 2,
+    "revisited_rows_this_batch": 0
+  },
+  "next_id": "page908_186465",
+  "next_target": "Erproben von digitalen Formaten",
+  "app_version": "1.272",
+  "source_verification": {
+    "method": "Inventuren, gespeicherte HTML-Quellen und amtliche Online-Passagen am 31.10.2026 abgeglichen. Untergliederung der Lesemotivation sowie FSP-Wahlbereich und Bemerkungen getrennt berücksichtigt.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Bisherige 138 Karten unverändert; zwei neue Karten. Keine Aufgaben-/Hilfsmittelvorschläge. Daten- und Syntaxprüfung separat ausgeführt; kein Browser- oder PDF-Test."
+}

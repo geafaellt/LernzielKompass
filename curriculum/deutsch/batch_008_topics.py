@@ -1,0 +1,10 @@
+"""First access to own writing; motivation is not a performance score."""
+def append(T):
+ T('eigene-schreibidee','Eine eigene Schreibidee festhalten','186360','39316','Eine selbst gewählte kurze Notiz zu einer eigenen Idee oder einem persönlichen Wunsch','eine eigene Idee oder einen persönlichen Wunsch in einer kurzen Notiz ausdrücken und die Bedeutung des Aufschreibens erproben','Eine eigene Idee oder einen persönlichen Wunsch mit selbst gewählten Wörtern als ersten Zugang zum freien Schreiben festhalten.','Nur eigener kurzer Schreibversuch. Kein vollständiges kreatives Schreibverfahren, kein reflektierendes Lerntagebuch und keine Bewertung von Freude, Fantasiereichtum oder persönlicher Offenheit. Inhalt darf erfunden sein; private Erfahrungen müssen nicht mitgeteilt werden.',['186364','186367'])
+ T('sachnotiz12','Eine kurze Sachnotiz erproben','186360','39316','Ein kurzer Merkzettel mit selbst gewählten Materialien für eine gemeinsame Klassenaktivität','eine benötigte Information in einer kurzen Notiz festhalten und deren Nutzen erproben','Eine kurze Notiz mit benötigten Materialien als Möglichkeit des freien Schreibens erproben.','Notizen sind im FSP1/2 eine Bemerkung zum Einblick in freies Schreiben. Kein selbstständiges Planen eines Einkaufs oder Beherrschen sämtlicher Notizformen behauptet. Eigene Auswahl der Information statt bloßes Abschreiben.',['186368'])
+def refine(cards):
+ for c in cards:
+  if c['id']=='DE-134':
+   for x in c['fine_goals']:x['criterion']='Ein eigener Gedanke wird in Wörtern oder einem kurzen Satz erkennbar festgehalten und bei Bedarf erläutert. Wortkarten sind zulässig, müssen aber eigene Auswahl ermöglichen. Kein Anspruch an einen vollständigen Text; Motivation und persönliche Inhalte werden nicht benotet.'
+  if c['id']=='DE-135':
+   for x in c['fine_goals']:x['criterion']='Die Notiz hält mindestens eine für die vereinbarte Aktivität benötigte Information erkennbar fest. Das Kind zeigt oder erläutert, woran die Notiz erinnern soll. Umfang und Hilfen werden vorab festgelegt; kein Routinenachweis.'

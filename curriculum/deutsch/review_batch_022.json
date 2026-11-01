@@ -1,0 +1,254 @@
+{
+  "batch": "DE-UZ-022",
+  "date": "2026-10-31",
+  "source_commit": "b4d0cf03798778727f5054e633f1c56d68a1ca79",
+  "entries": [
+    {
+      "gs_id": "page908_186483",
+      "target": "Erkennen grundlegender Unterschiede",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in die Grundlagen mündlicher und schriftlicher Kommunikation",
+      "remarks": "Nähe – Distanz Mimik/Gestik – kommunikative Zeichen",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Der gemeinsame Gegenstand mündliche/schriftliche Einladung ist durch FSP3/4 Anwenden beider Gebrauchsformen und Unterziel Einladungen belegt. GS beobachtet daran erste Unterschiede; FSP verwendet beide Formen situationsgerecht. Der FSP-Lehrplan fordert keinen theoretischen Vergleich, daher sind die beiden Feinziele bewusst verschieden. Mimik/Gestik in anderen FSP-Kontexten belegen allein keinen Vergleich mündlicher und schriftlicher Kommunikation.",
+      "cards": [
+        "DE-094"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40320",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+          "remarks": "Situationsbezug beachten sprachliche Mittel, Form ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40320",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40323",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Einladungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40323",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_39316",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in das freie Schreiben",
+          "remarks": "Ein-Wort-Sätze, Bezeichnungen kleine Briefe, Notizen, Informationen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39316",
+          "parent_target_id": "page146_39316"
+        },
+        {
+          "id": "page146_39484",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 2,
+          "target": "was ich schon kann",
+          "remarks": "Unterstützung durch Mimik und Gestik ⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39484",
+          "parent_target_id": "page146_39384"
+        },
+        {
+          "id": "page146_39970",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 3,
+          "target": "Mimik und Gestik",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39970",
+          "parent_target_id": "page146_39967"
+        },
+        {
+          "id": "page146_40385",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "ausgewählte Gebrauchsformen verwenden",
+          "remarks": "Gruß, Glückwunsch, Dank, Einladung, Wunschzettel mündlich, schriftlich: handschriftlich Arbeiten oder mit Textverarbeitungssoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40385",
+          "parent_target_id": "page146_40359"
+        }
+      ],
+      "shared_objects": [
+        "Eine mündliche und eine schriftliche Einladung zum selben Anlass"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können mündliches und schriftliches Einladen erproben und einen ersten Unterschied beider Kommunikationsformen am selben Anlass erkennen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Beide Formen werden erprobt. Eine zutreffende erste Beobachtung zu ihrer Verständigungssituation wird erkennbar, etwa zur unmittelbaren Rückfragemöglichkeit im persönlichen Gespräch gegenüber einem übergebenen Einladungstext. Keine vollständige Erklärung einer Kommunikationstheorie verlangt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Gelernte Gebrauchsformen auf eine mündliche und schriftliche Einladung zu einem neuen Anlass anwenden.",
+          "criterion": "Für einen neuen Anlass werden eine mündliche und eine schriftliche Einladung situationsgerecht formuliert. Beide enthalten die nötigen Angaben; die sprachliche Form passt zum jeweiligen Kommunikationsweg. Bloßes Benennen von Unterschieden erfüllt Anwenden nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur Einladung als gemeinsamer Ausschnitt. Nähe und Distanz sind nicht automatisch an mündlich/schriftlich gebunden. Kriterien sind didaktische Konkretisierungen, keine zusätzlichen Lehrplanforderungen. Aufgaben/Hilfsmittel bestimmt die Lehrkraft."
+    },
+    {
+      "gs_id": "page908_186484",
+      "target": "Erproben unterschiedlicher Kommunikationssituationen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in die Grundlagen mündlicher und schriftlicher Kommunikation",
+      "remarks": "Unterhaltung – Brief",
+      "decision": "bereits zugeordnet; Feinziel und Kriterien korrigiert",
+      "reason": "Bisher war die Zeile zugeordnet, das GS-Feinziel verlangte jedoch nur eine Erklärung von Unterschieden. Jetzt enthält es ausdrücklich das Erproben beider Formen. Die GS-Bemerkung Unterhaltung – Brief sind Beispiele; der ausgewählte Ausschnitt Einladung deckt nicht sämtliche Kommunikationssituationen ab. Das FSP-Kriterium prüft tatsächliche Verwendung bei einem neuen Anlass statt bloßer Merkmalskenntnis.",
+      "cards": [
+        "DE-094"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40320",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+          "remarks": "Situationsbezug beachten sprachliche Mittel, Form ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40320",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40323",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Einladungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40323",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_39316",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in das freie Schreiben",
+          "remarks": "Ein-Wort-Sätze, Bezeichnungen kleine Briefe, Notizen, Informationen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39316",
+          "parent_target_id": "page146_39316"
+        },
+        {
+          "id": "page146_39484",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 2,
+          "target": "was ich schon kann",
+          "remarks": "Unterstützung durch Mimik und Gestik ⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39484",
+          "parent_target_id": "page146_39384"
+        },
+        {
+          "id": "page146_39970",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 3,
+          "target": "Mimik und Gestik",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39970",
+          "parent_target_id": "page146_39967"
+        },
+        {
+          "id": "page146_40385",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "ausgewählte Gebrauchsformen verwenden",
+          "remarks": "Gruß, Glückwunsch, Dank, Einladung, Wunschzettel mündlich, schriftlich: handschriftlich Arbeiten oder mit Textverarbeitungssoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40385",
+          "parent_target_id": "page146_40359"
+        }
+      ],
+      "shared_objects": [
+        "Eine mündliche und eine schriftliche Einladung zum selben Anlass"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können mündliches und schriftliches Einladen erproben und einen ersten Unterschied beider Kommunikationsformen am selben Anlass erkennen. Anforderungsniveau: Einblick gewinnen.",
+          "criterion": "Beide Formen werden erprobt. Eine zutreffende erste Beobachtung zu ihrer Verständigungssituation wird erkennbar, etwa zur unmittelbaren Rückfragemöglichkeit im persönlichen Gespräch gegenüber einem übergebenen Einladungstext. Keine vollständige Erklärung einer Kommunikationstheorie verlangt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Gelernte Gebrauchsformen auf eine mündliche und schriftliche Einladung zu einem neuen Anlass anwenden.",
+          "criterion": "Für einen neuen Anlass werden eine mündliche und eine schriftliche Einladung situationsgerecht formuliert. Beide enthalten die nötigen Angaben; die sprachliche Form passt zum jeweiligen Kommunikationsweg. Bloßes Benennen von Unterschieden erfüllt Anwenden nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur Einladung als gemeinsamer Ausschnitt. Nähe und Distanz sind nicht automatisch an mündlich/schriftlich gebunden. Kriterien sind didaktische Konkretisierungen, keine zusätzlichen Lehrplanforderungen. Aufgaben/Hilfsmittel bestimmt die Lehrkraft."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 1,
+    "reviewed_total": 77,
+    "assigned_rows_reviewed_this_batch": 1,
+    "assigned_rows_reviewed_total": 5,
+    "cards": 145,
+    "uncovered": 195,
+    "uncovered_pending_individual_review": 164,
+    "documented_no_direct_connection": 29,
+    "documented_connection_uncertain": 2,
+    "revisited_rows_this_batch": 0
+  },
+  "next_id": "page908_186486",
+  "next_target": "Beschreiben eigener Erfahrungen",
+  "app_version": "1.276",
+  "source_verification": {
+    "method": "Inventuren, gespeicherte Quellen und amtliche Online-Passagen am 31.10.2026 abgeglichen. Benachbarte bereits zugeordnete Zeile zur Konsistenz mitgeprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Nur DE-094 verändert, IDs erhalten. Keine Aufgaben-/Hilfsmittelvorschläge. Daten-/Syntaxprüfung und Sachunterricht-Vergleich separat ausgeführt. Kein Browser- oder PDF-Test."
+}

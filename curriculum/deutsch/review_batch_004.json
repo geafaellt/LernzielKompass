@@ -1,0 +1,482 @@
+{
+  "batch": "DE-UZ-004",
+  "date": "2026-10-30",
+  "source_commit": "00d39bb94d59e678a6cbf0126613493fbfa32647",
+  "entries": [
+    {
+      "gs_id": "page908_186319",
+      "target": "visuell",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Schreibfertigkeiten",
+      "remarks": "Figur-Grund-Wahrnehmung Raum-Lage-Beziehung",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzter visueller Anschluss über Formunterscheidung/ähnliche Schriftzeichen im FSP1/2-Entwicklungsziel. Figur-Grund-Wahrnehmung und Raum-Lage sind GS-Bemerkungen; keine vollständige Gleichsetzung. FSP3/4 lesbares Schriftbild ist Ergebnis des Schreibens und ersetzt diesen Wahrnehmungsanker nicht.",
+      "cards": [
+        "DE-115"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39179",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Entwickeln von Sprachwahrnehmungsleistungen",
+          "remarks": "⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39179",
+          "parent_target_id": "page146_39179"
+        },
+        {
+          "id": "page146_39187",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "optisch-graphomotorische Differenzierungsfähigkeiten",
+          "remarks": "Auge-Hand-Koordination: Erfassen von Linien und Figuren, Formunterscheidung und Formkonstanz, Differenzierung ähnlich aussehender Buchstaben, Erfassen der Buchstabenformen, Identifizierung der optischen Gesamtstruktur ➔ MA, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39187",
+          "parent_target_id": "page146_39179"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40127",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+          "remarks": "Schreibrichtung, angemessenes Schreibtempo sauberes und lesbares Schriftbild unter Verwendung der Schulausgangsschrift ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40127",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "shared_objects": [
+        "Vertraute Laute und deutlich unterscheidbare Schriftformen"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können Laute unterscheiden und Schriftformen visuell und graphomotorisch erproben. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Bekannte Schriftformen werden anhand eines sichtbaren Formmerkmals unterschieden oder passend zugeordnet; bei der Lautaufgabe wird ein zutreffender Lautunterschied gezeigt. Hilfen und Materialumfang vorab festlegen."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Die auditive und visuelle Wahrnehmung an vertrauten Lauten und Schriftformen weiterentwickeln.",
+            "criterion": "Ausgangs- und Folgebeobachtung halten fest, welche Laut- und Schriftformunterschiede erkannt werden und welche Hilfen nötig sind. Individuelle Fortschritte beschreiben; kein einheitlicher Abschlussstandard."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Entwickeln",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          },
+          "status": "Abgleichsvorschlag · begrenzter Zielausschnitt"
+        }
+      ],
+      "uncertainty": "Didaktischer Vorschlag zur fachlichen Erprobung. Bemerkungen unterstützen die eng begrenzte Umsetzung, sind keine eigenständigen Zieloperatoren. Kein Anspruch vollständiger Abdeckung."
+    },
+    {
+      "gs_id": "page908_186321",
+      "target": "kinästhetisch",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Schreibfertigkeiten",
+      "remarks": "Druckanpassung der Hand- und Fingerkraft rhythmische Hand- und Armbewegungen Wechsel von Bewegung und Stillstand Gleichgewicht",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Kein hinreichend belegter direkter Anschluss. FSP kinästhetisch-artikulatorisch betrifft Mund, Atmung und Lautbildung; GS betrifft Hand-/Armbewegung und Druckdosierung beim Schreiben. Finger-/Bewegungsspiele als FSP-Bemerkung belegen diese spezielle Wahrnehmungsanforderung nicht vollständig. Ähnliches Wort ist kein inhaltlich gleicher Zielanker.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39190",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "kinästhetisch-artikulatorische Differenzierungsfähigkeiten",
+          "remarks": "Mundbilder, bewusste Lautbildung Koordinieren von Atmung und Sprechbewegung Bezeichnen der Sprechwerkzeuge Zähne, Zunge, Lippen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39190",
+          "parent_target_id": "page146_39179"
+        },
+        {
+          "id": "page146_39286",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Kleinbuchstaben",
+          "remarks": "Bewegungsabläufe und -richtungen Körper-, Hand- und Stifthaltung Linkshändigkeit berücksichtigen Finger- und Bewegungsspiele Differenzierung: unterschiedliche Schreibmaterialien und Schriftgrößen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39286",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_40127",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+          "remarks": "Schreibrichtung, angemessenes Schreibtempo sauberes und lesbares Schriftbild unter Verwendung der Schulausgangsschrift ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40127",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Didaktischer Vorschlag zur fachlichen Erprobung. Bemerkungen unterstützen die eng begrenzte Umsetzung, sind keine eigenständigen Zieloperatoren. Kein Anspruch vollständiger Abdeckung."
+    },
+    {
+      "gs_id": "page908_186322",
+      "target": "taktil",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Schreibfertigkeiten",
+      "remarks": "Gegenstände und Formen ertasten",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzter Anschluss im FSP1/2-Wahlbereich 1: Buchstaben erfassen, methodisch durch Fühlbuchstaben konkretisiert. Kein allgemeines taktiles Pflichtziel. FSP3/4 Erde fühlen betrifft einen anderen Sachgegenstand. Neue Karte bindet Ertasten an Sprachwissen und Namen in neuer Erkundungssituation; Wahlbereich und höhere FSP-Anforderung ausdrücklich markiert.",
+      "cards": [
+        "DE-131"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39893",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 1,
+          "target": "Anwenden von Sprachwissen beim Erkunden der Umwelt",
+          "remarks": "Exkursionen ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39893",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_39907",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 2,
+          "target": "Namen entdecken",
+          "remarks": "Personen-, Orts-, Tier- und Pflanzennamen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39907",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_39914",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 3,
+          "target": "Buchstaben erfassen",
+          "remarks": "phonematische Differenzierungsübungen Tastsäckchen, Fühlbuchstaben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39914",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_40507",
+          "grade": "3/4",
+          "area_id": "page146_40058",
+          "area": "Wahlbereich 1: Feuer – Wasser – Erde – Luft",
+          "level": 3,
+          "target": "Erde fühlen und Eindrücke wiedergeben",
+          "remarks": "Sand, Lehm, Ton",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40507",
+          "parent_target_id": "page146_40492"
+        }
+      ],
+      "shared_objects": [
+        "Tastbare Buchstaben zu Namen aus einer gemeinsamen Erkundung im Schulumfeld"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können eine bekannte Buchstabenform ertasten und der sichtbaren Form zuordnen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Eine bekannte ertastete Buchstabenform wird der passenden sichtbaren Form zugeordnet oder anhand eines Formmerkmals beschrieben."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: In einer neuen Erkundungssituation bekannte Buchstabenformen durch Ertasten erfassen, passende Laute zuordnen und die Buchstaben in entdeckten Namen wiederfinden.",
+            "criterion": "In der noch nicht bearbeiteten Erkundungssituation werden ein bekannter Buchstabe und sein Laut passend verbunden und in einem entdeckten Namen wiedergefunden. Reines Fühlen ohne Sprachbezug erfüllt den FSP-Operator nicht. Hilfen und Auswahl vorab festlegen."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          },
+          "status": "Abgleichsvorschlag · begrenzter Zielausschnitt · FSP-Wahlbereich erforderlich"
+        }
+      ],
+      "uncertainty": "Didaktischer Vorschlag zur fachlichen Erprobung. Bemerkungen unterstützen die eng begrenzte Umsetzung, sind keine eigenständigen Zieloperatoren. Kein Anspruch vollständiger Abdeckung."
+    },
+    {
+      "gs_id": "page908_186323",
+      "target": "Erproben einer förderlichen Sitz- und Schreibhaltung",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Schreibfertigkeiten",
+      "remarks": "Linkshändigkeit beachten",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzte gemeinsame Tätigkeit: förderliche Haltung beim Schreiben. FSP-Haltung/Linkshändigkeit sind Bemerkungen, kein eigener Zieloperator; der Transfer auf weitere lauttreue Wörter bleibt maßgeblich. DE-018 erweitert nur GS-Konkretisierung und Aufgaben/Kriterium; keine gesonderte FSP-Haltungsbewertung. FSP3/4 Schriftbild enthält keinen spezifischeren Haltungsanker.",
+      "cards": [
+        "DE-018"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39267",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben lauttreuer Wörter",
+          "remarks": "⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39267",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39274",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Buchstabenformen",
+          "remarks": "Druckschrift als Erstschrift Druckschriftlehrgang nicht zwingend erforderlich ⇒ Förderung motorischer Fähigkeiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39274",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39286",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Kleinbuchstaben",
+          "remarks": "Bewegungsabläufe und -richtungen Körper-, Hand- und Stifthaltung Linkshändigkeit berücksichtigen Finger- und Bewegungsspiele Differenzierung: unterschiedliche Schreibmaterialien und Schriftgrößen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39286",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40127",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+          "remarks": "Schreibrichtung, angemessenes Schreibtempo sauberes und lesbares Schriftbild unter Verwendung der Schulausgangsschrift ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40127",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "shared_objects": [
+        "Beschriftungen zu vertrauten Gegenständen im Klassenraum"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können eine individuell förderliche Sitz-, Hand- und Stifthaltung erproben und ausgewählte bekannte Buchstaben und lauttreue Wörter formklar schreiben.",
+            "criterion": "Eine für das Kind praktikable Haltung wird erprobt; die vereinbarten Buchstaben sind erkennbar. Linkshändigkeit und individuelle motorische Voraussetzungen werden berücksichtigt; kein einheitliches Haltungsideal."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Bekannte Laut-Buchstaben-Beziehungen auf das Schreiben weiterer lauttreuer Wörter übertragen.",
+            "criterion": "Die ausgewählten Wörter sind lauttreu aufgebaut und die Buchstaben eindeutig erkennbar. Die konkrete Materialmenge und erlaubte Hilfen legt die Lehrkraft vorab fest."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          },
+          "status": "Abgleichsvorschlag · begrenzter Zielausschnitt"
+        }
+      ],
+      "uncertainty": "Didaktischer Vorschlag zur fachlichen Erprobung. Bemerkungen unterstützen die eng begrenzte Umsetzung, sind keine eigenständigen Zieloperatoren. Kein Anspruch vollständiger Abdeckung."
+    },
+    {
+      "gs_id": "page908_186324",
+      "target": "Erproben unterschiedlicher Schreibgeräte",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Schreibfertigkeiten",
+      "remarks": "in Abhängigkeit von Schreibfläche und Schreibzweck ➔ KU, Kl. 1/2, LB 1",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Kein hinreichend belegter direkter Anschluss: unterschiedliche Schreibmaterialien erscheinen als Differenzierung im FSP, ohne ausdrücklich Schreibgeräte nach Fläche und Zweck erproben/auswählen zu lassen. Schreiben im Textprogramm ist ein anderer Handlungsschwerpunkt. Methodische Variation ist möglich, aber kein belegtes entsprechendes Unterziel.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39286",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Kleinbuchstaben",
+          "remarks": "Bewegungsabläufe und -richtungen Körper-, Hand- und Stifthaltung Linkshändigkeit berücksichtigen Finger- und Bewegungsspiele Differenzierung: unterschiedliche Schreibmaterialien und Schriftgrößen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39286",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39327",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Schreiben in einem Textprogramm",
+          "remarks": "große Schrift und Schulbuchdruckschrift als Standard einstellen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39327",
+          "parent_target_id": "page146_39318"
+        },
+        {
+          "id": "page146_40163",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Schreiben in einem Textprogramm",
+          "remarks": "Gedichte, Geschichten, Sachtexte, Informationen interaktive Arbeitsblätter bearbeiten Differenzierung: Schriftgröße, Schriftart",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40163",
+          "parent_target_id": "page146_40153"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Didaktischer Vorschlag zur fachlichen Erprobung. Bemerkungen unterstützen die eng begrenzte Umsetzung, sind keine eigenständigen Zieloperatoren. Kein Anspruch vollständiger Abdeckung."
+    },
+    {
+      "gs_id": "page908_186329",
+      "target": "Reflektieren über das Schreiben",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Beherrschen der Schulausgangsschrift",
+      "remarks": "Schreibschwierigkeiten erkennen und beheben Kriterien: Druckstärke, Stifthaltung, Schriftgröße, Wortabstände, Formklarheit",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Kein hinreichend belegter direkter Anschluss: Hinweise zu Haltung, Tempo und lesbarem Schriftbild sowie Schreibverfahren belegen noch keine eigene kriterienbezogene Reflexion über Schreibschwierigkeiten. Keine Übertragung von produktbezogenen Qualitätsmerkmalen in eine ausdrücklich geforderte metakognitive Handlung.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39286",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Kleinbuchstaben",
+          "remarks": "Bewegungsabläufe und -richtungen Körper-, Hand- und Stifthaltung Linkshändigkeit berücksichtigen Finger- und Bewegungsspiele Differenzierung: unterschiedliche Schreibmaterialien und Schriftgrößen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39286",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40127",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+          "remarks": "Schreibrichtung, angemessenes Schreibtempo sauberes und lesbares Schriftbild unter Verwendung der Schulausgangsschrift ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40127",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40135",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Schreibverfahren",
+          "remarks": "⇒ Lern- und Methodenkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40135",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Didaktischer Vorschlag zur fachlichen Erprobung. Bemerkungen unterstützen die eng begrenzte Umsetzung, sind keine eigenständigen Zieloperatoren. Kein Anspruch vollständiger Abdeckung."
+    }
+  ],
+  "source_verification": {
+    "date": "2026-10-30",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "versions": [
+      "GS2026",
+      "FSP2019"
+    ],
+    "method": "Amtliche Tabellen online und versionierte Inventuren; Ziele, Unterziele, Bemerkungen und Bandgrenzen getrennt geprüft."
+  },
+  "counts": {
+    "newly_reviewed": 6,
+    "reviewed_total": 23,
+    "cards": 129,
+    "uncovered": 230,
+    "uncovered_pending_individual_review": 218,
+    "documented_no_direct_connection": 12
+  },
+  "next_id": "page908_186332",
+  "next_target": "Selbstlaute",
+  "app_version": "1.259",
+  "validation": "129 Karten; alte Karten außer DE-018/DE-115 identisch; DE-131 Wahlbereich korrekt; Quellen, Bänder, Operatoren und JavaScript-Syntax bestanden; Sachunterricht bytegleich. Keine PDF-Prüfung."
+}

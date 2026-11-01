@@ -1,0 +1,374 @@
+{
+  "batch": "DE-UZ-002",
+  "date": "2026-10-30",
+  "source_commit": "ccc57c6bf825c883f151aea0440f7f4b875dd2fa",
+  "entries": [
+    {
+      "gs_id": "page908_186275",
+      "target": "Informieren",
+      "classification": "Unterziel",
+      "parent_goal": "Einblick gewinnen in Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "Alltagssituationen durch korrekte Beschreibungen klären",
+      "decision": "begrenzter Anschluss integriert",
+      "cards": [
+        "DE-125"
+      ],
+      "fsp_evidence": [
+        {
+          "id": "page146_39562",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zur eigenen Lernumgebung",
+          "remarks": "Ordnung, Sauberkeit, Vollständigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39562",
+          "parent_target_id": "page146_39562"
+        },
+        {
+          "id": "page146_39568",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 2,
+          "target": "Arbeitsmittel",
+          "remarks": "Hefte, Bücher, Federtasche, Ranzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39568",
+          "parent_target_id": "page146_39562"
+        },
+        {
+          "id": "page146_39571",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 3,
+          "target": "benennen und beschreiben",
+          "remarks": "einfache, vertraute Gegenstände Farben und Formen Zuordnungsübungen ➔ MA, Kl. 1/2, LB 2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39571",
+          "parent_target_id": "page146_39562"
+        }
+      ],
+      "shared_object": "Ein gemeinsam betrachteter Arbeitsplatz mit vertrauten Arbeitsmitteln",
+      "operators": {
+        "gs": "Einblick gewinnen",
+        "fsp": "Sich positionieren"
+      },
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können einem Partner ein Arbeitsmittel anhand seiner Merkmale beschreiben. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Das beschriebene Merkmal passt zum Arbeitsmittel und macht die Information für den Partner verständlich. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Ein vertrautes Arbeitsmittel benennen und beschreiben und seine Anordnung am eigenen Arbeitsplatz mit einem passenden Grund beurteilen.",
+          "criterion": "Arbeitsmittel und Merkmale werden richtig benannt; die Einschätzung des Arbeitsplatzes enthält einen nachvollziehbaren Grund. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "boundary": "Gemeinsamer Zielausschnitt: Ein gemeinsam betrachteter Arbeitsplatz mit vertrauten Arbeitsmitteln. Nur Arbeitsmittel im Rahmen der eigenen Lernumgebung. Die begründete Einschätzung gehört zum FSP-Operator Sich positionieren; Beschreiben allein genügt dafür nicht.",
+      "uncertainty": "Didaktischer Abgleichsvorschlag, keine fachliche Freigabe. Nur der benannte Ausschnitt ist zugeordnet."
+    },
+    {
+      "gs_id": "page908_186276",
+      "target": "Erklären",
+      "classification": "Unterziel",
+      "parent_goal": "Einblick gewinnen in Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "Fragen stellen und beantworten einfache Erklärungen verstehen und geben",
+      "decision": "begrenzter Anschluss integriert",
+      "cards": [
+        "DE-126"
+      ],
+      "fsp_evidence": [
+        {
+          "id": "page146_39562",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zur eigenen Lernumgebung",
+          "remarks": "Ordnung, Sauberkeit, Vollständigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39562",
+          "parent_target_id": "page146_39562"
+        },
+        {
+          "id": "page146_39568",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 2,
+          "target": "Arbeitsmittel",
+          "remarks": "Hefte, Bücher, Federtasche, Ranzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39568",
+          "parent_target_id": "page146_39562"
+        },
+        {
+          "id": "page146_39576",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 3,
+          "target": "Umgang erklären",
+          "remarks": "⇒ Lern- und Methodenkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39576",
+          "parent_target_id": "page146_39562"
+        }
+      ],
+      "shared_object": "Der Umgang mit einem vertrauten Arbeitsmittel am eigenen Arbeitsplatz",
+      "operators": {
+        "gs": "Einblick gewinnen",
+        "fsp": "Sich positionieren"
+      },
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können eine einfache Erklärung zum Umgang mit dem Arbeitsmittel erproben und eine Rückfrage beantworten. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Ein sachlich richtiger Handlungsschritt wird verständlich erklärt; eine einfache Rückfrage wird passend beantwortet. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Den Umgang mit einem vertrauten Arbeitsmittel erklären und den eigenen Umgang damit anhand eines vereinbarten Kriteriums begründet einschätzen.",
+          "criterion": "Die Erklärung passt zum Arbeitsmittel; die Einschätzung des eigenen Umgangs bezieht sich mit einem Grund auf das vereinbarte Kriterium. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "boundary": "Gemeinsamer Zielausschnitt: Der Umgang mit einem vertrauten Arbeitsmittel am eigenen Arbeitsplatz. Kein allgemeiner Anschluss für beliebige Erklärungen. Im FSP bleibt die Positionierung zur eigenen Lernumgebung Teil des Ziels.",
+      "uncertainty": "Didaktischer Abgleichsvorschlag, keine fachliche Freigabe. Nur der benannte Ausschnitt ist zugeordnet."
+    },
+    {
+      "gs_id": "page908_186278",
+      "target": "Verwenden des Wortschatzes",
+      "classification": "Unterziel",
+      "parent_goal": "Einblick gewinnen in Formen des situations- und adressatengerechten Kommunizierens",
+      "remarks": "situationsangemessen kommunizieren",
+      "decision": "begrenzter Anschluss integriert",
+      "cards": [
+        "DE-127"
+      ],
+      "fsp_evidence": [
+        {
+          "id": "page146_39794",
+          "grade": "1/2",
+          "area_id": "page146_39143",
+          "area": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+          "level": 1,
+          "target": "Anwenden von Begriffen zur Bezeichnung von Lagebeziehungen im Raum",
+          "remarks": "Klassenraum, Schulhaus, Schulgelände Bezeichnungen: auf, unter, vor, hinter, rechts, links, neben, zwischen Suchspiele ➔ MA, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39794",
+          "parent_target_id": "page146_39794"
+        }
+      ],
+      "shared_object": "Eine mündliche Suchanweisung zu einem Gegenstand im Klassenraum",
+      "operators": {
+        "gs": "Einblick gewinnen",
+        "fsp": "Anwenden"
+      },
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können passende Lagewörter in einer einfachen Suchanweisung erproben. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Ein Lagewort wird in der erprobten Anweisung passend verwendet; ein erster verständlicher Orientierungsversuch wird sichtbar. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Erarbeitete Lagebegriffe für eine neue räumliche Anordnung im Klassenraum selbst auswählen und so verwenden, dass ein Partner den gesuchten Gegenstand findet.",
+          "criterion": "Bei einer vorher nicht geübten Anordnung werden passende Lagebegriffe selbst ausgewählt; der Partner kann damit den Gegenstand eindeutig finden. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "boundary": "Gemeinsamer Zielausschnitt: Eine mündliche Suchanweisung zu einem Gegenstand im Klassenraum. Nur räumlicher Wortschatz. FSP Anwenden verlangt eine neue Anordnung mit eigener Auswahl geeigneter Begriffe; GS Einblick verlangt keinen Routinenachweis.",
+      "uncertainty": "Didaktischer Abgleichsvorschlag, keine fachliche Freigabe. Nur der benannte Ausschnitt ist zugeordnet."
+    },
+    {
+      "gs_id": "page908_186292",
+      "target": "Entwickeln einer Gesprächskultur",
+      "classification": "Unterziel",
+      "parent_goal": "Kennen von Formen und Regeln des Miteinandersprechens",
+      "remarks": "respektvolles Gesprächsverhalten zeigen Kommunikation als Konfliktlösung",
+      "decision": "begrenzter Anschluss integriert",
+      "cards": [
+        "DE-128"
+      ],
+      "fsp_evidence": [
+        {
+          "id": "page146_39605",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Kennen der Klassengemeinschaft",
+          "remarks": "➔ ETH, Kl. 1/2, LB 2 ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39605",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_39617",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 2,
+          "target": "Regeln für gemeinsames und individuelles Lernen",
+          "remarks": "Verhaltensmuster und Ordnungsregeln Hausordnung, Klassenordnung wertschätzende Kommunikation als Grundlage zur Konfliktlösung ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39617",
+          "parent_target_id": "page146_39605"
+        }
+      ],
+      "shared_object": "Eine vertraute Gesprächssituation in der Klasse mit einer Unterbrechung",
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Kennen"
+      },
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können eine gemeinsam erarbeitete Regel zum respektvollen Gespräch benennen und ein passendes Verhalten zeigen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+          "criterion": "Eine gemeinsam erarbeitete Gesprächsregel wird benannt und an der bekannten Situation zutreffend gezeigt. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Eine bekannte Regel des gemeinsamen Lernens nennen und ein dazu passendes respektvolles Gesprächsverhalten an einem vertrauten Beispiel wiedergeben.",
+          "criterion": "Eine bekannte Regel wird richtig wiedergegeben; das gezeigte Gesprächsverhalten entspricht dieser Regel. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "boundary": "Gemeinsamer Zielausschnitt: Eine vertraute Gesprächssituation in der Klasse mit einer Unterbrechung. Begrenzter Ausschnitt der Gesprächskultur. Wertschätzende Kommunikation und Konfliktlösung stehen im FSP in den Bemerkungen zu Regeln; keine umfassende selbstständige Konfliktlösung oder abgeschlossene Gesprächskultur behaupten.",
+      "uncertainty": "Didaktischer Abgleichsvorschlag, keine fachliche Freigabe. Nur der benannte Ausschnitt ist zugeordnet."
+    },
+    {
+      "gs_id": "page908_186294",
+      "target": "Entwickeln gemeinsamer Gesprächsregeln",
+      "classification": "Unterziel",
+      "parent_goal": "Kennen von Formen und Regeln des Miteinandersprechens",
+      "remarks": "aufmerksam zuhören sich zu Wort melden deutlich sprechen Blickkontakt halten ausreden lassen Zeitbegrenzung akzeptieren",
+      "decision": "begrenzter Anschluss integriert",
+      "cards": [
+        "DE-129"
+      ],
+      "fsp_evidence": [
+        {
+          "id": "page146_40282",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Leben in der Klassengemeinschaft",
+          "remarks": "demokratische Strukturen im Klassenverband entwickeln und leben: Vorschläge einbringen, diskutieren und abstimmen ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40282",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40286",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Regeln innerhalb der Klasse",
+          "remarks": "Haus- und Klassenordnung Dienste und Ämter aktuelle Anlässe aufgreifen ➔ ETH, Kl. 3/4, LB 2 ➔ SPO, Kl. 3/4, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40286",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40289",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Regeln formulieren",
+          "remarks": "mündlich und schriftlich Aufforderungssatz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40289",
+          "parent_target_id": "page146_40282"
+        },
+        {
+          "id": "page146_40291",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Verhalten einschätzen und werten",
+          "remarks": "Umgangston Kausalbeziehungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40291",
+          "parent_target_id": "page146_40282"
+        }
+      ],
+      "shared_object": "Eine gemeinsam besprochene Gesprächssituation in der Klasse",
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Sich positionieren"
+      },
+      "stage_alignment": {
+        "relation": "cross-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an der Formulierung einer Gesprächsregel mitwirken und die vereinbarte Regel an einem bekannten Beispiel erläutern. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+          "criterion": "Ein eigener Beitrag zur gemeinsamen Regelformulierung ist erkennbar; die vereinbarte Regel wird an einem bekannten Beispiel zutreffend erläutert. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Eine Gesprächsregel formulieren und das Verhalten in der besprochenen Klassensituation mit einem passenden Grund beurteilen.",
+          "criterion": "Eine verständliche Gesprächsregel liegt vor; die Beurteilung des Verhaltens enthält einen passenden Grund aus der besprochenen Situation. Umfang und erlaubte Hilfen werden vorab festgelegt."
+        }
+      ],
+      "boundary": "Gemeinsamer Zielausschnitt: Eine gemeinsam besprochene Gesprächssituation in der Klasse. Stufenübergreifend GS1/2 zu FSP3/4. Regeln formulieren und Verhalten einschätzen sind explizite FSP-Inhalte; keine Übernahme der gesamten GS-Beispielliste. FSP Sich positionieren verlangt eine begründete Einschätzung.",
+      "uncertainty": "Didaktischer Abgleichsvorschlag, keine fachliche Freigabe. Nur der benannte Ausschnitt ist zugeordnet."
+    }
+  ],
+  "source_verification": {
+    "date": "2026-10-30",
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146",
+    "result": "Amtliche Seiten erneut abrufbar; Fassungen GS 2026 und FSP 2019 bestätigt. Tabellenzeilen und Einrückung zusätzlich gegen gespeicherte Inventuren geprüft."
+  },
+  "alternative_scope": "FSP1/2 LB2 eigener Lernplatz trägt Informieren und Erklären; FSP3/4 Beschreiben von Pflichten/Vorgängen bleibt wegen anderem Sachkontext außerhalb dieser Karten. Lagewortanschluss FSP1/2 ist direkt; FSP3/4 Wege beschreiben wäre gesonderter stufenübergreifender Ausschnitt. Gesprächskultur FSP1/2 nur als bekannte Regel; gemeinsam formulierte Regeln mit begründeter Einschätzung werden separat FSP3/4 zugeordnet. Keine Bandvermischung.",
+  "counts": {
+    "newly_reviewed": 5,
+    "reviewed_total": 9,
+    "cards": 127,
+    "uncovered": 236,
+    "uncovered_pending_individual_review": 232
+  },
+  "next_id": "page908_186301",
+  "next_target": "Vorbereiten des Zuhörens",
+  "next_scope": "Weitere offene GS1/2-Zeilen Sprechen und Zuhören; nach allen offenen Zeilen bereits zugeordnete Unterziele prüfen.",
+  "app_version": "1.257",
+  "validation": "127 Karten; alte 122 Karten unverändert; stabile IDs; Quellen-/Band-/Operatorprüfung und JavaScript-Syntax bestanden; Sachunterricht bytegleich."
+}

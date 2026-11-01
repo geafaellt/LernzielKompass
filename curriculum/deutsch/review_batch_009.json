@@ -1,0 +1,531 @@
+{
+  "batch": "DE-UZ-009",
+  "date": "2026-10-31",
+  "source_commit": "69fddc8ddf2739917e2a835298c9067d677bdad9",
+  "entries": [
+    {
+      "gs_id": "page908_186371",
+      "target": "Erkennen von Schreibanlässen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten des Planens und Strukturierens von Texten",
+      "remarks": "über geplante Verwendung des Textes sprechen vielfältige Textpräsentationen",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Der konkrete Anlass einer schriftlichen Einladung trägt eine begrenzte Schnittmenge: GS erkennt am bekannten Beispiel den Schreibzweck, FSP3/4 wendet die Gebrauchsform situationsbezogen bei einem neuen Anlass an. Buchherstellung/Themenwahl allein belegt dagegen kein allgemeines Erkennen von Schreibanlässen.",
+      "cards": [
+        "DE-136"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39934",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 1,
+          "target": "Anwenden von Schrittfolgen zur Herstellung eines Buches",
+          "remarks": "⇒ Medienbildung ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39934",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_39938",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 2,
+          "target": "Themenwahl",
+          "remarks": "Tierbuch, Pflanzenbuch, Anlautbuch, Wörterbuch, Bilderbuch, Ich-Buch Überschrift finden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39938",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_40320",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+          "remarks": "Situationsbezug beachten sprachliche Mittel, Form ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40320",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40323",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Einladungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40323",
+          "parent_target_id": "page146_40320"
+        }
+      ],
+      "shared_objects": [
+        "Eine schriftliche Einladung zu einer gemeinsamen Klassenveranstaltung"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können am bekannten Beispiel den Anlass, die Adressaten und den Zweck einer schriftlichen Einladung benennen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Anlass, vorgesehene Empfänger und Zweck der bekannten Einladung werden zutreffend benannt. Die Begründung erklärt, wozu hier geschrieben wird."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Für eine neue Klassenveranstaltung eine passende schriftliche Einladung verfassen und dabei Anlass und Adressaten berücksichtigen.",
+            "criterion": "Bei einem neuen Anlass enthält die selbst formulierte Einladung die vorab vereinbarten notwendigen Angaben; sprachliche Form und Adressierung passen zur Situation. Bloßes Benennen eines Schreibanlasses genügt für Anwenden nicht."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter didaktischer Ausschnitt; keine Vollabdeckung. Bemerkungen bleiben von Zielanforderungen getrennt.",
+      "gs_operator": "Kennen",
+      "gs_band": "1/2"
+    },
+    {
+      "gs_id": "page908_186383",
+      "target": "Ausdrücken von Erlebtem, Erdachtem",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten zum Formulieren von einfachen Texten",
+      "remarks": "Erlebniserzählung, Fantasieerzählung, Gedichtformen",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Eigene kurze Erlebnis-Mitteilungen sind ein enger Ausschnitt des Formulierens und des freien Schreibens. GS Kennen und FSP1/2 Einblick bleiben verschieden. FSP3/4 Fantasieausdruck erlaubt auch bildliche oder pantomimische Formen; daraus wird kein schriftlicher Erzählstandard abgeleitet. Die GS-Bemerkungen zu Erzählungen/Gedichten sind nicht vollständig abgedeckt.",
+      "cards": [
+        "DE-137"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39316",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in das freie Schreiben",
+          "remarks": "Ein-Wort-Sätze, Bezeichnungen kleine Briefe, Notizen, Informationen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39316",
+          "parent_target_id": "page146_39316"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40150",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "freies Schreiben",
+          "remarks": "Klassenbriefkasten, Mitteilungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40150",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40488",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in Möglichkeiten, eigene Wünsche, Träume und Fantasien auszudrücken",
+          "remarks": "Pantomime, bildliche Darstellung Geschichten fortsetzen und beenden ➔ ETH, Kl. 3/4, LB 1 ➔ SPO, Kl. 3/4, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40488",
+          "parent_target_id": "page146_40488"
+        }
+      ],
+      "shared_objects": [
+        "Eine kurze eigene Mitteilung über ein selbst gewähltes Erlebnis"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können ein selbst gewähltes Erlebnis in einer verständlichen kurzen Mitteilung formulieren und die Aussage erläutern. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Die kurze Mitteilung macht das gewählte Erlebnis verständlich; das Kind erläutert, was es mit den gewählten Formulierungen ausdrückt. Keine vollständige Erzählstruktur verlangt."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Eine eigene kurze Mitteilung über ein Erlebnis als ersten Zugang zum freien Schreiben erproben.",
+            "criterion": "Ein eigener Erlebnisinhalt wird in selbst gewählten Wörtern oder einem kurzen Satz erkennbar. Hilfen können die Formulierung unterstützen; bloßes Abschreiben einer vorgegebenen Aussage genügt nicht. Kein Routinenachweis."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter didaktischer Ausschnitt; keine Vollabdeckung. Bemerkungen bleiben von Zielanforderungen getrennt.",
+      "gs_operator": "Kennen",
+      "gs_band": "1/2"
+    },
+    {
+      "gs_id": "page908_186384",
+      "target": "Beschreiben",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten zum Formulieren von einfachen Texten",
+      "remarks": "gebundenes Schreiben: Gegenstands-, Personen-, Tierbeschreibung",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Explizites Gebäude beschreiben mit Sätze schreiben als FSP-Bemerkung ermöglicht eine schriftliche Merkmalsbeschreibung einer erkundeten regionalen historischen Anlage. Wahlbereich und Band3/4 bleiben bindende Grenzen. Tier-/Pflanzenbuch-Themenwahl FSP1/2 ist allein kein Beschreibungsziel. Kein allgemeiner Anschluss für alle Beschreibungsarten.",
+      "cards": [
+        "DE-138"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39938",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 2,
+          "target": "Themenwahl",
+          "remarks": "Tierbuch, Pflanzenbuch, Anlautbuch, Wörterbuch, Bilderbuch, Ich-Buch Überschrift finden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39938",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_40531",
+          "grade": "3/4",
+          "area_id": "page146_40063",
+          "area": "Wahlbereich 3: Bei uns entdeckt: Burgen, Schlösser ...",
+          "level": 1,
+          "target": "Kennen und Erleben einer historischen Anlage in der Region",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40531",
+          "parent_target_id": "page146_40531"
+        },
+        {
+          "id": "page146_40541",
+          "grade": "3/4",
+          "area_id": "page146_40063",
+          "area": "Wahlbereich 3: Bei uns entdeckt: Burgen, Schlösser ...",
+          "level": 3,
+          "target": "Gebäude beschreiben",
+          "remarks": "Stützwörter, Satzmuster Sätze schreiben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40541",
+          "parent_target_id": "page146_40531"
+        }
+      ],
+      "shared_objects": [
+        "Ein gemeinsam erkundetes historisches Gebäude in der Region"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können sichtbare Merkmale des bekannten Gebäudes in verständlichen einfachen Sätzen beschreiben. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Die vereinbarten sichtbaren Merkmale des bekannten Gebäudes werden sachlich passend in einfachen verständlichen Sätzen beschrieben."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Eine regionale historische Anlage erkunden und ausgewählte beobachtete Gebäudemerkmale mithilfe von Stützwörtern in Sätzen beschreiben.",
+            "criterion": "Nach der Erkundung werden ausgewählte tatsächliche Gebäudemerkmale in eigenen Sätzen festgehalten. Stützwörter und Satzmuster sind zulässig; Hilfeumfang wird dokumentiert. Kein Transfer auf unbekannte Gebäudetypen vorausgesetzt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter didaktischer Ausschnitt; keine Vollabdeckung. Bemerkungen bleiben von Zielanforderungen getrennt.",
+      "gs_operator": "Kennen",
+      "gs_band": "1/2"
+    },
+    {
+      "gs_id": "page908_186385",
+      "target": "Erproben von Mitteln zur formalen Gestaltung schriftlicher Arbeiten",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten zum Formulieren von einfachen Texten",
+      "remarks": "Lineaturen und Schriftarten, Schreibraum einteilen, Textanordnung, Hervorhebung, Beschriftung digitale Textgestaltung ⇒ Medienbildung ⇒ informatische Vorbildung",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Offener Grenzfall ohne belastbare direkte Karte: Buchverzierung/Ornamentik betrifft grafische Gestaltung, belegt aber keine erprobte Textanordnung oder Schriftgestaltung. Schriftgröße/Schriftart stehen im FSP3/4 ausdrücklich unter Differenzierung; das kann eine Materialanpassung durch die Lehrkraft sein. Eigenständiges Auswählen oder Erproben durch Lernende wird daraus nicht als Lehrplanforderung konstruiert. Ein didaktischer Gestaltungsauftrag ist möglich, aber seine genaue curriculare Schnittmenge bleibt unsicher.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39934",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 1,
+          "target": "Anwenden von Schrittfolgen zur Herstellung eines Buches",
+          "remarks": "⇒ Medienbildung ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39934",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_39948",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 3,
+          "target": "einfache grafische Gestaltung",
+          "remarks": "Verzierung, Ornamentik, Farbigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39948",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_40153",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen digitaler Medien als Hilfsmittel zum Schreiben",
+          "remarks": "⇒ informatische Bildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40153",
+          "parent_target_id": "page146_40153"
+        },
+        {
+          "id": "page146_40163",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Schreiben in einem Textprogramm",
+          "remarks": "Gedichte, Geschichten, Sachtexte, Informationen interaktive Arbeitsblätter bearbeiten Differenzierung: Schriftgröße, Schriftart",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40163",
+          "parent_target_id": "page146_40153"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Nichtanschluss bedeutet unzureichenden direkten Beleg im geprüften Ausschnitt, keine Unmöglichkeit didaktischer Verknüpfung. Bei neuem konkretem Quellenbeleg erneut prüfen.",
+      "gs_operator": "Kennen",
+      "gs_band": "1/2"
+    },
+    {
+      "gs_id": "page908_186390",
+      "target": "Überarbeiten nach ausgewählten Kriterien",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten zum Überarbeiten von Texten",
+      "remarks": "Aufbau, Inhalt Formulierungen, Verständlichkeit Rechtschreibung Gestaltung ⇒ ästhetisches Empfinden",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Freies/richtiges/kommentierendes Schreiben und Bedienung eines Textprogramms belegen keine ausdrücklich kriteriengeleitete Überarbeitung eigener Texte. Die Fähigkeit, einen Text zu schreiben oder Zeichen zu ändern, genügt nicht als Beleg für Inhalt, Verständlichkeit und Aufbau zu prüfen und gezielt zu verbessern. Kein gemeinsamer Überarbeitungsgegenstand mit abgesichertem FSP-Feinziel und Erfolgskriterium festgestellt.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39316",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in das freie Schreiben",
+          "remarks": "Ein-Wort-Sätze, Bezeichnungen kleine Briefe, Notizen, Informationen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39316",
+          "parent_target_id": "page146_39316"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40135",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Schreibverfahren",
+          "remarks": "⇒ Lern- und Methodenkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40135",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40144",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "kommentierendes Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40144",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40148",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "klassenbezogene und individuelle Wörter, Funktionswörter, Einsatz digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40148",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40153",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen digitaler Medien als Hilfsmittel zum Schreiben",
+          "remarks": "⇒ informatische Bildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40153",
+          "parent_target_id": "page146_40153"
+        },
+        {
+          "id": "page146_40163",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Schreiben in einem Textprogramm",
+          "remarks": "Gedichte, Geschichten, Sachtexte, Informationen interaktive Arbeitsblätter bearbeiten Differenzierung: Schriftgröße, Schriftart",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40163",
+          "parent_target_id": "page146_40153"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Nichtanschluss bedeutet unzureichenden direkten Beleg im geprüften Ausschnitt, keine Unmöglichkeit didaktischer Verknüpfung. Bei neuem konkretem Quellenbeleg erneut prüfen.",
+      "gs_operator": "Kennen",
+      "gs_band": "1/2"
+    },
+    {
+      "gs_id": "page908_186392",
+      "target": "Nutzen von Rückmeldungen zur Überprüfung von Texten",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten zum Überarbeiten von Texten",
+      "remarks": "Checklisten ⇒ Methodenkompetenz",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Kein konkreter FSP1/2- oder 3/4-Tabellenanker für das Nutzen von Rückmeldungen zur Textprüfung gefunden. Kommentierendes Schreiben ist keine gesicherte Schreibkonferenz; allgemeines Bewerten oder Kontrollieren von Arbeit ersetzt die textbezogene Rückmeldungsnutzung nicht. GS-Checklisten sind methodische Bemerkung, kein eigenständiger Operator. Keine erfundene FSP-Rückmeldungskompetenz.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39316",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in das freie Schreiben",
+          "remarks": "Ein-Wort-Sätze, Bezeichnungen kleine Briefe, Notizen, Informationen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39316",
+          "parent_target_id": "page146_39316"
+        },
+        {
+          "id": "page146_39934",
+          "grade": "1/2",
+          "area_id": "page146_39152",
+          "area": "Wahlbereich 2: Mein Buch",
+          "level": 1,
+          "target": "Anwenden von Schrittfolgen zur Herstellung eines Buches",
+          "remarks": "⇒ Medienbildung ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39934",
+          "parent_target_id": "page146_39934"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40144",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "kommentierendes Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40144",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40148",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "klassenbezogene und individuelle Wörter, Funktionswörter, Einsatz digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40148",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Nichtanschluss bedeutet unzureichenden direkten Beleg im geprüften Ausschnitt, keine Unmöglichkeit didaktischer Verknüpfung. Bei neuem konkretem Quellenbeleg erneut prüfen.",
+      "gs_operator": "Kennen",
+      "gs_band": "1/2"
+    }
+  ],
+  "source_verification": {
+    "date": "2026-10-31",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "method": "Inventuren und gespeicherte amtliche Quellen; aktuelle Quellenfassungen online bestätigt. FSP-Inventur zusätzlich nach Schreib-, Erzähl-, Prüf- und Rückmeldungsankern durchsucht."
+  },
+  "counts": {
+    "newly_reviewed": 6,
+    "reviewed_total": 44,
+    "cards": 136,
+    "uncovered": 216,
+    "uncovered_pending_individual_review": 197,
+    "documented_no_direct_connection": 19
+  },
+  "next_id": "page908_186402",
+  "next_target": "Entwickeln einer differenzierten Wahrnehmungsfähigkeit",
+  "app_version": "1.264",
+  "validation": "Daten-/Syntaxprüfung bestanden: 136 Karten, 117 Zielblöcke, Quellen und Bänder konsistent. Alle bisherigen 133 Karten unverändert; Sachunterricht bytegleich. Kein neuer Browser- oder PDF-Test."
+}

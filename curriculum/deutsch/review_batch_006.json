@@ -1,0 +1,419 @@
+{
+  "batch": "DE-UZ-006",
+  "date": "2026-10-31",
+  "source_commit": "38be5cc688dcfc958b00c7aaa98e0da5c32f87c3",
+  "entries": [
+    {
+      "gs_id": "page908_186334",
+      "target": "Wortebene",
+      "classification": "strukturierende Unterzielzeile",
+      "level": 2,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Strukturierende Unterzielzeile Wortebene, kein zusätzlicher Operator. Nur die konkret zugeordneten Ausschnitte ie und Doppelkonsonanten werden verknüpft; keine Gesamtdeckung. Weitere Wortebenenanforderungen getrennt beurteilt.",
+      "cards": [
+        "DE-132",
+        "DE-133"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "shared_objects": [
+        "Bekannte zweisilbige Modellwörter mit Doppelkonsonanten, etwa Sonne und Tasse",
+        "Bekannte zweisilbige Wörter mit ie, etwa Biene und Wiese"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können an bekannten zweisilbigen Modellwörtern die erarbeitete Doppelkonsonantenschreibung zeigen und erläutern. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Die Doppelkonsonanten werden in den bekannten Modellwörtern richtig gezeigt; die erarbeitete Beziehung zur Silben- bzw. Vokalstruktur wird am Modell zutreffend erläutert."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: An ausgewählten zweisilbigen Wörtern die doppelte Konsonantenschreibung entdecken und mit dem gesprochenen Wort vergleichen.",
+            "criterion": "Die doppelt geschriebenen Konsonanten werden entdeckt oder markiert; das gehörte Wort wird mit der Schriftvorlage verglichen. Keine allgemeine Regelbegründung oder ungeübte Rechtschreibanwendung verlangt."
+          }
+        ],
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können die erarbeitete ie-Schreibung an bekannten zweisilbigen Modellwörtern zeigen und erläutern. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Die Schreibung ie wird im bekannten zweisilbigen Modellwort richtig gezeigt und mit dem langen i-Laut verbunden; keine Verallgemeinerung auf alle langen i-Laute."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: In ausgewählten Wörtern ein lang gesprochenes i und seine Schreibung mit ie entdecken und miteinander vergleichen.",
+            "criterion": "Die Buchstabenfolge ie wird im ausgewählten Wort entdeckt und dem gehörten langen i zugeordnet. Der erste Zugang kann durch Zeigen oder Markieren sichtbar werden; keine routinierte Schreibung verlangt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Enger didaktischer Abgleichsentwurf. Unterzielzeile mit Karte bedeutet nur Ausschnittsabdeckung. Bemerkungsbeispiele sind keine selbstständigen Zieloperatoren."
+    },
+    {
+      "gs_id": "page908_186335",
+      "target": "Zweisilber ohne besondere Markierung",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "offene und geschlossene/betonte und unbetonte Silbe <ie> - Schreibung",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzter Anschluss ausschließlich zur ie-Schreibung aus der GS-Bemerkung. FSP3/4 langes i konkretisiert als Bemerkung den Einblick in Sprech-/Schreibunterschiede. Keine vollständige Silbenstrukturlehre. FSP1/2 Lautanalyse allein belegt nicht die GS-rechtschriftlichen Regularitäten.",
+      "cards": [
+        "DE-133"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39232",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Buchstaben- und Lautstruktur von Silben und einfachen Wörtern",
+          "remarks": "Stellung der Laute in Silbe und im Wort Leserichtung Einsatz digitaler Medien und Lernsoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39232",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39234",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Lautanalyse und -synthese",
+          "remarks": "Lautieren und Zusammenschleifen der Laute zu Sprechsilben und zum Wort Sinnerfassung sichern",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39234",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40132",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "optisches, akustisches und sprechmotorisches Erfassen von Wörtern",
+          "remarks": "artikulieren, lautieren Stellung der Laute im Wort, Silbenstruktur",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40132",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "shared_objects": [
+        "Bekannte zweisilbige Wörter mit ie, etwa Biene und Wiese"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können die erarbeitete ie-Schreibung an bekannten zweisilbigen Modellwörtern zeigen und erläutern. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Die Schreibung ie wird im bekannten zweisilbigen Modellwort richtig gezeigt und mit dem langen i-Laut verbunden; keine Verallgemeinerung auf alle langen i-Laute."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: In ausgewählten Wörtern ein lang gesprochenes i und seine Schreibung mit ie entdecken und miteinander vergleichen.",
+            "criterion": "Die Buchstabenfolge ie wird im ausgewählten Wort entdeckt und dem gehörten langen i zugeordnet. Der erste Zugang kann durch Zeigen oder Markieren sichtbar werden; keine routinierte Schreibung verlangt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Enger didaktischer Abgleichsentwurf. Unterzielzeile mit Karte bedeutet nur Ausschnittsabdeckung. Bemerkungsbeispiele sind keine selbstständigen Zieloperatoren."
+    },
+    {
+      "gs_id": "page908_186336",
+      "target": "Zweisilber mit Doppelkonsonanten",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzter Anschluss an doppelte Konsonanten als FSP3/4-Beispiel zum Einblicksziel. GS kennt erarbeitete Regularität am Modell; FSP entdeckt die Schreibung. Keine Gleichsetzung der Operatoren. Keine Ableitungsstrategie und keine ck/tz-Abdeckung behauptet.",
+      "cards": [
+        "DE-132"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39232",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Buchstaben- und Lautstruktur von Silben und einfachen Wörtern",
+          "remarks": "Stellung der Laute in Silbe und im Wort Leserichtung Einsatz digitaler Medien und Lernsoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39232",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40132",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "optisches, akustisches und sprechmotorisches Erfassen von Wörtern",
+          "remarks": "artikulieren, lautieren Stellung der Laute im Wort, Silbenstruktur",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40132",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "shared_objects": [
+        "Bekannte zweisilbige Modellwörter mit Doppelkonsonanten, etwa Sonne und Tasse"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können an bekannten zweisilbigen Modellwörtern die erarbeitete Doppelkonsonantenschreibung zeigen und erläutern. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Die Doppelkonsonanten werden in den bekannten Modellwörtern richtig gezeigt; die erarbeitete Beziehung zur Silben- bzw. Vokalstruktur wird am Modell zutreffend erläutert."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: An ausgewählten zweisilbigen Wörtern die doppelte Konsonantenschreibung entdecken und mit dem gesprochenen Wort vergleichen.",
+            "criterion": "Die doppelt geschriebenen Konsonanten werden entdeckt oder markiert; das gehörte Wort wird mit der Schriftvorlage verglichen. Keine allgemeine Regelbegründung oder ungeübte Rechtschreibanwendung verlangt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Enger didaktischer Abgleichsentwurf. Unterzielzeile mit Karte bedeutet nur Ausschnittsabdeckung. Bemerkungsbeispiele sind keine selbstständigen Zieloperatoren."
+    },
+    {
+      "gs_id": "page908_186337",
+      "target": "Konstanthaltung von Wortstämmen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "Ball, weil Bäll-e kommt, weil komm-en Auslauslautverhärtung: Berg, weil Berg-e",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Kein hinreichend belegter direkter Anschluss: Buchstabenaustausch, rezeptives Lesen von Wortbausteinen, Pluralbildung und Einblick in Auslautverhärtung belegen noch nicht die orthografische Konstanthaltung von Wortstämmen. Gemeinsame Wortpaare wären didaktisch möglich, bilden aber keinen ausreichenden Zielnachweis.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39239",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Veränderungen in der Buchstabenfolge",
+          "remarks": "Austausch von Buchstaben: Oma – Omi Reimwortübungen: Fisch – Tisch",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39239",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40182",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Einzahl- und Mehrzahlbildung",
+          "remarks": "Umlautveränderung beachten und verdeutlichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40182",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40226",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die unterschiedliche Sprech- und Schreibweise von Wörtern",
+          "remarks": "Auslautverhärtung, doppelte Konsonanten und Vokale, langes i, Dehnungs-h Konsonantenhäufungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40226",
+          "parent_target_id": "page146_40226"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Enger didaktischer Abgleichsentwurf. Unterzielzeile mit Karte bedeutet nur Ausschnittsabdeckung. Bemerkungsbeispiele sind keine selbstständigen Zieloperatoren."
+    },
+    {
+      "gs_id": "page908_186338",
+      "target": "Formen der Wortbildung",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "zusammengesetzte Nomen vorangestellte Wortbausteine",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Kein hinreichend belegter direkter Anschluss: Wortaufbau/-abbau und Buchstabenaustausch sind phonografische Handlungen; Wortbausteine werden im FSP rezeptiv gelesen. Zusammensetzungen in der Bemerkung zur Silbentrennung belegen keine produktive Wortbildung oder ihre rechtschriftlichen Regularitäten.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39235",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortaufbau und Wortabbau",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39235",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39239",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Veränderungen in der Buchstabenfolge",
+          "remarks": "Austausch von Buchstaben: Oma – Omi Reimwortübungen: Fisch – Tisch",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39239",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40218",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Silbentrennung",
+          "remarks": "Trennungsregeln: Zeilenende, Zusammensetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40218",
+          "parent_target_id": "page146_40218"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Enger didaktischer Abgleichsentwurf. Unterzielzeile mit Karte bedeutet nur Ausschnittsabdeckung. Bemerkungsbeispiele sind keine selbstständigen Zieloperatoren."
+    }
+  ],
+  "source_verification": {
+    "date": "2026-10-31",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "method": "Amtliche Tabellen online und gespeicherte Inventuren; FSP1/2 und 3/4 geprüft."
+  },
+  "counts": {
+    "newly_reviewed": 5,
+    "reviewed_total": 30,
+    "cards": 131,
+    "uncovered": 225,
+    "uncovered_pending_individual_review": 211,
+    "documented_no_direct_connection": 14
+  },
+  "next_id": "page908_186340",
+  "next_target": "Satzebene",
+  "app_version": "1.261",
+  "validation": "131 Karten; alte 129 Karten identisch; neue Karten mit GS1/2-FSP3/4-Markierung; Quellen, Operatoren, Bänder und Syntax geprüft; Sachunterricht bytegleich. Kein PDF-Test."
+}

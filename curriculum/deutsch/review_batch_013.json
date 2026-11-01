@@ -1,0 +1,398 @@
+{
+  "batch": "DE-UZ-013",
+  "date": "2026-10-31",
+  "source_commit": "75c606d60af234f91dd68edcfabdceaa49249208",
+  "entries": [
+    {
+      "gs_id": "page908_186427",
+      "target": "Vorbereiten des Lesens",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Strategien zum Leseverstehen",
+      "remarks": "",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Strukturierende Unterzielzeile zur Lesevorbereitung; ihre konkreten Teilhandlungen sind Leseerwartungen und Lesebedingungen. FSP-Einstimmung auf Naturgedichte ist ein methodischer Hinweis, der auch durch die Lehrkraft oder vor dem Zuhören erfolgen kann. Vorbereitung ausdrucksvollen Lesens ist Vortragseinübung, nicht automatisch Strategievorbereitung zum Textverstehen. Kein belegter gemeinsamer Ausschnitt für eine Karte.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39818",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 1,
+          "target": "Kennen jahreszeitlicher Veränderungen",
+          "remarks": "⇒ Wahrnehmungsförderung ➔ ETH, Kl. 1/2, LB 4 ➔ RE/e, Kl. 1/2, LB 3 ➔ RE/k, Kl. 1/2, LB 3 ➔ WE, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39818",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_39841",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 2,
+          "target": "Gedichte zur Natur",
+          "remarks": "auf das Gedicht einstimmen, vorlesen ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39841",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40109",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Lesestrategien",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40109",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40484",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "ausdrucksvolles Lesen",
+          "remarks": "nach Vorbereitung, Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40484",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": {
+        "gs_root": "Kennen",
+        "gs_band": "1/2",
+        "fsp_candidates": [
+          {
+            "id": "page146_39818",
+            "band": "1/2",
+            "parent_goal": "Kennen jahreszeitlicher Veränderungen"
+          },
+          {
+            "id": "page146_39841",
+            "band": "1/2",
+            "parent_goal": "Kennen jahreszeitlicher Veränderungen"
+          },
+          {
+            "id": "page146_40107",
+            "band": "3/4",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_40109",
+            "band": "3/4",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_40480",
+            "band": "3/4",
+            "parent_goal": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken"
+          },
+          {
+            "id": "page146_40484",
+            "band": "3/4",
+            "parent_goal": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken"
+          }
+        ]
+      },
+      "uncertainty": "Begründeter vorläufiger Nichtanschluss: didaktische Verknüpfung möglich, aber kein hinreichend präziser direkter Quellenbeleg. Keine Aussage, dass die Lernhandlung im FSP-Unterricht nicht vorkommen darf."
+    },
+    {
+      "gs_id": "page908_186428",
+      "target": "Aufbauen von Leseerwartungen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Strategien zum Leseverstehen",
+      "remarks": "Vermutungen anstellen Illustrationen betrachten Vorwissen aktivieren",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Bild-Text-Zuordnung dient im FSP der Sinnerfassung; sie fordert nicht ausdrücklich Vermutungen vor dem Lesen oder Vorwissensaktivierung. Einstimmen auf ein Gedicht kann Erwartungen fördern, belegt aber diese Lernhandlung nicht. Der allgemeine Oberbegriff Lesestrategien ersetzt keinen konkreten Anker für Leseerwartungen. Kein passendes FSP-Feinziel samt Kriterium ohne zusätzliche Annahme.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39266",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "Bild-Text-Zuordnung vorwiegend mündliches Beantworten von Fragen schriftliche Antworten mit Hilfe der Textvorlage bzw. von Textbausteinen Differenzierung: Lesen in Sinneinheiten anbahnen (Wortgruppen, Sätze)",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39266",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39818",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 1,
+          "target": "Kennen jahreszeitlicher Veränderungen",
+          "remarks": "⇒ Wahrnehmungsförderung ➔ ETH, Kl. 1/2, LB 4 ➔ RE/e, Kl. 1/2, LB 3 ➔ RE/k, Kl. 1/2, LB 3 ➔ WE, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39818",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_39841",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 2,
+          "target": "Gedichte zur Natur",
+          "remarks": "auf das Gedicht einstimmen, vorlesen ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39841",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40109",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Lesestrategien",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40109",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": {
+        "gs_root": "Kennen",
+        "gs_band": "1/2",
+        "fsp_candidates": [
+          {
+            "id": "page146_39247",
+            "band": "1/2",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_39266",
+            "band": "1/2",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_39818",
+            "band": "1/2",
+            "parent_goal": "Kennen jahreszeitlicher Veränderungen"
+          },
+          {
+            "id": "page146_39841",
+            "band": "1/2",
+            "parent_goal": "Kennen jahreszeitlicher Veränderungen"
+          },
+          {
+            "id": "page146_40107",
+            "band": "3/4",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_40109",
+            "band": "3/4",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_40480",
+            "band": "3/4",
+            "parent_goal": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken"
+          }
+        ]
+      },
+      "uncertainty": "Begründeter vorläufiger Nichtanschluss: didaktische Verknüpfung möglich, aber kein hinreichend präziser direkter Quellenbeleg. Keine Aussage, dass die Lernhandlung im FSP-Unterricht nicht vorkommen darf."
+    },
+    {
+      "gs_id": "page908_186429",
+      "target": "Erproben guter Lesebedingungen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Strategien zum Leseverstehen",
+      "remarks": "Lernumgebung Körperhaltung",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "FSP1/2 Sich positionieren zur eigenen Lernumgebung betrifft Ordnung, Sauberkeit und Vollständigkeit. Die Bewertung eines Arbeitsplatzes ist ein möglicher didaktischer Zusammenhang, belegt aber noch nicht das Erproben seiner Wirkung auf das Lesen. Körperhaltung steht im Gesundheitskontext; Textgröße und Textgliederung sind Differenzierungshinweise. Keine automatische Umdeutung in eine von Lernenden erprobte Lesestrategie.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39562",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zur eigenen Lernumgebung",
+          "remarks": "Ordnung, Sauberkeit, Vollständigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39562",
+          "parent_target_id": "page146_39562"
+        },
+        {
+          "id": "page146_39728",
+          "grade": "1/2",
+          "area_id": "page146_39141",
+          "area": "Lernbereich 4: Mach mit, bleib fit 65 Ustd.",
+          "level": 1,
+          "target": "Kennen von Verhaltensweisen zur Gesunderhaltung des Körpers",
+          "remarks": "⇒ Gesundheitsbewusstsein ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39728",
+          "parent_target_id": "page146_39728"
+        },
+        {
+          "id": "page146_39736",
+          "grade": "1/2",
+          "area_id": "page146_39141",
+          "area": "Lernbereich 4: Mach mit, bleib fit 65 Ustd.",
+          "level": 2,
+          "target": "Körperhygiene",
+          "remarks": "Zahnpflege, Körperpflege, Körperhaltung Kinderbücher und -zeitschriften sowie weitere traditionelle und digitale Medienangebote ➔ SPO, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39736",
+          "parent_target_id": "page146_39728"
+        },
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40109",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Lesestrategien",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40109",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": {
+        "gs_root": "Kennen",
+        "gs_band": "1/2",
+        "fsp_candidates": [
+          {
+            "id": "page146_39562",
+            "band": "1/2",
+            "parent_goal": "Sich positionieren zur eigenen Lernumgebung"
+          },
+          {
+            "id": "page146_39728",
+            "band": "1/2",
+            "parent_goal": "Kennen von Verhaltensweisen zur Gesunderhaltung des Körpers"
+          },
+          {
+            "id": "page146_39736",
+            "band": "1/2",
+            "parent_goal": "Kennen von Verhaltensweisen zur Gesunderhaltung des Körpers"
+          },
+          {
+            "id": "page146_39247",
+            "band": "1/2",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_40107",
+            "band": "3/4",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          },
+          {
+            "id": "page146_40109",
+            "band": "3/4",
+            "parent_goal": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte"
+          }
+        ]
+      },
+      "uncertainty": "Begründeter vorläufiger Nichtanschluss: didaktische Verknüpfung möglich, aber kein hinreichend präziser direkter Quellenbeleg. Keine Aussage, dass die Lernhandlung im FSP-Unterricht nicht vorkommen darf."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 3,
+    "reviewed_total": 58,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 4,
+    "cards": 137,
+    "uncovered": 209,
+    "uncovered_pending_individual_review": 183,
+    "documented_no_direct_connection": 26
+  },
+  "next_id": "page908_186430",
+  "next_target": "sinnverstehendes Lesen",
+  "app_version": "1.268",
+  "source_verification": {
+    "method": "Inventuren, gespeicherte Quellen und relevante amtliche Online-Passagen am 31.10.2026 geprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Daten-/Syntaxprüfung bestanden; Deutsch-Karten und gesamte App bytegleich zum Ausgangsstand, somit auch Sachunterricht unverändert. Keine PDF-Prüfung."
+}

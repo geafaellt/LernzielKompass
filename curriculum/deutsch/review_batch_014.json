@@ -1,0 +1,283 @@
+{
+  "batch": "DE-UZ-014",
+  "date": "2026-10-31",
+  "source_commit": "81dec05d6975be1102c375adac7eb1a24217325c",
+  "entries": [
+    {
+      "gs_id": "page908_186430",
+      "target": "sinnverstehendes Lesen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Strategien zum Leseverstehen",
+      "remarks": "überfliegendes Lesen",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Strukturierende Unterzielzeile sinnverstehendes Lesen wird auf das vorhandene Finden und Verstehen expliziter Textinformationen begrenzt. FSP1/2 und 3/4 nennen Sinnerfassung. GS Kennen im erarbeiteten Kontext bleibt vom FSP-Übertragen auf unbekannte kleine Texte getrennt. Überfliegendes Lesen ist nur GS-Bemerkung und nicht durch diese Anker belegt.",
+      "cards": [
+        "DE-059",
+        "DE-060"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39266",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "Bild-Text-Zuordnung vorwiegend mündliches Beantworten von Fragen schriftliche Antworten mit Hilfe der Textvorlage bzw. von Textbausteinen Differenzierung: Lesen in Sinneinheiten anbahnen (Wortgruppen, Sätze)",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39266",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40119",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40119",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40120",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Sinneinheiten erkennen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40120",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40123",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wesentliches erfassen",
+          "remarks": "schriftliches Beantworten von Fragen mit Texthilfe Teilüberschriften finden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40123",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [
+        "Eine zentrale Information in einem kurzen Bild-Text-Angebot",
+        "Ein kurzer Text mit klar erkennbarer Hauptaussage"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können eine Information im Text finden und in eigenen Worten wiedergeben. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+            "criterion": "Im bekannten erarbeiteten Text wird eine inhaltliche Frage zutreffend beantwortet und die passende Textstelle gezeigt oder erläutert. Bloßes Entziffern ohne Sinnbezug genügt nicht."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Einen kleinen unbekannten Text erlesen und eine inhaltliche Frage mit Textbezug beantworten.",
+            "criterion": "In einem kleinen unbekannten Text werden erarbeitete Lesefertigkeiten genutzt, eine passende Information gefunden und mit einer Frage oder einem Bild zutreffend verbunden. Der Text wird selbst erlesen; bloßes Erinnern an einen zuvor vorgelesenen Inhalt genügt nicht."
+          }
+        ],
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können im erarbeiteten kurzen Text eine für die vereinbarte Fragestellung wesentliche Information von einem nebensächlichen Detail unterscheiden und ihre Auswahl mit Textbezug erläutern. Anforderungsniveau: Kennen.",
+            "criterion": "Die zentrale Information beantwortet die vereinbarte Frage; ein dafür nebensächliches Detail wird zutreffend abgegrenzt. Die Auswahl wird am bekannten Text nachvollziehbar erläutert; Wichtigkeit wird nicht als absolute Eigenschaft jeder Aussage behandelt."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Einen unbekannten kleinen Text erlesen, eine Sinneinheit erkennen und eine wesentliche Information mit Texthilfe wiedergeben.",
+            "criterion": "Im unbekannten kleinen Text wird eine für die vereinbarte Frage wesentliche Information ausgewählt und mit einer passenden Textstelle verbunden. Das Vorgehen überträgt erarbeitete Lesefertigkeiten; keine vollständige Inhaltsanalyse oder freie Strategieauswahl verlangt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "gs": "Kennen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Keine Vollabdeckung des Strategieblocks. Relevanz hängt von Text und Fragestellung ab; überfliegendes Lesen bleibt ungeklärt."
+    },
+    {
+      "gs_id": "page908_186432",
+      "target": "Unterscheiden von Wichtigem und Unwichtigem",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Strategien zum Leseverstehen",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "FSP3/4 Wesentliches erfassen trägt die Auswahl einer zentralen Information gegenüber einem für die Fragestellung nebensächlichen Detail. Die Abgrenzung ist eine didaktische Konkretisierung, keine wörtliche Identität. FSP1/2 Sinnerfassung allein belegt keine entsprechende Gewichtung; deshalb nur Band3/4 zugeordnet.",
+      "cards": [
+        "DE-060"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39266",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "Bild-Text-Zuordnung vorwiegend mündliches Beantworten von Fragen schriftliche Antworten mit Hilfe der Textvorlage bzw. von Textbausteinen Differenzierung: Lesen in Sinneinheiten anbahnen (Wortgruppen, Sätze)",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39266",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40119",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40119",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40120",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Sinneinheiten erkennen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40120",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40123",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wesentliches erfassen",
+          "remarks": "schriftliches Beantworten von Fragen mit Texthilfe Teilüberschriften finden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40123",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [
+        "Ein kurzer Text mit klar erkennbarer Hauptaussage"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können im erarbeiteten kurzen Text eine für die vereinbarte Fragestellung wesentliche Information von einem nebensächlichen Detail unterscheiden und ihre Auswahl mit Textbezug erläutern. Anforderungsniveau: Kennen.",
+            "criterion": "Die zentrale Information beantwortet die vereinbarte Frage; ein dafür nebensächliches Detail wird zutreffend abgegrenzt. Die Auswahl wird am bekannten Text nachvollziehbar erläutert; Wichtigkeit wird nicht als absolute Eigenschaft jeder Aussage behandelt."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Einen unbekannten kleinen Text erlesen, eine Sinneinheit erkennen und eine wesentliche Information mit Texthilfe wiedergeben.",
+            "criterion": "Im unbekannten kleinen Text wird eine für die vereinbarte Frage wesentliche Information ausgewählt und mit einer passenden Textstelle verbunden. Das Vorgehen überträgt erarbeitete Lesefertigkeiten; keine vollständige Inhaltsanalyse oder freie Strategieauswahl verlangt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Keine Vollabdeckung des Strategieblocks. Relevanz hängt von Text und Fragestellung ab; überfliegendes Lesen bleibt ungeklärt."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 2,
+    "reviewed_total": 60,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 4,
+    "cards": 137,
+    "uncovered": 207,
+    "uncovered_pending_individual_review": 181,
+    "documented_no_direct_connection": 26
+  },
+  "next_id": "page908_186434",
+  "next_target": "Nachbereiten des Lesens",
+  "app_version": "1.269",
+  "source_verification": {
+    "method": "Inventuren, gespeicherte Quellen und relevante amtliche Online-Passagen am 31.10.2026 geprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Daten-/Syntaxprüfung bestanden. Nur DE-059/060 geändert; IDs erhalten, Sachunterricht bytegleich, keine Aufgaben-/Hilfsmittelvorschläge. Kein neuer Browser- oder PDF-Test."
+}

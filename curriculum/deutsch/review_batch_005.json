@@ -1,0 +1,222 @@
+{
+  "batch": "DE-UZ-005",
+  "date": "2026-10-31",
+  "source_commit": "ec4c37f70f1bed0b969a63ed9c0d7f0f6d914e69",
+  "entries": [
+    {
+      "gs_id": "page908_186332",
+      "target": "Selbstlaute",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "einschließlich Zwielaute und Umlaute",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzter Anschluss an ausdrücklich genannte Vokale A/E/I/O/U sowie Ei/Au im FSP1/2. GS-Bemerkung schließt Umlaute ein; diese sind hier nicht vollständig belegt. FSP3/4 Kennen aller Buchstaben/Buchstabenverbindungen wurde als breiterer Kandidat geprüft, rechtfertigt aber keine automatische Gleichsetzung mit dem gesamten GS-Orthografiewissen. Diese Karte bleibt strikt FSP1/2.",
+      "cards": [
+        "DE-117"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39201",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen grundlegender Funktionsweisen der Schriftsprache",
+          "remarks": "⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39201",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39209",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Laut-Buchstaben-Beziehung",
+          "remarks": "lauttreue Buchstaben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39209",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39211",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Aa, Ee, Ii, Oo, Uu",
+          "remarks": "Zuordnung von Lauten zu Buchstaben und umgekehrt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39211",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39212",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Ei ei, Au au",
+          "remarks": "Artikulationsübungen, normgerechte Lautbildung anstreben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39212",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40095",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen aller Buchstaben und Buchstabenverbindungen",
+          "remarks": "Festigung der bereits erarbeiteten Buchstaben ⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40095",
+          "parent_target_id": "page146_40095"
+        }
+      ],
+      "shared_object": "Einfache Wörter mit bereits eingeführten Buchstaben",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können Laute und Buchstaben in einfachen Wörtern zuordnen und Wörter gliedern beziehungsweise zusammensetzen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+          "criterion": "Bei vorab ausgewählten, bereits erarbeiteten Laut-Buchstaben-Zuordnungen wird zum Laut das passende Schriftzeichen und zum Schriftzeichen der passende Laut gezeigt; eine einfache Lautanalyse oder Lautsynthese gelingt am bekannten Wort. Buchstabennamen allein ersetzen die Lautzuordnung nicht. Auswahl und Hilfen vorab festlegen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Bekannte Laut-Buchstaben-Beziehungen an einfachen Wörtern wiedergeben und Lautanalyse sowie Lautsynthese zeigen.",
+          "criterion": "Bei vorab ausgewählten, bereits erarbeiteten Laut-Buchstaben-Zuordnungen wird zum Laut das passende Schriftzeichen und zum Schriftzeichen der passende Laut gezeigt; eine einfache Lautanalyse oder Lautsynthese gelingt am bekannten Wort. Buchstabennamen allein ersetzen die Lautzuordnung nicht. Auswahl und Hilfen vorab festlegen."
+        }
+      ],
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Kennen"
+      },
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "uncertainty": "Nur ausgewählte bereits eingeführte Laut-Buchstaben-Zuordnungen. Nicht genannte Lautgruppen bleiben außerhalb; keine vollständige Abdeckung behauptet."
+    },
+    {
+      "gs_id": "page908_186333",
+      "target": "Mitlaute",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen rechtschriftlicher Regelmäßigkeiten",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Begrenzter Anschluss an M/N/S/R/L/P/T/F/H und Sch. D/B/G/K/W sind Differenzierung in den FSP-Bemerkungen und keine pauschale Pflichtliste. Keine vollständige Mitlautabdeckung und keine zusätzliche verpflichtende Klassifikationsaufgabe erfinden. FSP3/4 alle Buchstaben ist ein anderer Bandanker und wird nicht in diese Karte eingemischt.",
+      "cards": [
+        "DE-117"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39201",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen grundlegender Funktionsweisen der Schriftsprache",
+          "remarks": "⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39201",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39209",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Laut-Buchstaben-Beziehung",
+          "remarks": "lauttreue Buchstaben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39209",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39214",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Mm, Nn, Ss, Rr, Ll, Pp, Tt, Ff, Hh",
+          "remarks": "Assoziationshilfen nutzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39214",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39216",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Sch sch",
+          "remarks": "Lautgebärden, Symbole und Piktogramme optische und akustische Diskriminierung, Analyse- und Syntheseübungen Differenzierung: Dd, Bb, Gg, Kk, Ww",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39216",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_40095",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen aller Buchstaben und Buchstabenverbindungen",
+          "remarks": "Festigung der bereits erarbeiteten Buchstaben ⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40095",
+          "parent_target_id": "page146_40095"
+        }
+      ],
+      "shared_object": "Einfache Wörter mit bereits eingeführten Buchstaben",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können Laute und Buchstaben in einfachen Wörtern zuordnen und Wörter gliedern beziehungsweise zusammensetzen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+          "criterion": "Bei vorab ausgewählten, bereits erarbeiteten Laut-Buchstaben-Zuordnungen wird zum Laut das passende Schriftzeichen und zum Schriftzeichen der passende Laut gezeigt; eine einfache Lautanalyse oder Lautsynthese gelingt am bekannten Wort. Buchstabennamen allein ersetzen die Lautzuordnung nicht. Auswahl und Hilfen vorab festlegen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Bekannte Laut-Buchstaben-Beziehungen an einfachen Wörtern wiedergeben und Lautanalyse sowie Lautsynthese zeigen.",
+          "criterion": "Bei vorab ausgewählten, bereits erarbeiteten Laut-Buchstaben-Zuordnungen wird zum Laut das passende Schriftzeichen und zum Schriftzeichen der passende Laut gezeigt; eine einfache Lautanalyse oder Lautsynthese gelingt am bekannten Wort. Buchstabennamen allein ersetzen die Lautzuordnung nicht. Auswahl und Hilfen vorab festlegen."
+        }
+      ],
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Kennen"
+      },
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      },
+      "uncertainty": "Nur ausgewählte bereits eingeführte Laut-Buchstaben-Zuordnungen. Nicht genannte Lautgruppen bleiben außerhalb; keine vollständige Abdeckung behauptet."
+    }
+  ],
+  "source_verification": {
+    "date": "2026-10-31",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "method": "Amtliche Zeilen online abgerufen und mit versionierten Inventuren verglichen."
+  },
+  "counts": {
+    "newly_reviewed": 2,
+    "reviewed_total": 25,
+    "cards": 129,
+    "uncovered": 228,
+    "uncovered_pending_individual_review": 216,
+    "documented_no_direct_connection": 12
+  },
+  "next_id": "page908_186334",
+  "next_target": "Wortebene",
+  "app_version": "1.260",
+  "related_change": "DE-118 nutzt denselben Laut-Buchstaben-Anschluss im Bereich Lesen: genaue FSP-Anker, Abdeckungsgrenzen und Kriterien konsistent ergänzt. Nicht als zusätzlich geprüfte GS-Unterzielzeile gezählt.",
+  "validation": "129 stabile IDs; nur DE-117/118 geändert; Quellen/Bänder/Operatoren und Syntax bestanden; Sachunterricht bytegleich; kein PDF-Test."
+}

@@ -1,0 +1,322 @@
+{
+  "batch": "DE-UZ-019",
+  "date": "2026-10-31",
+  "source_commit": "dc8519a46a673ca63a2051f3c36af54ea865c84e",
+  "entries": [
+    {
+      "gs_id": "page908_186465",
+      "target": "Erproben von digitalen Formaten",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in digitale Formate und Umgebungen",
+      "remarks": "Wikis, Videoclips, lernbezogene Computerspiele, Podcasts, Suchmaschinen Chancen und Risiken",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Lernprogramme sind ein ausdrückliches FSP-Unterziel unter Anwenden von Sprachwissen. Damit besteht eine begrenzte Schnittmenge zum Erproben digitaler Formate. Lernbezogene Computerspiele sind GS-Bemerkung, keine Pflicht zu einem bestimmten Produkt. FSP-Nutzung setzt erkennbaren Einsatz von Sprachwissen voraus; Bedienhandlungen allein reichen nicht. Medienrisiken bei individuellen Interessen (39690) bilden einen anderen Kontext und werden nicht stillschweigend hinzugefügt.",
+      "cards": [
+        "DE-143"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39318",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden von Sprachwissen beim Lernen am Computer",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39318",
+          "parent_target_id": "page146_39318"
+        },
+        {
+          "id": "page146_39324",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Nutzen von Lernprogrammen",
+          "remarks": "einfache und klare grafische Gestaltung und Struktur des Programms übersichtlicher Zeitrahmen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39324",
+          "parent_target_id": "page146_39318"
+        },
+        {
+          "id": "page146_39686",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Kennen von Möglichkeiten der Freizeitgestaltung",
+          "remarks": "örtliche Gegebenheiten nutzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39686",
+          "parent_target_id": "page146_39686"
+        },
+        {
+          "id": "page146_39690",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 2,
+          "target": "individuelle Interessen",
+          "remarks": "Möglichkeiten und Risiken digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39690",
+          "parent_target_id": "page146_39686"
+        },
+        {
+          "id": "page146_40153",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen digitaler Medien als Hilfsmittel zum Schreiben",
+          "remarks": "⇒ informatische Bildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40153",
+          "parent_target_id": "page146_40153"
+        }
+      ],
+      "shared_objects": [
+        "Ein digitales Lernprogramm mit sprachbezogenen Inhalten"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können ein digitales Sprachlernformat erproben und erste Erfahrungen mit seiner Nutzung äußern. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Eine grundlegende Nutzungsmöglichkeit des digitalen Sprachlernformats wird erprobt; eine erste dazu passende Erfahrung wird erkennbar. Selbstständige Beherrschung des Programms ist nicht vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Sprachwissen bei einer neuen sprachlichen Anforderung innerhalb eines Lernprogramms anwenden.",
+          "criterion": "Bei einer neuen sprachlichen Anforderung im Programm wird erarbeitetes Sprachwissen fachlich passend eingesetzt. Bloßes Öffnen, Klicken oder eine Punktzahl ohne erkennbaren Sprachbezug genügt nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Ausschließlich benannter gemeinsamer Ausschnitt. Kriterien sind didaktische Konkretisierungen und keine amtlichen Formulierungen; keine vollständige Abdeckung von Unterziel und Bemerkungen. Aufgaben und Hilfsmittel bestimmt die Lehrkraft."
+    },
+    {
+      "gs_id": "page908_186468",
+      "target": "Vortragen von Gedichten",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in Möglichkeiten der Textpräsentation",
+      "remarks": "differenzierte Textangebote, individuelle Auswahl ermöglichen Techniken des Auswendiglernens",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "FSP1/2 nennt Gedichtvortrag ausdrücklich unter Naturgedichten im Ziel Kennen jahreszeitlicher Veränderungen. GS erprobt Präsentation auf Einblick-Niveau. Der gemeinsame Gegenstand muss den Naturbezug erhalten. Gedichte zur zeitlichen Orientierung (39768) sind ein alternativer enger Kontext, aber nicht Grundlage dieser Karte. Keine pauschale Zuordnung beliebiger Gedichte und keine aus der GS-Bemerkung abgeleitete Auswendiglernpflicht.",
+      "cards": [
+        "DE-144"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39818",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 1,
+          "target": "Kennen jahreszeitlicher Veränderungen",
+          "remarks": "⇒ Wahrnehmungsförderung ➔ ETH, Kl. 1/2, LB 4 ➔ RE/e, Kl. 1/2, LB 3 ➔ RE/k, Kl. 1/2, LB 3 ➔ WE, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39818",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_39841",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 2,
+          "target": "Gedichte zur Natur",
+          "remarks": "auf das Gedicht einstimmen, vorlesen ⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39841",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_39843",
+          "grade": "1/2",
+          "area_id": "page146_39146",
+          "area": "Lernbereich 6: Natur entdecken und erleben 95 Ustd.",
+          "level": 3,
+          "target": "Gedichte vortragen",
+          "remarks": "ein Lieblingsgedicht auswählen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39843",
+          "parent_target_id": "page146_39818"
+        },
+        {
+          "id": "page146_39754",
+          "grade": "1/2",
+          "area_id": "page146_39143",
+          "area": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+          "level": 1,
+          "target": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt",
+          "remarks": "Symbolverständnis",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39754",
+          "parent_target_id": "page146_39754"
+        },
+        {
+          "id": "page146_39768",
+          "grade": "1/2",
+          "area_id": "page146_39143",
+          "area": "Lernbereich 5: Die Welt um mich herum 95 Ustd.",
+          "level": 3,
+          "target": "Gedichte vortragen",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39768",
+          "parent_target_id": "page146_39754"
+        }
+      ],
+      "shared_objects": [
+        "Ein Gedicht zu jahreszeitlichen Naturveränderungen"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können den Vortrag eines Naturgedichts als Form der Textpräsentation erproben. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Ein erster Gedichtvortrag wird erprobt, bei dem der ausgewählte Textabschnitt für Zuhörende erkennbar ist. Vollständig auswendiger oder bereits routiniert gestalteter Vortrag wird nicht verlangt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Ein bekanntes Naturgedicht verständlich vortragen und seinen jahreszeitlichen Naturbezug wiedergeben.",
+          "criterion": "Das bekannte Gedicht wird verständlich vorgetragen; eine darin dargestellte Naturveränderung wird zutreffend einer Jahreszeit zugeordnet. Das Kriterium wahrt den übergeordneten Naturkontext."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Ausschließlich benannter gemeinsamer Ausschnitt. Kriterien sind didaktische Konkretisierungen und keine amtlichen Formulierungen; keine vollständige Abdeckung von Unterziel und Bemerkungen. Aufgaben und Hilfsmittel bestimmt die Lehrkraft."
+    },
+    {
+      "gs_id": "page908_186469",
+      "target": "sinngestaltendes Vorlesen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in Möglichkeiten der Textpräsentation",
+      "remarks": "nach Vorbereitung",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "FSP3/4 nennt ausdrucksvolles Lesen als Unterziel zu literarischen Texten; Vorbereitung ist Bemerkung. Das entspricht dem inhaltlichen Ausschnitt sinngestaltenden Vorlesens in GS1/2, bei unterschiedlichem übergeordnetem Niveau. Die eigene Vorleseleistung wird von Vorlesen durch Lesevorbilder unterschieden. Ausdrucksvolles Lesen anbahnen in FSP-LB1 ist nur Bemerkung; hier wird der explizite LB7-Anker verwendet.",
+      "cards": [
+        "DE-145"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40484",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "ausdrucksvolles Lesen",
+          "remarks": "nach Vorbereitung, Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40484",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_39926",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 3,
+          "target": "vorlesen",
+          "remarks": "Gedichte, Geschichten, Tonträger Höraufgaben Vorlesen durch Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39926",
+          "parent_target_id": "page146_39893"
+        }
+      ],
+      "shared_objects": [
+        "Ein kurzer literarischer Text über Wünsche, Träume oder Fantasie"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können nach Vorbereitung erste Möglichkeiten sinngestaltenden Vorlesens erproben. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+          "criterion": "Nach Vorbereitung wird an einer Textstelle eine zum Sinn passende Betonung oder Pause erprobt. Ein erster Gestaltungsversuch genügt dem Einblick; durchgängig sicherer Ausdruck ist nicht vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Einen vorbereiteten literarischen Text ausdrucksvoll und seinem Sinn entsprechend lesen.",
+          "criterion": "Der vorbereitete Text wird mit sinnentsprechender Betonung und Gliederung verständlich gelesen. Die Gestaltung passt zum Inhalt; bloße Lautstärke ohne Sinnbezug genügt nicht."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Ausschließlich benannter gemeinsamer Ausschnitt. Kriterien sind didaktische Konkretisierungen und keine amtlichen Formulierungen; keine vollständige Abdeckung von Unterziel und Bemerkungen. Aufgaben und Hilfsmittel bestimmt die Lehrkraft."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 3,
+    "reviewed_total": 72,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 4,
+    "cards": 143,
+    "uncovered": 199,
+    "uncovered_pending_individual_review": 169,
+    "documented_no_direct_connection": 28,
+    "documented_connection_uncertain": 2,
+    "revisited_rows_this_batch": 0
+  },
+  "next_id": "page908_186472",
+  "next_target": "Erproben verschiedener Präsentationsformen",
+  "app_version": "1.273",
+  "source_verification": {
+    "method": "Inventuren und gespeicherte Quellen mit amtlichen Online-Passagen am 31.10.2026 abgeglichen. Ziele, Unterziele und Bemerkungen getrennt geprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Alle bisherigen 140 Karten unverändert. Keine Aufgaben-/Hilfsmittelvorschläge. Daten-/Syntaxprüfung und Sachunterricht-Vergleich separat ausgeführt. Kein Browser- oder PDF-Test."
+}

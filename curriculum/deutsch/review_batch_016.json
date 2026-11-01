@@ -1,0 +1,258 @@
+{
+  "batch": "DE-UZ-016",
+  "date": "2026-10-31",
+  "source_commit": "2929ce5e2a0a5d8b70d64916e30e7bf44ebcecc3",
+  "entries": [
+    {
+      "gs_id": "page908_186444",
+      "target": "Sach- und Gebrauchstexte",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in Merkmale unterschiedlicher Texte",
+      "remarks": "informierende, instruierende, regulierende Texte",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Nur der Gebrauchstext Einladung wird angeschlossen. FSP3/4 fordert Anwenden schriftlicher Gebrauchsformen; Form und sprachliche Mittel sind explizite Bemerkungen. Damit sind erste Merkmalsbeobachtungen in GS und situationsgerechte Formverwendung im FSP am selben Gegenstand möglich. Allgemeines Lesen von Sachtexten allein belegt keine Textmerkmale. Sachtexte, instruierende und regulierende Texte bleiben außerhalb.",
+      "cards": [
+        "DE-140"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39605",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Kennen der Klassengemeinschaft",
+          "remarks": "➔ ETH, Kl. 1/2, LB 2 ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39605",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_39634",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 3,
+          "target": "Informationen aufnehmen und verarbeiten",
+          "remarks": "Informationen aufnehmen und gestalten: Wandzeitung, Einladung ⇒ Medienbildung ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39634",
+          "parent_target_id": "page146_39605"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40320",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Anwenden mündlicher und schriftlicher Gebrauchsformen zum Umgang miteinander",
+          "remarks": "Situationsbezug beachten sprachliche Mittel, Form ⇒ Kommunikationsfähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40320",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40323",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 2,
+          "target": "Einladungen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40323",
+          "parent_target_id": "page146_40320"
+        },
+        {
+          "id": "page146_40359",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 1,
+          "target": "Kennen von Abläufen und Begriffen zur zeitlichen Orientierung in der Lebenswelt",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40359",
+          "parent_target_id": "page146_40359"
+        },
+        {
+          "id": "page146_40385",
+          "grade": "3/4",
+          "area_id": "page146_40050",
+          "area": "Lernbereich 5: Die Welt um mich herum 120 Ustd.",
+          "level": 3,
+          "target": "ausgewählte Gebrauchsformen verwenden",
+          "remarks": "Gruß, Glückwunsch, Dank, Einladung, Wunschzettel mündlich, schriftlich: handschriftlich Arbeiten oder mit Textverarbeitungssoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40385",
+          "parent_target_id": "page146_40359"
+        }
+      ],
+      "shared_objects": [
+        "Eine schriftliche Einladung zu einer Klassenveranstaltung"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können an einer schriftlichen Einladung erste Merkmale ihrer Funktion und Form entdecken. Anforderungsniveau: Einblick gewinnen – erproben und erste Beobachtungen dazu äußern.",
+            "criterion": "Ein erstes Merkmal der Einladung, etwa Adressierung, Anlassangabe oder Einladungsformulierung, wird erkannt und mit ihrer Funktion verbunden. Keine vollständige Textsortendefinition oder sichere eigene Textproduktion vorausgesetzt."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Eine schriftliche Einladung für einen neuen Anlass situationsgerecht verfassen und dafür passende sprachliche Mittel und Formmerkmale nutzen.",
+            "criterion": "Die Einladung zum neuen Anlass enthält die vereinbarten notwendigen Angaben und verwendet eine zum Empfänger passende Einladungsform. Bloßes Benennen von Merkmalen erfüllt Anwenden nicht; Umfang und konkrete Ausgestaltung bestimmt die Lehrkraft."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Einblick gewinnen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Ausschnitt; Bemerkungen bleiben von Zielen getrennt. Nichtanschluss bedeutet fehlenden genauen direkten Beleg, keine Unmöglichkeit didaktischer Verbindung."
+    },
+    {
+      "gs_id": "page908_186445",
+      "target": "auditive, audiovisuelle und andere digitale Texte in unterschiedlicher medialer Form",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Einblick gewinnen in Merkmale unterschiedlicher Texte",
+      "remarks": "Hörspiele, Lesungen, Hörbücher, Podcasts, Wissenssendungen, Erklärvideos ⇒ Medienbildung",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "FSP nennt Tonträger, Hörbücher, Filme und digitale Medien als Zugänge zu Inhalten. Diese Nutzung belegt keine ausdrücklich untersuchten Merkmale ihrer medialen Textform. Symbolkenntnis digitaler Medien ist ebenfalls kein Beleg für Hörspiel-, Film- oder Podcastmerkmale. Kein hinreichend genauer direkter Anschluss; mögliche didaktische Medienvergleiche werden nicht als Lehrplanforderung erfunden.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39201",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen grundlegender Funktionsweisen der Schriftsprache",
+          "remarks": "⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39201",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39205",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Bilder, Symbole und Zeichen als Informationsträger",
+          "remarks": "Bildfolgen, Zeichenfolgen Symbole digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39205",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39893",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 1,
+          "target": "Anwenden von Sprachwissen beim Erkunden der Umwelt",
+          "remarks": "Exkursionen ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39893",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_39926",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 3,
+          "target": "vorlesen",
+          "remarks": "Gedichte, Geschichten, Tonträger Höraufgaben Vorlesen durch Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39926",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_39954",
+          "grade": "1/2",
+          "area_id": "page146_39156",
+          "area": "Wahlbereich 3: Wir spielen Theater",
+          "level": 1,
+          "target": "Kennen des Inhaltes der Textvorlage",
+          "remarks": "vorlesen, erzählen Hörbücher, Filme Büchereibesuch ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39954",
+          "parent_target_id": "page146_39954"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40531",
+          "grade": "3/4",
+          "area_id": "page146_40063",
+          "area": "Wahlbereich 3: Bei uns entdeckt: Burgen, Schlösser ...",
+          "level": 1,
+          "target": "Kennen und Erleben einer historischen Anlage in der Region",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40531",
+          "parent_target_id": "page146_40531"
+        },
+        {
+          "id": "page146_40534",
+          "grade": "3/4",
+          "area_id": "page146_40063",
+          "area": "Wahlbereich 3: Bei uns entdeckt: Burgen, Schlösser ...",
+          "level": 3,
+          "target": "Informationen zur Geschichte entnehmen",
+          "remarks": "Kinderbücher, Prospekte, Video, Internet historische Besonderheiten Nutzung früher – heute Leben der Menschen früher ⇒ Medienbildung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40534",
+          "parent_target_id": "page146_40531"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Begrenzter Ausschnitt; Bemerkungen bleiben von Zielen getrennt. Nichtanschluss bedeutet fehlenden genauen direkten Beleg, keine Unmöglichkeit didaktischer Verbindung."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 2,
+    "reviewed_total": 65,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 4,
+    "cards": 138,
+    "uncovered": 205,
+    "uncovered_pending_individual_review": 176,
+    "documented_no_direct_connection": 29
+  },
+  "next_id": "page908_186452",
+  "next_target": "Entwickeln von Lesemotivation und Leseinteresse durch",
+  "app_version": "1.271",
+  "source_verification": {
+    "method": "Inventuren, gespeicherte Quellen und relevante amtliche Online-Passagen am 31.10.2026 geprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Daten-/Syntaxprüfung bestanden. Alle bisherigen 137 Karten unverändert; IDs erhalten, Sachunterricht bytegleich, keine Aufgaben-/Hilfsmittelvorschläge. Kein neuer Browser- oder PDF-Test."
+}

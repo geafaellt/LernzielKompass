@@ -1,0 +1,389 @@
+{
+  "batch": "DE-UZ-012",
+  "date": "2026-10-31",
+  "source_commit": "f67eaed81af8ee7bdb673592b98345e40b5bf486",
+  "entries": [
+    {
+      "gs_id": "page908_186421",
+      "target": "still, leise und laut",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Übertragen der basalen Lesefertigkeiten auf das flüssige Lesen",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Nur hörbares Lesen wird an FSP3/4 Lesen in Sinnzusammenhängen mit ausdrucksvolles Lesen anbahnen angeschlossen. Stilles/leises Lesen sind damit nicht vollständig belegt. Vorlesen durch Lesevorbilder ersetzt eigenes Lesen nicht. Literaturbezogenes vorbereitetes Lesen wäre ein anderer Kontext, kein allgemeiner Transferbeleg.",
+      "cards": [
+        "DE-056"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40114",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Lesen in Sinnzusammenhängen",
+          "remarks": "ausdrucksvolles Lesen anbahnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40114",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40484",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "ausdrucksvolles Lesen",
+          "remarks": "nach Vorbereitung, Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40484",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [
+        "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können geübte Lesefertigkeiten auf einen vergleichbaren neuen kurzen Text übertragen und ihn hörbar, zunehmend flüssig und in sinnvollen Einheiten lesen.",
+            "criterion": "Beim hörbaren Lesen des neuen Textes bleiben sinnvolle Wortgruppen erkennbar; der Textinhalt wird zutreffend wiedergegeben. Der Transfer auf den neuen Text wird vom bloßen Wiederholen eines geübten Textes unterschieden."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Erarbeitete Lesefertigkeiten auf einen unbekannten kleinen Text übertragen und Sinneinheiten beim Lesen beachten.",
+            "criterion": "Ein unbekannter kleiner Text wird selbst hörbar erlesen; sinnvolle Wortgruppen und eine zutreffende Inhaltswiedergabe zeigen den Transfer. Ausdruck wird angebahnt; kein routinierter Vortrag und kein bestimmtes Lesetempo vorausgesetzt."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur genannter Ausschnitt. Nichtanschluss bedeutet fehlenden hinreichend genauen direkten Beleg, keine Unmöglichkeit didaktischer Verbindung."
+    },
+    {
+      "gs_id": "page908_186422",
+      "target": "genau",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Übertragen der basalen Lesefertigkeiten auf das flüssige Lesen",
+      "remarks": "",
+      "decision": "begrenzter Anschluss integriert",
+      "reason": "Genauigkeit wird eng als schriftgetreues Erlesen konkretisiert: Laut-Buchstaben-Wissen auf unbekannte Wörter übertragen und Sinn erfassen. Das ist eine begründete didaktische Schnittmenge, kein wörtlich identisches FSP-Unterziel. Keine identischen Fehlerquoten oder Flüssigkeitsanforderungen ableiten.",
+      "cards": [
+        "DE-052"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39253",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Silben lesen",
+          "remarks": "Sprechsilben Differenzierung: zeilenübergreifendes und satzweises Lesen anbahnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39253",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39256",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Wörter lesen",
+          "remarks": "häufig gebrauchte Wörter ganzheitliches Erfassen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39256",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39266",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "Bild-Text-Zuordnung vorwiegend mündliches Beantworten von Fragen schriftliche Antworten mit Hilfe der Textvorlage bzw. von Textbausteinen Differenzierung: Lesen in Sinneinheiten anbahnen (Wortgruppen, Sätze)",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39266",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        }
+      ],
+      "shared_objects": [
+        "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema"
+      ],
+      "fine_goals": [
+        [
+          {
+            "track": "Grundschule",
+            "goal": "Die Lernenden können geübte Lesefertigkeiten auf einen vergleichbaren neuen kurzen Text übertragen und ihn zunehmend flüssig und sinnverstehend lesen.",
+            "criterion": "In einem vergleichbaren neuen kurzen Text werden die vereinbarten Wörter schriftgetreu gelesen; Auslassungen, Ersetzungen und Selbstkorrekturen werden nachvollziehbar erfasst. Wortgruppen werden zunehmend zusammenhängend erlesen und eine Inhaltsfrage zutreffend beantwortet. Keine pauschale Fehlerquote oder Geschwindigkeit als Lehrplanvorgabe."
+          },
+          {
+            "track": "FSP Lernen",
+            "goal": "Die Lernenden können: Bekannte Laut-Buchstaben-Beziehungen auf unbekannte Wörter und einen kleinen Text übertragen und den Sinn wiedergeben.",
+            "criterion": "Bekannte Laut-Buchstaben-Beziehungen werden auf unbekannte Wörter übertragen; die erlesenen Wörter entsprechen der Vorlage und ihr Sinn wird zutreffend erfasst. Beobachtete Abweichungen und Selbstkorrekturen werden getrennt dokumentiert; kein identischer Flüssigkeitsstandard beider Bildungsgänge."
+          }
+        ]
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Übertragen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Nur genannter Ausschnitt. Nichtanschluss bedeutet fehlenden hinreichend genauen direkten Beleg, keine Unmöglichkeit didaktischer Verbindung."
+    },
+    {
+      "gs_id": "page908_186423",
+      "target": "im angemessenen Tempo",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Übertragen der basalen Lesefertigkeiten auf das flüssige Lesen",
+      "remarks": "",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Ganzheitliches Worterfassen, sinnbezogenes und ausdrucksvolles Lesen können ein angemessenes Tempo unterstützen, weisen aber keinen hinreichend bestimmten eigenen Lesetempo-Anschluss aus. Schreibtempo ist fachlich eine andere Handlung. Kein Zahlenwert, Zeitlimit oder FSP-Tempoabschlussstandard erfunden.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39256",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Wörter lesen",
+          "remarks": "häufig gebrauchte Wörter ganzheitliches Erfassen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39256",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40114",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Lesen in Sinnzusammenhängen",
+          "remarks": "ausdrucksvolles Lesen anbahnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40114",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40484",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "ausdrucksvolles Lesen",
+          "remarks": "nach Vorbereitung, Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40484",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Nur genannter Ausschnitt. Nichtanschluss bedeutet fehlenden hinreichend genauen direkten Beleg, keine Unmöglichkeit didaktischer Verbindung."
+    },
+    {
+      "gs_id": "page908_186424",
+      "target": "Nutzen von wiederholenden, begleitenden und wiederholend-begleitenden Lautleseverfahren",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Übertragen der basalen Lesefertigkeiten auf das flüssige Lesen",
+      "remarks": "chorisches Lesen Tandemlesen",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Wiederholende, begleitende und kombinierte Lautleseverfahren sind im GS ausdrücklich Unterziel; chorisches Lesen/Tandemlesen stehen als Beispiele in der Bemerkung. FSP-Lesevorbilder, Vorbereitung und Anbahnung ausdrucksvollen Lesens belegen kein entsprechendes Verfahren. Methodenwahl bleibt bei der Lehrkraft; kein direkter curricularer Verfahrensanschluss festgestellt.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39253",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Silben lesen",
+          "remarks": "Sprechsilben Differenzierung: zeilenübergreifendes und satzweises Lesen anbahnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39253",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40114",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Lesen in Sinnzusammenhängen",
+          "remarks": "ausdrucksvolles Lesen anbahnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40114",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_39926",
+          "grade": "1/2",
+          "area_id": "page146_39150",
+          "area": "Wahlbereich 1: Sprache entdecken",
+          "level": 3,
+          "target": "vorlesen",
+          "remarks": "Gedichte, Geschichten, Tonträger Höraufgaben Vorlesen durch Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39926",
+          "parent_target_id": "page146_39893"
+        },
+        {
+          "id": "page146_40484",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "ausdrucksvolles Lesen",
+          "remarks": "nach Vorbereitung, Lesevorbilder",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40484",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Nur genannter Ausschnitt. Nichtanschluss bedeutet fehlenden hinreichend genauen direkten Beleg, keine Unmöglichkeit didaktischer Verbindung."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 4,
+    "reviewed_total": 55,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 4,
+    "cards": 137,
+    "uncovered": 209,
+    "uncovered_pending_individual_review": 186,
+    "documented_no_direct_connection": 23
+  },
+  "next_id": "page908_186427",
+  "next_target": "Vorbereiten des Lesens",
+  "app_version": "1.268",
+  "source_verification": {
+    "method": "Inventuren, gespeicherte Quellen und relevante amtliche Online-Lesepassagen am 31.10.2026 geprüft.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ]
+  },
+  "validation": "Daten-/Syntaxprüfung bestanden. Nur DE-052/056 geändert; IDs erhalten, Sachunterricht bytegleich; keine Aufgaben-/Hilfsmittelvorschläge. Kein neuer Browser- oder PDF-Test."
+}

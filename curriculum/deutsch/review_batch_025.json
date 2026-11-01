@@ -1,0 +1,899 @@
+{
+  "batch": "DE-UZ-025",
+  "date": "2026-11-01",
+  "source_commit": "2aa49a0a4fbfe590e8b70a13130ff06f2b8c7acb",
+  "entries": [
+    {
+      "gs_id": "page908_186499",
+      "target": "Begleiter des Nomens",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Merkmalen ausgewählter Wortarten",
+      "remarks": "Teil der Nominalgruppe → Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+      "decision": "begrenzter Anschluss präzisiert",
+      "reason": "Artikel als Begleiter und Artikelfähigkeit sind auf FSP-Seite ausdrücklich belegt. Angeschlossen wird die Beziehung zwischen Artikel und Nomen, nicht die gesamte erweiterbare Nominalgruppe. GS Kennen 1/2 zu FSP Kennen 3/4; das FSP1/2-Einblickziel ist eine alternative Nähe, kein zweiter Anker dieser Karte.",
+      "cards": [
+        "DE-121"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39344",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39344",
+          "parent_target_id": "page146_39344"
+        },
+        {
+          "id": "page146_39364",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikel als Begleiter",
+          "remarks": "Zuordnungsübung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39364",
+          "parent_target_id": "page146_39344"
+        },
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40175",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Substantiv",
+          "remarks": "lateinische und/oder deutsche Bezeichnung verwenden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40175",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40179",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikelfähigkeit",
+          "remarks": "bestimmte und unbestimmte Artikel zuordnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40179",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [
+        "Nomen mit bestimmten und unbestimmten Artikeln"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an bekannten Beispielen bestimmte und unbestimmte Artikel unterscheiden und ihre Beziehung zum begleiteten Nomen erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Artikel und zugehöriges Nomen werden zutreffend verbunden; am erarbeiteten Beispiel wird erkennbar, welches Nomen der Artikel begleitet. Keine vollständige Analyse erweiterter Nominalgruppen verlangt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Bekannten Substantiven bestimmte und unbestimmte Artikel zuordnen.",
+          "criterion": "Bekannten Substantiven werden passende bestimmte und unbestimmte Artikel zugeordnet; die Zuordnung wird am erarbeiteten Beispiel richtig wiedergegeben. Keine Anwendung an neuem Stoff vorausgesetzt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186502",
+      "target": "Stellung zwischen Artikel und Nomen",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Merkmalen ausgewählter Wortarten",
+      "remarks": "Ausbau der Nominalgruppe → Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Eigenschaften benennen und Gegensätzliches ausdrücken spezifizieren die Bedeutung von Adjektiven, nicht ihre attributive Stellung zwischen Artikel und Nomen. Artikelzuordnung allein belegt den Ausbau der Nominalgruppe ebenfalls nicht. Der GS-Rechtschreibrahmen konkretisiert gerade diese strukturelle Erweiterung.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40185",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Adjektiv",
+          "remarks": "lateinische und/oder deutsche Bezeichnung verwenden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40185",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40188",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Bezeichnung von Eigenschaften",
+          "remarks": "Eigenschaften finden, Gegensätzliches ausdrücken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40188",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_39364",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikel als Begleiter",
+          "remarks": "Zuordnungsübung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39364",
+          "parent_target_id": "page146_39344"
+        },
+        {
+          "id": "page146_40179",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikelfähigkeit",
+          "remarks": "bestimmte und unbestimmte Artikel zuordnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40179",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186504",
+      "target": "Zusammensetzung von Nomen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten der Wortbildung",
+      "remarks": "Wortbausteine identifizieren",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Wortbausteine beim Erlesen und Trennungsregeln für Zusammensetzungen bieten Nähe. Sie verlangen jedoch nicht ausdrücklich Kenntnis der Zusammensetzung von Nomen als Wortbildungsmöglichkeit. Das Zerlegen zum Trennen oder flüssigen Lesen wird nicht ohne Weiteres mit dem Zusammensetzen und Erklären der Wortbildung gleichgesetzt. Didaktisch möglicher gemeinsamer Wortbestand, aber kein hinreichend genauer Zielanschluss.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40218",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Silbentrennung",
+          "remarks": "Trennungsregeln: Zeilenende, Zusammensetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40218",
+          "parent_target_id": "page146_40218"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186505",
+      "target": "Ableitung mit vorangestellten Wortbausteinen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Möglichkeiten der Wortbildung",
+      "remarks": "Wortstämme und andere Wortbausteine identifizieren",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "FSP nennt Vorsilben, Wortstamm und Nachsilben als häufige Wortteile beim ganzheitlichen Lesen. GS verlangt Kenntnis von Ableitung als Wortbildung. Präfixe im Wort wiederzuerkennen ist nicht bereits die Ableitung und deren Bedeutungsänderung zu kennen. Der Rechtschreibrahmen bestätigt den morphologischen Kontext der GS-Zeile.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40218",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Silbentrennung",
+          "remarks": "Trennungsregeln: Zeilenende, Zusammensetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40218",
+          "parent_target_id": "page146_40218"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186507",
+      "target": "Bilden von Wortfamilien",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen der Wortschatzerweiterung",
+      "remarks": "",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Gemeinsame Wortstämme beim Lesen und richtiges Schreiben bieten einen möglichen Wortbestand, aber kein ausdrückliches Bilden von Wortfamilien. Morphologisch verwandte Wörter zusammenzustellen ist von reinem Lesen eines Stammes und von semantischem Ordnen zu unterscheiden. Allgemeine Wortschatzerweiterung ersetzt diesen konkreten Beleg nicht.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_40107",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Sachtexte, literarische Texte Lesefreude wecken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40107",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40116",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Wortbausteine",
+          "remarks": "ganzheitliches Lesen von häufig gebrauchten Wortteilen: Vorsilben, Wortstamm, Nachsilben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40116",
+          "parent_target_id": "page146_40107"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40148",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "klassenbezogene und individuelle Wörter, Funktionswörter, Einsatz digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40148",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186508",
+      "target": "Zusammenstellen von Wortfeldern",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen von Formen der Wortschatzerweiterung",
+      "remarks": "",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Ober-/Unterbegriffe ordnen Gegenstände hier in sachbezogenen Kontexten; Adjektive und Gegensätze sind ebenfalls belegt. Daraus folgt kein ausdrückliches Zusammenstellen eines lexikalischen Wortfeldes als Form der Wortschatzerweiterung. Thematische Wortsammlungen können didaktisch anschließen; die Lehrplanforderung des Wortfeldbildens ist damit nicht genau genug belegt. Grenzfall zur semantischen Ordnung, vorläufiger Nichtanschluss.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39744",
+          "grade": "1/2",
+          "area_id": "page146_39141",
+          "area": "Lernbereich 4: Mach mit, bleib fit 65 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in gesunde Ernährungsgewohnheiten",
+          "remarks": "⇒ Gesundheitsbewusstsein ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39744",
+          "parent_target_id": "page146_39744"
+        },
+        {
+          "id": "page146_39751",
+          "grade": "1/2",
+          "area_id": "page146_39141",
+          "area": "Lernbereich 4: Mach mit, bleib fit 65 Ustd.",
+          "level": 3,
+          "target": "Ober- und Unterbegriffe bilden",
+          "remarks": "⇒ Förderung kognitiver Fähigkeiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39751",
+          "parent_target_id": "page146_39744"
+        },
+        {
+          "id": "page146_40351",
+          "grade": "3/4",
+          "area_id": "page146_40047",
+          "area": "Lernbereich 4: Mach mit, bleib fit 70 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zu Ernährungsgewohnheiten",
+          "remarks": "⇒ Gesundheitsbewusstsein ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40351",
+          "parent_target_id": "page146_40351"
+        },
+        {
+          "id": "page146_40355",
+          "grade": "3/4",
+          "area_id": "page146_40047",
+          "area": "Lernbereich 4: Mach mit, bleib fit 70 Ustd.",
+          "level": 3,
+          "target": "Ober- und Unterbegriffe bilden",
+          "remarks": "vergleichen, ordnen, zusammenfassen ⇒ Förderung kognitiver Fähigkeiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40355",
+          "parent_target_id": "page146_40351"
+        },
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40188",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Bezeichnung von Eigenschaften",
+          "remarks": "Eigenschaften finden, Gegensätzliches ausdrücken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40188",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186512",
+      "target": "Wortgruppe als zentrale Struktureinheit des Satzes",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen sprachlicher Strukturen in Sätzen",
+      "remarks": "Nominalgruppe, prototypisch bestehend aus Begleiter, Adjektiv, Nomen",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Wortgruppen als Sinneinheiten beim Lesen oder als Schreibmaterial belegen keine Untersuchung als zentrale Satzstruktur. Artikelzuordnung und Eigenschaftsbezeichnung ergeben ebenfalls nicht automatisch eine Analyse der Nominalgruppe aus Begleiter, Adjektiv und Nomen. Der Rechtschreibrahmen verdeutlicht den über diese Einzelmerkmale hinausgehenden GS-Strukturbezug.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39247",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Erlesen unbekannter Wörter und kleiner Texte",
+          "remarks": "Differenzierung: verschiedene Schriftgrößen, Wortstruktur, Länge und Gliederung des Textes",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39247",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39266",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Sinnerfassung",
+          "remarks": "Bild-Text-Zuordnung vorwiegend mündliches Beantworten von Fragen schriftliche Antworten mit Hilfe der Textvorlage bzw. von Textbausteinen Differenzierung: Lesen in Sinneinheiten anbahnen (Wortgruppen, Sätze)",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39266",
+          "parent_target_id": "page146_39247"
+        },
+        {
+          "id": "page146_39318",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden von Sprachwissen beim Lernen am Computer",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39318",
+          "parent_target_id": "page146_39318"
+        },
+        {
+          "id": "page146_39329",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Buchstaben und Zahlen",
+          "remarks": "Einzelbuchstaben, Wörter, Wortgruppen, kleine Sätze",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39329",
+          "parent_target_id": "page146_39318"
+        },
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40179",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikelfähigkeit",
+          "remarks": "bestimmte und unbestimmte Artikel zuordnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40179",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40188",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Bezeichnung von Eigenschaften",
+          "remarks": "Eigenschaften finden, Gegensätzliches ausdrücken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40188",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186513",
+      "target": "Verfahren zum Untersuchen von Sätzen",
+      "classification": "Unterziel",
+      "level": 2,
+      "parent_goal": "Kennen sprachlicher Strukturen in Sätzen",
+      "remarks": "⇒ Methodenkompetenz",
+      "decision": "begrenzter Anschluss präzisiert",
+      "reason": "Nur das Teilverfahren Klangprobe ist über die in FSP1/2 als Bemerkung genannte Intonation zu Satzarten angeschlossen. GS kennt und erläutert das Vorgehen an Bekanntem, FSP gewinnt erste Einsichten in Sprechweisen. Kein allgemeiner Anschluss sämtlicher Satzproben.",
+      "cards": [
+        "DE-124"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39372",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Satzarten",
+          "remarks": "Aussage-, Aufforderungs- und Fragesatz Intonation, Satzzeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39372",
+          "parent_target_id": "page146_39372"
+        },
+        {
+          "id": "page146_40199",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden des Wissens über die Satzarten",
+          "remarks": "mündlich und schriftlich etwas aussagen, fragen, jemanden auffordern",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40199",
+          "parent_target_id": "page146_40199"
+        }
+      ],
+      "shared_objects": [
+        "Eine Frage und eine Aussage mit vertrautem Wortmaterial"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können unterschiedliche Intonation von Fragen und Aussagen erproben und vergleichen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+          "criterion": "An einer bekannten Frage und Aussage wird die Sprechweise variiert und deren Wirkung zutreffend verglichen. Das Vorgehen als Klangprobe wird im erarbeiteten Kontext nachvollziehbar erläutert; bloßes Benennen eines Satzzeichens genügt nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Frage und Aussage an unterschiedlichen Sprechweisen entdecken.",
+          "criterion": "Eine erste zutreffende Beobachtung zur unterschiedlichen Intonation von Frage und Aussage wird erkennbar. Kein routiniertes Untersuchungsverfahren oder vollständiger Satzartenvergleich verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186516",
+      "target": "Erweiterungsprobe",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen sprachlicher Strukturen in Sätzen",
+      "remarks": "Treppensätze",
+      "decision": "kein hinreichend belegter direkter Anschluss",
+      "reason": "Sätze nach Mustern bilden bzw. schreiben verlangt keine Erweiterungsprobe als Untersuchungsverfahren. Auch Eigenschaften sprachlich auszudrücken belegt nicht die systematische Erweiterung von Nominalgruppen. GS-Treppensätze sind eine Bemerkung, die FSP-Satzmuster nicht zu einem entsprechenden Verfahren umdeutet.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39384",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 1,
+          "target": "Kennen persönlicher Angaben",
+          "remarks": "⇒ Sozialkompetenz ➔ ETH, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39384",
+          "parent_target_id": "page146_39384"
+        },
+        {
+          "id": "page146_39491",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 3,
+          "target": "einfache Sätze bilden",
+          "remarks": "Satzmuster einprägen Satzarten und Wortarten beachten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39491",
+          "parent_target_id": "page146_39384"
+        },
+        {
+          "id": "page146_40227",
+          "grade": "3/4",
+          "area_id": "page146_40042",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 50 Ustd.",
+          "level": 1,
+          "target": "Anwenden persönlicher Angaben",
+          "remarks": "⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40227",
+          "parent_target_id": "page146_40227"
+        },
+        {
+          "id": "page146_40237",
+          "grade": "3/4",
+          "area_id": "page146_40042",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 50 Ustd.",
+          "level": 3,
+          "target": "einfach strukturierte Sätze schreiben",
+          "remarks": "Schreiben von Karten und Briefen Satzarten, Satzzeichen, Satzmuster",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40237",
+          "parent_target_id": "page146_40227"
+        },
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40188",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Bezeichnung von Eigenschaften",
+          "remarks": "Eigenschaften finden, Gegensätzliches ausdrücken",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40188",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "gs_band": "1/2",
+          "fsp_bands_examined": [
+            "1/2",
+            "3/4"
+          ],
+          "fsp": "Operatoren der Kandidaten in den vollständigen Zielankern dokumentiert; kein genauer Zielausschnitt bestätigt"
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186498",
+      "target": "bestimmter und unbestimmter Artikel",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen von Merkmalen ausgewählter Wortarten",
+      "remarks": "",
+      "decision": "begrenzter Anschluss präzisiert",
+      "reason": "Bereits zugeordnete Zeile bestätigt: bestimmte und unbestimmte Artikel sind in der FSP-Bemerkung zur Artikelfähigkeit ausdrücklich genannt. Das generische GS-Kriterium wird durch zutreffende Unterscheidung und Artikel-Nomen-Beziehung konkretisiert; beide Seiten bleiben auf Kennen-Niveau.",
+      "cards": [
+        "DE-121"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40166",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen von Wortarten",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40166",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40175",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Substantiv",
+          "remarks": "lateinische und/oder deutsche Bezeichnung verwenden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40175",
+          "parent_target_id": "page146_40166"
+        },
+        {
+          "id": "page146_40179",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Artikelfähigkeit",
+          "remarks": "bestimmte und unbestimmte Artikel zuordnen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40179",
+          "parent_target_id": "page146_40166"
+        }
+      ],
+      "shared_objects": [
+        "Nomen mit bestimmten und unbestimmten Artikeln"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können an bekannten Beispielen bestimmte und unbestimmte Artikel unterscheiden und ihre Beziehung zum begleiteten Nomen erläutern. Anforderungsniveau: Kennen.",
+          "criterion": "Artikel und zugehöriges Nomen werden zutreffend verbunden; am erarbeiteten Beispiel wird erkennbar, welches Nomen der Artikel begleitet. Keine vollständige Analyse erweiterter Nominalgruppen verlangt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Bekannten Substantiven bestimmte und unbestimmte Artikel zuordnen.",
+          "criterion": "Bekannten Substantiven werden passende bestimmte und unbestimmte Artikel zugeordnet; die Zuordnung wird am erarbeiteten Beispiel richtig wiedergegeben. Keine Anwendung an neuem Stoff vorausgesetzt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    },
+    {
+      "gs_id": "page908_186515",
+      "target": "Klangprobe",
+      "classification": "Unterziel",
+      "level": 3,
+      "parent_goal": "Kennen sprachlicher Strukturen in Sätzen",
+      "remarks": "Intonation bei Fragen und Ausrufen",
+      "decision": "begrenzter Anschluss präzisiert",
+      "reason": "Bereits zugeordnete Klangprobe bestätigt, begrenzt auf Frage/Aussage und Intonation. Das bisher generische Kriterium wird durch Variation und Vergleich im bekannten Kontext konkretisiert. Die GS-Bemerkung Ausrufe ist nicht vollständig angeschlossen; FSP benötigt keinen Nachweis eines systematischen Untersuchungsverfahrens.",
+      "cards": [
+        "DE-124"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39372",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Satzarten",
+          "remarks": "Aussage-, Aufforderungs- und Fragesatz Intonation, Satzzeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39372",
+          "parent_target_id": "page146_39372"
+        }
+      ],
+      "shared_objects": [
+        "Eine Frage und eine Aussage mit vertrautem Wortmaterial"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können unterschiedliche Intonation von Fragen und Aussagen erproben und vergleichen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+          "criterion": "An einer bekannten Frage und Aussage wird die Sprechweise variiert und deren Wirkung zutreffend verglichen. Das Vorgehen als Klangprobe wird im erarbeiteten Kontext nachvollziehbar erläutert; bloßes Benennen eines Satzzeichens genügt nicht."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können: Frage und Aussage an unterschiedlichen Sprechweisen entdecken.",
+          "criterion": "Eine erste zutreffende Beobachtung zur unterschiedlichen Intonation von Frage und Aussage wird erkennbar. Kein routiniertes Untersuchungsverfahren oder vollständiger Satzartenvergleich verlangt."
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "gs": "Kennen",
+          "fsp": "Einblick gewinnen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Begrenzter Anschluss bzw. vorläufiger Nichtanschluss; kein Vollabdeckungsanspruch und keine didaktische Unmöglichkeit. Keine Aufgaben-/Hilfsmittelvorschläge."
+    }
+  ],
+  "counts": {
+    "newly_reviewed": 9,
+    "reviewed_total": 90,
+    "assigned_rows_reviewed_this_batch": 2,
+    "assigned_rows_reviewed_total": 7,
+    "cards": 145,
+    "uncovered": 193,
+    "uncovered_pending_individual_review": 151,
+    "documented_no_direct_connection": 40,
+    "documented_connection_uncertain": 2,
+    "revisited_rows_this_batch": 0
+  },
+  "next_id": "page908_186528",
+  "next_target": "Informieren",
+  "app_version": "1.277",
+  "source_verification": {
+    "method": "Inventuren und Quellenkontexte beider Stufenbänder; amtliche Online-Passagen; gespeicherter Rechtschreibrahmen 2025 zu Ableitung, Nominalgruppen und Erweitern gelesen. Letzterer konkretisiert GS, schafft keinen zusätzlichen FSP-Anker.",
+    "urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "local_supplement": "sources/Rechtschreibrahmen_2025.pdf"
+  },
+  "validation": "Nur DE-121/124 geändert; IDs erhalten. Keine Aufgaben-/Hilfsmittelvorschläge. Daten-/Syntaxprüfung separat ausgeführt, Sachunterricht unverändert. Kein Browser- oder PDF-Download-Test."
+}
