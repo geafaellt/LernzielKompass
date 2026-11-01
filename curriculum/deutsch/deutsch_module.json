@@ -1,6 +1,6 @@
 {
   "schema_version": "deutsch-1.0",
-  "version": "DE-2026-11-01.3",
+  "version": "DE-2026-11-01.4",
   "checked_on": "2026-10-30",
   "status": "Abgleichsentwurf zur fachlichen Erprobung",
   "scope": "GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.",
@@ -3126,6 +3126,48 @@
       "version": "2004/2009/2019/2025/2026",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186562",
       "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186566",
+      "title": "Grundschule Deutsch · 3 · Nachbereiten des zielgerichteten Zuhörens",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186566",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186569",
+      "title": "Grundschule Deutsch · 3 · Sichern von Informationen",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186569",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186586",
+      "title": "Grundschule Deutsch · 3 · Anordnen von Texten",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186586",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page146_40146",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · 3/4 · Aufschreiben",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40146",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-page908_186588",
+      "title": "Grundschule Deutsch · 3 · Erproben digitaler Schreibwerkzeuge",
+      "version": "2004/2009/2019/2025/2026",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186588",
+      "checked_on": "2026-11-01"
+    },
+    {
+      "id": "Q-DE-FSP34-SCHRIFT-GLIEDERUNG",
+      "title": "FSP Lernen Deutsch-Heimatkunde/Sachunterricht · Klassenstufen 3/4 · Übergreifende Ziele: schriftliche Arbeiten übersichtlich gliedern",
+      "version": "2005/2010/2019",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146",
+      "checked_on": "2026-11-01"
     }
   ],
   "connections": [
@@ -3985,7 +4027,7 @@
       "subject": "Deutsch",
       "theme": "Literarischen Hörtext verstehen",
       "app_area": "DE-page908_186519",
-      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Sprechen und Zuhören; Übertragen des Wissens über das verstehende Zuhören; Konkretisierung: Weiterentwickeln von Hörverstehen; aufmerksames Zuhören; Erfassen von Gehörtem in Aussage und Absicht; Wiedergeben von Informationen und Ziehen einfacher Schlussfolgerungen",
+      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Sprechen und Zuhören; Übertragen des Wissens über das verstehende Zuhören; Konkretisierung: Weiterentwickeln von Hörverstehen; aufmerksames Zuhören; Erfassen von Gehörtem in Aussage und Absicht; Nachbereiten des zielgerichteten Zuhörens; Wiedergeben von Informationen und Ziehen einfacher Schlussfolgerungen; Sichern von Informationen",
       "gs_operator": "Übertragen",
       "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.; Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken; Zielausschnitt: aktives, zielgerichtetes Zuhören; Inhalt verstehen und wiedergeben",
       "fsp_operator": "Kennen",
@@ -3997,7 +4039,9 @@
         "Q-DE-page908_186561",
         "Q-DE-page908_186562",
         "Q-DE-page908_186563",
+        "Q-DE-page908_186566",
         "Q-DE-page908_186568",
+        "Q-DE-page908_186569",
         "Q-DE-page146_40480",
         "Q-DE-page146_40483",
         "Q-DE-page146_40485"
@@ -4007,7 +4051,9 @@
         "page908_186561",
         "page908_186562",
         "page908_186563",
-        "page908_186568"
+        "page908_186566",
+        "page908_186568",
+        "page908_186569"
       ],
       "fsp_target_ids": [
         "page146_40480",
@@ -4017,19 +4063,19 @@
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Die Lernenden können ein bekanntes Vorgehen des verstehenden Zuhörens auf eine vergleichbare neue, überschaubare Geschichte übertragen, wesentliche Aussagen wiedergeben und eine einfache Schlussfolgerung am Gehörten begründen. Anforderungsniveau: Übertragen.",
-          "criterion": "Bei einer vergleichbaren, noch nicht bearbeiteten Geschichte werden wesentliche Aussagen zutreffend wiedergegeben und eine einfache Schlussfolgerung mit einem hörbaren Inhalt verbunden. Der Transfer des bekannten Zuhörvorgehens wird nachvollziehbar; bloße Wiedergabe einer auswendig bekannten Geschichte genügt nicht."
+          "goal": "Die Lernenden können ein bekanntes Vorgehen des verstehenden Zuhörens auf eine vergleichbare neue, überschaubare Geschichte übertragen, anschließend wesentliche Aussagen wiedergeben, konkrete Informationen sichern und eine einfache Schlussfolgerung am Gehörten begründen. Anforderungsniveau: Übertragen.",
+          "criterion": "Nach dem Hören einer vergleichbaren, noch nicht bearbeiteten Geschichte werden wesentliche Aussagen und konkrete Informationen zutreffend wiedergegeben; eine einfache Schlussfolgerung wird mit einem hörbaren Inhalt verbunden. Der Transfer des bekannten Zuhörvorgehens bleibt nachvollziehbar."
         },
         {
           "track": "FSP Lernen",
           "goal": "Die Lernenden können einer bekannten literarischen Geschichte im Kontext Wünsche, Träume und Fantasie aktiv und zielgerichtet zuhören und ihren wesentlichen Inhalt verständlich wiedergeben. Anforderungsniveau: Kennen.",
-          "criterion": "Nach dem Hören werden wesentliche Ereignisse der bekannten Geschichte in nachvollziehbarem Zusammenhang wiedergegeben; ein Wunsch-, Traum- oder Fantasieelement wird zutreffend erkannt. Zuhören wird am Inhaltsverstehen beurteilt, nicht allein an stiller Körperhaltung."
+          "criterion": "Nach dem Hören werden wesentliche Ereignisse und konkrete, ausdrücklich genannte Informationen der bekannten Geschichte zutreffend wiedergegeben; ein Wunsch-, Traum- oder Fantasieelement wird erkannt. Zuhören wird am Inhaltsverstehen beurteilt, nicht allein an stiller Körperhaltung."
         }
       ],
       "shared_object_suggestion": "Eine kurze vorgelesene Geschichte",
       "operator_relation": "GS: Übertragen; FSP: Kennen. Der FSP-Operator gehört zum genannten übergeordneten Ziel und wird nur innerhalb seines Sach- bzw. Textkontextes verwendet. FSP belegt Zuhören und Inhaltswiedergabe; versteckte Informationen, Absicht und begründete Schlussfolgerungen sind weitergehende GS-Anforderungen.",
-      "review_note": "Begrenzter Anschluss von Hörverstehen, aufmerksamem Zuhören und dem Erfassen von Aussagen über FSP aktives, zielgerichtetes Zuhören und Inhaltswiedergabe. Kontext Wünsche, Träume und Fantasie. Absichten, versteckte Informationen und begründete Schlussfolgerungen sind zusätzliche GS-Anforderungen, keine nachgewiesenen FSP-Ziele dieses Ankers. Vorbereitung des Zuhörens, Aufbau von Hörerwartung und selbstständige Strategiewahl sind nicht dadurch abgedeckt. Keine vollständige Gleichsetzung der Unterziele.",
-      "app_review_message": "Begrenzter Anschluss von Hörverstehen, aufmerksamem Zuhören und dem Erfassen von Aussagen über FSP aktives, zielgerichtetes Zuhören und Inhaltswiedergabe. Kontext Wünsche, Träume und Fantasie. Absichten, versteckte Informationen und begründete Schlussfolgerungen sind zusätzliche GS-Anforderungen, keine nachgewiesenen FSP-Ziele dieses Ankers. Vorbereitung des Zuhörens, Aufbau von Hörerwartung und selbstständige Strategiewahl sind nicht dadurch abgedeckt. Keine vollständige Gleichsetzung der Unterziele. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "review_note": "Begrenzter Anschluss von Hörverstehen, Aufmerksamkeit, Aussagen und Nachbereitung durch Inhaltswiedergabe. Sichern von Informationen ist nur für ausdrücklich gehörte Inhalte angeschlossen. FSP3/4 Kennen bleibt im literarischen Kontext Wünsche, Träume und Fantasie. Absichten, versteckte Informationen, Rätsellösungen und begründete Schlussfolgerungen sind damit nicht als FSP-Ziele belegt. GS3 verlangt den Transfer auf eine vergleichbare neue Geschichte. Vorbereitung, Hörerwartung, eigenes Gestalten der Hörbedingungen, Zusatzinformationen und bewusstes Nachfragen werden nicht als abgedeckt behauptet.",
+      "app_review_message": "Begrenzter Anschluss von Hörverstehen, Aufmerksamkeit, Aussagen und Nachbereitung durch Inhaltswiedergabe. Sichern von Informationen ist nur für ausdrücklich gehörte Inhalte angeschlossen. FSP3/4 Kennen bleibt im literarischen Kontext Wünsche, Träume und Fantasie. Absichten, versteckte Informationen, Rätsellösungen und begründete Schlussfolgerungen sind damit nicht als FSP-Ziele belegt. GS3 verlangt den Transfer auf eine vergleichbare neue Geschichte. Vorbereitung, Hörerwartung, eigenes Gestalten der Hörbedingungen, Zusatzinformationen und bewusstes Nachfragen werden nicht als abgedeckt behauptet. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
       "content_review_required": true,
       "stage_alignment": {
         "relation": "same-band",
@@ -4213,11 +4259,11 @@
     {
       "id": "DE-020",
       "subject": "Deutsch",
-      "theme": "Schulausgangsschrift lesbar nutzen",
+      "theme": "Eine Mitteilung lesbar und übersichtlich schreiben",
       "app_area": "DE-page908_186520",
-      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Schreiben; Übertragen von Schreibfertigkeiten; Konkretisierung: Entwickeln einer individuellen Handschrift",
+      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Schreiben; Übertragen von Schreibfertigkeiten; Konkretisierung: Entwickeln einer individuellen Handschrift; Anordnen von Texten",
       "gs_operator": "Übertragen",
-      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 1: Lesen und Schreiben; Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben; Zielausschnitt: alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 1: Lesen und Schreiben; Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben; Zielausschnitt: alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift; Schreibverfahren; Aufschreiben; übergreifendes Ziel 3/4: schriftliche Arbeiten übersichtlich gliedern",
       "fsp_operator": "Übertragen",
       "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
       "review_status": "quellenbasiert_gepruefter_entwurf",
@@ -4225,34 +4271,41 @@
       "source_ids": [
         "Q-DE-page908_186584",
         "Q-DE-page908_186585",
+        "Q-DE-page908_186586",
         "Q-DE-page146_40126",
         "Q-DE-page146_40127",
-        "Q-DE-RSR-2025"
+        "Q-DE-page146_40135",
+        "Q-DE-page146_40146",
+        "Q-DE-RSR-2025",
+        "Q-DE-FSP34-SCHRIFT-GLIEDERUNG"
       ],
       "gs_target_ids": [
         "page908_186584",
-        "page908_186585"
+        "page908_186585",
+        "page908_186586"
       ],
       "fsp_target_ids": [
         "page146_40126",
-        "page146_40127"
+        "page146_40127",
+        "page146_40135",
+        "page146_40146"
       ],
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Die Lernenden können eine kurze Mitteilung lesbar und zunehmend flüssig schreiben. Anforderungsniveau: Übertragen – auf einen vergleichbaren, noch nicht bearbeiteten Fall übertragen.",
-          "criterion": "Das Gelernte wird bei verändertem Beispiel mit erkennbar gleicher Grundstruktur passend genutzt. Inhaltlicher Bezug: Eine kurze handschriftliche Mitteilung."
+          "goal": "Die Lernenden können erarbeitete Schreibfertigkeiten auf eine vergleichbare neue Mitteilung übertragen, dabei leserlich und zunehmend flüssig schreiben und Überschrift und Mitteilungstext übersichtlich anordnen. Anforderungsniveau: Übertragen.",
+          "criterion": "Die neue Mitteilung bleibt lesbar; Buchstaben- und Wortgrenzen sind erkennbar. Überschrift und Mitteilungstext sind eindeutig voneinander abgesetzt, die bekannte Anordnungsweise passt zur neuen Mitteilung. Keine vollständig automatisierte individuelle Handschrift als nachgewiesen vorausgesetzt."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Die Lernenden können: Bekannte Buchstabenverbindungen der Schulausgangsschrift auf eine neue kurze Mitteilung übertragen und lesbar schreiben.",
-          "criterion": "Buchstabenverbindungen sind erkennbar, Wörter lesbar und Wortgrenzen deutlich. Die konkrete Materialmenge und erlaubte Hilfen legt die Lehrkraft vorab fest."
+          "goal": "Die Lernenden können bekannte Buchstabenverbindungen der Schulausgangsschrift und eine erarbeitete Gliederungsweise auf eine neue kurze Mitteilung mit Überschrift übertragen. Anforderungsniveau: Übertragen.",
+          "criterion": "Die Mitteilung verwendet erkennbare Buchstabenverbindungen der Schulausgangsschrift und bleibt bei angemessenem Schreibtempo lesbar. Überschrift und Mitteilungstext sind übersichtlich getrennt; die erarbeitete Form wird am vergleichbaren neuen Text genutzt."
         }
       ],
-      "shared_object_suggestion": "Eine kurze handschriftliche Mitteilung",
-      "operator_relation": "GS: Übertragen; FSP: Übertragen. Der FSP-Operator gehört zum genannten übergeordneten Ziel und wird nur innerhalb seines Sach- bzw. Textkontextes verwendet. FSP verlangt Transfer auf Schreiben; GS-Beherrschen verlangt Routine. Individuelle Handschrift und digitale Schreibwerkzeuge sind nicht vollständig durch diesen Ausschnitt belegt.",
-      "review_note": "Gemeinsamer Zielausschnitt: Eine kurze handschriftliche Mitteilung. FSP verlangt Transfer auf Schreiben; GS-Beherrschen verlangt Routine. Individuelle Handschrift und digitale Schreibwerkzeuge sind nicht vollständig durch diesen Ausschnitt belegt.",
-      "app_review_message": "Gemeinsamer Zielausschnitt: Eine kurze handschriftliche Mitteilung. FSP verlangt Transfer auf Schreiben; GS-Beherrschen verlangt Routine. Individuelle Handschrift und digitale Schreibwerkzeuge sind nicht vollständig durch diesen Ausschnitt belegt. Feinziele, Aufgaben und Erfolgskriterien sind didaktische Vorschläge; keine amtlichen Formulierungen.",
+      "shared_object_suggestion": "Eine kurze handschriftliche Mitteilung mit erkennbar abgesetzter Überschrift",
+      "operator_relation": "GS3 Übertragen von Schreibfertigkeiten ↔ FSP3/4 Übertragen des Schriftsprachwissens auf Schreiben. Übergreifende Gliederungsfähigkeit unterstützt den Zielausschnitt, ersetzt aber nicht den tabellarischen FSP-Operator. Transfer in eine vergleichbare neue Mitteilung; kein Beherrschen-Nachweis.",
+      "review_note": "Begrenzter Anschluss über lesbares Schreiben in Schulausgangsschrift und eine einfache Textanordnung mit abgesetzter Überschrift. FSP-Aufschreiben nennt Überschriften als Bemerkung; das übergreifende Stufenbandziel 3/4 fordert die Entwicklung übersichtlicher Gliederung schriftlicher Arbeiten. Beide Belege tragen den begrenzten Anordnungsausschnitt gemeinsam. Keine vollständige Abdeckung aller GS-Layoutmerkmale, der Entwicklung einer persönlichen Handschrift oder automatisierter Schreibroutine. Für GS3 und FSP3/4 gilt hier Übertragen; Beherrschen ist nicht der Operator dieser Karte. Schriftgespräche und digitale Schreibwerkzeuge bleiben eigene Zielausschnitte.",
+      "app_review_message": "Begrenzter Anschluss über lesbares Schreiben in Schulausgangsschrift und eine einfache Textanordnung mit abgesetzter Überschrift. FSP-Aufschreiben nennt Überschriften als Bemerkung; das übergreifende Stufenbandziel 3/4 fordert die Entwicklung übersichtlicher Gliederung schriftlicher Arbeiten. Beide Belege tragen den begrenzten Anordnungsausschnitt gemeinsam. Keine vollständige Abdeckung aller GS-Layoutmerkmale, der Entwicklung einer persönlichen Handschrift oder automatisierter Schreibroutine. Für GS3 und FSP3/4 gilt hier Übertragen; Beherrschen ist nicht der Operator dieser Karte. Schriftgespräche und digitale Schreibwerkzeuge bleiben eigene Zielausschnitte. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
       "content_review_required": true,
       "stage_alignment": {
         "relation": "same-band",
@@ -11471,6 +11524,62 @@
         ],
         "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
       }
+    },
+    {
+      "id": "DE-151",
+      "subject": "Deutsch",
+      "theme": "Ein digitales Schreibwerkzeug für eine Mitteilung nutzen",
+      "app_area": "DE-page908_186520",
+      "gs_anchor": "GS Deutsch Kl. 3 · Lernbereich: Schreiben; Übertragen von Schreibfertigkeiten; Konkretisierung: Erproben digitaler Schreibwerkzeuge",
+      "gs_operator": "Übertragen",
+      "fsp_anchor": "FSP(L) Kl. 3/4 · DE-HKS Lernbereich 1: Lesen und Schreiben; Kennen digitaler Medien als Hilfsmittel zum Schreiben; Zielausschnitt: Öffnen und Schließen von Programmen; Schreiben in einem Textprogramm",
+      "fsp_operator": "Kennen",
+      "status": "Abgleichsvorschlag · begrenzter Zielausschnitt",
+      "review_status": "quellenbasiert_gepruefter_entwurf",
+      "user_approval": false,
+      "source_ids": [
+        "Q-DE-page908_186584",
+        "Q-DE-page908_186588",
+        "Q-DE-page146_40153",
+        "Q-DE-page146_40159",
+        "Q-DE-page146_40163",
+        "Q-DE-RSR-2025"
+      ],
+      "gs_target_ids": [
+        "page908_186584",
+        "page908_186588"
+      ],
+      "fsp_target_ids": [
+        "page146_40153",
+        "page146_40159",
+        "page146_40163"
+      ],
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Die Lernenden können bekannte grundlegende Bedienhandlungen eines digitalen Schreibwerkzeugs auf eine vergleichbare neue Mitteilung übertragen und das digitale Schreiben daran erproben. Anforderungsniveau des Elternziels: Übertragen; Unterziel: Erproben.",
+          "criterion": "Die bekannten Bedienhandlungen werden bei der neuen Mitteilung sachgerecht eingesetzt; es entsteht ein lesbarer digitaler Text. Eine erste nachvollziehbare Erfahrung mit dem Schreibwerkzeug wird erkennbar. Keine routinierte Beherrschung eines Programms vorausgesetzt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Die Lernenden können erarbeitete Bedienhandlungen zum Öffnen eines Textprogramms und Schreiben einer kurzen Mitteilung wiedergeben und am bekannten Beispiel zeigen. Anforderungsniveau: Kennen.",
+          "criterion": "Am erarbeiteten Beispiel wird das Textprogramm geöffnet und die bekannte Eingabeweise zutreffend gezeigt. Der eingegebene Text ist lesbar; eigenständiger Transfer auf ein neues Programm ist nicht verlangt."
+        }
+      ],
+      "shared_object_suggestion": "Eine kurze lesbare Mitteilung in einem Textprogramm",
+      "operator_relation": "GS3 Übertragen bekannter Schreib- und Bedienfertigkeiten bei erprobender Nutzung ↔ FSP3/4 Kennen erarbeiteter Textprogrammhandlungen. Gleicher Stufenbandbereich, unterschiedliche Operatoren; Erproben wird nicht in Beherrschen umgedeutet.",
+      "review_note": "Begrenzter Anschluss von GS3 Erproben digitaler Schreibwerkzeuge an FSP3/4 Kennen digitaler Medien zum Schreiben, konkret Textprogramm. Der GS-Elternoperator Übertragen und die erprobende Formulierung des Unterziels werden getrennt berücksichtigt. Kein Anschluss sämtlicher digitaler Werkzeuge, Diktierfunktion, automatischer Korrektur oder umfassender Textüberarbeitung. Das Textprogramm ist curricularer Gegenstand dieser Karte; die Auswahl konkreter Aufgaben und erlaubter Hilfsmittel bleibt der Lehrkraft vorbehalten.",
+      "app_review_message": "Begrenzter Anschluss von GS3 Erproben digitaler Schreibwerkzeuge an FSP3/4 Kennen digitaler Medien zum Schreiben, konkret Textprogramm. Der GS-Elternoperator Übertragen und die erprobende Formulierung des Unterziels werden getrennt berücksichtigt. Kein Anschluss sämtlicher digitaler Werkzeuge, Diktierfunktion, automatischer Korrektur oder umfassender Textüberarbeitung. Das Textprogramm ist curricularer Gegenstand dieser Karte; die Auswahl konkreter Aufgaben und erlaubter Hilfsmittel bleibt der Lehrkraft vorbehalten. Feinziele und Kriterien sind didaktische Konkretisierungen. Aufgaben/Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft.",
+      "content_review_required": true,
+      "stage_alignment": {
+        "relation": "same-band",
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+      }
     }
   ],
   "target_audit": [
@@ -12157,9 +12266,7 @@
         "page908_186560",
         "page908_186564",
         "page908_186565",
-        "page908_186566",
-        "page908_186567",
-        "page908_186569"
+        "page908_186567"
       ],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
     },
@@ -12170,13 +12277,12 @@
       "target": "Übertragen von Schreibfertigkeiten",
       "outcome": "begrenzter Anschluss",
       "connection_ids": [
-        "DE-020"
+        "DE-020",
+        "DE-151"
       ],
       "reason": "Nur die ausdrücklich benannten Ausschnitte; keine Gleichsetzung des gesamten Zielblocks.",
       "uncovered_child_ids": [
-        "page908_186586",
-        "page908_186587",
-        "page908_186588"
+        "page908_186587"
       ],
       "residual_status": "Unterziele außerhalb der ausgewählten Ausschnitte bleiben separat prüfbar; kein Vollabdeckungsanspruch."
     },

@@ -218,3 +218,13 @@ Fünf vorläufige Nichtanschlüsse: Bezugnahme auf Vorredner, Einüben des Redeb
 Daten-/Quellenanker-/Operatoren-/Syntaxprüfung und Sachunterricht-Vergleich bestanden. Gleichwertige Prüfungen und Datumssynchronisierung mit Node, da Python nicht verfügbar ist; Python-Generator nicht ausgeführt. Nur DE-012/016 geändert, DE-150 ergänzt; übrige 145 vorhandene Karten unverändert. Kein PDF-Download-Test.
 
 Live-Browserprüfung nach Veröffentlichung bestanden: Version 1.279 mit Datum 01.11.2026; neue Karte DE-150 im Bereich Deutsch Klasse 3 sichtbar und als FSP-Wahlbereich gekennzeichnet.
+
+## Einzelprüfung DE-UZ-028 · App 1.280 · 01.11.2026
+
+Acht offene und zwei bereits zugeordnete Zeilen geprüft: 186564–186569 und 186585–186588 (zehn Einzelbelege in review_batch_028.json). DE-016 ergänzt Nachbereitung und Sicherung ausdrücklich gehörter Informationen; Schlussfolgerungen und versteckte Informationen werden nicht als FSP-Hörziele ausgegeben. DE-020 korrigiert die falsche Beherrschen-Erklärung für GS3 zu Übertragen und präzisiert Handschrift und einfache Textanordnung. Das übergreifende FSP3/4-Ziel zur übersichtlichen Gliederung schriftlicher Arbeiten wird positiv und separat als Quelle berücksichtigt. DE-151 ergänzt digitales Schreiben im Textprogramm, mit Unterscheidung von GS-Elternoperator Übertragen, Unterziel Erproben und FSP-Kennen.
+
+Vier vorläufige Nichtanschlüsse: eigene Zuhörstrategien/Hörbedingungen, Zusatzinformationen, bewusstes Nachfragen bei Nichtverstehen, Schriftreflexion. Eingeräumte Rückfragemöglichkeiten bzw. kommentierendes Schreiben werden nicht mit metakognitiven Zielnachweisen gleichgesetzt.
+
+149 Karten; 180 Unterzielzeilen ohne Karte: 124 ohne Einzelprüfung, 53 dokumentierte Nichtanschlüsse, 3 geprüfte offene Anschlussfragen. Insgesamt 117 zuvor offene und 14 zuvor zugeordnete Zeilen geprüft. Fortsetzung: page908_186591 (Wortebene). Unsicherheiten 186437, 186452 und 186544 bleiben zu bearbeiten. Reproduktion: batch_028_review.py und batch_028_cards.json, eingebunden in build_deutsch.py. Der Generator vermeidet doppelte Rechtschreibrahmen-Verweise bei präzisierten Karten. Aufgaben/Lernhandlungen und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung.
+
+Daten-/Quellen-/Operatoren-/Syntaxprüfung und Sachunterricht-Vergleich bestanden. Gleichwertige Prüfung und Datumssynchronisierung mit Node, da Python nicht verfügbar ist; Python-Generator nicht ausgeführt. Nur DE-016/020 geändert, DE-151 ergänzt; übrige 146 vorhandene Karten unverändert. Kein PDF-Download-Test.
