@@ -216,3 +216,5 @@ Fünf vorläufige Nichtanschlüsse: Bezugnahme auf Vorredner, Einüben des Redeb
 148 Karten; 184 Unterzielzeilen ohne Karte: 132 ohne Einzelprüfung, 49 dokumentierte Nichtanschlüsse, 3 geprüfte offene Anschlussfragen. Insgesamt 109 zuvor offene und 12 zuvor zugeordnete Zeilen geprüft. Fortsetzung: page908_186564 (Nutzen von Zuhörstrategien). Unsicherheiten 186437, 186452 und 186544 bleiben zu bearbeiten. Reproduktion: batch_027_review.py und batch_027_cards.json, eingebunden in build_deutsch.py. Aufgaben/Lernhandlungen und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung.
 
 Daten-/Quellenanker-/Operatoren-/Syntaxprüfung und Sachunterricht-Vergleich bestanden. Gleichwertige Prüfungen und Datumssynchronisierung mit Node, da Python nicht verfügbar ist; Python-Generator nicht ausgeführt. Nur DE-012/016 geändert, DE-150 ergänzt; übrige 145 vorhandene Karten unverändert. Kein PDF-Download-Test.
+
+Live-Browserprüfung nach Veröffentlichung bestanden: Version 1.279 mit Datum 01.11.2026; neue Karte DE-150 im Bereich Deutsch Klasse 3 sichtbar und als FSP-Wahlbereich gekennzeichnet.
