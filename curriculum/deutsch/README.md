@@ -206,3 +206,13 @@ Acht offene und zwei bereits zugeordnete Zeilen geprüft (186528–186542; zehn 
 Daten-/Quellen-/Syntaxprüfung und Sachunterricht-Vergleich bestanden; Prüfinvarianten des Python-Skripts mit Node ausgeführt, da Python auf dem Host fehlt. Python-Generator nicht ausgeführt. Nur DE-004/007 geändert; übrige 143 vorhandene Karten unverändert. Kein PDF-Download-Test.
 
 Live-Browserkontrolle nach Veröffentlichung bestanden: Version 1.278 mit Datum 01.11.2026, DE-148/149 in Deutsch Klasse 3 sichtbar; DE-148 mit Quellen und Operatorenvergleich geöffnet.
+
+## Einzelprüfung DE-UZ-027 · App 1.279 · 01.11.2026
+
+Elf offene und drei bereits zugeordnete Zeilen in drei zusammenhängenden Teilpaketen geprüft: Gespräch, Vortragen/Präsentationsvorbereitung und Hörverstehen (14 Einzelbelege in review_batch_027.json). DE-150 ergänzt einen begrenzten Anschluss für Inhaltsauswahl und Sprechvorlage eines Rollenbeitrags im FSP-Wahlbereich 4; der Strategieanschluss ist auf diese Schritte beschränkt. Das Manuskript ist curricularer Zielgegenstand, keine Hilfsmittelvorgabe. DE-012 präzisiert den Unterschied zwischen GS-Transfer und FSP-Kennen beim literarischen Vortrag. DE-016 ergänzt Hörverstehen und aufmerksames Zuhören, grenzt Aussagen von Absichten ab und präzisiert die Nachweise. DE-007 für 186546 bestätigt und unverändert.
+
+Fünf vorläufige Nichtanschlüsse: Bezugnahme auf Vorredner, Einüben des Redebeitrags, Auswendiglerntechniken, Zuhörvorbereitung und Hörerwartung. Bei 186544 (Verstehen anderer Meinungen) ist eine belegte Nähe zu Gespräch/Verständnis anderer dokumentiert; ein Kartenanschluss bleibt offen, damit Empathie und Verstehen fremder Begründungen nicht gleichgesetzt werden.
+
+148 Karten; 184 Unterzielzeilen ohne Karte: 132 ohne Einzelprüfung, 49 dokumentierte Nichtanschlüsse, 3 geprüfte offene Anschlussfragen. Insgesamt 109 zuvor offene und 12 zuvor zugeordnete Zeilen geprüft. Fortsetzung: page908_186564 (Nutzen von Zuhörstrategien). Unsicherheiten 186437, 186452 und 186544 bleiben zu bearbeiten. Reproduktion: batch_027_review.py und batch_027_cards.json, eingebunden in build_deutsch.py. Aufgaben/Lernhandlungen und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung.
+
+Daten-/Quellenanker-/Operatoren-/Syntaxprüfung und Sachunterricht-Vergleich bestanden. Gleichwertige Prüfungen und Datumssynchronisierung mit Node, da Python nicht verfügbar ist; Python-Generator nicht ausgeführt. Nur DE-012/016 geändert, DE-150 ergänzt; übrige 145 vorhandene Karten unverändert. Kein PDF-Download-Test.
