@@ -70,7 +70,7 @@ DE-UZ-045 prüft neun weitere zuvor zugeordnete Zeilen erstmals und die Hörvers
 
 DE-UZ-046 prüft elf weitere zuvor zugeordnete Zeilen erstmals und präzisiert acht vorhandene Karten. Die Hörverstehensfrage bleibt ohne neue Evidenz offen und wird nicht erneut gezählt. App 1.298, Modul `DE-2026-11-02.3`, wurde mit Commit `a1876eda7262d9852ba49d3368cd8bcf00dffbe5` im [Pages-Lauf 41425283078](https://github.com/geafaellt/LernzielKompass/actions/runs/41425283078) erfolgreich veröffentlicht. Liveprüfung aller acht geänderten Karten und Prüfgrenzen sind im [Prüfpaket DE-UZ-046](curriculum/deutsch/review_batch_046.json) dokumentiert.
 
-DE-UZ-047 prüft zehn weitere zuvor zugeordnete Zeilen erstmals und präzisiert elf Karten. App 1.299, Modul `DE-2026-11-02.4`, trennt gemeinsame Inhalte und zusätzliche GS-Anforderungen deutlicher. Fortschritt und Veröffentlichung werden in [DE-UZ-047](curriculum/deutsch/review_batch_047.json) festgehalten.
+DE-UZ-047 prüft zehn weitere zuvor zugeordnete Zeilen erstmals und präzisiert elf Karten. App 1.299, Modul `DE-2026-11-02.4`, trennt gemeinsame Inhalte und zusätzliche GS-Anforderungen deutlicher. Commit `0e6caccbf208e1b71e5687a6ceefba446186be6b` wurde im [Pages-Lauf 41426687552](https://github.com/geafaellt/LernzielKompass/actions/runs/41426687552) erfolgreich veröffentlicht. Alle elf geänderten Karten wurden in App 1.299 live geöffnet. Fortschritt und Prüfgrenzen stehen in [DE-UZ-047](curriculum/deutsch/review_batch_047.json).
 
 Seit dem 01.11.2026 erfolgen Weiterentwicklungen ausschließlich in `geafaellt/LernzielKompass`, Branch `main`. Die [bisherige Sites-Prüfseite](https://lernzielkompass.dcxn2pwhpk.chatgpt.site) bleibt unverändert auf Site-Version 103 und ist nicht die aktuelle Veröffentlichung.
 

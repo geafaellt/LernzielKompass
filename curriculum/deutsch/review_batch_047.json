@@ -1915,7 +1915,29 @@
   "reproduction": "batch_047_review.py/batch_047_cards.json mit elf Kartenpräzisierungen; Refine-Hook nach Batch046 und Quellensynchronisierung. Keine neuen IDs, keine Titeländerung.",
   "validation": "PASS: Zehn zuvor zugeordnete Zeilen erstmals einzeln geprüft, elf betroffene Karten präzisiert. 177 Deutschkarten, 117 Zielblöcke, 312 eindeutige Anzeigetitel. Alle Karten-IDs, GS-Zielzuordnungen und Stufenbandrelationen erhalten. FSP-Zwischenanker 40109 bzw. 39874 in DE-056 bzw. DE-065/066 ergänzt; keine neue globale Quelle. Inhalte, Operatoren, Zwischenkontexte, Bemerkungen, getrennte Feinziele/Kriterien und Refine-Hook geprüft. Keine Aufgaben- oder Hilfsmittelvorschlagsfelder. CSV-Quelldaten und Kartenreferenzen unverändert; zehn Prüftexte fortgeschrieben. 241 ursprünglich offene und 84 zuvor zugeordnete Zeilen erstmals geprüft; 46 bereits zugeordnete Zeilen verbleiben ab 186470. 137 Unterziele ohne Karte = 125 Nichtanschlüsse + 11 übergreifende Teilanschlüsse + 1 unverändert offene Anschlussfrage. Keine wiederholte Zählung von 186303. 22 übergeordnete Zielblöcke ohne Karte separat. Sachunterricht, Inventuren, amtliche Quellen, Titeldatei und ID-Registry unverändert. Korrekte Einbettung der Deutsch-/Titeldaten, drei JavaScript-Blöcke syntaktisch gültig. Gleichwertige Node-Prüfungen gemäß check-deutsch.py und Pages-Aufbereitung gemäß prepare-pages.py bestanden. Python ist auf diesem Host wegen fehlender Xcode-Werkzeuge nicht verfügbar; Python-Generator nicht ausgeführt. Root und dist bytegleich mit App 1.299, Modul DE-2026-11-02.4 und Datum 02.11.2026.",
   "publication": {
-    "status": "pending",
-    "url": "https://geafaellt.github.io/LernzielKompass/"
+    "status": "verified",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "0e6caccbf208e1b71e5687a6ceefba446186be6b",
+    "app_version": "1.299",
+    "module_version": "DE-2026-11-02.4",
+    "displayed_update_date": "02.11.2026",
+    "pages_run_id": 41426687552,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/41426687552",
+    "pages_conclusion": "success",
+    "live_checked_card_ids": [
+      "DE-052",
+      "DE-056",
+      "DE-059",
+      "DE-060",
+      "DE-065",
+      "DE-066",
+      "DE-068",
+      "DE-069",
+      "DE-078",
+      "DE-081",
+      "DE-082"
+    ],
+    "live_check": "Alle elf geänderten Karten nach Neuladen von App 1.299 live geöffnet. Präzisierte Abgrenzungen, Operatoren und Lerngegenstände sichtbar. Keine Planungsfelder befüllt. Feinziele/Kriterien über Daten- und Einbettungsprüfung kontrolliert; kein zusätzlicher Formular- oder PDF-Download-Test.",
+    "repository_integrity": "137 verfügbare Repository-Dateien bytegenau gegen GitHub-Blobs geprüft; .gitignore unverändert aus dem Basisbaum erhalten."
   }
 }
