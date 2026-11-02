@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-047",
+  "last_batch": "DE-UZ-048",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -247,15 +247,15 @@
   "counts": {
     "newly_reviewed": 0,
     "reviewed_total": 241,
-    "assigned_rows_reviewed_this_batch": 10,
-    "assigned_rows_reviewed_total": 84,
+    "assigned_rows_reviewed_this_batch": 13,
+    "assigned_rows_reviewed_total": 97,
     "cards": 177,
     "uncovered": 137,
     "uncovered_pending_individual_review": 0,
     "documented_no_direct_connection": 125,
     "documented_connection_uncertain": 1,
     "revisited_rows_this_batch": 0,
-    "assigned_rows_pending_individual_review": 46,
+    "assigned_rows_pending_individual_review": 33,
     "documented_overarching_connection_without_card": 11,
     "uncertain_connections_resolved_this_batch": 0,
     "source_rechecks_pending": 0,
@@ -347,7 +347,20 @@
     "page908_186449",
     "page908_186455",
     "page908_186456",
-    "page908_186464"
+    "page908_186464",
+    "page908_186470",
+    "page908_186478",
+    "page908_186489",
+    "page908_186490",
+    "page908_186491",
+    "page908_186493",
+    "page908_186494",
+    "page908_186495",
+    "page908_186497",
+    "page908_186500",
+    "page908_186501",
+    "page908_186510",
+    "page908_186511"
   ],
   "unresolved_connection_ids": [
     "page908_186303"
@@ -414,7 +427,7 @@
     "page908_187030",
     "page908_187036"
   ],
-  "uncertainty_round_note": "186303 vor Arbeitsbeginn berücksichtigt; ohne neue klärende Evidenz unverändert offen und nicht erneut als Prüfung gezählt. Zehn zuvor zugeordnete Zeilen erstmals geprüft. Die verbleibenden 46 zugeordneten Zeilen beginnen bei 186470. Bei neuer Evidenz 186303 priorisieren.",
+  "uncertainty_round_note": "186303 vor Beginn berücksichtigt; ohne neue klärende Evidenz weiterhin offen und nicht erneut als Prüfung gezählt. Dreizehn zuvor zugeordnete Zeilen erstmals geprüft. Die verbleibenden 33 zugeordneten Zeilen beginnen bei 186527 (GS3 Erzählen). Bei neuer Evidenz 186303 priorisieren.",
   "source_recheck_queue": [
     {
       "gs_id": "page908_186555",
@@ -428,5 +441,5 @@
   "reviewed_source_recheck_ids": [
     "page908_186555"
   ],
-  "assigned_rows_next_id": "page908_186470"
+  "assigned_rows_next_id": "page908_186527"
 }

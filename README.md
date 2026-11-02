@@ -2,7 +2,7 @@
 
 Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.299** · **Fachlicher Deutsch-Prüfstand: DE-UZ-047 vom 02.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.300** · **Fachlicher Deutsch-Prüfstand: DE-UZ-048 vom 02.11.2026**
 
 Diese Übersicht wurde am 02.11.2026 mit den Projektnachweisen abgeglichen. Der Stand DE-UZ-041 / App 1.294 ist inzwischen fortgeschrieben. Maßgeblich für spätere Fortschritte sind die unten verlinkten Prüfdateien.
 
@@ -22,9 +22,9 @@ Grundlagen sind die sächsischen Lehrpläne GS Deutsch (Fassung 2026), GS Sachun
 
 ## Deutsch: erreichter Prüfstand und offene Arbeit
 
-Quelle: [review_progress.json](curriculum/deutsch/review_progress.json), [Einzelprüfungen je Zielzeile](curriculum/deutsch/row_audit.csv) und [Prüfpaket DE-UZ-047](curriculum/deutsch/review_batch_047.json).
+Quelle: [review_progress.json](curriculum/deutsch/review_progress.json), [Einzelprüfungen je Zielzeile](curriculum/deutsch/row_audit.csv) und [Prüfpaket DE-UZ-048](curriculum/deutsch/review_batch_048.json).
 
-| Kennzahl | Stand DE-UZ-047 | Bedeutung |
+| Kennzahl | Stand DE-UZ-048 | Bedeutung |
 | --- | ---: | --- |
 | Vorhandene Deutsch-Karten | 177 | Begrenzte Anschlussvorschläge; keine Zahl vollständig geprüfter Kompetenzen. |
 | GS-Zielblöcke mit Erstabgleich | 117 | Die Inventur enthält 488 GS- und 451 FSP-Zeilen. Erstabgleich und Inventur ersetzen keine Einzelprüfung. |
@@ -33,12 +33,12 @@ Quelle: [review_progress.json](curriculum/deutsch/review_progress.json), [Einzel
 | Davon: begründete Nichtanschlüsse | 125 | Für den jeweils geprüften Zielausschnitt ist kein hinreichend belegter direkter Anschluss nachgewiesen; kein pauschaler Ausschluss jeder didaktischen Verbindung. |
 | Davon: übergreifende Teilanschlüsse ohne Karte | 11 | Positive Belege aus übergreifenden Zielen; bewusst keine Operatorenkarte mit einem erfundenen oder entliehenen Tabellenoperator. |
 | Offene Anschlussfragen / vorgemerkte Quellen-Nachprüfungen dieser Phase | 1 / 0 | Die früheren 22 Anschlussfragen sind begrenzt entschieden. Bei der Prüfung zuvor zugeordneter Zeilen kam die Frage zum vorbereitenden Aufbau von Hörverstehen (186303) hinzu. |
-| Bereits zugeordnete Unterzielzeilen einzeln geprüft | 84 | Separat von den 241 zuvor offenen Zeilen gezählt. |
-| Bereits zugeordnete Unterzielzeilen noch einzeln zu prüfen | **46** | Nach Klärung der offenen Anschlussfrage fortzusetzen; diese Zuordnungen sind noch nicht vollständig fachlich gegengeprüft. |
+| Bereits zugeordnete Unterzielzeilen einzeln geprüft | 97 | Separat von den 241 zuvor offenen Zeilen gezählt. |
+| Bereits zugeordnete Unterzielzeilen noch einzeln zu prüfen | **33** | Die offene Anschlussfrage bleibt bei neuer Evidenz vorrangig; diese Zuordnungen sind noch nicht vollständig fachlich gegengeprüft. |
 
 Die Rechnung lautet **137 = 125 + 11 + 1**. Daneben sind 22 übergeordnete Zielblöcke ohne Karte gesondert erfasst; sie werden nicht als Unterziele mitgezählt. Karten, hierarchische Lehrplanzeilen und Zielblöcke sind unterschiedliche Zähleinheiten und erlauben keine einfache Abdeckungsquote.
 
-**Nächster Prüfschritt:** `page908_186303` – „Aufbauen von Hörverstehen“, GS 1/2; Phase `uncertain_connections`. Danach werden die 46 verbleibenden bereits zugeordneten Unterzielzeilen ab `page908_186470` in Inventurreihenfolge geprüft. Eine Rückwärts-Einzelprüfung vom FSP-Lehrplan zur Grundschule ist nicht durchgeführt. Im Fortschrittsprotokoll bleibt `complete: false`.
+**Nächster Prüfschritt:** `page908_186303` – „Aufbauen von Hörverstehen“, GS 1/2; Phase `uncertain_connections`. Ohne neue Evidenz zu dieser Anschlussfrage werden die 33 verbleibenden bereits zugeordneten Unterzielzeilen ab `page908_186527` (GS3 Erzählen) in Inventurreihenfolge geprüft. Eine Rückwärts-Einzelprüfung vom FSP-Lehrplan zur Grundschule ist nicht durchgeführt. Im Fortschrittsprotokoll bleibt `complete: false`.
 
 ## Was die Nachweise aussagen – und was noch offen ist
 
@@ -72,6 +72,8 @@ DE-UZ-046 prüft elf weitere zuvor zugeordnete Zeilen erstmals und präzisiert a
 
 DE-UZ-047 prüft zehn weitere zuvor zugeordnete Zeilen erstmals und präzisiert elf Karten. App 1.299, Modul `DE-2026-11-02.4`, trennt gemeinsame Inhalte und zusätzliche GS-Anforderungen deutlicher. Commit `0e6caccbf208e1b71e5687a6ceefba446186be6b` wurde im [Pages-Lauf 41426687552](https://github.com/geafaellt/LernzielKompass/actions/runs/41426687552) erfolgreich veröffentlicht. Alle elf geänderten Karten wurden in App 1.299 live geöffnet. Fortschritt und Prüfgrenzen stehen in [DE-UZ-047](curriculum/deutsch/review_batch_047.json).
 
+DE-UZ-048 prüft dreizehn weitere zuvor zugeordnete Zeilen erstmals und präzisiert neun Karten. App 1.300, Modul `DE-2026-11-02.5`, unterscheidet insbesondere die Anforderungen an Wortarten, Satzarten und szenisches Gestalten. Fortschritt und Veröffentlichung stehen in [DE-UZ-048](curriculum/deutsch/review_batch_048.json).
+
 Seit dem 01.11.2026 erfolgen Weiterentwicklungen ausschließlich in `geafaellt/LernzielKompass`, Branch `main`. Die [bisherige Sites-Prüfseite](https://lernzielkompass.dcxn2pwhpk.chatgpt.site) bleibt unverändert auf Site-Version 103 und ist nicht die aktuelle Veröffentlichung.
 
 Für Änderungen an der App ist `dist/index.html` die Quelldatei; `index.html` ist der synchronisierte Pages-Einstieg. Vor einer App-Veröffentlichung:
@@ -88,6 +90,6 @@ Anschließend `dist/index.html` und `index.html` gemeinsam committen. `prepare-p
 - [Aktueller Deutsch-Fortschritt und nächster Prüfschritt](curriculum/deutsch/review_progress.json)
 - [Deutsch-Zeilenprüfung mit Kartenbezug und Restumfang](curriculum/deutsch/row_audit.csv)
 - [Deutsch-Prüfverlauf, technische Nachweise und Reproduktion](curriculum/deutsch/README.md) – chronologisch fortgeschrieben; ältere Abschnitte beschreiben historische Stände.
-- [Jüngstes Prüfpaket DE-UZ-047](curriculum/deutsch/review_batch_047.json) und [aktuelle Deutschdaten](curriculum/deutsch/deutsch_module.json)
+- [Jüngstes Prüfpaket DE-UZ-048](curriculum/deutsch/review_batch_048.json) und [aktuelle Deutschdaten](curriculum/deutsch/deutsch_module.json)
 - [Sachunterricht: Daten, Quellen, Prüfverlauf und Freigabe der 21 ZA-Punkte](curriculum/sachunterricht/baseline.json) – für den Abschluss dieses Prüfumfangs sind `next_review` und `user_approval` vom 23.10.2026 maßgeblich; ältere Inventurtexte enthalten noch frühere offene Arbeitsschritte.
 - [Gesicherte Deutsch-Quellenfassungen](curriculum/deutsch/sources/)
