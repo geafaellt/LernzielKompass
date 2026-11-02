@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-046",
+  "last_batch": "DE-UZ-047",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -247,15 +247,15 @@
   "counts": {
     "newly_reviewed": 0,
     "reviewed_total": 241,
-    "assigned_rows_reviewed_this_batch": 11,
-    "assigned_rows_reviewed_total": 74,
+    "assigned_rows_reviewed_this_batch": 10,
+    "assigned_rows_reviewed_total": 84,
     "cards": 177,
     "uncovered": 137,
     "uncovered_pending_individual_review": 0,
     "documented_no_direct_connection": 125,
     "documented_connection_uncertain": 1,
     "revisited_rows_this_batch": 0,
-    "assigned_rows_pending_individual_review": 56,
+    "assigned_rows_pending_individual_review": 46,
     "documented_overarching_connection_without_card": 11,
     "uncertain_connections_resolved_this_batch": 0,
     "source_rechecks_pending": 0,
@@ -337,7 +337,17 @@
     "page908_186408",
     "page908_186409",
     "page908_186412",
-    "page908_186414"
+    "page908_186414",
+    "page908_186420",
+    "page908_186431",
+    "page908_186433",
+    "page908_186436",
+    "page908_186443",
+    "page908_186448",
+    "page908_186449",
+    "page908_186455",
+    "page908_186456",
+    "page908_186464"
   ],
   "unresolved_connection_ids": [
     "page908_186303"
@@ -404,7 +414,7 @@
     "page908_187030",
     "page908_187036"
   ],
-  "uncertainty_round_note": "Offene Frage 186303 vor Arbeitsbeginn berücksichtigt; seit DE-UZ-045 keine neue klärende Evidenz. Daher unverändert offen und nicht erneut als Prüfung gezählt. Elf zuvor zugeordnete Zeilen erstmals geprüft; verbleibende 56 ab 186420. Bei neuer Evidenz 186303 priorisieren.",
+  "uncertainty_round_note": "186303 vor Arbeitsbeginn berücksichtigt; ohne neue klärende Evidenz unverändert offen und nicht erneut als Prüfung gezählt. Zehn zuvor zugeordnete Zeilen erstmals geprüft. Die verbleibenden 46 zugeordneten Zeilen beginnen bei 186470. Bei neuer Evidenz 186303 priorisieren.",
   "source_recheck_queue": [
     {
       "gs_id": "page908_186555",
@@ -418,5 +428,5 @@
   "reviewed_source_recheck_ids": [
     "page908_186555"
   ],
-  "assigned_rows_next_id": "page908_186420"
+  "assigned_rows_next_id": "page908_186470"
 }
