@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-043",
+  "last_batch": "DE-UZ-044",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -243,25 +243,25 @@
     "page908_187035",
     "page908_187036"
   ],
-  "next_id": "page908_186273",
+  "next_id": "page908_186303",
   "counts": {
     "newly_reviewed": 0,
     "reviewed_total": 241,
-    "assigned_rows_reviewed_this_batch": 1,
-    "assigned_rows_reviewed_total": 42,
+    "assigned_rows_reviewed_this_batch": 12,
+    "assigned_rows_reviewed_total": 54,
     "cards": 177,
-    "uncovered": 136,
+    "uncovered": 137,
     "uncovered_pending_individual_review": 0,
     "documented_no_direct_connection": 125,
-    "documented_connection_uncertain": 0,
-    "revisited_rows_this_batch": 9,
-    "assigned_rows_pending_individual_review": 88,
+    "documented_connection_uncertain": 1,
+    "revisited_rows_this_batch": 0,
+    "assigned_rows_pending_individual_review": 76,
     "documented_overarching_connection_without_card": 11,
-    "uncertain_connections_resolved_this_batch": 8,
+    "uncertain_connections_resolved_this_batch": 0,
     "source_rechecks_pending": 0,
-    "source_rechecks_completed_this_batch": 1
+    "source_rechecks_completed_this_batch": 0
   },
-  "phase": "previously_assigned_rows",
+  "phase": "uncertain_connections",
   "complete": false,
   "reviewed_previously_assigned_ids": [
     "page908_186403",
@@ -305,9 +305,23 @@
     "page908_186819",
     "page908_186862",
     "page908_186871",
-    "page908_186875"
+    "page908_186875",
+    "page908_186273",
+    "page908_186282",
+    "page908_186283",
+    "page908_186293",
+    "page908_186297",
+    "page908_186303",
+    "page908_186307",
+    "page908_186312",
+    "page908_186317",
+    "page908_186318",
+    "page908_186320",
+    "page908_186326"
   ],
-  "unresolved_connection_ids": [],
+  "unresolved_connection_ids": [
+    "page908_186303"
+  ],
   "overarching_connection_ids": [
     "page908_186437",
     "page908_186452",
@@ -369,7 +383,7 @@
     "page908_187030",
     "page908_187036"
   ],
-  "uncertainty_round_note": "Die acht verbliebenen Anschlussfragen sind für ausdrücklich begrenzte Ausschnitte entschieden: fünf Karten, ein übergreifender Teilanschluss und zwei Nichtanschlüsse. Die vorgemerkte Quellen-Nachprüfung 186555 ist ebenfalls abgeschlossen. Restumfang und Voraussetzungen bleiben bestehen; keine Vollabdeckung behauptet. Nächste Phase: die verbleibenden 88 bereits zugeordneten Unterzielzeilen in Inventurreihenfolge.",
+  "uncertainty_round_note": "Bei der Einzelprüfung bereits zugeordneter Zeilen wurde 186303 wegen des Zwischenkontexts Vorbereiten des Zuhörens aus DE-015 herausgenommen. Diese neue Anschlussfrage zuerst klären; danach die verbleibenden 76 zugeordneten Zeilen ab 186328. 186303 zählt als erstmals geprüfte zuvor zugeordnete Zeile, nicht als zusätzliche Erstprüfung einer ursprünglich offenen Zeile.",
   "source_recheck_queue": [
     {
       "gs_id": "page908_186555",
@@ -382,5 +396,6 @@
   ],
   "reviewed_source_recheck_ids": [
     "page908_186555"
-  ]
+  ],
+  "assigned_rows_next_id": "page908_186328"
 }
