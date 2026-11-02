@@ -34,7 +34,7 @@ Quelle: [review_progress.json](curriculum/deutsch/review_progress.json), [Einzel
 | Davon: übergreifende Teilanschlüsse ohne Karte | 11 | Positive Belege aus übergreifenden Zielen; bewusst keine Operatorenkarte mit einem erfundenen oder entliehenen Tabellenoperator. |
 | Offene Anschlussfragen / vorgemerkte Quellen-Nachprüfungen dieser Phase | 1 / 0 | Die früheren 22 Anschlussfragen sind begrenzt entschieden. Bei der Prüfung zuvor zugeordneter Zeilen kam die Frage zum vorbereitenden Aufbau von Hörverstehen (186303) hinzu. |
 | Bereits zugeordnete Unterzielzeilen einzeln geprüft | 120 | Separat von den 241 zuvor offenen Zeilen gezählt. |
-| Bereits zugeordnete Unterzielzeilen noch einzeln zu prüfen | **20** | Die offene Anschlussfrage bleibt bei neuer Evidenz vorrangig; diese Zuordnungen sind noch nicht vollständig fachlich gegengeprüft. |
+| Bereits zugeordnete Unterzielzeilen noch einzeln zu prüfen | **10** | Die offene Anschlussfrage bleibt bei neuer Evidenz vorrangig; diese Zuordnungen sind noch nicht vollständig fachlich gegengeprüft. |
 
 Die Rechnung lautet **137 = 125 + 11 + 1**. Daneben sind 22 übergeordnete Zielblöcke ohne Karte gesondert erfasst; sie werden nicht als Unterziele mitgezählt. Karten, hierarchische Lehrplanzeilen und Zielblöcke sind unterschiedliche Zähleinheiten und erlauben keine einfache Abdeckungsquote.
 
@@ -76,7 +76,7 @@ DE-UZ-048 prüft dreizehn weitere zuvor zugeordnete Zeilen erstmals und präzisi
 
 DE-UZ-049 prüft dreizehn weitere zuvor zugeordnete Zeilen erstmals, präzisiert neun Karten und korrigiert die Wort-/Satzebenen-Zuordnung mit der neuen Karte DE-180. App 1.301, Modul `DE-2026-11-02.6`, erhält alle vorhandenen IDs. Die Veröffentlichung über [Pages-Lauf 41447679721](https://github.com/geafaellt/LernzielKompass/actions/runs/41447679721) war erfolgreich; alle zehn betroffenen Karten wurden live geöffnet. Fortschritt und Prüfgrenzen stehen in [DE-UZ-049](curriculum/deutsch/review_batch_049.json).
 
-DE-UZ-050 prüft zehn weitere zuvor zugeordnete GS4-Zeilen erstmals und präzisiert sieben Karten zu Schreibplanung, Appell, selbstbestimmtem Lesen, Textverstehen, Figurenwertung und Ortssage. DE-168 bleibt bestätigt. App1.302, Modul `DE-2026-11-02.7`, erhält alle Karten-IDs und Zuordnungen. Fortschritt und Veröffentlichung stehen in [DE-UZ-050](curriculum/deutsch/review_batch_050.json).
+DE-UZ-050 prüft zehn weitere zuvor zugeordnete GS4-Zeilen erstmals und präzisiert sieben Karten zu Schreibplanung, Appell, selbstbestimmtem Lesen, Textverstehen, Figurenwertung und Ortssage. DE-168 bleibt bestätigt. App1.302, Modul `DE-2026-11-02.7`, erhält alle Karten-IDs und Zuordnungen. Die Veröffentlichung über [Pages-Lauf 41455118962](https://github.com/geafaellt/LernzielKompass/actions/runs/41455118962) war erfolgreich; alle acht geprüften Karten wurden live geöffnet. Fortschritt und Prüfgrenzen stehen in [DE-UZ-050](curriculum/deutsch/review_batch_050.json).
 
 Seit dem 01.11.2026 erfolgen Weiterentwicklungen ausschließlich in `geafaellt/LernzielKompass`, Branch `main`. Die [bisherige Sites-Prüfseite](https://lernzielkompass.dcxn2pwhpk.chatgpt.site) bleibt unverändert auf Site-Version 103 und ist nicht die aktuelle Veröffentlichung.
 
