@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-044",
+  "last_batch": "DE-UZ-045",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -247,15 +247,15 @@
   "counts": {
     "newly_reviewed": 0,
     "reviewed_total": 241,
-    "assigned_rows_reviewed_this_batch": 12,
-    "assigned_rows_reviewed_total": 54,
+    "assigned_rows_reviewed_this_batch": 9,
+    "assigned_rows_reviewed_total": 63,
     "cards": 177,
     "uncovered": 137,
     "uncovered_pending_individual_review": 0,
     "documented_no_direct_connection": 125,
     "documented_connection_uncertain": 1,
-    "revisited_rows_this_batch": 0,
-    "assigned_rows_pending_individual_review": 76,
+    "revisited_rows_this_batch": 1,
+    "assigned_rows_pending_individual_review": 67,
     "documented_overarching_connection_without_card": 11,
     "uncertain_connections_resolved_this_batch": 0,
     "source_rechecks_pending": 0,
@@ -317,7 +317,16 @@
     "page908_186317",
     "page908_186318",
     "page908_186320",
-    "page908_186326"
+    "page908_186326",
+    "page908_186328",
+    "page908_186331",
+    "page908_186339",
+    "page908_186341",
+    "page908_186342",
+    "page908_186343",
+    "page908_186348",
+    "page908_186349",
+    "page908_186358"
   ],
   "unresolved_connection_ids": [
     "page908_186303"
@@ -357,7 +366,8 @@
     "page908_186993",
     "page908_187013",
     "page908_187030",
-    "page908_187036"
+    "page908_187036",
+    "page908_186303"
   ],
   "resolved_uncertain_connection_ids": [
     "page908_186437",
@@ -383,7 +393,7 @@
     "page908_187030",
     "page908_187036"
   ],
-  "uncertainty_round_note": "Bei der Einzelprüfung bereits zugeordneter Zeilen wurde 186303 wegen des Zwischenkontexts Vorbereiten des Zuhörens aus DE-015 herausgenommen. Diese neue Anschlussfrage zuerst klären; danach die verbleibenden 76 zugeordneten Zeilen ab 186328. 186303 zählt als erstmals geprüfte zuvor zugeordnete Zeile, nicht als zusätzliche Erstprüfung einer ursprünglich offenen Zeile.",
+  "uncertainty_round_note": "DE-UZ-045 hat 186303 mit beiden FSP-Bändern, Gesprächs- und Literaturbelegen sowie Stufenbandzielen erneut geprüft. Der Zwischenkontext bleibt mehrdeutig; kein neuer Anschluss und kein Nichtanschluss erzwungen. Die Frage bleibt priorisiert. Neun zugeordnete Zeilen zusätzlich erstmals geprüft; danach verbleiben 67 ab 186363. Wiederprüfung 186303 nicht als neue Erstprüfung gezählt.",
   "source_recheck_queue": [
     {
       "gs_id": "page908_186555",
@@ -397,5 +407,5 @@
   "reviewed_source_recheck_ids": [
     "page908_186555"
   ],
-  "assigned_rows_next_id": "page908_186328"
+  "assigned_rows_next_id": "page908_186363"
 }

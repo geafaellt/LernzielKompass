@@ -1,0 +1,1742 @@
+{
+  "batch": "DE-UZ-045",
+  "date": "2026-11-02",
+  "source_commit": "31ca29a7a35b3d692611512b723ffaa2fedcb517",
+  "scope": "Eine Anschlussfrage vertieft nachgeprüft, danach neun zuvor zugeordnete GS1/2-Unterzielzeilen zu Handschrift, Rechtschreibung und alphabetischem Suchen erstmals einzeln geprüft.",
+  "entries": [
+    {
+      "gs_id": "page908_186303",
+      "target": "Aufbauen von Hörverstehen",
+      "classification": "Unterziel",
+      "level": 3,
+      "gs_row": {
+        "id": "page908_186303",
+        "grade": "1/2",
+        "area_id": "page908_186269",
+        "area": "Lernbereich: Sprechen und Zuhören",
+        "level": 3,
+        "target": "Aufbauen von Hörverstehen",
+        "remarks": "Unterrichts-, Partner- und Gruppengespräche authentische Höranlässe und Hörtexte: Lautsprecheransagen, Radioberichte, Hörspiele ⇒ Medienbildung",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186303",
+        "parent_target_id": "page908_186299"
+      },
+      "parent_goal": {
+        "id": "page908_186299",
+        "grade": "1/2",
+        "area_id": "page908_186269",
+        "area": "Lernbereich: Sprechen und Zuhören",
+        "level": 1,
+        "target": "Kennen von Grundlagen des verstehenden Zuhörens",
+        "remarks": "⇒ Sozialkompetenz",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186299",
+        "parent_target_id": "page908_186299"
+      },
+      "intermediate_context": {
+        "id": "page908_186301",
+        "grade": "1/2",
+        "area_id": "page908_186269",
+        "area": "Lernbereich: Sprechen und Zuhören",
+        "level": 2,
+        "target": "Vorbereiten des Zuhörens",
+        "remarks": "Hörerwartung angeleitet aufbauen Vorwissen aktivieren",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186301",
+        "parent_target_id": "page908_186299"
+      },
+      "review_kind": "Wiederprüfung einer Anschlussfrage",
+      "previous_decision": "DE-UZ-044: Anschluss unklar; vorbereitenden Kontext klären; Kartenreferenz zurückgenommen. Die amtliche HTML-Hierarchie weist 186303 als Ebene 3 unter Vorbereiten des Zuhörens (186301) aus. Der bisherige Kartenbeleg FSP1/2 zum aktiven Zuhören und zur Inhaltswiedergabe sichert einen positiven allgemeinen Hörverstehensbezug, aber nicht eindeutig dessen vorbereitende Funktion. Die GS-Bemerkung nennt zudem unterschiedliche authentische Hörkontexte. Die Karte darf diese Zeile nicht ohne Klärung des Zwischenkontexts als gesichert führen. 186303 wird aus DE-015 entfernt und als Anschlussfrage geführt, nicht als endgültiger Nichtanschluss. Restumfang: Zu klären ist, ob Aufbauen von Hörverstehen hier einen vorbereitenden Kompetenzaufbau meint, der durch die FSP-Hörziele konkretisiert werden kann, oder eine zusätzliche Vorbereitungsfunktion verlangt. Hörprodukt und Vorbereitung bleiben bis dahin getrennt. Weder das gesamte FSP-Hörverstehen noch die übrigen gesicherten DE-015-Ausschnitte werden verneint. Siehe review_batch_044.json.",
+      "previous_cards": "",
+      "decision": "Anschlussfrage nach vertiefter Wiederprüfung offen",
+      "reason": "Die Hierarchie ordnet Aufbauen von Hörverstehen unter Vorbereiten des Zuhörens ein. Die Bemerkung der Unterzeile nennt jedoch Kommunikations- und Hörkontexte, keine eigene Vorbereitungsoperation. Deshalb sind zwei Lesarten möglich: vorbereitender Kompetenzaufbau im weiteren Sinn oder eine konkrete Funktion vor dem eigentlichen Zuhören. FSP1/2 belegt zielgerichtetes Zuhören und Inhaltswiedergabe literarischer Texte sowie Zuhören im Gespräch; FSP3/4 bestätigt dies in weiteren Kontexten. Diese positiven Belege erlauben weder eine pauschale Ablehnung noch eine eindeutige Wiederzuordnung der gesamten GS-Zeile. Allgemeine Kommunikationsentwicklung ersetzt die Klärung des Zwischenkontexts nicht.",
+      "residual_scope": "Die Funktion der Unterordnung muss durch eine belastbare fachliche Erläuterung geklärt werden. Die in Batch044 entfernte Kartenreferenz bleibt entfernt. Keine neue negative Einordnung; DE-015 bleibt für seine gesicherten Ausschnitte unverändert.",
+      "cards": [],
+      "fsp_candidates": [
+        {
+          "id": "page146_39869",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken",
+          "remarks": "➔ MA, Kl. 1/2, LBW 1 ➔ WE, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39869",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39874",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 2,
+          "target": "Märchen, Kinderbuch und andere literarische Texte",
+          "remarks": "Lieblingsbücher der Schüler Fantasiegeschichten, Unsinngeschichten, Geschichten mit offenem Ende, Gedichte Besuch einer Bibliothek",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39874",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39876",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 3,
+          "target": "aktiv und zielgerichtet zuhören",
+          "remarks": "Höraufgaben, Gedächtnistraining",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39876",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39879",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 3,
+          "target": "Inhalt verstehen und wiedergeben",
+          "remarks": "nacherzählen, über Gelesenes sprechen, eine Bildgeschichte gestalten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39879",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39384",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 1,
+          "target": "Kennen persönlicher Angaben",
+          "remarks": "⇒ Sozialkompetenz ➔ ETH, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39384",
+          "parent_target_id": "page146_39384"
+        },
+        {
+          "id": "page146_39399",
+          "grade": "1/2",
+          "area_id": "page146_39135",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes 55 Ustd.",
+          "level": 3,
+          "target": "Auskunft geben und anderen zuhören",
+          "remarks": "zusammenhängendes Sprechen anbahnen zum Sprechen ermutigen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39399",
+          "parent_target_id": "page146_39384"
+        },
+        {
+          "id": "page146_39649",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "⇒ Sozialkompetenz ➔ RE/e, Kl. 1/2, LB 1 ➔ RE/k, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39649",
+          "parent_target_id": "page146_39649"
+        },
+        {
+          "id": "page146_39664",
+          "grade": "1/2",
+          "area_id": "page146_39139",
+          "area": "Lernbereich 3: Einer braucht den anderen 85 Ustd.",
+          "level": 3,
+          "target": "einander zuhören",
+          "remarks": "Symbole",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39664",
+          "parent_target_id": "page146_39649"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40483",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "aktives, zielgerichtetes Zuhören",
+          "remarks": "Höraufgaben, Gedächtnistraining",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40483",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40305",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 1,
+          "target": "Sich positionieren zum Umgang miteinander",
+          "remarks": "Überwindung soziokultureller und interessenbestimmter Barrieren ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40305",
+          "parent_target_id": "page146_40305"
+        },
+        {
+          "id": "page146_40317",
+          "grade": "3/4",
+          "area_id": "page146_40045",
+          "area": "Lernbereich 3: Einer braucht den anderen 100 Ustd.",
+          "level": 3,
+          "target": "Gespräche führen",
+          "remarks": "zuhören können Verständnis für Probleme anderer anbahnen auf Befindlichkeiten reagieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40317",
+          "parent_target_id": "page146_40305"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [],
+      "fine_goals": [],
+      "operators_and_bands": [],
+      "uncertainty": "Offen: Kompetenzaufbau oder spezifische vorbereitende Funktion? Keine gesicherte neue Zuordnung."
+    },
+    {
+      "gs_id": "page908_186328",
+      "target": "zunehmend flüssiges Schreiben",
+      "classification": "Unterziel",
+      "level": 2,
+      "gs_row": {
+        "id": "page908_186328",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "zunehmend flüssiges Schreiben",
+        "remarks": "Schreibtempo regelmäßige, ziel- und zweckgebundene, differenzierte Übungen",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186328",
+        "parent_target_id": "page908_186327"
+      },
+      "parent_goal": {
+        "id": "page908_186327",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Beherrschen der Schulausgangsschrift",
+        "remarks": "→ Schulausgangsschrift siehe Anhang",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186327",
+        "parent_target_id": "page908_186327"
+      },
+      "intermediate_context": null,
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-019",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "GS fordert zunehmende Flüssigkeit innerhalb des Beherrschens der Schulausgangsschrift. FSP3/4 nennt dieselbe Schrift, Buchstabenverbindungen und angemessenes Tempo unter Übertragen. Damit ist der schriftbezogene Anschluss enger belegt als durch bloß ähnliche Lesbarkeit. Das bisherige pauschale Kriterium mehrerer Durchgänge wird durch getrennte Prozess-, Lesbarkeits- und Transfernachweise ersetzt.",
+      "residual_scope": "Stufenübergreifend; keine Vollabdeckung aller Zeichen durch eine einzelne Mitteilung, keine allgemeine individuelle GS-Handschrift. FSP1/2 nennt ebenfalls Tempo und im Stufenbandziel Geläufigkeit; dieser alternative Teilbeleg wird anerkannt, ohne den bestehenden FSP3/4-Anker zu ersetzen.",
+      "cards": [
+        "DE-019"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40127",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "alle Buchstaben und Buchstabenverbindungen der Schulausgangsschrift",
+          "remarks": "Schreibrichtung, angemessenes Schreibtempo sauberes und lesbares Schriftbild unter Verwendung der Schulausgangsschrift ⇒ Wahrnehmungsförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40127",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_39267",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben lauttreuer Wörter",
+          "remarks": "⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39267",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39297",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "angemessenes Schreibtempo",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39297",
+          "parent_target_id": "page146_39267"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Eine kurze handschriftliche Mitteilung"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-019",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Eine kurze handschriftliche Mitteilung in Schulausgangsschrift lesbar und zunehmend flüssig schreiben.",
+              "criterion": "Die erarbeiteten Buchstabenformen und Verbindungen werden sicher realisiert. Der Schreibprozess zeigt zunehmend geläufige Bewegungsfolgen bei erhaltener Lesbarkeit; bloße Geschwindigkeit oder ein sauberes Endprodukt allein belegen keine Flüssigkeit."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Bekannte Buchstabenformen und Verbindungen der Schulausgangsschrift auf eine weitere kurze Mitteilung übertragen.",
+              "criterion": "Die bereits bekannten Formen und Verbindungen bleiben in der weiteren Mitteilung erkennbar, die Wörter lesbar und die Wortgrenzen deutlich. Angemessenes Tempo wird mitbeachtet; der Transfer in den weiteren Zusammenhang muss erkennbar sein."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-019",
+          "gs": "Beherrschen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186331",
+      "target": "Laut-Buchstaben-Zuordnungen",
+      "classification": "Unterziel",
+      "level": 2,
+      "gs_row": {
+        "id": "page908_186331",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "Laut-Buchstaben-Zuordnungen",
+        "remarks": "Laute und Lautkomplexe deutlich artikulieren Lautieren Lautpositionen bestimmen",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186331",
+        "parent_target_id": "page908_186330"
+      },
+      "parent_goal": {
+        "id": "page908_186330",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Kennen rechtschriftlicher Regelmäßigkeiten",
+        "remarks": "→ Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186330",
+        "parent_target_id": "page908_186330"
+      },
+      "intermediate_context": null,
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-117",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "GS-Kennen von Laut-Buchstaben-Zuordnungen entspricht im ausgewählten Bestand dem FSP1/2-Kennen der Laut-Buchstaben-Beziehung. Der FSP-Beleg fordert ausdrücklich beide Zuordnungsrichtungen. Vorhandene Kriterien unterscheiden bereits Lautzuordnung von Buchstabennamen und berücksichtigen Lautanalyse/-synthese. Diese fachlichen Kriterien bleiben erhalten; die irreführende allgemeine Aussage zu Aufgabenvorschlägen wird entfernt.",
+      "residual_scope": "Nur erarbeitete, tatsächlich belegte Zeichen. D/B/G/K/W sind Differenzierungsbemerkungen, kein zwingend gleicher Grundbestand. Keine Vollabdeckung der Umlaute, weiterer Zwielaute, Lautklassifikation oder sämtlicher orthografischer Regelmäßigkeiten.",
+      "cards": [
+        "DE-117"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39201",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen grundlegender Funktionsweisen der Schriftsprache",
+          "remarks": "⇒ Sprachförderung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39201",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39209",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Laut-Buchstaben-Beziehung",
+          "remarks": "lauttreue Buchstaben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39209",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39211",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Aa, Ee, Ii, Oo, Uu",
+          "remarks": "Zuordnung von Lauten zu Buchstaben und umgekehrt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39211",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39212",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Ei ei, Au au",
+          "remarks": "Artikulationsübungen, normgerechte Lautbildung anstreben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39212",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39214",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Mm, Nn, Ss, Rr, Ll, Pp, Tt, Ff, Hh",
+          "remarks": "Assoziationshilfen nutzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39214",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39216",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Sch sch",
+          "remarks": "Lautgebärden, Symbole und Piktogramme optische und akustische Diskriminierung, Analyse- und Syntheseübungen Differenzierung: Dd, Bb, Gg, Kk, Ww",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39216",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39232",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Buchstaben- und Lautstruktur von Silben und einfachen Wörtern",
+          "remarks": "Stellung der Laute in Silbe und im Wort Leserichtung Einsatz digitaler Medien und Lernsoftware",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39232",
+          "parent_target_id": "page146_39201"
+        },
+        {
+          "id": "page146_39234",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "Lautanalyse und -synthese",
+          "remarks": "Lautieren und Zusammenschleifen der Laute zu Sprechsilben und zum Wort Sinnerfassung sichern",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39234",
+          "parent_target_id": "page146_39201"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Einfache Wörter mit bereits eingeführten Buchstaben"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-117",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Die Lernenden können Laute und Buchstaben in einfachen Wörtern zuordnen und Wörter gliedern beziehungsweise zusammensetzen. Anforderungsniveau: Kennen – im erarbeiteten Kontext zeigen und erläutern.",
+              "criterion": "Bei vorab ausgewählten, bereits erarbeiteten Laut-Buchstaben-Zuordnungen wird zum Laut das passende Schriftzeichen und zum Schriftzeichen der passende Laut gezeigt; eine einfache Lautanalyse oder Lautsynthese gelingt am bekannten Wort. Buchstabennamen allein ersetzen die Lautzuordnung nicht. Auswahl und Hilfen vorab festlegen."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Die Lernenden können: Bekannte Laut-Buchstaben-Beziehungen an einfachen Wörtern wiedergeben und Lautanalyse sowie Lautsynthese zeigen.",
+              "criterion": "Bei vorab ausgewählten, bereits erarbeiteten Laut-Buchstaben-Zuordnungen wird zum Laut das passende Schriftzeichen und zum Schriftzeichen der passende Laut gezeigt; eine einfache Lautanalyse oder Lautsynthese gelingt am bekannten Wort. Buchstabennamen allein ersetzen die Lautzuordnung nicht. Auswahl und Hilfen vorab festlegen."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-117",
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186339",
+      "target": "Großschreibung als wortbezogene Markierung",
+      "classification": "Unterziel",
+      "level": 3,
+      "gs_row": {
+        "id": "page908_186339",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 3,
+        "target": "Großschreibung als wortbezogene Markierung",
+        "remarks": "Nomen, Eigennamen",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186339",
+        "parent_target_id": "page908_186330"
+      },
+      "parent_goal": {
+        "id": "page908_186330",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Kennen rechtschriftlicher Regelmäßigkeiten",
+        "remarks": "→ Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186330",
+        "parent_target_id": "page908_186330"
+      },
+      "intermediate_context": {
+        "id": "page908_186334",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "Wortebene",
+        "remarks": "",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186334",
+        "parent_target_id": "page908_186330"
+      },
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-022; DE-023",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "Wortbezogene Großschreibung von Nomen ist durch Substantivgroßschreibung im FSP1/2 unter Kennen und im FSP3/4 unter Anwenden ausdrücklich belegt. Die zwei vorhandenen Karten behalten ihre verschiedenen Bänder und Operatoren. Das GS-Feinziel der stufenübergreifenden Karte wird auf Kenntnis der Nomen- und Satzanfangsgroßschreibung begrenzt; FSP-Kleinschreibung wird nicht als Wortlaut dieser GS-Zeile ausgegeben.",
+      "residual_scope": "Eigennamen als eigener Regelfall sind durch die ausgewählten FSP-Zeilen nicht vollständig spezifiziert. Keine pauschale Nominalisierungs- oder Wortbildungsabdeckung. GS-Wortebene ist der Zwischenkontext.",
+      "cards": [
+        "DE-022",
+        "DE-023"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39379",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39379",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39380",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Satzschlusszeichen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39380",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_40219",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40219",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40221",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40221",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40223",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Kleinschreibung von Verben und Adjektiven",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40223",
+          "parent_target_id": "page146_40219"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Kurze Sätze über Gegenstände im Klassenraum",
+        "Großgeschriebene Substantive und Satzanfänge in kurzen Sätzen aus dem Klassenalltag"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-022",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Bekannte Regeln zur Großschreibung von Nomen und Satzanfängen sowie die Funktion von Punkt, Fragezeichen und Ausrufezeichen an erarbeiteten kurzen Sätzen wiedergeben.",
+              "criterion": "Nomen- und Satzanfangsgroßschreibung sind fachlich richtig erklärt oder erkennbar zugeordnet. Punkt ist als neutraler Satzschluss, Fragezeichen als Kennzeichnung einer Frage und Ausrufezeichen als besondere kommunikative Markierung verstanden. Nicht jeder Aufforderungssatz verlangt zwingend ein Ausrufezeichen."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Regeln zur Großschreibung von Substantiven und Satzanfängen sowie zu Satzschlusszeichen wiedergeben.",
+              "criterion": "Die bekannten Großschreibungsregeln und die behandelten Satzschlusszeichen sind am vertrauten Satzkontext zutreffend wiedererkannt oder erklärt. Eine selbstständige Anwendung auf beliebige neue Sätze wird für Kennen nicht vorausgesetzt."
+            }
+          ]
+        },
+        {
+          "card_id": "DE-023",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Bekannte Regeln zur Großschreibung von Nomen und Satzanfängen an erarbeiteten Sätzen wiedergeben.",
+              "criterion": "Die beiden Großschreibungsfälle werden im bekannten Kontext zutreffend erkannt oder erklärt. Ein selbstständiges Untersuchen neuer sprachlicher Strukturen wird aus Kennen nicht abgeleitet."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Regeln zur Großschreibung von Substantiven und Satzanfängen sowie zur Kleinschreibung von Verben und Adjektiven in weiteren Sätzen anwenden.",
+              "criterion": "In den weiteren Sätzen sind die behandelten Groß- und Kleinschreibungen regelgerecht. Die bekannte Regel wird auf den veränderten Zusammenhang bezogen; bloßes Wiedergeben eines bereits erarbeiteten Satzes reicht für Anwenden nicht."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-022",
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "card_id": "DE-023",
+          "gs": "Kennen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186341",
+      "target": "Großschreibung als satzbezogene Markierung",
+      "classification": "Unterziel",
+      "level": 3,
+      "gs_row": {
+        "id": "page908_186341",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 3,
+        "target": "Großschreibung als satzbezogene Markierung",
+        "remarks": "Überschriften, Satzanfänge erweiterbare Kerne von Nominalgruppen: der (schiefe) Stuhl, die (bunte) Kiste",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186341",
+        "parent_target_id": "page908_186330"
+      },
+      "parent_goal": {
+        "id": "page908_186330",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Kennen rechtschriftlicher Regelmäßigkeiten",
+        "remarks": "→ Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186330",
+        "parent_target_id": "page908_186330"
+      },
+      "intermediate_context": {
+        "id": "page908_186340",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "Satzebene",
+        "remarks": "",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186340",
+        "parent_target_id": "page908_186330"
+      },
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-022; DE-023",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "GS nennt Satzanfänge neben Überschriften und erweiterten Nominalgruppen. FSP1/2 und FSP3/4 nennen ausdrücklich Satzanfangsgroßschreibung; nur dieser Ausschnitt wird bestätigt. Kennen auf GS-Seite, Kennen bzw. Anwenden auf FSP-Seite werden im Feinziel und Nachweis getrennt.",
+      "residual_scope": "Überschriften und die syntaktische Bestimmung erweiterbarer Nominalgruppen sind nicht mit abgedeckt. DE-023 enthält keinen FSP-Satzschlusszeichenanker; eine frühere pauschale Satzschlussformulierung wird dort entfernt.",
+      "cards": [
+        "DE-022",
+        "DE-023"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39379",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39379",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39380",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Satzschlusszeichen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39380",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_40219",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Anwenden orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40219",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40221",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40221",
+          "parent_target_id": "page146_40219"
+        },
+        {
+          "id": "page146_40223",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Kleinschreibung von Verben und Adjektiven",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40223",
+          "parent_target_id": "page146_40219"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Kurze Sätze über Gegenstände im Klassenraum",
+        "Großgeschriebene Substantive und Satzanfänge in kurzen Sätzen aus dem Klassenalltag"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-022",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Bekannte Regeln zur Großschreibung von Nomen und Satzanfängen sowie die Funktion von Punkt, Fragezeichen und Ausrufezeichen an erarbeiteten kurzen Sätzen wiedergeben.",
+              "criterion": "Nomen- und Satzanfangsgroßschreibung sind fachlich richtig erklärt oder erkennbar zugeordnet. Punkt ist als neutraler Satzschluss, Fragezeichen als Kennzeichnung einer Frage und Ausrufezeichen als besondere kommunikative Markierung verstanden. Nicht jeder Aufforderungssatz verlangt zwingend ein Ausrufezeichen."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Regeln zur Großschreibung von Substantiven und Satzanfängen sowie zu Satzschlusszeichen wiedergeben.",
+              "criterion": "Die bekannten Großschreibungsregeln und die behandelten Satzschlusszeichen sind am vertrauten Satzkontext zutreffend wiedererkannt oder erklärt. Eine selbstständige Anwendung auf beliebige neue Sätze wird für Kennen nicht vorausgesetzt."
+            }
+          ]
+        },
+        {
+          "card_id": "DE-023",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Bekannte Regeln zur Großschreibung von Nomen und Satzanfängen an erarbeiteten Sätzen wiedergeben.",
+              "criterion": "Die beiden Großschreibungsfälle werden im bekannten Kontext zutreffend erkannt oder erklärt. Ein selbstständiges Untersuchen neuer sprachlicher Strukturen wird aus Kennen nicht abgeleitet."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Regeln zur Großschreibung von Substantiven und Satzanfängen sowie zur Kleinschreibung von Verben und Adjektiven in weiteren Sätzen anwenden.",
+              "criterion": "In den weiteren Sätzen sind die behandelten Groß- und Kleinschreibungen regelgerecht. Die bekannte Regel wird auf den veränderten Zusammenhang bezogen; bloßes Wiedergeben eines bereits erarbeiteten Satzes reicht für Anwenden nicht."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-022",
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "card_id": "DE-023",
+          "gs": "Kennen",
+          "fsp": "Anwenden",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186342",
+      "target": "grammatische Gliederungszeichen",
+      "classification": "Unterziel",
+      "level": 3,
+      "gs_row": {
+        "id": "page908_186342",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 3,
+        "target": "grammatische Gliederungszeichen",
+        "remarks": "Punkt als neutrales Satzschlusszeichen Interpunktionsgespräche",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186342",
+        "parent_target_id": "page908_186330"
+      },
+      "parent_goal": {
+        "id": "page908_186330",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Kennen rechtschriftlicher Regelmäßigkeiten",
+        "remarks": "→ Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186330",
+        "parent_target_id": "page908_186330"
+      },
+      "intermediate_context": {
+        "id": "page908_186340",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "Satzebene",
+        "remarks": "",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186340",
+        "parent_target_id": "page908_186330"
+      },
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-022",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "Der GS-Punkt als neutrales Satzschlusszeichen ist ein konkreter Fall der FSP1/2-Kategorie Satzschlusszeichen unter Kennen. Der ergänzende FSP-Satzartenanker nennt Intonation und Satzzeichen, bleibt aber ein separates Einblicksziel und wird nicht zum Operator der Karte. Die Kriterien verlangen die bekannte Schlussfunktion statt nur den Zeichennamen.",
+      "residual_scope": "Nur neutraler Satzschluss; keine generelle Interpunktionskompetenz. Interpunktionsgespräche stehen als GS-Bemerkung und werden weder als zusätzliches FSP-Ziel noch als vorzuschlagende Aufgabe behandelt.",
+      "cards": [
+        "DE-022"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39379",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39379",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39380",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Satzschlusszeichen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39380",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39372",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Satzarten",
+          "remarks": "Aussage-, Aufforderungs- und Fragesatz Intonation, Satzzeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39372",
+          "parent_target_id": "page146_39372"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Kurze Sätze über Gegenstände im Klassenraum"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-022",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Bekannte Regeln zur Großschreibung von Nomen und Satzanfängen sowie die Funktion von Punkt, Fragezeichen und Ausrufezeichen an erarbeiteten kurzen Sätzen wiedergeben.",
+              "criterion": "Nomen- und Satzanfangsgroßschreibung sind fachlich richtig erklärt oder erkennbar zugeordnet. Punkt ist als neutraler Satzschluss, Fragezeichen als Kennzeichnung einer Frage und Ausrufezeichen als besondere kommunikative Markierung verstanden. Nicht jeder Aufforderungssatz verlangt zwingend ein Ausrufezeichen."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Regeln zur Großschreibung von Substantiven und Satzanfängen sowie zu Satzschlusszeichen wiedergeben.",
+              "criterion": "Die bekannten Großschreibungsregeln und die behandelten Satzschlusszeichen sind am vertrauten Satzkontext zutreffend wiedererkannt oder erklärt. Eine selbstständige Anwendung auf beliebige neue Sätze wird für Kennen nicht vorausgesetzt."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-022",
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186343",
+      "target": "kommunikative Zeichen",
+      "classification": "Unterziel",
+      "level": 3,
+      "gs_row": {
+        "id": "page908_186343",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 3,
+        "target": "kommunikative Zeichen",
+        "remarks": "Fragezeichen, Ausrufezeichen",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186343",
+        "parent_target_id": "page908_186330"
+      },
+      "parent_goal": {
+        "id": "page908_186330",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Kennen rechtschriftlicher Regelmäßigkeiten",
+        "remarks": "→ Rechtschreibrahmen: Arbeit an Strukturen der Schrift",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186330",
+        "parent_target_id": "page908_186330"
+      },
+      "intermediate_context": {
+        "id": "page908_186340",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "Satzebene",
+        "remarks": "",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186340",
+        "parent_target_id": "page908_186330"
+      },
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-022",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "Frage- und Ausrufezeichen sind als Satzschlusszeichen unter dem FSP1/2-Kennen-Anker anschließbar. Der separate Einblick in Satzarten mit Satzzeichen stützt den kommunikativen Zusammenhang. Zeichenname allein würde die GS-Funktion nicht hinreichend konkretisieren; die präzisierten Kriterien berücksichtigen Fragefunktion und besondere kommunikative Markierung.",
+      "residual_scope": "Kein vollständiges Inventar aller kommunikativen Zeichen. Aufforderungssatz und Ausrufezeichen werden nicht zwingend eins zu eins gleichgesetzt. Der ergänzende Satzartenbeleg wird nicht zu einem zweiten Kartenoperator vermischt.",
+      "cards": [
+        "DE-022"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39375",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen erster orthografischer Regeln",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39375",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39379",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Großschreibung von Substantiven und Satzanfängen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39379",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39380",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "Satzschlusszeichen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39380",
+          "parent_target_id": "page146_39375"
+        },
+        {
+          "id": "page146_39372",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Einblick gewinnen in die Satzarten",
+          "remarks": "Aussage-, Aufforderungs- und Fragesatz Intonation, Satzzeichen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39372",
+          "parent_target_id": "page146_39372"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Kurze Sätze über Gegenstände im Klassenraum"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-022",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Bekannte Regeln zur Großschreibung von Nomen und Satzanfängen sowie die Funktion von Punkt, Fragezeichen und Ausrufezeichen an erarbeiteten kurzen Sätzen wiedergeben.",
+              "criterion": "Nomen- und Satzanfangsgroßschreibung sind fachlich richtig erklärt oder erkennbar zugeordnet. Punkt ist als neutraler Satzschluss, Fragezeichen als Kennzeichnung einer Frage und Ausrufezeichen als besondere kommunikative Markierung verstanden. Nicht jeder Aufforderungssatz verlangt zwingend ein Ausrufezeichen."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Regeln zur Großschreibung von Substantiven und Satzanfängen sowie zu Satzschlusszeichen wiedergeben.",
+              "criterion": "Die bekannten Großschreibungsregeln und die behandelten Satzschlusszeichen sind am vertrauten Satzkontext zutreffend wiedererkannt oder erklärt. Eine selbstständige Anwendung auf beliebige neue Sätze wird für Kennen nicht vorausgesetzt."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-022",
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186348",
+      "target": "klassenbezogene Wörter",
+      "classification": "Unterziel",
+      "level": 2,
+      "gs_row": {
+        "id": "page908_186348",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "klassenbezogene Wörter",
+        "remarks": "Klassenwortschatzkartei",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186348",
+        "parent_target_id": "page908_186347"
+      },
+      "parent_goal": {
+        "id": "page908_186347",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Beherrschen der Schreibung häufiger Inhaltswörter",
+        "remarks": "→ Rechtschreibrahmen: Arbeit am Wortschatz",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186347",
+        "parent_target_id": "page908_186347"
+      },
+      "intermediate_context": null,
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-030; DE-031",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "Klassenbezogene Wörter stehen im FSP1/2 ausdrücklich als Unterzeile unter richtig schreiben im Übertragen lauttreuer Wörter. Im FSP3/4 sind sie Bemerkungsinhalt zu richtig schreiben unter Übertragen; das Stufenbandziel bestätigt ihre richtige Schreibung. GS verlangt Beherrschen häufiger Inhaltswörter. Die Karten unterscheiden nun sichere bekannte Schreibung und Transfer, statt allein pauschale Wiederholungsdurchgänge zu verlangen.",
+      "residual_scope": "DE-030 nur lauttreue häufige Inhaltswörter. DE-031 stufenübergreifend und auf den ausgewählten gemeinsamen Wortschatz begrenzt. Weder alle GS-Inhaltswörter noch FSP-Funktionswörter sind automatisch eingeschlossen. Klassenwortschatzkartei ist keine Vorgabe.",
+      "cards": [
+        "DE-030",
+        "DE-031"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39267",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben lauttreuer Wörter",
+          "remarks": "⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39267",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39305",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39305",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39307",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "klassenbezogene Wörter",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39307",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39311",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "individuelle Wörter",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39311",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40148",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "klassenbezogene und individuelle Wörter, Funktionswörter, Einsatz digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40148",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Ein kleiner gemeinsamer Wortschatz aus dem Klassenalltag",
+        "Ein gemeinsamer Wortschatz für das aktuelle Unterrichtsthema"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-030",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Ausgewählte häufige Inhaltswörter aus dem Klassenwortschatz und aus dem individuell bedeutsamen Wortschatz sicher richtig schreiben.",
+              "criterion": "Die jeweils erarbeiteten Wörter werden zuverlässig mit korrekter Buchstabenfolge geschrieben. Klassenbezogene und individuell bedeutsame Auswahl sind getrennt nachvollziehbar; die sichere Schreibung wird nicht allein aus Abschreiben abgeleitet. Der begrenzte Wortbestand belegt nicht den gesamten GS-Wortschatz."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Bekannte Laut-Buchstaben-Beziehungen auf weitere ausgewählte lauttreue klassenbezogene oder individuelle Wörter übertragen.",
+              "criterion": "Die Lautfolge der weiteren Wörter wird vollständig in eine passende Buchstabenfolge umgesetzt. Bekannte Beziehungen werden in einem weiteren Wort genutzt; die Wiedergabe eines auswendig gespeicherten Einzelwortes allein belegt diesen Transfer nicht."
+            }
+          ]
+        },
+        {
+          "card_id": "DE-031",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Ausgewählte häufige Inhaltswörter aus dem Klassenwortschatz und aus dem individuell bedeutsamen Wortschatz sicher richtig schreiben.",
+              "criterion": "Die jeweils erarbeiteten Wörter werden zuverlässig mit korrekter Buchstabenfolge geschrieben. Klassenbezogene und individuell bedeutsame Auswahl sind getrennt nachvollziehbar; die sichere Schreibung wird nicht allein aus Abschreiben abgeleitet. Der begrenzte Wortbestand belegt nicht den gesamten GS-Wortschatz."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Schreibkenntnisse auf ausgewählte klassenbezogene oder individuelle Wörter in einem weiteren Schreibzusammenhang übertragen.",
+              "criterion": "Die ausgewählten Wörter bleiben im weiteren Zusammenhang richtig geschrieben. Der Zusammenhang zu erarbeiteten Schreibkenntnissen ist erkennbar; bloße Wiederholung derselben Vorlage belegt den Transfer nicht."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-030",
+          "gs": "Beherrschen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "card_id": "DE-031",
+          "gs": "Beherrschen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186349",
+      "target": "individuelle Wörter",
+      "classification": "Unterziel",
+      "level": 2,
+      "gs_row": {
+        "id": "page908_186349",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "individuelle Wörter",
+        "remarks": "persönlich bedeutsame Wörter individuelle Fehlerschwerpunkte",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186349",
+        "parent_target_id": "page908_186347"
+      },
+      "parent_goal": {
+        "id": "page908_186347",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Beherrschen der Schreibung häufiger Inhaltswörter",
+        "remarks": "→ Rechtschreibrahmen: Arbeit am Wortschatz",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186347",
+        "parent_target_id": "page908_186347"
+      },
+      "intermediate_context": null,
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-030; DE-031",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "Individuelle Wörter sind im FSP1/2 eine ausdrücklich benannte Unterzeile, in FSP3/4 eine Bemerkung zum richtigen Schreiben. GS ergänzt persönliche Bedeutung und individuelle Fehlerschwerpunkte. Der begrenzte Anschluss trägt die individuelle Wortauswahl; er setzt keine identischen Listen voraus und ersetzt nicht die unterschiedlichen Operatoranforderungen.",
+      "residual_scope": "Individuelle Fehlerschwerpunkte jenseits lauttreuer Schreibung sind in DE-030 nicht abgedeckt. In DE-031 nur die tatsächlich erarbeiteten Schreibkenntnisse. Gemeinsamer Lerngegenstand kann ein gemeinsames Wortschatzthema sein; keine vorgeschriebene Wortliste oder Methode.",
+      "cards": [
+        "DE-030",
+        "DE-031"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39267",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben lauttreuer Wörter",
+          "remarks": "⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39267",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39305",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39305",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39307",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "klassenbezogene Wörter",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39307",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_39311",
+          "grade": "1/2",
+          "area_id": "page146_39133",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "target": "individuelle Wörter",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39311",
+          "parent_target_id": "page146_39267"
+        },
+        {
+          "id": "page146_40126",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Übertragen des Wissens über grundlegende Funktionsweisen der Schriftsprache auf das Schreiben",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40126",
+          "parent_target_id": "page146_40126"
+        },
+        {
+          "id": "page146_40148",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "richtig schreiben",
+          "remarks": "klassenbezogene und individuelle Wörter, Funktionswörter, Einsatz digitaler Medien",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40148",
+          "parent_target_id": "page146_40126"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Ein kleiner gemeinsamer Wortschatz aus dem Klassenalltag",
+        "Ein gemeinsamer Wortschatz für das aktuelle Unterrichtsthema"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-030",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Ausgewählte häufige Inhaltswörter aus dem Klassenwortschatz und aus dem individuell bedeutsamen Wortschatz sicher richtig schreiben.",
+              "criterion": "Die jeweils erarbeiteten Wörter werden zuverlässig mit korrekter Buchstabenfolge geschrieben. Klassenbezogene und individuell bedeutsame Auswahl sind getrennt nachvollziehbar; die sichere Schreibung wird nicht allein aus Abschreiben abgeleitet. Der begrenzte Wortbestand belegt nicht den gesamten GS-Wortschatz."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Bekannte Laut-Buchstaben-Beziehungen auf weitere ausgewählte lauttreue klassenbezogene oder individuelle Wörter übertragen.",
+              "criterion": "Die Lautfolge der weiteren Wörter wird vollständig in eine passende Buchstabenfolge umgesetzt. Bekannte Beziehungen werden in einem weiteren Wort genutzt; die Wiedergabe eines auswendig gespeicherten Einzelwortes allein belegt diesen Transfer nicht."
+            }
+          ]
+        },
+        {
+          "card_id": "DE-031",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Ausgewählte häufige Inhaltswörter aus dem Klassenwortschatz und aus dem individuell bedeutsamen Wortschatz sicher richtig schreiben.",
+              "criterion": "Die jeweils erarbeiteten Wörter werden zuverlässig mit korrekter Buchstabenfolge geschrieben. Klassenbezogene und individuell bedeutsame Auswahl sind getrennt nachvollziehbar; die sichere Schreibung wird nicht allein aus Abschreiben abgeleitet. Der begrenzte Wortbestand belegt nicht den gesamten GS-Wortschatz."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Erarbeitete Schreibkenntnisse auf ausgewählte klassenbezogene oder individuelle Wörter in einem weiteren Schreibzusammenhang übertragen.",
+              "criterion": "Die ausgewählten Wörter bleiben im weiteren Zusammenhang richtig geschrieben. Der Zusammenhang zu erarbeiteten Schreibkenntnissen ist erkennbar; bloße Wiederholung derselben Vorlage belegt den Transfer nicht."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-030",
+          "gs": "Beherrschen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "same-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "1/2"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        },
+        {
+          "card_id": "DE-031",
+          "gs": "Beherrschen",
+          "fsp": "Übertragen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    },
+    {
+      "gs_id": "page908_186358",
+      "target": "Aufsuchen von Wörtern nach dem Anfangsbuchstaben",
+      "classification": "Unterziel",
+      "level": 2,
+      "gs_row": {
+        "id": "page908_186358",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 2,
+        "target": "Aufsuchen von Wörtern nach dem Anfangsbuchstaben",
+        "remarks": "",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186358",
+        "parent_target_id": "page908_186353"
+      },
+      "parent_goal": {
+        "id": "page908_186353",
+        "grade": "1/2",
+        "area_id": "page908_186313",
+        "area": "Lernbereich: Schreiben",
+        "level": 1,
+        "target": "Kennen von Verfahren zum Umgang mit einem Rechtschreibwörterbuch",
+        "remarks": "→ Rechtschreibrahmen: Arbeit am (eigenen) Text ⇒ Methodenkompetenz",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186353",
+        "parent_target_id": "page908_186353"
+      },
+      "intermediate_context": null,
+      "review_kind": "Erstprüfung einer zuvor zugeordneten Zeile",
+      "previous_decision": "ausdrücklich ausgewählter Ausschnitt",
+      "previous_cards": "DE-039",
+      "decision": "bestehender begrenzter Anschluss bestätigt und präzisiert",
+      "reason": "GS nennt das Aufsuchen nach dem Anfangsbuchstaben ausdrücklich. FSP3/4 verbindet Kennen des Alphabets mit Arbeiten im Wörterverzeichnis und einer Suchfolge in der Bemerkung. Die alphabetische Anfangsorientierung ist damit ein begründeter Teilanschluss; kein bloßer Stichworttreffer Wörterbuch. Die Kriterien verknüpfen Anfangsbuchstabe, alphabetische Position und tatsächlichen Wortfund.",
+      "residual_scope": "Stufenübergreifend GS1/2 zu FSP3/4. Kein vollständiges Rechtschreibwörterbuchverfahren, keine Zweit-/Drittbuchstabensortierung, Grundformbildung oder digitale Suche. Art des Wörterverzeichnisses und Suchhilfen bleiben Lehrkraftentscheidung.",
+      "cards": [
+        "DE-039"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_40098",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 1,
+          "target": "Kennen des Alphabets",
+          "remarks": "Hilfsmittel nutzen ⇒ Lern- und Methodenkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40098",
+          "parent_target_id": "page146_40098"
+        },
+        {
+          "id": "page146_40104",
+          "grade": "3/4",
+          "area_id": "page146_40039",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 2,
+          "target": "mit einem Wörterverzeichnis arbeiten",
+          "remarks": "Orientierungsübungen im Alphabet, Schrittfolge beim Suchen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40104",
+          "parent_target_id": "page146_40098"
+        }
+      ],
+      "overarching_evidence": [
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "1/2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+          "statement": "Kommunikative Entwicklung; lesbares und zunehmend geläufiges Schreiben, erste Regeln und angeleitete Arbeitstechniken. Der allgemeine Rahmen ersetzt keine spezifische Vorbereitungsfunktion des Zuhörens."
+        },
+        {
+          "classification": "übergreifendes Stufenbandziel",
+          "grade": "3/4",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+          "statement": "Sicherheit im normgerechten Schreiben, richtige Schreibung klassenbezogener Wörter und ausgewählter Funktionswörter, zunehmend selbstständige Arbeitstechniken. Keine automatische Gleichsetzung aller individuellen GS-Fehlerschwerpunkte."
+        }
+      ],
+      "shared_objects": [
+        "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis"
+      ],
+      "fine_goals": [
+        {
+          "card_id": "DE-039",
+          "goals": [
+            {
+              "track": "Grundschule",
+              "goal": "Die bekannte alphabetische Grundordnung und ein erarbeitetes Suchprinzip erklären und ein bekanntes Wort nach dem Anfangsbuchstaben im Wörterverzeichnis auffinden.",
+              "criterion": "Der zutreffende Anfangsbuchstabenbereich wird erkannt; das gefundene Wort entspricht dem gesuchten Wort. Der Bezug zur alphabetischen Ordnung ist verständlich. Ein zufälliger Treffer oder bloßes Wiedererkennen einer Wortabbildung genügt nicht."
+            },
+            {
+              "track": "FSP Lernen",
+              "goal": "Die erarbeitete alphabetische Ordnung und Suchfolge in einem vertrauten Wörterverzeichnis wiedergeben und beim Auffinden eines bekannten Wortes nutzen.",
+              "criterion": "Das Wort wird im passenden alphabetischen Bereich gefunden; der Zusammenhang zwischen Anfangsbuchstabe, alphabetischer Position und Wortfund ist erkennbar. Keine selbstständig beherrschte Suche mit beliebigen Wörterbuchangaben vorausgesetzt."
+            }
+          ]
+        }
+      ],
+      "operators_and_bands": [
+        {
+          "card_id": "DE-039",
+          "gs": "Kennen",
+          "fsp": "Kennen",
+          "alignment": {
+            "relation": "cross-band",
+            "gs_anchor_grade": "1/2",
+            "gs_curriculum_band": "1/2",
+            "fsp_curriculum_bands": [
+              "3/4"
+            ],
+            "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+          }
+        }
+      ],
+      "uncertainty": "Für den genannten Ausschnitt geklärt; Restumfang ausdrücklich begrenzt."
+    }
+  ],
+  "app_version": "1.297",
+  "module_version": "DE-2026-11-02.2",
+  "counts": {
+    "newly_reviewed": 0,
+    "reviewed_total": 241,
+    "assigned_rows_reviewed_this_batch": 9,
+    "assigned_rows_reviewed_total": 63,
+    "cards": 177,
+    "uncovered": 137,
+    "uncovered_pending_individual_review": 0,
+    "documented_no_direct_connection": 125,
+    "documented_connection_uncertain": 1,
+    "revisited_rows_this_batch": 1,
+    "assigned_rows_pending_individual_review": 67,
+    "documented_overarching_connection_without_card": 11,
+    "uncertain_connections_resolved_this_batch": 0,
+    "source_rechecks_pending": 0,
+    "source_rechecks_completed_this_batch": 0
+  },
+  "next_id": "page908_186303",
+  "next_target": "Aufbauen von Hörverstehen",
+  "assigned_rows_next_id": "page908_186363",
+  "source_verification": {
+    "official_urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "checked_on": "2026-11-02",
+    "basis": "Aktueller main-Stand, AGENTS, Fortschritt und Audit mit gespeicherten Inventuren und amtlichen HTML-Quellen abgeglichen. Beide amtlichen Lehrplanseiten erneut erreichbar. Hierarchie, Ziele, Unterziele, Bemerkungen, Stufenbänder und mögliche Gegenbelege getrennt geprüft. Quellen und Prüfsummen unverändert.",
+    "general_anchors": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39132",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40037",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29678",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29747",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page122_29750"
+    ]
+  },
+  "followup_notes": [
+    "DE-UZ-045 hat 186303 mit beiden FSP-Bändern, Gesprächs- und Literaturbelegen sowie Stufenbandzielen erneut geprüft. Der Zwischenkontext bleibt mehrdeutig; kein neuer Anschluss und kein Nichtanschluss erzwungen. Die Frage bleibt priorisiert. Neun zugeordnete Zeilen zusätzlich erstmals geprüft; danach verbleiben 67 ab 186363. Wiederprüfung 186303 nicht als neue Erstprüfung gezählt.",
+    "Keine Rückwärts-Einzelprüfung. Keine Aufgaben- oder Hilfsmittelvorschläge; keine neuen Karten, keine ID-Änderung und keine Änderung der Sachunterricht-Daten."
+  ],
+  "reproduction": "batch_045_review.py/batch_045_cards.json; Refine-Hook nach Batch044; zentrale Titeldatei präzisiert nur DE-023. Karten-/Zeilenbezüge bleiben vollständig erhalten.",
+  "validation": "PASS: Zehn unterschiedliche Zeilen bearbeitet: neun zuvor zugeordnete Zeilen erstmals geprüft und eine Anschlussfrage vertieft nachgeprüft, weiterhin offen. 177 Deutschkarten, 117 Zielblöcke und 312 eindeutige Anzeigetitel. Sieben bestehende Karten verändert; DE-117 behält seine fachlichen Kriterien und erhält ausschließlich die korrekte Lehrkraft-Zuständigkeit im Hinweis. Alle IDs, Karten-/Zeilenbezüge und Stufenbandzuordnungen erhalten. Ziele, Operatoren, Quellenanker, Feinziele/Kriterien und Reproduktionshooks geprüft. CSV-Quelldaten und sämtliche Kartenreferenzen unverändert, zehn Prüftexte fortgeschrieben. 241 ursprünglich offene und 63 zuvor zugeordnete Zeilen erstmals geprüft; Wiederprüfung separat. 137 Unterziele ohne Karte = 125 Nichtanschlüsse + 11 übergreifende Teilanschlüsse + 1 Anschlussfrage. 67 zugeordnete Zeilen verbleiben ab 186363; offene Frage 186303 bleibt priorisiert. 22 übergeordnete Zielblöcke ohne Karte gesondert. Keine Aufgaben- oder Hilfsmittelvorschlagsfelder. Inventuren, amtliche Quellen, ID-Registry und Sachunterricht unverändert; korrekte Daten-/Titel-Einbettung, drei JavaScript-Blöcke syntaktisch gültig. Gleichwertige Node-Prüfungen gemäß check-deutsch.py und Pages-Aufbereitung gemäß prepare-pages.py; Python ist auf diesem Host wegen fehlender Xcode-Werkzeuge nicht verfügbar, Python-Generator nicht ausgeführt. Root und dist bytegleich mit App 1.297, Modul DE-2026-11-02.2 und Datum 02.11.2026.",
+  "publication": {
+    "status": "pending",
+    "url": "https://geafaellt.github.io/LernzielKompass/"
+  }
+}
