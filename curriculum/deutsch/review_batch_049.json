@@ -2006,7 +2006,28 @@
   "reproduction": "batch_049_review.py append(T) vor ID-Zuweisung und refine nach Batch048; batch_049_cards.json mit neun Korrekturen und DE-180. Registry um wortebene-regelmaessigkeiten4:186879 ergänzt. Quellensynchronisierung einschließlich Zwischenanker40286/40294.",
   "validation": "PASS: 13 zuvor zugeordnete Zeilen erstmals einzeln geprüft. Neun vorhandene Karten präzisiert, eine neue Karte DE-180 angelegt; insgesamt 178 Deutschkarten und 313 eindeutige Anzeigetitel mit Sachunterricht. Alle bisherigen IDs und Stufenbandrelationen erhalten. Ausschließlich GS186881 von DE-024 zu DE-180 umgeordnet; keine Änderung der Menge insgesamt zugeordneter GS-Zeilen. 117 Zielblockentscheidungen erhalten, Verweis DE-180 im Block186879 ergänzt. Alle Quell- und Operatoranker, getrennten Feinziele/Kriterien sowie Reproduktionshooks geprüft. Keine Aufgaben-/Hilfsmittelvorschlagsfelder. CSV-Quellspalten unverändert; genau 13 Prüftexte und eine Kartenreferenz aktualisiert. 241 ursprünglich offene und 110 zuvor zugeordnete Zeilen erstmals geprüft; 20 zugeordnete Zeilen verbleiben ab186901. 137 Unterziele ohne Karte = 125 Nichtanschlüsse + 11 übergreifende Teilanschlüsse + 1 offene Anschlussfrage. 186303 ohne neue Evidenz nicht erneut gezählt. 22 übergeordnete Zielblöcke ohne Karte separat. Sachunterricht, amtliche Quellen, Inventuren und Titeldatei unverändert. ID-Registry nur um DE-180 ergänzt. Drei JavaScript-Blöcke syntaktisch gültig; aktuelle Deutschdaten und Titel korrekt eingebettet. Gleichwertige Node-Prüfungen gemäß check-deutsch.py und Pages-Aufbereitung gemäß prepare-pages.py bestanden. Python wegen fehlender Xcode-Werkzeuge auf diesem Host nicht verfügbar; Python-Generator nicht ausgeführt. Root und dist bytegleich mit App1.301, Modul DE-2026-11-02.6 und Datum02.11.2026.",
   "publication": {
-    "status": "pending",
-    "url": "https://geafaellt.github.io/LernzielKompass/"
+    "status": "verified",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "b017ad59cf2817feb9a646cf882d0b084f2b78e4",
+    "app_version": "1.301",
+    "module_version": "DE-2026-11-02.6",
+    "displayed_update_date": "02.11.2026",
+    "pages_run_id": 41447679721,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/41447679721",
+    "pages_conclusion": "success",
+    "live_checked_card_ids": [
+      "DE-002",
+      "DE-007",
+      "DE-032",
+      "DE-071",
+      "DE-010",
+      "DE-008",
+      "DE-009",
+      "DE-024",
+      "DE-033",
+      "DE-180"
+    ],
+    "live_check": "App nach erfolgreichem Pages-Lauf neu geladen: 1.301 und Datum 02.11.2026 sichtbar. Alle neun geänderten und die neue Karte in GS3/4 Sprechen/Zuhören, Schreiben sowie GS3 Text/Medien live geöffnet. Operatoren, präzisierte Abgrenzungen und Quellen angezeigt. DE-024 enthält 186882, nicht mehr 186881; DE-180 zeigt 186881 und 40226 sowie Beherrschen gegenüber Einblick gewinnen. Ergänzte Zwischenanker 40294/40286 in DE-002 und 40286 in DE-007 sichtbar. Keine Planungsfelder befüllt. Feinziele/Kriterien durch Daten- und Einbettungsprüfung kontrolliert; kein zusätzlicher Formular- oder PDF-Download-Test.",
+    "repository_integrity": "143 verfügbare veröffentlichte Repository-Dateien bytegenau gegen GitHub-Blobs geprüft; .gitignore unverändert aus dem Basisbaum erhalten."
   }
 }
