@@ -208,8 +208,14 @@
   "reproduction": "batch_052_review.py/batch_052_cards.json, Refine-Hook nach Batch051 und vor Neuberechnung der Zeilenabdeckung. 186301 ausschließlich Kontextquelle; nur186303 zusätzlich als Karten-Unterziel. Abschlussangaben und Quelldatum im Generator aktualisiert.",
   "validation": "PASS: 178 Deutschkarten,117 Zielblöcke,531 Quellen und313 eindeutige Anzeigetitel. Ausschließlich DE-015 fachlich verändert; alle IDs, Stufenbandrelationen und übrigen Karten erhalten. GS186303 als begrenzter literarischer Anschluss ergänzt;186301 ausschließlich Kontextquelle, weiterhin ohne Kartenabdeckung. Operatoren, Hierarchien, Bemerkungen und getrennte Feinziele/Kriterien geprüft. Keine Aufgaben-/Hilfsmittelvorschlagsfelder. Alle488 CSV-Zeilenbezüge gegen die Modulzuordnungen geprüft; bestehender fehlender DE-180-Verweis am Zielblock186879 korrigiert. CSV-Quelldaten unverändert; eine Unterzielentscheidung und eine Zielblockreferenz geändert.371 unterschiedliche Erstprüfungen unverändert,23 Anschlussfragen entschieden,0 offene Fragen/Quellen-Nachprüfungen.136 Unterziele ohne Karte=125 Nichtanschlüsse+11 übergreifende Teilanschlüsse;22 Zielblöcke ohne Karte separat. Sachunterricht, Quellenfassungen, Inventuren, Titeldatei und ID-Registry unverändert. Deutsch- und Titeldaten exakt eingebettet, drei JavaScript-Blöcke syntaktisch gültig. Gleichwertige Prüfungen zu check-deutsch.py und Pages-Aufbereitung zu prepare-pages.py im Speicher bestanden; schreibgeschützte lokale Umgebung, Python-Skripte nicht ausgeführt. Generator-Hook und Patchstruktur geprüft, kein vollständiger Python-Generatorlauf behauptet. Root und dist bytegleich mit App1.304, ModulDE-2026-11-03.1 und Datum03.11.2026.",
   "publication": {
-    "status": "pending",
-    "url": "https://geafaellt.github.io/LernzielKompass/"
+    "status": "verified",
+    "app_commit": "0c7a61090ac6eae3fdc878c5f698c30d7b41fb12",
+    "data_commit": "7c60e277bfa006963c2a6978624b62fee17540e5",
+    "workflow_id": 41661282109,
+    "workflow_conclusion": "success",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_checked_on": "2026-11-03",
+    "live_verification": "App1.304 und Datum03.11.2026 nach Neuladen sichtbar. DE-015 live ausgewählt und geöffnet: neuer GS-Anker186303, Zwischenkontext186301, getrennte Operatoren Kennen/Einblick, literarische Begrenzung und unveränderter FSP1/2-Bezug angezeigt. Startseite und Auswahlhinweis zeigen die abgeschlossene Einzelprüfung. Planungsfelder nicht befüllt; Feinziele und Kriterien durch Daten-/Einbettungsprüfung kontrolliert. Kein PDF-Test.153 veröffentlichte Dateien bytegenau gegen GitHub-Blobs geprüft; .gitignore unverändert übernommen."
   },
   "followup_notes": [
     "Keine neue Erstprüfung gezählt; 241+130=371 unverändert. Eine wiedergeprüfte Anschlussfrage entschieden. 136 Unterziele ohne Karte:125 Nichtanschlüsse+11 übergreifende Teilanschlüsse.22 übergeordnete Zielblöcke ohne Karte separat.",
@@ -217,5 +223,11 @@
     "Historische Berichte und hearing_clarification_2026-11-03.json bleiben als damaliger Stand bestehen; diese Entscheidung ersetzt deren offenen Status. Nach bestätigter Veröffentlichung regelmäßige Automation pausieren. PDF bleibt gesondert.",
     "Regressionstest korrigiert einen bestehenden CSV-Verweis am übergeordneten GS4-Zielblock186879: DE-180 zusätzlich zu DE-024. Karte und Modul-Zielblock waren seit Batch049 korrekt; keine neue fachliche Zuordnung, keine neue geprüfte Unterzielzeile.",
     "Startseite zeigt den abgeschlossenen Deutsch-Prüfumfang. Die frühere Ankündigung von Aufgabenbeispielen ist durch Feinziele/Erfolgskriterien und die ausschließliche Lehrkraftentscheidung ersetzt."
-  ]
+  ],
+  "automation": {
+    "id": "lernzielkompass-unterziele-pr-fen",
+    "status": "PAUSED",
+    "confirmed_on": "2026-11-03",
+    "reason": "Dokumentierte Einzelprüfung einschließlich Anschlussfragen abgeschlossen; gemäß Nutzerauftrag pausiert."
+  }
 }
