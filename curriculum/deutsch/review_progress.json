@@ -1,5 +1,5 @@
 {
-  "last_batch": "DE-UZ-051",
+  "last_batch": "DE-UZ-052",
   "reviewed_ids": [
     "page908_186277",
     "page908_186279",
@@ -243,26 +243,26 @@
     "page908_187035",
     "page908_187036"
   ],
-  "next_id": "page908_186303",
+  "next_id": null,
   "counts": {
     "newly_reviewed": 0,
     "reviewed_total": 241,
-    "assigned_rows_reviewed_this_batch": 10,
+    "assigned_rows_reviewed_this_batch": 0,
     "assigned_rows_reviewed_total": 130,
     "cards": 178,
-    "uncovered": 137,
+    "uncovered": 136,
     "uncovered_pending_individual_review": 0,
     "documented_no_direct_connection": 125,
-    "documented_connection_uncertain": 1,
-    "revisited_rows_this_batch": 0,
+    "documented_connection_uncertain": 0,
+    "revisited_rows_this_batch": 1,
     "assigned_rows_pending_individual_review": 0,
     "documented_overarching_connection_without_card": 11,
-    "uncertain_connections_resolved_this_batch": 0,
+    "uncertain_connections_resolved_this_batch": 1,
     "source_rechecks_pending": 0,
     "source_rechecks_completed_this_batch": 0
   },
-  "phase": "uncertain_connections",
-  "complete": false,
+  "phase": "complete",
+  "complete": true,
   "reviewed_previously_assigned_ids": [
     "page908_186403",
     "page908_186404",
@@ -395,9 +395,7 @@
     "page908_187010",
     "page908_187015"
   ],
-  "unresolved_connection_ids": [
-    "page908_186303"
-  ],
+  "unresolved_connection_ids": [],
   "overarching_connection_ids": [
     "page908_186437",
     "page908_186452",
@@ -458,9 +456,10 @@
     "page908_186993",
     "page908_187013",
     "page908_187030",
-    "page908_187036"
+    "page908_187036",
+    "page908_186303"
   ],
-  "uncertainty_round_note": "186303 vor Beginn berücksichtigt; ohne neue klärende Evidenz weiterhin offen und nicht erneut gezählt. Die letzten zehn zuvor zugeordneten Zeilen erstmals geprüft; sieben Karten präzisiert, DE-170 bestätigt. Sämtliche 371 GS-Unterzielzeilen sind mindestens einmal einzeln geprüft (241 ursprünglich offene plus130 zuvor zugeordnete). Eine Anschlussfrage bleibt ungelöst; vollständiger Abschluss nicht erreicht. Nächster Prüfschritt ausschließlich186303 mit belastbarer fachlicher Erläuterung der vorbereitenden Funktion.",
+  "uncertainty_round_note": "Letzte Anschlussfrage 186303 als begrenzter literarischer Anschluss entschieden. 371 unterschiedliche Unterzielzeilen erstmals geprüft (241 ursprünglich offene, 130 zuvor zugeordnete); Wiederentscheidung nicht als neue Erstprüfung gezählt. Keine offenen Anschlussfragen oder Quellen-Nachprüfungen. Restumfänge und Nichtanschlüsse bleiben ausdrücklich dokumentiert; kein Vollabdeckungsanspruch.",
   "source_recheck_queue": [
     {
       "gs_id": "page908_186555",
@@ -479,6 +478,9 @@
     "date": "2026-11-03",
     "gs_id": "page908_186303",
     "file": "hearing_clarification_2026-11-03.json",
-    "status": "Nutzerdeutung als vorbereitender Kompetenzaufbau dokumentiert; Anschluss weiterhin offen; keine Zählstandsänderung."
-  }
+    "status": "Historischer Nachtrag; durch die fachliche Entscheidung und den Umsetzungsauftrag in DE-UZ-052 abgeschlossen.",
+    "resolved_by": "DE-UZ-052"
+  },
+  "completed_on": "2026-11-03",
+  "completion_scope": "GS Deutsch 1/2, 3, 4 zu FSP DE-HKS 1/2 und 3/4: 117 Zielblöcke und 371 Unterzielzeilen einschließlich dokumentierter Anschlussfragen; keine Rückwärts-Einzelprüfung und kein PDF-Auftrag."
 }

@@ -1,0 +1,220 @@
+{
+  "batch": "DE-UZ-052",
+  "date": "2026-11-03",
+  "source_commit": "9a8cf6979ecd868c1f204b71ea3b35d8028fc285",
+  "scope": "Letzte Anschlussfrage entscheiden und dokumentierten Deutsch-Prüfumfang abschließen.",
+  "entries": [
+    {
+      "gs_id": "page908_186303",
+      "target": "Aufbauen von Hörverstehen",
+      "classification": "Unterziel",
+      "level": 3,
+      "gs_row": {
+        "id": "page908_186303",
+        "grade": "1/2",
+        "area_id": "page908_186269",
+        "area": "Lernbereich: Sprechen und Zuhören",
+        "level": 3,
+        "target": "Aufbauen von Hörverstehen",
+        "remarks": "Unterrichts-, Partner- und Gruppengespräche authentische Höranlässe und Hörtexte: Lautsprecheransagen, Radioberichte, Hörspiele ⇒ Medienbildung",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186303",
+        "parent_target_id": "page908_186299"
+      },
+      "parent_goal": {
+        "id": "page908_186299",
+        "grade": "1/2",
+        "area_id": "page908_186269",
+        "area": "Lernbereich: Sprechen und Zuhören",
+        "level": 1,
+        "target": "Kennen von Grundlagen des verstehenden Zuhörens",
+        "remarks": "⇒ Sozialkompetenz",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186299",
+        "parent_target_id": "page908_186299"
+      },
+      "intermediate_context": {
+        "id": "page908_186301",
+        "grade": "1/2",
+        "area_id": "page908_186269",
+        "area": "Lernbereich: Sprechen und Zuhören",
+        "level": 2,
+        "target": "Vorbereiten des Zuhörens",
+        "remarks": "Hörerwartung angeleitet aufbauen Vorwissen aktivieren",
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186301",
+        "parent_target_id": "page908_186299"
+      },
+      "review_kind": "Abschließende Entscheidung einer bereits geprüften Anschlussfrage",
+      "previous_decision": "DE-UZ-044/045: Kartenbezug wegen unklarer vorbereitender Funktion entfernt; Nachtrag03.11 dokumentierte die breitere fachliche Lesart.",
+      "decision": "Begrenzter literarischer Anschluss in DE-015",
+      "reason": "Die GS-Unterzeile benennt den Aufbau von Hörverstehen und erläutert ihn durch Gesprächs- und Hörtextkontexte. Sie fordert keine gesonderte ausschließlich zeitliche Handlung unmittelbar vor dem Hören. Vorbereiten kann hier fachlich als Aufbau der Voraussetzungen verstehenden Zuhörens gelesen werden. Der FSP-Literaturkontext belegt ausdrücklich zielgerichtetes Zuhören sowie Inhaltsverstehen und Wiedergabe. Bedeutungsverstehen eines gehörten Märchens mit Wunsch-, Traum- oder Fantasiebezug bildet daher einen konkret belegten gemeinsamen Ausschnitt. Diese fachliche Zuordnung benötigt keine identischen Formulierungen und wird nicht als amtliche Auslegung ausgegeben.",
+      "residual_scope": "Kein Gesamtanschluss für GS186301 oder dessen Hörerwartung/Vorwissen. Keine Gleichsetzung von Hörwahrnehmung und Inhaltsverstehen. Kein pauschaler Anschluss für Unterrichts-, Partner- und Gruppengespräche, Ansagen, Radioberichte oder alle Hörtexte. Die übrigen bereits bestätigten Ausschnitte von DE-015 bleiben erhalten.",
+      "cards": [
+        "DE-015"
+      ],
+      "fsp_candidates": [
+        {
+          "id": "page146_39869",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 1,
+          "target": "Einblick gewinnen in literarische Texte als Möglichkeit, Träume und Wünsche auszudrücken",
+          "remarks": "➔ MA, Kl. 1/2, LBW 1 ➔ WE, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39869",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39874",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 2,
+          "target": "Märchen, Kinderbuch und andere literarische Texte",
+          "remarks": "Lieblingsbücher der Schüler Fantasiegeschichten, Unsinngeschichten, Geschichten mit offenem Ende, Gedichte Besuch einer Bibliothek",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39874",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39876",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 3,
+          "target": "aktiv und zielgerichtet zuhören",
+          "remarks": "Höraufgaben, Gedächtnistraining",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39876",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_39879",
+          "grade": "1/2",
+          "area_id": "page146_39148",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 30 Ustd.",
+          "level": 3,
+          "target": "Inhalt verstehen und wiedergeben",
+          "remarks": "nacherzählen, über Gelesenes sprechen, eine Bildgeschichte gestalten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39879",
+          "parent_target_id": "page146_39869"
+        },
+        {
+          "id": "page146_40480",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 1,
+          "target": "Kennen vielfältiger literarischer Texte als Möglichkeit, Wünsche, Träume und Fantasie auszudrücken",
+          "remarks": "⇒ ästhetisches Empfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40480",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40482",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 2,
+          "target": "Märchen, Kinderbuch und andere literarische Texte",
+          "remarks": "Tiergeschichten, Ortssagen, Fabeln, Gedichte eigenes Kinderbuch vorstellen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40482",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40483",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "aktives, zielgerichtetes Zuhören",
+          "remarks": "Höraufgaben, Gedächtnistraining",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40483",
+          "parent_target_id": "page146_40480"
+        },
+        {
+          "id": "page146_40485",
+          "grade": "3/4",
+          "area_id": "page146_40056",
+          "area": "Lernbereich 7: Wünsche, Träume, Fantasie 40 Ustd.",
+          "level": 3,
+          "target": "Inhalt verstehen und wiedergeben",
+          "remarks": "szenisches Gestalten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40485",
+          "parent_target_id": "page146_40480"
+        }
+      ],
+      "candidate_assessment": "FSP1/2 ist der direkte Stufenbandanschluss. FSP3/4 bestätigt vergleichbare Hör- und Inhaltsanforderungen im literarischen Kontext, wird für diese Karte aber nicht zusätzlich als Band eingesetzt. Übergeordnete Operatoren: GS Kennen, FSP1/2 Einblick gewinnen; nicht identisch. Bemerkungen liefern Kontexte, keine zusätzlichen gleichwertigen Operatoren.",
+      "shared_object": "Ein gemeinsam gehörtes kurzes Märchen",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Den Sinn wesentlicher Aussagen eines gehörten bekannten Märchens erfassen, einen erarbeiteten Hörauftrag verstehen und die dazugehörige Information nach dem Hören unter Anleitung inhaltlich richtig sichern.",
+          "criterion": "Der verstandene Inhalt stimmt mit dem Gehörten überein; die gesicherte Information passt zum Hörauftrag. Damit werden Bedeutungsverstehen, gezieltes Zuhören und angeleitete Sicherung im erarbeiteten Kontext erkennbar. Das Wahrnehmen oder Unterscheiden von Lauten allein genügt nicht. Blickkontakt oder regungsloses Sitzen sind kein Pflichtnachweis; das konkrete Nachweisverfahren bestimmt die Lehrkraft."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Einen ersten Zugang zum gehörten Märchen als Ausdruck von Wünschen, Träumen oder Fantasie zeigen, zielgerichtet zuhören und einen wesentlichen Inhalt wiedergeben.",
+          "criterion": "Die Wiedergabe ist inhaltlich zutreffend und lässt einen erarbeiteten Wunsch-, Traum- oder Fantasiebezug erkennen. Ein selbstständig beherrschtes Hörstrategie- oder Sicherungsverfahren wird beim Einblick nicht verlangt."
+        }
+      ],
+      "operators_and_bands": {
+        "gs": "Kennen",
+        "fsp": "Einblick gewinnen",
+        "alignment": {
+          "relation": "same-band",
+          "gs_anchor_grade": "1/2",
+          "gs_curriculum_band": "1/2",
+          "fsp_curriculum_bands": [
+            "1/2"
+          ],
+          "basis": "GS-Klassenstufe/-band und FSP-Lehrplanband getrennt; FSP-Band ist kein Einzeljahrgang."
+        }
+      },
+      "user_decision": {
+        "date": "2026-11-03",
+        "instruction": "setze deinen vorschlag um",
+        "scope": "Umsetzung des zuvor erläuterten begrenzten literarischen Anschlusses. Kein Beleg einer amtlichen Bestätigung."
+      },
+      "uncertainty": "Für den ausdrücklich begrenzten Ausschnitt fachlich entschieden; Restumfang benannt."
+    }
+  ],
+  "app_version": "1.304",
+  "module_version": "DE-2026-11-03.1",
+  "counts": {
+    "newly_reviewed": 0,
+    "reviewed_total": 241,
+    "assigned_rows_reviewed_this_batch": 0,
+    "assigned_rows_reviewed_total": 130,
+    "cards": 178,
+    "uncovered": 136,
+    "uncovered_pending_individual_review": 0,
+    "documented_no_direct_connection": 125,
+    "documented_connection_uncertain": 0,
+    "revisited_rows_this_batch": 1,
+    "assigned_rows_pending_individual_review": 0,
+    "documented_overarching_connection_without_card": 11,
+    "uncertain_connections_resolved_this_batch": 1,
+    "source_rechecks_pending": 0,
+    "source_rechecks_completed_this_batch": 0
+  },
+  "next_id": null,
+  "complete": true,
+  "completion_scope": "GS Deutsch 1/2, 3, 4 zu FSP DE-HKS 1/2 und 3/4: 117 Zielblöcke und 371 Unterzielzeilen einschließlich dokumentierter Anschlussfragen; keine Rückwärts-Einzelprüfung und kein PDF-Auftrag.",
+  "source_verification": {
+    "official_urls": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+    ],
+    "checked_on": "2026-11-03",
+    "basis": "Aktueller main-Stand einschließlich Nutzer-Nachtrag; 150 verfügbare Basisdateien gegen GitHub-Blobs verifiziert. Gespeicherte amtliche Quellen und Inventuren abgeglichen, beide amtlichen Lehrplanseiten online erreichbar. Inhalt, Operatoren, Hierarchie, Stufenbänder und Bemerkungen getrennt. Kein neues amtliches Auslegungsdokument behauptet."
+  },
+  "reproduction": "batch_052_review.py/batch_052_cards.json, Refine-Hook nach Batch051 und vor Neuberechnung der Zeilenabdeckung. 186301 ausschließlich Kontextquelle; nur186303 zusätzlich als Karten-Unterziel. Abschlussangaben und Quelldatum im Generator aktualisiert.",
+  "validation": "PASS: 178 Deutschkarten,117 Zielblöcke,531 Quellen und313 eindeutige Anzeigetitel. Ausschließlich DE-015 fachlich verändert; alle IDs, Stufenbandrelationen und übrigen Karten erhalten. GS186303 als begrenzter literarischer Anschluss ergänzt;186301 ausschließlich Kontextquelle, weiterhin ohne Kartenabdeckung. Operatoren, Hierarchien, Bemerkungen und getrennte Feinziele/Kriterien geprüft. Keine Aufgaben-/Hilfsmittelvorschlagsfelder. Alle488 CSV-Zeilenbezüge gegen die Modulzuordnungen geprüft; bestehender fehlender DE-180-Verweis am Zielblock186879 korrigiert. CSV-Quelldaten unverändert; eine Unterzielentscheidung und eine Zielblockreferenz geändert.371 unterschiedliche Erstprüfungen unverändert,23 Anschlussfragen entschieden,0 offene Fragen/Quellen-Nachprüfungen.136 Unterziele ohne Karte=125 Nichtanschlüsse+11 übergreifende Teilanschlüsse;22 Zielblöcke ohne Karte separat. Sachunterricht, Quellenfassungen, Inventuren, Titeldatei und ID-Registry unverändert. Deutsch- und Titeldaten exakt eingebettet, drei JavaScript-Blöcke syntaktisch gültig. Gleichwertige Prüfungen zu check-deutsch.py und Pages-Aufbereitung zu prepare-pages.py im Speicher bestanden; schreibgeschützte lokale Umgebung, Python-Skripte nicht ausgeführt. Generator-Hook und Patchstruktur geprüft, kein vollständiger Python-Generatorlauf behauptet. Root und dist bytegleich mit App1.304, ModulDE-2026-11-03.1 und Datum03.11.2026.",
+  "publication": {
+    "status": "pending",
+    "url": "https://geafaellt.github.io/LernzielKompass/"
+  },
+  "followup_notes": [
+    "Keine neue Erstprüfung gezählt; 241+130=371 unverändert. Eine wiedergeprüfte Anschlussfrage entschieden. 136 Unterziele ohne Karte:125 Nichtanschlüsse+11 übergreifende Teilanschlüsse.22 übergeordnete Zielblöcke ohne Karte separat.",
+    "Aufgaben/Lernhandlungen und Hilfsmittel bleiben ausschließlich Lehrkraftentscheidung. Alle Karten-IDs und Sachunterricht-Daten erhalten.",
+    "Historische Berichte und hearing_clarification_2026-11-03.json bleiben als damaliger Stand bestehen; diese Entscheidung ersetzt deren offenen Status. Nach bestätigter Veröffentlichung regelmäßige Automation pausieren. PDF bleibt gesondert.",
+    "Regressionstest korrigiert einen bestehenden CSV-Verweis am übergeordneten GS4-Zielblock186879: DE-180 zusätzlich zu DE-024. Karte und Modul-Zielblock waren seit Batch049 korrekt; keine neue fachliche Zuordnung, keine neue geprüfte Unterzielzeile."
+  ]
+}

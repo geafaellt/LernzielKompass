@@ -279,6 +279,8 @@ from batch_050_review import refine as refine_batch050
 refine_batch050(connections)
 from batch_051_review import refine as refine_batch051
 refine_batch051(connections)
+from batch_052_review import refine as refine_batch052
+refine_batch052(connections)
 # Recompute coverage after refinements that may remove unsupported row links.
 usedrows={rid for c in connections for rid in c['gs_target_ids']}
 # Synchronize reviewed row coverage and new source anchors before assembling the audit.
@@ -340,6 +342,10 @@ for sid in ["Q-DE-page908_186899","Q-DE-page908_186901","Q-DE-page146_39934","Q-
 # DE-UZ-051 reviewed source dates.
 for sid in ["Q-DE-page908_186994","Q-DE-page908_186995","Q-DE-page146_40480","Q-DE-page146_40484","Q-DE-page146_40485","Q-DE-page908_186973","Q-DE-page908_186975","Q-DE-page908_186978","Q-DE-page146_40482","Q-DE-page908_186953","Q-DE-page908_186965","Q-DE-page908_186968","Q-DE-page146_40486","Q-DE-page908_186987","Q-DE-page908_186990","Q-DE-page146_40153","Q-DE-page146_40157","Q-DE-page146_40159","Q-DE-page146_40162","Q-DE-page146_40163","Q-DE-page908_186999","Q-DE-page146_40550","Q-DE-page146_40556","Q-DE-page146_40557","Q-DE-page146_40558","Q-DE-page146_40559","Q-DE-page146_40560","Q-DE-page908_187008","Q-DE-page908_187009","Q-DE-page908_187010","Q-DE-page146_39702","Q-DE-page146_39708","Q-DE-page146_39710","Q-DE-page146_39711","Q-DE-page146_39714","Q-DE-page908_187011","Q-DE-page908_187015","Q-DE-page146_40320","Q-DE-page146_40323","Q-DE-page908_186969","Q-DE-page146_40324","Q-DE-page146_40326","Q-DE-page146_40332","Q-DE-FSP-GRUNDLAGEN-MEDIENBILDUNG"]:
  sources[sid]['checked_on']='2026-11-02'
+source(grows['186301'], 'gs')
+# DE-UZ-052 source dates; intermediate context is evidence, not full coverage.
+for sid in ["Q-DE-page908_186299","Q-DE-page908_186301","Q-DE-page908_186303","Q-DE-page908_186305","Q-DE-page908_186307","Q-DE-page908_186310","Q-DE-page908_186312","Q-DE-page146_39869","Q-DE-page146_39876","Q-DE-page146_39879","Q-DE-page146_39874"]:
+ sources[sid]['checked_on']='2026-11-03'
 # Teacher-owned planning fields: never publish automatic task or aid suggestions.
 for card in connections:
  card.pop('task_suggestions', None)
@@ -370,6 +376,6 @@ source_list=list(sources.values())
 source_list.append({'id':'Q-DE-RSR-2025','title':'Sächsischer Rechtschreibrahmen für die Grundschule','version':'2025','url':'https://www.schulportal.sachsen.de/lplandb/material/513/JfY9HcZHEdq5jhm8t45J','checked_on':'2026-11-01'})
 for c in connections:
  if c['app_area'] in ['DE-page908_186313','DE-page908_186520','DE-page908_186831'] and 'Q-DE-RSR-2025' not in c['source_ids']:c['source_ids'].append('Q-DE-RSR-2025')
-module={'schema_version':'deutsch-1.0','version':'DE-2026-11-02.8','checked_on':'2026-11-02','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':['Alle 117 GS-Zielblöcke sind mit einem Erstabgleichsergebnis erfasst. Das ist kein abgeschlossener zielzeilenweiser Vollabgleich.','Nicht ausgewählte Unterziele sind als Restumfang nachvollziehbar; Einzelne Unterziele sind noch nicht abschließend gegengeprüft.','Lehrplanziel, Unterziel und Bemerkung sind in den Inventuren getrennt. Didaktische Vorschläge sind als solche markiert.']}
+module={'schema_version':'deutsch-1.0','version':'DE-2026-11-03.1','checked_on':'2026-11-03','status':'Abgleichsentwurf zur fachlichen Erprobung','scope':'GS Deutsch 1/2, 3, 4 (2026) ↔ FSP DE-HKS 1/2, 3/4 (2019). Keine Sekundarstufenanschlüsse.','sources':source_list,'connections':connections,'target_audit':audit,'areas':[{'id':'DE-'+a['id'],'grades':a['grade'].split('/'),'title':a['title'].replace('Lernbereich: ',''),'grade_band':a['grade']} for a in GS['areas']], 'inventory_counts':{'gs_rows':len(GS['rows']),'gs_goal_blocks':len(audit),'fsp_rows':len(FSP['rows'])},'limitations':["Alle 117 GS-Zielblöcke und alle 371 GS-Unterzielzeilen sind im dokumentierten Prüfumfang einzeln geprüft; die erfassten Anschlussfragen sind entschieden.","Die Prüfung ist keine Behauptung vollständiger Lehrplanabdeckung: 125 Nichtanschlüsse und 11 übergreifende Teilanschlüsse ohne Karte sowie die Restumfänge begrenzter Karten bleiben dokumentiert.","Lehrplanziel, Unterziel und Bemerkung bleiben getrennt. Fachliche Zuordnungen und didaktische Feinziele/Kriterien sind keine amtliche Freigabe. Aufgaben und Hilfsmittel bestimmt ausschließlich die Lehrkraft."]}
 (ROOT/'deutsch_module.json').write_text(json.dumps(module,ensure_ascii=False,indent=2))
 print(len(connections),'Karten;',len(audit),'Zielblöcke;',len(exclusions),'Abgrenzungen')
