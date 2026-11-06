@@ -45,6 +45,10 @@
     "regression": "Fortsetzungspunkt wird anhand des offenen CSV-Prüfstatus geprüft. Ein als Kontext verwendeter Quellenanker kann weiterhin offene Zielausschnitte enthalten. Kontextanker erhalten dadurch keinen Kartenabdeckungsstatus."
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "commit": "18c419b032fe307b36dcf365165bb911ce87a838",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42284869647",
+    "live_html": "bytegleich mit lokal geprüfter App1.307",
+    "live_browser": "Alle zwölf Karten, Klassenfilter, Quellenlinks, Operatoren und Fachentwürfe einschließlich Neuladen bestanden."
   }
 }
