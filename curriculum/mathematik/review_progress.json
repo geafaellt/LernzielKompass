@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-001",
+  "last_batch": "MA-002",
   "complete": false,
   "counts": {
-    "cards": 7,
-    "cross_band": 1
+    "cards": 11,
+    "cross_band": 2
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -507,10 +507,197 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2292",
       "version": "2026"
+    },
+    "page912_1833": {
+      "id": "page912_1833",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1833",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1833",
+      "version": "2026"
+    },
+    "page912_1836": {
+      "id": "page912_1836",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1836",
+      "version": "2026"
+    },
+    "page912_187042": {
+      "id": "page912_187042",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187042",
+      "version": "2026"
+    },
+    "page139_37804": {
+      "id": "page139_37804",
+      "grade": "1/2",
+      "area_id": "MA-page139_37741",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804",
+      "version": "2019"
+    },
+    "page139_37811": {
+      "id": "page139_37811",
+      "grade": "1/2",
+      "area_id": "MA-page139_37741",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "level": 2,
+      "parent_target_id": "page139_37804",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37811",
+      "version": "2019"
+    },
+    "page139_37817": {
+      "id": "page139_37817",
+      "grade": "1/2",
+      "area_id": "MA-page139_37741",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37817",
+      "version": "2019"
+    },
+    "page912_187044": {
+      "id": "page912_187044",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187044",
+      "version": "2026"
+    },
+    "page139_37813": {
+      "id": "page139_37813",
+      "grade": "1/2",
+      "area_id": "MA-page139_37741",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37813",
+      "version": "2019"
+    },
+    "page912_1835": {
+      "id": "page912_1835",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1835",
+      "version": "2026"
+    },
+    "page912_187040": {
+      "id": "page912_187040",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187040",
+      "version": "2026"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "version": "2019"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937",
+      "version": "2019"
+    },
+    "page139_37941": {
+      "id": "page139_37941",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941",
+      "version": "2019"
+    },
+    "page139_37944": {
+      "id": "page139_37944",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37944",
+      "version": "2019"
+    },
+    "page912_187045": {
+      "id": "page912_187045",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187045",
+      "version": "2026"
+    },
+    "page139_35435": {
+      "id": "page139_35435",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 1,
+      "parent_target_id": "page139_35435",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35435",
+      "version": "2019"
+    },
+    "page139_35437": {
+      "id": "page139_35437",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35437",
+      "version": "2019"
     }
   },
-  "next_id": "page912_1833",
-  "next_step": "GS 1/2 Zahl und Operation: Zahldarstellungen bis 100 gegen FSP 1/2 und 3/4 prüfen und Zahlenraumgrenzen abgrenzen.",
+  "next_id": "page912_187038",
+  "next_step": "GS 1/2 Lesen und Sprechen von Zahlen und Zahlwörtern sowie Schreiben von Ziffern, Zahlen und Zahlwörtern (187038/187039) gegen beide FSP-Bänder prüfen. Bemerkungen von verbindlichen Zielzeilen unterscheiden.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -519,6 +706,16 @@
         "page139_38015"
       ],
       "decision": "Muster und Ornamente in FSP 1/2 bleiben fachlicher Kontext. Der Zieltext zu Spiegelachsen ist in FSP 3/4 belegt (page139_35434)."
+    },
+    "MA-011": {
+      "same_band_candidate_ids": [
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863"
+      ],
+      "decision": "Strukturieren und Rechnen in FSP 1/2 belegen nicht ausdrücklich das Verdoppeln und Halbieren. Für diesen Ausschnitt wird der explizite FSP3/4-Anker 35437 verwendet."
     }
-  }
+  },
+  "last_review_file": "review_batch_002.json"
 }

@@ -1,0 +1,61 @@
+{
+  "id": "MA-002",
+  "date": "2026-11-06",
+  "source_checked_online": true,
+  "scope": "Ausgewählte Unterziele des GS1/2-Zielblocks page912_1833",
+  "new_cards": [
+    "MA-008",
+    "MA-009",
+    "MA-010",
+    "MA-011"
+  ],
+  "same_band_preference": "Drei der vier neuen Karten verwenden FSP1/2. FSP3/4 wurde für die explizite Verdopplungs-/Halbierungszeile gewählt.",
+  "fsp_candidates": [
+    {
+      "ids": [
+        "page139_37804",
+        "page139_37813",
+        "page139_37816",
+        "page139_37817"
+      ],
+      "result": "Mengenvergleich und strukturierte Mengen bis sechs sind stufenbandpassend belegt."
+    },
+    {
+      "ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37941",
+        "page139_37944"
+      ],
+      "result": "Anzahlbestimmung und Zahl-Menge-Zuordnung im Naturkontext sind stufenbandpassend belegt."
+    },
+    {
+      "ids": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35466",
+        "page139_35468"
+      ],
+      "result": "FSP3/4 nennt Zahlen bis 100. Lesen und Schreiben steht rechts als Bemerkung. Separate Prüfung für GS187038/187039 folgt."
+    },
+    {
+      "ids": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_35435",
+        "page139_35437"
+      ],
+      "result": "Ausdrücklicher Verdopplungs-/Halbierungsanker in FSP3/4. Allgemeine Rechenhandlungen in FSP1/2 erzeugen keine automatische Zuordnung."
+    }
+  ],
+  "limits": [
+    "Keine vollständige Freigabe des GS-Zielblocks 1833.",
+    "Keine Übertragung der GS-Zahlenraumgrenze auf FSP-Ziele ohne eigenen Beleg.",
+    "Keine Aufgaben- oder Hilfsmittelvorschläge."
+  ],
+  "tests": {
+    "data": "PASS: check-deutsch.py, prepare-pages.py und check-mathematik.py. Elf Mathematikkarten, 49 Quellenanker.",
+    "browser": "PASS: alle elf Karten, Klassenfilter 1–4, Quellenlinks, Operatoren, leere Bereiche, Fachentwürfe und Wiederherstellung nach Neuladen. Feinzielübernahme für beide Bildungsgänge ohne Befüllung von Aufgaben- und Hilfsmittelfeldern."
+  }
+}
