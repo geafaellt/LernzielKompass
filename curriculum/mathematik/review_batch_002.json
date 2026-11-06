@@ -57,5 +57,12 @@
   "tests": {
     "data": "PASS: check-deutsch.py, prepare-pages.py und check-mathematik.py. Elf Mathematikkarten, 49 Quellenanker.",
     "browser": "PASS: alle elf Karten, Klassenfilter 1–4, Quellenlinks, Operatoren, leere Bereiche, Fachentwürfe und Wiederherstellung nach Neuladen. Feinzielübernahme für beide Bildungsgänge ohne Befüllung von Aufgaben- und Hilfsmittelfeldern."
+  },
+  "publication": {
+    "commit": "b371ecc590d4de7a62922eafbeabfa08c4fbdd25",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42272284490",
+    "status": "success",
+    "live_html": "bytegleich mit der lokal geprüften App 1.306",
+    "live_browser": "Alle elf Karten, Klassenfilter 1–4, leere Bereiche, Quellenlinks, Operatoren, Fachentwürfe und Wiederherstellung nach Neuladen bestanden."
   }
 }
