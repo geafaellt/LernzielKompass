@@ -2,9 +2,9 @@
 
 Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.304** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.305** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
-Diese Übersicht wurde am 03.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
+Diese Übersicht wurde am 06.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
 **Die dokumentierte Deutsch-Einzelprüfung ist einschließlich der Anschlussfragen abgeschlossen.** Die App bleibt ein Instrument zur fachlichen Erprobung. Der Abschluss des festgelegten Prüfumfangs bedeutet weder vollständige Lehrplanabdeckung noch amtliche Freigabe. Die Rückwärts-Einzelprüfung FSP → GS und der PDF-Download gehören nicht zu diesem Abschluss.
 
@@ -14,7 +14,8 @@ Diese Übersicht wurde am 03.11.2026 mit den Projektnachweisen abgeglichen. Maß
 | --- | --- | --- |
 | Sachunterricht, Grundschule 1–4 | 135 Anschlusskarten; GS Sachunterricht ↔ FSP Deutsch-Heimatkunde/Sachunterricht, ausschließlich Stufenbänder 1/2 und 3/4; Datenbasis v2.46 | Der dokumentierte ZA-Prüfumfang wurde bearbeitet; die Projektverantwortliche hat die 21 ZA-Punkte am 23.10.2026 inhaltlich freigegeben. Das ist keine amtliche Freigabe und keine Aussage vollständiger Zieldeckung. Der Bestand bleibt bei den Deutsch-Erweiterungen unverändert. |
 | Deutsch, Grundschule 1–4 | 178 Anschlusskarten; GS 1/2, 3 und 4 ↔ FSP Deutsch-Heimatkunde/Sachunterricht 1/2 und 3/4 | Quellenbasierter Abgleichsentwurf; dokumentierte Einzelprüfung einschließlich Anschlussfragen abgeschlossen. Grenzen und Restumfang siehe unten. |
-| Mathematik, Oberschule und weitere Fächer | In dieser veröffentlichten Fassung keine freigeschalteten Vergleiche | Mathematik und Oberschule sind in der Auswahl als „noch nicht geprüft“ deaktiviert. Sie gehören zum Entwicklungsziel, nicht zum bereits verfügbaren Prüfbestand. |
+| Mathematik, Grundschule 1–4 | Sieben begrenzte Anschlüsse zwischen GS 1/2, 3, 4 und FSP Lernen Mathematik 1/2, 3/4 | Erster Prüfstand mit sechs stufenbandpassenden und einem stufenübergreifenden Anschluss. Weitere Zielzeilen bleiben offen. [Quellen und Prüfstand](curriculum/mathematik/README.md) |
+| Oberschule und weitere Fächer | Weitere Entwicklungsbereiche | Die Oberschule bleibt in der Auswahl deaktiviert. |
 
 Die FSP-Stufenbänder werden nicht als Einzelklassen interpretiert. Stufenübergreifende Zuordnungen und notwendige Wahlbereiche sind zu beachten. Sekundarstufenanschlüsse gehören nicht zum aktuellen Deutsch-Abgleich.
 
@@ -89,12 +90,14 @@ Für Änderungen an der App ist `dist/index.html` die Quelldatei; `index.html` i
 ```sh
 python3 scripts/check-deutsch.py
 python3 scripts/prepare-pages.py
+python3 scripts/check-mathematik.py
 ```
 
 Anschließend `dist/index.html` und `index.html` gemeinsam committen. `prepare-pages.py` synchronisiert die Dateien und setzt das Veröffentlichungsdatum in Berliner Zeit. Für die Neuerzeugung der Deutschdaten gilt die Reproduktionsfolge in der [Deutsch-Dokumentation](curriculum/deutsch/README.md). Reine Audit- oder README-Änderungen erfordern keine neue App-Version. Die verbindlichen Arbeitsregeln stehen in [AGENTS.md](AGENTS.md).
 
 ## Prüfnachweise zum Nachlesen
 
+- [Mathematik: erster Prüfstand, Quellen und Fortsetzung](curriculum/mathematik/README.md)
 - [Aktueller Deutsch-Fortschritt und nächster Prüfschritt](curriculum/deutsch/review_progress.json)
 - [Deutsch-Zeilenprüfung mit Kartenbezug und Restumfang](curriculum/deutsch/row_audit.csv)
 - [Deutsch-Prüfverlauf, technische Nachweise und Reproduktion](curriculum/deutsch/README.md) – chronologisch fortgeschrieben; ältere Abschnitte beschreiben historische Stände.

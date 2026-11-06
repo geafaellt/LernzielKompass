@@ -1,0 +1,524 @@
+{
+  "last_batch": "MA-001",
+  "complete": false,
+  "counts": {
+    "cards": 7,
+    "cross_band": 1
+  },
+  "source_plans": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "fsp_areas": [
+    {
+      "id": "MA-page139_37741",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37744",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 2: Die Welt um mich herum",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37745",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 3: Natur entdecken und erleben",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37746",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37747",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Wahlbereich 1: Im Märchenland",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37748",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Wahlbereich 2: Sport und Spiel",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37749",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Wahlbereich 3: Muster",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_37750",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Wahlbereich 4: Zahlenzauberei",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35416",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Lernbereich 1: Einer braucht den anderen",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35417",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Lernbereich 2: Die Welt um mich herum",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35418",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Lernbereich 3: Natur entdecken und erleben",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35419",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35420",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Wahlbereich 1: Einkaufsbummel",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35421",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Wahlbereich 2: Zahlenzauberei",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35422",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Wahlbereich 3: Zahlen in der Tierwelt",
+      "side": "fsp"
+    },
+    {
+      "id": "MA-page139_35423",
+      "grades": [
+        "3",
+        "4"
+      ],
+      "title": "Wahlbereich 4: Wir gehen auf Reisen",
+      "side": "fsp"
+    }
+  ],
+  "reviewed_anchors": {
+    "page912_1765": {
+      "id": "page912_1765",
+      "grade": "1/2",
+      "area_id": "MA-page912_1749",
+      "area": "Lernbereich 1: Raum und Form",
+      "level": 1,
+      "parent_target_id": "page912_1765",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1765",
+      "version": "2026"
+    },
+    "page912_1766": {
+      "id": "page912_1766",
+      "grade": "1/2",
+      "area_id": "MA-page912_1749",
+      "area": "Lernbereich 1: Raum und Form",
+      "level": 2,
+      "parent_target_id": "page912_1765",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1766",
+      "version": "2026"
+    },
+    "page912_1774": {
+      "id": "page912_1774",
+      "grade": "1/2",
+      "area_id": "MA-page912_1749",
+      "area": "Lernbereich 1: Raum und Form",
+      "level": 3,
+      "parent_target_id": "page912_1765",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1774",
+      "version": "2026"
+    },
+    "page139_37779": {
+      "id": "page139_37779",
+      "grade": "1/2",
+      "area_id": "MA-page139_37741",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "level": 1,
+      "parent_target_id": "page139_37779",
+      "operator": "Übertragen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37779",
+      "version": "2019"
+    },
+    "page139_37786": {
+      "id": "page139_37786",
+      "grade": "1/2",
+      "area_id": "MA-page139_37741",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+      "level": 2,
+      "parent_target_id": "page139_37779",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37786",
+      "version": "2019"
+    },
+    "page912_187012": {
+      "id": "page912_187012",
+      "grade": "1/2",
+      "area_id": "MA-page912_1749",
+      "area": "Lernbereich 1: Raum und Form",
+      "level": 1,
+      "parent_target_id": "page912_187012",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187012",
+      "version": "2026"
+    },
+    "page912_187025": {
+      "id": "page912_187025",
+      "grade": "1/2",
+      "area_id": "MA-page912_1749",
+      "area": "Lernbereich 1: Raum und Form",
+      "level": 2,
+      "parent_target_id": "page912_187012",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187025",
+      "version": "2026"
+    },
+    "page139_35432": {
+      "id": "page139_35432",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432",
+      "version": "2019"
+    },
+    "page139_35434": {
+      "id": "page139_35434",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434",
+      "version": "2019"
+    },
+    "page912_1912": {
+      "id": "page912_1912",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 1,
+      "parent_target_id": "page912_1912",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1912",
+      "version": "2026"
+    },
+    "page912_1913": {
+      "id": "page912_1913",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 2,
+      "parent_target_id": "page912_1912",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1913",
+      "version": "2026"
+    },
+    "page912_1915": {
+      "id": "page912_1915",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 3,
+      "parent_target_id": "page912_1912",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1915",
+      "version": "2026"
+    },
+    "page139_37913": {
+      "id": "page139_37913",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_37913",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37913",
+      "version": "2019"
+    },
+    "page139_37921": {
+      "id": "page139_37921",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37913",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37921",
+      "version": "2019"
+    },
+    "page139_37926": {
+      "id": "page139_37926",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37913",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37926",
+      "version": "2019"
+    },
+    "page912_1922": {
+      "id": "page912_1922",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 1,
+      "parent_target_id": "page912_1922",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1922",
+      "version": "2026"
+    },
+    "page912_1923": {
+      "id": "page912_1923",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1923",
+      "version": "2026"
+    },
+    "page912_187114": {
+      "id": "page912_187114",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 3,
+      "parent_target_id": "page912_1922",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187114",
+      "version": "2026"
+    },
+    "page139_37961": {
+      "id": "page139_37961",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961",
+      "version": "2019"
+    },
+    "page139_37967": {
+      "id": "page139_37967",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967",
+      "version": "2019"
+    },
+    "page139_37974": {
+      "id": "page139_37974",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37961",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974",
+      "version": "2019"
+    },
+    "page912_2068": {
+      "id": "page912_2068",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_2068",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2068",
+      "version": "2026"
+    },
+    "page912_2069": {
+      "id": "page912_2069",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_2068",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2069",
+      "version": "2026"
+    },
+    "page139_35498": {
+      "id": "page139_35498",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35498",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35498",
+      "version": "2019"
+    },
+    "page139_35499": {
+      "id": "page139_35499",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_35498",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35499",
+      "version": "2019"
+    },
+    "page912_187247": {
+      "id": "page912_187247",
+      "grade": "3",
+      "area_id": "MA-page912_2000",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 1,
+      "parent_target_id": "page912_187247",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187247",
+      "version": "2026"
+    },
+    "page912_187252": {
+      "id": "page912_187252",
+      "grade": "3",
+      "area_id": "MA-page912_2000",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 2,
+      "parent_target_id": "page912_187247",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187252",
+      "version": "2026"
+    },
+    "page912_187253": {
+      "id": "page912_187253",
+      "grade": "3",
+      "area_id": "MA-page912_2000",
+      "area": "Lernbereich 3: Größen und Messen",
+      "level": 2,
+      "parent_target_id": "page912_187247",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187253",
+      "version": "2026"
+    },
+    "page139_35539": {
+      "id": "page139_35539",
+      "grade": "3/4",
+      "area_id": "MA-page139_35419",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "level": 1,
+      "parent_target_id": "page139_35539",
+      "operator": "Anwenden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539",
+      "version": "2019"
+    },
+    "page139_35549": {
+      "id": "page139_35549",
+      "grade": "3/4",
+      "area_id": "MA-page139_35419",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35549",
+      "version": "2019"
+    },
+    "page912_2291": {
+      "id": "page912_2291",
+      "grade": "4",
+      "area_id": "MA-page912_2202",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_2291",
+      "operator": "Anwenden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2291",
+      "version": "2026"
+    },
+    "page912_2292": {
+      "id": "page912_2292",
+      "grade": "4",
+      "area_id": "MA-page912_2202",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_2291",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2292",
+      "version": "2026"
+    }
+  },
+  "next_id": "page912_1833",
+  "next_step": "GS 1/2 Zahl und Operation: Zahldarstellungen bis 100 gegen FSP 1/2 und 3/4 prüfen und Zahlenraumgrenzen abgrenzen.",
+  "cross_band_review": {
+    "MA-002": {
+      "same_band_candidate_ids": [
+        "page139_37984",
+        "page139_38014",
+        "page139_38015"
+      ],
+      "decision": "Muster und Ornamente in FSP 1/2 bleiben fachlicher Kontext. Der Zieltext zu Spiegelachsen ist in FSP 3/4 belegt (page139_35434)."
+    }
+  }
+}

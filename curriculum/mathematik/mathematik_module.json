@@ -1,0 +1,660 @@
+{
+  "schema_version": "mathematik-1.0",
+  "version": "MA-2026-11-06.1",
+  "checked_on": "2026-11-06",
+  "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
+  "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
+  "areas": [
+    {
+      "id": "MA-page912_1749",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 1: Raum und Form",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_1751",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 2: Zahl und Operation",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_1753",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 3: Größen und Messen",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_1755",
+      "grades": [
+        "1",
+        "2"
+      ],
+      "title": "Lernbereich 4: Daten und Zufall",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_1998",
+      "grades": [
+        "3"
+      ],
+      "title": "Lernbereich 1: Raum und Form",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_1999",
+      "grades": [
+        "3"
+      ],
+      "title": "Lernbereich 2: Zahl und Operation",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_2000",
+      "grades": [
+        "3"
+      ],
+      "title": "Lernbereich 3: Größen und Messen",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_2001",
+      "grades": [
+        "3"
+      ],
+      "title": "Lernbereich 4: Daten und Zufall",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_2201",
+      "grades": [
+        "4"
+      ],
+      "title": "Lernbereich 1: Raum und Form",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_2202",
+      "grades": [
+        "4"
+      ],
+      "title": "Lernbereich 2: Zahl und Operation",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_2203",
+      "grades": [
+        "4"
+      ],
+      "title": "Lernbereich 3: Größen und Messen",
+      "side": "gs"
+    },
+    {
+      "id": "MA-page912_2204",
+      "grades": [
+        "4"
+      ],
+      "title": "Lernbereich 4: Daten und Zufall",
+      "side": "gs"
+    }
+  ],
+  "sources": [
+    {
+      "id": "Q-MA-page912_1765",
+      "title": "GS Mathematik 1/2 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1765",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1766",
+      "title": "GS Mathematik 1/2 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1766",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1774",
+      "title": "GS Mathematik 1/2 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1774",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37779",
+      "title": "FSP Mathematik 1/2 · Lernbereich 1: Jeder ist etwas Besonderes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37779",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37786",
+      "title": "FSP Mathematik 1/2 · Lernbereich 1: Jeder ist etwas Besonderes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37786",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187012",
+      "title": "GS Mathematik 1/2 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187012",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187025",
+      "title": "GS Mathematik 1/2 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187025",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35432",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35434",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1912",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1912",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1913",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1913",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1915",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1915",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37913",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37913",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37921",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37921",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37926",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37926",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1922",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1922",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1923",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1923",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187114",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187114",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37961",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37967",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37974",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_2068",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2068",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2069",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2069",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35498",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35498",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35499",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35499",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187247",
+      "title": "GS Mathematik 3 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187247",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187252",
+      "title": "GS Mathematik 3 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187252",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187253",
+      "title": "GS Mathematik 3 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187253",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35539",
+      "title": "FSP Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35549",
+      "title": "FSP Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35549",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_2291",
+      "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2291",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2292",
+      "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2292",
+      "version": "2026"
+    }
+  ],
+  "connections": [
+    {
+      "id": "MA-001",
+      "subject": "Mathematik",
+      "theme": "Räumliche Lage von Objekten",
+      "app_area": "MA-page912_1749",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 1: Raum und Form · Lagebeziehungen zwischen Objekten beschreiben",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 1: Jeder ist etwas Besonderes · Lagebeziehungen zwischen Objekten im Schulkontext",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Kennen · FSP: Übertragen. Der gemeinsame Ausschnitt betrifft die relative Lage von Objekten. Der FSP bettet sie in die Orientierung in der Schule ein. Körperbezug und Würfelgebäude der GS liegen außerhalb dieses Anschlusses.",
+      "gs_target_ids": [
+        "page912_1765",
+        "page912_1766",
+        "page912_1774"
+      ],
+      "fsp_target_ids": [
+        "page139_37779",
+        "page139_37786"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1765",
+        "Q-MA-page912_1766",
+        "Q-MA-page912_1774",
+        "Q-MA-page139_37779",
+        "Q-MA-page139_37786"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Der gemeinsame Ausschnitt betrifft die relative Lage von Objekten. Der FSP bettet sie in die Orientierung in der Schule ein. Körperbezug und Würfelgebäude der GS liegen außerhalb dieses Anschlusses.",
+      "shared_object_suggestion": "Räumliche Lage von Objekten",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind beschreibt die Lage eines Objekts relativ zu einem anderen.",
+          "criterion": "Bezugsobjekt und Lagebegriff passen zur räumlichen Anordnung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind überträgt eine bekannte Lagebeziehung auf Objekte im Schulraum.",
+          "criterion": "Die angegebene relative Lage stimmt für die Objekte im Schulraum."
+        }
+      ]
+    },
+    {
+      "id": "MA-002",
+      "subject": "Mathematik",
+      "theme": "Spiegelachsen ebener Figuren",
+      "app_area": "MA-page912_1749",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 1: Raum und Form · Spiegelachsen in ebenen Figuren erkennen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Spiegelachse einer Figur als Trennlinie finden",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Kennen. Stufenübergreifend von GS 1/2 zu FSP 3/4. FSP 1/2 nennt Muster und Ornamente, der ausdrückliche Spiegelachsenbezug steht in 3/4. Der Anschluss umfasst das Erkennen der Achse. Geradenspiegelung und systematisches Einzeichnen bleiben offen.",
+      "gs_target_ids": [
+        "page912_187012",
+        "page912_187025"
+      ],
+      "fsp_target_ids": [
+        "page139_35432",
+        "page139_35434"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187012",
+        "Q-MA-page912_187025",
+        "Q-MA-page139_35432",
+        "Q-MA-page139_35434"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. FSP 1/2 nennt Muster und Ornamente, der ausdrückliche Spiegelachsenbezug steht in 3/4. Der Anschluss umfasst das Erkennen der Achse. Geradenspiegelung und systematisches Einzeichnen bleiben offen.",
+      "shared_object_suggestion": "Spiegelachsen ebener Figuren",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt eine Spiegelachse in einer ebenen Figur.",
+          "criterion": "Die erkannte Achse trennt die Figur in spiegelbildlich zueinander passende Teile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt die Spiegelachse als Trennlinie einer symmetrischen Figur.",
+          "criterion": "Die beiden durch die benannte Linie bestimmten Teile sind Spiegelbilder."
+        }
+      ]
+    },
+    {
+      "id": "MA-003",
+      "subject": "Mathematik",
+      "theme": "Geldbeträge in Euro und Cent",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Geldbeträge in Euro oder Cent vergleichen und ordnen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Geldbeträge vergleichen und ordnen, Einheiten Euro und Cent verwenden",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Der Ausschnitt umfasst Vergleiche innerhalb derselben Einheit. Gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen mit Geldbeträgen werden hier nicht abgeglichen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_1913",
+        "page912_1915"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_1913",
+        "Q-MA-page912_1915",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37926"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Der Ausschnitt umfasst Vergleiche innerhalb derselben Einheit. Gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen mit Geldbeträgen werden hier nicht abgeglichen.",
+      "shared_object_suggestion": "Geldbeträge in Euro und Cent",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind ordnet Geldbeträge, die in derselben Einheit angegeben sind.",
+          "criterion": "Die Reihenfolge entspricht dem Wert der Geldbeträge."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind unterscheidet größere und kleinere Geldbeträge innerhalb einer Einheit.",
+          "criterion": "Der größere beziehungsweise kleinere Betrag wird dem tatsächlichen Wert entsprechend erkannt."
+        }
+      ]
+    },
+    {
+      "id": "MA-004",
+      "subject": "Mathematik",
+      "theme": "Längen in Metern",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Längen in Metern vergleichen und ordnen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Längen im Naturkontext vergleichen und ordnen, Maßeinheit Meter",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Der gemeinsame Ausschnitt umfasst Vergleiche von Längen in Metern. Weitere Einheiten, Umrechnungen und Sachsituationen mit Längen bleiben gesondert zu prüfen.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_1923",
+        "page912_187114"
+      ],
+      "fsp_target_ids": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_1923",
+        "Q-MA-page912_187114",
+        "Q-MA-page139_37961",
+        "Q-MA-page139_37967",
+        "Q-MA-page139_37974"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Der gemeinsame Ausschnitt umfasst Vergleiche von Längen in Metern. Weitere Einheiten, Umrechnungen und Sachsituationen mit Längen bleiben gesondert zu prüfen.",
+      "shared_object_suggestion": "Längen in Metern",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind ordnet in Metern angegebene Längen.",
+          "criterion": "Die Reihenfolge entspricht der Länge der verglichenen Strecken."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht Längen in Metern im Naturkontext.",
+          "criterion": "Die als länger oder kürzer bezeichnete Strecke stimmt mit den Längenangaben überein."
+        }
+      ]
+    },
+    {
+      "id": "MA-005",
+      "subject": "Mathematik",
+      "theme": "Schriftliches Addieren zweier Summanden",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 2: Zahl und Operation · Schriftliche Addition, auch mit Übertrag",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Schriftliche Addition mit zwei Summanden, auch mit Übertrag",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Gemeinsam belegt ist das schriftliche Addieren zweier Summanden einschließlich Übertrag. Der dritte Summand und die gesamte GS-Zahlenraumforderung sind nicht mit diesem FSP-Ausschnitt gleichzusetzen.",
+      "gs_target_ids": [
+        "page912_2068",
+        "page912_2069"
+      ],
+      "fsp_target_ids": [
+        "page139_35498",
+        "page139_35499"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2068",
+        "Q-MA-page912_2069",
+        "Q-MA-page139_35498",
+        "Q-MA-page139_35499"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Gemeinsam belegt ist das schriftliche Addieren zweier Summanden einschließlich Übertrag. Der dritte Summand und die gesamte GS-Zahlenraumforderung sind nicht mit diesem FSP-Ausschnitt gleichzusetzen.",
+      "shared_object_suggestion": "Schriftliches Addieren zweier Summanden",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei Summanden mit Übertrag.",
+          "criterion": "Die Stellen sind richtig zugeordnet, der Übertrag wird berücksichtigt und die Summe stimmt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind kennt den Ablauf der schriftlichen Addition zweier Summanden mit Übertrag.",
+          "criterion": "Die Ziffern sind stellenrichtig zugeordnet, der Übertrag ist berücksichtigt und das Ergebnis stimmt."
+        }
+      ]
+    },
+    {
+      "id": "MA-006",
+      "subject": "Mathematik",
+      "theme": "Minutengenaue Uhrzeiten",
+      "app_area": "MA-page912_2000",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 3: Größen und Messen · Zeitpunkte minutengenau erfassen und ablesen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Uhrzeiten minutengenau im Zusammenhang der eigenen Zeitplanung ablesen",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Beherrschen · FSP: Anwenden. Gemeinsam belegt ist das minutengenaue Ablesen von Zeitpunkten. GS fordert routinierten Umgang. Der FSP verankert das Ablesen in der eigenen Zeitplanung. Ordnen von Zeitpunkten und Rechnen mit Zeitspannen bleiben gesonderte Ausschnitte.",
+      "gs_target_ids": [
+        "page912_187247",
+        "page912_187252",
+        "page912_187253"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35549"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187247",
+        "Q-MA-page912_187252",
+        "Q-MA-page912_187253",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35549"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Gemeinsam belegt ist das minutengenaue Ablesen von Zeitpunkten. GS fordert routinierten Umgang. Der FSP verankert das Ablesen in der eigenen Zeitplanung. Ordnen von Zeitpunkten und Rechnen mit Zeitspannen bleiben gesonderte Ausschnitte.",
+      "shared_object_suggestion": "Minutengenaue Uhrzeiten",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind liest Uhrzeiten sicher minutengenau ab.",
+          "criterion": "Stunde und Minute stimmen mit der abgelesenen Uhrzeit überein."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind nutzt die minutengenau abgelesene Uhrzeit zur zeitlichen Orientierung im eigenen Tagesablauf.",
+          "criterion": "Stunde und Minute sind richtig bestimmt und der betreffende Zeitpunkt ist im Tagesablauf richtig eingeordnet."
+        }
+      ]
+    },
+    {
+      "id": "MA-007",
+      "subject": "Mathematik",
+      "theme": "Schriftliche Addition als Grundlage in Klasse 4",
+      "app_area": "MA-page912_2202",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 4 · Lernbereich 2: Zahl und Operation · Schriftliche Addition als Teil der Verfahrensanwendung bis 1 000 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Schriftliche Addition mit zwei Summanden, auch mit Übertrag",
+      "gs_operator": "Anwenden",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Anwenden · FSP: Kennen. Der Anschluss liegt im schriftlichen Verfahren mit zwei Summanden. Die GS verlangt Anwendung im größeren Zahlenraum, der FSP Kennen des Verfahrens. Der FSP-Beleg stützt weder den GS-Zahlenraum bis 1 000 000 noch den dritten Summanden.",
+      "gs_target_ids": [
+        "page912_2291",
+        "page912_2292"
+      ],
+      "fsp_target_ids": [
+        "page139_35498",
+        "page139_35499"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2291",
+        "Q-MA-page912_2292",
+        "Q-MA-page139_35498",
+        "Q-MA-page139_35499"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "4",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Der Anschluss liegt im schriftlichen Verfahren mit zwei Summanden. Die GS verlangt Anwendung im größeren Zahlenraum, der FSP Kennen des Verfahrens. Der FSP-Beleg stützt weder den GS-Zahlenraum bis 1 000 000 noch den dritten Summanden.",
+      "shared_object_suggestion": "Schriftliche Addition als Grundlage in Klasse 4",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind wendet das schriftliche Additionsverfahren bei zwei Summanden im GS-Zahlenraum bis 1 000 000 an.",
+          "criterion": "Stellenzuordnung, Überträge und Ergebnis sind im jeweiligen Zahlenraum korrekt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind kennt die schriftliche Addition zweier Summanden im FSP-Kontext.",
+          "criterion": "Stellenzuordnung und ein erforderlicher Übertrag sind korrekt, die Summe stimmt."
+        }
+      ]
+    }
+  ]
+}
