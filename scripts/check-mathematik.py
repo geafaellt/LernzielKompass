@@ -1,4 +1,5 @@
 """Check mathematics source anchors, stage bands and the published payload."""
+import csv
 import json
 import re
 from pathlib import Path
@@ -64,5 +65,18 @@ for card in cards:
     used_sources.update(expected_sources)
 
 assert used_anchors == set(anchors) and used_sources == set(sources)
-assert progress['complete'] or progress['next_id'] not in anchors and progress['next_step']
+with (folder / 'row_audit.csv').open(newline='') as audit_file:
+    audit_rows = list(csv.DictReader(audit_file))
+audit = {row['Ziel-ID']: row for row in audit_rows}
+assert len(audit) == len(audit_rows), 'Duplicate audit row'
+if not progress['complete']:
+    assert progress['next_step']
+    next_row = audit.get(progress['next_id'])
+    assert next_row and 'offen' in next_row['Prüfstatus'], 'Next row must remain open'
+for card in cards:
+    context_ids = card.get('evidence_classification', {}).get('context_only_gs_ids', [])
+    assert set(context_ids).issubset(card['gs_target_ids'])
+    for rid in context_ids:
+        assert card['id'] not in audit[rid]['Karten'].split(';'), 'Context is not coverage'
+
 print(f"PASS: {len(cards)} mathematics cards, {len(sources)} source anchors, synchronized Pages entry.")

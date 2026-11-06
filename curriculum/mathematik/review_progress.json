@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-002",
+  "last_batch": "MA-003",
   "complete": false,
   "counts": {
-    "cards": 11,
-    "cross_band": 2
+    "cards": 12,
+    "cross_band": 3
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -694,10 +694,65 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35437",
       "version": "2019"
+    },
+    "page912_1834": {
+      "id": "page912_1834",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1834",
+      "version": "2026"
+    },
+    "page912_187038": {
+      "id": "page912_187038",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187038",
+      "version": "2026"
+    },
+    "page912_187039": {
+      "id": "page912_187039",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187039",
+      "version": "2026"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461",
+      "version": "2019"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
+      "version": "2019"
     }
   },
-  "next_id": "page912_187038",
-  "next_step": "GS 1/2 Lesen und Sprechen von Zahlen und Zahlwörtern sowie Schreiben von Ziffern, Zahlen und Zahlwörtern (187038/187039) gegen beide FSP-Bänder prüfen. Bemerkungen von verbindlichen Zielzeilen unterscheiden.",
+  "next_id": "page912_1834",
+  "next_step": "GS1/2 Bedeutungsvielfalt von Zahlen (1834) und Ordinalzahl (187041) prüfen. Danach quasi-simultanes Erfassen (187043), Teil-Ganzes-Beziehung (187046) und Fachbegriffe (1837). Offene Zahlwortanteile aus MA-003 gesondert klären.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -715,7 +770,29 @@
         "page139_37863"
       ],
       "decision": "Strukturieren und Rechnen in FSP 1/2 belegen nicht ausdrücklich das Verdoppeln und Halbieren. Für diesen Ausschnitt wird der explizite FSP3/4-Anker 35437 verwendet."
+    },
+    "MA-012": {
+      "same_band_candidate_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37941"
+      ],
+      "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_002.json"
+  "last_review_file": "review_batch_003.json",
+  "open_questions": [
+    {
+      "gs_id": "page912_187038",
+      "scope": "Lesen ausgeschriebener Zahlwörter",
+      "status": "offen",
+      "reason": "FSP-Zahlwortzuordnung und das Lesen von Zahlen belegen nicht eindeutig das Lesen ausgeschriebener Zahlwörter."
+    },
+    {
+      "gs_id": "page912_187039",
+      "scope": "Schreiben ausgeschriebener Zahlwörter",
+      "status": "offen",
+      "reason": "FSP-Bemerkung nennt Schreiben von Zahlen ohne ausdrückliche Forderung zur Wortschreibung."
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-06.2",
+  "version": "MA-2026-11-06.3",
   "checked_on": "2026-11-06",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -399,6 +399,36 @@
       "id": "Q-MA-page139_35437",
       "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35437",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1834",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1834",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187038",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187038",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187039",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187039",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35461",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35463",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
       "version": "2019"
     }
   ],
@@ -969,6 +999,67 @@
           "criterion": "Es erkennt zwei gleich große Teile und deren Beziehung zur Ausgangsmenge."
         }
       ]
+    },
+    {
+      "id": "MA-012",
+      "subject": "Mathematik",
+      "theme": "Zahlen bis 100 lesen und schreiben",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · FSP-Konkretisierung aus Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Ziffernschreibweise von Zahlen bis 100 lesen und schreiben",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zahlen bis 100 in Alltagssituationen beherrschen, Lesen und Schreiben als Konkretisierung in der Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenübergreifend von GS1/2 zu FSP3/4. Beide Hauptziele verwenden Beherrschen. Auf FSP-Seite steht Lesen und Schreiben von Zahlen in der Bemerkung zu 35463. Die Karte konkretisiert damit das übergeordnete Ziel zu Zahlen bis 100 und behauptet keinen eigenen verbindlichen FSP-Unterzieloperator. Das Lesen und Schreiben ausgeschriebener Zahlwörter sowie deren Rechtschreibung bleiben außerhalb dieses Anschlusses.",
+      "gs_target_ids": [
+        "page912_1833",
+        "page912_1834",
+        "page912_187038",
+        "page912_187039"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1834",
+        "Q-MA-page912_187038",
+        "Q-MA-page912_187039",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend von GS1/2 zu FSP3/4. Beide Hauptziele verwenden Beherrschen. Auf FSP-Seite steht Lesen und Schreiben von Zahlen in der Bemerkung zu 35463. Die Karte konkretisiert damit das übergeordnete Ziel zu Zahlen bis 100 und behauptet keinen eigenen verbindlichen FSP-Unterzieloperator. Das Lesen und Schreiben ausgeschriebener Zahlwörter sowie deren Rechtschreibung bleiben außerhalb dieses Anschlusses.",
+      "shared_object_suggestion": "Zahlen bis 100 lesen und schreiben",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind liest Zahlen in Ziffernschreibweise bis 100 und schreibt sie sicher in dieser Schreibweise.",
+          "criterion": "Benannte Zahl und Ziffernschreibweise stimmen überein, die Stellenfolge ist korrekt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind liest und schreibt Zahlen bis 100 in Ziffernschreibweise sicher im Alltagskontext.",
+          "criterion": "Die gelesene beziehungsweise geschriebene Zahl entspricht der gemeinten Zahl, ihre Stellenfolge ist korrekt."
+        }
+      ],
+      "evidence_classification": {
+        "gs": "verbindliche Unterziele",
+        "fsp": "übergeordnetes Ziel mit Konkretisierung aus Bemerkung",
+        "fsp_remark_anchor": "page139_35463",
+        "context_only_gs_ids": [
+          "page912_1834"
+        ]
+      }
     }
   ]
 }

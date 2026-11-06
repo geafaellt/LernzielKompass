@@ -1,0 +1,50 @@
+{
+  "id": "MA-003",
+  "date": "2026-11-06",
+  "source_checked_online": true,
+  "scope": "GS187038/187039 im Zielblock1833; Teilanschluss in Ziffernschreibweise",
+  "new_cards": [
+    "MA-012"
+  ],
+  "reviewed_rows": [
+    "page912_187038",
+    "page912_187039"
+  ],
+  "source_evidence": [
+    {
+      "id": "page139_37941",
+      "column": "Ziel/Unterziel",
+      "role": "Kandidat FSP1/2",
+      "finding": "Zuordnung von Zahlwort und Zahl zu Mengen. Kein ausreichender Beleg für Schreiben von Zahlen oder Lesen ausgeschriebener Zahlwörter."
+    },
+    {
+      "id": "page139_35461",
+      "column": "Ziel",
+      "role": "Operatoranker FSP3/4",
+      "finding": "Beherrschen der Zahlen bis 100 in Alltagssituationen."
+    },
+    {
+      "id": "page139_35463",
+      "column": "Bemerkung",
+      "role": "Konkretisierung des FSP-Ziels",
+      "finding": "Lesen und Schreiben von Zahlen. Die Belegart wird in Status, Anker, Operatorrelation und Warnhinweis der Karte ausgewiesen."
+    }
+  ],
+  "decision": "Begrenzter stufenübergreifender Anschluss für Zahlen in Ziffernschreibweise. Ausgeschriebene Zahlwörter bleiben zwei offene Anschlussfragen. Keine vollständige Erledigung beider GS-Zeilen.",
+  "inventory_correction": "MA-002 nannte 14 Zeilen, die CSV enthielt 13. Ordinalzahl187041 als offene Zeile ergänzt; kein zusätzlicher Prüffortschritt.",
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "cards": 12,
+    "cross_band_cards": 3,
+    "inventory_rows": 14,
+    "open_connection_questions": 2
+  },
+  "tests": {
+    "data": "PASS: Deutschprüfung, Pages-Synchronisation und Mathematikprüfung. Zwölf Karten, 54 Quellenanker.",
+    "browser": "PASS lokal: alle zwölf Karten, Klassenfilter, Quellenlinks, Operatoren, Fachentwürfe und Neuladen. Aufgaben- und Hilfsmittelfelder werden bei der Feinzielübernahme nicht befüllt.",
+    "regression": "Fortsetzungspunkt wird anhand des offenen CSV-Prüfstatus geprüft. Ein als Kontext verwendeter Quellenanker kann weiterhin offene Zielausschnitte enthalten. Kontextanker erhalten dadurch keinen Kartenabdeckungsstatus."
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
