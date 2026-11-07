@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.1",
+  "version": "MA-2026-11-07.2",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -447,6 +447,24 @@
       "id": "Q-MA-page139_37947",
       "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37947",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187046",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187046",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37851",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37859",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859",
       "version": "2019"
     }
   ],
@@ -1184,6 +1202,62 @@
         "gs": "verbindliches Unterziel mit Konkretisierung aus Bemerkung",
         "fsp": "Zahlbegriffsbildung und Nachbarzahlen verbindlich; ordinaler Aspekt aus Bemerkung",
         "fsp_remark_anchor": "page139_37937"
+      }
+    },
+    {
+      "id": "MA-015",
+      "subject": "Mathematik",
+      "theme": "Teilmengen und Gesamtmenge",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Zerlegung aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Teil-Ganzes-Beziehung beim Zerlegen einer Menge",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Vereinigungs- und Differenzmengen, Zerlegen in Teilmengen als Konkretisierung aus Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die Beziehung zwischen Teilmengen und Gesamtmenge ist auf FSP-Seite durch den verbindlichen Mengen-Unterpunkt und die Bemerkung zur Zerlegung gestützt. Die Karte konkretisiert eine Zerlegung in zwei disjunkte Teilmengen. Alle möglichen Zerlegungen, der gesamte GS-Zahlenraum bis 100 und quasi-simultanes Erfassen sind damit nicht abgedeckt.",
+      "gs_target_ids": [
+        "page912_1833",
+        "page912_1836",
+        "page912_187046"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37859"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1836",
+        "Q-MA-page912_187046",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37859"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die Beziehung zwischen Teilmengen und Gesamtmenge ist auf FSP-Seite durch den verbindlichen Mengen-Unterpunkt und die Bemerkung zur Zerlegung gestützt. Die Karte konkretisiert eine Zerlegung in zwei disjunkte Teilmengen. Alle möglichen Zerlegungen, der gesamte GS-Zahlenraum bis 100 und quasi-simultanes Erfassen sind damit nicht abgedeckt.",
+      "shared_object_suggestion": "Teilmengen und Gesamtmenge",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt sicher die Beziehung zwischen einer Gesamtmenge und zwei Teilmengen, aus denen sie vollständig besteht.",
+          "criterion": "Die Teilmengen enthalten zusammen genau alle Elemente der Gesamtmenge, kein Element wird doppelt zugeordnet."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt bei einer vertrauten Menge, dass zwei getrennte Teilmengen zusammen die Gesamtmenge bilden.",
+          "criterion": "Die Zuordnung der Teile zur Gesamtmenge stimmt, es fehlt kein Element und keines gehört zu beiden Teilen."
+        }
+      ],
+      "evidence_classification": {
+        "gs": "verbindlicher Teil-Ganzes-Aspekt mit Zerlegungskontext",
+        "fsp": "verbindlicher Mengen-Unterpunkt mit Zerlegung aus Bemerkung",
+        "fsp_remark_anchor": "page139_37859"
       }
     }
   ]

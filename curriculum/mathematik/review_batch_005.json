@@ -1,0 +1,73 @@
+{
+  "id": "MA-005",
+  "date": "2026-11-07",
+  "source_checked_online": true,
+  "scope": "GS1/2 quasi-simultanes Erfassen und Teil-Ganzes-Beziehung",
+  "new_cards": [
+    "MA-015"
+  ],
+  "reviewed_rows": [
+    "page912_187043",
+    "page912_187046"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187043",
+      "outcome": "kein hinreichend belegter direkter Anschluss",
+      "fsp_same_band": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37817",
+        "page139_37851",
+        "page139_37859",
+        "page139_37871",
+        "page139_37885"
+      ],
+      "fsp_cross_band": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35468",
+        "page139_35470",
+        "page139_35485"
+      ],
+      "reason": "Quasi-simultanes Erfassen nutzt erkannte Teilstrukturen, um eine Gesamtanzahl zu erfassen. Der FSP nennt nichtzählendes Erfassen kleiner strukturierter Mengen, Strukturieren, Zahlenaufbau und Rechenstrategien. Diese Belege legen weder die spezielle Erfassungsstrategie noch deren Verbindung eindeutig fest. Die Bemerkungen zu Zehner-Einer-Strukturen und Bündelung werden nicht automatisch als Beleg der Wahrnehmungsstrategie gewertet.",
+      "limit": "Fachliche Vorbereitung und didaktische Verbindungen bleiben möglich. Die Entscheidung gilt nur für den geprüften direkten Zielanschluss."
+    },
+    {
+      "gs_id": "page912_187046",
+      "outcome": "begrenzter Anschluss MA-015",
+      "fsp_same_band": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "fsp_cross_band": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "reason": "GS verlangt Teil-Ganzes-Verständnis im Kontext des Mengenzerlegens. FSP1/2 bildet Vereinigungs-/Differenzmengen und nennt Zerlegung in Teilmengen als Bemerkung. Das trägt die begrenzte Beziehung zwischen zwei disjunkten Teilen und dem Ganzen. Der passende FSP1/2-Beleg wird vor FSP3/4-Rechenstrategien bevorzugt.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Einblick gewinnen"
+      },
+      "remaining": "Systematisches Finden aller Zerlegungen und größere Zahlenräume bleiben offen."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "new_documented_no_direct_connection": 1,
+    "cards": 15,
+    "cross_band_cards": 3,
+    "inventory_rows": 14,
+    "open_connection_questions": 2
+  },
+  "tests": {
+    "data": "PASS: Deutschprüfung, Pages-Synchronisation und Mathematikprüfung. Fünfzehn Karten, 60 Quellenanker.",
+    "browser": "PASS lokal: alle fünfzehn Karten, Klassenfilter, Quellenlinks, Operatoren, Fachentwürfe und Neuladen. Aufgaben- und Hilfsmittelfelder bleiben bei der Feinzielübernahme leer."
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
