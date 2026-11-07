@@ -169,10 +169,16 @@
     "check_mathematik": "passed: 26 cards, 99 sources, 97 target anchors and 2 context sources; next open row present",
     "scope_regression": "passed: invalid limits/context and malformed reused evidence rejected",
     "preservation": "passed: other 24 previous cards unchanged; MA-024 FSP scope unchanged; 67 unique inventory rows and no parent coverage",
-    "browser_local": "passed: all 26 cards; scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout"
+    "browser_local": "passed: all 26 cards; scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "browser_live": "passed: all 26 cards; scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.321"
+    "status": "success",
+    "app_version": "1.321",
+    "commit": "02c9b536d13bd49326790ddba133d6f55094d770",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42403704070",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   }
 }
