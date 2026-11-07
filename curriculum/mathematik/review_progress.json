@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-008",
+  "last_batch": "MA-009",
   "complete": false,
   "counts": {
     "cards": 21,
@@ -1033,7 +1033,7 @@
       "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_008.json",
+  "last_review_file": "review_batch_009.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1100,6 +1100,26 @@
       "version": "2019",
       "kind": "stage_goals",
       "grade": "1/2"
+    },
+    "Q-MA-page139_35415": {
+      "id": "Q-MA-page139_35415",
+      "title": "FSP Mathematik 3/4 · übergreifende Ziele: Operationsvorstellungen bis 100",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "version": "2019",
+      "kind": "stage_goals",
+      "grade": "3/4"
     }
+  },
+  "fsp_scope_policy": {
+    "required_on_every_math_card": true,
+    "statuses": [
+      "explicit",
+      "derived",
+      "unspecified",
+      "domain_specific",
+      "not_applicable"
+    ],
+    "rule": "Jede Mathematikkarte führt FSP-Zahlenraum / Geltungsbereich mit Belegart und Quellen. Zahlenräume aus übergreifenden Zielen bleiben als didaktisch abgeleitet erkennbar. Feinziele und Kriterien halten belegte bzw. ausdrücklich abgeleitete Grenzen einschließlich relevanter Zwischen- und Endergebnisse ein. Fehlende Grenzen werden nicht erfunden. Einheiten, Schreibweisen und nichtnumerische Ziele gesondert behandeln.",
+    "teacher_input": "Keine automatische Befüllung von Aufgaben oder Hilfsmitteln; Freitext benötigt fachliche Prüfung. Bestehende Entwürfe nicht überschreiben."
   }
 }

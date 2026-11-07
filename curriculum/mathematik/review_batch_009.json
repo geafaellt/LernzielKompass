@@ -1,0 +1,295 @@
+{
+  "id": "MA-009",
+  "date": "2026-11-07",
+  "scope": "FSP-Zahlenraum / Geltungsbereich auf allen 21 Mathematikkarten",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [],
+  "reviewed_cards": [
+    "MA-001",
+    "MA-002",
+    "MA-003",
+    "MA-004",
+    "MA-005",
+    "MA-006",
+    "MA-007",
+    "MA-008",
+    "MA-009",
+    "MA-010",
+    "MA-011",
+    "MA-012",
+    "MA-013",
+    "MA-014",
+    "MA-015",
+    "MA-016",
+    "MA-017",
+    "MA-018",
+    "MA-019",
+    "MA-020",
+    "MA-021"
+  ],
+  "decisions": [
+    {
+      "card": "MA-001",
+      "status": "not_applicable",
+      "summary": "Für diesen Zielausschnitt nicht maßgeblich",
+      "detail": "Geltungsbereich: relative Lage von Objekten im Schulraum.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_37786"
+      ],
+      "planning_rule": "Keine rechnerischen Zusatzanforderungen aus dem Zahlenraum anderer Karten ableiten."
+    },
+    {
+      "card": "MA-002",
+      "status": "not_applicable",
+      "summary": "Für diesen Zielausschnitt nicht maßgeblich",
+      "detail": "Geltungsbereich: Erkennen der Spiegelachse einer ebenen Figur.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_35434"
+      ],
+      "planning_rule": "Keine rechnerischen Zusatzanforderungen aus dem Zahlenraum anderer Karten ableiten."
+    },
+    {
+      "card": "MA-003",
+      "status": "unspecified",
+      "summary": "Zahlenraum noch fachlich festzulegen",
+      "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: Geldbeträge innerhalb derselben Einheit (Euro oder Cent). Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_37926"
+      ],
+      "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+    },
+    {
+      "card": "MA-004",
+      "status": "unspecified",
+      "summary": "Zahlenraum noch fachlich festzulegen",
+      "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: Längen in Metern im Naturkontext. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_37974"
+      ],
+      "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+    },
+    {
+      "card": "MA-005",
+      "status": "unspecified",
+      "summary": "Zahlenraum noch fachlich festzulegen",
+      "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: schriftliche Addition von zwei Summanden mit Übertrag. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_35499"
+      ],
+      "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+    },
+    {
+      "card": "MA-006",
+      "status": "domain_specific",
+      "summary": "Uhrzeiten · minutengenau",
+      "detail": "Die Bemerkung nennt die 24-Stunden-Angabe. Es geht um das Ablesen von Zeitpunkten, nicht um Zeitspannenberechnung.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_35549"
+      ],
+      "planning_rule": "Stunde, Minute und Darstellungsform beachten; keine zusätzlichen Rechenanforderungen."
+    },
+    {
+      "card": "MA-007",
+      "status": "unspecified",
+      "summary": "Zahlenraum noch fachlich festzulegen",
+      "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: schriftliche Addition von zwei Summanden mit Übertrag. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_35499"
+      ],
+      "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+    },
+    {
+      "card": "MA-008",
+      "status": "explicit",
+      "summary": "Bis 6 Elemente",
+      "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+      "max_value": 6,
+      "source_ids": [
+        "Q-MA-page139_37817"
+      ],
+      "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 6; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "card": "MA-009",
+      "status": "derived",
+      "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 20,
+      "source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "card": "MA-010",
+      "status": "derived",
+      "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 20,
+      "source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "card": "MA-011",
+      "status": "derived",
+      "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Operationsvorstellungen bis 100; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 100."
+    },
+    {
+      "card": "MA-012",
+      "status": "explicit",
+      "summary": "Bis 100",
+      "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35461"
+      ],
+      "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "card": "MA-013",
+      "status": "domain_specific",
+      "summary": "Numerische Umweltangaben · kontextabhängig",
+      "detail": "Zahlen können hier Bezeichnungen oder Angaben aus der Umwelt sein. Eine allgemeine Rechenraumgrenze ist aus diesem Ziel nicht ableitbar.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_37959"
+      ],
+      "planning_rule": "Bedeutung der konkreten Angabe prüfen; daraus keine zusätzliche Rechenanforderung ableiten."
+    },
+    {
+      "card": "MA-014",
+      "status": "derived",
+      "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 20,
+      "source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "card": "MA-015",
+      "status": "derived",
+      "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 20,
+      "source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "card": "MA-016",
+      "status": "explicit",
+      "summary": "Bis 100",
+      "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35461"
+      ],
+      "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "card": "MA-017",
+      "status": "explicit",
+      "summary": "Bis 100",
+      "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35461"
+      ],
+      "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "card": "MA-018",
+      "status": "explicit",
+      "summary": "Bis 100",
+      "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35461"
+      ],
+      "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "card": "MA-019",
+      "status": "explicit",
+      "summary": "Bis 100",
+      "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35461"
+      ],
+      "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "card": "MA-020",
+      "status": "derived",
+      "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 20,
+      "source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "card": "MA-021",
+      "status": "derived",
+      "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+      "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+      "max_value": 20,
+      "source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    }
+  ],
+  "counts": {
+    "cards": 21,
+    "newly_reviewed_target_rows": 0,
+    "scope_statuses": {
+      "not_applicable": 2,
+      "unspecified": 4,
+      "domain_specific": 2,
+      "explicit": 6,
+      "derived": 7
+    },
+    "source_links": 79
+  },
+  "limits": "Keine vollständige erneute GS-zu-FSP-Zeilenprüfung. Vier Zahlenräume bleiben festzulegen. Freitext wird nicht semantisch als zahlenraumkonform zertifiziert. Vorhandene Lehrkraftentwürfe bleiben erhalten und müssen ggf. angepasst werden.",
+  "continuation": "GS1/2 Vorgänger, Nachfolger, Nachbarzehner (1846), danach doppelte/halbe und gerade/ungerade Zahlen (1847–1848) gegen beide FSP-Bänder prüfen. Vorhandene Karten MA-014 und MA-011 berücksichtigen; keine Doppelzählung. Zahlenraumhinweise und offene Restumfänge bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 21 mandatory scope fields, 79 sources (77 target anchors, 2 context sources)",
+    "scope_regression": "passed: missing scope, exceeded limits, missing context evidence and invented bound rejected",
+    "browser_local": "passed: all 21 cards, scope visible in cards and goals, source links, goal/criterion adoption, output table, empty task/aid fields, preserved custom drafts, subject isolation and mobile width",
+    "visual_mobile": "passed: scope screenshot inspected at 390px viewport",
+    "preservation": "card IDs, source operators and all GS fine goals unchanged",
+    "automation": "hourly rule updated and verified ACTIVE; interval and thread preserved"
+  },
+  "publication": {
+    "status": "pending"
+  }
+}

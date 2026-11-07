@@ -23,10 +23,37 @@ assert len(sources) == len(module['sources'])
 assert len({c['id'] for c in cards}) == len(cards) == progress['counts']['cards']
 assert len({c['theme'] for c in cards}) == len(cards)
 assert sum(c['stage_alignment']['relation'] == 'cross-band' for c in cards) == progress['counts']['cross_band']
+def check_fsp_scope(card):
+    cid = card['id']
+    scope = card['fsp_scope']
+    assert scope['status'] in {'explicit', 'derived', 'unspecified', 'domain_specific', 'not_applicable'}, cid
+    assert all(scope[k] for k in ['summary', 'detail', 'planning_rule', 'source_ids']), cid
+    assert set(scope['source_ids']).issubset(card['source_ids']), cid
+    fsp_goal = card['fine_goals'][1]
+    assert fsp_goal['scope_status'] == scope['status'], cid
+    maximum = scope['max_value']
+    if scope['status'] in {'explicit', 'derived'}:
+        assert isinstance(maximum, int) and maximum > 0, cid
+        assert fsp_goal['range_max'] == maximum, cid
+        if scope['status'] == 'derived':
+            assert set(scope['source_ids']).issubset(card.get('context_source_ids', [])), cid
+        else:
+            assert all(sid.removeprefix('Q-MA-') in card['fsp_target_ids'] for sid in scope['source_ids']), cid
+        for field in ['goal', 'criterion']:
+            limits = [int(v.replace(' ', '').replace('.', '')) for v in re.findall(r'\bbis\s+(\d+(?:[ .]\d{3})*)\b', fsp_goal[field])]
+            assert maximum in limits and all(v <= maximum for v in limits), (cid, field, 'range limit mismatch')
+        if card.get('number_range_alignment'):
+            assert card['number_range_alignment']['fsp_max'] == maximum, cid
+    else:
+        assert maximum is None and 'range_max' not in fsp_goal, cid
+        if scope['status'] == 'unspecified':
+            assert 'festgelegten Zahlenraum' in fsp_goal['goal'] and 'festgelegten Zahlenraum' in fsp_goal['criterion'], cid
+
 used_anchors = set()
 used_sources = set()
 for card in cards:
     card_id = card['id']
+    check_fsp_scope(card)
     assert re.fullmatch(r'MA-\d{3}', card_id) and card['subject'] == 'Mathematik'
     assert not {'task_suggestions', 'aid_suggestions'} & card.keys(), card_id
     assert [g['track'] for g in card['fine_goals']] == ['Grundschule', 'FSP Lernen'], card_id

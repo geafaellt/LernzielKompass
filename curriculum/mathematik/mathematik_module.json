@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.5",
+  "version": "MA-2026-11-07.6",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -576,6 +576,14 @@
       "version": "2019",
       "kind": "stage_goals",
       "grade": "1/2"
+    },
+    {
+      "id": "Q-MA-page139_35415",
+      "title": "FSP Mathematik 3/4 · übergreifende Ziele: Operationsvorstellungen bis 100",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "version": "2019",
+      "kind": "stage_goals",
+      "grade": "3/4"
     }
   ],
   "connections": [
@@ -626,9 +634,21 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind überträgt eine bekannte Lagebeziehung auf Objekte im Schulraum.",
-          "criterion": "Die angegebene relative Lage stimmt für die Objekte im Schulraum."
+          "criterion": "Die angegebene relative Lage stimmt für die Objekte im Schulraum.",
+          "scope_status": "not_applicable",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "not_applicable",
+        "summary": "Für diesen Zielausschnitt nicht maßgeblich",
+        "detail": "Geltungsbereich: relative Lage von Objekten im Schulraum.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37786"
+        ],
+        "planning_rule": "Keine rechnerischen Zusatzanforderungen aus dem Zahlenraum anderer Karten ableiten."
+      }
     },
     {
       "id": "MA-002",
@@ -675,9 +695,21 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind erkennt die Spiegelachse als Trennlinie einer symmetrischen Figur.",
-          "criterion": "Die beiden durch die benannte Linie bestimmten Teile sind Spiegelbilder."
+          "criterion": "Die beiden durch die benannte Linie bestimmten Teile sind Spiegelbilder.",
+          "scope_status": "not_applicable",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "not_applicable",
+        "summary": "Für diesen Zielausschnitt nicht maßgeblich",
+        "detail": "Geltungsbereich: Erkennen der Spiegelachse einer ebenen Figur.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35434"
+        ],
+        "planning_rule": "Keine rechnerischen Zusatzanforderungen aus dem Zahlenraum anderer Karten ableiten."
+      }
     },
     {
       "id": "MA-003",
@@ -727,10 +759,22 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind unterscheidet größere und kleinere Geldbeträge innerhalb einer Einheit.",
-          "criterion": "Der größere beziehungsweise kleinere Betrag wird dem tatsächlichen Wert entsprechend erkannt."
+          "goal": "Das Kind unterscheidet größere und kleinere Geldbeträge innerhalb derselben Einheit im festgelegten Zahlenraum.",
+          "criterion": "Vergleich und Einheit stimmen; beide Geldbeträge liegen im festgelegten Zahlenraum.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Zahlenraum noch fachlich festzulegen",
+        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: Geldbeträge innerhalb derselben Einheit (Euro oder Cent). Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37926"
+        ],
+        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+      }
     },
     {
       "id": "MA-004",
@@ -780,10 +824,22 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind vergleicht Längen in Metern im Naturkontext.",
-          "criterion": "Die als länger oder kürzer bezeichnete Strecke stimmt mit den Längenangaben überein."
+          "goal": "Das Kind vergleicht Längen in Metern im Naturkontext und im festgelegten Zahlenraum.",
+          "criterion": "Länger-/Kürzerbeziehung und Einheit stimmen; alle Längenangaben liegen im festgelegten Zahlenraum.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Zahlenraum noch fachlich festzulegen",
+        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: Längen in Metern im Naturkontext. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37974"
+        ],
+        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+      }
     },
     {
       "id": "MA-005",
@@ -829,10 +885,22 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind kennt den Ablauf der schriftlichen Addition zweier Summanden mit Übertrag.",
-          "criterion": "Die Ziffern sind stellenrichtig zugeordnet, der Übertrag ist berücksichtigt und das Ergebnis stimmt."
+          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei Summanden mit Übertrag im festgelegten Zahlenraum.",
+          "criterion": "Stellenzuordnung, Übertrag und Summe stimmen; beide Summanden, relevante Zwischenwerte und die Summe liegen im festgelegten Zahlenraum.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Zahlenraum noch fachlich festzulegen",
+        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: schriftliche Addition von zwei Summanden mit Übertrag. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35499"
+        ],
+        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+      }
     },
     {
       "id": "MA-006",
@@ -881,9 +949,21 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind nutzt die minutengenau abgelesene Uhrzeit zur zeitlichen Orientierung im eigenen Tagesablauf.",
-          "criterion": "Stunde und Minute sind richtig bestimmt und der betreffende Zeitpunkt ist im Tagesablauf richtig eingeordnet."
+          "criterion": "Stunde und Minute sind minutengenau richtig abgelesen und im Tagesablauf eingeordnet; eine 24-Stunden-Angabe wird zutreffend gedeutet.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Uhrzeiten · minutengenau",
+        "detail": "Die Bemerkung nennt die 24-Stunden-Angabe. Es geht um das Ablesen von Zeitpunkten, nicht um Zeitspannenberechnung.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35549"
+        ],
+        "planning_rule": "Stunde, Minute und Darstellungsform beachten; keine zusätzlichen Rechenanforderungen."
+      }
     },
     {
       "id": "MA-007",
@@ -929,10 +1009,22 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind kennt die schriftliche Addition zweier Summanden im FSP-Kontext.",
-          "criterion": "Stellenzuordnung und ein erforderlicher Übertrag sind korrekt, die Summe stimmt."
+          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei Summanden mit Übertrag im festgelegten Zahlenraum.",
+          "criterion": "Stellenzuordnung, Übertrag und Summe stimmen; beide Summanden, relevante Zwischenwerte und die Summe liegen im festgelegten Zahlenraum.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Zahlenraum noch fachlich festzulegen",
+        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: schriftliche Addition von zwei Summanden mit Übertrag. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35499"
+        ],
+        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+      }
     },
     {
       "id": "MA-008",
@@ -982,10 +1074,23 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind erkennt die Anzahl einer vertraut strukturierten Menge mit bis zu sechs Elementen ohne Abzählen.",
-          "criterion": "Die erkannte Anzahl stimmt mit der Menge überein, ohne dass die Elemente einzeln gezählt werden."
+          "goal": "Das Kind erkennt die Anzahl einer vertraut strukturierten Menge mit bis 6 Elementen ohne Abzählen.",
+          "criterion": "Die Menge hat bis 6 Elemente; die Anzahl wird ohne einzelnes Abzählen zutreffend erkannt.",
+          "scope_status": "explicit",
+          "range_max": 6,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 6 Elemente",
+        "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+        "max_value": 6,
+        "source_ids": [
+          "Q-MA-page139_37817"
+        ],
+        "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 6; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+      }
     },
     {
       "id": "MA-009",
@@ -1016,7 +1121,8 @@
         "Q-MA-page139_37804",
         "Q-MA-page139_37811",
         "Q-MA-page139_37813",
-        "Q-MA-page912_1837"
+        "Q-MA-page912_1837",
+        "Q-MA-page139_37739"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1037,14 +1143,30 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind kennt die Beziehung der Anzahlen zweier paarweise zugeordneter Mengen und beschreibt sie mit mehr als, weniger als oder gleich viel.",
-          "criterion": "Der Vergleichsausdruck passt dazu, ob eine Menge einen Überschuss hat oder die Anzahlen gleich sind."
+          "goal": "Das Kind kennt die Beziehung der Anzahlen zweier paarweise zugeordneter Mengen mit jeweils bis 20 Elementen und beschreibt sie mit mehr als, weniger als oder gleich viel.",
+          "criterion": "Beide Mengen haben jeweils bis 20 Elemente; der Vergleichsausdruck bezeichnet die Anzahlbeziehung korrekt.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "evidence_classification": {
         "gs": "verbindlicher Mengenvergleich und Fachbegriffe",
         "fsp": "verbindlicher Mengenvergleich mit Vergleichsformulierungen aus Bemerkung",
         "fsp_remark_anchor": "page139_37813"
+      },
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
       }
     },
     {
@@ -1076,7 +1198,8 @@
         "Q-MA-page139_37931",
         "Q-MA-page139_37937",
         "Q-MA-page139_37941",
-        "Q-MA-page139_37944"
+        "Q-MA-page139_37944",
+        "Q-MA-page139_37739"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1097,10 +1220,26 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind bestimmt sicher die Anzahl einer Menge im Naturkontext und ordnet Zahlwort und Zahl zu.",
-          "criterion": "Die bestimmte Anzahl sowie Zahlwort und Zahl bezeichnen dieselbe Mächtigkeit."
+          "goal": "Das Kind bestimmt sicher die Anzahl einer Menge mit bis 20 Elementen im Naturkontext und ordnet Zahlwort und Zahl zu.",
+          "criterion": "Anzahl, Zahlwort und Zahl passen zusammen; die Menge hat bis 20 Elemente.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+      }
     },
     {
       "id": "MA-011",
@@ -1127,7 +1266,8 @@
         "Q-MA-page912_1836",
         "Q-MA-page912_187045",
         "Q-MA-page139_35435",
-        "Q-MA-page139_35437"
+        "Q-MA-page139_35437",
+        "Q-MA-page139_35415"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1148,10 +1288,26 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind erkennt doppelte und halbe Anzahlen im Zusammenhang gerechten Verteilens.",
-          "criterion": "Es erkennt zwei gleich große Teile und deren Beziehung zur Ausgangsmenge."
+          "goal": "Das Kind erkennt doppelte und halbe Anzahlen bis 100 im Zusammenhang gerechten Verteilens.",
+          "criterion": "Die Beziehung zwischen ganzer, doppelter oder halber Anzahl stimmt; Ausgangs- und Ergebnisanzahlen liegen bis 100. Die halbe Anzahl ist im gewählten Mengenausschnitt ganzzahlig.",
+          "scope_status": "derived",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Operationsvorstellungen bis 100; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 100."
+      }
     },
     {
       "id": "MA-012",
@@ -1202,7 +1358,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind liest und schreibt Zahlen bis 100 in Ziffernschreibweise sicher im Alltagskontext.",
-          "criterion": "Die gelesene beziehungsweise geschriebene Zahl entspricht der gemeinten Zahl, ihre Stellenfolge ist korrekt."
+          "criterion": "Die gelesene und geschriebene Ziffernfolge bezeichnet die Zahl korrekt; alle Zahlen liegen bis 100.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "evidence_classification": {
@@ -1212,6 +1371,16 @@
         "context_only_gs_ids": [
           "page912_1834"
         ]
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100",
+        "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
       }
     },
     {
@@ -1259,9 +1428,21 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind deutet eine vertraute numerische Angabe aus seiner Umwelt zutreffend.",
-          "criterion": "Die erklärte Information entspricht der Zahlenangabe in ihrem Zusammenhang."
+          "criterion": "Die Bedeutung der vertrauten numerischen Angabe wird im konkreten Umweltkontext zutreffend erklärt; daraus wird keine Rechenleistung abgeleitet.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
-      ]
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Numerische Umweltangaben · kontextabhängig",
+        "detail": "Zahlen können hier Bezeichnungen oder Angaben aus der Umwelt sein. Eine allgemeine Rechenraumgrenze ist aus diesem Ziel nicht ableitbar.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37959"
+        ],
+        "planning_rule": "Bedeutung der konkreten Angabe prüfen; daraus keine zusätzliche Rechenanforderung ableiten."
+      }
     },
     {
       "id": "MA-014",
@@ -1290,7 +1471,8 @@
         "Q-MA-page912_187041",
         "Q-MA-page139_37931",
         "Q-MA-page139_37937",
-        "Q-MA-page139_37947"
+        "Q-MA-page139_37947",
+        "Q-MA-page139_37739"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1311,14 +1493,30 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind benennt sicher die Zahlen unmittelbar vor und nach einer Zahl im vertrauten Zahlbereich.",
-          "criterion": "Vorgänger und Nachfolger sind richtig benannt und in der richtigen Reihenfolge zugeordnet."
+          "goal": "Das Kind benennt sicher die unmittelbaren Nachbarzahlen im Zahlenraum bis 20.",
+          "criterion": "Vorgänger und Nachfolger sind richtig benannt; Ausgangszahl und beide Nachbarzahlen liegen bis 20.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "evidence_classification": {
         "gs": "verbindliches Unterziel mit Konkretisierung aus Bemerkung",
         "fsp": "Zahlbegriffsbildung und Nachbarzahlen verbindlich; ordinaler Aspekt aus Bemerkung",
         "fsp_remark_anchor": "page139_37937"
+      },
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
       }
     },
     {
@@ -1346,7 +1544,8 @@
         "Q-MA-page912_1836",
         "Q-MA-page912_187046",
         "Q-MA-page139_37851",
-        "Q-MA-page139_37859"
+        "Q-MA-page139_37859",
+        "Q-MA-page139_37739"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1367,14 +1566,30 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind erkennt bei einer vertrauten Menge, dass zwei getrennte Teilmengen zusammen die Gesamtmenge bilden.",
-          "criterion": "Die Zuordnung der Teile zur Gesamtmenge stimmt, es fehlt kein Element und keines gehört zu beiden Teilen."
+          "goal": "Das Kind erkennt bei einer Gesamtmenge mit bis 20 Elementen die Beziehung zu zwei getrennten Teilmengen.",
+          "criterion": "Beide Teilmengen ergeben zusammen genau die Gesamtmenge; jede Teilmenge und die Gesamtmenge haben bis 20 Elemente.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "evidence_classification": {
         "gs": "verbindlicher Teil-Ganzes-Aspekt mit Zerlegungskontext",
         "fsp": "verbindlicher Mengen-Unterpunkt mit Zerlegung aus Bemerkung",
         "fsp_remark_anchor": "page139_37859"
+      },
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
       }
     },
     {
@@ -1424,7 +1639,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind zählt sicher vorwärts und rückwärts in gleich großen Schritten im Zahlenraum bis 100 im Alltagskontext.",
-          "criterion": "Zählrichtung, Schrittweite und gegebenenfalls Zehnerübergänge sind bis 100 korrekt."
+          "criterion": "Zählrichtung, Schrittweite und gegebenenfalls Zehnerübergänge sind bis 100 korrekt.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "number_range_alignment": {
@@ -1444,6 +1662,16 @@
           "page912_187183"
         ],
         "fsp_remark_anchor": "page139_35466"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100",
+        "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
       }
     },
     {
@@ -1493,7 +1721,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind vergleicht und ordnet Zahlen sicher im Zahlenraum bis 100 im Alltagskontext.",
-          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten bis 100."
+          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten bis 100.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "number_range_alignment": {
@@ -1512,6 +1743,16 @@
           "page912_187182",
           "page912_187183"
         ]
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100",
+        "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
       }
     },
     {
@@ -1561,7 +1802,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind zählt sicher vorwärts und rückwärts in gleich großen Schritten im Zahlenraum bis 100 im Alltagskontext.",
-          "criterion": "Zählrichtung, Schrittweite und gegebenenfalls Zehnerübergänge sind bis 100 korrekt."
+          "criterion": "Zählrichtung, Schrittweite und gegebenenfalls Zehnerübergänge sind bis 100 korrekt.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "number_range_alignment": {
@@ -1581,6 +1825,16 @@
           "page912_2269"
         ],
         "fsp_remark_anchor": "page139_35466"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100",
+        "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
       }
     },
     {
@@ -1630,7 +1884,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind vergleicht und ordnet Zahlen sicher im Zahlenraum bis 100 im Alltagskontext.",
-          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten bis 100."
+          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten bis 100.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "number_range_alignment": {
@@ -1649,6 +1906,16 @@
           "page912_2267",
           "page912_2269"
         ]
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100",
+        "detail": "Die Grenze ist im ausgewählten FSP-Ziel ausdrücklich genannt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
       }
     },
     {
@@ -1703,7 +1970,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind zählt sicher vorwärts und rückwärts sowie in gleich großen Schritten bis 20 im Naturkontext.",
-          "criterion": "Zählrichtung und Schrittweite bleiben erhalten; die Zahlenfolge stimmt im didaktisch begrenzten Zahlenraum bis 20."
+          "criterion": "Zählrichtung und Schrittweite bleiben erhalten; die Zahlenfolge stimmt im didaktisch begrenzten Zahlenraum bis 20.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "context_source_ids": [
@@ -1726,6 +1996,16 @@
           "page912_1842",
           "page912_1843"
         ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
       }
     },
     {
@@ -1778,7 +2058,10 @@
         {
           "track": "FSP Lernen",
           "goal": "Das Kind vergleicht und ordnet Zahlen sicher bis 20 im Naturkontext und verwendet <, > oder = passend.",
-          "criterion": "Reihenfolge und Vergleichszeichen entsprechen den Zahlenwerten im didaktisch begrenzten Zahlenraum bis 20."
+          "criterion": "Reihenfolge und Vergleichszeichen entsprechen den Zahlenwerten im didaktisch begrenzten Zahlenraum bis 20.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
         }
       ],
       "context_source_ids": [
@@ -1801,6 +2084,16 @@
           "page912_1842",
           "page912_1843"
         ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die Unterzielzeile nennt keine eigene Obergrenze. Der Rahmen stammt aus dem übergreifenden Ziel zu Zahlaufbau bis 20; er ist eine didaktische Eingrenzung dieses Feinziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
       }
     }
   ]
