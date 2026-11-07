@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-018
+# Mathematik-Abgleich · MA-019
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Sechsundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Achtundzwanzig Karten dokumentieren begrenzte Anschlüsse. Einundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -238,3 +238,16 @@ MA-026 verbindet GS 187051 mit dem FSP3/4-Zahlenaufbau 35461/35468. Hunderterfel
 MA-024 wird für GS 187052 und den Zehner-/Einer-Ausschnitt von 187053 wiederverwendet. Die FSP-Bemerkung 37871 nennt Sprechen, Darstellen und Verwenden von Zehner/Einer. Zahl und Zehner-Einer-Darstellung werden in beiden Richtungen didaktisch zugeordnet; der Operator Einblick gewinnen bleibt bestehen. Die FSP-Grenze bis 20 bleibt ausdrücklich aus dem Bandziel abgeleitet und umfasst alle relevanten Teilwerte, Zwischenwerte und Ergebnisse. Hunderter, Stellenwert und Stellenwerttafel als eigenständige Fachwörter bleiben Anschlussfrage; vollständiger flexibler Darstellungswechsel und Sachsituationsbezüge sind nicht behauptet.
 
 Drei neue Unterzielzeilen begrenzt geprüft, Elternzeile 1856 nur als Kontext. Bestehende Zahlenzerlegung und Zehner-Einer-Stellenwerte erneut bestätigt. Bestand 26 Karten, sieben stufenübergreifend, 99 Quellenlinks (97 Zielanker und zwei Kontextquellen). Die übrigen 24 Karten bleiben unverändert. 23 Zeilen des nächsten Operationsblocks wurden nur inventarisiert; die Teilinventur umfasst jetzt 67 Zeilen. Inventur zählt nicht als fachlicher Prüffortschritt. Fortsetzung bei 1857, sechs Anschlussfragen und frühere Restumfänge bleiben erhalten. Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 26 Karten bestanden. App 1.321 ist mit Commit 02c9b536d13bd49326790ddba133d6f55094d770 veröffentlicht; [Pages-Lauf 42403704070](https://github.com/geafaellt/LernzielKompass/actions/runs/42403704070) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 26 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
+
+
+## MA-019 · Operationsverständnis: Vereinigen und Wegnehmen · App 1.324
+
+MA-027 verbindet GS 187054 mit dem Vereinigen disjunkter Mengen, MA-028 verbindet GS 187055 mit Wegnehmen einer enthaltenen Teilmenge und Restmenge. Grundlage sind die ausdrücklichen FSP 1/2-Zeilen 37859 (Vereinigungs-/Differenzmengen) und 37863 (Addition/Subtraktion), unter Einblick gewinnen (37851). GS verlangt Kennen (1857). Beide FSP-Bänder wurden geprüft; der passende 1/2-Anschluss wird gegenüber der Alternative Addieren/Subtrahieren bis 100 unter Beherrschen in FSP 3/4 bevorzugt.
+
+Der Feinzielrahmen bis 20 stammt aus dem übergreifenden FSP 1/2-Ziel zu Mengen und Operationsvorstellungen; die Unterzielzeilen nennen keine eigene Obergrenze. Alle Teil-, Gesamt- und Restanzahlen, relevanten Zwischen- und Endergebnisse bleiben darin. Auch die Summe darf 20 nicht überschreiten; weggenommene Mengen sind Teilmengen, negative Ergebnisse ausgeschlossen. Der GS-Zahlenraum bis 100 wird nicht vollständig gedeckt. Aufgaben und Hilfsmittel werden nicht ergänzt.
+
+MA-015 bleibt unverändert bei der Teil-Ganzes-Beziehung unter GS-Beherrschen. Sie wird nicht ein zweites Mal als Operationsverständnis gezählt. Die 26 bisherigen Karten und ihre Grenzen bleiben erhalten. Die neuere Platzierung der FSP-Informationsübersicht unterhalb der Navigation aus App 1.323 wird bewahrt.
+
+Zwei weitere Unterzielzeilen begrenzt geprüft; 1857 und 1858 nur Kontext. Bestand 28 Karten, davon 7 stufenübergreifend; 103 Quellenlinks (101 Zielanker, zwei Kontextquellen), weiterhin 67 inventarisierte Zeilen. Hinzufügen, Ergänzen und vergleichendes Bestimmen der Differenz bleiben als Restumfänge dokumentiert. Fortsetzung bei 187056 (Darstellungsvernetzung), danach 1861. Sechs bisherige Anschlussfragen bleiben offen; der Gesamtvergleich ist nicht abgeschlossen. Prüf- und Veröffentlichungsnachweise: review_batch_019.json.
+
+Datenprüfungen, Zahlenraumregressionen und lokaler Browserdurchlauf aller 28 Mathematikkarten bestanden. Die zehn Fälle der Informationsübersicht wurden ebenfalls im Browser geprüft; eigene Entwürfe bleiben erhalten. Veröffentlichung und öffentliche Gegenprüfung werden im Prüfpaket dokumentiert.

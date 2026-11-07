@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-018",
+  "last_batch": "MA-019",
   "complete": false,
   "counts": {
-    "cards": 26,
+    "cards": 28,
     "cross_band": 7
   },
   "source_plans": {
@@ -1222,10 +1222,54 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187051",
       "version": "2026"
+    },
+    "page912_1857": {
+      "id": "page912_1857",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1857",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1857",
+      "version": "2026"
+    },
+    "page912_1858": {
+      "id": "page912_1858",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1858",
+      "version": "2026"
+    },
+    "page912_187054": {
+      "id": "page912_187054",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187054",
+      "version": "2026"
+    },
+    "page912_187055": {
+      "id": "page912_187055",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187055",
+      "version": "2026"
     }
   },
-  "next_id": "page912_1857",
-  "next_step": "GS1/2 Operationsverständnis Addition/Subtraktion (1857–1858, 187054–187056): Vereinigen/Hinzufügen sowie Wegnehmen/Ergänzen/Differenz gegen beide FSP-Bänder prüfen. Bestehende Mengen- und Zahlenkarten berücksichtigen; Operationsverständnis nicht mit Rechenverfahren gleichsetzen. Sechs offene Anschlussfragen und bisherige Restumfänge bewahren. Neu inventarisierter Block 1857 ist noch ungeprüft.",
+  "next_id": "page912_187056",
+  "next_step": "GS1/2 Vernetzen von Darstellungen im Operationsverständnis (page912_187056) gegen beide FSP-Bänder prüfen; danach 1861 (Lösungsansätze). MA-027/028 grenzen Vereinigen und Wegnehmen/Restmenge bis didaktisch20 ab; Hinzufügen, Ergänzen und vergleichendes Bestimmen der Differenz bleiben gesonderte Restumfänge. Sechs offene Anschlussfragen und alle früheren Restumfänge bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1297,7 +1341,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_018.json",
+  "last_review_file": "review_batch_019.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1407,6 +1451,16 @@
       "gs_id": "page912_187052",
       "scope": "Weitere Darstellungsarten, alle Wechselrichtungen und Sachsituationsbezüge; Hunderterdarstellungen sowie der Bereich über dem didaktischen FSP1/2-Rahmen bis 20. MA-024 deckt nur Zahl ↔ Zehner/Einer.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187054",
+      "scope": "Dynamisches Hinzufügen als eigene Grundvorstellung, weitere Situationsbezüge und GS-Zahlenraum oberhalb des didaktischen FSP-Rahmens bis20.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187055",
+      "scope": "Ergänzen sowie vergleichendes Bestimmen der Differenz; der gewählte Wegnahme-/Restmengenaspekt deckt diese Vorstellungen nicht vollständig. Weiterer GS-Zahlenraum über20 bleibt offen.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1422,7 +1476,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Teilinventur: vier GS1/2-Blöcke und ausgewählte Zeilen aus zwei GS3/4-Blöcken. Block 1852 einzeln bzw. als Kontext geprüft, mit dokumentierten Restumfängen; neuer Block 1857 noch ungeprüft. Inventur ist kein fachlicher Prüffortschritt.",
+    "note": "Teilinventur von 67 Zeilen: vier GS1/2-Blöcke und ausgewählte GS3/4-Zeilen. Block1857: Operationsvorstellungen187054/187055 begrenzt geprüft, Eltern1857/1858 nur Kontext; ab187056 offen. Inventur zählt nicht als fachlicher Prüffortschritt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -1437,7 +1491,7 @@
   "context_sources": {
     "Q-MA-page139_37739": {
       "id": "Q-MA-page139_37739",
-      "title": "FSP Mathematik 1/2 · übergreifende Ziele: Zahlaufbau bis 20",
+      "title": "FSP Mathematik 1/2 · übergreifende Ziele: Zahlaufbau und Operationsvorstellungen bis 20",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
       "version": "2019",
       "kind": "stage_goals",

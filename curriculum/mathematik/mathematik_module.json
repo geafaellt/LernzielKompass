@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.14",
+  "version": "MA-2026-11-07.15",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -571,7 +571,7 @@
     },
     {
       "id": "Q-MA-page139_37739",
-      "title": "FSP Mathematik 1/2 · übergreifende Ziele: Zahlaufbau bis 20",
+      "title": "FSP Mathematik 1/2 · übergreifende Ziele: Zahlaufbau und Operationsvorstellungen bis 20",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
       "version": "2019",
       "kind": "stage_goals",
@@ -703,6 +703,30 @@
       "id": "Q-MA-page912_187051",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187051",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1857",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1857",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1858",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1858",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187054",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187054",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187055",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187055",
       "version": "2026"
     }
   ],
@@ -2780,6 +2804,184 @@
           "Q-MA-page139_35468"
         ],
         "planning_rule": "Nur nichtnegative ganzzahlige Anzahlen bis 100. Teilanzahlen, Gesamtanzahl sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Keine Erweiterung auf größere Zahlenräume oder sämtliche Muster im Hunderterfeld."
+      }
+    },
+    {
+      "id": "MA-027",
+      "subject": "Mathematik",
+      "theme": "Addition als Vereinigen von Mengen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Operationsvorstellung · unterschiedlicher Zahlenraum",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Addition als Vereinigen zweier getrennter Mengen im Zahlenraum bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Vereinigungsmengen und Addition; Operationsvorstellung im didaktischen Rahmen bis 20",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Unterzielzeilen nennen keine eigene Obergrenze. Der Teilanschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Kennen, FSP Einblick gewinnen. Die FSP-Zielzeilen nennen Vereinigungs- und Differenzmengen sowie Addition und Subtraktion; ihre Verbindung zur jeweiligen Operationsbedeutung ist didaktisch konkretisiert. Situationsbilder und Rechengeschichten stehen in der FSP-Bemerkung und werden nicht als neue Aufgaben vorgeschlagen. MA-015 bleibt bei der Teil-Ganzes-Beziehung unter dem anderen GS-Hauptoperator Beherrschen; sie wird hier nicht zusätzlich als Operationskarte gezählt. Rechenstrategien und vollständiger Darstellungswechsel sind nicht Gegenstand dieser Karte. Der ausgewählte Ausschnitt betrifft das Vereinigen zweier disjunkter Mengen. Das dynamische Hinzufügen als eigene Grundvorstellung bleibt gesondert zu prüfen.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1858",
+        "page912_187054"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1858",
+        "Q-MA-page912_187054",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37859",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Unterzielzeilen nennen keine eigene Obergrenze. Der Teilanschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Kennen, FSP Einblick gewinnen. Die FSP-Zielzeilen nennen Vereinigungs- und Differenzmengen sowie Addition und Subtraktion; ihre Verbindung zur jeweiligen Operationsbedeutung ist didaktisch konkretisiert. Situationsbilder und Rechengeschichten stehen in der FSP-Bemerkung und werden nicht als neue Aufgaben vorgeschlagen. MA-015 bleibt bei der Teil-Ganzes-Beziehung unter dem anderen GS-Hauptoperator Beherrschen; sie wird hier nicht zusätzlich als Operationskarte gezählt. Rechenstrategien und vollständiger Darstellungswechsel sind nicht Gegenstand dieser Karte. Der ausgewählte Ausschnitt betrifft das Vereinigen zweier disjunkter Mengen. Das dynamische Hinzufügen als eigene Grundvorstellung bleibt gesondert zu prüfen.",
+      "shared_object_suggestion": "Addition als Vereinigen von Mengen",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt das Vereinigen zweier getrennter Mengen als Addition und die Gesamtanzahl als Ergebnis im Zahlenraum bis 100.",
+          "criterion": "Beide Teilanzahlen werden zur Gesamtanzahl zusammengefasst; kein Element wird doppelt gezählt. Die Bedeutung der Addition ist passend erkannt. Teilanzahlen, Gesamtanzahl sowie relevante Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt im Zahlenraum bis 20 den Zusammenhang zwischen dem Vereinigen zweier getrennter Mengen und der Addition.",
+          "criterion": "Die beiden Teilanzahlen und ihre Gesamtanzahl passen zusammen; das Vereinigen wird der Addition zugeordnet. Teilanzahlen, Gesamtanzahl sowie relevante Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Unterzielzeilen nennen keine eigene Obergrenze. Der Teilanschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "Die Unterzielzeilen 37859 und 37863 enthalten keine eigene Obergrenze. Die übergreifenden Ziele des Stufenbandes 1/2 nennen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20. Daraus wird der Rahmen für dieses Feinziel abgeleitet; er ist keine wörtliche Grenze der Unterzielzeile.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur nichtnegative ganzzahlige Anzahlen. Ausgangs- und Teilanzahlen, Gesamt- bzw. Restanzahl sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Bei Addition darf auch die Summe 20 nicht überschreiten; bei Subtraktion ist die weggenommene Menge eine Teilmenge der Ausgangsmenge. Keine negativen Ergebnisse."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliche Operationsvorstellung unter Kennen; Hauptziel 1857 und Unterziel 1858 sind Kontext, keine vollständige Zieldeckung.",
+        "fsp": "Verbindliche Vereinigungs-/Differenzmengen und Addition/Subtraktion unter Einblick gewinnen; Operationsdeutung als didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1858"
+        ]
+      }
+    },
+    {
+      "id": "MA-028",
+      "subject": "Mathematik",
+      "theme": "Subtraktion als Wegnehmen und Restmenge",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Operationsvorstellung · unterschiedlicher Zahlenraum",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Subtraktion als Wegnehmen und Bestimmen der Restmenge im Zahlenraum bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Differenzmengen und Subtraktion; Operationsvorstellung im didaktischen Rahmen bis 20",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Unterzielzeilen nennen keine eigene Obergrenze. Der Teilanschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Kennen, FSP Einblick gewinnen. Die FSP-Zielzeilen nennen Vereinigungs- und Differenzmengen sowie Addition und Subtraktion; ihre Verbindung zur jeweiligen Operationsbedeutung ist didaktisch konkretisiert. Situationsbilder und Rechengeschichten stehen in der FSP-Bemerkung und werden nicht als neue Aufgaben vorgeschlagen. MA-015 bleibt bei der Teil-Ganzes-Beziehung unter dem anderen GS-Hauptoperator Beherrschen; sie wird hier nicht zusätzlich als Operationskarte gezählt. Rechenstrategien und vollständiger Darstellungswechsel sind nicht Gegenstand dieser Karte. Der ausgewählte Ausschnitt betrifft das Wegnehmen einer enthaltenen Teilmenge und die verbleibende Restmenge. Ergänzen und vergleichendes Bestimmen der Differenz sind damit nicht vollständig abgedeckt. Der Hinweis Ergänzen bis 10 und die Beziehung von Addition und Subtraktion aus FSP-Bemerkungen werden nicht ungeprüft mit sämtlichen Subtraktionsvorstellungen gleichgesetzt.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1858",
+        "page912_187055"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1858",
+        "Q-MA-page912_187055",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37859",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Unterzielzeilen nennen keine eigene Obergrenze. Der Teilanschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Kennen, FSP Einblick gewinnen. Die FSP-Zielzeilen nennen Vereinigungs- und Differenzmengen sowie Addition und Subtraktion; ihre Verbindung zur jeweiligen Operationsbedeutung ist didaktisch konkretisiert. Situationsbilder und Rechengeschichten stehen in der FSP-Bemerkung und werden nicht als neue Aufgaben vorgeschlagen. MA-015 bleibt bei der Teil-Ganzes-Beziehung unter dem anderen GS-Hauptoperator Beherrschen; sie wird hier nicht zusätzlich als Operationskarte gezählt. Rechenstrategien und vollständiger Darstellungswechsel sind nicht Gegenstand dieser Karte. Der ausgewählte Ausschnitt betrifft das Wegnehmen einer enthaltenen Teilmenge und die verbleibende Restmenge. Ergänzen und vergleichendes Bestimmen der Differenz sind damit nicht vollständig abgedeckt. Der Hinweis Ergänzen bis 10 und die Beziehung von Addition und Subtraktion aus FSP-Bemerkungen werden nicht ungeprüft mit sämtlichen Subtraktionsvorstellungen gleichgesetzt.",
+      "shared_object_suggestion": "Subtraktion als Wegnehmen und Restmenge",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt das Wegnehmen einer enthaltenen Teilmenge als Subtraktion und die verbleibende Anzahl als Ergebnis im Zahlenraum bis 100.",
+          "criterion": "Ausgangsanzahl, weggenommene Anzahl und Restanzahl passen zusammen; die Bedeutung der Subtraktion ist passend erkannt. Die weggenommene Anzahl überschreitet die Ausgangsanzahl nicht. Alle Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt im Zahlenraum bis 20 den Zusammenhang zwischen dem Wegnehmen einer enthaltenen Teilmenge, der Restmenge und der Subtraktion.",
+          "criterion": "Ausgangsanzahl, weggenommene Anzahl und Restanzahl passen zusammen; das Wegnehmen wird der Subtraktion zugeordnet. Die weggenommene Anzahl überschreitet die Ausgangsanzahl nicht. Alle Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Unterzielzeilen nennen keine eigene Obergrenze. Der Teilanschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "Die Unterzielzeilen 37859 und 37863 enthalten keine eigene Obergrenze. Die übergreifenden Ziele des Stufenbandes 1/2 nennen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20. Daraus wird der Rahmen für dieses Feinziel abgeleitet; er ist keine wörtliche Grenze der Unterzielzeile.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur nichtnegative ganzzahlige Anzahlen. Ausgangs- und Teilanzahlen, Gesamt- bzw. Restanzahl sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Bei Addition darf auch die Summe 20 nicht überschreiten; bei Subtraktion ist die weggenommene Menge eine Teilmenge der Ausgangsmenge. Keine negativen Ergebnisse."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliche Operationsvorstellung unter Kennen; Hauptziel 1857 und Unterziel 1858 sind Kontext, keine vollständige Zieldeckung.",
+        "fsp": "Verbindliche Vereinigungs-/Differenzmengen und Addition/Subtraktion unter Einblick gewinnen; Operationsdeutung als didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1858"
+        ]
       }
     }
   ]
