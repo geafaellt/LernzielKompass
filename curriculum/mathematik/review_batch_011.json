@@ -1,0 +1,105 @@
+{
+  "id": "MA-011",
+  "date": "2026-11-07",
+  "scope": "GS1/2 Vorgänger, Nachfolger und Nachbarzehner; eine GS-Unterzielzeile, zwei getrennte Ausschnitte",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [
+    "MA-022"
+  ],
+  "reused_cards": [
+    "MA-014"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1846",
+      "scope": "Vorgänger und Nachfolger",
+      "card": "MA-014",
+      "same_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37947"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "decision": "Stufenbandpassenden verbindlichen Nachbarzahlbeleg bevorzugt. Vorhandene Karte MA-014 wiederverwendet; zusätzliche GS-Zielhierarchie mit Hauptziel 1842 separat belegt. Kein neuer Anschlussgegenstand und keine neue Karte.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Beherrschen"
+      },
+      "evidence": "GS1846 und FSP37947 verbindliche Unterzielzeilen; FSP-Formulierungen vor/nach stehen in Bemerkung. Bandziel37739 ist Zahlenraumkontext, kein Unterzieloperator.",
+      "prerequisites": "Zahlwortfolge und eindeutige Position einer Zahl; unmittelbarer Vorgänger und Nachfolger im gewählten Bereich vorhanden.",
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 20,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_37739"
+      },
+      "uncertainty": "Keine eigene Obergrenze in FSP37947. Bis20 bleibt didaktisch aus Bandziel abgeleitet.",
+      "remaining": "FSP3/4 enthält alternativ Nachbarzahlen bis100; trotz größeren Zahlenraums wird der belegte Anschluss im passenden Band bevorzugt. Das gesamte GS-Ziel bis100 und die Darstellungsvielfalt sind nicht durch MA-014 abgedeckt."
+    },
+    {
+      "gs_id": "page912_1846",
+      "scope": "Nachbarzehner",
+      "card": "MA-022",
+      "same_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37947",
+        "page139_37950",
+        "page139_37952",
+        "page139_37859",
+        "page139_37863"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35466",
+        "page139_35468"
+      ],
+      "decision": "Unmittelbare Nachbarzahlen, Schrittzählen, Bündeln und Zehnerüberschreitung in FSP1/2 sind verwandte Inhalte, aber kein ausdrücklicher Nachbarzehnerbeleg. FSP3/4 nennt Nachbarzehner in der Bemerkung zu 35466 unter Beherrschen bis 100. Die Belegart bleibt auf der Karte sichtbar.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Beherrschen"
+      },
+      "evidence": "GS1846 verbindlich; FSP35466 verbindlicher Unterpunkt Zählen/Abzählen; Nachbarzehner ausschließlich als Bemerkung. Hauptziel35461 setzt Beherrschen und bis100.",
+      "prerequisites": "Zahlordnung und Zehnerstruktur; nicht durch zehn teilbare Ausgangszahl mit beiden begrenzenden Zehnerzahlen innerhalb des Bereichs.",
+      "number_range": {
+        "gs": 100,
+        "fsp_explicit_max": 100,
+        "source_anchor": "page139_35461"
+      },
+      "uncertainty": "Bemerkung nennt Nachbarzehner ohne Definition für genaue Zehnerzahlen. Der eindeutige Ausschnitt wird didaktisch auf Nichtzehner begrenzt.",
+      "remaining": "Genaue Zehnerzahlen sind nicht Bestandteil des Feinziels. Keine Gleichsetzung sämtlicher Strukturen/Darstellungen aus GS1843 mit diesem FSP-Ausschnitt; FSP3/4 bleibt gebündelt."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "reviewed_aspects": 2,
+    "new_cards": 1,
+    "reused_cards": 1,
+    "cards": 22,
+    "cross_band_cards": 4,
+    "source_links": 80,
+    "target_anchors": 78,
+    "audit_rows": 35
+  },
+  "continuation": "GS1/2 das Doppelte, die Hälfte (1847), danach gerade/ungerade Zahlen (1848) gegen beide FSP-Bänder prüfen. MA-011 für Verdoppeln/Halbieren wiederverwenden, falls derselbe begrenzte Ausschnitt belegt ist; zusätzliche GS-Zielhierarchien separat führen. FSP-Zahlenräume und Grenzen der Feinziele/Kriterien sowie frühere offene Anschlussfragen bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 22 cards, 80 sources (78 target anchors, 2 context sources); separate GS evidence groups checked",
+    "scope_regression": "passed: exceeded or invented bounds rejected; reused GS groups reject wrong operator, wrong parent, missing source and context/coverage overlap",
+    "browser_local": "passed: all 22 cards, visible scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "preservation": "passed: other 20 cards unchanged; MA-014 IDs, fine goals and FSP scope preserved; one target row and two context rows updated"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.315"
+  }
+}

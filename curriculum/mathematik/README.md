@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-010
+# Mathematik-Abgleich · MA-011
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtzehn liegen im passenden Stufenband. MA-002, MA-011 und MA-012 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Zweiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012 und MA-022 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Vorgänger, Nachfolger und Nachbarzehner (page912_1846), danach doppelte/halbe und gerade/ungerade Zahlen. Drei Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-008](review_batch_008.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei das Doppelte, die Hälfte (page912_1847), danach gerade/ungerade Zahlen. Drei Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-011](review_batch_011.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -146,3 +146,16 @@ MA-004 bleibt ohne belegte numerische Obergrenze. Meter ist die belegte Einheit.
 Es bleiben 21 Karten: sechs ausdrücklich begrenzte, zehn didaktisch abgeleitete, eine noch ohne belegte numerische Obergrenze, zwei fachspezifische und zwei nicht zahlenraumbezogene Geltungsbereiche. Keine zusätzliche GS-Zielzeile wurde als abgeschlossen gezählt; der reguläre Fortsetzungspunkt page912_1846 und alle bisherigen Restumfänge bleiben erhalten.
 
 Datenprüfungen, Grenzregressionen und lokale sowie öffentliche Browserprüfungen aller 21 Karten bestanden. App 1.314 ist mit Commit 91678696a0ccdb127dc03ca138e6251159a1f7e4 veröffentlicht; [Pages-Lauf 42366502579](https://github.com/geafaellt/LernzielKompass/actions/runs/42366502579) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein.
+
+
+## MA-011 · Vorgänger, Nachfolger und Nachbarzehner · App 1.315
+
+GS-Unterziel page912_1846 wurde gegen beide FSP-Bänder geprüft. Vorgänger und Nachfolger nutzen die vorhandene Karte MA-014 mit dem verbindlichen FSP1/2-Nachbarzahlbeleg. Ihr Feinziel bleibt didaktisch auf den aus dem Bandziel abgeleiteten Zahlenraum bis 20 begrenzt; Ausgangszahl und beide Nachbarzahlen müssen darin liegen. Die neue GS-Zielhierarchie wird als `additional_gs_target_groups` separat geführt und geprüft. Der bisherige Ordinalzahlbezug und alle Karten-IDs bleiben erhalten. Gleicher Inhalt wird nicht durch eine zweite Karte gezählt.
+
+MA-022 ergänzt Nachbarzehner als stufenübergreifenden Anschluss GS1/2 zu FSP3/4. Nachbarzehner stehen in der FSP-Bemerkung zu Zählen und Abzählen (35466); Hauptoperator Beherrschen und Zahlenraum bis 100 stammen aus 35461. Unmittelbare Nachbarzahlen, Schrittzählen, Bündeln und Zehnerüberschreitung in FSP1/2 reichen als ausdrücklicher Beleg für Nachbarzehner nicht aus.
+
+Das neue Feinziel beschränkt sich auf nicht durch zehn teilbare Ausgangszahlen. Beide begrenzenden Zehnerzahlen und die Ausgangszahl bleiben bis 100. Diese eindeutige didaktische Konkretisierung erhebt keine zusätzliche Lehrplanforderung; die Behandlung genauer Zehnerzahlen ist nicht festgelegt. Die übergeordnete GS-Struktur- und Darstellungsvielfalt wird nicht als abgedeckt behauptet.
+
+Eine GS-Unterzielzeile mit zwei Ausschnitten wurde begrenzt geprüft: eine neue Karte und eine wiederverwendete Karte. Bestand: 22 Karten, davon vier stufenübergreifend; 80 Quellenlinks (78 Zielanker und zwei übergreifende Kontextquellen). Teilinventur unverändert 35 Zeilen. Frühere Anschlussfragen bleiben bestehen; Fortsetzung bei page912_1847 unter Berücksichtigung von MA-011. Aufgaben und Hilfsmittel bleiben leer.
+
+Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 22 Karten bestanden. Die Prüfung zusätzlicher GS-Belege verwirft vermischte Zielhierarchien, falsche Operatoren, fehlende Quellen und als Abdeckung gezählten Kontext. Die übrigen 20 Karten sowie Feinziele und FSP-Geltungsbereich von MA-014 sind unverändert. Veröffentlichung und Live-Nachweis stehen noch aus.

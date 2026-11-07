@@ -51,6 +51,36 @@ def check_fsp_scope(card):
         if scope['status'] == 'unspecified':
             assert 'festgelegten Zahlenraum' in fsp_goal['goal'] and 'festgelegten Zahlenraum' in fsp_goal['criterion'], cid
 
+def check_additional_gs_groups(card):
+    """Reuse one card for another GS row without merging distinct target hierarchies."""
+    cid = card['id']
+    seen = set(card['gs_target_ids'])
+    additional = set()
+    for group in card.get('additional_gs_target_groups', []):
+        ids = group['target_ids']
+        assert len(ids) >= 2 and len(ids) == len(set(ids)), cid
+        assert not seen.intersection(ids), (cid, 'duplicate GS evidence group')
+        parent, *children = [anchors[rid] for rid in ids]
+        assert parent['level'] == 1 and all(r['level'] > 1 for r in children), cid
+        assert group['operator'] == parent['operator'] == card['gs_operator'], cid
+        assert group['scope'] and group['covered_ids'], cid
+        assert set(group['covered_ids']).isdisjoint(group['context_only_ids']), cid
+        assert set(group['covered_ids']) | set(group['context_only_ids']) == set(ids), cid
+        assert parent['id'] in group['context_only_ids'], cid
+        for rid in ids:
+            row = anchors[rid]
+            sid = 'Q-MA-' + rid
+            assert row['parent_target_id'] == parent['id'], (cid, rid)
+            assert row['grade'] == card['stage_alignment']['gs_anchor_grade'], (cid, rid)
+            assert row['area_id'] == card['app_area'], (cid, rid)
+            assert sid in card['source_ids'], (cid, rid)
+            assert sources[sid]['url'] == row['url'] == progress['source_plans']['gs'] + '#' + rid, cid
+            assert sources[sid]['version'] == row['version'] == '2026', cid
+        seen.update(ids)
+        additional.update(ids)
+    return additional
+
+
 used_anchors = set()
 used_sources = set()
 for card in cards:
@@ -105,6 +135,9 @@ for card in cards:
             assert sources[sid]['version'] == row['version'] == version, (card_id, rid)
             expected_sources.add(sid)
             used_anchors.add(rid)
+    additional_gs_ids = check_additional_gs_groups(card)
+    used_anchors.update(additional_gs_ids)
+    expected_sources.update('Q-MA-' + rid for rid in additional_gs_ids)
     context_ids = card.get('context_source_ids', [])
     assert len(context_ids) == len(set(context_ids)), card_id
     for sid in context_ids:
@@ -133,5 +166,10 @@ for card in cards:
     assert set(context_ids).issubset(card['gs_target_ids'])
     for rid in context_ids:
         assert card['id'] not in audit[rid]['Karten'].split(';'), 'Context is not coverage'
+    for group in card.get('additional_gs_target_groups', []):
+        for rid in group['context_only_ids']:
+            assert card['id'] not in audit[rid]['Karten'].split(';'), 'Context is not coverage'
+        for rid in group['covered_ids']:
+            assert card['id'] in audit[rid]['Karten'].split(';'), 'Reused card needs row-level audit'
 
 print(f"PASS: {len(cards)} mathematics cards, {len(sources)} source links ({len(anchors)} target anchors, {len(context_sources)} context sources), synchronized Pages entry.")

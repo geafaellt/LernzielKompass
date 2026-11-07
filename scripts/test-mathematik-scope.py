@@ -22,3 +22,20 @@ for c in cases:
 for c in cards.values():
     validate(c)
 print('PASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.')
+
+validate_reuse = checks['check_additional_gs_groups']
+reuse_cases = []
+c = copy.deepcopy(cards['MA-014']); c['additional_gs_target_groups'][0]['operator'] = 'Kennen'; reuse_cases.append(c)
+c = copy.deepcopy(cards['MA-014']); c['additional_gs_target_groups'][0]['target_ids'][0] = 'page912_1833'; reuse_cases.append(c)
+c = copy.deepcopy(cards['MA-014']); c['additional_gs_target_groups'][0]['covered_ids'].append('page912_1842'); reuse_cases.append(c)
+c = copy.deepcopy(cards['MA-014']); c['source_ids'].remove('Q-MA-page912_1846'); reuse_cases.append(c)
+for c in reuse_cases:
+    try:
+        validate_reuse(c)
+    except (AssertionError, KeyError):
+        pass
+    else:
+        raise AssertionError('Invalid reused GS evidence accepted: ' + c['id'])
+for c in cards.values():
+    validate_reuse(c)
+print('PASS: reused GS evidence preserves parent/operator/source and separates coverage from context.')

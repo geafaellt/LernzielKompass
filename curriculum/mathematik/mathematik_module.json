@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.7",
+  "version": "MA-2026-11-07.8",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -584,6 +584,12 @@
       "version": "2019",
       "kind": "stage_goals",
       "grade": "3/4"
+    },
+    {
+      "id": "Q-MA-page912_1846",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1846",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -1510,11 +1516,11 @@
       "theme": "Zahlen und ihre Position in der Zahlwortreihe",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · ordinaler Kontext aus FSP-Bemerkung",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Ordinalzahlaspekt als Position in der Zahlwortreihe",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Ordinalzahlaspekt als Position in der Zahlwortreihe; zusätzlich Vorgänger und Nachfolger unter Zahlbeziehungen bis 100 (page912_1846)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Ordinaler Zahlaspekt bei der Zahlbegriffsbildung und Benennen von Nachbarzahlen",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Beherrschen",
-      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen.",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen. Der zusätzliche GS-Unterpunkt 1846 belegt ausdrücklich Vorgänger und Nachfolger. Dieser Ausschnitt nutzt dieselbe Karte; Nachbarzehner gehören zu MA-022. GS bis 100, FSP-Feinziel bis 20 als didaktische Eingrenzung aus dem Bandziel. Ausgangszahl und beide unmittelbaren Nachbarzahlen müssen im gewählten Zahlenraum liegen.",
       "gs_target_ids": [
         "page912_1833",
         "page912_1835",
@@ -1532,7 +1538,10 @@
         "Q-MA-page139_37931",
         "Q-MA-page139_37937",
         "Q-MA-page139_37947",
-        "Q-MA-page139_37739"
+        "Q-MA-page139_37739",
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1846"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1543,7 +1552,7 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen.",
+      "app_review_message": "Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen. Der zusätzliche GS-Unterpunkt 1846 belegt ausdrücklich Vorgänger und Nachfolger. Dieser Ausschnitt nutzt dieselbe Karte; Nachbarzehner gehören zu MA-022. GS bis 100, FSP-Feinziel bis 20 als didaktische Eingrenzung aus dem Bandziel. Ausgangszahl und beide unmittelbaren Nachbarzahlen müssen im gewählten Zahlenraum liegen.",
       "shared_object_suggestion": "Zahlen und ihre Position in der Zahlwortreihe",
       "fine_goals": [
         {
@@ -1563,7 +1572,8 @@
       "evidence_classification": {
         "gs": "verbindliches Unterziel mit Konkretisierung aus Bemerkung",
         "fsp": "Zahlbegriffsbildung und Nachbarzahlen verbindlich; ordinaler Aspekt aus Bemerkung",
-        "fsp_remark_anchor": "page139_37937"
+        "fsp_remark_anchor": "page139_37937",
+        "additional_gs": "Vorgänger und Nachfolger: verbindliches Unterziel 1846 unter Hauptziel 1842; gleicher Operator Beherrschen wie beim bisherigen GS-Anker, eigene Zielhierarchie."
       },
       "context_source_ids": [
         "Q-MA-page139_37739"
@@ -1577,7 +1587,25 @@
           "Q-MA-page139_37739"
         ],
         "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
-      }
+      },
+      "additional_gs_target_groups": [
+        {
+          "target_ids": [
+            "page912_1842",
+            "page912_1843",
+            "page912_1846"
+          ],
+          "operator": "Beherrschen",
+          "scope": "Vorgänger und Nachfolger; Nachbarzehner sind durch diese Karte nicht abgedeckt.",
+          "context_only_ids": [
+            "page912_1842",
+            "page912_1843"
+          ],
+          "covered_ids": [
+            "page912_1846"
+          ]
+        }
+      ]
     },
     {
       "id": "MA-015",
@@ -2154,6 +2182,81 @@
           "Q-MA-page139_37739"
         ],
         "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+      }
+    },
+    {
+      "id": "MA-022",
+      "subject": "Mathematik",
+      "theme": "Nachbarzehner bis 100 · GS 1/2 → FSP 3/4",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · stufenübergreifend · Konkretisierung aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Nachbarzehner als Teil der Zahlbeziehungen bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Nachbarzehner im Kontext Zählen und Abzählen bis 100; Konkretisierung aus Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenübergreifend von GS 1/2 zu FSP 3/4. Nachbarzehner sind in der FSP-Bemerkung zu Zählen und Abzählen ausdrücklich genannt; der Hauptoperator Beherrschen und der Zahlenraum bis 100 stammen aus dem übergeordneten Ziel 35461. FSP 1/2 belegt unmittelbare Nachbarzahlen, jedoch nicht ausdrücklich Nachbarzehner. Diese Karte umfasst nur die begrenzende Zehnerbeziehung bei nicht durch zehn teilbaren Zahlen. Vorgänger und Nachfolger bleiben auf MA-014; weitere Strukturen und Darstellungen sind nicht abgedeckt.",
+      "gs_target_ids": [
+        "page912_1842",
+        "page912_1843",
+        "page912_1846"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1846",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. Nachbarzehner sind in der FSP-Bemerkung zu Zählen und Abzählen ausdrücklich genannt; der Hauptoperator Beherrschen und der Zahlenraum bis 100 stammen aus dem übergeordneten Ziel 35461. FSP 1/2 belegt unmittelbare Nachbarzahlen, jedoch nicht ausdrücklich Nachbarzehner. Diese Karte umfasst nur die begrenzende Zehnerbeziehung bei nicht durch zehn teilbaren Zahlen. Vorgänger und Nachfolger bleiben auf MA-014; weitere Strukturen und Darstellungen sind nicht abgedeckt.",
+      "shared_object_suggestion": "Nachbarzehner bis 100 · GS 1/2 → FSP 3/4",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt sicher die beiden begrenzenden Nachbarzehner einer nicht durch zehn teilbaren Zahl bis 100.",
+          "criterion": "Unterer und oberer Zehner sind aufeinanderfolgende Zehnerzahlen; die Ausgangszahl liegt dazwischen. Ausgangszahl und beide Zehnerzahlen liegen bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bestimmt sicher die beiden begrenzenden Nachbarzehner einer nicht durch zehn teilbaren Zahl bis 100 im Alltagskontext.",
+          "criterion": "Unterer und oberer Zehner sind aufeinanderfolgende Zehnerzahlen; die Ausgangszahl liegt dazwischen. Ausgangszahl und beide Zehnerzahlen liegen im Zahlenraum bis 100.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
+        }
+      ],
+      "evidence_classification": {
+        "gs": "verbindliche Unterzielzeile unter Beherrschen",
+        "fsp": "Nachbarzehner aus Bemerkung zum verbindlichen Unterziel Zählen und Abzählen; Beherrschen und Zahlenraum bis 100 aus Hauptziel",
+        "fsp_remark_anchor": "page139_35466",
+        "context_only_gs_ids": [
+          "page912_1842",
+          "page912_1843"
+        ]
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 · ausdrücklich im übergeordneten FSP-Ziel",
+        "detail": "Das Hauptziel 35461 begrenzt den Umgang mit Zahlen in Alltagssituationen ausdrücklich auf 100. Nachbarzehner werden in der Bemerkung zum untergeordneten Zählen und Abzählen 35466 genannt. Die Beschränkung auf nicht durch zehn teilbare Ausgangszahlen dient der eindeutigen didaktischen Konkretisierung; sie ist keine zusätzliche Lehrplanforderung.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35466"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen; Ausgangszahl und beide begrenzenden Zehnerzahlen bleiben bis 100. Keine Erweiterung über 100; genaue Zehnerzahlen sind nicht Bestandteil dieses Feinziels."
       }
     }
   ]

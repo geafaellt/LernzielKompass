@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-010",
+  "last_batch": "MA-011",
   "complete": false,
   "counts": {
-    "cards": 21,
-    "cross_band": 3
+    "cards": 22,
+    "cross_band": 4
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1002,10 +1002,21 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37956",
       "version": "2019"
+    },
+    "page912_1846": {
+      "id": "page912_1846",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1846",
+      "version": "2026"
     }
   },
-  "next_id": "page912_1846",
-  "next_step": "GS1/2 Vorgänger, Nachfolger, Nachbarzehner (1846), danach doppelte/halbe und gerade/ungerade Zahlen (1847–1848) gegen beide FSP-Bänder prüfen. Vorhandene Karten MA-014 und MA-011 berücksichtigen; keine Doppelzählung. Zahlenraumhinweise und offene Restumfänge bewahren.",
+  "next_id": "page912_1847",
+  "next_step": "GS1/2 das Doppelte, die Hälfte (1847), danach gerade/ungerade Zahlen (1848) gegen beide FSP-Bänder prüfen. MA-011 für Verdoppeln/Halbieren wiederverwenden, falls derselbe begrenzte Ausschnitt belegt ist; zusätzliche GS-Zielhierarchien separat führen. FSP-Zahlenräume und Grenzen der Feinziele/Kriterien sowie frühere offene Anschlussfragen bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1031,9 +1042,21 @@
         "page139_37941"
       ],
       "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
+    },
+    "MA-022": {
+      "same_band_candidate_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37947",
+        "page139_37950",
+        "page139_37952",
+        "page139_37859",
+        "page139_37863"
+      ],
+      "decision": "Unmittelbare Nachbarzahlen, Schrittzählen, Bündeln und Zehnerüberschreitung in FSP1/2 sind verwandte Inhalte, aber kein ausdrücklicher Nachbarzehnerbeleg. FSP3/4 nennt Nachbarzehner in der Bemerkung zu 35466 unter Beherrschen bis 100. Die Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_010.json",
+  "last_review_file": "review_batch_011.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1069,6 +1092,12 @@
       "gs_id": "page912_187046",
       "scope": "Weitere Zerlegungen und systematisches Finden von Zerlegungsmöglichkeiten jenseits der einzelnen Teil-Ganzes-Beziehung",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_1846",
+      "scope": "Unmittelbare Nachbarzahlen jenseits des didaktisch gewählten FSP1/2-Rahmens bis 20 sowie Nachbarzehner bei genauen Zehnerzahlen; übergeordnete Darstellungs- und Strukturvielfalt nicht vollständig abgedeckt.",
+      "status": "offen",
+      "reason": "FSP3/4-Nachbarzahlen bis 100 als Alternative belegt; stufengleicher Anschluss MA-014 bevorzugt. Die Bemerkung Nachbarzehner legt die Behandlung genauer Zehnerzahlen nicht fest. Keine zusätzliche Karte für denselben Nachbarzahlgegenstand."
     }
   ],
   "documented_no_direct_connection_ids": [
