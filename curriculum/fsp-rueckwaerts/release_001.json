@@ -12,9 +12,18 @@
     "912": "697edd8c4111f670302cda67422cd312576f32ff7ce2b71da749f157c4e4965a"
   },
   "data_tests": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-fsp-info",
-  "math_browser": "passed locally: all 26 cards, scope, goals, output, drafts, mobile",
-  "info_browser": "passed locally: all 10 cases, 44 distinct official anchors in data, rendered links, keyboard, subject filters, mobile layout, print exclusion and draft preservation",
-  "publication": "pending",
+  "math_browser": "passed locally and on public app: all 26 cards, scope in cards/goals/output, source links, goal adoption, empty task/aid fields, draft preservation, subject isolation and mobile layout",
+  "info_browser": "passed locally and on public app: 10 cases, excerpt links, keyboard, subject filters, mobile layout, print exclusion and draft preservation",
+  "publication": {
+    "branch": "main",
+    "app_commit": "36ab4ed6ed8c996f6f84bb86028d2ee8ff059be4",
+    "pages_run": 42404542732,
+    "pages_result": "completed success",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_bytes_equal_local": true,
+    "html_sha256": "95499b4fd6979dba7d135e4fc15962aa089a64e8ba570fafa9ad820cabd33cbb"
+  },
   "visual_review": "passed: desktop and mobile screenshots inspected",
-  "preservation": "existing Deutsch, Mathematik and card-title embedded data unchanged against public app 1.321; Sachunterricht validated by check-deutsch; no changes to progress files or card data"
+  "preservation": "existing Deutsch, Mathematik and card-title embedded data unchanged against public app 1.321; Sachunterricht validated by check-deutsch; no changes to progress files or card data",
+  "test_development_note": "The first information-browser run navigated one step too far before filling the existing baseline field. The test navigation was corrected; no application change was needed. All final checks passed."
 }
