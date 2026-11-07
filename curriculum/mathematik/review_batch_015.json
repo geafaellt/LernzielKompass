@@ -1,0 +1,134 @@
+{
+  "id": "MA-015",
+  "date": "2026-11-07",
+  "scope": "GS1/2 Fachbegriffe187049; begrenzte Sprachbezüge und Abgrenzung der restlichen Begriffe",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [],
+  "updated_cards": [
+    "MA-014",
+    "MA-023"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187049",
+      "scope": "Zwischen-Beziehung bei unmittelbaren Nachbarzahlen",
+      "card": "MA-014",
+      "same_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37947"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "decision": "Vorhandenen stufenbandpassenden Nachbarzahlanschluss um den relationalen Sprachbezug ergänzen. Formulierungshilfen in37947 belegen zwischen; liegt und steht sind sprachliche Varianten derselben Beziehung. Nicht die exakte Satzform als neue FSP-Pflicht ausgeben.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Beherrschen"
+      },
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 20,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_37739"
+      },
+      "prerequisites": "Zahlreihenfolge und unmittelbare Nachbarzahlen; alle drei Zahlen im gewählten Bereich.",
+      "uncertainty": "Die konkrete Satzstruktur ist eine Formulierungshilfe in der Bemerkung, keine gesonderte FSP-Sprachzielzeile.",
+      "remaining": "Andere Zwischen-Kontexte und explizite Nominalbegriffe sind nicht automatisch abgedeckt."
+    },
+    {
+      "gs_id": "page912_187049",
+      "scope": "Bezeichnungen gerade und ungerade",
+      "card": "MA-023",
+      "same_band_candidates": [
+        "page139_37816",
+        "page139_37937",
+        "page139_37950"
+      ],
+      "cross_band_candidates": [
+        "page139_35439",
+        "page139_35444"
+      ],
+      "decision": "Bezeichnungen aus Bemerkung35444 für die bereits belegte Klassifikation anhand Teilbarkeit durch2 nutzen. Die Benennung wird als didaktische Konkretisierung ergänzt, nicht als neu entdecktes eigenständiges amtliches Sprachziel.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Kennen"
+      },
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 100,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_35415"
+      },
+      "prerequisites": "Unterscheidung der Teilbarkeit durch2 und passende Zuordnung der beiden Bezeichnungen.",
+      "uncertainty": "Sprachbezeichnungen stehen in der Bemerkung; die Konkretisierung begründet keine vollständige GS-Sprachzieldeckung.",
+      "remaining": "Andere Fachbegriffe und Teilbarkeitsregeln für5/10 bleiben außerhalb der Karte."
+    },
+    {
+      "gs_id": "page912_187049",
+      "scope": "Eigenständiges Verwenden der Begriffe Zahlwort, Ziffer, Zahl, Vorgänger, Nachfolger, Nachbarzehner sowie der Formulierungen ist größer als, ist kleiner als und ist gleich; vorhandene Inhalts-/Symbolbelege sichern die gesamte Sprachforderung noch nicht.",
+      "status": "open_connection_question",
+      "same_band_candidates": [
+        "page139_37941",
+        "page139_37947",
+        "page139_37956",
+        "page139_37813"
+      ],
+      "cross_band_candidates": [
+        "page139_35463",
+        "page139_35466",
+        "page139_35499"
+      ],
+      "stage_goal_candidates": [
+        "page139_37739",
+        "page139_35415"
+      ],
+      "decision": "Zahlwort/Zahl als Gegenstand, Zahlenbenennung, Vergleichssymbole und Umgang mit Ziffern nicht mit der vollständigen Verwendung oder Unterscheidung der Fachbegriffe gleichsetzen. Mengenformulierungen mehr/weniger/gleich viel nicht als identischen Zahlenvergleichswortlaut ausgeben. Allgemeine Sprachziele unterstützen die Konkretisierung, ersetzen aber den spezifischen Beleg nicht.",
+      "uncertainty": "Weitere direkte oder übergreifende Sprachanschlüsse bedürfen einer gezielten Klärung; weder pauschaler Nichtanschluss noch automatische Kartenzuordnung.",
+      "remaining": "Eigenständiges Verwenden der Begriffe Zahlwort, Ziffer, Zahl, Vorgänger, Nachfolger, Nachbarzehner sowie der Formulierungen ist größer als, ist kleiner als und ist gleich; vorhandene Inhalts-/Symbolbelege sichern die gesamte Sprachforderung noch nicht."
+    }
+  ],
+  "inventory_added_ids": [
+    "page912_1852",
+    "page912_1853",
+    "page912_187050",
+    "page912_1854",
+    "page912_1855",
+    "page912_1856",
+    "page912_187051",
+    "page912_187052",
+    "page912_187053"
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "reviewed_aspects": 2,
+    "rechecked_existing_rows": 2,
+    "new_open_connection_questions": 1,
+    "new_inventory_rows": 9,
+    "new_cards": 0,
+    "cards": 24,
+    "cross_band_cards": 5,
+    "source_links": 90,
+    "target_anchors": 88,
+    "audit_rows": 44
+  },
+  "continuation": "GS1/2 Block dekadisches Positionssystem (1852): Darstellen von Zahlen (1853), Bündelungsprinzip (187050), Stellenwertprinzip (1854) und Bedeutung der Null (1855) gegen beide FSP-Bänder prüfen. MA-024 und offene Frage Stellenwertanalogien1849 berücksichtigen; keine Doppelzählung. Neu inventarisierte Zeilen sind noch ungeprüft. Fünf Anschlussfragen und bisherige Restumfänge sowie FSP-Grenzen bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 24 cards, 90 sources (88 target anchors, 2 context sources); next open row present",
+    "scope_regression": "passed: invalid limits and malformed reused evidence rejected",
+    "browser_local": "passed: all 24 cards; scope in cards/goals/output, source links, updated goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "preservation": "passed: all FSP scopes and operators unchanged; other 22 cards unchanged; one reviewed GS row counted once despite two card references; nine inventory rows remain unreviewed"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.319"
+  }
+}

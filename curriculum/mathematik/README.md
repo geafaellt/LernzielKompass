@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-014
+# Mathematik-Abgleich · MA-015
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei den Fachbegriffen (page912_187049). Vier Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-014](review_batch_014.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung beim dekadischen Positionssystem (page912_1852). Fünf Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-015](review_batch_015.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -196,3 +196,16 @@ Für GS 187048 wurde kein hinreichend belegter direkter Anschluss zum Begründen
 Die Elternzeile 1851 bleibt Kontext und wird nicht als vollständig abgedeckt gezählt. Zwei neue Unterzielzeilen geprüft: ein begrenzter Anschluss und eine begründete direkte Abgrenzung. Der vorhandene Kardinalzahl-Ausschnitt 187040 wurde erneut bestätigt. Keine neue Karte, unverändert 24 Karten und fünf stufenübergreifende Anschlüsse; 89 Quellenlinks (87 Zielanker und zwei Kontextquellen). Alle Feinziele und Geltungsbereiche sowie die übrigen 23 Karten bleiben unverändert. Fortsetzung bei 187049; vier bestehende Anschlussfragen und alle Restumfänge bleiben erhalten.
 
 Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 24 Karten bestanden. App 1.318 ist mit Commit 4c4cdffe7a921ae188e502f32c8d78f8996a784e veröffentlicht; [Pages-Lauf 42373087888](https://github.com/geafaellt/LernzielKompass/actions/runs/42373087888) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 24 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
+
+
+## MA-015 · Fachbegriffe und Zwischen-Beziehung · App 1.319
+
+GS 187049 wurde in getrennten Sprachausschnitten gegen beide FSP-Bänder geprüft. MA-014 ergänzt die Zwischen-Beziehung bei unmittelbaren Nachbarzahlen; FSP 1/2 nennt Formulierungshilfen in der Bemerkung zu 37947. Identischer Satzbau mit liegt/steht wird nicht behauptet. Alle drei Zahlen bleiben innerhalb des didaktisch aus dem Bandziel abgeleiteten FSP-Rahmens bis 20.
+
+MA-023 bezeichnet die vorhandene Klassifikation nun ausdrücklich mit gerade/ungerade. Die Wörter stehen in FSP 3/4 in der Bemerkung zu 35444. Ihre Verwendung ist als didaktische Konkretisierung des Kennens gekennzeichnet, nicht als neue amtliche Sprachzielzeile. Der Rahmen bleibt didaktisch bis 100; nichtnegative ganze Zahlen und relevante Ergebnisse bleiben darin. Die Operatoren und gebündelten Stufenbänder beider Karten sind unverändert.
+
+Zahlwort, Ziffer, Zahl, Vorgänger, Nachfolger, Nachbarzehner und die übrigen Zahlenvergleichsformulierungen bleiben als zusätzliche Anschlussfrage offen. Das Vorkommen eines Fachworts im Lehrplan, das Benennen einer konkreten Zahl und die Verwendung eines Vergleichszeichens sind nicht automatisch eine vollständige Fachsprachforderung. Vorhandene Karten MA-010, MA-012, MA-021 und MA-022 werden dafür nicht ungeprüft mitgezählt.
+
+Eine neue GS-Zeile mit zwei begrenzten Sprachausschnitten geprüft, zwei bestehende mathematische Ausschnitte erneut bestätigt. Keine neue Karte: Bestand 24, fünf stufenübergreifend; 90 Quellenlinks (88 Zielanker und zwei Kontextquellen). Alle Geltungsbereiche und die übrigen 22 Karten unverändert. Neun Zeilen des nächsten GS-Stellenwertblocks wurden ausschließlich inventarisiert; die Teilinventur umfasst jetzt 44 Zeilen. Das ist kein zusätzlicher fachlicher Prüffortschritt. Fortsetzung bei 1852; fünf Anschlussfragen und frühere Restumfänge bleiben erhalten.
+
+Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 24 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.

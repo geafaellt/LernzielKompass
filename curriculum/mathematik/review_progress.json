@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-014",
+  "last_batch": "MA-015",
   "complete": false,
   "counts": {
     "cards": 24,
@@ -1112,10 +1112,21 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187047",
       "version": "2026"
+    },
+    "page912_187049": {
+      "id": "page912_187049",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187049",
+      "version": "2026"
     }
   },
-  "next_id": "page912_187049",
-  "next_step": "GS1/2 Fachbegriffe (187049) gegen beide FSP-Bänder prüfen; vorhandene Karten zu Zahl/Zahlwort, Nachbarzahlen, Vergleich und gerade/ungerade berücksichtigen, mathematischen Inhalt von eigenständigem Sprachziel trennen. Danach nächsten GS-Zielblock zur Struktur des dekadischen Positionssystems inventarisieren. Vier offene Anschlussfragen und bisherige Restumfänge einschließlich Darstellungswechsel bewahren; FSP-Grenzen der Feinziele/Kriterien prüfen.",
+  "next_id": "page912_1852",
+  "next_step": "GS1/2 Block dekadisches Positionssystem (1852): Darstellen von Zahlen (1853), Bündelungsprinzip (187050), Stellenwertprinzip (1854) und Bedeutung der Null (1855) gegen beide FSP-Bänder prüfen. MA-024 und offene Frage Stellenwertanalogien1849 berücksichtigen; keine Doppelzählung. Neu inventarisierte Zeilen sind noch ungeprüft. Fünf Anschlussfragen und bisherige Restumfänge sowie FSP-Grenzen bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1165,7 +1176,7 @@
       "decision": "Paarweises Zuordnen, Strukturieren und Schrittzählen in FSP1/2 belegen für sich weder die Zahlklassifikation gerade/ungerade noch die Teilbarkeitsregel. FSP3/4 nennt beide im Ziel-/Bemerkungszusammenhang 35439/35444; dieser engere Anschluss wird ausdrücklich stufenübergreifend geführt."
     }
   },
-  "last_review_file": "review_batch_014.json",
+  "last_review_file": "review_batch_015.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1196,6 +1207,12 @@
         "page139_35468",
         "page139_35485"
       ]
+    },
+    {
+      "gs_id": "page912_187049",
+      "scope": "Eigenständiges Verwenden der Begriffe Zahlwort, Ziffer, Zahl, Vorgänger, Nachfolger, Nachbarzehner sowie der Formulierungen ist größer als, ist kleiner als und ist gleich; vorhandene Inhalts-/Symbolbelege sichern die gesamte Sprachforderung noch nicht.",
+      "status": "offen",
+      "reason": "FSP-Zahlwortzuordnung ist keine metasprachliche Unterscheidung von Zahlwort/Ziffer/Zahl. Benennen der Nachbarzahlen belegt zunächst Zahlenbenennung; Vergleichszeichen und Mengenformulierungen sind nicht automatisch derselbe Sprachbeleg wie die GS-Zahlenvergleichsformulierungen. Die gezielt belegten Zwischen-/Paritätsausschnitte bleiben davon getrennt."
     }
   ],
   "remaining_scopes": [
@@ -1248,10 +1265,11 @@
   "inventory_scope": {
     "gs_blocks": [
       "page912_1833",
-      "page912_1842"
+      "page912_1842",
+      "page912_1852"
     ],
-    "rows": 35,
-    "note": "Teilinventur: zwei GS1/2-Blöcke sowie ausgewählte Zeilen aus zwei GS3/4-Blöcken. Kontextzeilen und nicht inventarisierte Zeilen gelten nicht als vollständig geprüft.",
+    "rows": 44,
+    "note": "Teilinventur: drei GS1/2-Blöcke und ausgewählte Zeilen aus zwei GS3/4-Blöcken. Neu inventarisierter Stellenwertblock noch ungeprüft; Inventur und Kontextbezug sind kein fachlicher Prüffortschritt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

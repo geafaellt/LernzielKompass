@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.11",
+  "version": "MA-2026-11-07.12",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -643,6 +643,12 @@
       "id": "Q-MA-page912_187047",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187047",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187049",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Fachbegriffe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187049",
       "version": "2026"
     }
   ],
@@ -1620,11 +1626,11 @@
       "theme": "Zahlen und ihre Position in der Zahlwortreihe",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · ordinaler Kontext aus FSP-Bemerkung",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Ordinalzahlaspekt als Position in der Zahlwortreihe; zusätzlich Vorgänger und Nachfolger unter Zahlbeziehungen bis 100 (page912_1846)",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Ordinalzahlaspekt als Position in der Zahlwortreihe; zusätzlich Vorgänger und Nachfolger unter Zahlbeziehungen bis 100 (page912_1846); sprachliche Zwischen-Beziehung im Nachbarzahlkontext (page912_187049)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Ordinaler Zahlaspekt bei der Zahlbegriffsbildung und Benennen von Nachbarzahlen",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Beherrschen",
-      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen. Der zusätzliche GS-Unterpunkt 1846 belegt ausdrücklich Vorgänger und Nachfolger. Dieser Ausschnitt nutzt dieselbe Karte; Nachbarzehner gehören zu MA-022. GS bis 100, FSP-Feinziel bis 20 als didaktische Eingrenzung aus dem Bandziel. Ausgangszahl und beide unmittelbaren Nachbarzahlen müssen im gewählten Zahlenraum liegen.",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen. Der zusätzliche GS-Unterpunkt 1846 belegt ausdrücklich Vorgänger und Nachfolger. Dieser Ausschnitt nutzt dieselbe Karte; Nachbarzehner gehören zu MA-022. GS bis 100, FSP-Feinziel bis 20 als didaktische Eingrenzung aus dem Bandziel. Ausgangszahl und beide unmittelbaren Nachbarzahlen müssen im gewählten Zahlenraum liegen. Der zusätzliche Sprachbezug aus GS187049 ist auf die Zwischen-Beziehung bei unmittelbaren Nachbarzahlen begrenzt. FSP37947 nennt dafür Formulierungshilfen in der Bemerkung. Die relationale Bedeutung ist gemeinsam; identischer Satzbau mit liegt bzw. steht wird nicht verlangt. Das ist kein Nachweis für das explizite Verwenden sämtlicher Nominalbegriffe Vorgänger/Nachfolger und der übrigen GS-Begriffsliste.",
       "gs_target_ids": [
         "page912_1833",
         "page912_1835",
@@ -1645,7 +1651,8 @@
         "Q-MA-page139_37739",
         "Q-MA-page912_1842",
         "Q-MA-page912_1843",
-        "Q-MA-page912_1846"
+        "Q-MA-page912_1846",
+        "Q-MA-page912_187049"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1656,18 +1663,19 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen. Der zusätzliche GS-Unterpunkt 1846 belegt ausdrücklich Vorgänger und Nachfolger. Dieser Ausschnitt nutzt dieselbe Karte; Nachbarzehner gehören zu MA-022. GS bis 100, FSP-Feinziel bis 20 als didaktische Eingrenzung aus dem Bandziel. Ausgangszahl und beide unmittelbaren Nachbarzahlen müssen im gewählten Zahlenraum liegen.",
+      "app_review_message": "Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen. Der zusätzliche GS-Unterpunkt 1846 belegt ausdrücklich Vorgänger und Nachfolger. Dieser Ausschnitt nutzt dieselbe Karte; Nachbarzehner gehören zu MA-022. GS bis 100, FSP-Feinziel bis 20 als didaktische Eingrenzung aus dem Bandziel. Ausgangszahl und beide unmittelbaren Nachbarzahlen müssen im gewählten Zahlenraum liegen. Der zusätzliche Sprachbezug aus GS187049 ist auf die Zwischen-Beziehung bei unmittelbaren Nachbarzahlen begrenzt. FSP37947 nennt dafür Formulierungshilfen in der Bemerkung. Die relationale Bedeutung ist gemeinsam; identischer Satzbau mit liegt bzw. steht wird nicht verlangt. Das ist kein Nachweis für das explizite Verwenden sämtlicher Nominalbegriffe Vorgänger/Nachfolger und der übrigen GS-Begriffsliste.",
       "shared_object_suggestion": "Zahlen und ihre Position in der Zahlwortreihe",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind bestimmt sicher die Position einer Zahl in der Zahlwortreihe anhand der unmittelbar vorhergehenden und nachfolgenden Zahl.",
-          "criterion": "Beide Nachbarzahlen und ihre Reihenfolge stimmen."
+          "goal": "Das Kind bestimmt sicher die Position einer Zahl in der Zahlwortreihe anhand ihrer unmittelbaren Nachbarzahlen und beschreibt, zwischen welchen Zahlen sie liegt.",
+          "criterion": "Beide Nachbarzahlen, ihre Reihenfolge und die sprachlich bezeichnete Zwischen-Beziehung stimmen.",
+          "status": "Didaktische Konkretisierung; begrenzter Sprachbezug."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind benennt sicher die unmittelbaren Nachbarzahlen im Zahlenraum bis 20.",
-          "criterion": "Vorgänger und Nachfolger sind richtig benannt; Ausgangszahl und beide Nachbarzahlen liegen bis 20.",
+          "goal": "Das Kind benennt sicher die unmittelbaren Nachbarzahlen im Zahlenraum bis 20 und beschreibt die Zwischen-Beziehung der Ausgangszahl.",
+          "criterion": "Die unmittelbaren Nachbarzahlen sind richtig benannt und die Ausgangszahl ist sprachlich zutreffend zwischen ihnen eingeordnet. Ausgangszahl und beide Nachbarzahlen bleiben bis 20.",
           "scope_status": "derived",
           "range_max": 20,
           "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
@@ -1677,7 +1685,8 @@
         "gs": "verbindliches Unterziel mit Konkretisierung aus Bemerkung",
         "fsp": "Zahlbegriffsbildung und Nachbarzahlen verbindlich; ordinaler Aspekt aus Bemerkung",
         "fsp_remark_anchor": "page139_37937",
-        "additional_gs": "Vorgänger und Nachfolger: verbindliches Unterziel 1846 unter Hauptziel 1842; gleicher Operator Beherrschen wie beim bisherigen GS-Anker, eigene Zielhierarchie."
+        "additional_gs": "Vorgänger und Nachfolger: verbindliches Unterziel 1846 unter Hauptziel 1842; gleicher Operator Beherrschen wie beim bisherigen GS-Anker, eigene Zielhierarchie.",
+        "language": "Zwischen-Beziehung aus FSP-Bemerkung37947, nicht als neuer Hauptoperator; GS-Fachbegriffszeile187049 nur in diesem Ausschnitt."
       },
       "context_source_ids": [
         "Q-MA-page139_37739"
@@ -1697,16 +1706,18 @@
           "target_ids": [
             "page912_1842",
             "page912_1843",
-            "page912_1846"
+            "page912_1846",
+            "page912_187049"
           ],
           "operator": "Beherrschen",
-          "scope": "Vorgänger und Nachfolger; Nachbarzehner sind durch diese Karte nicht abgedeckt.",
+          "scope": "Vorgänger und Nachfolger; Nachbarzehner sind durch diese Karte nicht abgedeckt. Zusätzlich Zwischen-Beziehung aus 187049 im unmittelbaren Nachbarzahlkontext; keine vollständige Fachbegriffsabdeckung.",
           "context_only_ids": [
             "page912_1842",
             "page912_1843"
           ],
           "covered_ids": [
-            "page912_1846"
+            "page912_1846",
+            "page912_187049"
           ]
         }
       ]
@@ -2369,15 +2380,16 @@
       "theme": "Gerade und ungerade Zahlen · Teilbarkeit durch 2",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · stufenübergreifend · FSP-Bemerkung und didaktischer Zahlenrahmen",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Gerade und ungerade Zahlen als Zahlbeziehungen bis 100",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Gerade und ungerade Zahlen als Zahlbeziehungen bis 100; Verwenden der Bezeichnungen gerade/ungerade (page912_187049)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Unterscheidung gerader und ungerader Zahlen im Kontext der Teilbarkeit durch 2; Konkretisierung aus Bemerkung",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Kennen",
-      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenübergreifend von GS 1/2 zu FSP 3/4. GS fordert Beherrschen der Zahlbeziehungen bis 100. FSP nennt gerade und ungerade Zahlen in der Bemerkung zur Teilbarkeitsregel der 2, 5 und 10 unter Kennen von Rechenhandlungen. Die Karte beschränkt den Anschluss auf die Unterscheidung anhand der Teilbarkeit durch 2; Teilbarkeit durch 5 und 10 ist hier nicht abgeglichen. Bis 100 ist für das FSP-Feinziel didaktisch aus den übergreifenden Bandzielen abgeleitet, keine eigene Obergrenze der Unterzielzeile. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung; Operatoren und Darstellungsvielfalt bleiben verschieden.",
+      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenübergreifend von GS 1/2 zu FSP 3/4. GS fordert Beherrschen der Zahlbeziehungen bis 100. FSP nennt gerade und ungerade Zahlen in der Bemerkung zur Teilbarkeitsregel der 2, 5 und 10 unter Kennen von Rechenhandlungen. Die Karte beschränkt den Anschluss auf die Unterscheidung anhand der Teilbarkeit durch 2; Teilbarkeit durch 5 und 10 ist hier nicht abgeglichen. Bis 100 ist für das FSP-Feinziel didaktisch aus den übergreifenden Bandzielen abgeleitet, keine eigene Obergrenze der Unterzielzeile. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung; Operatoren und Darstellungsvielfalt bleiben verschieden. Der zusätzliche GS-Sprachbezug187049 umfasst ausschließlich die Bezeichnungen gerade und ungerade. Diese stehen ausdrücklich in der FSP-Bemerkung35444; ihre Verwendung zur Benennung der Klassifikation ist eine didaktische Konkretisierung des FSP-Kennens, keine eigenständige neue amtliche Sprachzielzeile. Die übrige GS-Begriffsliste bleibt offen.",
       "gs_target_ids": [
         "page912_1842",
         "page912_1843",
-        "page912_1848"
+        "page912_1848",
+        "page912_187049"
       ],
       "fsp_target_ids": [
         "page139_35439",
@@ -2389,7 +2401,8 @@
         "Q-MA-page912_1848",
         "Q-MA-page139_35439",
         "Q-MA-page139_35444",
-        "Q-MA-page139_35415"
+        "Q-MA-page139_35415",
+        "Q-MA-page912_187049"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -2400,19 +2413,19 @@
         "relation": "cross-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. GS fordert Beherrschen der Zahlbeziehungen bis 100. FSP nennt gerade und ungerade Zahlen in der Bemerkung zur Teilbarkeitsregel der 2, 5 und 10 unter Kennen von Rechenhandlungen. Die Karte beschränkt den Anschluss auf die Unterscheidung anhand der Teilbarkeit durch 2; Teilbarkeit durch 5 und 10 ist hier nicht abgeglichen. Bis 100 ist für das FSP-Feinziel didaktisch aus den übergreifenden Bandzielen abgeleitet, keine eigene Obergrenze der Unterzielzeile. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung; Operatoren und Darstellungsvielfalt bleiben verschieden.",
+      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. GS fordert Beherrschen der Zahlbeziehungen bis 100. FSP nennt gerade und ungerade Zahlen in der Bemerkung zur Teilbarkeitsregel der 2, 5 und 10 unter Kennen von Rechenhandlungen. Die Karte beschränkt den Anschluss auf die Unterscheidung anhand der Teilbarkeit durch 2; Teilbarkeit durch 5 und 10 ist hier nicht abgeglichen. Bis 100 ist für das FSP-Feinziel didaktisch aus den übergreifenden Bandzielen abgeleitet, keine eigene Obergrenze der Unterzielzeile. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung; Operatoren und Darstellungsvielfalt bleiben verschieden. Der zusätzliche GS-Sprachbezug187049 umfasst ausschließlich die Bezeichnungen gerade und ungerade. Diese stehen ausdrücklich in der FSP-Bemerkung35444; ihre Verwendung zur Benennung der Klassifikation ist eine didaktische Konkretisierung des FSP-Kennens, keine eigenständige neue amtliche Sprachzielzeile. Die übrige GS-Begriffsliste bleibt offen.",
       "shared_object_suggestion": "Gerade und ungerade Zahlen · Teilbarkeit durch 2",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind unterscheidet sicher gerade und ungerade nichtnegative ganze Zahlen bis 100.",
-          "criterion": "Die Einordnung stimmt: Gerade Zahlen sind ohne Rest durch 2 teilbar, ungerade Zahlen nicht. Alle eingeordneten Zahlen liegen bis 100.",
+          "goal": "Das Kind unterscheidet sicher gerade und ungerade nichtnegative ganze Zahlen bis 100 und bezeichnet sie entsprechend.",
+          "criterion": "Die Einordnung stimmt: Gerade Zahlen sind ohne Rest durch 2 teilbar, ungerade Zahlen nicht. Alle eingeordneten Zahlen liegen bis 100. Die Bezeichnung gerade oder ungerade passt zur Einordnung.",
           "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind unterscheidet gerade und ungerade nichtnegative ganze Zahlen bis 100 anhand ihrer Teilbarkeit durch 2.",
-          "criterion": "Die Einordnung und die zugehörige Aussage zur Teilbarkeit durch 2 stimmen überein: ohne Rest bei geraden Zahlen, nicht ohne Rest bei ungeraden Zahlen. Alle beurteilten Zahlen und gegebenenfalls zugehörigen ganzzahligen Quotienten bleiben bis 100.",
+          "goal": "Das Kind unterscheidet nichtnegative ganze Zahlen bis 100 anhand ihrer Teilbarkeit durch 2 und bezeichnet sie als gerade oder ungerade.",
+          "criterion": "Die Einordnung und die zugehörige Aussage zur Teilbarkeit durch 2 stimmen überein: ohne Rest bei geraden Zahlen, nicht ohne Rest bei ungeraden Zahlen. Alle beurteilten Zahlen und gegebenenfalls zugehörigen ganzzahligen Quotienten bleiben bis 100. Die Bezeichnung gerade oder ungerade passt zur Einordnung.",
           "scope_status": "derived",
           "range_max": 100,
           "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
@@ -2428,7 +2441,8 @@
         "context_only_gs_ids": [
           "page912_1842",
           "page912_1843"
-        ]
+        ],
+        "language": "Bezeichnungen gerade/ungerade aus Bemerkung35444; didaktisch in die bestehende Klassifikation eingebunden, keine vollständige GS-Sprachzieldeckung."
       },
       "fsp_scope": {
         "status": "derived",
