@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.8",
+  "version": "MA-2026-11-07.9",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -590,6 +590,30 @@
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1846",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1847",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1847",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1848",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1848",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35439",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35444",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35444",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -1313,11 +1337,11 @@
       "theme": "Doppelte und halbe Anzahlen",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · erster Prüfstand",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Mengen verdoppeln und halbieren",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Mengen verdoppeln und halbieren; zusätzlich das Doppelte und die Hälfte als Zahlbeziehung bis 100 (page912_1847)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Verdoppeln und Halbieren im Kontext gerechten Verteilens",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Einblick gewinnen",
-      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Stufenübergreifend von GS 1/2 zu FSP 3/4. In FSP 1/2 sind Mengenstrukturierung und Rechenhandlungen belegt, der ausdrückliche Zielanker Verdoppeln und Halbieren steht in 3/4. GS fordert Beherrschen, FSP Einblick gewinnen. Die GS-Zahlenraumgrenze 100 wird dem FSP-Ausschnitt nicht zugeschrieben.",
+      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Stufenübergreifend von GS 1/2 zu FSP 3/4. Der ausdrückliche FSP-Unterpunkt Verdoppeln und Halbieren gehört zum Hauptziel Einblick gewinnen in gerechtes Verteilen. Allgemeines Mengenstrukturieren und Rechnen in FSP 1/2 belegen diesen Inhalt nicht ausdrücklich. GS fordert Beherrschen bis 100; für das FSP-Feinziel wird bis 100 didaktisch aus dem übergreifenden Bandziel abgeleitet. Die FSP-Unterzielzeile hat keine eigene Obergrenze. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung: Anzahlen und ganzzahlige Hälften im Verteilungskontext bilden einen begrenzten Ausschnitt; Operatoren und Darstellungstiefe bleiben verschieden. Die zusätzliche GS-Zeile 1847 nutzt dieselbe Karte. Die eigenständige Sprachfrage zu 1837 bleibt offen.",
       "gs_target_ids": [
         "page912_1833",
         "page912_1836",
@@ -1333,7 +1357,10 @@
         "Q-MA-page912_187045",
         "Q-MA-page139_35435",
         "Q-MA-page139_35437",
-        "Q-MA-page139_35415"
+        "Q-MA-page139_35415",
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1847"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1344,7 +1371,7 @@
         "relation": "cross-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. In FSP 1/2 sind Mengenstrukturierung und Rechenhandlungen belegt, der ausdrückliche Zielanker Verdoppeln und Halbieren steht in 3/4. GS fordert Beherrschen, FSP Einblick gewinnen. Die GS-Zahlenraumgrenze 100 wird dem FSP-Ausschnitt nicht zugeschrieben.",
+      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. Der ausdrückliche FSP-Unterpunkt Verdoppeln und Halbieren gehört zum Hauptziel Einblick gewinnen in gerechtes Verteilen. Allgemeines Mengenstrukturieren und Rechnen in FSP 1/2 belegen diesen Inhalt nicht ausdrücklich. GS fordert Beherrschen bis 100; für das FSP-Feinziel wird bis 100 didaktisch aus dem übergreifenden Bandziel abgeleitet. Die FSP-Unterzielzeile hat keine eigene Obergrenze. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung: Anzahlen und ganzzahlige Hälften im Verteilungskontext bilden einen begrenzten Ausschnitt; Operatoren und Darstellungstiefe bleiben verschieden. Die zusätzliche GS-Zeile 1847 nutzt dieselbe Karte. Die eigenständige Sprachfrage zu 1837 bleibt offen.",
       "shared_object_suggestion": "Doppelte und halbe Anzahlen",
       "fine_goals": [
         {
@@ -1373,6 +1400,28 @@
           "Q-MA-page139_35415"
         ],
         "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 100."
+      },
+      "additional_gs_target_groups": [
+        {
+          "target_ids": [
+            "page912_1842",
+            "page912_1843",
+            "page912_1847"
+          ],
+          "operator": "Beherrschen",
+          "scope": "Doppelte und halbe Anzahlen als begrenzter Ausschnitt der Zahlbeziehungen; keine vollständige Struktur- und Darstellungsabdeckung.",
+          "context_only_ids": [
+            "page912_1842",
+            "page912_1843"
+          ],
+          "covered_ids": [
+            "page912_1847"
+          ]
+        }
+      ],
+      "evidence_classification": {
+        "gs": "Verbindliches Unterziel zum Verdoppeln/Halbieren von Mengen; zusätzlicher verbindlicher Unterpunkt 1847 unter separatem Hauptziel 1842, beide Beherrschen.",
+        "fsp": "Verbindlicher Unterpunkt Verdoppeln und Halbieren unter Einblick gewinnen in gerechtes Verteilen; Darstellungsformen in der Bemerkung; Zahlenrahmen aus Bandziel als didaktische Begrenzung."
       }
     },
     {
@@ -2257,6 +2306,85 @@
           "Q-MA-page139_35466"
         ],
         "planning_rule": "Nur nichtnegative ganze Zahlen; Ausgangszahl und beide begrenzenden Zehnerzahlen bleiben bis 100. Keine Erweiterung über 100; genaue Zehnerzahlen sind nicht Bestandteil dieses Feinziels."
+      }
+    },
+    {
+      "id": "MA-023",
+      "subject": "Mathematik",
+      "theme": "Gerade und ungerade Zahlen · Teilbarkeit durch 2",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · stufenübergreifend · FSP-Bemerkung und didaktischer Zahlenrahmen",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Gerade und ungerade Zahlen als Zahlbeziehungen bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Unterscheidung gerader und ungerader Zahlen im Kontext der Teilbarkeit durch 2; Konkretisierung aus Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenübergreifend von GS 1/2 zu FSP 3/4. GS fordert Beherrschen der Zahlbeziehungen bis 100. FSP nennt gerade und ungerade Zahlen in der Bemerkung zur Teilbarkeitsregel der 2, 5 und 10 unter Kennen von Rechenhandlungen. Die Karte beschränkt den Anschluss auf die Unterscheidung anhand der Teilbarkeit durch 2; Teilbarkeit durch 5 und 10 ist hier nicht abgeglichen. Bis 100 ist für das FSP-Feinziel didaktisch aus den übergreifenden Bandzielen abgeleitet, keine eigene Obergrenze der Unterzielzeile. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung; Operatoren und Darstellungsvielfalt bleiben verschieden.",
+      "gs_target_ids": [
+        "page912_1842",
+        "page912_1843",
+        "page912_1848"
+      ],
+      "fsp_target_ids": [
+        "page139_35439",
+        "page139_35444"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1848",
+        "Q-MA-page139_35439",
+        "Q-MA-page139_35444",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. GS fordert Beherrschen der Zahlbeziehungen bis 100. FSP nennt gerade und ungerade Zahlen in der Bemerkung zur Teilbarkeitsregel der 2, 5 und 10 unter Kennen von Rechenhandlungen. Die Karte beschränkt den Anschluss auf die Unterscheidung anhand der Teilbarkeit durch 2; Teilbarkeit durch 5 und 10 ist hier nicht abgeglichen. Bis 100 ist für das FSP-Feinziel didaktisch aus den übergreifenden Bandzielen abgeleitet, keine eigene Obergrenze der Unterzielzeile. Trotz gleicher gewählter Zahlengrenze besteht keine vollständige GS-Zieldeckung; Operatoren und Darstellungsvielfalt bleiben verschieden.",
+      "shared_object_suggestion": "Gerade und ungerade Zahlen · Teilbarkeit durch 2",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind unterscheidet sicher gerade und ungerade nichtnegative ganze Zahlen bis 100.",
+          "criterion": "Die Einordnung stimmt: Gerade Zahlen sind ohne Rest durch 2 teilbar, ungerade Zahlen nicht. Alle eingeordneten Zahlen liegen bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind unterscheidet gerade und ungerade nichtnegative ganze Zahlen bis 100 anhand ihrer Teilbarkeit durch 2.",
+          "criterion": "Die Einordnung und die zugehörige Aussage zur Teilbarkeit durch 2 stimmen überein: ohne Rest bei geraden Zahlen, nicht ohne Rest bei ungeraden Zahlen. Alle beurteilten Zahlen und gegebenenfalls zugehörigen ganzzahligen Quotienten bleiben bis 100.",
+          "scope_status": "derived",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "evidence_classification": {
+        "gs": "verbindliche Unterzielzeile unter Beherrschen",
+        "fsp": "Teilbarkeitsregel verbindlich unter Kennen; gerade/ungerade als Konkretisierung in Bemerkung; Zahlenraum aus übergreifendem Bandziel",
+        "fsp_remark_anchor": "page139_35444",
+        "context_only_gs_ids": [
+          "page912_1842",
+          "page912_1843"
+        ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Der FSP-Unterpunkt zur Teilbarkeit nennt keine eigene Zahlenraumobergrenze. Die übergreifenden Ziele des Bandes 3/4 nennen Operationsvorstellungen und Zahlbeziehungen bis 100. Daraus wird der Rahmen dieses Feinziels abgeleitet; er ist keine ausdrückliche Höchstgrenze der Teilbarkeitsregel.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35444",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen bis 100; relevante Zwischenwerte und ganzzahlige Ergebnisse ebenfalls bis 100. Der Ausschnitt betrifft die Teilbarkeit durch 2 und gerade/ungerade; keine Erweiterung auf Teilbarkeitsregeln für 5 und 10, negative Zahlen oder Brüche."
       }
     }
   ]

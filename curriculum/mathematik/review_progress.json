@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-011",
+  "last_batch": "MA-012",
   "complete": false,
   "counts": {
-    "cards": 22,
-    "cross_band": 4
+    "cards": 23,
+    "cross_band": 5
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1013,10 +1013,54 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1846",
       "version": "2026"
+    },
+    "page912_1847": {
+      "id": "page912_1847",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1847",
+      "version": "2026"
+    },
+    "page912_1848": {
+      "id": "page912_1848",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1848",
+      "version": "2026"
+    },
+    "page139_35439": {
+      "id": "page139_35439",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "version": "2019"
+    },
+    "page139_35444": {
+      "id": "page139_35444",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35444",
+      "version": "2019"
     }
   },
-  "next_id": "page912_1847",
-  "next_step": "GS1/2 das Doppelte, die Hälfte (1847), danach gerade/ungerade Zahlen (1848) gegen beide FSP-Bänder prüfen. MA-011 für Verdoppeln/Halbieren wiederverwenden, falls derselbe begrenzte Ausschnitt belegt ist; zusätzliche GS-Zielhierarchien separat führen. FSP-Zahlenräume und Grenzen der Feinziele/Kriterien sowie frühere offene Anschlussfragen bewahren.",
+  "next_id": "page912_1849",
+  "next_step": "GS1/2 Nutzen von Analogien der Stellenwerte (1849) und Zerlegen von Zahlen (1850) gegen beide FSP-Bänder prüfen; bestehende MA-015 zur Teil-Ganzes-Beziehung berücksichtigen. Anschließend Vernetzen von Darstellungen (1851, 187047–187048) und Fachbegriffe (187049). Frühere Anschlussfragen und Restumfänge sowie FSP-Geltungsbereiche einschließlich Zwischen- und Endergebnissen bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1054,9 +1098,19 @@
         "page139_37863"
       ],
       "decision": "Unmittelbare Nachbarzahlen, Schrittzählen, Bündeln und Zehnerüberschreitung in FSP1/2 sind verwandte Inhalte, aber kein ausdrücklicher Nachbarzehnerbeleg. FSP3/4 nennt Nachbarzehner in der Bemerkung zu 35466 unter Beherrschen bis 100. Die Belegart bleibt auf der Karte sichtbar."
+    },
+    "MA-023": {
+      "same_band_candidate_ids": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37931",
+        "page139_37937",
+        "page139_37950"
+      ],
+      "decision": "Paarweises Zuordnen, Strukturieren und Schrittzählen in FSP1/2 belegen für sich weder die Zahlklassifikation gerade/ungerade noch die Teilbarkeitsregel. FSP3/4 nennt beide im Ziel-/Bemerkungszusammenhang 35439/35444; dieser engere Anschluss wird ausdrücklich stufenübergreifend geführt."
     }
   },
-  "last_review_file": "review_batch_011.json",
+  "last_review_file": "review_batch_012.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1098,6 +1152,16 @@
       "scope": "Unmittelbare Nachbarzahlen jenseits des didaktisch gewählten FSP1/2-Rahmens bis 20 sowie Nachbarzehner bei genauen Zehnerzahlen; übergeordnete Darstellungs- und Strukturvielfalt nicht vollständig abgedeckt.",
       "status": "offen",
       "reason": "FSP3/4-Nachbarzahlen bis 100 als Alternative belegt; stufengleicher Anschluss MA-014 bevorzugt. Die Bemerkung Nachbarzehner legt die Behandlung genauer Zehnerzahlen nicht fest. Keine zusätzliche Karte für denselben Nachbarzahlgegenstand."
+    },
+    {
+      "gs_id": "page912_1847",
+      "scope": "Weitere abstrakte Zahlbeziehungen und Darstellungen jenseits doppelter/halber Anzahlen im Kontext gerechten Verteilens; keine Vollabdeckung des GS-Beherrschens.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_1848",
+      "scope": "Weitere Struktur- und Darstellungsbezüge des übergeordneten GS-Ziels; der Anschluss an FSP-Kennen ersetzt kein vollständiges GS-Beherrschen.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [

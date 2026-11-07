@@ -1,0 +1,108 @@
+{
+  "id": "MA-012",
+  "date": "2026-11-07",
+  "scope": "GS1/2 doppelte/halbe sowie gerade/ungerade Zahlen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [
+    "MA-023"
+  ],
+  "reused_cards": [
+    "MA-011"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1847",
+      "card": "MA-011",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863"
+      ],
+      "cross_band_candidates": [
+        "page139_35435",
+        "page139_35437",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441"
+      ],
+      "decision": "Expliziten FSP3/4-Unterpunkt 35437 als begrenzten Anschluss für doppelte und halbe Anzahlen bestätigt; bestehende Karte wiederverwendet. Allgemeine Rechenhandlungen/Mengenstrukturierung in 1/2 belegen Verdoppeln/Halbieren nicht ausdrücklich. Multiplikation/Division in 3/4 ist ein weiterführender Bezug, ersetzt nicht den direkten Unterpunkt.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Einblick gewinnen"
+      },
+      "evidence": "GS1847 verbindlicher Unterpunkt unter1842; FSP35437 verbindlicher Unterpunkt unter35435. Darstellungsformen stehen in FSP-Bemerkung. Der Zahlenrahmen stammt aus Bandziel35415, nicht aus einer neuen Unterzielobergrenze.",
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 100,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_35415"
+      },
+      "prerequisites": "Verständnis von Anzahlen und zwei gleich großen Teilen; Ausgangs-, relevante Zwischen- und Ergebnisanzahlen im gewählten Bereich, Halbieren nur bei ganzzahliger Hälfte.",
+      "uncertainty": "Der höhere FSP-Bandbeleg bleibt Einblick gewinnen; identische gewählte Zahlenobergrenze bedeutet keine Gleichwertigkeit der Anforderungen.",
+      "remaining": "Weitere Darstellungen und abstrakte Zahlbeziehungen bleiben offen; die gesonderte Sprachfrage1837 wird durch diesen mathematischen Anschluss nicht erledigt."
+    },
+    {
+      "gs_id": "page912_1848",
+      "card": "MA-023",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37931",
+        "page139_37937",
+        "page139_37950"
+      ],
+      "cross_band_candidates": [
+        "page139_35435",
+        "page139_35437",
+        "page139_35439",
+        "page139_35441",
+        "page139_35444"
+      ],
+      "decision": "Paarweises Zuordnen, Strukturieren und Schrittzählen in FSP1/2 belegen für sich weder die Zahlklassifikation gerade/ungerade noch die Teilbarkeitsregel. FSP3/4 nennt beide im Ziel-/Bemerkungszusammenhang 35439/35444; dieser engere Anschluss wird ausdrücklich stufenübergreifend geführt.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Kennen"
+      },
+      "evidence": "GS1848 verbindlich. FSP35444 nennt die Teilbarkeitsregel2,5,10 verbindlich; gerade/ungerade steht in der Bemerkung. Die Karte wählt nur den Teilaspekt2; Hauptoperator stammt aus35439.",
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 100,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_35415"
+      },
+      "prerequisites": "Verständnis nichtnegativer ganzer Zahlen und der Teilbarkeit durch2 ohne Rest.",
+      "uncertainty": "FSP35444 enthält keine eigene Obergrenze. Die Begrenzung bis100 und die Zielformulierung sind didaktisch aus den Bandzielen abgeleitet.",
+      "remaining": "Keine Vollabdeckung der GS-Struktur-/Darstellungsvielfalt; Teilbarkeit durch5/10 gehört nicht zu diesem GS-Ausschnitt und wird nicht als mitgeprüft gezählt."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "new_cards": 1,
+    "reused_cards": 1,
+    "cards": 23,
+    "cross_band_cards": 5,
+    "source_links": 84,
+    "target_anchors": 82,
+    "audit_rows": 35
+  },
+  "continuation": "GS1/2 Nutzen von Analogien der Stellenwerte (1849) und Zerlegen von Zahlen (1850) gegen beide FSP-Bänder prüfen; bestehende MA-015 zur Teil-Ganzes-Beziehung berücksichtigen. Anschließend Vernetzen von Darstellungen (1851, 187047–187048) und Fachbegriffe (187049). Frühere Anschlussfragen und Restumfänge sowie FSP-Geltungsbereiche einschließlich Zwischen- und Endergebnissen bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 23 cards, 84 sources (82 target anchors, 2 context sources); separate GS evidence groups checked",
+    "scope_regression": "passed: missing or exceeded limits, missing context, invented bound and malformed reused GS evidence rejected",
+    "browser_local": "passed: all 23 cards; scope in cards/goals/output, sources, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "preservation": "passed: other 21 cards unchanged; MA-011 fine goals, FSP scope and primary IDs preserved; two target rows and two context rows updated"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.316"
+  }
+}

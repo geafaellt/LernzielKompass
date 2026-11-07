@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-011
+# Mathematik-Abgleich · MA-012
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Zweiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012 und MA-022 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Dreiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022 und MA-023 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei das Doppelte, die Hälfte (page912_1847), danach gerade/ungerade Zahlen. Drei Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-011](review_batch_011.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei Analogien der Stellenwerte (page912_1849) und Zerlegen von Zahlen (1850). Drei Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-012](review_batch_012.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -159,3 +159,16 @@ Das neue Feinziel beschränkt sich auf nicht durch zehn teilbare Ausgangszahlen.
 Eine GS-Unterzielzeile mit zwei Ausschnitten wurde begrenzt geprüft: eine neue Karte und eine wiederverwendete Karte. Bestand: 22 Karten, davon vier stufenübergreifend; 80 Quellenlinks (78 Zielanker und zwei übergreifende Kontextquellen). Teilinventur unverändert 35 Zeilen. Frühere Anschlussfragen bleiben bestehen; Fortsetzung bei page912_1847 unter Berücksichtigung von MA-011. Aufgaben und Hilfsmittel bleiben leer.
 
 Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 22 Karten bestanden. Die Prüfung zusätzlicher GS-Belege verwirft vermischte Zielhierarchien, falsche Operatoren, fehlende Quellen und als Abdeckung gezählten Kontext. Die übrigen 20 Karten sowie Feinziele und FSP-Geltungsbereich von MA-014 sind unverändert. App 1.315 ist mit Commit 713e91ed1367ebdb876853543dcec4692b3d103e veröffentlicht; [Pages-Lauf 42367536843](https://github.com/geafaellt/LernzielKompass/actions/runs/42367536843) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Die Browserprüfung aller 22 Mathematikkarten wurde auf der öffentlichen Seite erfolgreich wiederholt.
+
+
+## MA-012 · Doppelte/halbe und gerade/ungerade Zahlen · App 1.316
+
+Zwei GS 1/2-Unterzielzeilen wurden gegen beide FSP-Bänder geprüft. Der mathematische Ausschnitt von 1847 nutzt MA-011 für doppelte und halbe Anzahlen im Verteilungskontext. Die zusätzliche GS-Zielhierarchie ist separat belegt; Hauptoperatoren bleiben GS-Beherrschen und FSP 3/4-Einblick gewinnen. Die bestehende Frage nach dem sprachlichen Verwenden der Nominalformulierungen (1837) bleibt offen.
+
+MA-023 ergänzt gerade/ungerade Zahlen aus GS 1848 mit dem Teilaspekt Teilbarkeit durch 2 aus FSP 35444. Gerade/ungerade stehen in der FSP-Bemerkung; das Hauptziel 35439 verlangt Kennen. Die Teilbarkeitsregeln für 5 und 10 werden nicht mitgezählt. Strukturieren, paarweises Zuordnen und Schrittzählen in FSP 1/2 reichen als ausdrücklicher Beleg dieses Inhalts nicht aus. Beide Karten bleiben stufenübergreifend; die Bandbezeichnung 3/4 wird nicht auf Einzelklassen aufgeteilt.
+
+Beide FSP-Feinziele sind didaktisch aus den übergreifenden Zielen 35415 auf 100 begrenzt. Die Unterzielzeilen nennen keine eigene Obergrenze. Bei MA-011 müssen Ausgangs- und Ergebnisanzahlen innerhalb des Bereichs bleiben, die Hälfte muss ganzzahlig sein. MA-023 gilt nur für nichtnegative ganze Zahlen und die Teilbarkeit durch 2; relevante Zwischenwerte und ganzzahlige Ergebnisse bleiben ebenfalls im Bereich. Die gleiche gewählte Obergrenze wie in GS erzeugt keine vollständige Zieldeckung. Andere Operatoren sowie die breitere GS-Struktur- und Darstellungsforderung bleiben sichtbar.
+
+Eine neue Karte und eine wiederverwendete Karte, zwei erstmals begrenzt geprüfte Zielzeilen. Bestand 23 Karten, fünf stufenübergreifend, 84 Quellenlinks (82 Zielanker und zwei Kontextquellen); Teilinventur 35 Zeilen unverändert. Alle übrigen 21 Karten und die bisherigen Feinziele/Geltungsbereiche von MA-011 bleiben erhalten. Fortsetzung bei 1849, danach 1850. Frühere Anschlussfragen und Restumfänge bleiben bestehen.
+
+Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 23 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.
