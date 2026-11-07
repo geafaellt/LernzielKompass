@@ -173,8 +173,13 @@
     "browser": "not repeated: no UI/app change; all 25 cards passed local and public browser checks in MA-016"
   },
   "publication": {
-    "status": "pending",
+    "status": "success",
     "app_version": "1.320",
-    "app_changed": false
+    "app_changed": false,
+    "commit": "6c6f359359ab3bec160414df7e13771d5a56a8d1",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42400107460",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "not repeated for audit-only change; successful MA-016 browser evidence applies to byte-identical app"
   }
 }
