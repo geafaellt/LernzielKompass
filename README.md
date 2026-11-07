@@ -2,11 +2,15 @@
 
 Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.321** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.322** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 07.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
 **Die dokumentierte Deutsch-Einzelprüfung ist einschließlich der Anschlussfragen abgeschlossen.** Die App bleibt ein Instrument zur fachlichen Erprobung. Der Abschluss des festgelegten Prüfumfangs bedeutet weder vollständige Lehrplanabdeckung noch amtliche Freigabe. Die Rückwärts-Einzelprüfung FSP → GS und der PDF-Download gehören nicht zu diesem Abschluss.
+
+## Informationen zu offenen FSP-Inhalten
+
+App 1.322 enthält einen aufklappbaren, nach Fach filterbaren Informationsbereich mit zehn vertieft geprüften Fällen: zwei konkrete Spezifizierungen ohne ausdrücklich gleichen GS-Gegenanker, sechs Teil- oder wahlabhängige Bezüge und zwei Abgrenzungsfälle. Jeder Eintrag verlinkt amtliche FSP-Zielzeilen und GS-Gegenbezüge; Hauptziele, Wahlbereiche und Bemerkungen werden unterschieden. Es handelt sich nicht um eine vollständige Negativliste oder abgeschlossene FSP-zu-GS-Einzelprüfung. Entwürfe und Anschlusskarten bleiben davon unabhängig. [Befunde und Grenzen](curriculum/fsp-rueckwaerts/offene_inhalte_2026-11-07.md) · [Daten und Reproduktion](curriculum/fsp-rueckwaerts/README.md)
 
 ## Umfang der vorhandenen Lehrplanvergleiche
 

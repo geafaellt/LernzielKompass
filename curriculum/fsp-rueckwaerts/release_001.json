@@ -1,0 +1,20 @@
+{
+  "app_version": "1.322",
+  "checked_on": "2026-11-07",
+  "cases": 10,
+  "unique_official_anchors_checked": 44,
+  "source_checks": "passed: live target excerpts, FSP parent targets, relevant boundary-case remarks and individual procedure choice",
+  "source_hashes": {
+    "146": "125887b2711110c5dc3eaee6fad4bed749f0d9d0e16e635e168e986f9b4e2e8d",
+    "139": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992",
+    "908": "d9360c66050b2a8e5a3d15e43ef0652a28c7fad4e46ce94cfb122d7cb43214a6",
+    "80": "c46767ffb49d6a4e2879fdceaacb0e624e3cf8966b44651193a4ebaa8cce8063",
+    "912": "697edd8c4111f670302cda67422cd312576f32ff7ce2b71da749f157c4e4965a"
+  },
+  "data_tests": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-fsp-info",
+  "math_browser": "passed locally: all 26 cards, scope, goals, output, drafts, mobile",
+  "info_browser": "passed locally: all 10 cases, 44 distinct official anchors in data, rendered links, keyboard, subject filters, mobile layout, print exclusion and draft preservation",
+  "publication": "pending",
+  "visual_review": "passed: desktop and mobile screenshots inspected",
+  "preservation": "existing Deutsch, Mathematik and card-title embedded data unchanged against public app 1.321; Sachunterricht validated by check-deutsch; no changes to progress files or card data"
+}

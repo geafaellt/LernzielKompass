@@ -1,0 +1,602 @@
+{
+  "version": "FSP-INFO-001",
+  "checked_on": "2026-11-07",
+  "review": "review_001.json",
+  "complete": false,
+  "items": [
+    {
+      "id": "D-01",
+      "subject": "Deutsch",
+      "status": "specific_not_explicit",
+      "fsp_evidence": [
+        {
+          "id": "page146_40240",
+          "grade": "3/4",
+          "area": "Lernbereich 2: Jeder ist etwas Besonderes",
+          "level": 2,
+          "parent": "page146_40227",
+          "target": "Unterschrift",
+          "remarks": "Begriffsklärung, Bedeutung, Anwendungsmöglichkeiten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40240",
+          "parent_target": "Anwenden persönlicher Angaben"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page908_186349",
+          "grade": "1/2",
+          "area": "Lernbereich: Schreiben",
+          "level": 2,
+          "parent": "page908_186347",
+          "target": "individuelle Wörter",
+          "remarks": "persönlich bedeutsame Wörter individuelle Fehlerschwerpunkte",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186349"
+        },
+        {
+          "id": "page908_186365",
+          "grade": "1/2",
+          "area": "Lernbereich: Schreiben",
+          "level": 3,
+          "parent": "page908_186360",
+          "target": "adressatengerechtes Schreiben",
+          "remarks": "Brief, Glückwunsch, Einladung ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186365"
+        },
+        {
+          "id": "page908_186585",
+          "grade": "3",
+          "area": "Lernbereich: Schreiben",
+          "level": 2,
+          "parent": "page908_186584",
+          "target": "Entwickeln einer individuellen Handschrift",
+          "remarks": "automatisiert, leserlich, flüssig",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186585"
+        }
+      ],
+      "title": "Unterschrift",
+      "interpretation": "Die Unterschrift ist im FSP als besondere Verwendung persönlicher Angaben ausdrücklich benannt. Die GS nennt verwandte Schreibziele, weist die Unterschrift aber nicht als eigenen Gegenstand aus. Schreiben und Namensschreibung fehlen dort nicht."
+    },
+    {
+      "id": "M-01",
+      "subject": "Mathematik",
+      "status": "specific_not_explicit",
+      "fsp_evidence": [
+        {
+          "id": "page139_35501",
+          "grade": "3/4",
+          "area": "Lernbereich 2: Die Welt um mich herum ",
+          "level": 3,
+          "parent": "page139_35498",
+          "target": "Ergänzungsverfahren",
+          "remarks": "Ausführbarkeit und Besonderheiten der Zahl Null berücksichtigen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35501",
+          "parent_target": "Kennen der schriftlichen Rechenverfahren der Addition und Subtraktion"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page912_2076",
+          "grade": "3",
+          "area": "Lernbereich 2: Zahl und Operation",
+          "level": 1,
+          "parent": "page912_2076",
+          "target": "Kennen des schriftlichen Verfahrens der Subtraktion",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2076"
+        },
+        {
+          "id": "page912_187203",
+          "grade": "3",
+          "area": "Lernbereich 2: Zahl und Operation",
+          "level": 3,
+          "parent": "page912_2076",
+          "target": "Veranschaulichen des Entbündelns im Minuenden",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187203"
+        },
+        {
+          "id": "page912_187307",
+          "grade": "4",
+          "area": "Lernbereich 2: Zahl und Operation",
+          "level": 2,
+          "parent": "page912_2291",
+          "target": "Erklären des Bündelns und Entbündelns",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187307"
+        }
+      ],
+      "title": "Ergänzungsverfahren bei der schriftlichen Subtraktion",
+      "interpretation": "Schriftliche Subtraktion ist in der GS ausdrücklich enthalten; genannt wird das Entbündeln im Minuenden. Das speziell benannte Ergänzungsverfahren ist nicht ausdrücklich ausgewiesen. Allgemeines Ergänzen belegt noch nicht dieses schriftliche Verfahren. Die FSP-Bemerkung zum Abziehverfahren lässt eine individuelle Verfahrensentscheidung zu: Daraus folgt keine zusätzliche Pflicht, beide Verfahren zu beherrschen, und kein Verbot des Ergänzungsverfahrens in der GS.",
+      "context_links": [
+        {
+          "label": "FSP-Bemerkung zur individuellen Verfahrensentscheidung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35502"
+        }
+      ]
+    },
+    {
+      "id": "D-02",
+      "subject": "Deutsch",
+      "status": "partial",
+      "fsp_evidence": [
+        {
+          "id": "page146_39207",
+          "grade": "1/2",
+          "area": "Lernbereich 1: Lesen und Schreiben",
+          "level": 3,
+          "parent": "page146_39201",
+          "target": "logographemisches Lesen und Schreiben",
+          "remarks": "Symbole, Vornamen der Schüler, Markennamen anhand charakteristischer Details oder am Wortbild wieder erkennen einzelne Grapheme werden lautlich nicht benannt",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39207",
+          "parent_target": "Kennen grundlegender Funktionsweisen der Schriftsprache"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page908_186400",
+          "grade": "1/2",
+          "area": "Lernbereich: Lesen",
+          "level": 2,
+          "parent": "page908_186397",
+          "target": "Erkennen von Schrift als ein System visueller Zeichen",
+          "remarks": "Zeichen, Symbole, Buchstaben, Wörter suchen, sammeln, verwenden und erfinden",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186400"
+        },
+        {
+          "id": "page908_186404",
+          "grade": "1/2",
+          "area": "Lernbereich: Lesen",
+          "level": 3,
+          "parent": "page908_186401",
+          "target": "visuell",
+          "remarks": "Buchstaben und Zeichen erkennen und unterscheiden Formmerkmale erfassen und differenzieren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186404"
+        },
+        {
+          "id": "page908_186413",
+          "grade": "1/2",
+          "area": "Lernbereich: Lesen",
+          "level": 2,
+          "parent": "page908_186401",
+          "target": "automatisiertes Lesen von Funktionswörtern",
+          "remarks": "→ Rechtschreibrahmen: Arbeit am Wortschatz Blitzlesen Wortgestalt als Ganzes erfassen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186413"
+        }
+      ],
+      "title": "Logographemisches Lesen und Schreiben",
+      "interpretation": "Die FSP-Bemerkung beschreibt das Wiedererkennen am Wortbild ohne lautliche Benennung einzelner Grapheme. Diese frühe Strategie ist nicht mit automatisiertem Lesen gleichzusetzen. Verwandte visuelle und symbolische Zugänge sind in der GS vorhanden."
+    },
+    {
+      "id": "S-01",
+      "subject": "Sachunterricht",
+      "status": "partial",
+      "fsp_evidence": [
+        {
+          "id": "page146_40263",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 1,
+          "parent": "page146_40263",
+          "target": "Kennen familiärer Strukturen",
+          "remarks": "Freiwilligkeit der Schüleräußerung und Datenschutz beachten Möglichkeiten und Risiken digitaler Medien einfache Familienstammbäume und Verwandtschaftsgrade ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40263",
+          "parent_target": "Kennen familiärer Strukturen"
+        },
+        {
+          "id": "page146_40265",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 2,
+          "parent": "page146_40263",
+          "target": "Beziehungen zwischen den Generationen",
+          "remarks": "Wertschätzung vergangener und zukünftiger Generationen ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40265",
+          "parent_target": "Kennen familiärer Strukturen"
+        },
+        {
+          "id": "page146_40269",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 3,
+          "parent": "page146_40263",
+          "target": "einfache Strukturen erklären",
+          "remarks": "Beispiele nutzen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40269",
+          "parent_target": "Kennen familiärer Strukturen"
+        },
+        {
+          "id": "page146_40271",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 3,
+          "parent": "page146_40263",
+          "target": "Begriffswissen",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40271",
+          "parent_target": "Kennen familiärer Strukturen"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page80_6000",
+          "grade": "3",
+          "area": "Lernbereich 1: Zusammen leben und lernen",
+          "level": 1,
+          "parent": "page80_6000",
+          "target": "Einblick gewinnen in Lebensgewohnheiten der Region auf dem Land früher und heute",
+          "remarks": "Gegenstände, historische Quellen und jetzige Gegebenheiten im Vergleich erschließen Veränderungen, Lebensformen, Rollenverständnis der Geschlechter, Berufsbilder, Freizeitverhalten ⇒ Werteorientierung ⇒ Kommunikationsfähigkeit ➔ MA, Kl. 3, LBW 1 ➔ WE, Kl. 3, LBW 2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6000"
+        },
+        {
+          "id": "page80_6266",
+          "grade": "4",
+          "area": "Lernbereich 1: Zusammen leben und lernen ",
+          "level": 2,
+          "parent": "page80_6263",
+          "target": "Veränderungen im Familienleben",
+          "remarks": "Kinderspiele, Lebensformen, Ess- und Kleidungsgewohnheiten, Freizeitgestaltung Rollenverständnis der einzelnen Mitglieder ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6266"
+        }
+      ],
+      "title": "Familiäre Strukturen und Begriffswissen",
+      "interpretation": "Familiäre Beziehungen und ihr Begriffssystem sind spezifischer als der historische Vergleich von Lebensformen. Familie und Generationen fehlen in der GS nicht insgesamt; auch die allgemeinen Grundlagen nennen das Verhältnis der Generationen. Stammbäume und Verwandtschaftsgrade sind im FSP Bemerkungsbeispiele, keine zusätzlichen selbstständigen Pflichtziele."
+    },
+    {
+      "id": "S-02",
+      "subject": "Sachunterricht",
+      "status": "partial",
+      "fsp_evidence": [
+        {
+          "id": "page146_39597",
+          "grade": "1/2",
+          "area": "Lernbereich 3: Einer braucht den anderen",
+          "level": 2,
+          "parent": "page146_39579",
+          "target": "Aufgaben im häuslichen Umfeld",
+          "remarks": "Fürsorge, Hilfeleistungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_39597",
+          "parent_target": "Kennen des häuslichen Umfeldes"
+        },
+        {
+          "id": "page146_40277",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 2,
+          "parent": "page146_40263",
+          "target": "Aufgabenverteilung",
+          "remarks": "unterschiedliche Familienformen beachten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40277",
+          "parent_target": "Kennen familiärer Strukturen"
+        },
+        {
+          "id": "page146_40279",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 3,
+          "parent": "page146_40263",
+          "target": "planen und ordnen",
+          "remarks": "Tabelle, Kalender, Wochenplan",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40279",
+          "parent_target": "Kennen familiärer Strukturen"
+        },
+        {
+          "id": "page146_40281",
+          "grade": "3/4",
+          "area": "Lernbereich 3: Einer braucht den anderen ",
+          "level": 3,
+          "parent": "page146_40263",
+          "target": "eigene Pflichten beschreiben",
+          "remarks": "pantomimische Darstellung, Rollenspiele, bühnengerechtes Gestalten Verwendung von Verben",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40281",
+          "parent_target": "Kennen familiärer Strukturen"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page80_5613",
+          "grade": "1/2",
+          "area": "Lernbereich 1: Zusammen leben und lernen ",
+          "level": 3,
+          "parent": "page80_5591",
+          "target": "Rechte und Pflichten",
+          "remarks": "Konfliktfähigkeit, demokratisches Aushandeln",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5613"
+        },
+        {
+          "id": "page80_5796",
+          "grade": "1/2",
+          "area": "Lernbereich 5: Begegnung mit Raum und Zeit ",
+          "level": 2,
+          "parent": "page80_5787",
+          "target": "Orientieren am Tagesablauf",
+          "remarks": "über eigenes Erleben beim Wechsel zur Schule sprechen Zeitvorstellungen differenzieren, gestern, vorgestern Uhr, Kalender wechselnde, wiederkehrende Tätigkeiten im Tages-, Wochen-, Jahresverlauf ➔ MA, Kl. 1/2, LB 3",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_5796"
+        },
+        {
+          "id": "page80_6266",
+          "grade": "4",
+          "area": "Lernbereich 1: Zusammen leben und lernen ",
+          "level": 2,
+          "parent": "page80_6263",
+          "target": "Veränderungen im Familienleben",
+          "remarks": "Kinderspiele, Lebensformen, Ess- und Kleidungsgewohnheiten, Freizeitgestaltung Rollenverständnis der einzelnen Mitglieder ⇒ Sozialkompetenz",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6266"
+        }
+      ],
+      "title": "Eigene Aufgaben und Pflichten im häuslichen Umfeld",
+      "interpretation": "Der FSP benennt häusliche Aufgaben in 1/2 sowie Aufgabenverteilung, Planen und Ordnen und das Beschreiben eigener Pflichten in 3/4. Schulische Pflichten allein belegen diesen häuslichen Bezug nicht vollständig. Tagesorganisation und Verantwortung werden in der GS bereits angesprochen."
+    },
+    {
+      "id": "S-03",
+      "subject": "Sachunterricht",
+      "status": "partial",
+      "fsp_evidence": [
+        {
+          "id": "page146_40521",
+          "grade": "3/4",
+          "area": "Wahlbereich 2: Walderlebnisse",
+          "level": 2,
+          "parent": "page146_40520",
+          "target": "Aufforstung, Anbau und Pflege",
+          "remarks": "Erkundungen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40521",
+          "parent_target": "Kennen ausgewählter Nutzhölzer und deren Verwendung"
+        },
+        {
+          "id": "page146_40451",
+          "grade": "3/4",
+          "area": "Lernbereich 6: Natur entdecken und erleben",
+          "level": 3,
+          "parent": "page146_40446",
+          "target": "über Hege und Pflege zusammenhängend sprechen",
+          "remarks": "Wildfütterung, Aufforstung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40451",
+          "parent_target": "Einblick gewinnen in den Lebensraum Wald"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page80_6302",
+          "grade": "4",
+          "area": "Lernbereich 3: Begegnungen mit Pflanzen und Tieren",
+          "level": 2,
+          "parent": "page80_6295",
+          "target": "Bedeutung des Waldes für Mensch und Tier",
+          "remarks": "Wasserspeicher, Holzlieferant, Erholungsfunktion Schutz des Bodens, Erosionsschutz, Pflanzen zur Luftverbesserung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6302"
+        },
+        {
+          "id": "page80_6303",
+          "grade": "4",
+          "area": "Lernbereich 3: Begegnungen mit Pflanzen und Tieren",
+          "level": 2,
+          "parent": "page80_6295",
+          "target": "Gefährdung des Waldes",
+          "remarks": "Auswirkungen durch Luftverschmutzung, Abholzen globale Folgen ⇒ Werteorientierung ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6303"
+        },
+        {
+          "id": "page80_6318",
+          "grade": "4",
+          "area": "Lernbereich 3: Begegnungen mit Pflanzen und Tieren",
+          "level": 1,
+          "parent": "page80_6318",
+          "target": "Beurteilen von Verhaltensweisen des Menschen in der Natur",
+          "remarks": "Reflektieren des eigenen Verhaltens, Aktionen zum Schutz der Umwelt Artenschutz, Klimaschutz, Waldschutz, Gewässerschutz ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6318"
+        }
+      ],
+      "title": "Aufforstung, Anbau, Hege und Pflege im Wald",
+      "interpretation": "Die GS behandelt Wald, Gefährdung und Schutz. Forstliche Verjüngung und Pflege sind dort nicht ebenso ausdifferenziert. „Aufforstung, Anbau und Pflege“ gehört im FSP zum Wahlbereich Walderlebnisse. Im Pflichtbereich steht das Sprechen über Hege und Pflege; Wildfütterung und Aufforstung sind dort nur Bemerkungsbeispiele. Der Wahlbereich begründet keine zusätzliche Pflicht für alle."
+    },
+    {
+      "id": "S-04",
+      "subject": "Sachunterricht",
+      "status": "choice_dependent",
+      "fsp_evidence": [
+        {
+          "id": "page146_40520",
+          "grade": "3/4",
+          "area": "Wahlbereich 2: Walderlebnisse",
+          "level": 1,
+          "parent": "page146_40520",
+          "target": "Kennen ausgewählter Nutzhölzer und deren Verwendung",
+          "remarks": "Kiefer, Fichte, Buche, Eiche, Birke Wiederholung der Baumarten",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40520",
+          "parent_target": "Kennen ausgewählter Nutzhölzer und deren Verwendung"
+        },
+        {
+          "id": "page146_40526",
+          "grade": "3/4",
+          "area": "Wahlbereich 2: Walderlebnisse",
+          "level": 1,
+          "parent": "page146_40526",
+          "target": "Einblick gewinnen in den Weg vom Baum zum Holzprodukt",
+          "remarks": "",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40526",
+          "parent_target": "Einblick gewinnen in den Weg vom Baum zum Holzprodukt"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page80_6302",
+          "grade": "4",
+          "area": "Lernbereich 3: Begegnungen mit Pflanzen und Tieren",
+          "level": 2,
+          "parent": "page80_6295",
+          "target": "Bedeutung des Waldes für Mensch und Tier",
+          "remarks": "Wasserspeicher, Holzlieferant, Erholungsfunktion Schutz des Bodens, Erosionsschutz, Pflanzen zur Luftverbesserung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6302"
+        },
+        {
+          "id": "page80_6186",
+          "grade": "3",
+          "area": "Wahlbereich 2: Jahrtausendpflanzen",
+          "level": 2,
+          "parent": "page80_6180",
+          "target": "Verwendung",
+          "remarks": "Nahrungs-, Gewürz- und Heilmittel, Baumaterial, Tierfutter Vergleich von früher und heute, Symbolwert ⇒ Werteorientierung ⇒ Bildung für nachhaltige Entwicklung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6186"
+        },
+        {
+          "id": "page80_6393",
+          "grade": "4",
+          "area": "Wahlbereich 4: Ein Produkt unseres Landes",
+          "level": 1,
+          "parent": "page80_6393",
+          "target": "Einblick gewinnen in den Herstellungsprozess eines Produktes an einem Beispiel",
+          "remarks": "einen Betrieb der Region aufsuchen, Prozesse erkunden, nachvollziehen einfache Schemaskizze zum Ablauf anfertigen ➔ WE, Kl. 4, LB 2",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6393"
+        },
+        {
+          "id": "page80_6395",
+          "grade": "4",
+          "area": "Wahlbereich 4: Ein Produkt unseres Landes",
+          "level": 2,
+          "parent": "page80_6393",
+          "target": "Rohstoff, Zwischen- und Endprodukt",
+          "remarks": "Milch – Quark – Quarkspeise Frucht – Fruchtsaft – Gelee Tonerde – Gefäßform – gebranntes Gefäß",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6395"
+        }
+      ],
+      "title": "Nutzhölzer und der Weg vom Baum zum Holzprodukt",
+      "interpretation": "Der FSP-Inhalt gehört zum Wahlbereich Walderlebnisse. Bei passender Auswahl von Holz oder Holzprodukten in den GS-Wahlbereichen ist ein enger Bezug möglich. Eine verbindliche Nutzhölzerkunde oder Holzverarbeitungskette für alle GS-Kinder ist damit nicht belegt. Der Anschluss hängt von der konkreten Auswahl ab."
+    },
+    {
+      "id": "S-05",
+      "subject": "Sachunterricht",
+      "status": "partial",
+      "fsp_evidence": [
+        {
+          "id": "page146_40508",
+          "grade": "3/4",
+          "area": "Wahlbereich 1: Feuer – Wasser – Erde – Luft ",
+          "level": 3,
+          "parent": "page146_40492",
+          "target": "Erde formen und diese Tätigkeit beschreiben",
+          "remarks": "Figuren",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/146#page146_40508",
+          "parent_target": "Einblick gewinnen in die vier Elemente"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page908_186636",
+          "grade": "3",
+          "area": "Lernbereich: Schreiben",
+          "level": 2,
+          "parent": "page908_186631",
+          "target": "Beschreiben, Erklären, Informieren, Instruieren",
+          "remarks": "Orts- und Bildbeschreibung Bastel- oder Spielanleitung, Back- oder Kochrezept, Lexikoneintrag, Gebrauchsanweisung",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186636"
+        },
+        {
+          "id": "page912_1828",
+          "grade": "1/2",
+          "area": "Lernbereich 1: Raum und Form",
+          "level": 2,
+          "parent": "page912_1827",
+          "target": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen von Körpern",
+          "remarks": "in der Umwelt entdecken Vollmodelle, Flächenmodelle, Kantenmodelle",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1828"
+        },
+        {
+          "id": "page80_6306",
+          "grade": "4",
+          "area": "Lernbereich 3: Begegnungen mit Pflanzen und Tieren",
+          "level": 1,
+          "parent": "page80_6306",
+          "target": "Einblick gewinnen in die Bedeutung des Bodens",
+          "remarks": "Sinneserfahrungen mit Böden im Schulgarten Grundwasserbildung, -schutz Experimente zur Wasserdurchlässigkeit, - haltefähigkeit",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6306"
+        },
+        {
+          "id": "page80_6395",
+          "grade": "4",
+          "area": "Wahlbereich 4: Ein Produkt unseres Landes",
+          "level": 2,
+          "parent": "page80_6393",
+          "target": "Rohstoff, Zwischen- und Endprodukt",
+          "remarks": "Milch – Quark – Quarkspeise Frucht – Fruchtsaft – Gelee Tonerde – Gefäßform – gebranntes Gefäß",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/80#page80_6395"
+        }
+      ],
+      "title": "Erde formen und die Tätigkeit beschreiben",
+      "interpretation": "Der FSP-Inhalt gehört zum Wahlbereich Feuer – Wasser – Erde – Luft. GS-Bezüge zu Boden, zur beispielhaften Produktkette mit Tonerde, zum Beschreiben und zum Herstellen geometrischer Körper ergeben noch keine identische Anforderung. Der konkrete Material- und Tätigkeitsbezug bleibt gesondert zu prüfen. Kunst und Werken sind in dieser Durchsicht nicht geprüft."
+    },
+    {
+      "id": "M-02",
+      "subject": "Mathematik",
+      "status": "remark_only",
+      "fsp_evidence": [
+        {
+          "id": "page139_37766",
+          "grade": "1/2",
+          "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+          "level": 3,
+          "parent": "page139_37759",
+          "target": "Körperschema",
+          "remarks": "Überkreuzen der Körpermittellinie",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37766",
+          "parent_target": "Kennen des eigenen Körpers"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page912_1772",
+          "grade": "1/2",
+          "area": "Lernbereich 1: Raum und Form",
+          "level": 3,
+          "parent": "page912_1765",
+          "target": "am eigenen Körper",
+          "remarks": "Übungen zur Wahrnehmung der rechten und linken Körperhälfte",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1772"
+        }
+      ],
+      "title": "Körperschema: Überkreuzen der Körpermittellinie",
+      "interpretation": "Körperbezogene Orientierung wird in der GS angesprochen. Das Überkreuzen der Körpermittellinie ist ein besonderer Bewegungsakzent in der FSP-Bemerkung, kein zusätzliches eigenständiges Pflichtziel. Sport ist nicht geprüft. Dieser Fall wird nicht als eigenständige Inhaltslücke gezählt."
+    },
+    {
+      "id": "M-03",
+      "subject": "Mathematik",
+      "status": "cross_subject_counterpart",
+      "fsp_evidence": [
+        {
+          "id": "page139_37797",
+          "grade": "1/2",
+          "area": "Lernbereich 1: Jeder ist etwas Besonderes",
+          "level": 2,
+          "parent": "page139_37779",
+          "target": "Erkennen, Erleben und Weiterführen von rhythmischen Bewegungsabläufen",
+          "remarks": "Serien nach taktiler und kinästhetischer Wahrnehmung, nach zeitlichem Ablauf auch Serien nach auditiver Wahrnehmung Lieder, Reime, Bewegungsspiele ➔ DE - HKS, Kl. 1/2, LB 1 ➔ MU, Kl. 1/2, LB 1 ➔ SPO, Kl. 1/2, LB 1",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37797",
+          "parent_target": "Übertragen des Wissens über Raum-Lage-Beziehungen auf die Orientierung in der Schule"
+        }
+      ],
+      "gs_comparators": [
+        {
+          "id": "page908_186321",
+          "grade": "1/2",
+          "area": "Lernbereich: Schreiben",
+          "level": 3,
+          "parent": "page908_186315",
+          "target": "kinästhetisch",
+          "remarks": "Druckanpassung der Hand- und Fingerkraft rhythmische Hand- und Armbewegungen Wechsel von Bewegung und Stillstand Gleichgewicht",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186321"
+        },
+        {
+          "id": "page908_186405",
+          "grade": "1/2",
+          "area": "Lernbereich: Lesen",
+          "level": 3,
+          "parent": "page908_186401",
+          "target": "rhythmisch und melodisch",
+          "remarks": "Silben zusammenziehen Rhythmen nachahmen",
+          "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/908#page908_186405"
+        }
+      ],
+      "title": "Rhythmische Bewegungsabläufe",
+      "interpretation": "Ein fächerübergreifender Gegenbezug ist vorhanden: GS Deutsch nennt rhythmische Hand- und Armbewegungen und das Nachahmen von Rhythmen in den Bemerkungen zu Wahrnehmungszielen. Ein fehlendes gleichlautendes Mathematik-Einzelziel bedeutet hier keine eigenständige Inhaltslücke. Die einzelnen Anforderungen sind damit nicht vollständig gleichgesetzt."
+    }
+  ]
+}

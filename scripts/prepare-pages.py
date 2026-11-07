@@ -5,8 +5,10 @@ from zoneinfo import ZoneInfo
 import re
 import json
 import shutil
+import runpy
 
 root = Path(__file__).resolve().parents[1]
+runpy.run_path(str(root / 'scripts/update-fsp-info.py'))
 source = root / 'dist/index.html'
 html = source.read_text()
 titles = json.loads((root / 'curriculum/card_titles.json').read_text())
