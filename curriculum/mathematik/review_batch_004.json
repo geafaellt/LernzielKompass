@@ -1,0 +1,61 @@
+{
+  "id": "MA-004",
+  "date": "2026-11-07",
+  "source_checked_online": true,
+  "scope": "GS1/2 Bedeutungsvielfalt von Zahlen und Ordinalzahl",
+  "new_cards": [
+    "MA-013",
+    "MA-014"
+  ],
+  "reviewed_rows": [
+    "page912_1834",
+    "page912_187041"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1834",
+      "card": "MA-013",
+      "fsp_same_band": [
+        "page139_37931",
+        "page139_37959"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "decision": "Stufengleicher verbindlicher FSP-Unterpunkt zum Deuten von Umweltdaten trägt den engen Ausschnitt numerischer Angaben. FSP3/4 nennt verschiedene Zahlenverwendungen als Bemerkungen; ein zusätzlicher stufenübergreifender Anschluss ist für diesen Ausschnitt nicht erforderlich.",
+      "remaining": "Nicht jede Zahlenbedeutung wird durch die Karte abgedeckt."
+    },
+    {
+      "gs_id": "page912_187041",
+      "card": "MA-014",
+      "fsp_same_band": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37947"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35466"
+      ],
+      "decision": "Stufengleicher Anschluss zur Position in der Zahlwortreihe. Ordinaler Zahlaspekt ist eine FSP-Bemerkung zur Zahlbegriffsbildung. Der verbindliche Nachbarzahlen-Unterpunkt konkretisiert die ausgewählte Relation. FSP3/4 enthält ebenfalls ordinalen Kontext und Nachbarzahlen, wird wegen des passenden FSP1/2-Belegs nicht zusätzlich gewählt.",
+      "remaining": "Andere Ordnungszahlkontexte und Darstellungen bleiben gesondert zu prüfen."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "cards": 14,
+    "cross_band_cards": 3,
+    "inventory_rows": 14,
+    "open_connection_questions": 2
+  },
+  "tests": {
+    "data": "PASS: Deutschprüfung, Pages-Synchronisation und Mathematikprüfung. Vierzehn Karten, 57 Quellenanker.",
+    "browser": "PASS lokal: alle vierzehn Karten, Klassenfilter, Quellenlinks, Operatoren, Fachentwürfe und Neuladen. Aufgaben- und Hilfsmittelfelder bleiben bei der Feinzielübernahme leer."
+  },
+  "publication": {
+    "status": "pending"
+  },
+  "source_checked_on": "2026-11-06"
+}

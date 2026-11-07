@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-003",
+  "last_batch": "MA-004",
   "complete": false,
   "counts": {
-    "cards": 12,
+    "cards": 14,
     "cross_band": 3
   },
   "source_plans": {
@@ -749,10 +749,43 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
       "version": "2019"
+    },
+    "page139_37959": {
+      "id": "page139_37959",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37959",
+      "version": "2019"
+    },
+    "page912_187041": {
+      "id": "page912_187041",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187041",
+      "version": "2026"
+    },
+    "page139_37947": {
+      "id": "page139_37947",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37947",
+      "version": "2019"
     }
   },
-  "next_id": "page912_1834",
-  "next_step": "GS1/2 Bedeutungsvielfalt von Zahlen (1834) und Ordinalzahl (187041) prüfen. Danach quasi-simultanes Erfassen (187043), Teil-Ganzes-Beziehung (187046) und Fachbegriffe (1837). Offene Zahlwortanteile aus MA-003 gesondert klären.",
+  "next_id": "page912_187043",
+  "next_step": "Quasi-simultanes Erfassen (187043) und Teil-Ganzes-Beziehung (187046) gegen beide FSP-Bänder prüfen. Danach Fachbegriffe (1837), weitere offene Teilumfänge und die zwei Zahlwortfragen bearbeiten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -780,7 +813,7 @@
       "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_003.json",
+  "last_review_file": "review_batch_004.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -793,6 +826,18 @@
       "scope": "Schreiben ausgeschriebener Zahlwörter",
       "status": "offen",
       "reason": "FSP-Bemerkung nennt Schreiben von Zahlen ohne ausdrückliche Forderung zur Wortschreibung."
+    }
+  ],
+  "remaining_scopes": [
+    {
+      "gs_id": "page912_1834",
+      "scope": "Weitere Bedeutungen und Zahlaspekte jenseits des konkreten Deutens einer vertrauten numerischen Umweltangabe",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187041",
+      "scope": "Weitere Ordnungszahlkontexte und Darstellungsmittel jenseits der Zahlposition über Nachbarzahlen",
+      "status": "offen"
     }
   ]
 }

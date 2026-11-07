@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-06.3",
-  "checked_on": "2026-11-06",
+  "version": "MA-2026-11-07.1",
+  "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -429,6 +429,24 @@
       "id": "Q-MA-page139_35463",
       "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37959",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37959",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187041",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187041",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37947",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37947",
       "version": "2019"
     }
   ],
@@ -1059,6 +1077,113 @@
         "context_only_gs_ids": [
           "page912_1834"
         ]
+      }
+    },
+    {
+      "id": "MA-013",
+      "subject": "Mathematik",
+      "theme": "Bedeutung von Zahlenangaben in der Umwelt",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Bedeutung einer Zahlenangabe in einem vertrauten Umweltzusammenhang erkennen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Numerische Daten in der Umwelt deuten",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der verbindliche FSP-Unterpunkt umfasst das Deuten von Daten in der Umwelt; die Karte beschränkt dies auf numerische Angaben. Daraus folgt keine vollständige Abdeckung aller Zahlaspekte oder Bedeutungen. Die GS-Zahlenraumgrenze bis 100 wird dem FSP-Unterpunkt nicht als eigene Grenze zugeschrieben.",
+      "gs_target_ids": [
+        "page912_1833",
+        "page912_1834"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37959"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1834",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37959"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der verbindliche FSP-Unterpunkt umfasst das Deuten von Daten in der Umwelt; die Karte beschränkt dies auf numerische Angaben. Daraus folgt keine vollständige Abdeckung aller Zahlaspekte oder Bedeutungen. Die GS-Zahlenraumgrenze bis 100 wird dem FSP-Unterpunkt nicht als eigene Grenze zugeschrieben.",
+      "shared_object_suggestion": "Bedeutung von Zahlenangaben in der Umwelt",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt sicher, welche Information eine Zahl in einem vertrauten Umweltzusammenhang ausdrückt.",
+          "criterion": "Die benannte Bedeutung passt zur Zahlenangabe und zu ihrem Zusammenhang."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind deutet eine vertraute numerische Angabe aus seiner Umwelt zutreffend.",
+          "criterion": "Die erklärte Information entspricht der Zahlenangabe in ihrem Zusammenhang."
+        }
+      ]
+    },
+    {
+      "id": "MA-014",
+      "subject": "Mathematik",
+      "theme": "Zahlen und ihre Position in der Zahlwortreihe",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · ordinaler Kontext aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Ordinalzahlaspekt als Position in der Zahlwortreihe",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Ordinaler Zahlaspekt bei der Zahlbegriffsbildung und Benennen von Nachbarzahlen",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen.",
+      "gs_target_ids": [
+        "page912_1833",
+        "page912_1835",
+        "page912_187041"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37947"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1835",
+        "Q-MA-page912_187041",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37947"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss. Beide Hauptziele verwenden Beherrschen. Der ordinale Zahlaspekt steht auf FSP-Seite in der Bemerkung zur Zahlbegriffsbildung; das Benennen von Nachbarzahlen ist verbindlicher Unterpunkt. Die Karte konkretisiert die Position einer Zahl in der Zahlwortreihe. Zahlengeraden, sämtliche Ordnungszahlkontexte und der gesamte GS-Zahlenraum bis 100 sind damit nicht abgeglichen.",
+      "shared_object_suggestion": "Zahlen und ihre Position in der Zahlwortreihe",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt sicher die Position einer Zahl in der Zahlwortreihe anhand der unmittelbar vorhergehenden und nachfolgenden Zahl.",
+          "criterion": "Beide Nachbarzahlen und ihre Reihenfolge stimmen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind benennt sicher die Zahlen unmittelbar vor und nach einer Zahl im vertrauten Zahlbereich.",
+          "criterion": "Vorgänger und Nachfolger sind richtig benannt und in der richtigen Reihenfolge zugeordnet."
+        }
+      ],
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel mit Konkretisierung aus Bemerkung",
+        "fsp": "Zahlbegriffsbildung und Nachbarzahlen verbindlich; ordinaler Aspekt aus Bemerkung",
+        "fsp_remark_anchor": "page139_37937"
       }
     }
   ]
