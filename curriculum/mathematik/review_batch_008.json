@@ -97,10 +97,17 @@
     "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
     "prepare_pages": "passed: root and dist synchronized",
     "check_mathematik": "passed: 21 cards, 77 target anchors and 1 separately classified stage-goal source",
-    "browser_local": "passed: all 21 cards, six visible number-range notices, separate goals/criteria, empty task/aid fields, filters, source links and subject drafts"
+    "browser_local": "passed: all 21 cards, six visible number-range notices, separate goals/criteria, empty task/aid fields, filters, source links and subject drafts",
+    "browser_live": "passed: all 21 cards; six visible number-range notices; separated goals/criteria; empty task/aid fields; sources, operators, filters, subject drafts and reload"
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "app_version": "1.312",
+    "commit": "44dc1e95a21110d28550de1f1447cb3a59a37d24",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42364097450",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   },
   "automation": "Hourly prompt updated to preserve number-range policy and remove obsolete initial continuation anchors; remains ACTIVE."
 }
