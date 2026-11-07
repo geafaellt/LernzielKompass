@@ -55,7 +55,13 @@
     "browser": "PASS lokal: alle vierzehn Karten, Klassenfilter, Quellenlinks, Operatoren, Fachentwürfe und Neuladen. Aufgaben- und Hilfsmittelfelder bleiben bei der Feinzielübernahme leer."
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "commit": "82878c3f99292d4b5a79d4c8901422853a8c30dc",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42341739055",
+    "live_html": "bytegleich mit lokal geprüfter App 1.308",
+    "live_browser": "Alle vierzehn Karten, Klassenfilter, Quellenlinks, Operatoren und Fachentwürfe einschließlich Neuladen bestanden.",
+    "completed_on": "2026-11-07",
+    "resume_note": "Vorbereiteter Commit nach unterbrochenem Lauf auf main übernommen. Keine erneute fachliche Fortschrittszählung."
   },
   "source_checked_on": "2026-11-06"
 }
