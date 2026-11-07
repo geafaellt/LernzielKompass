@@ -287,9 +287,16 @@
     "browser_local": "passed: all 21 cards, scope visible in cards and goals, source links, goal/criterion adoption, output table, empty task/aid fields, preserved custom drafts, subject isolation and mobile width",
     "visual_mobile": "passed: scope screenshot inspected at 390px viewport",
     "preservation": "card IDs, source operators and all GS fine goals unchanged",
-    "automation": "hourly rule updated and verified ACTIVE; interval and thread preserved"
+    "automation": "hourly rule updated and verified ACTIVE; interval and thread preserved",
+    "browser_live": "passed: all 21 cards, scope visible in cards/goals/output, scope source links, correct goal/criterion adoption, empty task/aid fields, preserved custom drafts, subject isolation and mobile width"
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "app_version": "1.313",
+    "commit": "288814ba2dee17a9afec8bab19e29b5377fac0f4",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42365836749",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   }
 }
