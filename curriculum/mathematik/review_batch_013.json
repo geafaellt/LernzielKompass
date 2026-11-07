@@ -101,11 +101,17 @@
     "check_mathematik": "passed: 24 cards, 87 sources (85 target anchors, 2 context sources)",
     "scope_regression": "passed: missing or exceeded bounds, missing context, invented bound and malformed evidence groups rejected",
     "browser_local": "passed: all 24 cards; scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
-    "preservation": "passed: all previous 23 cards unchanged, including MA-015 fine goals and FSP scope"
+    "preservation": "passed: all previous 23 cards unchanged, including MA-015 fine goals and FSP scope",
+    "browser_live": "passed: all 24 cards; scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.317"
+    "status": "success",
+    "app_version": "1.317",
+    "commit": "36e2dd86b1ff61960e4ab241b7226f2483f82211",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42371546199",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   },
   "supplementary_source_check": {
     "url": "https://www.schulportal.sachsen.de/lplandb/material/523/virYsHblpmhWwWWkxvoP",
