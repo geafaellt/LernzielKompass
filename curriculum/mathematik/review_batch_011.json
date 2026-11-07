@@ -96,10 +96,16 @@
     "check_mathematik": "passed: 22 cards, 80 sources (78 target anchors, 2 context sources); separate GS evidence groups checked",
     "scope_regression": "passed: exceeded or invented bounds rejected; reused GS groups reject wrong operator, wrong parent, missing source and context/coverage overlap",
     "browser_local": "passed: all 22 cards, visible scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
-    "preservation": "passed: other 20 cards unchanged; MA-014 IDs, fine goals and FSP scope preserved; one target row and two context rows updated"
+    "preservation": "passed: other 20 cards unchanged; MA-014 IDs, fine goals and FSP scope preserved; one target row and two context rows updated",
+    "browser_live": "passed: all 22 cards, scope and source links, goal/criterion adoption, output, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.315"
+    "status": "success",
+    "app_version": "1.315",
+    "commit": "713e91ed1367ebdb876853543dcec4692b3d103e",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42367536843",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   }
 }
