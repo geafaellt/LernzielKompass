@@ -80,9 +80,16 @@
     "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
     "prepare_pages": "passed: root and dist synchronized",
     "check_mathematik": "passed: 15 cards, 61 source anchors",
-    "browser_local": "passed: all 15 cards, grades 1–4, empty areas, operators, sources, subject drafts, teacher-owned task/aid fields"
+    "browser_local": "passed: all 15 cards, grades 1–4, empty areas, operators, sources, subject drafts, teacher-owned task/aid fields",
+    "browser_live": "passed: all 15 mathematics cards, grades 1–4, filters, source links, operators, separate subject drafts and empty teacher-owned task/aid fields"
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "app_version": "1.310",
+    "commit": "6dce5cd2d6f507196a3adc82dbf35a04a823d797",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42359637078",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   }
 }
