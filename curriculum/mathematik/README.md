@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-017
+# Mathematik-Abgleich · MA-018
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Fünfundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023 und MA-025 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Sechsundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei der Darstellungsvernetzung (page912_1856), zunächst Strukturen im Hunderterfeld (page912_187051). Fünf Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-017](review_batch_017.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung beim Operationsverständnis Addition/Subtraktion (page912_1857). Sechs Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-018](review_batch_018.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -229,3 +229,12 @@ GS 1855 wurde im Kontext des dekadischen Positionssystems gegen beide FSP-Bände
 MA-024 berücksichtigt den Einerwert null bei vollen Zehnern bereits didaktisch innerhalb des Rahmens bis 20. MA-025 bleibt bei dekadischer Bündelung bis 100. Beide Karten, Feinziele und Erfolgskriterien bleiben unverändert und werden nicht zusätzlich auf GS 1855 angerechnet. Mathematisch lässt sich die Nullfunktion aus dem dekadischen System erschließen; damit wird weder eine ausdrückliche zusätzliche Zieldeckung behauptet noch eine didaktische Verbindung ausgeschlossen. Der kleinere Zahlenraum ist kein Ablehnungsgrund.
 
 Eine weitere Zielzeile einzeln geprüft, kein hinreichend belegter direkter Anschluss eingetragen. Weiterhin 25 Karten, sechs stufenübergreifend, 95 Kartenquellen und 44 inventarisierte Zeilen. Drei begründete direkte Abgrenzungen sind nun dokumentiert. Fünf Anschlussfragen sowie frühere Teilumfänge bleiben offen. Fortsetzung bei 1856/187051; der Gesamtvergleich ist nicht abgeschlossen. App 1.320 bleibt unverändert. Deutsch-, Mathematik-, Synchronisations- und Zahlenraumprüfungen bestanden. Modul und beide App-Dateien sind bytegleich zu MA-016; vorhandene Karten, Grenzen und Entwürfe bleiben unberührt. Kein erneuter Browserlauf bei dieser reinen Auditänderung; der öffentliche Browsernachweis für App 1.320 liegt in MA-016. Audit auf main veröffentlicht mit Commit 6c6f359359ab3bec160414df7e13771d5a56a8d1. [Pages-Lauf 42400107460](https://github.com/geafaellt/LernzielKompass/actions/runs/42400107460) erfolgreich; die öffentliche App wurde erneut abgerufen und stimmt bytegenau mit der geprüften App 1.320 überein.
+
+
+## MA-018 · Hunderterfeld und Darstellungsvernetzung · App 1.321
+
+MA-026 verbindet GS 187051 mit dem FSP3/4-Zahlenaufbau 35461/35468. Hunderterfeld und Bündelung stehen in der FSP-Bemerkung; beide Hauptoperatoren lauten Beherrschen. Die Karte konkretisiert die Erkennung voller Zehnergruppen und übriger Einer bis 100. Der ausdrückliche Darstellungsbezug entscheidet für das höhere Band, nicht allein der Zahlenraum. Weitere Feldmuster bleiben offen. MA-025 behält den anderen Schwerpunkt der Zehn-zu-eins-Bündelung.
+
+MA-024 wird für GS 187052 und den Zehner-/Einer-Ausschnitt von 187053 wiederverwendet. Die FSP-Bemerkung 37871 nennt Sprechen, Darstellen und Verwenden von Zehner/Einer. Zahl und Zehner-Einer-Darstellung werden in beiden Richtungen didaktisch zugeordnet; der Operator Einblick gewinnen bleibt bestehen. Die FSP-Grenze bis 20 bleibt ausdrücklich aus dem Bandziel abgeleitet und umfasst alle relevanten Teilwerte, Zwischenwerte und Ergebnisse. Hunderter, Stellenwert und Stellenwerttafel als eigenständige Fachwörter bleiben Anschlussfrage; vollständiger flexibler Darstellungswechsel und Sachsituationsbezüge sind nicht behauptet.
+
+Drei neue Unterzielzeilen begrenzt geprüft, Elternzeile 1856 nur als Kontext. Bestehende Zahlenzerlegung und Zehner-Einer-Stellenwerte erneut bestätigt. Bestand 26 Karten, sieben stufenübergreifend, 99 Quellenlinks (97 Zielanker und zwei Kontextquellen). Die übrigen 24 Karten bleiben unverändert. 23 Zeilen des nächsten Operationsblocks wurden nur inventarisiert; die Teilinventur umfasst jetzt 67 Zeilen. Inventur zählt nicht als fachlicher Prüffortschritt. Fortsetzung bei 1857, sechs Anschlussfragen und frühere Restumfänge bleiben erhalten. Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 26 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.

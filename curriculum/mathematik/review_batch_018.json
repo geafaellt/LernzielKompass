@@ -1,0 +1,178 @@
+{
+  "id": "MA-018",
+  "date": "2026-11-07",
+  "scope": "Hunderterfeldstruktur, Zehner-Einer-Darstellungswechsel und Fachbegriffe",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "697edd8c4111f670302cda67422cd312576f32ff7ce2b71da749f157c4e4965a",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "new_cards": [
+    "MA-026"
+  ],
+  "reused_cards": [
+    "MA-024"
+  ],
+  "existing_cards_rechecked": [
+    "MA-010",
+    "MA-012",
+    "MA-024",
+    "MA-025"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1856",
+      "status": "context_only",
+      "decision": "Elternzeile ordnet die zwei Unterziele; keine eigene Vollabdeckung oder zusätzliche Zielzählung."
+    },
+    {
+      "gs_id": "page912_187051",
+      "status": "partially_reviewed",
+      "card": "MA-026",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37871",
+        "page139_37931",
+        "page139_37937"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35468"
+      ],
+      "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Beherrschen"
+      },
+      "evidence": "Hunderterfeld und Bündelung aus Bemerkung 35468; Ziel Zahlenaufbau unter 35461. Geordnete Zehnergruppen und übrige Einer didaktisch konkretisiert.",
+      "number_range": {
+        "gs_max": 100,
+        "fsp_explicit_max": 100,
+        "source_anchor": "page139_35461"
+      },
+      "prerequisites": "Volle Zehnergruppen, einzelne Einer und Gesamtanzahl unterscheiden.",
+      "uncertainty": "Der Lehrplan legt kein vollständiges Verzeichnis aller Feldmuster fest.",
+      "remaining": "Weitere Feldstrukturen und allgemeine Darstellungsvernetzung offen; MA-025 behält seinen anderen Schwerpunkt Bündelungsverhältnis."
+    },
+    {
+      "gs_id": "page912_187052",
+      "status": "partially_reviewed",
+      "card": "MA-024",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37871",
+        "page139_37931",
+        "page139_37937",
+        "page139_37941"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35468",
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "decision": "Stufenbandpassenden vorhandenen Zehner-Einer-Gegenstand bevorzugen. Sprechen/Darstellen/Verwenden in Bemerkung 37871 stützt Zahl ↔ Zehner/Einer; bidirektionale Zuordnung ist didaktisch konkretisiert. FSP3/4 hat weitergehende Darstellungsbezüge, aber nicht automatisch alle GS-Wechsel und Sachsituationen.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Einblick gewinnen"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_didactic_max": 20,
+        "context_anchor": "page139_37739",
+        "fsp_target_row_max": null
+      },
+      "prerequisites": "Zehneranzahl, Zehnerwert und Einerwert unterscheiden.",
+      "uncertainty": "Keine vollständige flexible Vernetzung sämtlicher Ebenen belegt.",
+      "remaining": "Hunderter und weitere Darstellungs-/Sachsituationsbezüge sowie GS-Zahlenraum über 20 offen. MA-010 bleibt bei Menge → Zahlwort/Zahl; MA-012 beim Lesen/Schreiben der Ziffernschreibweise."
+    },
+    {
+      "gs_id": "page912_187053",
+      "status": "partially_reviewed_with_open_question",
+      "card": "MA-024",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37871"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35468"
+      ],
+      "decision": "Explizite Zehner-/Einer-Bezeichnungen aus FSP-Bemerkung 37871 im vorhandenen Gegenstand nutzen. Hunderter, Stellenwert und Stellenwerttafel nicht allein aus der Benennung eines Materials als gesicherte Sprachziele ausgeben.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Einblick gewinnen"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_didactic_max": 20
+      },
+      "prerequisites": "Zehner und Einer im zweistelligen Zahlenaufbau unterscheiden.",
+      "uncertainty": "Metasprachliche Benennung von Stellenwert und Stellenwerttafel nicht eindeutig als FSP-Sprachforderung bestimmt.",
+      "remaining": "Eigenständige Verwendung der Begriffe Hunderter, Stellenwert und Stellenwerttafel; Zehner/Einer auf MA-024 bereits begrenzt belegt."
+    }
+  ],
+  "new_inventory_rows": [
+    "page912_1857",
+    "page912_1858",
+    "page912_187054",
+    "page912_187055",
+    "page912_187056",
+    "page912_1861",
+    "page912_1862",
+    "page912_1863",
+    "page912_187057",
+    "page912_187058",
+    "page912_187059",
+    "page912_187060",
+    "page912_187061",
+    "page912_187062",
+    "page912_187063",
+    "page912_187064",
+    "page912_1864",
+    "page912_187068",
+    "page912_187069",
+    "page912_187070",
+    "page912_187071",
+    "page912_187072",
+    "page912_187073"
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 3,
+    "context_rows": 1,
+    "rechecked_existing_rows": 2,
+    "new_cards": 1,
+    "cards": 26,
+    "cross_band_cards": 7,
+    "source_links": 99,
+    "target_anchors": 97,
+    "audit_rows": 67,
+    "new_inventory_rows": 23,
+    "open_connection_questions": 6
+  },
+  "continuation": "GS1/2 Operationsverständnis Addition/Subtraktion (1857–1858, 187054–187056): Vereinigen/Hinzufügen sowie Wegnehmen/Ergänzen/Differenz gegen beide FSP-Bänder prüfen. Bestehende Mengen- und Zahlenkarten berücksichtigen; Operationsverständnis nicht mit Rechenverfahren gleichsetzen. Sechs offene Anschlussfragen und bisherige Restumfänge bewahren. Neu inventarisierter Block 1857 ist noch ungeprüft.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 26 cards, 99 sources, 97 target anchors and 2 context sources; next open row present",
+    "scope_regression": "passed: invalid limits/context and malformed reused evidence rejected",
+    "preservation": "passed: other 24 previous cards unchanged; MA-024 FSP scope unchanged; 67 unique inventory rows and no parent coverage",
+    "browser_local": "passed: all 26 cards; scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.321"
+  }
+}

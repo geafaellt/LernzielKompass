@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.13",
+  "version": "MA-2026-11-07.14",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -680,6 +680,30 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1856",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1856",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187052",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187052",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187053",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187053",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187051",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187051",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -2492,11 +2516,11 @@
       "theme": "Zahlen in Zehnerwert und Einerwert zerlegen",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · Zehner-Einer-Zerlegung aus FSP-Bemerkung",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Zerlegen von Zahlen bis 100, begrenzt auf die Zehner-Einer-Zerlegung zweistelliger Zahlen; zusätzlich Stellenwertprinzip für Zehner-/Einerstelle (page912_1854)",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Zerlegen von Zahlen bis 100, begrenzt auf die Zehner-Einer-Zerlegung zweistelliger Zahlen; zusätzlich Stellenwertprinzip für Zehner-/Einerstelle (page912_1854); zusätzlich Zehner-Einer-Darstellungswechsel und Begriffe Zehner/Einer (187052, 187053)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Strukturelemente zweistelliger Zahlen; Zehner-Einer-Zusammensetzung aus Bemerkung zum Zahlenaufbau",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Einblick gewinnen",
-      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die FSP-Zielzeile nennt Strukturelemente zweistelliger Zahlen; die Zehner-Einer-Zusammensetzung ist durch die Bemerkung zum Zahlenaufbau konkretisiert. MA-015 bleibt bei Teilmengen und Gesamtmenge und wird nicht als zusätzliche Abdeckung dieser Zahlenzerlegung gezählt. Andere additive Zerlegungen, systematisches Finden aller Zerlegungen und Stellenwertanalogien sind nicht Bestandteil dieser Karte. Der zusätzliche GS-Unterpunkt1854 nutzt denselben begrenzten Zehner-Einer-Gegenstand. Die Ziffer an der Zehnerstelle gibt die Zehneranzahl an; ihr Zahlenwert ist vom Einerwert zu unterscheiden. Dies konkretisiert den FSP-Strukturbeleg37871 mit Zehner/Einer aus der Bemerkung. Darstellungen mit Hundertern, sämtliche Stellenwertveränderungen und Stellenwertanalogien bleiben außerhalb dieses Ausschnitts.",
+      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die FSP-Zielzeile nennt Strukturelemente zweistelliger Zahlen; die Zehner-Einer-Zusammensetzung ist durch die Bemerkung zum Zahlenaufbau konkretisiert. MA-015 bleibt bei Teilmengen und Gesamtmenge und wird nicht als zusätzliche Abdeckung dieser Zahlenzerlegung gezählt. Andere additive Zerlegungen, systematisches Finden aller Zerlegungen und Stellenwertanalogien sind nicht Bestandteil dieser Karte. Der zusätzliche GS-Unterpunkt1854 nutzt denselben begrenzten Zehner-Einer-Gegenstand. Die Ziffer an der Zehnerstelle gibt die Zehneranzahl an; ihr Zahlenwert ist vom Einerwert zu unterscheiden. Dies konkretisiert den FSP-Strukturbeleg37871 mit Zehner/Einer aus der Bemerkung. Darstellungen mit Hundertern, sämtliche Stellenwertveränderungen und Stellenwertanalogien bleiben außerhalb dieses Ausschnitts. MA-018 ergänzt den begrenzten Wechsel zwischen Ziffernschreibweise und Darstellung durch Zehner und Einer sowie das Verwenden dieser beiden Bezeichnungen. Die FSP-Bemerkung zu 37871 nennt Sprechen, Darstellen und Verwenden von Zehner/Einer. Die Zuordnung in beiden Richtungen ist eine didaktische Konkretisierung dieses Strukturbezugs. Hunderter, die Begriffe Stellenwert und Stellenwerttafel als eigenständiger Sprachgegenstand, sämtliche Sachsituationen sowie der flexible Wechsel aller Darstellungsebenen werden nicht als abgedeckt ausgegeben.",
       "gs_target_ids": [
         "page912_1842",
         "page912_1843",
@@ -2517,7 +2541,10 @@
         "Q-MA-page139_37739",
         "Q-MA-page912_1852",
         "Q-MA-page912_1853",
-        "Q-MA-page912_1854"
+        "Q-MA-page912_1854",
+        "Q-MA-page912_1856",
+        "Q-MA-page912_187052",
+        "Q-MA-page912_187053"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -2528,19 +2555,19 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die FSP-Zielzeile nennt Strukturelemente zweistelliger Zahlen; die Zehner-Einer-Zusammensetzung ist durch die Bemerkung zum Zahlenaufbau konkretisiert. MA-015 bleibt bei Teilmengen und Gesamtmenge und wird nicht als zusätzliche Abdeckung dieser Zahlenzerlegung gezählt. Andere additive Zerlegungen, systematisches Finden aller Zerlegungen und Stellenwertanalogien sind nicht Bestandteil dieser Karte. Der zusätzliche GS-Unterpunkt1854 nutzt denselben begrenzten Zehner-Einer-Gegenstand. Die Ziffer an der Zehnerstelle gibt die Zehneranzahl an; ihr Zahlenwert ist vom Einerwert zu unterscheiden. Dies konkretisiert den FSP-Strukturbeleg37871 mit Zehner/Einer aus der Bemerkung. Darstellungen mit Hundertern, sämtliche Stellenwertveränderungen und Stellenwertanalogien bleiben außerhalb dieses Ausschnitts.",
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die FSP-Zielzeile nennt Strukturelemente zweistelliger Zahlen; die Zehner-Einer-Zusammensetzung ist durch die Bemerkung zum Zahlenaufbau konkretisiert. MA-015 bleibt bei Teilmengen und Gesamtmenge und wird nicht als zusätzliche Abdeckung dieser Zahlenzerlegung gezählt. Andere additive Zerlegungen, systematisches Finden aller Zerlegungen und Stellenwertanalogien sind nicht Bestandteil dieser Karte. Der zusätzliche GS-Unterpunkt1854 nutzt denselben begrenzten Zehner-Einer-Gegenstand. Die Ziffer an der Zehnerstelle gibt die Zehneranzahl an; ihr Zahlenwert ist vom Einerwert zu unterscheiden. Dies konkretisiert den FSP-Strukturbeleg37871 mit Zehner/Einer aus der Bemerkung. Darstellungen mit Hundertern, sämtliche Stellenwertveränderungen und Stellenwertanalogien bleiben außerhalb dieses Ausschnitts. MA-018 ergänzt den begrenzten Wechsel zwischen Ziffernschreibweise und Darstellung durch Zehner und Einer sowie das Verwenden dieser beiden Bezeichnungen. Die FSP-Bemerkung zu 37871 nennt Sprechen, Darstellen und Verwenden von Zehner/Einer. Die Zuordnung in beiden Richtungen ist eine didaktische Konkretisierung dieses Strukturbezugs. Hunderter, die Begriffe Stellenwert und Stellenwerttafel als eigenständiger Sprachgegenstand, sämtliche Sachsituationen sowie der flexible Wechsel aller Darstellungsebenen werden nicht als abgedeckt ausgegeben.",
       "shared_object_suggestion": "Zahlen in Zehnerwert und Einerwert zerlegen",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind zerlegt zweistellige Zahlen im Zahlenraum bis 100 sicher in Zehnerwert und Einerwert und ordnet den Ziffern ihren Stellenwert zu.",
-          "criterion": "Die Zehnerziffer gibt die Anzahl voller Zehner an, die Einerziffer die Anzahl einzelner Einer. Zehnerwert und Einerwert ergeben zusammen die Ausgangszahl; alle Werte bleiben bis 100.",
+          "goal": "Das Kind zerlegt zweistellige Zahlen im Zahlenraum bis 100 sicher in Zehnerwert und Einerwert, wechselt zwischen Ziffernschreibweise und Zehner-Einer-Darstellung und verwendet die Bezeichnungen Zehner und Einer.",
+          "criterion": "Zehner- und Eineranzahl passen zu den Ziffern an den jeweiligen Stellen; die beiden Darstellungen bezeichnen dieselbe Zahl. Zehner und Einer werden passend benannt. Zehnerwert und Einerwert ergeben die Ausgangszahl; alle Werte bleiben bis 100.",
           "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind erkennt bei zweistelligen Zahlen bis 20 die Zusammensetzung aus Zehnerwert und Einerwert und die Bedeutung der Zehner- und Einerziffer.",
-          "criterion": "Zehneranzahl und Eineranzahl sind den Ziffern an den passenden Stellen richtig zugeordnet. Zehnerwert und Einerwert ergeben zusammen die Ausgangszahl; beide Werte und ihre Summe bleiben bis 20.",
+          "goal": "Das Kind erkennt bei zweistelligen Zahlen bis 20 die Zusammensetzung aus Zehnerwert und Einerwert, ordnet Zahl und Zehner-Einer-Darstellung einander zu und benennt Zehner und Einer.",
+          "criterion": "Zehner- und Eineranzahl sind den Ziffern an den passenden Stellen richtig zugeordnet. Zahl und Zehner-Einer-Darstellung stimmen in beiden Zuordnungsrichtungen überein; die Bezeichnungen Zehner und Einer passen. Zehnerwert und Einerwert ergeben die Ausgangszahl; beide Werte, die Summe sowie relevante Zwischen- und Endergebnisse bleiben bis 20.",
           "scope_status": "derived",
           "range_max": 20,
           "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
@@ -2557,7 +2584,7 @@
           "page912_1842",
           "page912_1843"
         ],
-        "additional_gs": "Stellenwertprinzip1854 unter Hauptziel1852; gleicher Operator Beherrschen wie bei der bisherigen Zahlenzerlegung, eigene GS-Zielhierarchie."
+        "additional_gs": "Stellenwertprinzip1854 unter Hauptziel1852; gleicher Operator Beherrschen wie bei der bisherigen Zahlenzerlegung, eigene GS-Zielhierarchie. MA-018: 187052 nur Zahl ↔ Zehner/Einer; 187053 nur Zehner/Einer. 1856 ist Kontext. Sprach- und Darstellungsbezug aus FSP-Bemerkung 37871; keine zusätzliche amtliche Operatorstufe."
       },
       "number_range_alignment": {
         "relation": "reduced-fsp",
@@ -2585,16 +2612,22 @@
           "target_ids": [
             "page912_1852",
             "page912_1853",
-            "page912_1854"
+            "page912_1854",
+            "page912_1856",
+            "page912_187052",
+            "page912_187053"
           ],
           "operator": "Beherrschen",
-          "scope": "Stellenwertprinzip, begrenzt auf Zehner- und Einerstelle zweistelliger Zahlen; keine vollständige Abdeckung aller Darstellungen und Stellen.",
+          "scope": "Zehner-Einer-Stellenwert zweistelliger Zahlen sowie begrenzter Wechsel zwischen Ziffernschreibweise und Zehner-Einer-Darstellung; Benennen von Zehnern und Einern. Kein vollständiger Wechsel aller Darstellungen und keine Deckung sämtlicher Fachbegriffe.",
           "context_only_ids": [
             "page912_1852",
-            "page912_1853"
+            "page912_1853",
+            "page912_1856"
           ],
           "covered_ids": [
-            "page912_1854"
+            "page912_1854",
+            "page912_187052",
+            "page912_187053"
           ]
         }
       ]
@@ -2672,6 +2705,81 @@
           "Q-MA-page139_35468"
         ],
         "planning_rule": "Nur nichtnegative ganze Zahlen; dargestellter Gesamtwert, relevante Zwischenwerte und Ergebnisse bleiben bis 100. Auf Einer, Zehner und Hunderter begrenzen; keine Tausender oder schriftlichen Übertragsverfahren ergänzen."
+      }
+    },
+    {
+      "id": "MA-026",
+      "subject": "Mathematik",
+      "theme": "Zehnerstruktur im Hunderterfeld erkennen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · stufenübergreifend · Hunderterfeld aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Strukturen im Hunderterfeld bis 100, begrenzt auf volle Zehner und übrige Einer",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zahlenaufbau bis 100; Hunderterfeld und Bündelung aus Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenübergreifend von GS 1/2 zu FSP 3/4. Das FSP-Unterziel 35468 nennt das Entdecken von Strukturelementen im Zahlenaufbau; Hunderterfeld und Bündelung stehen in seiner Bemerkung. Beherrschen und bis 100 stammen aus dem Hauptziel 35461. Die Zehner-Einer-Struktur in entsprechend geordneten Felddarstellungen ist eine didaktische Konkretisierung, keine zusätzliche wörtliche Lehrplanforderung. FSP 1/2 belegt Mengenstruktur und zweistellige Zahlstruktur, aber nicht diesen ausdrücklichen Hunderterfeldbezug. Die Zuordnung beruht auf der spezifischen Darstellung, nicht allein auf der Zahlenraumgröße. MA-025 bleibt beim Bündelungsverhältnis benachbarter Stellen; diese Karte betrifft das Erkennen der Anzahlstruktur im Feld. Weitere Feldmuster und der vollständige flexible Darstellungswechsel bleiben offen.",
+      "gs_target_ids": [
+        "page912_1852",
+        "page912_1856",
+        "page912_187051"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35468"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1852",
+        "Q-MA-page912_1856",
+        "Q-MA-page912_187051",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35468"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend von GS 1/2 zu FSP 3/4. Das FSP-Unterziel 35468 nennt das Entdecken von Strukturelementen im Zahlenaufbau; Hunderterfeld und Bündelung stehen in seiner Bemerkung. Beherrschen und bis 100 stammen aus dem Hauptziel 35461. Die Zehner-Einer-Struktur in entsprechend geordneten Felddarstellungen ist eine didaktische Konkretisierung, keine zusätzliche wörtliche Lehrplanforderung. FSP 1/2 belegt Mengenstruktur und zweistellige Zahlstruktur, aber nicht diesen ausdrücklichen Hunderterfeldbezug. Die Zuordnung beruht auf der spezifischen Darstellung, nicht allein auf der Zahlenraumgröße. MA-025 bleibt beim Bündelungsverhältnis benachbarter Stellen; diese Karte betrifft das Erkennen der Anzahlstruktur im Feld. Weitere Feldmuster und der vollständige flexible Darstellungswechsel bleiben offen.",
+      "shared_object_suggestion": "Zehnerstruktur im Hunderterfeld erkennen",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt sicher die Zehnerstruktur von Anzahlen bis 100 in entsprechend geordneten Hunderterfelddarstellungen und ordnet die Gesamtanzahl zu.",
+          "criterion": "Volle Zehnergruppen und übrige Einer sind korrekt bestimmt; die Gesamtanzahl stimmt mit der Darstellung überein. Alle dargestellten Anzahlen, Zwischenwerte und Ergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt sicher die Zehnerstruktur von Anzahlen bis 100 in entsprechend geordneten Hunderterfelddarstellungen und ordnet die Gesamtanzahl zu.",
+          "criterion": "Volle Zehnergruppen und übrige Einer sind korrekt bestimmt; die Gesamtanzahl stimmt mit der Darstellung überein. Alle dargestellten Anzahlen, Zwischenwerte und Ergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "evidence_classification": {
+        "gs": "Verbindlicher Unterpunkt Strukturen im Hunderterfeld unter Beherrschen; Zehner-Einer-Ausschnitt didaktisch begrenzt",
+        "fsp": "Strukturelemente im Zahlenaufbau unter Beherrschen; Hunderterfeld und Bündelung in Bemerkung 35468",
+        "fsp_remark_anchor": "page139_35468",
+        "context_only_gs_ids": [
+          "page912_1852",
+          "page912_1856"
+        ]
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 · ausdrücklich im übergeordneten FSP-Ziel",
+        "detail": "FSP 35461 nennt Zahlen bis 100. Die Unterzielzeile 35468 konkretisiert den Zahlenaufbau; Hunderterfeld und Bündelung stehen in der Bemerkung. Die Beschränkung auf volle Zehnergruppen und übrige Einer ist eine didaktische Auswahl innerhalb dieses Bereichs.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35468"
+        ],
+        "planning_rule": "Nur nichtnegative ganzzahlige Anzahlen bis 100. Teilanzahlen, Gesamtanzahl sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Keine Erweiterung auf größere Zahlenräume oder sämtliche Muster im Hunderterfeld."
       }
     }
   ]

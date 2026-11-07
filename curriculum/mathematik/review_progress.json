@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-017",
+  "last_batch": "MA-018",
   "complete": false,
   "counts": {
-    "cards": 25,
-    "cross_band": 6
+    "cards": 26,
+    "cross_band": 7
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1178,10 +1178,54 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468",
       "version": "2019"
+    },
+    "page912_1856": {
+      "id": "page912_1856",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1856",
+      "version": "2026"
+    },
+    "page912_187052": {
+      "id": "page912_187052",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187052",
+      "version": "2026"
+    },
+    "page912_187053": {
+      "id": "page912_187053",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187053",
+      "version": "2026"
+    },
+    "page912_187051": {
+      "id": "page912_187051",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187051",
+      "version": "2026"
     }
   },
-  "next_id": "page912_1856",
-  "next_step": "GS1/2 Vernetzen von Darstellungen (1856): Strukturen im Hunderterfeld (187051), flexibler Darstellungswechsel (187052), danach Fachbegriffe (187053) gegen beide FSP-Bänder prüfen. Bestehende Karten MA-010, MA-012, MA-024 und MA-025 sowie deren konkrete Teilumfänge berücksichtigen; keine Doppelzählung. Fünf Anschlussfragen und bisherige Restumfänge bleiben erhalten. MA-017 grenzt die Null im Positionssystem vom Verfahrenshinweis zur Null ab; keine zusätzliche Kartenabdeckung.",
+  "next_id": "page912_1857",
+  "next_step": "GS1/2 Operationsverständnis Addition/Subtraktion (1857–1858, 187054–187056): Vereinigen/Hinzufügen sowie Wegnehmen/Ergänzen/Differenz gegen beide FSP-Bänder prüfen. Bestehende Mengen- und Zahlenkarten berücksichtigen; Operationsverständnis nicht mit Rechenverfahren gleichsetzen. Sechs offene Anschlussfragen und bisherige Restumfänge bewahren. Neu inventarisierter Block 1857 ist noch ungeprüft.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1240,9 +1284,20 @@
         "page139_37871"
       ],
       "decision": "FSP1/2 nennt allgemeines Bündeln und zweistellige Zahlstruktur. Für den gewählten Ausschnitt der rekursiven dekadischen Bündelung einschließlich Zehner/Hunderter ist der gemeinsame explizite Bezug Bündelung/dekadisches Positionssystem in FSP3/4 spezifischer. Ausschlaggebend ist der Inhalt, nicht allein der kleinere Zahlenraum; kein pauschaler Nichtanschluss für Bündeln in FSP1/2."
+    },
+    "MA-026": {
+      "same_band_candidate_ids": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37871",
+        "page139_37931",
+        "page139_37937"
+      ],
+      "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_017.json",
+  "last_review_file": "review_batch_018.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1279,6 +1334,16 @@
       "scope": "Eigenständiges Verwenden der Begriffe Zahlwort, Ziffer, Zahl, Vorgänger, Nachfolger, Nachbarzehner sowie der Formulierungen ist größer als, ist kleiner als und ist gleich; vorhandene Inhalts-/Symbolbelege sichern die gesamte Sprachforderung noch nicht.",
       "status": "offen",
       "reason": "FSP-Zahlwortzuordnung ist keine metasprachliche Unterscheidung von Zahlwort/Ziffer/Zahl. Benennen der Nachbarzahlen belegt zunächst Zahlenbenennung; Vergleichszeichen und Mengenformulierungen sind nicht automatisch derselbe Sprachbeleg wie die GS-Zahlenvergleichsformulierungen. Die gezielt belegten Zwischen-/Paritätsausschnitte bleiben davon getrennt."
+    },
+    {
+      "gs_id": "page912_187053",
+      "scope": "Eigenständige Verwendung der Begriffe Hunderter, Stellenwert und Stellenwerttafel; Zehner/Einer auf MA-024 bereits begrenzt belegt.",
+      "status": "offen",
+      "reason": "Die Benennung eines Darstellungsmittels in einer FSP-Bemerkung belegt nicht automatisch die eigenständige Verwendung seines Fachworts. FSP1/2 37871 belegt Zehner/Einer; FSP3/4 35468 nennt Hunderterfeld und Stellentafel als Darstellungskontext.",
+      "candidate_ids": [
+        "page139_37871",
+        "page139_35468"
+      ]
     }
   ],
   "remaining_scopes": [
@@ -1332,6 +1397,16 @@
       "gs_id": "page912_1854",
       "scope": "Hunderterstelle, weitere Stellenwertveränderungen und der GS-Bereich jenseits des didaktischen FSP1/2-Rahmens bis20; offene Stellenwertanalogien1849 bleiben gesondert.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187051",
+      "scope": "Weitere Strukturen im Hunderterfeld jenseits des ausgewählten Zehner-Einer-Ausschnitts.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187052",
+      "scope": "Weitere Darstellungsarten, alle Wechselrichtungen und Sachsituationsbezüge; Hunderterdarstellungen sowie der Bereich über dem didaktischen FSP1/2-Rahmen bis 20. MA-024 deckt nur Zahl ↔ Zehner/Einer.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1343,10 +1418,11 @@
     "gs_blocks": [
       "page912_1833",
       "page912_1842",
-      "page912_1852"
+      "page912_1852",
+      "page912_1857"
     ],
-    "rows": 44,
-    "note": "Teilinventur: drei GS1/2-Blöcke und ausgewählte Zeilen aus zwei GS3/4-Blöcken. Stellenwertblock bis einschließlich 1855 einzeln bzw. als Kontext geprüft; Darstellungsvernetzung und Fachbegriffe noch offen. Teilanschlüsse und Kontextbezug bedeuten keine vollständige Zieldeckung.",
+    "rows": 67,
+    "note": "Teilinventur: vier GS1/2-Blöcke und ausgewählte Zeilen aus zwei GS3/4-Blöcken. Block 1852 einzeln bzw. als Kontext geprüft, mit dokumentierten Restumfängen; neuer Block 1857 noch ungeprüft. Inventur ist kein fachlicher Prüffortschritt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
