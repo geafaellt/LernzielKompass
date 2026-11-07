@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.4",
+  "version": "MA-2026-11-07.5",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -526,6 +526,56 @@
       "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187296",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1842",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1842",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1843",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1843",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1844",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1844",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37950",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37950",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37952",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37952",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1845",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1845",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37956",
+      "title": "FSP Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37956",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37739",
+      "title": "FSP Mathematik 1/2 · übergreifende Ziele: Zahlaufbau bis 20",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "version": "2019",
+      "kind": "stage_goals",
+      "grade": "1/2"
     }
   ],
   "connections": [
@@ -1598,6 +1648,158 @@
         "context_only_gs_ids": [
           "page912_2267",
           "page912_2269"
+        ]
+      }
+    },
+    {
+      "id": "MA-020",
+      "subject": "Mathematik",
+      "theme": "Vorwärts-, Rückwärts- und Schrittzählen · GS 1/2",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · FSP-Zahlenraum aus übergreifendem Ziel",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Vorwärts-, Rückwärts- und Schrittzählen im Zahlenraum bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Vorwärts-, Rückwärts- und Schrittzählen beim Erkunden der Natur",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS 1/2 bis 100. Das übergreifende FSP1/2-Ziel nennt den Zahlaufbau bis 20; dieser Rahmen wird für das didaktische Feinziel verwendet. Die ausgewählte FSP-Zielzeile selbst nennt keine eigene Obergrenze. Der Anschluss belegt kein Beherrschen bis 100 im FSP. Vorwärts-/Rückwärtszählen und Schrittzählen sind in beiden Lehrplänen verbindliche Unterziele. Bestimmte Schrittweiten und Unterbrechen/Fortsetzen stehen in Bemerkungen; sie werden nicht als zusätzliche Pflichtziele ausgegeben.",
+      "gs_target_ids": [
+        "page912_1842",
+        "page912_1843",
+        "page912_1844"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1844",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37950",
+        "Q-MA-page139_37952",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100. Das übergreifende FSP1/2-Ziel nennt den Zahlaufbau bis 20; dieser Rahmen wird für das didaktische Feinziel verwendet. Die ausgewählte FSP-Zielzeile selbst nennt keine eigene Obergrenze. Der Anschluss belegt kein Beherrschen bis 100 im FSP. Vorwärts-/Rückwärtszählen und Schrittzählen sind in beiden Lehrplänen verbindliche Unterziele. Bestimmte Schrittweiten und Unterbrechen/Fortsetzen stehen in Bemerkungen; sie werden nicht als zusätzliche Pflichtziele ausgegeben.",
+      "shared_object_suggestion": "Vorwärts-, Rückwärts- und Schrittzählen · GS 1/2",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zählt sicher vorwärts und rückwärts sowie in gleich großen Schritten im Zahlenraum bis 100.",
+          "criterion": "Zählrichtung und Schrittweite bleiben erhalten; die Zahlenfolge stimmt bis 100."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind zählt sicher vorwärts und rückwärts sowie in gleich großen Schritten bis 20 im Naturkontext.",
+          "criterion": "Zählrichtung und Schrittweite bleiben erhalten; die Zahlenfolge stimmt im didaktisch begrenzten Zahlenraum bis 20."
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1842",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100. Das übergreifende FSP1/2-Ziel nennt den Zahlaufbau bis 20; dieser Rahmen wird für das didaktische Feinziel verwendet. Die ausgewählte FSP-Zielzeile selbst nennt keine eigene Obergrenze. Der Anschluss belegt kein Beherrschen bis 100 im FSP.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliche Unterzielzeile unter Beherrschen",
+        "fsp": "verbindliche Unterzielzeile unter Beherrschen; Zahlenraum 20 aus übergreifendem Ziel als didaktische Eingrenzung",
+        "context_only_gs_ids": [
+          "page912_1842",
+          "page912_1843"
+        ]
+      }
+    },
+    {
+      "id": "MA-021",
+      "subject": "Mathematik",
+      "theme": "Zahlen vergleichen und ordnen · GS 1/2",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · FSP-Zahlenraum aus übergreifendem Ziel",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Zahlen vergleichen und ordnen im Zahlenraum bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Zahlen vergleichen und ordnen beim Erkunden der Natur",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS 1/2 bis 100. Das übergreifende FSP1/2-Ziel nennt den Zahlaufbau bis 20; dieser Rahmen wird für das didaktische Feinziel verwendet. Die ausgewählte FSP-Zielzeile selbst nennt keine eigene Obergrenze. Der Anschluss belegt kein Beherrschen bis 100 im FSP. Vergleichen und Ordnen sind beiderseits verbindliche Unterziele. Die Vergleichszeichen stehen im FSP im Zieltext, in der GS-Bemerkung; diese Konkretisierung ist entsprechend begrenzt.",
+      "gs_target_ids": [
+        "page912_1842",
+        "page912_1843",
+        "page912_1845"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37956"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1845",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37956",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100. Das übergreifende FSP1/2-Ziel nennt den Zahlaufbau bis 20; dieser Rahmen wird für das didaktische Feinziel verwendet. Die ausgewählte FSP-Zielzeile selbst nennt keine eigene Obergrenze. Der Anschluss belegt kein Beherrschen bis 100 im FSP. Vergleichen und Ordnen sind beiderseits verbindliche Unterziele. Die Vergleichszeichen stehen im FSP im Zieltext, in der GS-Bemerkung; diese Konkretisierung ist entsprechend begrenzt.",
+      "shared_object_suggestion": "Zahlen vergleichen und ordnen · GS 1/2",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind vergleicht und ordnet Zahlen sicher bis 100 und bezeichnet Größenbeziehungen mit <, > oder =.",
+          "criterion": "Reihenfolge und Vergleichszeichen entsprechen den Zahlenwerten bis 100."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht und ordnet Zahlen sicher bis 20 im Naturkontext und verwendet <, > oder = passend.",
+          "criterion": "Reihenfolge und Vergleichszeichen entsprechen den Zahlenwerten im didaktisch begrenzten Zahlenraum bis 20."
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1842",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100. Das übergreifende FSP1/2-Ziel nennt den Zahlaufbau bis 20; dieser Rahmen wird für das didaktische Feinziel verwendet. Die ausgewählte FSP-Zielzeile selbst nennt keine eigene Obergrenze. Der Anschluss belegt kein Beherrschen bis 100 im FSP.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliche Unterzielzeile unter Beherrschen",
+        "fsp": "verbindliche Unterzielzeile unter Beherrschen; Zahlenraum 20 aus übergreifendem Ziel als didaktische Eingrenzung",
+        "context_only_gs_ids": [
+          "page912_1842",
+          "page912_1843"
         ]
       }
     }

@@ -16,6 +16,7 @@ assert (root / 'dist/index.html').read_bytes() == (root / 'index.html').read_byt
 areas = {a['id']: a for a in module['areas'] + progress['fsp_areas']}
 sources = {s['id']: s for s in module['sources']}
 anchors = progress['reviewed_anchors']
+context_sources = progress.get('context_sources', {})
 cards = module['connections']
 assert len(areas) == len(module['areas']) + len(progress['fsp_areas'])
 assert len(sources) == len(module['sources'])
@@ -37,7 +38,10 @@ for card in cards:
         assert 0 < number_range['fsp_max'] < number_range['gs_max'], card_id
         assert number_range['full_gs_goal_covered'] is False, card_id
         assert number_range['gs_source_id'] == card['gs_target_ids'][0], card_id
-        assert number_range['fsp_source_id'] == card['fsp_target_ids'][0], card_id
+        if number_range.get('fsp_basis') == 'stage_goal_context':
+            assert 'Q-MA-' + number_range['fsp_source_id'] in card.get('context_source_ids', []), card_id
+        else:
+            assert number_range['fsp_source_id'] == card['fsp_target_ids'][0], card_id
         assert card['content_review_required'] and number_range['notice'] in card['app_review_message'], card_id
         for side in ['gs', 'fsp']:
             displayed_max = f"{number_range[side + '_max']:,}".replace(',', ' ')
@@ -72,10 +76,21 @@ for card in cards:
             assert sources[sid]['version'] == row['version'] == version, (card_id, rid)
             expected_sources.add(sid)
             used_anchors.add(rid)
+    context_ids = card.get('context_source_ids', [])
+    assert len(context_ids) == len(set(context_ids)), card_id
+    for sid in context_ids:
+        source = context_sources[sid]
+        assert source == sources[sid], card_id
+        assert source['kind'] == 'stage_goals' and source['grade'] == fsp_band, card_id
+        assert source['url'] == progress['source_plans']['fsp'] + '#' + sid.removeprefix('Q-MA-'), card_id
+        assert source['version'] == '2019', card_id
+        assert sid.removeprefix('Q-MA-') not in anchors, 'Context source must stay separate from target rows'
+        expected_sources.add(sid)
     assert set(card['source_ids']) == expected_sources, card_id
     used_sources.update(expected_sources)
 
 assert used_anchors == set(anchors) and used_sources == set(sources)
+assert set(context_sources) == {sid for c in cards for sid in c.get('context_source_ids', [])}
 with (folder / 'row_audit.csv').open(newline='') as audit_file:
     audit_rows = list(csv.DictReader(audit_file))
 audit = {row['Ziel-ID']: row for row in audit_rows}
@@ -90,4 +105,4 @@ for card in cards:
     for rid in context_ids:
         assert card['id'] not in audit[rid]['Karten'].split(';'), 'Context is not coverage'
 
-print(f"PASS: {len(cards)} mathematics cards, {len(sources)} source anchors, synchronized Pages entry.")
+print(f"PASS: {len(cards)} mathematics cards, {len(sources)} source links ({len(anchors)} target anchors, {len(context_sources)} context sources), synchronized Pages entry.")

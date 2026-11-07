@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-007",
+  "last_batch": "MA-008",
   "complete": false,
   "counts": {
-    "cards": 19,
+    "cards": 21,
     "cross_band": 3
   },
   "source_plans": {
@@ -925,10 +925,87 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187296",
       "version": "2026"
+    },
+    "page912_1842": {
+      "id": "page912_1842",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1842",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1842",
+      "version": "2026"
+    },
+    "page912_1843": {
+      "id": "page912_1843",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1843",
+      "version": "2026"
+    },
+    "page912_1844": {
+      "id": "page912_1844",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1844",
+      "version": "2026"
+    },
+    "page139_37950": {
+      "id": "page139_37950",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37950",
+      "version": "2019"
+    },
+    "page139_37952": {
+      "id": "page139_37952",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37952",
+      "version": "2019"
+    },
+    "page912_1845": {
+      "id": "page912_1845",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1845",
+      "version": "2026"
+    },
+    "page139_37956": {
+      "id": "page139_37956",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37956",
+      "version": "2019"
     }
   },
-  "next_id": "page912_1842",
-  "next_step": "GS1/2 Zielblock Zahlbeziehungen und Orientierung bis 100 (1842), zunächst Zählen und Zahlenvergleich (1843–1845), gegen beide FSP-Bänder prüfen. Offene Teilumfänge des ersten Blocks und Anschlussfragen danach gesondert abschließen.",
+  "next_id": "page912_1846",
+  "next_step": "GS1/2 Vorgänger, Nachfolger, Nachbarzehner (1846), danach doppelte/halbe und gerade/ungerade Zahlen (1847–1848) gegen beide FSP-Bänder prüfen. Vorhandene Karten MA-014 und MA-011 berücksichtigen; keine Doppelzählung. Zahlenraumhinweise und offene Restumfänge bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -956,7 +1033,7 @@
       "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_007.json",
+  "last_review_file": "review_batch_008.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1014,5 +1091,15 @@
     "rule": "Ein reduzierter FSP-Zahlenraum ist allein kein Ausschlussgrund für einen fachlich belegten Teilanschluss. Beide Zahlenräume und die fehlende Vollabdeckung des GS-Ziels müssen auf der Karte sichtbar sein. Inhalt, Verfahren, Operator, Belegart und Stufenband werden unabhängig geprüft.",
     "unknown_limits": "Fehlende ausdrückliche Zahlenraumgrenzen nicht durch angenommene Bandgrenzen ersetzen.",
     "limits": "Andere Inhaltsunterschiede und fehlende Belege werden dadurch nicht aufgehoben."
+  },
+  "context_sources": {
+    "Q-MA-page139_37739": {
+      "id": "Q-MA-page139_37739",
+      "title": "FSP Mathematik 1/2 · übergreifende Ziele: Zahlaufbau bis 20",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "version": "2019",
+      "kind": "stage_goals",
+      "grade": "1/2"
+    }
   }
 }
