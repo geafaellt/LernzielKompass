@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.10",
+  "version": "MA-2026-11-07.11",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -632,6 +632,18 @@
       "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1851",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1851",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187047",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187047",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -1283,11 +1295,11 @@
       "theme": "Anzahl und Zahl im Naturkontext",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · erster Prüfstand",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Kardinalzahlaspekt nutzen",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Kardinalzahlaspekt nutzen; zusätzlich Darstellungsvernetzung, begrenzt auf Menge → Zahlwort/Zahl (page912_187047)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Zahl und Zahlwort zu Mengen im Naturkontext zuordnen",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Beherrschen",
-      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Anschluss zur Anzahlbestimmung und Zuordnung von Zahl und Menge. Beide übergeordneten Ziele verwenden Beherrschen. Die GS-Zahlenraumgrenze 100 wird nicht auf den FSP-Anker übertragen. Ordinalzahl, Schreiben von Zahlwörtern und die gesamte Bedeutungsvielfalt von Zahlen bleiben offen.",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Stufenbandpassender Anschluss zur Anzahlbestimmung und Zuordnung von einer Menge zu Zahlwort und Zahl. Beide Hauptziele verwenden Beherrschen. GS verlangt den Zahlenraum bis 100; das FSP-Feinziel ist didaktisch aus dem übergreifenden Bandziel auf 20 begrenzt. Die FSP-Unterzielzeile selbst nennt keine Obergrenze. Die zusätzliche GS-Zeile 187047 nutzt diese vorhandene Karte ausschließlich für den gerichteten Ausschnitt Menge → Zahlwort/Zahl. Der flexible Wechsel aller Darstellungsarten, die Umkehrrichtung, vollständige Sachsituationsbezüge und das Begründen passender Darstellungen sind dadurch nicht abgedeckt. Ordinalzahl, Schreiben ausgeschriebener Zahlwörter und die gesamte Bedeutungsvielfalt von Zahlen bleiben außerhalb dieses Ausschnitts.",
       "gs_target_ids": [
         "page912_1833",
         "page912_1835",
@@ -1307,7 +1319,10 @@
         "Q-MA-page139_37937",
         "Q-MA-page139_37941",
         "Q-MA-page139_37944",
-        "Q-MA-page139_37739"
+        "Q-MA-page139_37739",
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1851",
+        "Q-MA-page912_187047"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1318,7 +1333,7 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenbandpassender Anschluss zur Anzahlbestimmung und Zuordnung von Zahl und Menge. Beide übergeordneten Ziele verwenden Beherrschen. Die GS-Zahlenraumgrenze 100 wird nicht auf den FSP-Anker übertragen. Ordinalzahl, Schreiben von Zahlwörtern und die gesamte Bedeutungsvielfalt von Zahlen bleiben offen.",
+      "app_review_message": "Stufenbandpassender Anschluss zur Anzahlbestimmung und Zuordnung von einer Menge zu Zahlwort und Zahl. Beide Hauptziele verwenden Beherrschen. GS verlangt den Zahlenraum bis 100; das FSP-Feinziel ist didaktisch aus dem übergreifenden Bandziel auf 20 begrenzt. Die FSP-Unterzielzeile selbst nennt keine Obergrenze. Die zusätzliche GS-Zeile 187047 nutzt diese vorhandene Karte ausschließlich für den gerichteten Ausschnitt Menge → Zahlwort/Zahl. Der flexible Wechsel aller Darstellungsarten, die Umkehrrichtung, vollständige Sachsituationsbezüge und das Begründen passender Darstellungen sind dadurch nicht abgedeckt. Ordinalzahl, Schreiben ausgeschriebener Zahlwörter und die gesamte Bedeutungsvielfalt von Zahlen bleiben außerhalb dieses Ausschnitts.",
       "shared_object_suggestion": "Anzahl und Zahl im Naturkontext",
       "fine_goals": [
         {
@@ -1347,6 +1362,28 @@
           "Q-MA-page139_37739"
         ],
         "planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+      },
+      "additional_gs_target_groups": [
+        {
+          "target_ids": [
+            "page912_1842",
+            "page912_1851",
+            "page912_187047"
+          ],
+          "operator": "Beherrschen",
+          "scope": "Zuordnung von einer Menge zu Zahlwort und Zahl als enger gerichteter Ausschnitt der Darstellungsvernetzung; kein vollständiger flexibler Wechsel aller Darstellungsarten.",
+          "context_only_ids": [
+            "page912_1842",
+            "page912_1851"
+          ],
+          "covered_ids": [
+            "page912_187047"
+          ]
+        }
+      ],
+      "evidence_classification": {
+        "gs": "Kardinalzahlaspekt und zusätzlicher Unterpunkt Darstellungswechsel mit getrennten GS-Hauptzielhierarchien; beide Beherrschen.",
+        "fsp": "Verbindliches Zuordnen von Zahlwort und Zahl zu Mengen unter Beherrschen; unterschiedliche Darstellungsweisen aus Bemerkung zur Zahlbegriffsbildung, keine vollständige Wechsel- oder Begründungsforderung."
       }
     },
     {

@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-013
+# Mathematik-Abgleich · MA-014
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung beim Vernetzen von Darstellungen (page912_1851, 187047–187048). Vier Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-013](review_batch_013.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei den Fachbegriffen (page912_187049). Vier Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-014](review_batch_014.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -185,3 +185,14 @@ FSP-Feinziel und Erfolgskriterium sind didaktisch aus dem Bandziel 37739 auf 20 
 Die bestehende Karte MA-015 zu Teilmengen und Gesamtmenge wurde erneut geprüft und bleibt einschließlich ihrer Ziele/Grenzen unverändert. Ihr Mengenbezug wird nicht als zusätzlicher Zahlenzerlegungsbeleg gezählt. Alle bisherigen 23 Karten bleiben unverändert; eine neue Karte ergänzt den Bestand auf 24 (19 stufenbandpassend, fünf stufenübergreifend). 87 Quellenlinks: 85 Zielanker und zwei Kontextquellen. Zwei neue Zielzeilen untersucht, davon eine begrenzt angeschlossen und eine offene Anschlussfrage; eine bereits zugeordnete Zeile erneut geprüft. Die Teilinventur bleibt bei 35 Zeilen. Fortsetzung bei 1851 und 187047–187048; insgesamt vier Anschlussfragen bleiben offen.
 
 Zusätzlich wurde die amtliche Progressionsübersicht Zahl und Operation, Seite 2, abgerufen und visuell geprüft. Sie wiederholt Stellenwertanalogien ohne weitere Erläuterung; die Anschlussfrage bleibt daher offen. Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 24 Karten bestanden. App 1.317 ist mit Commit 36e2dd86b1ff61960e4ab241b7226f2483f82211 veröffentlicht; [Pages-Lauf 42371546199](https://github.com/geafaellt/LernzielKompass/actions/runs/42371546199) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 24 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
+
+
+## MA-014 · Darstellungsvernetzung · App 1.318
+
+Der gerichtete Ausschnitt Menge → Zahlwort/Zahl aus GS 187047 nutzt die bestehende Karte MA-010. Die zusätzliche GS-Zielhierarchie ist getrennt dokumentiert. Beide Hauptoperatoren bleiben Beherrschen; FSP 1/2 belegt die Zuordnung ausdrücklich in 37941. FSP 3/4 nennt auch die Umkehrrichtung in der Bemerkung 35463; sie wird nicht der FSP1/2-Karte zugeschrieben. Das Feinziel bleibt didaktisch bis 20 begrenzt, GS verlangt bis 100. Flexibler Wechsel aller Darstellungsarten, Umkehrrichtung und sämtliche Sachsituationsbezüge bleiben offen.
+
+Für GS 187048 wurde kein hinreichend belegter direkter Anschluss zum Begründen passender Darstellungen gefunden. Ziel- und Bemerkungszeilen beider FSP-Bänder sowie die übergreifenden Sprachziele wurden geprüft. Zuordnen, Darstellen, Rechenwege begründen und Ergebnisse kontrollieren sind fachlich verwandte, aber unterschiedliche Forderungen. Die allgemeinen Ziele unterstützen mögliche didaktische Begründungen, liefern hier jedoch keinen ausreichend spezifischen direkten Zielbeleg. Daraus folgt keine didaktische Unmöglichkeit; der kleinere Zahlenraum ist nicht der Abgrenzungsgrund.
+
+Die Elternzeile 1851 bleibt Kontext und wird nicht als vollständig abgedeckt gezählt. Zwei neue Unterzielzeilen geprüft: ein begrenzter Anschluss und eine begründete direkte Abgrenzung. Der vorhandene Kardinalzahl-Ausschnitt 187040 wurde erneut bestätigt. Keine neue Karte, unverändert 24 Karten und fünf stufenübergreifende Anschlüsse; 89 Quellenlinks (87 Zielanker und zwei Kontextquellen). Alle Feinziele und Geltungsbereiche sowie die übrigen 23 Karten bleiben unverändert. Fortsetzung bei 187049; vier bestehende Anschlussfragen und alle Restumfänge bleiben erhalten.
+
+Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 24 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.

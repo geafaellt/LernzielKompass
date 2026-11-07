@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-013",
+  "last_batch": "MA-014",
   "complete": false,
   "counts": {
     "cards": 24,
@@ -1090,10 +1090,32 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871",
       "version": "2019"
+    },
+    "page912_1851": {
+      "id": "page912_1851",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1851",
+      "version": "2026"
+    },
+    "page912_187047": {
+      "id": "page912_187047",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187047",
+      "version": "2026"
     }
   },
-  "next_id": "page912_1851",
-  "next_step": "GS1/2 Vernetzen von Darstellungen (1851, Unterziele 187047–187048) und danach Fachbegriffe (187049) gegen beide FSP-Bänder prüfen. Anschlussfrage Stellenwertanalogien (1849) getrennt klären: Zahlenaufbau und Rechenanalogien nicht ungeprüft gleichsetzen. MA-024 deckt nur Zehner-Einer-Zerlegung bis didaktisch 20 ab, MA-015 bleibt beim Mengenausschnitt. Frühere Anschlussfragen, Restumfänge und FSP-Grenzen bewahren.",
+  "next_id": "page912_187049",
+  "next_step": "GS1/2 Fachbegriffe (187049) gegen beide FSP-Bänder prüfen; vorhandene Karten zu Zahl/Zahlwort, Nachbarzahlen, Vergleich und gerade/ungerade berücksichtigen, mathematischen Inhalt von eigenständigem Sprachziel trennen. Danach nächsten GS-Zielblock zur Struktur des dekadischen Positionssystems inventarisieren. Vier offene Anschlussfragen und bisherige Restumfänge einschließlich Darstellungswechsel bewahren; FSP-Grenzen der Feinziele/Kriterien prüfen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1143,7 +1165,7 @@
       "decision": "Paarweises Zuordnen, Strukturieren und Schrittzählen in FSP1/2 belegen für sich weder die Zahlklassifikation gerade/ungerade noch die Teilbarkeitsregel. FSP3/4 nennt beide im Ziel-/Bemerkungszusammenhang 35439/35444; dieser engere Anschluss wird ausdrücklich stufenübergreifend geführt."
     }
   },
-  "last_review_file": "review_batch_013.json",
+  "last_review_file": "review_batch_014.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1212,10 +1234,16 @@
       "gs_id": "page912_1850",
       "scope": "Andere additive Zerlegungen, systematisches Finden von Zerlegungen und der GS-Bereich jenseits des didaktischen FSP-Rahmens bis 20; übergeordnete Struktur- und Darstellungsvielfalt.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187047",
+      "scope": "Umkehrrichtung und flexibler Wechsel aller Darstellungsarten einschließlich Handlung, Bild, Sprache, Symbol und Sachsituation; MA-010 belegt nur Menge → Zahlwort/Zahl bis didaktisch20.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
-    "page912_187043"
+    "page912_187043",
+    "page912_187048"
   ],
   "inventory_scope": {
     "gs_blocks": [

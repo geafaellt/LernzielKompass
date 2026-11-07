@@ -1,0 +1,117 @@
+{
+  "id": "MA-014",
+  "date": "2026-11-07",
+  "scope": "Darstellungsvernetzung in GS1/2: gerichtete Zuordnung und Begründen passender Darstellungen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [],
+  "reused_cards": [
+    "MA-010"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1851",
+      "status": "context_only",
+      "decision": "Elternzeile mit zwei gesondert geprüften Unterzielen. Keine eigenständige vollständige Kartenabdeckung oder zusätzliche Zählung."
+    },
+    {
+      "gs_id": "page912_187047",
+      "card": "MA-010",
+      "status": "partially_reviewed",
+      "same_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37941",
+        "page139_37944",
+        "page139_37851",
+        "page139_37871"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35435",
+        "page139_35437"
+      ],
+      "decision": "Bestehenden stufenbandpassenden Anschluss für Menge → Zahlwort/Zahl wiederverwenden. FSP3/4 nennt die Umkehrrichtung in der Bemerkung zu35463 ausdrücklich; diese wird nicht in die FSP1/2-Karte hineingelesen.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Beherrschen"
+      },
+      "evidence": "GS187047 verbindlich unter1851/1842. FSP37941 verbindliche Zuordnung zu Mengen unter37937/37931; zeichnerische/handelnde Darstellungen stehen in der Bemerkung37937. Das ist ein gerichteter Teilaspekt, keine Gleichsetzung mit dem flexiblen Gesamtwechsel.",
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 20,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_37739"
+      },
+      "prerequisites": "Anzahlverständnis sowie Zuordnung zwischen Menge, gesprochenem Zahlwort und Zahl; gleicher Zahlenwert in allen berücksichtigten Formen.",
+      "uncertainty": "FSP1/2 fordert hier weder alle fünf GS-Darstellungsarten noch ausdrücklich flexiblen Wechsel in beide Richtungen.",
+      "remaining": "Umkehrrichtung, vollständige Wechselvielfalt, Sachsituationsbezüge und gesamter GS-Zahlenraum bleiben offen. Keine Lese-/Schreibforderung zu ausgeschriebenen Zahlwörtern abgeleitet."
+    },
+    {
+      "gs_id": "page912_187048",
+      "card": null,
+      "status": "no_sufficiently_evidenced_direct_connection",
+      "same_band_candidates": [
+        "page139_37937",
+        "page139_37941",
+        "page139_37871",
+        "page139_37889",
+        "page139_37911"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35485",
+        "page139_35487",
+        "page139_35510"
+      ],
+      "stage_goal_candidates": [
+        "page139_37739",
+        "page139_35415"
+      ],
+      "decision": "Kein ausreichend spezifischer direkter Anschluss für das Begründen, warum Darstellungen zueinander passen. FSP-Zuordnen und Darstellen tragen den engeren Anschluss187047; Rechenwegbegründung und Ergebniskontrolle haben andere Gegenstände. Das Begründungsziel wird deshalb nicht aus diesen Ankern konstruiert.",
+      "evidence": "FSP1/2-Bandziele: Wahrnehmungen/Beobachtungen sprachlich darstellen und Lösungswege mit Unterstützung erklären. FSP3/4-Bandziele: Zahlen auf Abstraktionsebenen darstellen, eigene Rechenwege begründen und mathematische Sachverhalte beschreiben. Keine dieser Formulierungen nennt ausdrücklich die Begründung der Passung zwischen Darstellungen.",
+      "prerequisites": "Zusammenhang der jeweiligen Darstellungen sowie sprachliche Bezugnahme auf ihre gemeinsamen mathematischen Merkmale.",
+      "uncertainty": "Eine didaktische Förderung solcher Begründungen ist möglich. Der Befund ist auf den direkten curricularen Anschluss an genau dieses GS-Unterziel begrenzt; kein Verbot und keine Behauptung fehlender Fördermöglichkeiten.",
+      "remaining": "Keine Operatorenkarte angelegt; übergreifende Ziele bleiben Kontext. Weitere Darstellungsziele in späteren GS-Blöcken separat prüfen.",
+      "number_range": "Weder kleinerer Zahlenraum noch fehlende Karte ist Grund der Abgrenzung; die geforderte Begründungsfunktion ist nicht hinreichend spezifisch belegt."
+    },
+    {
+      "gs_id": "page912_187040",
+      "card": "MA-010",
+      "status": "existing_excerpt_rechecked",
+      "decision": "Kardinalzahl-Ausschnitt erneut bestätigt. Bestehende Feinziele und FSP-Grenze bis20 unverändert; zusätzliche Quellen erzeugen keine zweite Karte."
+    }
+  ],
+  "counts": {
+    "new_leaf_rows_examined": 2,
+    "new_partially_reviewed_rows": 1,
+    "new_documented_no_direct_connection_rows": 1,
+    "context_rows": 1,
+    "rechecked_existing_rows": 1,
+    "new_cards": 0,
+    "cards": 24,
+    "cross_band_cards": 5,
+    "source_links": 89,
+    "target_anchors": 87,
+    "audit_rows": 35
+  },
+  "continuation": "GS1/2 Fachbegriffe (187049) gegen beide FSP-Bänder prüfen; vorhandene Karten zu Zahl/Zahlwort, Nachbarzahlen, Vergleich und gerade/ungerade berücksichtigen, mathematischen Inhalt von eigenständigem Sprachziel trennen. Danach nächsten GS-Zielblock zur Struktur des dekadischen Positionssystems inventarisieren. Vier offene Anschlussfragen und bisherige Restumfänge einschließlich Darstellungswechsel bewahren; FSP-Grenzen der Feinziele/Kriterien prüfen.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 24 cards, 89 sources (87 target anchors, 2 context sources)",
+    "scope_regression": "passed: invalid limits and malformed reused evidence rejected",
+    "browser_local": "passed: all 24 cards; scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "preservation": "passed: all fine goals and FSP scopes unchanged; other 23 cards unchanged; no new cards or duplicate row counts"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.318"
+  }
+}
