@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.6",
+  "version": "MA-2026-11-07.7",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -716,7 +716,7 @@
       "subject": "Mathematik",
       "theme": "Geldbeträge in Euro und Cent",
       "app_area": "MA-page912_1753",
-      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "status": "Begrenzter Anschluss · Zahlenraum didaktisch abgeleitet",
       "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Geldbeträge in Euro oder Cent vergleichen und ordnen",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Geldbeträge vergleichen und ordnen, Einheiten Euro und Cent verwenden",
       "gs_operator": "Kennen",
@@ -738,7 +738,8 @@
         "Q-MA-page912_1915",
         "Q-MA-page139_37913",
         "Q-MA-page139_37921",
-        "Q-MA-page139_37926"
+        "Q-MA-page139_37926",
+        "Q-MA-page139_37739"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -759,21 +760,35 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind unterscheidet größere und kleinere Geldbeträge innerhalb derselben Einheit im festgelegten Zahlenraum.",
-          "criterion": "Vergleich und Einheit stimmen; beide Geldbeträge liegen im festgelegten Zahlenraum.",
-          "scope_status": "unspecified",
-          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
+          "goal": "Das Kind unterscheidet größere und kleinere ganze Geldbeträge bis 20 Euro oder bis 20 Cent innerhalb derselben Einheit.",
+          "criterion": "Der Vergleich stimmt; beide Beträge sind ganze Werte bis 20 in derselben Einheit. Es werden keine gemischten Einheiten oder Umrechnungen verlangt.",
+          "scope_status": "derived",
+          "status": "Didaktische Konkretisierung; die Zahlenraumgrenze ist aus dem übergreifenden Ziel abgeleitet.",
+          "range_max": 20
         }
       ],
       "fsp_scope": {
-        "status": "unspecified",
-        "summary": "Zahlenraum noch fachlich festzulegen",
-        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: Geldbeträge innerhalb derselben Einheit (Euro oder Cent). Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
-        "max_value": null,
+        "status": "derived",
+        "summary": "Bis 20 Euro oder bis 20 Cent · didaktisch abgeleitet",
+        "detail": "Das übergreifende FSP1/2-Ziel nennt Zahlaufbau bis 20. Beim Umgang mit Geld verlangt die Bemerkung ausdrücklich, den Zahlenraum zu beachten. Daraus wird für diese Karte ein Vergleich ganzer Beträge bis 20 in derselben Einheit abgeleitet. Die Zielzeile selbst nennt weder 20 Euro noch 20 Cent als feste Lehrplangrenze.",
+        "max_value": 20,
         "source_ids": [
-          "Q-MA-page139_37926"
+          "Q-MA-page139_37926",
+          "Q-MA-page139_37739"
         ],
-        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+        "planning_rule": "Nur ganze Beträge bis 20 in der gewählten Einheit vergleichen; Euro und Cent nicht mischen oder umrechnen. Der Betrag in Euro wird hier nicht zusätzlich als Centzahl bewertet."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "scope_review": {
+        "batch": "MA-010",
+        "decision": "derived",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          9,
+          12
+        ]
       }
     },
     {
@@ -832,13 +847,28 @@
       ],
       "fsp_scope": {
         "status": "unspecified",
-        "summary": "Zahlenraum noch fachlich festzulegen",
-        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: Längen in Metern im Naturkontext. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
+        "summary": "Meterangaben · keine zahlenmäßige Obergrenze belegt",
+        "detail": "Die FSP1/2-Zielzeilen belegen Vergleichen und Ordnen von Längen sowie die Maßeinheit Meter. Die Bemerkung nennt Meterangaben, aber weder eine größte Länge noch eine Begrenzung auf ganze Meter. Der allgemeine Zahlaufbau bis 20 wird nicht als verbindliche Höchstlänge von 20 m ausgegeben.",
         "max_value": null,
         "source_ids": [
+          "Q-MA-page139_37967",
           "Q-MA-page139_37974"
         ],
-        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+        "planning_rule": "Die Lehrkraft legt den Zahlenraum und die Darstellungsform der Meterangaben fest. Im gewählten Bereich vergleichen; keine zusätzlichen Einheiten oder Umrechnungen. Eine Grenze von 1 m oder 20 m ist aus dieser Zielzeile nicht belegt."
+      },
+      "scope_review": {
+        "batch": "MA-010",
+        "decision": "no_numeric_limit_evidenced",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          9,
+          13
+        ],
+        "rejected_inferences": [
+          "1-m-Repräsentant als Höchstlänge",
+          "Zahlaufbau bis 20 als verbindliche Höchstlänge 20 m",
+          "Nur ganze Meter als explizite Lehrplanforderung"
+        ]
       }
     },
     {
@@ -846,7 +876,7 @@
       "subject": "Mathematik",
       "theme": "Schriftliches Addieren zweier Summanden",
       "app_area": "MA-page912_1999",
-      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "status": "Begrenzter Anschluss · Zahlenraum didaktisch abgeleitet",
       "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 2: Zahl und Operation · Schriftliche Addition, auch mit Übertrag",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Schriftliche Addition mit zwei Summanden, auch mit Übertrag",
       "gs_operator": "Kennen",
@@ -864,7 +894,8 @@
         "Q-MA-page912_2068",
         "Q-MA-page912_2069",
         "Q-MA-page139_35498",
-        "Q-MA-page139_35499"
+        "Q-MA-page139_35499",
+        "Q-MA-page139_35415"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "3",
@@ -885,21 +916,35 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei Summanden mit Übertrag im festgelegten Zahlenraum.",
-          "criterion": "Stellenzuordnung, Übertrag und Summe stimmen; beide Summanden, relevante Zwischenwerte und die Summe liegen im festgelegten Zahlenraum.",
-          "scope_status": "unspecified",
-          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
+          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei nichtnegative ganzzahlige Summanden mit Übertrag im Zahlenraum bis 100.",
+          "criterion": "Stellenzuordnung, Übertrag und Ergebnis stimmen; beide Summanden, relevante Zwischenwerte und die Summe liegen bis 100. Die Zahlen sind ganzzahlig und nichtnegativ.",
+          "scope_status": "derived",
+          "status": "Didaktische Konkretisierung; die Zahlenraumgrenze ist aus dem übergreifenden Ziel abgeleitet.",
+          "range_max": 100
         }
       ],
       "fsp_scope": {
-        "status": "unspecified",
-        "summary": "Zahlenraum noch fachlich festzulegen",
-        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: schriftliche Addition von zwei Summanden mit Übertrag. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
-        "max_value": null,
+        "status": "derived",
+        "summary": "Bis 100 · didaktischer Rahmen für zwei ganzzahlige Summanden",
+        "detail": "Das übergreifende FSP3/4-Ziel nennt Operationsvorstellungen im Zahlenraum bis 100. Das Ziel zum schriftlichen Verfahren nennt zwei Summanden und Übertrag, aber keine eigene Zahlenraumobergrenze. Für dieses Feinziel wird deshalb ein ganzzahliger Ausschnitt bis 100 gewählt. Dies ist keine amtliche Höchstgrenze aller schriftlichen Additionen; die Bemerkung lässt unterschiedliche Stellenzahlen und bei Größen auch Kommazahlen zu.",
+        "max_value": 100,
         "source_ids": [
-          "Q-MA-page139_35499"
+          "Q-MA-page139_35499",
+          "Q-MA-page139_35415"
         ],
-        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+        "planning_rule": "Beide nichtnegativen ganzzahligen Summanden, relevante Zwischenwerte und die Summe bleiben bis 100. Kommazahlen, Größenumrechnungen und weitere Summanden gehören nicht zu diesem Feinziel."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "scope_review": {
+        "batch": "MA-010",
+        "decision": "derived",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          17,
+          21
+        ]
       }
     },
     {
@@ -970,7 +1015,7 @@
       "subject": "Mathematik",
       "theme": "Schriftliche Addition als Grundlage in Klasse 4",
       "app_area": "MA-page912_2202",
-      "status": "Begrenzter Anschluss · erster Prüfstand",
+      "status": "Begrenzter Anschluss · Zahlenraum didaktisch abgeleitet",
       "gs_anchor": "GS Mathematik Kl. 4 · Lernbereich 2: Zahl und Operation · Schriftliche Addition als Teil der Verfahrensanwendung bis 1 000 000",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Schriftliche Addition mit zwei Summanden, auch mit Übertrag",
       "gs_operator": "Anwenden",
@@ -988,7 +1033,8 @@
         "Q-MA-page912_2291",
         "Q-MA-page912_2292",
         "Q-MA-page139_35498",
-        "Q-MA-page139_35499"
+        "Q-MA-page139_35499",
+        "Q-MA-page139_35415"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "4",
@@ -1009,21 +1055,35 @@
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei Summanden mit Übertrag im festgelegten Zahlenraum.",
-          "criterion": "Stellenzuordnung, Übertrag und Summe stimmen; beide Summanden, relevante Zwischenwerte und die Summe liegen im festgelegten Zahlenraum.",
-          "scope_status": "unspecified",
-          "status": "Didaktische Konkretisierung; Geltungsbereich beachten. Zahlenraum vor Verwendung festlegen."
+          "goal": "Das Kind kennt das schriftliche Additionsverfahren für zwei nichtnegative ganzzahlige Summanden mit Übertrag im Zahlenraum bis 100.",
+          "criterion": "Stellenzuordnung, Übertrag und Ergebnis stimmen; beide Summanden, relevante Zwischenwerte und die Summe liegen bis 100. Die Zahlen sind ganzzahlig und nichtnegativ.",
+          "scope_status": "derived",
+          "status": "Didaktische Konkretisierung; die Zahlenraumgrenze ist aus dem übergreifenden Ziel abgeleitet.",
+          "range_max": 100
         }
       ],
       "fsp_scope": {
-        "status": "unspecified",
-        "summary": "Zahlenraum noch fachlich festzulegen",
-        "detail": "Im ausgewählten Ziel ist keine eindeutige Obergrenze belegt. Geltungsbereich: schriftliche Addition von zwei Summanden mit Übertrag. Eine pauschale Stufenbandgrenze wird nicht eingesetzt.",
-        "max_value": null,
+        "status": "derived",
+        "summary": "Bis 100 · didaktischer Rahmen für zwei ganzzahlige Summanden",
+        "detail": "Das übergreifende FSP3/4-Ziel nennt Operationsvorstellungen im Zahlenraum bis 100. Das Ziel zum schriftlichen Verfahren nennt zwei Summanden und Übertrag, aber keine eigene Zahlenraumobergrenze. Für dieses Feinziel wird deshalb ein ganzzahliger Ausschnitt bis 100 gewählt. Dies ist keine amtliche Höchstgrenze aller schriftlichen Additionen; die Bemerkung lässt unterschiedliche Stellenzahlen und bei Größen auch Kommazahlen zu.",
+        "max_value": 100,
         "source_ids": [
-          "Q-MA-page139_35499"
+          "Q-MA-page139_35499",
+          "Q-MA-page139_35415"
         ],
-        "planning_rule": "Vor Verwendung den Zahlenraum festlegen und alle beteiligten Werte sowie relevante Zwischen- und Endergebnisse darauf prüfen."
+        "planning_rule": "Beide nichtnegativen ganzzahligen Summanden, relevante Zwischenwerte und die Summe bleiben bis 100. Kommazahlen, Größenumrechnungen und weitere Summanden gehören nicht zu diesem Feinziel."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "scope_review": {
+        "batch": "MA-010",
+        "decision": "derived",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          17,
+          21
+        ]
       }
     },
     {

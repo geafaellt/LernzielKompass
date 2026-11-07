@@ -1,0 +1,206 @@
+{
+  "id": "MA-010",
+  "date": "2026-11-07",
+  "scope": "Vertiefte Quellenprüfung der vier bislang unbestimmten FSP-Zahlenräume",
+  "source_checked_online": true,
+  "html_source": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139",
+  "pdf_source": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+  "pdf_sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+  "pdf_visual_review": {
+    "printed_pages": [
+      9,
+      12,
+      13,
+      17,
+      21
+    ],
+    "pdf_pages_one_based": [
+      21,
+      24,
+      25,
+      29,
+      33
+    ],
+    "result": "Zielspalte, Bemerkungsspalte und übergreifende Stufenziele getrennt visuell bestätigt."
+  },
+  "new_cards": [],
+  "decisions": [
+    {
+      "card": "MA-003",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_1913",
+        "page912_1915"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926"
+      ],
+      "scope": {
+        "status": "derived",
+        "summary": "Bis 20 Euro oder bis 20 Cent · didaktisch abgeleitet",
+        "detail": "Das übergreifende FSP1/2-Ziel nennt Zahlaufbau bis 20. Beim Umgang mit Geld verlangt die Bemerkung ausdrücklich, den Zahlenraum zu beachten. Daraus wird für diese Karte ein Vergleich ganzer Beträge bis 20 in derselben Einheit abgeleitet. Die Zielzeile selbst nennt weder 20 Euro noch 20 Cent als feste Lehrplangrenze.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37926",
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur ganze Beträge bis 20 in der gewählten Einheit vergleichen; Euro und Cent nicht mischen oder umrechnen. Der Betrag in Euro wird hier nicht zusätzlich als Centzahl bewertet."
+      },
+      "review": {
+        "batch": "MA-010",
+        "decision": "derived",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "card": "MA-004",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_1923",
+        "page912_187114"
+      ],
+      "fsp_target_ids": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "scope": {
+        "status": "unspecified",
+        "summary": "Meterangaben · keine zahlenmäßige Obergrenze belegt",
+        "detail": "Die FSP1/2-Zielzeilen belegen Vergleichen und Ordnen von Längen sowie die Maßeinheit Meter. Die Bemerkung nennt Meterangaben, aber weder eine größte Länge noch eine Begrenzung auf ganze Meter. Der allgemeine Zahlaufbau bis 20 wird nicht als verbindliche Höchstlänge von 20 m ausgegeben.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37967",
+          "Q-MA-page139_37974"
+        ],
+        "planning_rule": "Die Lehrkraft legt den Zahlenraum und die Darstellungsform der Meterangaben fest. Im gewählten Bereich vergleichen; keine zusätzlichen Einheiten oder Umrechnungen. Eine Grenze von 1 m oder 20 m ist aus dieser Zielzeile nicht belegt."
+      },
+      "review": {
+        "batch": "MA-010",
+        "decision": "no_numeric_limit_evidenced",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          9,
+          13
+        ],
+        "rejected_inferences": [
+          "1-m-Repräsentant als Höchstlänge",
+          "Zahlaufbau bis 20 als verbindliche Höchstlänge 20 m",
+          "Nur ganze Meter als explizite Lehrplanforderung"
+        ]
+      }
+    },
+    {
+      "card": "MA-005",
+      "gs_target_ids": [
+        "page912_2068",
+        "page912_2069"
+      ],
+      "fsp_target_ids": [
+        "page139_35498",
+        "page139_35499"
+      ],
+      "scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktischer Rahmen für zwei ganzzahlige Summanden",
+        "detail": "Das übergreifende FSP3/4-Ziel nennt Operationsvorstellungen im Zahlenraum bis 100. Das Ziel zum schriftlichen Verfahren nennt zwei Summanden und Übertrag, aber keine eigene Zahlenraumobergrenze. Für dieses Feinziel wird deshalb ein ganzzahliger Ausschnitt bis 100 gewählt. Dies ist keine amtliche Höchstgrenze aller schriftlichen Additionen; die Bemerkung lässt unterschiedliche Stellenzahlen und bei Größen auch Kommazahlen zu.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35499",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Beide nichtnegativen ganzzahligen Summanden, relevante Zwischenwerte und die Summe bleiben bis 100. Kommazahlen, Größenumrechnungen und weitere Summanden gehören nicht zu diesem Feinziel."
+      },
+      "review": {
+        "batch": "MA-010",
+        "decision": "derived",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          17,
+          21
+        ]
+      }
+    },
+    {
+      "card": "MA-007",
+      "gs_target_ids": [
+        "page912_2291",
+        "page912_2292"
+      ],
+      "fsp_target_ids": [
+        "page139_35498",
+        "page139_35499"
+      ],
+      "scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktischer Rahmen für zwei ganzzahlige Summanden",
+        "detail": "Das übergreifende FSP3/4-Ziel nennt Operationsvorstellungen im Zahlenraum bis 100. Das Ziel zum schriftlichen Verfahren nennt zwei Summanden und Übertrag, aber keine eigene Zahlenraumobergrenze. Für dieses Feinziel wird deshalb ein ganzzahliger Ausschnitt bis 100 gewählt. Dies ist keine amtliche Höchstgrenze aller schriftlichen Additionen; die Bemerkung lässt unterschiedliche Stellenzahlen und bei Größen auch Kommazahlen zu.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35499",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Beide nichtnegativen ganzzahligen Summanden, relevante Zwischenwerte und die Summe bleiben bis 100. Kommazahlen, Größenumrechnungen und weitere Summanden gehören nicht zu diesem Feinziel."
+      },
+      "review": {
+        "batch": "MA-010",
+        "decision": "derived",
+        "target_limit_explicit": false,
+        "reference_pages": [
+          17,
+          21
+        ]
+      }
+    }
+  ],
+  "alternatives": {
+    "MA-003": "FSP3/4 nennt beim Umgang mit Geld bis 100 in der Bemerkung zu Darstellen/Ordnen/Wechseln/Notieren. Dieser höhere Bandbeleg setzt keine Grenze für FSP1/2. Der passende Anschluss bleibt erhalten.",
+    "MA-004": "FSP3/4 behandelt zusätzlich Zentimeter und Meter-Kommaschreibweise. Diese höheren Bandinhalte sind keine Belege für eine FSP1/2-Höchstlänge; Maßeinheit und Zahlenraumobergrenze bleiben getrennt.",
+    "MA-005/MA-007": "Beherrschen von Additions-/Subtraktionsaufgaben bis 20 in den Bandzielen wird nicht mit dem Kennen des schriftlichen Verfahrens gleichgesetzt. Die Grenze bis 100 ist ein didaktischer Ausschnitt aus dem breiteren Operationsziel; die separate Verfahrenszeile bleibt ohne ausdrückliche Obergrenze."
+  },
+  "counts": {
+    "reviewed_cards": 4,
+    "derived_limits_added": 3,
+    "remaining_unspecified": 1,
+    "new_target_rows_reviewed": 0,
+    "cards": 21,
+    "scope_statuses": {
+      "not_applicable": 2,
+      "derived": 10,
+      "unspecified": 1,
+      "domain_specific": 2,
+      "explicit": 6
+    }
+  },
+  "continuation": "GS1/2 Vorgänger, Nachfolger, Nachbarzehner (1846), danach doppelte/halbe und gerade/ungerade Zahlen (1847–1848) gegen beide FSP-Bänder prüfen. Vorhandene Karten MA-014 und MA-011 berücksichtigen; keine Doppelzählung. Zahlenraumhinweise und offene Restumfänge bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 21 cards, 79 sources; derived scope supports joint target and stage-goal evidence",
+    "scope_regression": "passed: absent context source, exceeded bounds and invented numeric limit rejected",
+    "browser_local": "passed: all 21 cards, visible scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, preserved custom drafts and mobile width",
+    "preservation": "only the four requested cards changed; all GS goals, operators and card IDs preserved"
+  },
+  "publication": {
+    "status": "pending"
+  },
+  "higher_band_context_checks": [
+    {
+      "id": "page139_35492",
+      "target": "Darstellen, Ordnen, Wechseln, Herausgeben und Notieren von Geldbeträgen",
+      "remark": "Münzen und Scheine unterschiedlich bündeln Operieren mit Münzen und Scheinen im Zahlenraum bis 100 Einkauf planen und üben, Preisvergleiche, Taschengeld, Sparen szenisches Gestalten Differenzierung: Formulierungshilfen geben"
+    },
+    {
+      "id": "page139_35518",
+      "target": "Kommaschreibweise der Einheit Meter mit zwei Dezimalstellen",
+      "remark": "2,50 m; 2,05 m verschiedene Schreib- und Sprechweisen keine Umwandlung Körpergrößen der Mitschüler, Ergebnisse von Weitsprung, -wurf"
+    }
+  ]
+}

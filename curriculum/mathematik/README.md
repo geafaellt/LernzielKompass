@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-009
+# Mathematik-Abgleich · MA-010
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -131,3 +131,16 @@ Keine neue Karte oder zusätzliche GS-Zeile wird als abgeschlossen gezählt. Die
 Zusätzliche Regressionen: `python3 scripts/test-mathematik-scope.py`. Browserprüfung vom Repository-Stamm mit installiertem Playwright und Chromium: `node scripts/check-mathematik-browser.cjs`; bei Bedarf `LZK_PLAYWRIGHT` auf das Playwright-Modul setzen. `LZK_APP_URL` erlaubt dieselbe Prüfung gegen die veröffentlichte App. Die Prüfung umfasst alle Karten, Quellen, Bereichswechsel, Zielübernahme, unveränderte eigene Entwürfe, Planungsoutput und mobile Breite.
 
 Veröffentlichung: App 1.313 mit Commit 288814ba2dee17a9afec8bab19e29b5377fac0f4; [Pages-Lauf 42365836749](https://github.com/geafaellt/LernzielKompass/actions/runs/42365836749) erfolgreich. Die öffentliche Datei ist bytegleich zum geprüften Stand. Datenprüfungen, Negativtests zur Grenzprüfung und Browserprüfungen aller 21 Karten lokal und live bestanden; mobile Darstellung visuell geprüft. Der stündliche Auftrag enthält das Pflichtfeld und die Prüfregel für Feinziele/Kriterien einschließlich relevanter Zwischen- und Endergebnisse. Vier nicht eindeutig belegte Obergrenzen bleiben ausdrücklich offen.
+
+
+## MA-010 · Vertiefte Prüfung offener Zahlenräume · App 1.314
+
+Die vier Karten MA-003, MA-004, MA-005 und MA-007 wurden gegen die amtliche HTML-Fassung und die PDF-Fassung geprüft. Ziel- und Bemerkungsspalten sowie die übergreifenden Ziele sind auf den gedruckten Seiten 9, 12, 13, 17 und 21 visuell gegengeprüft. [Prüfpaket MA-010](review_batch_010.json) enthält Quellen, Seitenzuordnung, Entscheidungen und PDF-Prüfsumme.
+
+MA-003 erhält einen didaktischen Rahmen bis 20 Euro oder bis 20 Cent für ganze Beträge innerhalb derselben Einheit. Begründung: Zahlaufbau bis 20 im Stufenbandziel und ausdrücklicher Zahlenraumhinweis in der Geld-Bemerkung. Weder 20 Euro noch 20 Cent werden als wörtliche Grenze der Zielzeile ausgegeben; Umrechnungen und gemischte Einheiten bleiben ausgeschlossen.
+
+MA-005 und MA-007 erhalten den didaktischen Rahmen bis 100 für zwei nichtnegative ganzzahlige Summanden, relevante Zwischenwerte und das Ergebnis. Die übergreifenden Operationsziele tragen diesen Ausschnitt. Die eigene Zielzeile zum schriftlichen Verfahren nennt keine Obergrenze; insbesondere ist bis 100 keine amtliche Höchstgrenze aller schriftlichen Additionen. Die Bemerkung zu unterschiedlichen Stellenzahlen und Kommazahlen bei Größen bleibt als weitergehender Kontext abgegrenzt. Der Operator Kennen bleibt unverändert.
+
+MA-004 bleibt ohne belegte numerische Obergrenze. Meter ist die belegte Einheit. Ein Meter-Repräsentant ist keine maximale Länge; aus Zahlaufbau bis 20 folgt keine amtliche Höchstlänge von 20 m. Zahlenraum und Darstellungsform bleiben Lehrkraftentscheidung. Feinziele und Kriterien berücksichtigen die jeweiligen Grenzen.
+
+Es bleiben 21 Karten: sechs ausdrücklich begrenzte, zehn didaktisch abgeleitete, eine noch ohne belegte numerische Obergrenze, zwei fachspezifische und zwei nicht zahlenraumbezogene Geltungsbereiche. Keine zusätzliche GS-Zielzeile wurde als abgeschlossen gezählt; der reguläre Fortsetzungspunkt page912_1846 und alle bisherigen Restumfänge bleiben erhalten.

@@ -36,7 +36,9 @@ def check_fsp_scope(card):
         assert isinstance(maximum, int) and maximum > 0, cid
         assert fsp_goal['range_max'] == maximum, cid
         if scope['status'] == 'derived':
-            assert set(scope['source_ids']).issubset(card.get('context_source_ids', [])), cid
+            context_ids = set(card.get('context_source_ids', []))
+            assert set(scope['source_ids']) & context_ids, (cid, 'derived scope needs stage-goal evidence')
+            assert all(sid in context_ids or sid.removeprefix('Q-MA-') in card['fsp_target_ids'] for sid in scope['source_ids']), cid
         else:
             assert all(sid.removeprefix('Q-MA-') in card['fsp_target_ids'] for sid in scope['source_ids']), cid
         for field in ['goal', 'criterion']:

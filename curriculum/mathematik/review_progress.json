@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-009",
+  "last_batch": "MA-010",
   "complete": false,
   "counts": {
     "cards": 21,
@@ -1033,7 +1033,7 @@
       "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_009.json",
+  "last_review_file": "review_batch_010.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1121,5 +1121,18 @@
     ],
     "rule": "Jede Mathematikkarte führt FSP-Zahlenraum / Geltungsbereich mit Belegart und Quellen. Zahlenräume aus übergreifenden Zielen bleiben als didaktisch abgeleitet erkennbar. Feinziele und Kriterien halten belegte bzw. ausdrücklich abgeleitete Grenzen einschließlich relevanter Zwischen- und Endergebnisse ein. Fehlende Grenzen werden nicht erfunden. Einheiten, Schreibweisen und nichtnumerische Ziele gesondert behandeln.",
     "teacher_input": "Keine automatische Befüllung von Aufgaben oder Hilfsmitteln; Freitext benötigt fachliche Prüfung. Bestehende Entwürfe nicht überschreiben."
+  },
+  "card_scope_review": {
+    "batch": "MA-010",
+    "reviewed_cards": [
+      "MA-003",
+      "MA-004",
+      "MA-005",
+      "MA-007"
+    ],
+    "remaining_unspecified_cards": [
+      "MA-004"
+    ],
+    "note": "Drei didaktische Zahlenrahmen aus Bandzielen abgeleitet, keine neu entdeckten ausdrücklichen Obergrenzen. Längenvergleich bleibt ohne belegte numerische Höchstgrenze. Keine neue GS-Zielzeile als geprüft gezählt."
   }
 }
