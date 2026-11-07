@@ -380,10 +380,18 @@
     "preservation": "passed: 26 existing mathematics cards unchanged; only app version/math payload changed; app1.323 info-panel placement preserved; 67 unique audit rows, no parent coverage or duplicate new row count",
     "browser_local": "passed: all28 cards, scope in cards/goals/output, source links, adoption, empty tasks/aids, drafts, subject isolation, mobile",
     "fsp_info_browser_local": "passed: 10 cases, excerpts, keyboard, filters, mobile, print exclusion, draft preservation",
-    "browser_live": "pending"
+    "browser_live": "passed: all28 cards, scope in cards/goals/output, source links, goal adoption, empty tasks/aids, drafts, subject isolation and mobile layout",
+    "fsp_info_browser_live": "passed: all10 cases, excerpt links, keyboard, filters, mobile, print exclusion and draft preservation"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.324"
+    "status": "success",
+    "app_version": "1.324",
+    "commit": "bb4c08289fcafedb008edbe2bda307e0a0f0b33d",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42408988638",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "e1d4e9ac8e9559b59e598e80a86e50d7181d395a1bde6cb99f704efad443bf61",
+    "live_browser": "passed"
   }
 }
