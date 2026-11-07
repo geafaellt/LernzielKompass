@@ -81,3 +81,5 @@ Für quasi-simultanes Erfassen wurde kein hinreichend belegter direkter Anschlus
 Eine Zeile wurde begrenzt zugeordnet, eine begründet abgegrenzt. Die Zahlwortfragen und weitere Teilumfänge bleiben offen.
 
 Daten- und lokale Browserprüfung bestanden mit fünfzehn Karten und 60 Quellenankern.
+
+Veröffentlichung von App 1.309 mit Commit 49d7f07c0e3c3089b79d570624580cf56852f3a1 und [Pages-Lauf 42358750784](https://github.com/geafaellt/LernzielKompass/actions/runs/42358750784) erfolgreich. Die Live-Datei ist bytegleich zum geprüften Stand. Der Browserdurchlauf aller fünfzehn Mathematikkarten wurde öffentlich erfolgreich wiederholt.
