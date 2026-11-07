@@ -1,0 +1,118 @@
+{
+  "id": "MA-013",
+  "date": "2026-11-07",
+  "scope": "Stellenwertanalogien und Zahlenzerlegung in GS1/2; bestehende Mengenkarte MA-015 mitgeprüft",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [
+    "MA-024"
+  ],
+  "reviewed_existing_cards": [
+    "MA-015"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1849",
+      "card": null,
+      "status": "open_connection_question",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37871",
+        "page139_37885"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35468",
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "decision": "FSP1/2 belegt zweistellige Zahlstruktur (37871) und eine Rechenübertragung bei zusätzlichem Zehner (Bemerkung 37885). FSP3/4 belegt dekadischen Zahlenaufbau (35468) und Zahlbildungs-/Rechenstrategien (35485). Die Gleichsetzung dieser Inhalte mit dem spezifischen GS-Unterpunkt Stellenwertanalogien ist noch nicht eindeutig belegt; fehlende Zahlenraumdeckung ist nicht der Ablehnungsgrund.",
+      "evidence": "GS1849 verlangt Nutzen von Analogien der Stellenwerte unter Beherrschen. FSP37871 nennt Strukturelemente zweistelliger Zahlen; 37885 enthält in der Bemerkung eine Übertragung mit zusätzlichem Zehner. Das dortige Wort Übertragen ist kein Zieloperator, Hauptoperator bleibt Einblick gewinnen. FSP35468 nennt Zahlenaufbau unter Beherrschen bis100; 35485 steht unter Übertragen des Wissens über Rechenhandlungen.",
+      "prerequisites": "Stellenwertverständnis sowie Unterscheidung zwischen Rechenanalogie bei unveränderter Einerstruktur und Analogie zwischen Stellenwerten.",
+      "uncertainty": "Der GS-Unterpunkt enthält keine konkretisierende Bemerkung. Die FSP-Beispiele sichern nicht jede mögliche Auslegung dieses Begriffs; kein fachlich eindeutiger gemeinsamer enger Ausschnitt festgelegt.",
+      "remaining": "Offene Anschlussfrage mit konkreten Kandidaten; keine neue Karte und kein endgültiger Nichtanschluss. Klärung im Zusammenhang des folgenden GS-Stellenwertblocks und gegebenenfalls amtlicher Erläuterungen.",
+      "number_range": "FSP37885 nennt bis20 ausdrücklich; FSP35461 bis100. Diese Grenzen lösen die inhaltliche Anschlussfrage nicht."
+    },
+    {
+      "gs_id": "page912_1850",
+      "card": "MA-024",
+      "status": "partially_reviewed",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37871",
+        "page139_37885"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35468",
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "decision": "Der ausdrückliche Zahlenstrukturbeleg in FSP1/2 mit Zehner-Einer-Zusammensetzung aus Bemerkung wird bevorzugt. Die höheren Bandbelege zu Zahlenaufbau und Zerlegung bei Rechenwegen bis100 sind fachlich verwandt, ersetzen den passenden Bandanschluss nicht.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Einblick gewinnen"
+      },
+      "evidence": "GS1850 verbindlich unter1842; FSP37871 verbindliches Unterziel unter37863/37851. Die konkrete Zehner-Einer-Zusammensetzung und Zahlbildung stehen in der Bemerkung; der Zahlenraum20 stammt getrennt aus Bandziel37739.",
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 20,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_37739"
+      },
+      "prerequisites": "Unterscheidung zwischen Zehneranzahl, Zehnerwert und Einerwert; nichtnegative ganze zweistellige Ausgangszahl im vereinbarten Bereich.",
+      "uncertainty": "Keine eigene Obergrenze in37871; der engere Zahlenrahmen ist didaktisch. Die Einbeziehung des Einerwerts null ist eine mathematische Konkretisierung der Zehner-Einer-Zerlegung, kein zusätzlich zitierter Lehrplansatz.",
+      "remaining": "Andere Zerlegungen, systematische Vollständigkeit und der gesamte GS-Zahlenraum bleiben offen. Teilbarkeit, Aufgabenformate oder Hilfsmittel werden nicht ergänzt."
+    },
+    {
+      "gs_id": "page912_187046",
+      "card": "MA-015",
+      "status": "existing_excerpt_rechecked",
+      "decision": "Vorhandene Beziehung zwischen zwei disjunkten Teilmengen und Gesamtmenge erneut bestätigt. Der neue Zielpunkt1850 betrifft Zahlen; die vorhandene Mengenkarte wird nicht ungeprüft als Zahlenzerlegung umetikettiert oder zusätzlich gezählt.",
+      "number_range": "FSP-Feinziel/Kriterium bleiben unverändert didaktisch bis20; jede Teilmenge und Gesamtmenge innerhalb der Grenze.",
+      "remaining": "Bisherige Restumfänge zu weiteren/systematischen Zerlegungsmöglichkeiten bleiben offen."
+    }
+  ],
+  "counts": {
+    "new_rows_examined": 2,
+    "new_partially_reviewed_rows": 1,
+    "new_open_connection_questions": 1,
+    "rechecked_existing_rows": 1,
+    "new_cards": 1,
+    "cards": 24,
+    "cross_band_cards": 5,
+    "source_links": 87,
+    "target_anchors": 85,
+    "audit_rows": 35
+  },
+  "continuation": "GS1/2 Vernetzen von Darstellungen (1851, Unterziele 187047–187048) und danach Fachbegriffe (187049) gegen beide FSP-Bänder prüfen. Anschlussfrage Stellenwertanalogien (1849) getrennt klären: Zahlenaufbau und Rechenanalogien nicht ungeprüft gleichsetzen. MA-024 deckt nur Zehner-Einer-Zerlegung bis didaktisch 20 ab, MA-015 bleibt beim Mengenausschnitt. Frühere Anschlussfragen, Restumfänge und FSP-Grenzen bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 24 cards, 87 sources (85 target anchors, 2 context sources)",
+    "scope_regression": "passed: missing or exceeded bounds, missing context, invented bound and malformed evidence groups rejected",
+    "browser_local": "passed: all 24 cards; scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "preservation": "passed: all previous 23 cards unchanged, including MA-015 fine goals and FSP scope"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.317"
+  },
+  "supplementary_source_check": {
+    "url": "https://www.schulportal.sachsen.de/lplandb/material/523/virYsHblpmhWwWWkxvoP",
+    "archive_file": "Progression Zahl und Operation.pdf",
+    "sha256": "b8cb490b7b90011259537a8d0d399f54ded300d2b460aa41a0b2839a92530875",
+    "page": 2,
+    "visual_review": true,
+    "result": "Die amtliche Progressionsübersicht wiederholt in der GS1/2-Spalte die Stellenwertanalogien ohne weitere Konkretisierung. Sie löst die offene Anschlussfrage nicht und wird nicht als neuer FSP-Zielbeleg gezählt."
+  }
+}

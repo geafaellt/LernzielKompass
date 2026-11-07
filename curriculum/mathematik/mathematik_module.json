@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.9",
+  "version": "MA-2026-11-07.10",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -613,6 +613,24 @@
       "id": "Q-MA-page139_35444",
       "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35444",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1850",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1850",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37863",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37871",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871",
       "version": "2019"
     }
   ],
@@ -2385,6 +2403,97 @@
           "Q-MA-page139_35415"
         ],
         "planning_rule": "Nur nichtnegative ganze Zahlen bis 100; relevante Zwischenwerte und ganzzahlige Ergebnisse ebenfalls bis 100. Der Ausschnitt betrifft die Teilbarkeit durch 2 und gerade/ungerade; keine Erweiterung auf Teilbarkeitsregeln für 5 und 10, negative Zahlen oder Brüche."
+      }
+    },
+    {
+      "id": "MA-024",
+      "subject": "Mathematik",
+      "theme": "Zahlen in Zehnerwert und Einerwert zerlegen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Zehner-Einer-Zerlegung aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Zerlegen von Zahlen bis 100, begrenzt auf die Zehner-Einer-Zerlegung zweistelliger Zahlen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Strukturelemente zweistelliger Zahlen; Zehner-Einer-Zusammensetzung aus Bemerkung zum Zahlenaufbau",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die FSP-Zielzeile nennt Strukturelemente zweistelliger Zahlen; die Zehner-Einer-Zusammensetzung ist durch die Bemerkung zum Zahlenaufbau konkretisiert. MA-015 bleibt bei Teilmengen und Gesamtmenge und wird nicht als zusätzliche Abdeckung dieser Zahlenzerlegung gezählt. Andere additive Zerlegungen, systematisches Finden aller Zerlegungen und Stellenwertanalogien sind nicht Bestandteil dieser Karte.",
+      "gs_target_ids": [
+        "page912_1842",
+        "page912_1843",
+        "page912_1850"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37871"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1850",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37871",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS fordert Beherrschen, FSP Einblick gewinnen. Die FSP-Zielzeile nennt Strukturelemente zweistelliger Zahlen; die Zehner-Einer-Zusammensetzung ist durch die Bemerkung zum Zahlenaufbau konkretisiert. MA-015 bleibt bei Teilmengen und Gesamtmenge und wird nicht als zusätzliche Abdeckung dieser Zahlenzerlegung gezählt. Andere additive Zerlegungen, systematisches Finden aller Zerlegungen und Stellenwertanalogien sind nicht Bestandteil dieser Karte.",
+      "shared_object_suggestion": "Zahlen in Zehnerwert und Einerwert zerlegen",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zerlegt zweistellige Zahlen im Zahlenraum bis 100 sicher in Zehnerwert und Einerwert.",
+          "criterion": "Der Zehnerwert besteht aus vollen Zehnern, der Einerwert liegt zwischen 0 und 9; ihre Summe ergibt die Ausgangszahl. Alle Werte bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt bei zweistelligen Zahlen bis 20 die Zusammensetzung aus Zehnerwert und Einerwert.",
+          "criterion": "Zehnerwert und Einerwert sind der Ausgangszahl richtig zugeordnet: Der Zehnerwert besteht aus vollen Zehnern, der Einerwert liegt zwischen 0 und 9. Ihre Summe ergibt die Ausgangszahl; beide Werte und die Summe bleiben bis 20.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung; Geltungsbereich beachten."
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "evidence_classification": {
+        "gs": "verbindliche Unterzielzeile Zerlegen von Zahlen unter Beherrschen; Zehner-Einer-Ausschnitt didaktisch begrenzt",
+        "fsp": "Strukturelemente zweistelliger Zahlen verbindlich unter Einblick gewinnen; Zehner-Einer-Zusammensetzung aus Bemerkung zu 37871",
+        "fsp_remark_anchor": "page139_37871",
+        "context_only_gs_ids": [
+          "page912_1842",
+          "page912_1843"
+        ]
+      },
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1842",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau abgeleitet. Die FSP-Unterzielzeile 37871 nennt keine eigene Obergrenze. Der gemeinsame Ausschnitt umfasst nur die Zerlegung zweistelliger Zahlen in Zehnerwert und Einerwert; keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · Zehner-Einer-Zerlegung, didaktisch aus dem Bandziel abgeleitet",
+        "detail": "Die Unterzielzeile zu zweistelligen Zahlen nennt keine eigene numerische Obergrenze. Bis 20 stammt aus dem übergreifenden FSP1/2-Ziel zum Zahlaufbau. Der Ausschnitt umfasst zweistellige nichtnegative ganze Zahlen in diesem Rahmen, einschließlich voller Zehner mit Einerwert null; keine allgemeine Obergrenze aller zweistelligen Zahlen.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37871",
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Ausgangszahl, Zehnerwert, Einerwert sowie relevante Zwischen- und Endergebnisse bleiben bis 20. Zehnerwert und Zehneranzahl unterscheiden; der Einerwert liegt zwischen 0 und 9. Keine Hunderterzerlegung, keine anderen Zerlegungsarten und keine Erweiterung auf den gesamten GS-Zahlenraum."
       }
     }
   ]

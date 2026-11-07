@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-012",
+  "last_batch": "MA-013",
   "complete": false,
   "counts": {
-    "cards": 23,
+    "cards": 24,
     "cross_band": 5
   },
   "source_plans": {
@@ -1057,10 +1057,43 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35444",
       "version": "2019"
+    },
+    "page912_1850": {
+      "id": "page912_1850",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1842",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1850",
+      "version": "2026"
+    },
+    "page139_37863": {
+      "id": "page139_37863",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "version": "2019"
+    },
+    "page139_37871": {
+      "id": "page139_37871",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871",
+      "version": "2019"
     }
   },
-  "next_id": "page912_1849",
-  "next_step": "GS1/2 Nutzen von Analogien der Stellenwerte (1849) und Zerlegen von Zahlen (1850) gegen beide FSP-Bänder prüfen; bestehende MA-015 zur Teil-Ganzes-Beziehung berücksichtigen. Anschließend Vernetzen von Darstellungen (1851, 187047–187048) und Fachbegriffe (187049). Frühere Anschlussfragen und Restumfänge sowie FSP-Geltungsbereiche einschließlich Zwischen- und Endergebnissen bewahren.",
+  "next_id": "page912_1851",
+  "next_step": "GS1/2 Vernetzen von Darstellungen (1851, Unterziele 187047–187048) und danach Fachbegriffe (187049) gegen beide FSP-Bänder prüfen. Anschlussfrage Stellenwertanalogien (1849) getrennt klären: Zahlenaufbau und Rechenanalogien nicht ungeprüft gleichsetzen. MA-024 deckt nur Zehner-Einer-Zerlegung bis didaktisch 20 ab, MA-015 bleibt beim Mengenausschnitt. Frühere Anschlussfragen, Restumfänge und FSP-Grenzen bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1110,7 +1143,7 @@
       "decision": "Paarweises Zuordnen, Strukturieren und Schrittzählen in FSP1/2 belegen für sich weder die Zahlklassifikation gerade/ungerade noch die Teilbarkeitsregel. FSP3/4 nennt beide im Ziel-/Bemerkungszusammenhang 35439/35444; dieser engere Anschluss wird ausdrücklich stufenübergreifend geführt."
     }
   },
-  "last_review_file": "review_batch_012.json",
+  "last_review_file": "review_batch_013.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1129,6 +1162,18 @@
       "scope": "Sprachliches Verwenden von das Doppelte und die Hälfte",
       "status": "offen",
       "reason": "FSP3/4 hat den mathematischen Zielanker Verdoppeln und Halbieren. Eine eigenständige Forderung zum Verwenden dieser Nominalformulierungen ist damit noch nicht gesichert. Übergreifende Sprachziele sind bei der Klärung einzubeziehen."
+    },
+    {
+      "gs_id": "page912_1849",
+      "scope": "Direkter Anschluss des Nutzens von Stellenwertanalogien",
+      "status": "offen",
+      "reason": "FSP1/2 belegt zweistellige Zahlstruktur (37871) und eine Rechenübertragung bei zusätzlichem Zehner (Bemerkung 37885). FSP3/4 belegt dekadischen Zahlenaufbau (35468) und Zahlbildungs-/Rechenstrategien (35485). Die Gleichsetzung dieser Inhalte mit dem spezifischen GS-Unterpunkt Stellenwertanalogien ist noch nicht eindeutig belegt; fehlende Zahlenraumdeckung ist nicht der Ablehnungsgrund.",
+      "candidate_ids": [
+        "page139_37871",
+        "page139_37885",
+        "page139_35468",
+        "page139_35485"
+      ]
     }
   ],
   "remaining_scopes": [
@@ -1161,6 +1206,11 @@
     {
       "gs_id": "page912_1848",
       "scope": "Weitere Struktur- und Darstellungsbezüge des übergeordneten GS-Ziels; der Anschluss an FSP-Kennen ersetzt kein vollständiges GS-Beherrschen.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_1850",
+      "scope": "Andere additive Zerlegungen, systematisches Finden von Zerlegungen und der GS-Bereich jenseits des didaktischen FSP-Rahmens bis 20; übergeordnete Struktur- und Darstellungsvielfalt.",
       "status": "offen"
     }
   ],

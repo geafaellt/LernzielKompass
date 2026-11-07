@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-012
+# Mathematik-Abgleich · MA-013
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Dreiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022 und MA-023 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Vierundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022 und MA-023 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Analogien der Stellenwerte (page912_1849) und Zerlegen von Zahlen (1850). Drei Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-012](review_batch_012.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung beim Vernetzen von Darstellungen (page912_1851, 187047–187048). Vier Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-013](review_batch_013.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -172,3 +172,16 @@ Beide FSP-Feinziele sind didaktisch aus den übergreifenden Zielen 35415 auf 100
 Eine neue Karte und eine wiederverwendete Karte, zwei erstmals begrenzt geprüfte Zielzeilen. Bestand 23 Karten, fünf stufenübergreifend, 84 Quellenlinks (82 Zielanker und zwei Kontextquellen); Teilinventur 35 Zeilen unverändert. Alle übrigen 21 Karten und die bisherigen Feinziele/Geltungsbereiche von MA-011 bleiben erhalten. Fortsetzung bei 1849, danach 1850. Frühere Anschlussfragen und Restumfänge bleiben bestehen.
 
 Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 23 Karten bestanden. App 1.316 ist mit Commit a53837af33ad6372dfab94fa994a205885c5232b veröffentlicht; [Pages-Lauf 42368583693](https://github.com/geafaellt/LernzielKompass/actions/runs/42368583693) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 23 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
+
+
+## MA-013 · Stellenwertanalogien und Zahlenzerlegung · App 1.317
+
+GS 1849 und 1850 wurden gegen beide FSP-Bänder geprüft. Für Stellenwertanalogien bleibt eine fachliche Anschlussfrage offen: FSP 1/2 nennt zweistellige Zahlstruktur und eine Rechenübertragung bei zusätzlichem Zehner, FSP 3/4 Zahlenaufbau und Zahlbildungs-/Rechenstrategien. Die Gleichsetzung mit dem konkreten GS-Unterpunkt ist noch nicht eindeutig belegt. Das Wort Übertragen in der FSP-Bemerkung 37885 wird nicht als Zieloperator übernommen. Die Frage beruht auf dem Inhalt, nicht auf der Zahlenraumreduktion. Keine Karte ist hier kein abschließender Nichtanschluss.
+
+MA-024 verbindet Zahlenzerlegung begrenzt mit der Zehner-Einer-Struktur zweistelliger Zahlen in FSP 1/2. Das Unterziel 37871 nennt Strukturelemente; die Zusammensetzung aus Zehner- und Einerwert steht in seiner Bemerkung. Hauptoperator bleibt Einblick gewinnen unter 37851, gegenüber GS-Beherrschen unter 1842. Die stufengleiche Verbindung wird gegenüber den höheren FSP-Belegen bis 100 bevorzugt.
+
+FSP-Feinziel und Erfolgskriterium sind didaktisch aus dem Bandziel 37739 auf 20 begrenzt. Ausgangszahl, Zehnerwert, Einerwert sowie Zwischen- und Endergebnisse bleiben im Bereich. Zehnerwert und Zehneranzahl werden unterschieden; der Einerwert liegt zwischen null und neun. Die Unterzielzeile nennt keine eigene Obergrenze. Andere Zerlegungen, systematisches Finden aller Möglichkeiten und die vollständige GS-Zahlenraumforderung bleiben offen.
+
+Die bestehende Karte MA-015 zu Teilmengen und Gesamtmenge wurde erneut geprüft und bleibt einschließlich ihrer Ziele/Grenzen unverändert. Ihr Mengenbezug wird nicht als zusätzlicher Zahlenzerlegungsbeleg gezählt. Alle bisherigen 23 Karten bleiben unverändert; eine neue Karte ergänzt den Bestand auf 24 (19 stufenbandpassend, fünf stufenübergreifend). 87 Quellenlinks: 85 Zielanker und zwei Kontextquellen. Zwei neue Zielzeilen untersucht, davon eine begrenzt angeschlossen und eine offene Anschlussfrage; eine bereits zugeordnete Zeile erneut geprüft. Die Teilinventur bleibt bei 35 Zeilen. Fortsetzung bei 1851 und 187047–187048; insgesamt vier Anschlussfragen bleiben offen.
+
+Zusätzlich wurde die amtliche Progressionsübersicht Zahl und Operation, Seite 2, abgerufen und visuell geprüft. Sie wiederholt Stellenwertanalogien ohne weitere Erläuterung; die Anschlussfrage bleibt daher offen. Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 24 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.
