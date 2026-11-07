@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.3",
+  "version": "MA-2026-11-07.4",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -471,6 +471,60 @@
       "id": "Q-MA-page912_1837",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1837",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187182",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187182",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187183",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187183",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187185",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187185",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35466",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187186",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187186",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2267",
+      "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2267",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2269",
+      "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2269",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187295",
+      "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187295",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187296",
+      "title": "GS Mathematik 4 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187296",
       "version": "2026"
     }
   ],
@@ -1271,6 +1325,280 @@
         "gs": "verbindlicher Teil-Ganzes-Aspekt mit Zerlegungskontext",
         "fsp": "verbindlicher Mengen-Unterpunkt mit Zerlegung aus Bemerkung",
         "fsp_remark_anchor": "page139_37859"
+      }
+    },
+    {
+      "id": "MA-016",
+      "subject": "Mathematik",
+      "theme": "Zählen in Schritten · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedlicher Zahlenraum",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 2: Zahl und Operation · Zählen in Schritten bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zählen in Schritten bis 100 in Alltagssituationen",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Vorwärts-/Rückwärtszählen und Schrittzählen konkretisieren im FSP als Bemerkung das verbindliche Zählen und Abzählen. Übergänge zu höheren Stellenwerten oberhalb 100 sind nicht durch den FSP-Anker abgedeckt.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187183",
+        "page912_187185"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187185",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Vorwärts-/Rückwärtszählen und Schrittzählen konkretisieren im FSP als Bemerkung das verbindliche Zählen und Abzählen. Übergänge zu höheren Stellenwerten oberhalb 100 sind nicht durch den FSP-Anker abgedeckt.",
+      "shared_object_suggestion": "Zählen in Schritten · GS 3",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zählt sicher vorwärts und rückwärts in gleich großen Schritten im Zahlenraum bis 1 000.",
+          "criterion": "Zählrichtung und Schrittweite bleiben erhalten; Stellenwertübergänge sind im GS-Zahlenraum korrekt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind zählt sicher vorwärts und rückwärts in gleich großen Schritten im Zahlenraum bis 100 im Alltagskontext.",
+          "criterion": "Zählrichtung, Schrittweite und gegebenenfalls Zehnerübergänge sind bis 100 korrekt."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel unter Beherrschen",
+        "fsp": "verbindliches Zählen/Abzählen; Richtungen und Schritte aus Bemerkung",
+        "context_only_gs_ids": [
+          "page912_187182",
+          "page912_187183"
+        ],
+        "fsp_remark_anchor": "page139_35466"
+      }
+    },
+    {
+      "id": "MA-017",
+      "subject": "Mathematik",
+      "theme": "Zahlen vergleichen und ordnen · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedlicher Zahlenraum",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 2: Zahl und Operation · Zahlen vergleichen und ordnen bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zahlen vergleichen und ordnen bis 100 in Alltagssituationen",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Das Vergleichen und Ordnen steht in beiden Lehrplänen im verbindlichen Zielinhalt; der FSP verankert es in Alltagssituationen.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187183",
+        "page912_187186"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187186",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Das Vergleichen und Ordnen steht in beiden Lehrplänen im verbindlichen Zielinhalt; der FSP verankert es in Alltagssituationen.",
+      "shared_object_suggestion": "Zahlen vergleichen und ordnen · GS 3",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind vergleicht und ordnet Zahlen sicher im Zahlenraum bis 1 000.",
+          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten im GS-Zahlenraum."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht und ordnet Zahlen sicher im Zahlenraum bis 100 im Alltagskontext.",
+          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten bis 100."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel unter Beherrschen",
+        "fsp": "verbindliches Vergleichen und Ordnen unter Beherrschen",
+        "context_only_gs_ids": [
+          "page912_187182",
+          "page912_187183"
+        ]
+      }
+    },
+    {
+      "id": "MA-018",
+      "subject": "Mathematik",
+      "theme": "Zählen in Schritten · GS 4",
+      "app_area": "MA-page912_2202",
+      "status": "Begrenzter Anschluss · unterschiedlicher Zahlenraum",
+      "gs_anchor": "GS Mathematik Kl. 4 · Lernbereich 2: Zahl und Operation · Zählen in Schritten bis 1 000 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zählen in Schritten bis 100 in Alltagssituationen",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Vorwärts-/Rückwärtszählen und Schrittzählen konkretisieren im FSP als Bemerkung das verbindliche Zählen und Abzählen. Übergänge zu höheren Stellenwerten oberhalb 100 sind nicht durch den FSP-Anker abgedeckt.",
+      "gs_target_ids": [
+        "page912_2267",
+        "page912_2269",
+        "page912_187295"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2267",
+        "Q-MA-page912_2269",
+        "Q-MA-page912_187295",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "4",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Vorwärts-/Rückwärtszählen und Schrittzählen konkretisieren im FSP als Bemerkung das verbindliche Zählen und Abzählen. Übergänge zu höheren Stellenwerten oberhalb 100 sind nicht durch den FSP-Anker abgedeckt.",
+      "shared_object_suggestion": "Zählen in Schritten · GS 4",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zählt sicher vorwärts und rückwärts in gleich großen Schritten im Zahlenraum bis 1 000 000.",
+          "criterion": "Zählrichtung und Schrittweite bleiben erhalten; Stellenwertübergänge sind im GS-Zahlenraum korrekt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind zählt sicher vorwärts und rückwärts in gleich großen Schritten im Zahlenraum bis 100 im Alltagskontext.",
+          "criterion": "Zählrichtung, Schrittweite und gegebenenfalls Zehnerübergänge sind bis 100 korrekt."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2267",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel unter Beherrschen",
+        "fsp": "verbindliches Zählen/Abzählen; Richtungen und Schritte aus Bemerkung",
+        "context_only_gs_ids": [
+          "page912_2267",
+          "page912_2269"
+        ],
+        "fsp_remark_anchor": "page139_35466"
+      }
+    },
+    {
+      "id": "MA-019",
+      "subject": "Mathematik",
+      "theme": "Zahlen vergleichen und ordnen · GS 4",
+      "app_area": "MA-page912_2202",
+      "status": "Begrenzter Anschluss · unterschiedlicher Zahlenraum",
+      "gs_anchor": "GS Mathematik Kl. 4 · Lernbereich 2: Zahl und Operation · Zahlen vergleichen und ordnen bis 1 000 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zahlen vergleichen und ordnen bis 100 in Alltagssituationen",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Beherrschen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Das Vergleichen und Ordnen steht in beiden Lehrplänen im verbindlichen Zielinhalt; der FSP verankert es in Alltagssituationen.",
+      "gs_target_ids": [
+        "page912_2267",
+        "page912_2269",
+        "page912_187296"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2267",
+        "Q-MA-page912_2269",
+        "Q-MA-page912_187296",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "4",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum. Das Vergleichen und Ordnen steht in beiden Lehrplänen im verbindlichen Zielinhalt; der FSP verankert es in Alltagssituationen.",
+      "shared_object_suggestion": "Zahlen vergleichen und ordnen · GS 4",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind vergleicht und ordnet Zahlen sicher im Zahlenraum bis 1 000 000.",
+          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten im GS-Zahlenraum."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht und ordnet Zahlen sicher im Zahlenraum bis 100 im Alltagskontext.",
+          "criterion": "Größenvergleiche und Reihenfolge entsprechen den Zahlenwerten bis 100."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2267",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel unter Beherrschen",
+        "fsp": "verbindliches Vergleichen und Ordnen unter Beherrschen",
+        "context_only_gs_ids": [
+          "page912_2267",
+          "page912_2269"
+        ]
       }
     }
   ]

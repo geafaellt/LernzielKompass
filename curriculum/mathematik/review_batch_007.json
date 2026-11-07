@@ -1,0 +1,135 @@
+{
+  "id": "MA-007",
+  "date": "2026-11-07",
+  "scope": "Sonderprüfung auf Nutzerwunsch: Zahlenraumreduktion als gesonderter Kartenhinweis",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "baseline": {
+    "cards": 15,
+    "app": "1.310",
+    "commit": "85644c89500c24d3a8fa9eacdf0f47c43e791630"
+  },
+  "finding": "Vier zusätzliche belegte Zielzeilenanschlüsse in zwei Inhaltsfamilien. Bei Forderung nach identischen Zahlenräumen wären sie ausgeschlossen. Im bisherigen Bestand waren Zahlenraumunterschiede bereits teilweise zugelassen; daher kein Nachweis, dass die frühere Prüfung diese vier Zeilen wegen des Zahlenraums verworfen hätte.",
+  "new_cards": [
+    "MA-016",
+    "MA-017",
+    "MA-018",
+    "MA-019"
+  ],
+  "decisions": [
+    {
+      "card": "MA-016",
+      "gs_id": "page912_187185",
+      "gs_parent": "page912_187182",
+      "fsp_same_band": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "selection_reason": "Beide FSP-Bänder enthalten verwandte Zielinhalte. FSP3/4 wird als passendes Stufenband mit ausdrücklich belegtem Zahlenraum bis 100 bevorzugt. Dem FSP1/2-Anker wird keine hier nicht genannte Zahlenraumobergrenze zugeschrieben.",
+      "shared_scope": "Zählen in Schritten",
+      "range_notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+      "evidence_limit": "Vorwärts-/Rückwärtszählen und Schrittzählen konkretisieren im FSP als Bemerkung das verbindliche Zählen und Abzählen. Übergänge zu höheren Stellenwerten oberhalb 100 sind nicht durch den FSP-Anker abgedeckt.",
+      "prerequisite": "Zahlbeziehungen im jeweiligen Zahlenraum; gleichbleibende Schrittweite",
+      "remaining": "Vollständige GS-Zahlenraumerweiterung und übrige Unterziele des Zielblocks bleiben außerhalb dieses Anschlusses.",
+      "uncertainty": "Keine vollständige Gleichwertigkeit. Der gemeinsame fachliche Kern ist eine Abgleichentscheidung; Feinziele und Kriterien sind didaktische Konkretisierungen."
+    },
+    {
+      "card": "MA-017",
+      "gs_id": "page912_187186",
+      "gs_parent": "page912_187182",
+      "fsp_same_band": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37956"
+      ],
+      "selection_reason": "Beide FSP-Bänder enthalten verwandte Zielinhalte. FSP3/4 wird als passendes Stufenband mit ausdrücklich belegtem Zahlenraum bis 100 bevorzugt. Dem FSP1/2-Anker wird keine hier nicht genannte Zahlenraumobergrenze zugeschrieben.",
+      "shared_scope": "Zahlen vergleichen und ordnen",
+      "range_notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+      "evidence_limit": "Das Vergleichen und Ordnen steht in beiden Lehrplänen im verbindlichen Zielinhalt; der FSP verankert es in Alltagssituationen.",
+      "prerequisite": "Zahlenwerte und ihre Größenbeziehungen im jeweiligen Zahlenraum",
+      "remaining": "Vollständige GS-Zahlenraumerweiterung und übrige Unterziele des Zielblocks bleiben außerhalb dieses Anschlusses.",
+      "uncertainty": "Keine vollständige Gleichwertigkeit. Der gemeinsame fachliche Kern ist eine Abgleichentscheidung; Feinziele und Kriterien sind didaktische Konkretisierungen."
+    },
+    {
+      "card": "MA-018",
+      "gs_id": "page912_187295",
+      "gs_parent": "page912_2267",
+      "fsp_same_band": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "selection_reason": "Beide FSP-Bänder enthalten verwandte Zielinhalte. FSP3/4 wird als passendes Stufenband mit ausdrücklich belegtem Zahlenraum bis 100 bevorzugt. Dem FSP1/2-Anker wird keine hier nicht genannte Zahlenraumobergrenze zugeschrieben.",
+      "shared_scope": "Zählen in Schritten",
+      "range_notice": "Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+      "evidence_limit": "Vorwärts-/Rückwärtszählen und Schrittzählen konkretisieren im FSP als Bemerkung das verbindliche Zählen und Abzählen. Übergänge zu höheren Stellenwerten oberhalb 100 sind nicht durch den FSP-Anker abgedeckt.",
+      "prerequisite": "Zahlbeziehungen im jeweiligen Zahlenraum; gleichbleibende Schrittweite",
+      "remaining": "Vollständige GS-Zahlenraumerweiterung und übrige Unterziele des Zielblocks bleiben außerhalb dieses Anschlusses.",
+      "uncertainty": "Keine vollständige Gleichwertigkeit. Der gemeinsame fachliche Kern ist eine Abgleichentscheidung; Feinziele und Kriterien sind didaktische Konkretisierungen."
+    },
+    {
+      "card": "MA-019",
+      "gs_id": "page912_187296",
+      "gs_parent": "page912_2267",
+      "fsp_same_band": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37956"
+      ],
+      "selection_reason": "Beide FSP-Bänder enthalten verwandte Zielinhalte. FSP3/4 wird als passendes Stufenband mit ausdrücklich belegtem Zahlenraum bis 100 bevorzugt. Dem FSP1/2-Anker wird keine hier nicht genannte Zahlenraumobergrenze zugeschrieben.",
+      "shared_scope": "Zahlen vergleichen und ordnen",
+      "range_notice": "Hinweis zum Zahlenraum: GS Klasse 4 bis 1 000 000; FSP Lernen Stufenband 3/4 bis 100. Der Anschluss betrifft den gemeinsamen fachlichen Inhalt bei reduziertem FSP-Zahlenraum. Er belegt nicht das Erreichen des vollständigen GS-Ziels im größeren Zahlenraum.",
+      "evidence_limit": "Das Vergleichen und Ordnen steht in beiden Lehrplänen im verbindlichen Zielinhalt; der FSP verankert es in Alltagssituationen.",
+      "prerequisite": "Zahlenwerte und ihre Größenbeziehungen im jeweiligen Zahlenraum",
+      "remaining": "Vollständige GS-Zahlenraumerweiterung und übrige Unterziele des Zielblocks bleiben außerhalb dieses Anschlusses.",
+      "uncertainty": "Keine vollständige Gleichwertigkeit. Der gemeinsame fachliche Kern ist eine Abgleichentscheidung; Feinziele und Kriterien sind didaktische Konkretisierungen."
+    }
+  ],
+  "unchanged_open_issues": [
+    "Lesen und Schreiben ausgeschriebener Zahlwörter",
+    "Sprachliches Verwenden von das Doppelte und die Hälfte",
+    "Quasi-simultanes Erfassen: fehlender direkter Beleg wird nicht durch Zahlenraumreduktion ersetzt"
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 4,
+    "content_families": 2,
+    "cards": 19,
+    "cross_band_cards": 3,
+    "sources": 70,
+    "audit_rows": 35
+  },
+  "continuation": "Der reguläre Fortsetzungspunkt page912_1842 bleibt erhalten. Bereits geprüfte Sonderzeilen dürfen später nicht erneut als neue Anschlüsse gezählt werden. Weitere potentielle Zahlenraumanschlüsse sind noch nicht vollständig untersucht.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 19 cards, 70 sources; number range metadata requires visible notice and no full GS coverage claim",
+    "browser_local": "passed: all 19 cards; four number-range notices visible in step 2; both separate goals and criteria adopted via visible buttons in step 3; task/aid fields empty; subject drafts and reload",
+    "test_adjustment": "First visibility assertion ran while the card panel was closed. Test now opens the panel through the normal navigation; no app fault found."
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
