@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-015",
+  "last_batch": "MA-016",
   "complete": false,
   "counts": {
-    "cards": 24,
-    "cross_band": 5
+    "cards": 25,
+    "cross_band": 6
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1123,10 +1123,65 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187049",
       "version": "2026"
+    },
+    "page912_1852": {
+      "id": "page912_1852",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1852",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1852",
+      "version": "2026"
+    },
+    "page912_1853": {
+      "id": "page912_1853",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1853",
+      "version": "2026"
+    },
+    "page912_1854": {
+      "id": "page912_1854",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1854",
+      "version": "2026"
+    },
+    "page912_187050": {
+      "id": "page912_187050",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1852",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187050",
+      "version": "2026"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468",
+      "version": "2019"
     }
   },
-  "next_id": "page912_1852",
-  "next_step": "GS1/2 Block dekadisches Positionssystem (1852): Darstellen von Zahlen (1853), Bündelungsprinzip (187050), Stellenwertprinzip (1854) und Bedeutung der Null (1855) gegen beide FSP-Bänder prüfen. MA-024 und offene Frage Stellenwertanalogien1849 berücksichtigen; keine Doppelzählung. Neu inventarisierte Zeilen sind noch ungeprüft. Fünf Anschlussfragen und bisherige Restumfänge sowie FSP-Grenzen bewahren.",
+  "next_id": "page912_1855",
+  "next_step": "GS1/2 Bedeutung der Null (1855), danach Vernetzen von Darstellungen (1856, 187051–187052) und Fachbegriffe (187053) gegen beide FSP-Bänder prüfen. Numerische Null, Null als Platzhalter und Besonderheiten im Rechenverfahren nicht gleichsetzen. MA-024/MA-025 sowie fünf offene Anschlussfragen berücksichtigen; FSP-Grenzen und Teilumfänge bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1174,9 +1229,20 @@
         "page139_37950"
       ],
       "decision": "Paarweises Zuordnen, Strukturieren und Schrittzählen in FSP1/2 belegen für sich weder die Zahlklassifikation gerade/ungerade noch die Teilbarkeitsregel. FSP3/4 nennt beide im Ziel-/Bemerkungszusammenhang 35439/35444; dieser engere Anschluss wird ausdrücklich stufenübergreifend geführt."
+    },
+    "MA-025": {
+      "same_band_candidate_ids": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37871"
+      ],
+      "decision": "FSP1/2 nennt allgemeines Bündeln und zweistellige Zahlstruktur. Für den gewählten Ausschnitt der rekursiven dekadischen Bündelung einschließlich Zehner/Hunderter ist der gemeinsame explizite Bezug Bündelung/dekadisches Positionssystem in FSP3/4 spezifischer. Ausschlaggebend ist der Inhalt, nicht allein der kleinere Zahlenraum; kein pauschaler Nichtanschluss für Bündeln in FSP1/2."
     }
   },
-  "last_review_file": "review_batch_015.json",
+  "last_review_file": "review_batch_016.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1255,6 +1321,16 @@
     {
       "gs_id": "page912_187047",
       "scope": "Umkehrrichtung und flexibler Wechsel aller Darstellungsarten einschließlich Handlung, Bild, Sprache, Symbol und Sachsituation; MA-010 belegt nur Menge → Zahlwort/Zahl bis didaktisch20.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187050",
+      "scope": "Weitere Darstellungs-/Notationsformen des Bündelns und Entbündelns jenseits der Zehn-zu-eins-Gleichwertigkeit; keine vollständige GS-Zieldeckung.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_1854",
+      "scope": "Hunderterstelle, weitere Stellenwertveränderungen und der GS-Bereich jenseits des didaktischen FSP1/2-Rahmens bis20; offene Stellenwertanalogien1849 bleiben gesondert.",
       "status": "offen"
     }
   ],

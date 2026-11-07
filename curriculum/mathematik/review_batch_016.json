@@ -1,0 +1,120 @@
+{
+  "id": "MA-016",
+  "date": "2026-11-07",
+  "scope": "Dekadisches Positionssystem: Bündelungsprinzip und Zehner-Einer-Stellenwert",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "new_cards": [
+    "MA-025"
+  ],
+  "reused_cards": [
+    "MA-024"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187050",
+      "card": "MA-025",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37871"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35468",
+        "page139_35498",
+        "page139_35500",
+        "page139_35502"
+      ],
+      "decision": "FSP1/2 nennt allgemeines Bündeln und zweistellige Zahlstruktur. Für den gewählten Ausschnitt der rekursiven dekadischen Bündelung einschließlich Zehner/Hunderter ist der gemeinsame explizite Bezug Bündelung/dekadisches Positionssystem in FSP3/4 spezifischer. Ausschlaggebend ist der Inhalt, nicht allein der kleinere Zahlenraum; kein pauschaler Nichtanschluss für Bündeln in FSP1/2.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Beherrschen"
+      },
+      "evidence": "Bündelung und dekadisches Positionssystem gemeinsam in Bemerkung35468 unter Beherrschen35461. Zehn-zu-eins als mathematische Konkretisierung der Dekadik, nicht als wörtliche Zielzeile ausgegeben. Entbündelung in35502 betrifft ein Rechenverfahren und wird nicht als gleichrangiger Grundzielbeleg eingesetzt.",
+      "number_range": {
+        "gs": 100,
+        "fsp_explicit_max": 100,
+        "source_anchor": "page139_35461"
+      },
+      "prerequisites": "Unterscheidung zwischen Anzahl von Einheiten, Stellenbezeichnung und unverändertem Gesamtwert.",
+      "uncertainty": "Die detaillierte Zehn-zu-eins-Zielformulierung ist didaktisch; keine direkte Aussage über alle Bündelungsdarstellungen und Notationsweisen.",
+      "remaining": "Weitere Darstellungs-/Notationsformen bleiben offen; keine Rechenverfahren oder Hilfsmittel abgeleitet."
+    },
+    {
+      "gs_id": "page912_1854",
+      "card": "MA-024",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37871"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35468",
+        "page139_35470",
+        "page139_35485"
+      ],
+      "decision": "Zehner-Einer-Struktur ist in FSP1/2 spezifisch belegt; bestehenden begrenzten Gegenstand bevorzugen und eigene zusätzliche GS-Zielhierarchie führen. Gleicher Inhalt erzeugt keine neue Karte.",
+      "operators": {
+        "gs": "Beherrschen",
+        "fsp": "Einblick gewinnen"
+      },
+      "evidence": "GS1854 mit Ziffernwert nach Position aus Bemerkung. FSP37871 nennt Strukturelemente zweistelliger Zahlen und Zehner/Einer/Stellenwerttafel im Bemerkungskontext. Ziffern-/Zehnerwert-Zuordnung ist didaktische Präzisierung dieses Belegs.",
+      "number_range": {
+        "gs": 100,
+        "fsp_didactic_max": 20,
+        "fsp_target_row_limit": null,
+        "context_anchor": "page139_37739"
+      },
+      "prerequisites": "Ziffern an Zehner- und Einerstelle unterscheiden; Zehneranzahl nicht mit Zehnerwert verwechseln.",
+      "uncertainty": "Die ganze GS-Stellenwertforderung ist breiter als der zweistellige FSP-Ausschnitt bis20.",
+      "remaining": "Hunderterstelle, weitere Veränderungen und übriger Zahlenraum offen; Stellenwertanalogien1849 dadurch nicht erledigt."
+    },
+    {
+      "gs_id": "page912_1850",
+      "card": "MA-024",
+      "status": "existing_excerpt_rechecked",
+      "decision": "Zerlegung in Zehner-/Einerwert bleibt erhalten, Kriterien um Ziffern-Stellenzuordnung präzisiert; FSP-Geltungsbereich unverändert."
+    },
+    {
+      "gs_ids": [
+        "page912_1852",
+        "page912_1853"
+      ],
+      "status": "context_only",
+      "decision": "Elternzeilen strukturieren die Einzelprüfung; keine Vollabdeckung und keine eigene Fortschrittszählung."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "context_rows": 2,
+    "rechecked_existing_rows": 1,
+    "new_cards": 1,
+    "cards": 25,
+    "cross_band_cards": 6,
+    "source_links": 95,
+    "target_anchors": 93,
+    "audit_rows": 44
+  },
+  "continuation": "GS1/2 Bedeutung der Null (1855), danach Vernetzen von Darstellungen (1856, 187051–187052) und Fachbegriffe (187053) gegen beide FSP-Bänder prüfen. Numerische Null, Null als Platzhalter und Besonderheiten im Rechenverfahren nicht gleichsetzen. MA-024/MA-025 sowie fünf offene Anschlussfragen berücksichtigen; FSP-Grenzen und Teilumfänge bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 25 cards, 95 sources (93 target anchors, 2 context sources); next open row present",
+    "scope_regression": "passed: invalid limits and malformed reused evidence rejected",
+    "browser_local": "passed: all 25 cards; scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout",
+    "preservation": "passed: other 23 existing cards unchanged; MA-024 scope and primary evidence preserved; context rows not counted as completed targets"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.320"
+  }
+}

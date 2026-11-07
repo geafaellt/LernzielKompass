@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-015
+# Mathematik-Abgleich · MA-016
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Vierundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022 und MA-023 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Fünfundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunzehn liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023 und MA-025 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung beim dekadischen Positionssystem (page912_1852). Fünf Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-015](review_batch_015.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei der Bedeutung der Null (page912_1855). Fünf Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-016](review_batch_016.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -209,3 +209,14 @@ Zahlwort, Ziffer, Zahl, Vorgänger, Nachfolger, Nachbarzehner und die übrigen Z
 Eine neue GS-Zeile mit zwei begrenzten Sprachausschnitten geprüft, zwei bestehende mathematische Ausschnitte erneut bestätigt. Keine neue Karte: Bestand 24, fünf stufenübergreifend; 90 Quellenlinks (88 Zielanker und zwei Kontextquellen). Alle Geltungsbereiche und die übrigen 22 Karten unverändert. Neun Zeilen des nächsten GS-Stellenwertblocks wurden ausschließlich inventarisiert; die Teilinventur umfasst jetzt 44 Zeilen. Das ist kein zusätzlicher fachlicher Prüffortschritt. Fortsetzung bei 1852; fünf Anschlussfragen und frühere Restumfänge bleiben erhalten.
 
 Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 24 Karten bestanden. App 1.319 ist mit Commit de24ce691e5b4abd6ab309e35d2a3591c114ee15 veröffentlicht; [Pages-Lauf 42388682438](https://github.com/geafaellt/LernzielKompass/actions/runs/42388682438) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 24 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
+
+
+## MA-016 · Bündelung und Stellenwert · App 1.320
+
+MA-024 wird für den Zehner-Einer-Ausschnitt von GS 1854 wiederverwendet. Der FSP1/2-Beleg 37871 nennt zweistellige Zahlstruktur und in der Bemerkung Zehner/Einer. Feinziele und Kriterien unterscheiden nun ausdrücklich Ziffer, Zehneranzahl und Zehnerwert; die bestehende Zerlegung bleibt erhalten. Der FSP-Rahmen bleibt didaktisch bis 20. Hunderter, weitere Stellenwertveränderungen und Stellenwertanalogien werden dadurch nicht vollständig abgedeckt.
+
+MA-025 ergänzt die dekadische Bündelung als stufenübergreifenden Anschluss GS1/2 zu FSP3/4. Bündelung und dekadisches Positionssystem stehen gemeinsam in der Bemerkung zu 35468, Beherrschen und bis 100 im Hauptziel 35461. Die Gleichwertigkeit zehn Einer/ein Zehner und zehn Zehner/ein Hunderter konkretisiert diesen Bezug mathematisch; sie wird nicht als zusätzliche wörtliche Lehrplanforderung ausgegeben. FSP1/2-Bündeln und zweistellige Zahlstruktur wurden geprüft, aber nicht mit der gesamten rekursiven Bündelungsregel gleichgesetzt. Der größere Zahlenraum allein entscheidet nicht über diese Zuordnung.
+
+Alle dargestellten Werte, relevanten Zwischenwerte und Ergebnisse der neuen Karte bleiben bis 100; keine Rechenverfahren oder Hilfsmittel werden ergänzt. Weitere Darstellungs-/Notationsformen bleiben offen. GS 1852 und 1853 sind Kontextzeilen, keine vollständig erledigten Ziele. Zwei Unterzielzeilen begrenzt geprüft und die bestehende Zahlenzerlegung 1850 erneut bestätigt. Bestand 25 Karten, davon sechs stufenübergreifend; 95 Quellenlinks (93 Zielanker, zwei Kontextquellen). Die Teilinventur bleibt 44 Zeilen. Fortsetzung bei 1855; fünf Anschlussfragen bleiben erhalten.
+
+Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 25 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.
