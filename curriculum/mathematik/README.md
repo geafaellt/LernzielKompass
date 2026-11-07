@@ -171,4 +171,4 @@ Beide FSP-Feinziele sind didaktisch aus den übergreifenden Zielen 35415 auf 100
 
 Eine neue Karte und eine wiederverwendete Karte, zwei erstmals begrenzt geprüfte Zielzeilen. Bestand 23 Karten, fünf stufenübergreifend, 84 Quellenlinks (82 Zielanker und zwei Kontextquellen); Teilinventur 35 Zeilen unverändert. Alle übrigen 21 Karten und die bisherigen Feinziele/Geltungsbereiche von MA-011 bleiben erhalten. Fortsetzung bei 1849, danach 1850. Frühere Anschlussfragen und Restumfänge bleiben bestehen.
 
-Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 23 Karten bestanden. Veröffentlichung und Live-Nachweis stehen noch aus.
+Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 23 Karten bestanden. App 1.316 ist mit Commit a53837af33ad6372dfab94fa994a205885c5232b veröffentlicht; [Pages-Lauf 42368583693](https://github.com/geafaellt/LernzielKompass/actions/runs/42368583693) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 23 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
