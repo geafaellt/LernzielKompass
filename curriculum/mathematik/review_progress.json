@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-016",
+  "last_batch": "MA-017",
   "complete": false,
   "counts": {
     "cards": 25,
@@ -1180,8 +1180,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_1855",
-  "next_step": "GS1/2 Bedeutung der Null (1855), danach Vernetzen von Darstellungen (1856, 187051–187052) und Fachbegriffe (187053) gegen beide FSP-Bänder prüfen. Numerische Null, Null als Platzhalter und Besonderheiten im Rechenverfahren nicht gleichsetzen. MA-024/MA-025 sowie fünf offene Anschlussfragen berücksichtigen; FSP-Grenzen und Teilumfänge bewahren.",
+  "next_id": "page912_1856",
+  "next_step": "GS1/2 Vernetzen von Darstellungen (1856): Strukturen im Hunderterfeld (187051), flexibler Darstellungswechsel (187052), danach Fachbegriffe (187053) gegen beide FSP-Bänder prüfen. Bestehende Karten MA-010, MA-012, MA-024 und MA-025 sowie deren konkrete Teilumfänge berücksichtigen; keine Doppelzählung. Fünf Anschlussfragen und bisherige Restumfänge bleiben erhalten. MA-017 grenzt die Null im Positionssystem vom Verfahrenshinweis zur Null ab; keine zusätzliche Kartenabdeckung.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1242,7 +1242,7 @@
       "decision": "FSP1/2 nennt allgemeines Bündeln und zweistellige Zahlstruktur. Für den gewählten Ausschnitt der rekursiven dekadischen Bündelung einschließlich Zehner/Hunderter ist der gemeinsame explizite Bezug Bündelung/dekadisches Positionssystem in FSP3/4 spezifischer. Ausschlaggebend ist der Inhalt, nicht allein der kleinere Zahlenraum; kein pauschaler Nichtanschluss für Bündeln in FSP1/2."
     }
   },
-  "last_review_file": "review_batch_016.json",
+  "last_review_file": "review_batch_017.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1336,7 +1336,8 @@
   ],
   "documented_no_direct_connection_ids": [
     "page912_187043",
-    "page912_187048"
+    "page912_187048",
+    "page912_1855"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -1345,7 +1346,7 @@
       "page912_1852"
     ],
     "rows": 44,
-    "note": "Teilinventur: drei GS1/2-Blöcke und ausgewählte Zeilen aus zwei GS3/4-Blöcken. Neu inventarisierter Stellenwertblock noch ungeprüft; Inventur und Kontextbezug sind kein fachlicher Prüffortschritt.",
+    "note": "Teilinventur: drei GS1/2-Blöcke und ausgewählte Zeilen aus zwei GS3/4-Blöcken. Stellenwertblock bis einschließlich 1855 einzeln bzw. als Kontext geprüft; Darstellungsvernetzung und Fachbegriffe noch offen. Teilanschlüsse und Kontextbezug bedeuten keine vollständige Zieldeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-016
+# Mathematik-Abgleich · MA-017
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei der Bedeutung der Null (page912_1855). Fünf Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-016](review_batch_016.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei der Darstellungsvernetzung (page912_1856), zunächst Strukturen im Hunderterfeld (page912_187051). Fünf Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-017](review_batch_017.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -220,3 +220,12 @@ MA-025 ergänzt die dekadische Bündelung als stufenübergreifenden Anschluss GS
 Alle dargestellten Werte, relevanten Zwischenwerte und Ergebnisse der neuen Karte bleiben bis 100; keine Rechenverfahren oder Hilfsmittel werden ergänzt. Weitere Darstellungs-/Notationsformen bleiben offen. GS 1852 und 1853 sind Kontextzeilen, keine vollständig erledigten Ziele. Zwei Unterzielzeilen begrenzt geprüft und die bestehende Zahlenzerlegung 1850 erneut bestätigt. Bestand 25 Karten, davon sechs stufenübergreifend; 95 Quellenlinks (93 Zielanker, zwei Kontextquellen). Die Teilinventur bleibt 44 Zeilen. Fortsetzung bei 1855; fünf Anschlussfragen bleiben erhalten.
 
 Datenprüfungen, Grenzregressionen und lokaler Browserdurchlauf aller 25 Karten bestanden. App 1.320 ist mit Commit 2a3c123c89d48bd4bf3b21ad41396aaefbb77843 veröffentlicht; [Pages-Lauf 42392427908](https://github.com/geafaellt/LernzielKompass/actions/runs/42392427908) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein. Der Browserdurchlauf aller 25 Mathematikkarten wurde öffentlich erfolgreich wiederholt.
+
+
+## MA-017 · Bedeutung der Null · Audit ohne App-Änderung
+
+GS 1855 wurde im Kontext des dekadischen Positionssystems gegen beide FSP-Bänder geprüft. Die FSP-Belege zu Mengen, Zahlenbildung, zweistelliger Struktur und dekadischem Zahlenaufbau sind fachlich verwandt. Sie präzisieren die Nullfunktion jedoch nicht als eigenen Zielausschnitt. Der ausdrückliche Nullhinweis in [FSP 35501](https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35501) steht in der Bemerkung zum Ergänzungsverfahren unter Kennen der schriftlichen Verfahren (35498); er wird nicht auf das GS-Beherrschen des Positionssystems übertragen. Gleichungsplatzhalter sind ebenfalls keine Belege für die Null als Stellenziffer.
+
+MA-024 berücksichtigt den Einerwert null bei vollen Zehnern bereits didaktisch innerhalb des Rahmens bis 20. MA-025 bleibt bei dekadischer Bündelung bis 100. Beide Karten, Feinziele und Erfolgskriterien bleiben unverändert und werden nicht zusätzlich auf GS 1855 angerechnet. Mathematisch lässt sich die Nullfunktion aus dem dekadischen System erschließen; damit wird weder eine ausdrückliche zusätzliche Zieldeckung behauptet noch eine didaktische Verbindung ausgeschlossen. Der kleinere Zahlenraum ist kein Ablehnungsgrund.
+
+Eine weitere Zielzeile einzeln geprüft, kein hinreichend belegter direkter Anschluss eingetragen. Weiterhin 25 Karten, sechs stufenübergreifend, 95 Kartenquellen und 44 inventarisierte Zeilen. Drei begründete direkte Abgrenzungen sind nun dokumentiert. Fünf Anschlussfragen sowie frühere Teilumfänge bleiben offen. Fortsetzung bei 1856/187051; der Gesamtvergleich ist nicht abgeschlossen. App 1.320 bleibt unverändert. Deutsch-, Mathematik-, Synchronisations- und Zahlenraumprüfungen bestanden. Modul und beide App-Dateien sind bytegleich zu MA-016; vorhandene Karten, Grenzen und Entwürfe bleiben unberührt. Kein erneuter Browserlauf bei dieser reinen Auditänderung; der öffentliche Browsernachweis für App 1.320 liegt in MA-016. Veröffentlichung des Audits noch ausstehend.

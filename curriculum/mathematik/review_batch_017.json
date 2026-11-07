@@ -1,0 +1,180 @@
+{
+  "id": "MA-017",
+  "date": "2026-11-07",
+  "scope": "Bedeutung der Null im dekadischen Positionssystem; Abgrenzung von Zahlbegriff und Rechenverfahren",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "697edd8c4111f670302cda67422cd312576f32ff7ce2b71da749f157c4e4965a",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "new_cards": [],
+  "reused_cards": [],
+  "existing_cards_rechecked": [
+    "MA-024",
+    "MA-025"
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_1855",
+      "status": "no_sufficient_direct_connection",
+      "gs_hierarchy": [
+        "page912_1852",
+        "page912_1853",
+        "page912_1855"
+      ],
+      "gs_operator": "Beherrschen",
+      "gs_scope": "Bedeutung der Null unter Darstellen von Zahlen im dekadischen Positionssystem, bis 100; keine eigene Bemerkung zur Unterzielzeile.",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37866",
+        "page139_37869",
+        "page139_37871",
+        "page139_37885",
+        "page139_37931",
+        "page139_37937",
+        "page139_37941"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35468",
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485",
+        "page139_35498",
+        "page139_35500",
+        "page139_35501",
+        "page139_35502"
+      ],
+      "context_sources": [
+        "page139_37739",
+        "page139_35415"
+      ],
+      "evidence_groups": [
+        {
+          "ids": [
+            "page139_37804",
+            "page139_37816"
+          ],
+          "operator": "Kennen",
+          "kind": "target_and_remark",
+          "finding": "Mengenstruktur, Bündeln und Invarianz stützen Anzahlvorstellungen, spezifizieren aber nicht die Null als Stellenziffer."
+        },
+        {
+          "ids": [
+            "page139_37851",
+            "page139_37859",
+            "page139_37863",
+            "page139_37866",
+            "page139_37869",
+            "page139_37871",
+            "page139_37885"
+          ],
+          "operator": "Einblick gewinnen",
+          "kind": "target_and_remark",
+          "finding": "Zweistellige Zahlstruktur und Zehner/Einer im Bemerkungskontext sichern den bestehenden Strukturanschluss. Rechnen, Differenzmengen und Gleichungsplatzhalter belegen keine eigenständige Forderung zum Erkennen oder Erklären der Nullfunktion im Positionssystem; Gleichungsplatzhalter sind nicht Stellenhalter."
+        },
+        {
+          "ids": [
+            "page139_37931",
+            "page139_37937",
+            "page139_37941"
+          ],
+          "operator": "Beherrschen",
+          "kind": "target_and_remark",
+          "finding": "Zahlbildung aus Mengen und Zählhandlungen ist ein verwandter kardinaler/ordinaler Bezug; eine gesonderte Nullbedeutung im Positionssystem ist nicht präzisiert."
+        },
+        {
+          "ids": [
+            "page139_35461",
+            "page139_35463",
+            "page139_35468"
+          ],
+          "operator": "Beherrschen",
+          "kind": "target_and_remark",
+          "finding": "Zahlaufbau bis 100 mit dekadischem Positionssystem in der Bemerkung ist ein sachlich enger Kontext. Null an unbesetzten Stellen ist daraus mathematisch ableitbar, aber nicht als eigener Zielausschnitt formuliert. Allgemeine Strukturkenntnis und die bestehende Bündelungskarte werden nicht zur zusätzlichen ausdrücklichen GS-Nullabdeckung hochgezählt."
+        },
+        {
+          "ids": [
+            "page139_35470",
+            "page139_35475",
+            "page139_35479",
+            "page139_35485"
+          ],
+          "operator": "Übertragen",
+          "kind": "target_and_remark",
+          "finding": "Rechenhandlungen und Zahlbildungsprinzip betreffen Lösungswege. Das Auftreten voller Zehner in Rechenausdrücken ist kein eigener Nullbedeutungsbeleg."
+        },
+        {
+          "ids": [
+            "page139_35498",
+            "page139_35500",
+            "page139_35501",
+            "page139_35502"
+          ],
+          "operator": "Kennen",
+          "kind": "target_and_remark",
+          "finding": "Der ausdrückliche Hinweis auf Besonderheiten der Null steht beim Ergänzungsverfahren der schriftlichen Subtraktion. Er wird weder zum Positionssystem-Hauptziel verschoben noch mit dessen Beherrschen gleichgesetzt. Auch Entbündelung beim Abziehverfahren ist ein Verfahrenskontext."
+        }
+      ],
+      "decision": "Kein hinreichend belegter direkter Anschluss für die eigenständige GS-Unterzielzeile eingetragen. Die Entscheidung beruht auf Gegenstand, Belegart und Zielhierarchie, nicht auf bloßer Wortsuche, fehlender Karte oder kleinerem FSP-Zahlenraum.",
+      "number_range": {
+        "gs_max": 100,
+        "existing_MA_024_fsp_didactic_max": 20,
+        "existing_MA_025_fsp_explicit_max": 100,
+        "written_subtraction_target_max": null,
+        "note": "Bis 100 aus 35461 nicht auf den getrennten schriftlichen Verfahrensblock 35498 übertragen. Keine neue Planungsgrenze oder Feinzielvorgabe erzeugt."
+      },
+      "prerequisites": "Anzahl null, Ziffer 0 an einer Stellenposition und rechnerische Besonderheiten der Null unterscheiden. Kenntnis zweistelliger Struktur kann eine didaktische Behandlung stützen.",
+      "uncertainty": "Das dekadische System schließt mathematisch die Nullfunktion ein. Die Quellen legen jedoch keinen gesonderten FSP-Zielausschnitt und keine erwartete Erklärleistung dazu fest. Die Entscheidung betrifft die ausdrückliche Kartenabdeckung; sie ist keine Behauptung fehlender didaktischer Anschlussfähigkeit.",
+      "remaining": "Keine vollständige GS-Nullabdeckung behauptet; bei zusätzlichem amtlichem Beleg neu bewerten. Die allgemeine Bedeutung der Zahl Null und Nullregeln bei Operationen werden nicht allein aus diesem GS-Positionssystem-Unterpunkt abgeleitet."
+    }
+  ],
+  "existing_card_review": [
+    {
+      "card": "MA-024",
+      "result": "Unverändert: Einerwert null bei vollen Zehnern bereits didaktisch enthalten. Zweistellige Ausgangszahl, Zehnerwert, Einerwert, relevante Zwischenwerte und Summe bleiben bis 20. Keine neue Zielreferenz 1855 und keine zusätzliche Fortschrittszählung."
+    },
+    {
+      "card": "MA-025",
+      "result": "Unverändert: Zehn-zu-eins-Gleichwertigkeit bis 100; die Zahl 100 in der Darstellung macht die Karte nicht zu einem eigenständigen Nullbedeutungsziel. Alle Werte und Ergebnisse bleiben im belegten Rahmen."
+    }
+  ],
+  "counts": {
+    "new_individually_reviewed_rows": 1,
+    "new_no_sufficient_direct_connection_rows": 1,
+    "rechecked_existing_cards": 2,
+    "new_cards": 0,
+    "cards": 25,
+    "cross_band_cards": 6,
+    "source_links": 95,
+    "target_anchors": 93,
+    "audit_rows": 44,
+    "open_connection_questions": 5,
+    "documented_no_direct_connection_rows": 3
+  },
+  "continuation": "GS1/2 Vernetzen von Darstellungen (1856): Strukturen im Hunderterfeld (187051), flexibler Darstellungswechsel (187052), danach Fachbegriffe (187053) gegen beide FSP-Bänder prüfen. Bestehende Karten MA-010, MA-012, MA-024 und MA-025 sowie deren konkrete Teilumfänge berücksichtigen; keine Doppelzählung. Fünf Anschlussfragen und bisherige Restumfänge bleiben erhalten. MA-017 grenzt die Null im Positionssystem vom Verfahrenshinweis zur Null ab; keine zusätzliche Kartenabdeckung.",
+  "tests": {
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: index.html and dist/index.html synchronized and byte-identical to app 1.320 before this audit",
+    "check_mathematik": "passed: 25 cards, 95 sources, 93 target anchors, 2 context sources; continuation points to open row",
+    "scope_regression": "passed: missing scope, invalid limits, missing context, invented bounds and malformed reused GS evidence rejected",
+    "preservation": "passed: full mathematics module and both HTML files byte-identical; card scopes, goals, criteria, open questions and prior remaining scopes unchanged; exactly one new row decision; no duplicated inventory row",
+    "update_mathematik": "not required: no module/app change",
+    "browser": "not repeated: no UI/app change; all 25 cards passed local and public browser checks in MA-016"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.320",
+    "app_changed": false
+  }
+}
