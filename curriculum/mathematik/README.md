@@ -144,3 +144,5 @@ MA-005 und MA-007 erhalten den didaktischen Rahmen bis 100 für zwei nichtnegati
 MA-004 bleibt ohne belegte numerische Obergrenze. Meter ist die belegte Einheit. Ein Meter-Repräsentant ist keine maximale Länge; aus Zahlaufbau bis 20 folgt keine amtliche Höchstlänge von 20 m. Zahlenraum und Darstellungsform bleiben Lehrkraftentscheidung. Feinziele und Kriterien berücksichtigen die jeweiligen Grenzen.
 
 Es bleiben 21 Karten: sechs ausdrücklich begrenzte, zehn didaktisch abgeleitete, eine noch ohne belegte numerische Obergrenze, zwei fachspezifische und zwei nicht zahlenraumbezogene Geltungsbereiche. Keine zusätzliche GS-Zielzeile wurde als abgeschlossen gezählt; der reguläre Fortsetzungspunkt page912_1846 und alle bisherigen Restumfänge bleiben erhalten.
+
+Datenprüfungen, Grenzregressionen und lokale sowie öffentliche Browserprüfungen aller 21 Karten bestanden. App 1.314 ist mit Commit 91678696a0ccdb127dc03ca138e6251159a1f7e4 veröffentlicht; [Pages-Lauf 42366502579](https://github.com/geafaellt/LernzielKompass/actions/runs/42366502579) ist erfolgreich. Die öffentliche Datei stimmt bytegenau mit dem geprüften Stand überein.

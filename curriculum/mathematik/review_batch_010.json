@@ -186,10 +186,17 @@
     "check_mathematik": "passed: 21 cards, 79 sources; derived scope supports joint target and stage-goal evidence",
     "scope_regression": "passed: absent context source, exceeded bounds and invented numeric limit rejected",
     "browser_local": "passed: all 21 cards, visible scopes in cards/goals/output, source links, goal/criterion adoption, empty task/aid fields, preserved custom drafts and mobile width",
-    "preservation": "only the four requested cards changed; all GS goals, operators and card IDs preserved"
+    "preservation": "only the four requested cards changed; all GS goals, operators and card IDs preserved",
+    "browser_live": "passed: all 21 cards, scope and source links, goal/criterion adoption, output, empty task/aid fields, preserved custom drafts and mobile width"
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "app_version": "1.314",
+    "commit": "91678696a0ccdb127dc03ca138e6251159a1f7e4",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42366502579",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   },
   "higher_band_context_checks": [
     {
