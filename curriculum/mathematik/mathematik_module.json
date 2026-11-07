@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.2",
+  "version": "MA-2026-11-07.3",
   "checked_on": "2026-11-07",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -466,6 +466,12 @@
       "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1837",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1837",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -882,16 +888,17 @@
       "subject": "Mathematik",
       "theme": "Anzahlen von Mengen vergleichen",
       "app_area": "MA-page912_1751",
-      "status": "Begrenzter Anschluss · erster Prüfstand",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Mengen hinsichtlich ihrer Anzahl vergleichen",
-      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 1: Jeder ist etwas Besonderes · Anzahlen durch paarweise Zuordnung von Mengen vergleichen",
+      "status": "Begrenzter Anschluss · Vergleichssprache aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Mengen hinsichtlich ihrer Anzahl vergleichen und die Beziehungen mit mehr als, weniger als und gleich viel ausdrücken",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 1: Jeder ist etwas Besonderes · Anzahlen durch paarweise Zuordnung von Mengen vergleichen; Vergleichsformulierungen als Konkretisierung aus Bemerkung",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Kennen",
-      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenbandpassender Ausschnitt des Mengenvergleichs. Der FSP-Anker verknüpft den Vergleich mit paarweiser Zuordnung. Die GS fordert Beherrschen bis 100, der FSP-Anker nennt hier keine entsprechende Zahlenraumgrenze. Strukturieren und Ordnen werden durch diese Karte nicht vollständig geprüft.",
+      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenbandpassender Ausschnitt des Mengenvergleichs. Der FSP-Anker verknüpft den Vergleich mit paarweiser Zuordnung. Die GS fordert Beherrschen bis 100, der FSP-Anker nennt hier keine entsprechende Zahlenraumgrenze. Strukturieren und Ordnen werden durch diese Karte nicht vollständig geprüft. Stufenbandpassender sprachlicher Teilanschluss für mehr als, weniger als und gleich viel. Diese Formulierungen stehen im FSP in der Bemerkung zum Mengenvergleich. Die GS-Begriffe das Doppelte und die Hälfte sind durch diese Karte nicht abgedeckt.",
       "gs_target_ids": [
         "page912_1833",
         "page912_1836",
-        "page912_187044"
+        "page912_187044",
+        "page912_1837"
       ],
       "fsp_target_ids": [
         "page139_37804",
@@ -904,7 +911,8 @@
         "Q-MA-page912_187044",
         "Q-MA-page139_37804",
         "Q-MA-page139_37811",
-        "Q-MA-page139_37813"
+        "Q-MA-page139_37813",
+        "Q-MA-page912_1837"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -915,20 +923,25 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenbandpassender Ausschnitt des Mengenvergleichs. Der FSP-Anker verknüpft den Vergleich mit paarweiser Zuordnung. Die GS fordert Beherrschen bis 100, der FSP-Anker nennt hier keine entsprechende Zahlenraumgrenze. Strukturieren und Ordnen werden durch diese Karte nicht vollständig geprüft.",
+      "app_review_message": "Stufenbandpassender Ausschnitt des Mengenvergleichs. Der FSP-Anker verknüpft den Vergleich mit paarweiser Zuordnung. Die GS fordert Beherrschen bis 100, der FSP-Anker nennt hier keine entsprechende Zahlenraumgrenze. Strukturieren und Ordnen werden durch diese Karte nicht vollständig geprüft. Stufenbandpassender sprachlicher Teilanschluss für mehr als, weniger als und gleich viel. Diese Formulierungen stehen im FSP in der Bemerkung zum Mengenvergleich. Die GS-Begriffe das Doppelte und die Hälfte sind durch diese Karte nicht abgedeckt.",
       "shared_object_suggestion": "Anzahlen von Mengen vergleichen",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind erkennt sicher, welche von zwei Mengen mehr, weniger oder gleich viele Elemente enthält.",
-          "criterion": "Die Aussage über die Anzahlen ist korrekt."
+          "goal": "Das Kind vergleicht sicher die Anzahlen zweier Mengen und beschreibt die Beziehung mit mehr als, weniger als oder gleich viel.",
+          "criterion": "Der verwendete Vergleichsausdruck bezeichnet die Beziehung der Anzahlen korrekt."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind kennt die Beziehung der Anzahlen zweier Mengen bei paarweiser Zuordnung.",
-          "criterion": "Gleich viele Elemente beziehungsweise ein Überschuss in einer Menge werden zutreffend erkannt."
+          "goal": "Das Kind kennt die Beziehung der Anzahlen zweier paarweise zugeordneter Mengen und beschreibt sie mit mehr als, weniger als oder gleich viel.",
+          "criterion": "Der Vergleichsausdruck passt dazu, ob eine Menge einen Überschuss hat oder die Anzahlen gleich sind."
         }
-      ]
+      ],
+      "evidence_classification": {
+        "gs": "verbindlicher Mengenvergleich und Fachbegriffe",
+        "fsp": "verbindlicher Mengenvergleich mit Vergleichsformulierungen aus Bemerkung",
+        "fsp_remark_anchor": "page139_37813"
+      }
     },
     {
       "id": "MA-010",

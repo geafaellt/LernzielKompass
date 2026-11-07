@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-005",
+  "last_batch": "MA-006",
   "complete": false,
   "counts": {
     "cards": 15,
@@ -815,10 +815,21 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859",
       "version": "2019"
+    },
+    "page912_1837": {
+      "id": "page912_1837",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1833",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1837",
+      "version": "2026"
     }
   },
-  "next_id": "page912_1837",
-  "next_step": "Fachbegriffe zu Mengenvergleich, Doppeltem und Hälfte (1837) gegen beide FSP-Bänder prüfen. Danach offene Teilumfänge, Zahlwortfragen und weitere Zielblöcke in dokumentierter Reihenfolge bearbeiten.",
+  "next_id": "page912_1842",
+  "next_step": "GS1/2 Zielblock Zahlbeziehungen und Orientierung bis 100 (1842), zunächst Zählen und Zahlenvergleich (1843–1845), gegen beide FSP-Bänder prüfen. Offene Teilumfänge des ersten Blocks und Anschlussfragen danach gesondert abschließen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -846,7 +857,7 @@
       "decision": "FSP1/2 ordnet Zahlwort und Zahl zu Mengen zu. Das belegt weder die gesamte Lesefertigkeit noch das Schreiben bis 100. FSP3/4 hat die explizite Zahlenraumgrenze und nennt Lesen/Schreiben als Bemerkung. Diese Belegart bleibt auf der Karte sichtbar."
     }
   },
-  "last_review_file": "review_batch_005.json",
+  "last_review_file": "review_batch_006.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -859,6 +870,12 @@
       "scope": "Schreiben ausgeschriebener Zahlwörter",
       "status": "offen",
       "reason": "FSP-Bemerkung nennt Schreiben von Zahlen ohne ausdrückliche Forderung zur Wortschreibung."
+    },
+    {
+      "gs_id": "page912_1837",
+      "scope": "Sprachliches Verwenden von das Doppelte und die Hälfte",
+      "status": "offen",
+      "reason": "FSP3/4 hat den mathematischen Zielanker Verdoppeln und Halbieren. Eine eigenständige Forderung zum Verwenden dieser Nominalformulierungen ist damit noch nicht gesichert. Übergreifende Sprachziele sind bei der Klärung einzubeziehen."
     }
   ],
   "remaining_scopes": [
@@ -880,5 +897,13 @@
   ],
   "documented_no_direct_connection_ids": [
     "page912_187043"
-  ]
+  ],
+  "inventory_scope": {
+    "gs_blocks": [
+      "page912_1833",
+      "page912_1842"
+    ],
+    "rows": 27,
+    "note": "Teilinventur; neu inventarisierte Zeilen gelten als ungeprüft."
+  }
 }

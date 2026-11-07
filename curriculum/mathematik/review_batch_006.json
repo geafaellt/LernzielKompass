@@ -1,0 +1,88 @@
+{
+  "id": "MA-006",
+  "date": "2026-11-07",
+  "source_checked_online": true,
+  "scope": "GS1/2 Fachbegriffe für Mengenbeziehungen, fünf Ausdrücke in einer Quellzeile",
+  "new_cards": [],
+  "updated_cards": [
+    "MA-009"
+  ],
+  "reviewed_rows": [
+    "page912_1837"
+  ],
+  "decisions": [
+    {
+      "expressions": [
+        "mehr als",
+        "weniger als",
+        "gleich viel"
+      ],
+      "outcome": "begrenzter stufenbandpassender Anschluss in MA-009",
+      "gs_ids": [
+        "page912_1833",
+        "page912_1837"
+      ],
+      "fsp_same_band": [
+        "page139_37804",
+        "page139_37813"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "reason": "Die drei Formulierungen sind in der FSP1/2-Bemerkung zum verbindlichen Mengenvergleich ausdrücklich benannt. Der vorhandene mathematische Anschluss wird sprachlich präzisiert. FSP3/4 bietet keinen Anlass zum Ausweichen aus dem passenden Band."
+    },
+    {
+      "expressions": [
+        "das Doppelte",
+        "die Hälfte"
+      ],
+      "outcome": "offene Anschlussfrage zum sprachlichen Teil",
+      "fsp_same_band_candidates": [
+        "page139_37816",
+        "page139_37851",
+        "page139_37863"
+      ],
+      "fsp_cross_band_candidates": [
+        "page139_35435",
+        "page139_35437"
+      ],
+      "reason": "Die mathematische Verdopplungs-/Halbierungsbeziehung ist in MA-011 enthalten. Das Verwenden der beiden konkreten Nominalausdrücke wird dadurch nicht automatisch mitgeprüft. Übergreifende sprachliche Ziele sind in einer gesonderten Entscheidung einzubeziehen."
+    }
+  ],
+  "inventory": {
+    "added_ids": [
+      "page912_1842",
+      "page912_1843",
+      "page912_1844",
+      "page912_1845",
+      "page912_1846",
+      "page912_1847",
+      "page912_1848",
+      "page912_1849",
+      "page912_1850",
+      "page912_1851",
+      "page912_187047",
+      "page912_187048",
+      "page912_187049"
+    ],
+    "rows_total": 27,
+    "note": "Nur inventarisiert, nicht als geprüfte Zeilen gezählt."
+  },
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "cards": 15,
+    "cross_band_cards": 3,
+    "open_connection_questions": 3
+  },
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root and dist synchronized",
+    "check_mathematik": "passed: 15 cards, 61 source anchors",
+    "browser_local": "passed: all 15 cards, grades 1–4, empty areas, operators, sources, subject drafts, teacher-owned task/aid fields"
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
