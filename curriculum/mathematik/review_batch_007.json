@@ -127,9 +127,16 @@
     "prepare_pages": "passed: root and dist synchronized",
     "check_mathematik": "passed: 19 cards, 70 sources; number range metadata requires visible notice and no full GS coverage claim",
     "browser_local": "passed: all 19 cards; four number-range notices visible in step 2; both separate goals and criteria adopted via visible buttons in step 3; task/aid fields empty; subject drafts and reload",
-    "test_adjustment": "First visibility assertion ran while the card panel was closed. Test now opens the panel through the normal navigation; no app fault found."
+    "test_adjustment": "First visibility assertion ran while the card panel was closed. Test now opens the panel through the normal navigation; no app fault found.",
+    "browser_live": "passed: all 19 cards, four visible number-range notices in step 2, separate goal/criterion adoption in step 3, task/aid fields empty, filters and subject drafts"
   },
   "publication": {
-    "status": "pending"
+    "status": "success",
+    "app_version": "1.311",
+    "commit": "23fb1ba06f669ac7653d447af4c8aa2344d68774",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42363644033",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "live_browser": "passed"
   }
 }
