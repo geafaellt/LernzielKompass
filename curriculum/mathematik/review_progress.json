@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-025",
+  "last_batch": "MA-026",
   "complete": false,
   "counts": {
-    "cards": 36,
+    "cards": 38,
     "cross_band": 7
   },
   "source_plans": {
@@ -1430,10 +1430,49 @@
       "version": "2026",
       "target": "Ergänzungen",
       "remarks": "11 – 7 = ___ ⇒ 7 + ___ = 11"
+    },
+    "page912_1864": {
+      "id": "page912_1864",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1864",
+      "version": "2026",
+      "target": "Probieren, Begründen und Bewerten von unterschiedlichen Lösungswegen",
+      "remarks": "Lösungswege anderer kritisch bewerten lernen Rechenkonferenzen ⇒ Kommunikationsfähigkeit"
+    },
+    "page912_187068": {
+      "id": "page912_187068",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187068",
+      "version": "2026",
+      "target": "Kontrolle von Lösungen durch Umkehr­operation und Vergleich mit Erfahrungen",
+      "remarks": "Gewohnheit zur Selbstkontrolle Summe von zwei geraden Zahlen ist gerade Plausibilität am Punktefeld beschreiben ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
+    },
+    "page139_37889": {
+      "id": "page139_37889",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37889",
+      "version": "2019",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": ""
     }
   },
-  "next_id": "page912_1864",
-  "next_step": "GS 1/2 Probieren, Begründen und Bewerten unterschiedlicher Lösungswege (1864) gegen beide FSP-Bänder prüfen; danach Kontrolle durch Umkehroperation und Vergleich mit Erfahrungen (187068). Übergreifende Strategie-/Sprachziele, konkrete Zielzeilen und Bemerkungen sowie Wahlbereiche getrennt halten. 187064 in MA-025 ohne hinreichend belegten direkten Anschluss geprüft; vorhandene 36 Karten nicht erneut zählen. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen.",
+  "next_id": "page912_187069",
+  "next_step": "GS 1/2 arithmetische Muster (187069) mit Zahlenfolgen (187070), strukturierten Aufgabenformaten (187071) und operativen Aufgabenserien (187072) gegen beide FSP-Bänder prüfen; danach Fachbegriffe (187073). 1864/187068 in MA-026 nur begrenzt zugeordnet; Bewertungs-/Begründungsreste sowie Erfahrungsvergleich bleiben offen. Vorhandene 38 Karten nicht erneut zählen; sieben Anschlussfragen und alle Restumfänge erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1505,7 +1544,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_025.json",
+  "last_review_file": "review_batch_026.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1680,7 +1719,8 @@
       "gs_id": "page912_187060",
       "scope": "Die umgekehrte Ableitungsrichtung von Subtraktion zu Addition, vollständige Aufgabenfamilien, selbstständige Strategiewahl und GS-Zahlenraum oberhalb20. Der Kontrollzweck der Umkehroperation in187068 wird hier nicht mitgeprüft.",
       "status": "offen",
-      "follow_up": "MA-024: additiver Familienzusammenhang unter 187062/MA-035 und Ergänzungsbeziehung unter 187063/MA-036 bis 20 begrenzt geprüft. Keine vollständige Erledigung oder neue Zählung der Umkehraufgabenzeile 187060; die enger gefasste Karte MA-034 bleibt erhalten."
+      "follow_up": "MA-024: additiver Familienzusammenhang unter 187062/MA-035 und Ergänzungsbeziehung unter 187063/MA-036 bis 20 begrenzt geprüft. Keine vollständige Erledigung oder neue Zählung der Umkehraufgabenzeile 187060; die enger gefasste Karte MA-034 bleibt erhalten.",
+      "control_follow_up": "MA-026: Kontrollzweck erstmals unter 187068/MA-038 begrenzt geprüft (Addition durch Subtraktion, FSP didaktisch bis 20). Keine zusätzliche Zählung dieser früheren Zeile und kein Abschluss ihrer sonstigen Restumfänge."
     },
     {
       "gs_id": "page912_187062",
@@ -1690,13 +1730,24 @@
     {
       "gs_id": "page912_187063",
       "scope": "Selbstständige Wahl und Kombination von Ergänzungsverfahren, alle weiteren Strategien und GS-Zahlenraum oberhalb 20. Die Ergebniskontrolle durch Umkehroperation in 187068 bleibt gesondert zu prüfen.",
-      "status": "offen"
+      "status": "offen",
+      "control_follow_up": "MA-026: Kontrollzweck erstmals unter 187068/MA-038 begrenzt geprüft (Addition durch Subtraktion, FSP didaktisch bis 20). Keine zusätzliche Zählung dieser früheren Zeile und kein Abschluss ihrer sonstigen Restumfänge."
     },
     {
       "gs_id": "page912_187064",
       "scope": "Der gesamte spezifische Strategieausschnitt 187064 bleibt ohne ausdrückliche Kartenabdeckung. Bei zusätzlichem amtlichem Beleg neu bewerten; bestehende Strategieanschlüsse bleiben gültig. Übergreifende GS-Ziele 1857/1862 werden nicht als abgeschlossen gezählt.",
       "status": "ohne hinreichend belegten direkten Anschluss",
       "review_file": "review_batch_025.json"
+    },
+    {
+      "gs_id": "page912_1864",
+      "scope": "Kritisches Bewerten eigener und fremder Lösungswege, vollständiger Begründungsanspruch, andere Operationen und GS-Zahlenraum oberhalb 20. FSP 3/4 bietet weiterführende Strategie-/Sprachbezüge und einen Bewertungsbeleg im Wahlbereich Tierwelt; diese werden nicht als bereits durch die stufenbandpassende Karte abgedeckt gezählt.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187068",
+      "scope": "Vergleich mit Erfahrungswerten, weitere Plausibilitätsbeziehungen, die Kontrolle von Subtraktionen, Selbstkontrollgewohnheit und GS-Zahlenraum oberhalb 20. Die bestehenden Umkehr-/Familien-/Ergänzungskarten belegen diese Restumfänge nicht automatisch.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1713,7 +1764,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Weiterhin 67 inventarisierte Zeilen. MA-025 prüft 187064 einschließlich additiver Summe-/Differenzkonstanz gegen beide FSP-Bänder: kein hinreichend belegter direkter Anschluss. Keine neue Karte, Inventur oder Doppelzählung; Fortsetzung 1864. Vier dokumentierte Zeilenentscheidungen ohne hinreichend belegten direkten Anschluss, sieben offene Anschlussfragen.",
+    "note": "Weiterhin 67 inventarisierte Zeilen. MA-026 ordnet 1864/187068 begrenzte Ausschnitte zu (MA-037/038), keine vollständige Zieldeckung. 38 Karten, sieben stufenübergreifend; Fortsetzung 187069. Keine neue Inventur oder Doppelzählung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
