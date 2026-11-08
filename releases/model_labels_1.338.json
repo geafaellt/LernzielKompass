@@ -9,6 +9,12 @@
     "mathematics_browser": "passed all36 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, teacher drafts, subject isolation and mobile"
   },
   "publication": {
-    "status": "pending"
+    "status": "verified",
+    "commit": "24da72416c874d5d748d42f04dd1a64c3b0a6559",
+    "pages_run": 42488296675,
+    "pages_result": "completed success",
+    "delivered_html": "byte-identical to checked local index.html and dist/index.html",
+    "html_sha256": "48f67237d046925a7dabeae2c0bed072c0776c132dc771d3e1c7446adf3f2cdf",
+    "public_browser": "passed startpage, navigation, drafts, keyboard/focus, mobile320/390, print and no-JS fallback"
   }
 }
