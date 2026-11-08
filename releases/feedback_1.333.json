@@ -1,0 +1,26 @@
+{
+  "app_version": "1.333",
+  "base_commit": "47198d192e719aa2f359c227d0271db9c62f05a9",
+  "scope": "Feedback button on landing/planning views; accessible dialog links to Tally in new tab.",
+  "form_url": "https://tally.so/r/gbeO5J",
+  "privacy": [
+    "No recipient address in public app or repository configuration",
+    "No automatic transfer of teacher drafts or learner data",
+    "No Tally requests until the user follows the form link",
+    "Optional respondent email; only category and feedback are required"
+  ],
+  "service_verification": {
+    "public_form": "published and visually inspected; German, required/optional fields checked, reCAPTCHA present",
+    "email_notifications": "enabled, saved and verified after reload; destination matches user-confirmed account email",
+    "mailbox_delivery": "not verified: no test submission or inbox access"
+  },
+  "validation": {
+    "checks": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope",
+    "browser": "passed: feedback keyboard/focus, draft retention, mobile320/390; all32 mathematics cards; disclosure checks all345 cards",
+    "data": "all six embedded curriculum payloads unchanged",
+    "visual": "mobile dialog inspected"
+  },
+  "publication": {
+    "status": "pending"
+  }
+}

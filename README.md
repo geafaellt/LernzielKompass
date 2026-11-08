@@ -2,7 +2,7 @@
 
 Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.332** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.333** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -21,6 +21,10 @@ App 1.330 präzisiert nach Prüfung aller 313 Karten 25 Deutsch- und 100 Sachunt
 ## Gemeinsamer Lerngegenstand in Mathematik
 
 App 1.329 ersetzt auf allen 31 Mathematikkarten die Wiederholung des Kartentitels durch eine Formulierung der gemeinsamen mathematischen Sache oder Beziehung. Die Vorschläge bleiben didaktische Konkretisierungen. Zahlenraumgrenzen, Quellen, Operatoren, Feinziele und eigene Entwürfe bleiben erhalten. [Prüfung mit Vorher/Nachher](curriculum/mathematik/review_learning_objects_001.json).
+
+## Feedback zur App
+
+Ab App 1.333 öffnet „Feedback zur App“ am Seitenende einen kurzen Hinweis und verlinkt das Feedbackformular bei Tally in einem neuen Tab. Es werden weder Planungsinhalte noch Kontaktdaten automatisch übertragen; es gibt keine Hintergrundanfragen an Tally. Die Empfängeradresse bleibt ausschließlich in den privaten Tally-Einstellungen. Tally verwaltet das Formular, reCAPTCHA und Benachrichtigungen. Änderungen der Zieladresse und Zustellprüfung erfolgen dort, nicht im öffentlichen Repository. Test: `scripts/check-feedback-browser.cjs`.
 
 ## Hinweise und Quellen bei Bedarf
 
