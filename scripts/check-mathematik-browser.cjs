@@ -35,8 +35,11 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       await page.locator('#next').click();
       await page.locator('#insertLearningObject').click();
       assert.equal(await page.inputValue('#learningObject'),card.shared_object_suggestion);
-      assert.equal(await page.locator('#reviewWarning').isVisible(), true);
-      if(card.number_range_alignment)assert.ok((await page.locator('#reviewWarning').innerText()).includes(card.number_range_alignment.notice));
+      assert.equal(await page.locator('#operatorRelationNote').isVisible(),false);
+      assert.equal(await page.locator('#reviewWarning').isVisible(),false);
+      await page.locator('#connectionNotes > summary').click();
+      if(card.number_range_alignment)assert.ok((await page.locator('#connectionNotes').innerText()).includes(card.number_range_alignment.notice));
+      await page.locator('#connectionNotes > summary').click();
       assert.equal(await page.locator('#fspScopeDetails').isVisible(),true);
       assert.ok((await page.locator('#fspScopeDetails').innerText()).includes(card.fsp_scope.summary));
       assert.deepEqual(await page.locator('#fspScopeDetails a').evaluateAll(as=>as.map(a=>a.href)),card.fsp_scope.source_ids.map(id=>moduleData.sources.find(s=>s.id===id).url));

@@ -2,7 +2,7 @@
 
 Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.331** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.332** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -21,6 +21,10 @@ App 1.330 präzisiert nach Prüfung aller 313 Karten 25 Deutsch- und 100 Sachunt
 ## Gemeinsamer Lerngegenstand in Mathematik
 
 App 1.329 ersetzt auf allen 31 Mathematikkarten die Wiederholung des Kartentitels durch eine Formulierung der gemeinsamen mathematischen Sache oder Beziehung. Die Vorschläge bleiben didaktische Konkretisierungen. Zahlenraumgrenzen, Quellen, Operatoren, Feinziele und eigene Entwürfe bleiben erhalten. [Prüfung mit Vorher/Nachher](curriculum/mathematik/review_learning_objects_001.json).
+
+## Hinweise und Quellen bei Bedarf
+
+Ab App 1.332 erscheinen unter dem Operatorenvergleich keine dauerhaften gelben Hinweisbänder mehr. „Hinweise zum Lehrplananschluss“ enthält die vorhandenen Einordnungen und Grenzen aufklappbar; vollständig enthaltene Doppeltexte werden nur einmal gezeigt. „Amtliche Quellen“ und Quellenbelege der Mathematik-Geltungsbereiche sind ebenfalls aufklappbar. Zahlenraum, Planungsgrenzen und Operatorerklärungen per Klick bleiben erhalten. Eigene Texte und sämtliche Fachdaten bleiben unverändert. Prüfung: `scripts/check-review-disclosures-browser.cjs`; Nachweise: `releases/review_disclosures_1.332.json`.
 
 ## Anschlussstelle prüfen
 
