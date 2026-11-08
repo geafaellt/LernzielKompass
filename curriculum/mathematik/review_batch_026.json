@@ -479,11 +479,19 @@
     "data_checks": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
     "finite_control_check": "passed: all3311 admissible combinations of nonnegative summands with true sum<=20 and alleged sum between selected summand and20; subtraction check stays within20 and agrees with the other summand exactly when alleged sum is correct;3080 incorrect alleged sums included",
     "browser_local": "passed all38 math cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved teacher drafts, subject isolation and mobile. Existing unchanged browser assertions with background throttling disabled.",
-    "browser_live": "pending",
-    "disclosures_browser": "passed all351 cards,38 deduplicated math warnings, collapsed sources/notes, operator help, keyboard, reload/draft preservation, mobile320/390"
+    "browser_live": "passed all38 mathematics cards on public app1.340: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved teacher drafts, subject isolation and mobile. Same unchanged browser assertions with background throttling disabled.",
+    "disclosures_browser": "passed all351 cards,38 deduplicated math warnings, collapsed sources/notes, operator help, keyboard, reload/draft preservation, mobile320/390",
+    "live_execution_note": "Initial automatic permission review timed out before execution; one permitted retry started successfully. This was not an application test failure."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.340"
+    "status": "success",
+    "app_version": "1.340",
+    "commit": "8bebb9152b2140e5c3a916e4701866f30bb92b33",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42491626536",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "47dd42f25a9bd3bb46dbb47f29ef6e35890abbaca272a7d52b715e855e63e5fd",
+    "live_browser": "passed:38 cards"
   }
 }
