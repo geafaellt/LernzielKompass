@@ -1,0 +1,14 @@
+{
+  "app_version": "1.334",
+  "base_commit": "1ccf5b55c74b713e17286f9979b0a1f4bca9be8b",
+  "change": "Existing LernzielKompass image positioned left of title in blue header; responsive widths preserved.",
+  "validation": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope",
+    "payloads": "all six unchanged",
+    "header_browser": "passed loaded image left of text at 1280/390/320; no horizontal overflow; screenshots inspected",
+    "mathematics_browser": "passed all 32 cards, scopes, goals, draft preservation and mobile layout"
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
