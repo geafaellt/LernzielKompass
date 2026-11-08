@@ -1,0 +1,4550 @@
+{
+  "id": "DE-SU-LG-001",
+  "date": "2026-11-08",
+  "app_version": "1.330",
+  "base_commit": "854d1e624c92289369dc5bbd2cec9b3b996d0f61",
+  "scope": "Formulierungsprüfung aller bestehenden Deutsch- und Sachunterrichtsvorschläge; keine erneute vollständige Quellen- oder GS/FSP-Zeilenprüfung.",
+  "finding": "Keine wortgleichen Kopien der angezeigten Kartentitel. Vor allem im Sachunterricht enthielten Vorschläge Zielhandlungen, Arbeitsaufträge und vorgegebene Hilfsmittel; in Deutsch einzelne unklare Sach-/Sprachschwerpunkte.",
+  "principles": [
+    "Gemeinsame Sache, Frage, Text, Situation oder fachliche Beziehung benennen.",
+    "Bereits geeignete Vorschläge beibehalten; gleiche Gegenstände dürfen bei unterschiedlichen Anforderungen gleich heißen.",
+    "Keine neuen Aufgaben oder Hilfsmittel; curricularer Verfahrens- oder Mediengegenstand bleibt als solcher erhalten.",
+    "Bedingungen, Wahlbereiche und fachliche Grenzen erhalten; eine methodische Brücke nicht als identischen Sachgegenstand ausgeben.",
+    "Keine neuen Anschlüsse, Operatoren, Quellen oder Feinziele. Eigene Lehrkraftentwürfe bleiben erhalten."
+  ],
+  "official_pages_retrieved": [
+    "https://www.schulportal.sachsen.de/lplandb/lehrplan/908",
+    "https://www.schulportal.sachsen.de/lplandb/lehrplan/80",
+    "https://www.schulportal.sachsen.de/lplandb/lehrplan/146"
+  ],
+  "counts": {
+    "Deutsch": {
+      "reviewed": 178,
+      "reworded": 25,
+      "retained": 153,
+      "title_copies": 0
+    },
+    "Sachunterricht": {
+      "reviewed": 135,
+      "reworded": 100,
+      "retained": 35,
+      "title_copies": 0
+    }
+  },
+  "cards": [
+    {
+      "id": "DE-001",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam erlebtes Schulfest",
+      "after": "Ein gemeinsam erlebtes Schulfest",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186271",
+        "Q-DE-page908_186273",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40303",
+        "Q-DE-page146_40291",
+        "Q-DE-page146_40294"
+      ]
+    },
+    {
+      "id": "DE-002",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam erlebtes Schulfest",
+      "after": "Ein gemeinsam erlebtes Schulfest",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186526",
+        "Q-DE-page908_186527",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40303",
+        "Q-DE-page146_40291",
+        "Q-DE-page146_40294",
+        "Q-DE-page146_40286"
+      ]
+    },
+    {
+      "id": "DE-003",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
+      "after": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186281",
+        "Q-DE-page908_186282",
+        "Q-DE-page908_186283",
+        "Q-DE-page146_40550",
+        "Q-DE-page146_40556",
+        "Q-DE-page146_40557",
+        "Q-DE-page146_40558"
+      ]
+    },
+    {
+      "id": "DE-004",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
+      "after": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186534",
+        "Q-DE-page908_186535",
+        "Q-DE-page908_186536",
+        "Q-DE-page146_40550",
+        "Q-DE-page146_40556",
+        "Q-DE-page146_40557",
+        "Q-DE-page146_40558"
+      ]
+    },
+    {
+      "id": "DE-005",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
+      "after": "Eine ausgewählte Szene aus einem gemeinsam gelesenen Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186847",
+        "Q-DE-page146_40550",
+        "Q-DE-page146_40556",
+        "Q-DE-page146_40557",
+        "Q-DE-page146_40558"
+      ]
+    },
+    {
+      "id": "DE-006",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Bitte um Hilfe im Klassenalltag",
+      "after": "Eine Bitte um Hilfe im Klassenalltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186287",
+        "Q-DE-page908_186293",
+        "Q-DE-page146_39702",
+        "Q-DE-page146_39708",
+        "Q-DE-page146_39710",
+        "Q-DE-page146_39711",
+        "Q-DE-page146_39714"
+      ]
+    },
+    {
+      "id": "DE-007",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Gesprächsregel für den Klassenrat",
+      "after": "Eine Gesprächsregel für den Klassenrat",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186538",
+        "Q-DE-page908_186540",
+        "Q-DE-page908_186542",
+        "Q-DE-page908_186543",
+        "Q-DE-page908_186546",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40289",
+        "Q-DE-page146_40291",
+        "Q-DE-page146_40286"
+      ]
+    },
+    {
+      "id": "DE-008",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine gemeinsame Regel und das damit verfolgte Verständigungsziel in der Klassengemeinschaft",
+      "after": "Eine gemeinsame Regel und das damit verfolgte Verständigungsziel in der Klassengemeinschaft",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186849",
+        "Q-DE-page908_186850",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40289",
+        "Q-DE-page146_40291",
+        "Q-DE-page146_40286"
+      ]
+    },
+    {
+      "id": "DE-009",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Gesprächsregel für den Klassenrat",
+      "after": "Eine Gesprächsregel für den Klassenrat",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186852",
+        "Q-DE-page908_186856",
+        "Q-DE-page908_186858",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40289",
+        "Q-DE-page146_40291",
+        "Q-DE-page146_40286"
+      ]
+    },
+    {
+      "id": "DE-010",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Gesprächsregel für den Klassenrat",
+      "after": "Eine Gesprächsregel für den Klassenrat",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186840",
+        "Q-DE-page908_186842",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40289",
+        "Q-DE-page146_40291",
+        "Q-DE-page146_40286"
+      ]
+    },
+    {
+      "id": "DE-011",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein bekanntes Gedicht zur aktuellen Jahreszeit",
+      "after": "Ein bekanntes Gedicht zur aktuellen Jahreszeit",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186295",
+        "Q-DE-page908_186297",
+        "Q-DE-page146_39754",
+        "Q-DE-page146_39768",
+        "Q-DE-page146_39765"
+      ]
+    },
+    {
+      "id": "DE-012",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein ausgewählter kurzer literarischer Text",
+      "after": "Ein ausgewählter kurzer literarischer Text",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186548",
+        "Q-DE-page908_186549",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40484",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-013",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein erarbeiteter literarischer Text mit einem Wunsch-, Traum- oder Fantasieelement",
+      "after": "Ein erarbeiteter literarischer Text mit einem Wunsch-, Traum- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186859",
+        "Q-DE-page908_186862",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40484",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-014",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein selbstgewählter kurzer literarischer Text im Wunsch-, Traum- oder Fantasiekontext",
+      "after": "Ein selbstgewählter kurzer literarischer Text im Wunsch-, Traum- oder Fantasiekontext",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186994",
+        "Q-DE-page908_186995",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40484",
+        "Q-DE-page146_40485",
+        "Q-DE-page146_40482"
+      ]
+    },
+    {
+      "id": "DE-015",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam gehörtes kurzes Märchen",
+      "after": "Ein gemeinsam gehörtes kurzes Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186299",
+        "Q-DE-page908_186301",
+        "Q-DE-page908_186303",
+        "Q-DE-page908_186305",
+        "Q-DE-page908_186307",
+        "Q-DE-page908_186310",
+        "Q-DE-page908_186312",
+        "Q-DE-page146_39869",
+        "Q-DE-page146_39876",
+        "Q-DE-page146_39879",
+        "Q-DE-page146_39874"
+      ]
+    },
+    {
+      "id": "DE-016",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze vorgelesene Geschichte",
+      "after": "Eine kurze vorgelesene Geschichte",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186557",
+        "Q-DE-page908_186561",
+        "Q-DE-page908_186562",
+        "Q-DE-page908_186563",
+        "Q-DE-page908_186566",
+        "Q-DE-page908_186568",
+        "Q-DE-page908_186569",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40483",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-017",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine gehörte literarische Geschichte mit einem Wunsch-, Traum- oder Fantasieelement",
+      "after": "Eine gehörte literarische Geschichte mit einem Wunsch-, Traum- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186867",
+        "Q-DE-page908_186869",
+        "Q-DE-page908_186870",
+        "Q-DE-page908_186871",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40483",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-018",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Beschriftungen zu vertrauten Gegenständen im Klassenraum",
+      "after": "Beschriftungen zu vertrauten Gegenständen im Klassenraum",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186315",
+        "Q-DE-page908_186323",
+        "Q-DE-page908_186326",
+        "Q-DE-page146_39267",
+        "Q-DE-page146_39274",
+        "Q-DE-page146_39281",
+        "Q-DE-page146_39286",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-019",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze handschriftliche Mitteilung",
+      "after": "Eine kurze handschriftliche Mitteilung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186327",
+        "Q-DE-page908_186328",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40127",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-020",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze handschriftliche Mitteilung mit erkennbar abgesetzter Überschrift",
+      "after": "Eine kurze handschriftliche Mitteilung mit erkennbar abgesetzter Überschrift",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186584",
+        "Q-DE-page908_186585",
+        "Q-DE-page908_186586",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40127",
+        "Q-DE-page146_40135",
+        "Q-DE-page146_40146",
+        "Q-DE-RSR-2025",
+        "Q-DE-FSP34-SCHRIFT-GLIEDERUNG"
+      ]
+    },
+    {
+      "id": "DE-021",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze handschriftliche Mitteilung",
+      "after": "Eine kurze handschriftliche Mitteilung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186874",
+        "Q-DE-page908_186875",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40127",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-022",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Kurze Sätze über Gegenstände im Klassenraum",
+      "after": "Kurze Sätze über Gegenstände im Klassenraum",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186330",
+        "Q-DE-page908_186339",
+        "Q-DE-page908_186340",
+        "Q-DE-page908_186341",
+        "Q-DE-page908_186342",
+        "Q-DE-page908_186343",
+        "Q-DE-page146_39375",
+        "Q-DE-page146_39379",
+        "Q-DE-page146_39380",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-023",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Großgeschriebene Substantive und Satzanfänge in kurzen Sätzen aus dem Klassenalltag",
+      "after": "Großgeschriebene Substantive und Satzanfänge in kurzen Sätzen aus dem Klassenalltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186330",
+        "Q-DE-page908_186339",
+        "Q-DE-page908_186340",
+        "Q-DE-page908_186341",
+        "Q-DE-page146_40219",
+        "Q-DE-page146_40221",
+        "Q-DE-page146_40223",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-024",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Großschreibung von Satzanfängen und nominalen Kernen sowie Kleinschreibung nicht nominal verwendeter Verben und Adjektive in Sätzen",
+      "after": "Großschreibung von Satzanfängen und nominalen Kernen sowie Kleinschreibung nicht nominal verwendeter Verben und Adjektive in Sätzen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186879",
+        "Q-DE-page908_186882",
+        "Q-DE-page146_40219",
+        "Q-DE-page146_40221",
+        "Q-DE-page146_40223",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-025",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung",
+      "after": "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186589",
+        "Q-DE-page908_186591",
+        "Q-DE-page908_186592",
+        "Q-DE-page908_186594",
+        "Q-DE-page146_40226",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-026",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Eine kurze Beschriftung für ein Klassenplakat",
+      "after": "Eine kurze Beschriftung und ihre vorgegebene Wort- und Satzschreibung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186346",
+        "Q-DE-page146_39267",
+        "Q-DE-page146_39290",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-027",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein kurzer Textabschnitt für ein Klassenplakat",
+      "after": "Ein kurzer Textabschnitt mit seiner vorgegebenen Schreibweise und Wortfolge.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186346",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40135",
+        "Q-DE-page146_40142",
+        "Q-DE-page146_40144",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-028",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein kurzer Textabschnitt für ein Klassenplakat",
+      "after": "Ein kurzer Textabschnitt mit seiner vorgegebenen Schreibweise und Wortfolge.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186604",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40135",
+        "Q-DE-page146_40142",
+        "Q-DE-page146_40144",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-029",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein kurzer Textabschnitt für ein Klassenplakat",
+      "after": "Ein kurzer Textabschnitt mit seiner vorgegebenen Schreibweise und Wortfolge.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186885",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40135",
+        "Q-DE-page146_40142",
+        "Q-DE-page146_40144",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-030",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kleiner gemeinsamer Wortschatz aus dem Klassenalltag",
+      "after": "Ein kleiner gemeinsamer Wortschatz aus dem Klassenalltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186347",
+        "Q-DE-page908_186348",
+        "Q-DE-page908_186349",
+        "Q-DE-page146_39267",
+        "Q-DE-page146_39305",
+        "Q-DE-page146_39307",
+        "Q-DE-page146_39311",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-031",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsamer Wortschatz für das aktuelle Unterrichtsthema",
+      "after": "Ein gemeinsamer Wortschatz für das aktuelle Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186347",
+        "Q-DE-page908_186348",
+        "Q-DE-page908_186349",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40148",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-032",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Häufige Inhaltswörter mit klassenbezogener und individuell bedeutsamer Auswahl",
+      "after": "Häufige Inhaltswörter mit klassenbezogener und individuell bedeutsamer Auswahl",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186605",
+        "Q-DE-page908_186609",
+        "Q-DE-page908_186610",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40148",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-033",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Häufige Inhaltswörter mit klassenbezogener und individuell bedeutsamer Auswahl",
+      "after": "Häufige Inhaltswörter mit klassenbezogener und individuell bedeutsamer Auswahl",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186886",
+        "Q-DE-page908_186888",
+        "Q-DE-page908_186889",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40148",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-034",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ausgewählte kurze Funktionswörter in einfachen Sätzen",
+      "after": "Ausgewählte kurze Funktionswörter in einfachen Sätzen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186350",
+        "Q-DE-page146_39267",
+        "Q-DE-page146_39308",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-035",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein festgelegter Satz kurzer Funktionswörter",
+      "after": "Ein gemeinsam festgelegter Bestand kurzer Funktionswörter und ihrer Schreibweisen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186350",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40148",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-036",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein festgelegter Satz kurzer Funktionswörter",
+      "after": "Ein gemeinsam festgelegter Bestand kurzer Funktionswörter und ihrer Schreibweisen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186606",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40148",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-037",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein festgelegter Satz kurzer Funktionswörter",
+      "after": "Ein gemeinsam festgelegter Bestand kurzer Funktionswörter und ihrer Schreibweisen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186890",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40148",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-038",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Wortkarten für ein kleines Klassenwörterverzeichnis",
+      "after": "Wörter und die alphabetische Reihenfolge ihrer Anfangsbuchstaben.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186352",
+        "Q-DE-page146_40098",
+        "Q-DE-page146_40102",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-039",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis",
+      "after": "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186353",
+        "Q-DE-page908_186355",
+        "Q-DE-page908_186357",
+        "Q-DE-page908_186358",
+        "Q-DE-page146_40098",
+        "Q-DE-page146_40104",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-040",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis",
+      "after": "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186612",
+        "Q-DE-page146_40098",
+        "Q-DE-page146_40104",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-041",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis",
+      "after": "Ein ausgewähltes Wort im kindgerechten Wörterverzeichnis",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186895",
+        "Q-DE-page146_40098",
+        "Q-DE-page146_40104",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-042",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze Nachricht an die Klasse",
+      "after": "Eine kurze Nachricht an die Klasse",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186360",
+        "Q-DE-page908_186363",
+        "Q-DE-page908_186365",
+        "Q-DE-page146_39316",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-043",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze Nachricht an die Klasse",
+      "after": "Eine kurze Nachricht an die Klasse",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186618",
+        "Q-DE-page146_39316",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-044",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kleines selbst hergestelltes Bilder- oder Wörterbuch",
+      "after": "Ein kleines selbst hergestelltes Bilder- oder Wörterbuch",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186369",
+        "Q-DE-page908_186372",
+        "Q-DE-page908_186373",
+        "Q-DE-page146_39934",
+        "Q-DE-page146_39938",
+        "Q-DE-page146_39941",
+        "Q-DE-page146_39945",
+        "Q-DE-page146_39947",
+        "Q-DE-RSR-2025",
+        "Q-DE-page146_39944"
+      ]
+    },
+    {
+      "id": "DE-045",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein eigenes kleines Themenbuch mit verständlich geordneten Bild- und Wortinhalten",
+      "after": "Ein eigenes kleines Themenbuch mit verständlich geordneten Bild- und Wortinhalten",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186620",
+        "Q-DE-page908_186623",
+        "Q-DE-page908_186624",
+        "Q-DE-page146_39934",
+        "Q-DE-page146_39938",
+        "Q-DE-page146_39941",
+        "Q-DE-page146_39944",
+        "Q-DE-page146_39945",
+        "Q-DE-page146_39947",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-046",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Inhalt und Seitenfolge eines eigenen Buches",
+      "after": "Inhalt und Seitenfolge eines eigenen Buches",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186899",
+        "Q-DE-page908_186901",
+        "Q-DE-page146_39934",
+        "Q-DE-page146_39938",
+        "Q-DE-page146_39941",
+        "Q-DE-page146_39945",
+        "Q-DE-page146_39947",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-047",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Einladung zu einer gemeinsamen Klassenveranstaltung",
+      "after": "Eine Einladung zu einer gemeinsamen Klassenveranstaltung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186380",
+        "Q-DE-page908_204803",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-048",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Einladung zu einer gemeinsamen Klassenveranstaltung",
+      "after": "Eine Einladung zu einer gemeinsamen Klassenveranstaltung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186631",
+        "Q-DE-page908_186637",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-049",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine schriftliche Mitteilung mit eigener Meinung zu einem gemeinsamen Anliegen",
+      "after": "Eine schriftliche Mitteilung mit eigener Meinung zu einem gemeinsamen Anliegen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186902",
+        "Q-DE-page908_186903",
+        "Q-DE-page908_186904",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40150",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-050",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Schrift und Symbole im Schulhaus",
+      "after": "Schrift und Symbole im Schulhaus",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186397",
+        "Q-DE-page908_186399",
+        "Q-DE-page908_186400",
+        "Q-DE-page146_39201",
+        "Q-DE-page146_39205",
+        "Q-DE-page146_39207",
+        "Q-DE-page146_39204"
+      ]
+    },
+    {
+      "id": "DE-051",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema",
+      "after": "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186401",
+        "Q-DE-page908_186409",
+        "Q-DE-page908_186411",
+        "Q-DE-page908_186414",
+        "Q-DE-page146_39247",
+        "Q-DE-page146_39253",
+        "Q-DE-page146_39256",
+        "Q-DE-page146_39259",
+        "Q-DE-page146_39266"
+      ]
+    },
+    {
+      "id": "DE-052",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema",
+      "after": "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186418",
+        "Q-DE-page908_186420",
+        "Q-DE-page908_186422",
+        "Q-DE-page146_39247",
+        "Q-DE-page146_39253",
+        "Q-DE-page146_39256",
+        "Q-DE-page146_39259",
+        "Q-DE-page146_39266"
+      ]
+    },
+    {
+      "id": "DE-053",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema",
+      "after": "Ein kurzer, altersangemessener Text zum gemeinsamen Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186668",
+        "Q-DE-page908_186670",
+        "Q-DE-page146_39247",
+        "Q-DE-page146_39253",
+        "Q-DE-page146_39256",
+        "Q-DE-page146_39259",
+        "Q-DE-page146_39266"
+      ]
+    },
+    {
+      "id": "DE-054",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein selbstgewählter kurzer Text zu einem gemeinsamen Interessengebiet",
+      "after": "Ein selbstgewählter kurzer Text zu einem gemeinsamen Interessengebiet",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186914",
+        "Q-DE-page908_186916",
+        "Q-DE-page146_39247",
+        "Q-DE-page146_39253",
+        "Q-DE-page146_39256",
+        "Q-DE-page146_39259",
+        "Q-DE-page146_39266"
+      ]
+    },
+    {
+      "id": "DE-055",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema",
+      "after": "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186401",
+        "Q-DE-page908_186414",
+        "Q-DE-page908_186416",
+        "Q-DE-page908_186417",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40111",
+        "Q-DE-page146_40114",
+        "Q-DE-page146_40116",
+        "Q-DE-page146_40109"
+      ]
+    },
+    {
+      "id": "DE-056",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema",
+      "after": "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186418",
+        "Q-DE-page908_186420",
+        "Q-DE-page908_186421",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40111",
+        "Q-DE-page146_40114",
+        "Q-DE-page146_40116",
+        "Q-DE-page146_40109"
+      ]
+    },
+    {
+      "id": "DE-057",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema",
+      "after": "Ein kurzer Sachtext zum gemeinsamen Unterrichtsthema",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186668",
+        "Q-DE-page908_186670",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40111",
+        "Q-DE-page146_40114",
+        "Q-DE-page146_40116"
+      ]
+    },
+    {
+      "id": "DE-058",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein selbstgewählter kurzer Sachtext zu einem gemeinsamen Interessengebiet",
+      "after": "Ein selbstgewählter kurzer Sachtext zu einem gemeinsamen Interessengebiet",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186914",
+        "Q-DE-page908_186916",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40111",
+        "Q-DE-page146_40114",
+        "Q-DE-page146_40116",
+        "Q-DE-page146_40109"
+      ]
+    },
+    {
+      "id": "DE-059",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine zentrale Information in einem kurzen Text",
+      "after": "Eine zentrale Information in einem kurzen Text",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186425",
+        "Q-DE-page908_186430",
+        "Q-DE-page908_186431",
+        "Q-DE-page908_186436",
+        "Q-DE-page146_39247",
+        "Q-DE-page146_39266"
+      ]
+    },
+    {
+      "id": "DE-060",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "after": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186425",
+        "Q-DE-page908_186430",
+        "Q-DE-page908_186431",
+        "Q-DE-page908_186432",
+        "Q-DE-page908_186433",
+        "Q-DE-page908_186434",
+        "Q-DE-page908_186436",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40119",
+        "Q-DE-page146_40120",
+        "Q-DE-page146_40123"
+      ]
+    },
+    {
+      "id": "DE-061",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "after": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186672",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40119",
+        "Q-DE-page146_40120",
+        "Q-DE-page146_40123"
+      ]
+    },
+    {
+      "id": "DE-062",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "after": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186673",
+        "Q-DE-page908_186699",
+        "Q-DE-page908_186703",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40119",
+        "Q-DE-page146_40120",
+        "Q-DE-page146_40123"
+      ]
+    },
+    {
+      "id": "DE-063",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "after": "Ein kurzer Text mit klar erkennbarer Hauptaussage",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186922",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40119",
+        "Q-DE-page146_40120",
+        "Q-DE-page146_40123"
+      ]
+    },
+    {
+      "id": "DE-064",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Sinneinheiten und wesentliche Aussagen eines kurzen Textes",
+      "after": "Sinneinheiten und wesentliche Aussagen eines kurzen Textes",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186923",
+        "Q-DE-page908_186927",
+        "Q-DE-page908_186933",
+        "Q-DE-page908_186934",
+        "Q-DE-page908_186935",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40119",
+        "Q-DE-page146_40120",
+        "Q-DE-page146_40123"
+      ]
+    },
+    {
+      "id": "DE-065",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam ausgewähltes Märchen",
+      "after": "Ein gemeinsam ausgewähltes Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186442",
+        "Q-DE-page908_186443",
+        "Q-DE-page146_39869",
+        "Q-DE-page146_39879",
+        "Q-DE-page146_39874"
+      ]
+    },
+    {
+      "id": "DE-066",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam ausgewähltes Märchen",
+      "after": "Ein gemeinsam ausgewähltes Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186450",
+        "Q-DE-page908_186455",
+        "Q-DE-page908_186456",
+        "Q-DE-page146_39869",
+        "Q-DE-page146_39879",
+        "Q-DE-page146_39874"
+      ]
+    },
+    {
+      "id": "DE-067",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "after": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186459",
+        "Q-DE-page146_39869",
+        "Q-DE-page146_39879"
+      ]
+    },
+    {
+      "id": "DE-068",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam ausgewähltes Märchen mit einem Wunsch- oder Fantasieelement",
+      "after": "Ein gemeinsam ausgewähltes Märchen mit einem Wunsch- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186442",
+        "Q-DE-page908_186443",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-069",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam gewählter literarischer Text, etwa Märchen oder Fabel",
+      "after": "Ein gemeinsam gewählter literarischer Text, etwa Märchen oder Fabel",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186450",
+        "Q-DE-page908_186455",
+        "Q-DE-page908_186456",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-070",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "after": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186459",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-071",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine gemeinsam ausgewählte Fabel mit einem Fantasieelement",
+      "after": "Eine gemeinsam ausgewählte Fabel mit einem Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186707",
+        "Q-DE-page908_186711",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-072",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein erarbeiteter literarischer Text mit einem Wunsch-, Traum- oder Fantasieelement",
+      "after": "Ein erarbeiteter literarischer Text mit einem Wunsch-, Traum- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186726",
+        "Q-DE-page908_186729",
+        "Q-DE-page908_186730",
+        "Q-DE-page908_186731",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-073",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "after": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186733",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-074",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam gewählter literarischer Text, etwa Märchen oder Fabel",
+      "after": "Ein gemeinsam gewählter literarischer Text, etwa Märchen oder Fabel",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186943",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-075",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Ortssage mit einem Fantasieelement",
+      "after": "Eine Ortssage mit einem Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186944",
+        "Q-DE-page908_186945",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-076",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Figuren und Handlung eines literarischen Textes im Wunsch-, Traum- oder Fantasiekontext",
+      "after": "Figuren und Handlung eines literarischen Textes im Wunsch-, Traum- oder Fantasiekontext",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186973",
+        "Q-DE-page908_186975",
+        "Q-DE-page908_186978",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-077",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "after": "Ein vorab mit Titel und Autor benanntes Kinderbuch mit einem Wunsch- oder Fantasieelement",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186985",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40485"
+      ]
+    },
+    {
+      "id": "DE-078",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Kinderliterarische Angebote einer Bibliothek mit Wunsch-, Traum- oder Fantasiebezug",
+      "after": "Kinderliterarische Angebote einer Bibliothek mit Wunsch-, Traum- oder Fantasiebezug",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186447",
+        "Q-DE-page908_186448",
+        "Q-DE-page908_186449",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40486"
+      ]
+    },
+    {
+      "id": "DE-079",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein Kinderbuch mit einem Wunsch-, Traum- oder Fantasieelement und sein Zugang über eine Bibliothek",
+      "after": "Ein Kinderbuch mit einem Wunsch-, Traum- oder Fantasieelement und sein Zugang über eine Bibliothek",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186717",
+        "Q-DE-page908_186721",
+        "Q-DE-page908_186723",
+        "Q-DE-page908_186725",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40486"
+      ]
+    },
+    {
+      "id": "DE-080",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eigene Leseerfahrungen mit einem gedruckten Kinderbuch im Wunsch-, Traum- oder Fantasiekontext",
+      "after": "Eigene Leseerfahrungen mit einem gedruckten Kinderbuch im Wunsch-, Traum- oder Fantasiekontext",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186953",
+        "Q-DE-page908_186965",
+        "Q-DE-page908_186968",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40482",
+        "Q-DE-page146_40486"
+      ]
+    },
+    {
+      "id": "DE-081",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Schriftinhalt und grundlegende Funktionen eines digitalen Schreibprogramms",
+      "after": "Schriftinhalt und grundlegende Funktionen eines digitalen Schreibprogramms",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186460",
+        "Q-DE-page908_186464",
+        "Q-DE-page146_39318",
+        "Q-DE-page146_39327",
+        "Q-DE-page146_39329",
+        "Q-DE-page146_39335",
+        "Q-DE-page146_39341"
+      ]
+    },
+    {
+      "id": "DE-082",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Grundlegende Bedienfunktionen digitaler Schreibwerkzeuge",
+      "after": "Grundlegende Bedienfunktionen digitaler Schreibwerkzeuge",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186460",
+        "Q-DE-page908_186464",
+        "Q-DE-page146_40153",
+        "Q-DE-page146_40157",
+        "Q-DE-page146_40159",
+        "Q-DE-page146_40162",
+        "Q-DE-page146_40163"
+      ]
+    },
+    {
+      "id": "DE-083",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein kurzer Text für ein digitales Klassenplakat",
+      "after": "Ein kurzer digitaler Text zu einem gemeinsamen Inhalt und seine Schriftgestaltung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186739",
+        "Q-DE-page908_186745",
+        "Q-DE-page146_40153",
+        "Q-DE-page146_40157",
+        "Q-DE-page146_40159",
+        "Q-DE-page146_40162",
+        "Q-DE-page146_40163"
+      ]
+    },
+    {
+      "id": "DE-084",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein digital gestalteter kurzer Text zu einem gemeinsamen Inhalt",
+      "after": "Ein digital gestalteter kurzer Text zu einem gemeinsamen Inhalt",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186987",
+        "Q-DE-page908_186990",
+        "Q-DE-page146_40153",
+        "Q-DE-page146_40157",
+        "Q-DE-page146_40159",
+        "Q-DE-page146_40162",
+        "Q-DE-page146_40163"
+      ]
+    },
+    {
+      "id": "DE-085",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze Szene aus einem vertrauten Märchen",
+      "after": "Eine kurze Szene aus einem vertrauten Märchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186466",
+        "Q-DE-page908_186470",
+        "Q-DE-page146_39967",
+        "Q-DE-page146_39969",
+        "Q-DE-page146_39970",
+        "Q-DE-page146_39974",
+        "Q-DE-page146_39976"
+      ]
+    },
+    {
+      "id": "DE-086",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Szene eines gemeinsamen Textes",
+      "after": "Eine ausgewählte Szene eines gemeinsamen Textes",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186466",
+        "Q-DE-page908_186470",
+        "Q-DE-page146_40550",
+        "Q-DE-page146_40556",
+        "Q-DE-page146_40557",
+        "Q-DE-page146_40558",
+        "Q-DE-page146_40559",
+        "Q-DE-page146_40560"
+      ]
+    },
+    {
+      "id": "DE-087",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Szene eines gemeinsamen Textes",
+      "after": "Eine ausgewählte Szene eines gemeinsamen Textes",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186746",
+        "Q-DE-page908_186749",
+        "Q-DE-page146_40550",
+        "Q-DE-page146_40556",
+        "Q-DE-page146_40557",
+        "Q-DE-page146_40558",
+        "Q-DE-page146_40559",
+        "Q-DE-page146_40560"
+      ]
+    },
+    {
+      "id": "DE-088",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Szene eines gemeinsamen Textes",
+      "after": "Eine ausgewählte Szene eines gemeinsamen Textes",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186994",
+        "Q-DE-page908_186999",
+        "Q-DE-page146_40550",
+        "Q-DE-page146_40556",
+        "Q-DE-page146_40557",
+        "Q-DE-page146_40558",
+        "Q-DE-page146_40559",
+        "Q-DE-page146_40560"
+      ]
+    },
+    {
+      "id": "DE-089",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Informationen über die örtliche Bibliothek als öffentliche Einrichtung",
+      "after": "Informationen über die örtliche Bibliothek als öffentliche Einrichtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186734",
+        "Q-DE-page908_186737",
+        "Q-DE-page146_40395",
+        "Q-DE-page146_40396",
+        "Q-DE-page146_40397",
+        "Q-DE-page146_40399"
+      ]
+    },
+    {
+      "id": "DE-090",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Informationen über die örtliche Bibliothek als öffentliche Einrichtung",
+      "after": "Informationen über die örtliche Bibliothek als öffentliche Einrichtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186986",
+        "Q-DE-page146_40395",
+        "Q-DE-page146_40397",
+        "Q-DE-page146_40399"
+      ]
+    },
+    {
+      "id": "DE-091",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Bitte oder Entschuldigung im Schulalltag",
+      "after": "Eine Bitte oder Entschuldigung im Schulalltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186477",
+        "Q-DE-page908_186478",
+        "Q-DE-page146_39702",
+        "Q-DE-page146_39708",
+        "Q-DE-page146_39710",
+        "Q-DE-page146_39711",
+        "Q-DE-page146_39714"
+      ]
+    },
+    {
+      "id": "DE-092",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Bitte oder Entschuldigung im Schulalltag",
+      "after": "Eine Bitte oder Entschuldigung im Schulalltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186769",
+        "Q-DE-page908_186770",
+        "Q-DE-page908_186777",
+        "Q-DE-page146_39702",
+        "Q-DE-page146_39708",
+        "Q-DE-page146_39710",
+        "Q-DE-page146_39711",
+        "Q-DE-page146_39714"
+      ]
+    },
+    {
+      "id": "DE-093",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Bitte oder Entschuldigung im Schulalltag",
+      "after": "Eine Bitte oder Entschuldigung im Schulalltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_187008",
+        "Q-DE-page908_187009",
+        "Q-DE-page908_187010",
+        "Q-DE-page146_39702",
+        "Q-DE-page146_39708",
+        "Q-DE-page146_39710",
+        "Q-DE-page146_39711",
+        "Q-DE-page146_39714"
+      ]
+    },
+    {
+      "id": "DE-094",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine mündliche und eine schriftliche Einladung zum selben Anlass",
+      "after": "Eine mündliche und eine schriftliche Einladung zum selben Anlass",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186482",
+        "Q-DE-page908_186483",
+        "Q-DE-page908_186484",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323"
+      ]
+    },
+    {
+      "id": "DE-095",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine mündliche und eine schriftliche Einladung zum selben Anlass",
+      "after": "Eine mündliche und eine schriftliche Einladung zum selben Anlass",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186778",
+        "Q-DE-page908_186781",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323"
+      ]
+    },
+    {
+      "id": "DE-096",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Einladungen in mündlicher und schriftlicher Kommunikation mit ihren Sender- und Empfängerrollen",
+      "after": "Einladungen in mündlicher und schriftlicher Kommunikation mit ihren Sender- und Empfängerrollen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_187011",
+        "Q-DE-page908_187015",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323"
+      ]
+    },
+    {
+      "id": "DE-097",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Wörter zu Menschen, Dingen und Tätigkeiten im Klassenraum",
+      "after": "Wörter zu Menschen, Dingen und Tätigkeiten im Klassenraum",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186488",
+        "Q-DE-page908_186489",
+        "Q-DE-page908_186490",
+        "Q-DE-page908_186493",
+        "Q-DE-page908_186494",
+        "Q-DE-page908_186495",
+        "Q-DE-page908_186497",
+        "Q-DE-page146_39344",
+        "Q-DE-page146_39350",
+        "Q-DE-page146_39351",
+        "Q-DE-page146_39357",
+        "Q-DE-page146_39360",
+        "Q-DE-page146_39362",
+        "Q-DE-page146_39364"
+      ]
+    },
+    {
+      "id": "DE-098",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Merkmale vertrauter Nomen, Verben und Adjektive in sprachlichen Zusammenhängen",
+      "after": "Merkmale vertrauter Nomen, Verben und Adjektive in sprachlichen Zusammenhängen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186488",
+        "Q-DE-page908_186489",
+        "Q-DE-page908_186493",
+        "Q-DE-page908_186500",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40169",
+        "Q-DE-page146_40171",
+        "Q-DE-page146_40173",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40177",
+        "Q-DE-page146_40179",
+        "Q-DE-page146_40182",
+        "Q-DE-page146_40185",
+        "Q-DE-page146_40188"
+      ]
+    },
+    {
+      "id": "DE-099",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Wörter und kurze Sätze zu einer gemeinsamen Bildszene",
+      "after": "Nomen, Verben und Adjektive in Wörtern und kurzen Sätzen einer gemeinsamen Situation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186788",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40169",
+        "Q-DE-page146_40171",
+        "Q-DE-page146_40173",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40177",
+        "Q-DE-page146_40179",
+        "Q-DE-page146_40182",
+        "Q-DE-page146_40185"
+      ]
+    },
+    {
+      "id": "DE-100",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Wörter und kurze Sätze zu einer gemeinsamen Bildszene",
+      "after": "Nomen, Verben und Adjektive in Wörtern und kurzen Sätzen einer gemeinsamen Situation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_187020",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40169",
+        "Q-DE-page146_40171",
+        "Q-DE-page146_40173",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40177",
+        "Q-DE-page146_40179",
+        "Q-DE-page146_40182",
+        "Q-DE-page146_40185"
+      ]
+    },
+    {
+      "id": "DE-101",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Personalpronomen und eindeutig zugehörige Personenbezeichnungen in kurzen Sätzen aus einer vertrauten Situation",
+      "after": "Personalpronomen und eindeutig zugehörige Personenbezeichnungen in kurzen Sätzen aus einer vertrauten Situation",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186789",
+        "Q-DE-page908_186801",
+        "Q-DE-page908_186802",
+        "Q-DE-page908_186803",
+        "Q-DE-page146_40192",
+        "Q-DE-page146_40194"
+      ]
+    },
+    {
+      "id": "DE-102",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Lebensmittel für ein gemeinsames Pausenfrühstück",
+      "after": "Lebensmittelwörter für ein gesundes Pausenfrühstück und ihre Ober- und Unterbegriffe.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186810",
+        "Q-DE-page908_186813",
+        "Q-DE-page146_40351",
+        "Q-DE-page146_40354",
+        "Q-DE-page146_40355"
+      ]
+    },
+    {
+      "id": "DE-103",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Lebensmittel für ein gemeinsames Pausenfrühstück",
+      "after": "Lebensmittelwörter für ein gesundes Pausenfrühstück und ihre Ober- und Unterbegriffe.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_187033",
+        "Q-DE-page146_40351",
+        "Q-DE-page146_40355"
+      ]
+    },
+    {
+      "id": "DE-104",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Aussage, Frage und Aufforderung zur selben Klassensituation",
+      "after": "Aussage, Frage und Aufforderung zur selben Klassensituation",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186509",
+        "Q-DE-page908_186510",
+        "Q-DE-page908_186511",
+        "Q-DE-page146_39372"
+      ]
+    },
+    {
+      "id": "DE-105",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Aussage, Frage und Aufforderung mit ihrer sprachlichen Form und Verwendung",
+      "after": "Aussage, Frage und Aufforderung mit ihrer sprachlichen Form und Verwendung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186509",
+        "Q-DE-page908_186510",
+        "Q-DE-page908_186511",
+        "Q-DE-page146_40199"
+      ]
+    },
+    {
+      "id": "DE-108",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein kurzer Dialog aus einem gemeinsamen Lesetext",
+      "after": "Wörtliche Rede in einem kurzen Lesetext mit vorangestelltem Begleitsatz.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186815",
+        "Q-DE-page908_186819",
+        "Q-DE-page146_40202",
+        "Q-DE-page146_40204",
+        "Q-DE-page146_40208"
+      ]
+    },
+    {
+      "id": "DE-109",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Handlung einer Märchenfigur",
+      "after": "Eine ausgewählte Handlung einer Märchenfigur",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186938",
+        "Q-DE-page908_186942",
+        "Q-DE-page146_39882",
+        "Q-DE-page146_39888",
+        "Q-DE-page146_39891"
+      ]
+    },
+    {
+      "id": "DE-110",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein festgelegter Wortbestand mit Vokalverdopplung",
+      "after": "Ein festgelegter Wortbestand mit Vokalverdopplung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186611",
+        "Q-DE-page146_40226",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-111",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ausgewählte Merkwörter mit Dehnungs-h",
+      "after": "Ausgewählte Merkwörter mit Dehnungs-h",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186893",
+        "Q-DE-page146_40226",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-112",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Die Begriffe Verb, Nomen beziehungsweise Substantiv und Adjektiv",
+      "after": "Die Begriffe Verb, Nomen beziehungsweise Substantiv und Adjektiv",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186517",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40169",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40185"
+      ]
+    },
+    {
+      "id": "DE-113",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Personalpronomen in einfachen Beispielsätzen",
+      "after": "Personalpronomen in einfachen Beispielsätzen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186828",
+        "Q-DE-page146_40192"
+      ]
+    },
+    {
+      "id": "DE-114",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ausgewählte mehrsilbige Wörter am Zeilenende",
+      "after": "Ausgewählte mehrsilbige Wörter am Zeilenende",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186589",
+        "Q-DE-page908_186597",
+        "Q-DE-page908_186600",
+        "Q-DE-page146_40218",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-115",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Vertraute Laute und deutlich unterscheidbare Schriftformen",
+      "after": "Vertraute Laute und deutlich unterscheidbare Schriftformen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186315",
+        "Q-DE-page908_186317",
+        "Q-DE-page908_186318",
+        "Q-DE-page908_186319",
+        "Q-DE-page908_186320",
+        "Q-DE-page146_39179",
+        "Q-DE-page146_39185",
+        "Q-DE-page146_39187",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-116",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Laut-, Schrift- und Rhythmusbeispiele aus vertrauten Wörtern",
+      "after": "Laut-, Schrift- und Rhythmusbeispiele aus vertrauten Wörtern",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186401",
+        "Q-DE-page908_186402",
+        "Q-DE-page908_186403",
+        "Q-DE-page908_186404",
+        "Q-DE-page908_186405",
+        "Q-DE-page908_186406",
+        "Q-DE-page146_39179",
+        "Q-DE-page146_39185",
+        "Q-DE-page146_39187",
+        "Q-DE-page146_39190",
+        "Q-DE-page146_39194",
+        "Q-DE-page146_39196"
+      ]
+    },
+    {
+      "id": "DE-117",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Einfache Wörter mit bereits eingeführten Buchstaben",
+      "after": "Einfache Wörter und die Beziehungen zwischen ihren Lauten und bereits eingeführten, im FSP belegten Buchstaben.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186330",
+        "Q-DE-page908_186331",
+        "Q-DE-page908_186332",
+        "Q-DE-page908_186333",
+        "Q-DE-page146_39201",
+        "Q-DE-page146_39209",
+        "Q-DE-page146_39211",
+        "Q-DE-page146_39212",
+        "Q-DE-page146_39214",
+        "Q-DE-page146_39216",
+        "Q-DE-page146_39232",
+        "Q-DE-page146_39234",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-118",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Einfache Wörter mit bereits eingeführten Buchstaben",
+      "after": "Einfache Wörter und die Beziehungen zwischen ihren Lauten und bereits eingeführten, im FSP belegten Buchstaben.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186401",
+        "Q-DE-page908_186408",
+        "Q-DE-page146_39201",
+        "Q-DE-page146_39209",
+        "Q-DE-page146_39211",
+        "Q-DE-page146_39212",
+        "Q-DE-page146_39214",
+        "Q-DE-page146_39216",
+        "Q-DE-page146_39232",
+        "Q-DE-page146_39234"
+      ]
+    },
+    {
+      "id": "DE-119",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Neue Wörter mit vertrauten Vorsilben, Wortstämmen oder Nachsilben",
+      "after": "Neue Wörter mit vertrauten Vorsilben, Wortstämmen oder Nachsilben",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186401",
+        "Q-DE-page908_186412",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40116",
+        "Q-DE-page146_40109"
+      ]
+    },
+    {
+      "id": "DE-120",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Verben in einfachen Sätzen mit verschiedenen Personen",
+      "after": "Veränderliche Verbformen in einfachen Sätzen mit unterschiedlichen Personenbezügen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186488",
+        "Q-DE-page908_186491",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40169",
+        "Q-DE-page146_40173"
+      ]
+    },
+    {
+      "id": "DE-121",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Nomen mit bestimmten und unbestimmten Artikeln",
+      "after": "Nomen mit bestimmten und unbestimmten Artikeln",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186488",
+        "Q-DE-page908_186498",
+        "Q-DE-page908_186499",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40179"
+      ]
+    },
+    {
+      "id": "DE-122",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Eigenschaften vertrauter Gegenstände",
+      "after": "Eigenschaften vertrauter Gegenstände und die dazu passenden Adjektive.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186488",
+        "Q-DE-page908_186501",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40185",
+        "Q-DE-page146_40188"
+      ]
+    },
+    {
+      "id": "DE-123",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine gemeinsame Fantasiegeschichte mit offenem Ende",
+      "after": "Eine gemeinsame Fantasiegeschichte mit offenem Ende",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186631",
+        "Q-DE-page908_186645",
+        "Q-DE-page908_186646",
+        "Q-DE-page908_186648",
+        "Q-DE-page146_40488",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-124",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine Frage und eine Aussage mit vertrautem Wortmaterial",
+      "after": "Eine Frage und eine Aussage mit vertrautem Wortmaterial",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186509",
+        "Q-DE-page908_186513",
+        "Q-DE-page908_186515",
+        "Q-DE-page146_39372"
+      ]
+    },
+    {
+      "id": "DE-125",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam betrachteter Arbeitsplatz mit vertrauten Arbeitsmitteln",
+      "after": "Ein gemeinsam betrachteter Arbeitsplatz mit vertrauten Arbeitsmitteln",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186271",
+        "Q-DE-page908_186275",
+        "Q-DE-page146_39562",
+        "Q-DE-page146_39568",
+        "Q-DE-page146_39571"
+      ]
+    },
+    {
+      "id": "DE-126",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Der Umgang mit einem vertrauten Arbeitsmittel am eigenen Arbeitsplatz",
+      "after": "Der Umgang mit einem vertrauten Arbeitsmittel am eigenen Arbeitsplatz",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186271",
+        "Q-DE-page908_186276",
+        "Q-DE-page146_39562",
+        "Q-DE-page146_39568",
+        "Q-DE-page146_39576"
+      ]
+    },
+    {
+      "id": "DE-127",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Eine mündliche Suchanweisung zu einem Gegenstand im Klassenraum",
+      "after": "Die Lage eines Gegenstands im Klassenraum und die dazu passenden räumlichen Wörter.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186271",
+        "Q-DE-page908_186278",
+        "Q-DE-page146_39794"
+      ]
+    },
+    {
+      "id": "DE-128",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine vertraute Gesprächssituation in der Klasse mit einer Unterbrechung",
+      "after": "Eine vertraute Gesprächssituation in der Klasse mit einer Unterbrechung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186287",
+        "Q-DE-page908_186292",
+        "Q-DE-page146_39605",
+        "Q-DE-page146_39617"
+      ]
+    },
+    {
+      "id": "DE-129",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Eine gemeinsam besprochene Gesprächssituation in der Klasse",
+      "after": "Eine konkrete Gesprächssituation in der Klasse und eine dazu passende gemeinsame Gesprächsregel.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186287",
+        "Q-DE-page908_186294",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40286",
+        "Q-DE-page146_40289",
+        "Q-DE-page146_40291"
+      ]
+    },
+    {
+      "id": "DE-130",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Zwei unterschiedlich gesprochene kurze Äußerungen zu einer vertrauten Klassensituation",
+      "after": "Zwei unterschiedlich gesprochene kurze Äußerungen zu einer vertrauten Klassensituation",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186299",
+        "Q-DE-page908_186308",
+        "Q-DE-page146_39179",
+        "Q-DE-page146_39194"
+      ]
+    },
+    {
+      "id": "DE-131",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Tastbare Buchstaben zu Namen aus einer gemeinsamen Erkundung im Schulumfeld",
+      "after": "Tastbare Buchstabenformen in Namen aus dem Schulumfeld. Bedingte Konkretisierung bei tatsächlich gewähltem FSP-Wahlbereich 1.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186315",
+        "Q-DE-page908_186322",
+        "Q-DE-page146_39893",
+        "Q-DE-page146_39907",
+        "Q-DE-page146_39914",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-132",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Bekannte zweisilbige Modellwörter mit Doppelkonsonanten, etwa Sonne und Tasse",
+      "after": "Bekannte zweisilbige Modellwörter mit Doppelkonsonanten, etwa Sonne und Tasse",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186330",
+        "Q-DE-page908_186334",
+        "Q-DE-page908_186336",
+        "Q-DE-page146_40226",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-133",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Bekannte zweisilbige Wörter mit ie, etwa Biene und Wiese",
+      "after": "Bekannte zweisilbige Wörter mit ie, etwa Biene und Wiese",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186330",
+        "Q-DE-page908_186334",
+        "Q-DE-page908_186335",
+        "Q-DE-page146_40226",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-134",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine selbst gewählte kurze Notiz zu einer eigenen Idee oder einem persönlichen Wunsch",
+      "after": "Eine selbst gewählte kurze Notiz zu einer eigenen Idee oder einem persönlichen Wunsch",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186360",
+        "Q-DE-page908_186364",
+        "Q-DE-page908_186367",
+        "Q-DE-page146_39316",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-135",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein kurzer Merkzettel mit selbst gewählten Materialien für eine gemeinsame Klassenaktivität",
+      "after": "Eine kurze Sachnotiz mit selbst gewählten Informationen zu einer gemeinsamen Klassenaktivität.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186360",
+        "Q-DE-page908_186368",
+        "Q-DE-page146_39316",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-136",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine schriftliche Einladung zu einer gemeinsamen Klassenveranstaltung",
+      "after": "Eine schriftliche Einladung zu einer gemeinsamen Klassenveranstaltung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186369",
+        "Q-DE-page908_186371",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-137",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze eigene Mitteilung über ein selbst gewähltes Erlebnis",
+      "after": "Eine kurze eigene Mitteilung über ein selbst gewähltes Erlebnis",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186380",
+        "Q-DE-page908_186383",
+        "Q-DE-page146_39316",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-138",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein gemeinsam erkundetes historisches Gebäude in der Region",
+      "after": "Ein gemeinsam erkundetes historisches Gebäude in der Region",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186380",
+        "Q-DE-page908_186384",
+        "Q-DE-page146_40531",
+        "Q-DE-page146_40541",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-139",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Buchstabenformen aus Namen der näheren Schulumgebung",
+      "after": "Buchstabenformen in Namen der näheren Schulumgebung und ihre tastbaren Merkmale. Nur bei gewähltem FSP-Wahlbereich 1.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186401",
+        "Q-DE-page908_186402",
+        "Q-DE-page908_186407",
+        "Q-DE-page146_39893",
+        "Q-DE-page146_39907",
+        "Q-DE-page146_39914"
+      ]
+    },
+    {
+      "id": "DE-140",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine schriftliche Einladung zu einer Klassenveranstaltung",
+      "after": "Eine schriftliche Einladung zu einer Klassenveranstaltung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186442",
+        "Q-DE-page908_186444",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323"
+      ]
+    },
+    {
+      "id": "DE-141",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze literarische Textvorlage für den FSP-Wahlbereich Wir spielen Theater",
+      "after": "Eine kurze literarische Textvorlage für den FSP-Wahlbereich Wir spielen Theater",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186450",
+        "Q-DE-page908_186453",
+        "Q-DE-page146_39954"
+      ]
+    },
+    {
+      "id": "DE-142",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer Sachtext zu einer gemeinsam gewählten Sachfrage",
+      "after": "Ein kurzer Sachtext zu einer gemeinsam gewählten Sachfrage",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186450",
+        "Q-DE-page908_186454",
+        "Q-DE-page908_186457",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40123"
+      ]
+    },
+    {
+      "id": "DE-143",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein digitales Lernprogramm mit sprachbezogenen Inhalten",
+      "after": "Ein digitales Lernprogramm mit sprachbezogenen Inhalten",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186460",
+        "Q-DE-page908_186465",
+        "Q-DE-page146_39318",
+        "Q-DE-page146_39324"
+      ]
+    },
+    {
+      "id": "DE-144",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein Gedicht zu jahreszeitlichen Naturveränderungen",
+      "after": "Ein Gedicht zu jahreszeitlichen Naturveränderungen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186466",
+        "Q-DE-page908_186468",
+        "Q-DE-page146_39818",
+        "Q-DE-page146_39841",
+        "Q-DE-page146_39843"
+      ]
+    },
+    {
+      "id": "DE-145",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein kurzer literarischer Text über Wünsche, Träume oder Fantasie",
+      "after": "Ein kurzer literarischer Text über Wünsche, Träume oder Fantasie",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186466",
+        "Q-DE-page908_186469",
+        "Q-DE-page146_40480",
+        "Q-DE-page146_40484"
+      ]
+    },
+    {
+      "id": "DE-146",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein eigenes kleines Buch mit Text und Bild",
+      "after": "Ein eigenes kleines Buch mit Text und Bild",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186466",
+        "Q-DE-page908_186472",
+        "Q-DE-page146_39950"
+      ]
+    },
+    {
+      "id": "DE-147",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Der Ausdruck Unterschrift in einem schulischen Text mit persönlichen Angaben",
+      "after": "Der Ausdruck Unterschrift in einem schulischen Text mit persönlichen Angaben",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186477",
+        "Q-DE-page908_186479",
+        "Q-DE-page908_186480",
+        "Q-DE-page146_40227",
+        "Q-DE-page146_40240"
+      ]
+    },
+    {
+      "id": "DE-148",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein sachlicher Bericht über eine vertraute, überschaubare Tätigkeit im häuslichen Umfeld",
+      "after": "Ein sachlicher Bericht über eine vertraute, überschaubare Tätigkeit im häuslichen Umfeld",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186526",
+        "Q-DE-page908_186528",
+        "Q-DE-page146_39579",
+        "Q-DE-page146_39597",
+        "Q-DE-page146_39600"
+      ]
+    },
+    {
+      "id": "DE-149",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Eine mündliche Suchanweisung zu einem Gegenstand im Klassenraum",
+      "after": "Die Lage eines Gegenstands im Klassenraum und die dazu passenden räumlichen Wörter.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_186526",
+        "Q-DE-page908_186530",
+        "Q-DE-page146_39794"
+      ]
+    },
+    {
+      "id": "DE-150",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Wesentliche Aussagen einer einzelnen Rolle in einer bekannten literarischen Szene",
+      "after": "Wesentliche Aussagen einer einzelnen Rolle in einer bekannten literarischen Szene",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186548",
+        "Q-DE-page908_186551",
+        "Q-DE-page908_186552",
+        "Q-DE-page908_186553",
+        "Q-DE-page146_40545",
+        "Q-DE-page146_40546",
+        "Q-DE-page146_40547",
+        "Q-DE-page146_40548",
+        "Q-DE-page908_186549"
+      ]
+    },
+    {
+      "id": "DE-151",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze lesbare Mitteilung in einem Textprogramm",
+      "after": "Eine kurze lesbare Mitteilung in einem Textprogramm",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186584",
+        "Q-DE-page908_186588",
+        "Q-DE-page146_40153",
+        "Q-DE-page146_40159",
+        "Q-DE-page146_40163",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-152",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine bekannte Textstelle mit vorangestelltem Begleitsatz und wörtlicher Rede",
+      "after": "Eine bekannte Textstelle mit vorangestelltem Begleitsatz und wörtlicher Rede",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186589",
+        "Q-DE-page908_186597",
+        "Q-DE-page908_186599",
+        "Q-DE-page908_186601",
+        "Q-DE-page146_40202",
+        "Q-DE-page146_40204",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-153",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Die schriftliche Einladung zu einem neuen gemeinsamen Anlass",
+      "after": "Die schriftliche Einladung zu einem neuen gemeinsamen Anlass",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186620",
+        "Q-DE-page908_186622",
+        "Q-DE-page908_186625",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323",
+        "Q-DE-RSR-2025",
+        "Q-DE-FSP34-SCHREIBANLASS"
+      ]
+    },
+    {
+      "id": "DE-154",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze eigene Mitteilung mit einem Gedanken oder einer Beobachtung",
+      "after": "Eine kurze eigene Mitteilung mit einem Gedanken oder einer Beobachtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186631",
+        "Q-DE-page908_186634",
+        "Q-DE-page146_40126",
+        "Q-DE-page146_40150",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-155",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein historisches Gebäude einer gemeinsam erkundeten regionalen Anlage",
+      "after": "Ein historisches Gebäude einer gemeinsam erkundeten regionalen Anlage",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186631",
+        "Q-DE-page908_186636",
+        "Q-DE-page146_40531",
+        "Q-DE-page146_40532",
+        "Q-DE-page146_40541",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-156",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine schriftliche Einladung zu einer Klassenveranstaltung",
+      "after": "Eine schriftliche Einladung zu einer Klassenveranstaltung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186707",
+        "Q-DE-page908_186712",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323"
+      ]
+    },
+    {
+      "id": "DE-157",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Informationsangebote über die Bedeutung einer örtlichen öffentlichen oder sozialen Einrichtung",
+      "after": "Informationsangebote über die Bedeutung einer örtlichen öffentlichen oder sozialen Einrichtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186717",
+        "Q-DE-page908_186722",
+        "Q-DE-page146_40395",
+        "Q-DE-page146_40396",
+        "Q-DE-page146_40397"
+      ]
+    },
+    {
+      "id": "DE-158",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein eigenes kleines Buch mit Text und Bild",
+      "after": "Ein eigenes kleines Buch mit Text und Bild",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186746",
+        "Q-DE-page908_186750",
+        "Q-DE-page146_39950"
+      ]
+    },
+    {
+      "id": "DE-159",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein bekanntes digitales Freizeitangebot und seine Bedeutung für die eigene Freizeit",
+      "after": "Ein bekanntes digitales Freizeitangebot und seine Bedeutung für die eigene Freizeit",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186739",
+        "Q-DE-page908_186743",
+        "Q-DE-page908_186744",
+        "Q-DE-page146_40324",
+        "Q-DE-page146_40326",
+        "Q-DE-page146_40332",
+        "Q-DE-FSP-GRUNDLAGEN-MEDIENBILDUNG"
+      ]
+    },
+    {
+      "id": "DE-160",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine ausgewählte Handlung einer Märchenfigur",
+      "after": "Eine ausgewählte Handlung einer Märchenfigur",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186726",
+        "Q-DE-page908_186728",
+        "Q-DE-page146_39882",
+        "Q-DE-page146_39888",
+        "Q-DE-page146_39891"
+      ]
+    },
+    {
+      "id": "DE-161",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein erarbeiteter Blumenname mit auffälliger Wortgestalt oder Bedeutung und die zugehörige Blume",
+      "after": "Ein erarbeiteter Blumenname mit auffälliger Wortgestalt oder Bedeutung und die zugehörige Blume",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186769",
+        "Q-DE-page908_186771",
+        "Q-DE-page908_186774",
+        "Q-DE-page908_186776",
+        "Q-DE-page146_40463",
+        "Q-DE-page146_40475",
+        "Q-DE-page146_40476",
+        "Q-DE-page146_40478"
+      ]
+    },
+    {
+      "id": "DE-162",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Erarbeitete Aussagen zur Getreideernte früher und heute mit eindeutigen Zeitbezügen",
+      "after": "Erarbeitete Aussagen zur Getreideernte früher und heute mit eindeutigen Zeitbezügen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186789",
+        "Q-DE-page908_186805",
+        "Q-DE-page146_40463",
+        "Q-DE-page146_40470",
+        "Q-DE-page146_40472"
+      ]
+    },
+    {
+      "id": "DE-163",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Erarbeitete Sachbegriffe zu körperlichen Merkmalen von Jungen und Mädchen",
+      "after": "Erarbeitete Sachbegriffe zu körperlichen Merkmalen von Jungen und Mädchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186840",
+        "Q-DE-page908_186843",
+        "Q-DE-page146_40241",
+        "Q-DE-page146_40244",
+        "Q-DE-page146_40250"
+      ]
+    },
+    {
+      "id": "DE-164",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Erarbeitete Sachbegriffe zu körperlichen Merkmalen von Jungen und Mädchen",
+      "after": "Erarbeitete Sachbegriffe zu körperlichen Merkmalen von Jungen und Mädchen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186849",
+        "Q-DE-page908_186851",
+        "Q-DE-page146_40241",
+        "Q-DE-page146_40244",
+        "Q-DE-page146_40250"
+      ]
+    },
+    {
+      "id": "DE-165",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Wesentliche Aussagen einer einzelnen Rolle in einer bekannten literarischen Szene",
+      "after": "Wesentliche Aussagen einer einzelnen Rolle in einer bekannten literarischen Szene",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186859",
+        "Q-DE-page908_186864",
+        "Q-DE-page908_186865",
+        "Q-DE-page146_40545",
+        "Q-DE-page146_40546",
+        "Q-DE-page146_40547",
+        "Q-DE-page146_40548"
+      ]
+    },
+    {
+      "id": "DE-166",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine kurze lesbare Mitteilung in einem Textprogramm",
+      "after": "Eine kurze lesbare Mitteilung in einem Textprogramm",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186874",
+        "Q-DE-page908_186877",
+        "Q-DE-page146_40153",
+        "Q-DE-page146_40159",
+        "Q-DE-page146_40163",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-167",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Die schriftliche Einladung zu einem neuen gemeinsamen Anlass",
+      "after": "Die schriftliche Einladung zu einem neuen gemeinsamen Anlass",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186899",
+        "Q-DE-page908_186900",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40323",
+        "Q-DE-RSR-2025",
+        "Q-DE-FSP34-SCHREIBANLASS"
+      ]
+    },
+    {
+      "id": "DE-168",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Eine gemeinsame Fantasiegeschichte mit offenem Ende",
+      "after": "Eine gemeinsame Fantasiegeschichte mit offenem Ende",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186902",
+        "Q-DE-page908_186904",
+        "Q-DE-page908_186906",
+        "Q-DE-page908_186908",
+        "Q-DE-page146_40488",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-169",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein eigenes kleines Buch mit Text und Bild",
+      "after": "Ein eigenes kleines Buch mit Text und Bild",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186994",
+        "Q-DE-page908_187000",
+        "Q-DE-page146_39950"
+      ]
+    },
+    {
+      "id": "DE-170",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein bekanntes digitales Freizeitangebot und seine Bedeutung für die eigene Freizeit",
+      "after": "Ein bekanntes digitales Freizeitangebot und seine Bedeutung für die eigene Freizeit",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186953",
+        "Q-DE-page908_186965",
+        "Q-DE-page908_186969",
+        "Q-DE-page146_40324",
+        "Q-DE-page146_40326",
+        "Q-DE-page146_40332",
+        "Q-DE-FSP-GRUNDLAGEN-MEDIENBILDUNG"
+      ]
+    },
+    {
+      "id": "DE-171",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein schriftlicher Glückwunsch zu einem persönlichen oder gemeinsamen Anlass",
+      "after": "Ein schriftlicher Glückwunsch zu einem persönlichen oder gemeinsamen Anlass",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186944",
+        "Q-DE-page908_186947",
+        "Q-DE-page146_40320",
+        "Q-DE-page146_40322"
+      ]
+    },
+    {
+      "id": "DE-172",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Unterschiedliche Sichtweisen zu einer überschaubaren Freundschaftssituation",
+      "after": "Unterschiedliche Sichtweisen zu einer überschaubaren Freundschaftssituation",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186538",
+        "Q-DE-page908_186544",
+        "Q-DE-page146_40305",
+        "Q-DE-page146_40307",
+        "Q-DE-page146_40309",
+        "Q-DE-page146_40317"
+      ]
+    },
+    {
+      "id": "DE-173",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein Sprichwort mit Saat- oder Erntebezug und der zugehörige Sachzusammenhang der Getreideernte",
+      "after": "Ein Sprichwort mit Saat- oder Erntebezug und der zugehörige Sachzusammenhang der Getreideernte",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186769",
+        "Q-DE-page908_186771",
+        "Q-DE-page908_186772",
+        "Q-DE-page146_40463",
+        "Q-DE-page146_40470",
+        "Q-DE-page146_40472"
+      ]
+    },
+    {
+      "id": "DE-174",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein erarbeitetes Nomen für eine nichtgegenständliche Erscheinung, beispielsweise Kälte",
+      "after": "Ein erarbeitetes Nomen für eine nichtgegenständliche Erscheinung, beispielsweise Kälte",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186789",
+        "Q-DE-page908_186793",
+        "Q-DE-page908_186795",
+        "Q-DE-page146_40166",
+        "Q-DE-page146_40175",
+        "Q-DE-page146_40177",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "DE-175",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Ein häufig vorkommender unverändert geschriebener Wortstamm in bedeutungsverwandten Wörtern",
+      "after": "Ein häufig vorkommender unverändert geschriebener Wortstamm in bedeutungsverwandten Wörtern",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186810",
+        "Q-DE-page908_186811",
+        "Q-DE-page146_40107",
+        "Q-DE-page146_40109",
+        "Q-DE-page146_40116"
+      ]
+    },
+    {
+      "id": "DE-176",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Mündlich erhaltene Auskunft über die Bedeutung oder Zuständigkeit einer öffentlichen Einrichtung",
+      "after": "Mündlich erhaltene Auskunft über die Bedeutung oder Zuständigkeit einer öffentlichen Einrichtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186867",
+        "Q-DE-page908_186870",
+        "Q-DE-page908_186872",
+        "Q-DE-page146_40395",
+        "Q-DE-page146_40396",
+        "Q-DE-page146_40397",
+        "Q-DE-page146_40399",
+        "Q-DE-page146_40401",
+        "Q-DE-page146_40403"
+      ]
+    },
+    {
+      "id": "DE-177",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Rechte anderer an fremden Bildern und Texten in einer digitalen Information zu einem Schulfest",
+      "after": "Rechte anderer an fremden Bildern und Texten in einer digitalen Information zu einem Schulfest",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186987",
+        "Q-DE-page908_186993",
+        "Q-DE-page146_40282",
+        "Q-DE-page146_40294",
+        "Q-DE-page146_40299"
+      ]
+    },
+    {
+      "id": "DE-178",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Unterschiedliche geäußerte Sichtweisen und Gründe zu demselben überschaubaren Freundschaftskonflikt",
+      "after": "Unterschiedliche geäußerte Sichtweisen und Gründe zu demselben überschaubaren Freundschaftskonflikt",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_187011",
+        "Q-DE-page908_187013",
+        "Q-DE-page146_40305",
+        "Q-DE-page146_40307",
+        "Q-DE-page146_40309",
+        "Q-DE-page146_40310",
+        "Q-DE-page146_40317"
+      ]
+    },
+    {
+      "id": "DE-179",
+      "subject": "Deutsch",
+      "decision": "reworded",
+      "before": "Ein gegenüber dem bisherigen GS-Lernstand erweitertes Repertoire von Zeitwörtern in Aussagen zur Getreideernte früher und heute",
+      "after": "Wörter für zeitliche Bezüge in Aussagen zur Getreideernte früher und heute. Nur bei zusätzlichen sprachlichen Zeitmarkierungen gegenüber dem bisherigen GS-Lernstand.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-DE-page908_187021",
+        "Q-DE-page908_187030",
+        "Q-DE-page146_40463",
+        "Q-DE-page146_40470",
+        "Q-DE-page146_40472"
+      ]
+    },
+    {
+      "id": "DE-180",
+      "subject": "Deutsch",
+      "decision": "retained",
+      "before": "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung",
+      "after": "Bekannte zweisilbige Wörter mit Doppelkonsonanten sowie verwandte Wortformen mit Auslautverhärtung",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-DE-page908_186879",
+        "Q-DE-page908_186881",
+        "Q-DE-page146_40226",
+        "Q-DE-RSR-2025"
+      ]
+    },
+    {
+      "id": "SU-001",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Körperpflege im Alltag: Hygieneartikel und ihre Wirkung auf die Gesundheit",
+      "after": "Körperpflege im Alltag: Hygieneartikel und ihre Wirkung auf die Gesundheit",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-12"
+      ]
+    },
+    {
+      "id": "SU-002",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Sonnenlicht im Alltag: Schatten beobachten und sich vor starker Sonne schützen",
+      "after": "Sonnenlicht, Schatten und Schutz vor starker Sonneneinstrahlung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-003",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Der Wald als Lebensraum: ausgewählte Pflanzen und Tiere erkunden",
+      "after": "Der Wald als Lebensraum ausgewählter Pflanzen und Tiere.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-004",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Dieselben Schulräume/Gegenstände: Orientierung und Raumkenntnis; Lagebegriffsaufgabe ausdrücklich ergänzen und getrennt nachweisen",
+      "after": "Dieselben Räume und Gegenstände unserer Schule und ihre Lage zueinander. Raumkenntnis und räumliche Begriffe bleiben getrennte Zielausschnitte.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-005",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Der eigene Tagesablauf: Tätigkeiten zeitlich ordnen und wiedergeben",
+      "after": "Der eigene Tagesablauf und die zeitliche Reihenfolge seiner Tätigkeiten.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-006",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Historische Anlagen in der Region: Merkmale erkunden und Möglichkeiten ihrer Erhaltung betrachten",
+      "after": "Eine historische Anlage der Region: ihre Merkmale, Geschichte und Erhaltung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-WB5",
+        "Q-FSP-DEHKS-34-WB3"
+      ]
+    },
+    {
+      "id": "SU-007",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Sinnesorgane und ihre Wahrnehmungsfunktionen im Alltag",
+      "after": "Sinnesorgane und ihre Wahrnehmungsfunktionen im Alltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-3-LB2",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-008",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Unsere Klassengemeinschaft: Regeln für gemeinsames Lernen",
+      "after": "Unsere Klassengemeinschaft: Regeln für gemeinsames Lernen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-FSP-DEHKS-12-LB3"
+      ]
+    },
+    {
+      "id": "SU-009",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Sicher über die Straße: Signale erkennen und handeln",
+      "after": "Eine konkrete Straßenquerung im Schulumfeld: Verkehrssignale und sicheres Verhalten.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-010",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Sicher unterwegs: Verkehrszeichen und passende Handlungen",
+      "after": "Verkehrszeichen und ihre Bedeutung für Fußgänger und Radfahrer in einer ausgewählten Situation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB5-REGION",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-011",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ausgewählte Frühblüher und ihre Blatt- und Blütenmerkmale",
+      "after": "Ausgewählte Frühblüher und ihre Blatt- und Blütenmerkmale",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-012",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was verändert sich im Jahreslauf? Knospen, Laubfärbung oder Vogelzug beobachten",
+      "after": "Jahreszeitliche Veränderungen der Natur: ein ausgewähltes Beispiel aus Pflanzen- oder Tierwelt.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-013",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Laubbaum oder Nadelbaum? Bäume an Merkmalen erkennen",
+      "after": "Laub- und Nadelbäume und ihre unterscheidbaren Merkmale.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-014",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Getreidearten vergleichen und ausgewählte Lebensmittel zuordnen",
+      "after": "Ausgewählte Getreidearten und die daraus gewonnenen Lebensmittel.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB3",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-015",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Wasser unterwegs: vom Verdunsten bis zum Niederschlag",
+      "after": "Wasser unterwegs: vom Verdunsten bis zum Niederschlag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-3-LB4",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-016",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ein Tier aus unserer Umgebung: Merkmale und Lebensraum",
+      "after": "Ein Tier aus unserer Umgebung: Merkmale und Lebensraum",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-017",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Welche Gegenstände schwimmen? Wir probieren und ordnen",
+      "after": "Gegenstände im Wasser: Schwimmen und Sinken als unterschiedliche Erscheinungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB4",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-018",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wir arbeiten selbstständig: Regeln und Hilfe in der Freiarbeit",
+      "after": "Regeln und Möglichkeiten der Hilfe bei selbstständiger und gemeinsamer Freiarbeit.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB1",
+        "Q-FSP-DEHKS-12-LB3"
+      ]
+    },
+    {
+      "id": "SU-019",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Feuer sicher betrachten: Brennstoff erkennen, Gefahr einschätzen, Schutzregel wählen",
+      "after": "Feuer im Alltag: Brennstoffe, Nutzen, Gefahren und Schutzregeln.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-44",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-020",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Dieselbe aktuelle Wettererscheinung beobachten und ein zutreffendes Merkmal mitteilen",
+      "after": "Eine aktuelle Wettererscheinung und ein gemeinsam ausgewähltes beobachtbares Merkmal.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-ZIELE-PHAENOMENE",
+        "Q-GS-SU-3-LB4",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-021",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was bewegt der Wind? Gegenstände beobachten und beschreiben",
+      "after": "Wind als bewegte Luft und seine sichtbaren Wirkungen auf Gegenstände.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-022",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was gehört zu einem gesunden Frühstück? Obst und Gemüse auswählen",
+      "after": "Obst und Gemüse als Bestandteile eines gesunden Frühstücks.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-12"
+      ]
+    },
+    {
+      "id": "SU-023",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was ziehe ich bei diesem Wetter an? Kleidung passend auswählen",
+      "after": "Der Zusammenhang zwischen aktueller Witterung und passender Kleidung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-12"
+      ]
+    },
+    {
+      "id": "SU-024",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Was hilft meiner Gesundheit? Eine vorbeugende Gewohnheit im Alltag",
+      "after": "Was hilft meiner Gesundheit? Eine vorbeugende Gewohnheit im Alltag",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-025",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Sicher Rad fahren: Vorfahrt und Abbiegen anwenden",
+      "after": "Vorfahrt und Abbiegen in einer konkreten Radverkehrssituation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-026",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Speicherbecken und Talsperren in unserer Region",
+      "after": "Speicherbecken und Talsperren in unserer Region",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-WB6",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-027",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Kulturelle Ereignisse und Feste im Jahreskreis – optionale Kalenderdarstellung",
+      "after": "Kulturelle Ereignisse und Feste im Jahreskreis und ihre zeitliche Einordnung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-028",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Methodische Brücke: Heimatortplan zur Orientierung / Schulgeländeplan für Punktbenennung und gestützte Wegbeschreibung; Kartentransfer separat",
+      "after": "Orientierung auf Plänen und Karten: Heimatort und Schulgelände als unterschiedliche Bezugsräume. Methodische Brücke, kein bereits festgelegter gemeinsamer Ort.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB5-REGION",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-029",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ausgewähltes Beispiel: Sonnenstand im Tagesverlauf oder Tag/Nacht – gemeinsame Aufgabe ausdrücklich vereinbaren",
+      "after": "Ein gemeinsam ausgewählter Ausschnitt zum Sonnenlauf: Sonnenstand im Tagesverlauf oder Tag und Nacht. Nur bei gewähltem GS-Wahlbereich 3; die konkrete Schnittmenge ist noch festzulegen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-27",
+        "Q-GS-SU-4-WB3"
+      ]
+    },
+    {
+      "id": "SU-030",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wer ist welcher Vogel? Heimische Arten an äußeren Merkmalen erkennen",
+      "after": "Ausgewählte heimische Vogelarten und ihre äußeren Unterscheidungsmerkmale.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-031",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie treibt Wasser ein Rad an? Wasserkraft früher und heute",
+      "after": "Wasser als Antrieb eines Wasserrads und die Nutzung der Wasserkraft früher und heute.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-032",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie biege ich mit dem Fahrrad sicher links ab?",
+      "after": "Sicheres Linksabbiegen mit dem Fahrrad in einer konkreten Verkehrssituation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-WB4",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-033",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wer lebt am Waldrand? Einen Organismus erkunden und schützen",
+      "after": "Ein ausgewähltes Lebewesen am Waldrand, sein Lebensraum und sein Schutz.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-WB2",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-034",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Zwei Waldsäugetiere vergleichen, zum Beispiel Eichhörnchen und Wildschwein: Welche Körpermerkmale sind verschieden, welche gemeinsam?",
+      "after": "Körpermerkmale zweier ausgewählter Waldsäugetiere: Gemeinsamkeiten und Unterschiede.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-035",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Was macht verschmutzte Luft mit dem Wald – und wie schützen wir saubere Luft?",
+      "after": "Was macht verschmutzte Luft mit dem Wald – und wie schützen wir saubere Luft?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-036",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Welche Blumen wachsen hier? Wiesenpflanzen an Merkmalen bestimmen",
+      "after": "Ausgewählte Blumen und Wiesenpflanzen und ihre erkennbaren Merkmale.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB3",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-037",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Holz kommt aus dem Wald: Woher stammt der Rohstoff?",
+      "after": "Der Wald als Herkunftsort des Rohstoffs Holz.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-27-WB2"
+      ]
+    },
+    {
+      "id": "SU-038",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Katze und Wellensittich: zwei Haustiere anhand von Merkmalen vergleichen",
+      "after": "Zwei ausgewählte Heimtiere und ihre Gemeinsamkeiten und Unterschiede in den Merkmalen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-039",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Apfel, Birne, Kirsche: Obstsorten an Merkmalen unterscheiden",
+      "after": "Ausgewählte Obstfrüchte und ihre unterscheidbaren Merkmale.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-12"
+      ]
+    },
+    {
+      "id": "SU-040",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie bringt bewegte Luft etwas zum Klingen? Ein einfacher Luft-Schall-Versuch",
+      "after": "Der Zusammenhang zwischen bewegter Luft und der Entstehung von Geräuschen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-041",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Alkohol und Nikotin: Risiken erkennen und passende Entscheidungen treffen",
+      "after": "Alkohol und Nikotin: gesundheitliche Risiken im Alltag.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB2",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-042",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie fühlt sich dieser Boden an? Eine Bodenprobe mit den Sinnen erkunden",
+      "after": "Eine ausgewählte Bodenprobe und ihre sinnlich wahrnehmbaren Eigenschaften.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-043",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Sicher aufs Rad und wieder absteigen",
+      "after": "Sicherer Beginn und Abschluss einer Fahrradfahrt: Aufsteigen und Absteigen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB8",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-044",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine Pflanze oder ein Tier im Schulgarten durch das Jahr beobachten",
+      "after": "Eine ausgewählte Pflanze oder ein Tier im Schulgarten und ihre beziehungsweise seine Veränderungen im Jahreslauf.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB3",
+        "Q-FSP-DEHKS-15"
+      ]
+    },
+    {
+      "id": "SU-045",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Wie verändert sich die Farbe der Natur im Jahreslauf?",
+      "after": "Wie verändert sich die Farbe der Natur im Jahreslauf?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB5",
+        "Q-FSP-DEHKS-15",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-046",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Welche Verpackung verursacht weniger Abfall?",
+      "after": "Welche Verpackung verursacht weniger Abfall?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB2",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-047",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Noch auszuwählen: regionales Fest mit Landkreisbezug – kulturelles Merkmal kennen und Information aus Text entnehmen",
+      "after": "Ein noch gemeinsam auszuwählendes regionales Fest mit belegtem Landkreisbezug: kulturelle Merkmale und eine passende Textinformation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB5-REGION",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-048",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Welches Produkt verursacht beim Kauf weniger Abfall?",
+      "after": "Welches Produkt verursacht beim Kauf weniger Abfall?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-WB4-PRODUKT",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-049",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein wichtiges Schulerlebnis: Rückblick und Klassenchronikbeitrag",
+      "after": "Ein gemeinsam erlebter schulischer Höhepunkt und die Erinnerung daran.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB6",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-050",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Der Körper verändert sich beim Aufwachsen",
+      "after": "Der Körper verändert sich beim Aufwachsen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB2",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-051",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Bedingt: dieselbe konkrete Wetterinformation aus derselben vereinbarten Quelle",
+      "after": "Bedingt: dieselbe konkrete Wetterinformation aus derselben vereinbarten Quelle",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB6",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-052",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Eine vereinbarte Information zu einem Schulfest oder einer Schultradition aus derselben Quelle",
+      "after": "Eine vereinbarte Information zu einem Schulfest oder einer Schultradition aus derselben Quelle",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB1",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-053",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine vereinbarte Information zu einem Schulfest für andere darstellen und mitteilen",
+      "after": "Dieselbe ausgewählte Information zu einem Schulfest und ihre Verständlichkeit für andere.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB6",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-054",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Noch auszuwählen: sorbisches Fest mit regionalem Bezug – Kultur kennenlernen und eine Information aus einem passenden Text entnehmen",
+      "after": "Ein noch gemeinsam auszuwählendes sorbisches Fest mit belegtem regionalem Bezug: Kulturmerkmal und passende Textinformation. Bedingter Anschluss.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-055",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Noch auszuwählen: dieselbe öffentliche Landesinstitution in Dresden – Regierungssitz kennen, Information zur Bedeutung einholen und wiedergeben",
+      "after": "Eine noch gemeinsam auszuwählende öffentliche Landesinstitution in Dresden und ihre Bedeutung als Teil des Landesregierungssitzes. Bedingter Anschluss.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-056",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Bedingt: dieselbe Familienaufgabe/-rolle im vereinbarten früheren und heutigen Familienbeispiel",
+      "after": "Bedingt: dieselbe Familienaufgabe/-rolle im vereinbarten früheren und heutigen Familienbeispiel",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB1",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-057",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Bedingt: fremdes Bild oder fremden Text bei einer Informationsweitergabe regelbewusst verwenden",
+      "after": "Dasselbe fremde Bild oder derselbe fremde Text zu einem Schulfest oder einer Schultradition und eine vereinbarte Nutzungsregel. Bedingt abgeleiteter Rechtebezug.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB1",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-058",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Genussmittel: Missbrauch an einem Beispiel erkennen",
+      "after": "Ein ausgewähltes Beispiel für den Missbrauch eines Genussmittels.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB2",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-059",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Aufforstung: Wie kann eine Pflanzaktion den Wald schützen?",
+      "after": "Aufforstung und ihre Bedeutung für den Schutz des Waldes.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-27",
+        "Q-FSP-DEHKS-27-WB2"
+      ]
+    },
+    {
+      "id": "SU-060",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Noch auszuwählen: dieselbe Landschaftsbesonderheit – Bezug zur sächsischen Region und zum Schulort sichern",
+      "after": "Noch auszuwählen: dieselbe Landschaftsbesonderheit – Bezug zur sächsischen Region und zum Schulort sichern",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-061",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Methodische Brücke: auf Sachsenkarte orientieren / am Schulgeländeplan Punkt benennen und Weg mit Stützwörtern beschreiben",
+      "after": "Räumliche Orientierung anhand von Sachsenkarte und Schulgeländeplan. Methodische Brücke zwischen unterschiedlichen Bezugsräumen, kein identischer Ortsgegenstand.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-062",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Bedingt: dasselbe fremde Vogelbild oder derselbe Text bei Medienentnahme und GS-Präsentation",
+      "after": "Bedingt: dasselbe fremde Vogelbild oder derselbe Text bei Medienentnahme und GS-Präsentation",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB6",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-063",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Noch auszuwählen: geeignete sächsische Sage – regionalen Bezug kennen und literarischen Inhalt verstehen/wiedergeben",
+      "after": "Eine noch gemeinsam auszuwählende Sage mit belegbarem Sachsenbezug: regionaler Zusammenhang und literarischer Inhalt. Bedingter Anschluss.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-LB7"
+      ]
+    },
+    {
+      "id": "SU-064",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Noch auszuwählen: fachlich passende Sage zum Himmelsraum – GS-Einblick über Symbolik, FSP-Inhalt verstehen und wiedergeben",
+      "after": "Eine für beide Zielkontexte passende Sage zum Himmelsraum: Symbolik und literarischer Inhalt. Nur bei gewähltem GS-Wahlbereich 3 und gemeinsamer Textauswahl.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-WB3",
+        "Q-FSP-DEHKS-34-LB7"
+      ]
+    },
+    {
+      "id": "SU-065",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein vereinbarter kleiner Sachtext und ein vorgegebener Sachauftrag mit getrennten Entnahme-/Lese-/Einordnungsnachweisen",
+      "after": "Ein gemeinsamer kurzer Sachtext und eine ausgewählte Information im Sachzusammenhang. Lesen, Informationsentnahme und sachliche Einordnung bleiben getrennte Anforderungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-ZIELE-SACHTEXT",
+        "Q-GS-SU-4-LB6",
+        "Q-FSP-DEHKS-34-LB1"
+      ]
+    },
+    {
+      "id": "SU-066",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Abfall als Umweltproblem: Warum schützt Abfallreduzierung die Umwelt?",
+      "after": "Abfall als Umweltproblem: Warum schützt Abfallreduzierung die Umwelt?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB2",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-067",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Unser Schultag: wiederkehrende Abläufe erkennen und einhalten",
+      "after": "Unser Schultag und seine wiederkehrenden zeitlichen Abläufe.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-068",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Körperteile benennen und zuordnen – ausgewählte Geschlechtsmerkmale mit Fachbegriffen",
+      "after": "Körperteile und ausgewählte Geschlechtsmerkmale mit ihren sachgerechten Bezeichnungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-12"
+      ]
+    },
+    {
+      "id": "SU-069",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie sitze ich gesund? Eine zweckmäßige Haltung in der Unterrichtssituation",
+      "after": "Eine zweckmäßige Körperhaltung in einer konkreten Unterrichtssituation.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-12"
+      ]
+    },
+    {
+      "id": "SU-070",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was kann Luft? Eine ausgewählte Eigenschaft gemeinsam untersuchen",
+      "after": "Luft und eine gemeinsam ausgewählte, beobachtbare Eigenschaft.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-071",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie verhält sich Wasser? Eine ausgewählte Eigenschaft untersuchen",
+      "after": "Wasser und eine gemeinsam ausgewählte, beobachtbare Eigenschaft.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-072",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie ist das Wetter? Beobachten und gemeinsam eintragen",
+      "after": "Das aktuelle Wetter und seine beobachtbaren Erscheinungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-14",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-073",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Einen ausgewählten Verkehrsweg im Schulumfeld auf einer vereinfachten Darstellung finden und beschreiben",
+      "after": "Ein ausgewählter Verkehrsweg im Schulumfeld und sein Verlauf in einer vereinfachten Darstellung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-074",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Dieselbe öffentliche Einrichtung kennenlernen; eine Freizeitnutzung nur bei belegtem Angebot einbeziehen",
+      "after": "Dieselbe öffentliche Einrichtung im Schul- oder Wohnumfeld und ihre Bedeutung. Ein Freizeitbezug gilt nur bei tatsächlich passendem Angebot.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-12-LB3",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-075",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Pflanzen und Tiere, die uns wichtig sind – Steckbrief und Übersicht",
+      "after": "Persönlich bedeutsame Pflanzen und Tiere und ausgewählte Informationen zu ihnen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB6",
+        "Q-FSP-DEHKS-15",
+        "Q-FSP-DEHKS-12-WB4"
+      ]
+    },
+    {
+      "id": "SU-076",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Unsere Arbeitsergebnisse – eine gemeinsame Übersicht",
+      "after": "Eigene Arbeitsergebnisse und die für andere bedeutsamen Informationen dazu.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB1",
+        "Q-FSP-DEHKS-12-LB3"
+      ]
+    },
+    {
+      "id": "SU-077",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Mehrweg beim Pausenfrühstück: Welche Verpackung kann wiederverwendet werden?",
+      "after": "Mehrweg beim Pausenfrühstück: Welche Verpackung kann wiederverwendet werden?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB2",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-078",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Wie verhalten wir uns bei der Naturerkundung so, dass Pflanzen geschützt werden?",
+      "after": "Wie verhalten wir uns bei der Naturerkundung so, dass Pflanzen geschützt werden?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB3",
+        "Q-FSP-DEHKS-12-WB4"
+      ]
+    },
+    {
+      "id": "SU-079",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Welche Hinweise helfen uns, zu Fuß sicher unterwegs zu sein?",
+      "after": "Welche Hinweise helfen uns, zu Fuß sicher unterwegs zu sein?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB4",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-080",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Baustelle auf dem Schulweg: Gefahr erkennen und sicher handeln",
+      "after": "Eine Baustelle auf dem Schulweg: konkrete Gefahr und sicheres Verhalten.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB4",
+        "Q-FSP-DEHKS-12-LB5"
+      ]
+    },
+    {
+      "id": "SU-081",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Unterschiedliche Lebensgewohnheiten verstehen und respektvoll miteinander umgehen",
+      "after": "Unterschiedliche Lebensgewohnheiten und gegenseitiger Respekt im Zusammenleben.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB1",
+        "Q-FSP-DEHKS-34-LB3",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-082",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine Information finden und verständlich weitergeben",
+      "after": "Eine gemeinsam ausgewählte Information zu einem schulischen Fest oder einer Tradition und ihre Bedeutung für andere.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB1",
+        "Q-FSP-DEHKS-34-LB3",
+        "Q-FSP-DEHKS-12-LB1"
+      ]
+    },
+    {
+      "id": "SU-083",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Dieselbe vereinbarte Wetterinformation aus derselben digitalen Quelle; getrennte Such- und Entnahmenachweise",
+      "after": "Dieselbe vereinbarte Wetterinformation aus derselben digitalen Quelle. Internetsuche und Informationsentnahme bleiben getrennte Anforderungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB4",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-084",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was passiert mit Wasser? Eine Zustandsänderung beobachten und benennen",
+      "after": "Wasser in verschiedenen Zustandsformen und ein ausgewählter Übergang zwischen ihnen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB4",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-085",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Noch auszuwählen: dieselbe Landkreis-Verwaltungseinrichtung – politisch einordnen und Information zur Aufgabe einholen/wiedergeben",
+      "after": "Eine noch gemeinsam auszuwählende Verwaltungseinrichtung des Landkreises und ihre Aufgabe. Bedingter Anschluss mit gesichertem Landkreisbezug.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB5-REGION",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-086",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was passiert mit Wasser? Eine Zustandsänderung beobachten und benennen",
+      "after": "Wasser in verschiedenen Zustandsformen und ein ausgewählter Übergang zwischen ihnen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB6",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-087",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Getreide damals und heute: Ernte und Lebensmittel vergleichen",
+      "after": "Getreideernte früher und heute und Getreide als Grundlage von Lebensmitteln.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-WB2",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-088",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Vom Baum zum Holzprodukt: Eine Baumart als Baumaterial entdecken",
+      "after": "Eine ausgewählte Baumart als Rohstoff für ein bestimmtes Holzprodukt.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-WB2",
+        "Q-FSP-DEHKS-27-WB2"
+      ]
+    },
+    {
+      "id": "SU-089",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein steinerner Zeuge unserer Region: Geschichte, Merkmal und Erhaltung eines Bauwerks erkunden",
+      "after": "Dieselbe historische steinerne Anlage der Region: Geschichte, sichtbares Merkmal und Erhaltung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-WB3",
+        "Q-FSP-DEHKS-34-WB3"
+      ]
+    },
+    {
+      "id": "SU-090",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wer fährt zuerst? Eine Vorfahrtsituation mit dem Fahrrad einschätzen",
+      "after": "Eine konkrete Kreuzungssituation mit Fahrradverkehr und die geltende Vorfahrt.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-WB4",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-091",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ton formen: Wie wird aus Tonerde eine Form?",
+      "after": "Ton als formbarer Rohstoff und eine daraus entstandene einfache Form.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-WB4-PRODUKT",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-092",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Meine Grenze gilt: Gefahr erkennen, Nein sagen und Hilfe holen",
+      "after": "Persönliche Grenzen und das Recht auf Nein in einer ausgewählten Situation mit Gefahr sexuellen Missbrauchs.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-093",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Grenzen achten und Schutzsignale erkennen",
+      "after": "Persönliche Grenzen, Nein-Sagen und eine ausgewählte Gefahr sexuellen Missbrauchs.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB2",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-094",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Barrieren erkennen und respektvolle Unterstützung auswählen",
+      "after": "Eine ausgewählte Beeinträchtigung, damit verbundene Barrieren und respektvolle Unterstützung im Alltag.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB2",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-095",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was kann ich gut? Eigene Stärken wertschätzend wahrnehmen",
+      "after": "Eigene Stärken und der Wert der eigenen Person.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-096",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Stärken und Grenzen wahrnehmen und sich selbst wertschätzen",
+      "after": "Eigene Stärken und Grenzen als Teil einer wertschätzenden Sicht auf sich selbst.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB2",
+        "Q-FSP-DEHKS-34-LB2"
+      ]
+    },
+    {
+      "id": "SU-097",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wir entscheiden gemeinsam: Vorschläge sammeln und abstimmen",
+      "after": "Eine gemeinsame Entscheidung in der Klasse: Vorschläge und Abstimmung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-098",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein Konflikt in der Klasse: zuhören und eine Lösung finden",
+      "after": "Ein konkreter Konflikt in der Klasse, die Sichtweisen der Beteiligten und eine gewaltfreie Lösung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-FSP-DEHKS-12-LB3",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-099",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Körper und Zähne pflegen: eine tägliche Gesundheitsgewohnheit",
+      "after": "Körper- und Zahnpflege als tägliche Gesundheitsgewohnheiten.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-100",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein gesundes Frühstück aus einer Lebensmittelauswahl zusammenstellen",
+      "after": "Ein gesundes Frühstück und die dazu passende Auswahl von Lebensmitteln.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-34-LB4"
+      ]
+    },
+    {
+      "id": "SU-101",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Schwimmt oder sinkt es? Einen angeleiteten Versuch durchführen und beobachten",
+      "after": "Schwimmen und Sinken: das Verhalten ausgewählter Gegenstände im Wasser.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB6",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-102",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine historische Anlage unserer Region: entdecken, beschreiben und erhalten",
+      "after": "Eine ausgewählte historische Anlage der Region und die Bedeutung ihrer Erhaltung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-WB5",
+        "Q-FSP-DEHKS-34-WB3"
+      ]
+    },
+    {
+      "id": "SU-103",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Namen der Natur entdecken: Eine Pflanze oder ein Tier benennen",
+      "after": "Eine ausgewählte Pflanze oder ein Tier der Umgebung und ihr beziehungsweise sein Name.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-12-WB1"
+      ]
+    },
+    {
+      "id": "SU-104",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wiesenfunde sammeln und benennen – eine kleine Pflanzenübersicht",
+      "after": "Ausgewählte Pflanzen einer Wiese und ihre Namen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB3",
+        "Q-FSP-DEHKS-12-WB4"
+      ]
+    },
+    {
+      "id": "SU-105",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Unser Arbeitsplatz: passende Materialien auswählen, ordnen und verwenden",
+      "after": "Der eigene Arbeitsplatz: Ordnung und die Funktion vertrauter Arbeitsmittel.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-FSP-DEHKS-12-LB2"
+      ]
+    },
+    {
+      "id": "SU-106",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wasserwerk vor Ort: Welche Bedeutung hat die Einrichtung für die Versorgung?",
+      "after": "Ein örtliches Wasserwerk und seine Bedeutung für die Versorgung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-WB6",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-107",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Bedingt: dasselbe eigene/fremde Vogelbild oder Textbeispiel und eine vereinbarte Nutzungs-/Quellenregel",
+      "after": "Bedingt: dasselbe eigene/fremde Vogelbild oder Textbeispiel und eine vereinbarte Nutzungs-/Quellenregel",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB1",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-108",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Bedingt: dasselbe fremde Bild oder Text zu Nutzen/Gefahr von Feuer im gewählten FSP-WB1",
+      "after": "Bedingt: dasselbe fremde Bild oder Text zu Nutzen/Gefahr von Feuer im gewählten FSP-WB1",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB6",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-109",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Was bewirkt Wasser bei einem Hochwasserereignis?",
+      "after": "Was bewirkt Wasser bei einem Hochwasserereignis?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-GESAMT",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-110",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Eine Landschaft verändert sich: ein regionales Beispiel in Sachsen",
+      "after": "Eine Landschaft verändert sich: ein regionales Beispiel in Sachsen",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-LB5",
+        "Q-FSP-DEHKS-34-WB1"
+      ]
+    },
+    {
+      "id": "SU-111",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ein historisches Gebäude unseres Landkreises und eine belegbare Information zu seiner Geschichte",
+      "after": "Ein historisches Gebäude unseres Landkreises und eine belegbare Information zu seiner Geschichte",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-3-LB5-REGION",
+        "Q-FSP-DEHKS-34-WB3"
+      ]
+    },
+    {
+      "id": "SU-112",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie lässt sich das Verhalten einer Person in dieser Radverkehrssituation beurteilen?",
+      "after": "Das Verhalten einer Person in einer konkreten Radverkehrssituation und seine Angemessenheit.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-WB4",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-113",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein Verkehrszeichen für Radfahrer in unserer Wohngegend erkennen und seine Grundbedeutung zuordnen",
+      "after": "Ein ausgewähltes Verkehrszeichen für Radfahrer in der Wohngegend und seine Bedeutung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB8",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-126",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ein ausgewählter ländlicher historischer Ort und eine belegte Information zum früheren Leben dort",
+      "after": "Ein ausgewählter ländlicher historischer Ort und eine belegte Information zum früheren Leben dort",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-3-ZIELE-LANDLEBEN",
+        "Q-FSP-DEHKS-34-WB3"
+      ]
+    },
+    {
+      "id": "SU-127",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ein regionales Holzprodukt: Welcher belegte Schritt führt vom Baum zum Produkt?",
+      "after": "Ein regionales Holzprodukt: Welcher belegte Schritt führt vom Baum zum Produkt?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-4-WB4-PRODUKT",
+        "Q-FSP-DEHKS-27-WB2"
+      ]
+    },
+    {
+      "id": "SU-128",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine gemeinsam ausgewählte Pflanze betrachten, bestimmen und benennen",
+      "after": "Dieselbe ausgewählte Pflanze und ihre sichtbaren Merkmale. Die Pflanzenwahl muss zu beiden Lehrplanausschnitten passen; Licht- und Schattenpflanzen sind nicht pauschal gleichgesetzt.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-12-LB6"
+      ]
+    },
+    {
+      "id": "SU-129",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Dieselbe ausgewählte Information zu einem konkreten Schulfest/einer Tradition aufnehmen und für andere darstellen",
+      "after": "Dieselbe ausgewählte Information zu einem konkreten Schulfest oder einer Schultradition. Bedingter Anschluss; vollständige Präsentation und Auswertung sind keine gemeinsame Anforderung.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-4-LB6",
+        "Q-FSP-DEHKS-12-LB3"
+      ]
+    },
+    {
+      "id": "SU-130",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Eine ausgewählte Tierart und ihr Lebensraum: Wo lebt das Tier und woran lässt sich das erkennen?",
+      "after": "Eine ausgewählte Tierart und ihr Lebensraum: Wo lebt das Tier und woran lässt sich das erkennen?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-12-LB6"
+      ]
+    },
+    {
+      "id": "SU-131",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Zwei ausgewählte Säugetiere vergleichen: Worin unterscheiden sie sich in ihrer Größe?",
+      "after": "Die Körpergröße zweier ausgewählter Waldsäugetiere aus der Umgebung. Bedingt abgeleiteter Teilaspekt, kein vollständiger Körperbauvergleich.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-12-LB6"
+      ]
+    },
+    {
+      "id": "SU-132",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Dieselbe dargestellte Gefahr im Straßenverkehr: Wodurch kann hier ein Unfall entstehen und welches Verhalten kann ihn vermeiden?",
+      "after": "Dieselbe dargestellte Gefahr im Straßenverkehr: Wodurch kann hier ein Unfall entstehen und welches Verhalten kann ihn vermeiden?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-133",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ein ausgewähltes Nutztier und ein daraus gewonnenes Lebensmittel oder ein Rohstoff: Welches Erzeugnis stammt von diesem Tier und welche Bedeutung hat es für Menschen?",
+      "after": "Ein ausgewähltes Nutztier und ein daraus gewonnenes Lebensmittel oder ein Rohstoff: Welches Erzeugnis stammt von diesem Tier und welche Bedeutung hat es für Menschen?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-27"
+      ]
+    },
+    {
+      "id": "SU-134",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Eine Freiarbeitsregel: Wurde sie in dieser Situation eingehalten?",
+      "after": "Eine Freiarbeitsregel: Wurde sie in dieser Situation eingehalten?",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB1",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-135",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ausgewählte Obstgehölze: Früchte anhand Form/Farbe/Größe unterscheiden oder zuordnen",
+      "after": "Eine gemeinsam ausgewählte Frucht eines Obstgehölzes und ihre Form, Farbe oder Größe. Bedingter Teilaspekt; Fruchtbildung und botanische Fruchtgruppen sind nicht mitabgedeckt.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-13",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-141",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine konkrete Straßenquerung: Zeichen beachten und sicher handeln",
+      "after": "Dieselbe konkrete Straßenquerung mit anderen Kindern: Zeichen und sicheres Verhalten.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB4",
+        "Q-FSP-DEHKS-12-LB5",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-142",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Eine konkrete Gefahrenstelle auf einem Radweg: Gefahr, Ursache und vorbeugendes Verhalten",
+      "after": "Eine konkrete Gefahrenstelle auf einem Radweg: Gefahr, Ursache und vorbeugendes Verhalten",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-12-WB8",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-143",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein Radfahrer fährt in einer engen Passage schnell an einer langsam fahrenden Person vorbei: Verhalten beobachten und über Rücksicht sprechen.",
+      "after": "Rücksicht zwischen Radfahrenden in derselben konkreten Verkehrssituation. Eigene Haltung und Bewertung fremden Verhaltens bleiben getrennte Anforderungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB8",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-144",
+      "subject": "Sachunterricht",
+      "decision": "retained",
+      "before": "Ein vorab geprüfter Abschnitt eines wichtigen Landkreis-Verkehrswegs in der Schulumgebung; konkrete Route und örtliche Belege noch ergänzen.",
+      "after": "Ein vorab geprüfter Abschnitt eines wichtigen Landkreis-Verkehrswegs in der Schulumgebung; konkrete Route und örtliche Belege noch ergänzen.",
+      "reason": "Bereits als gemeinsamer Text, Inhalt, Frage, Situation oder fachliche Beziehung geeignet; vorhandene Auswahlbedingungen bleiben erhalten.",
+      "source_ids": [
+        "Q-GS-SU-3-LB5-REGION",
+        "Q-FSP-DEHKS-34-LB5"
+      ]
+    },
+    {
+      "id": "SU-145",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Was verändert sich an einem Laubbaum im Herbst? Informationen in einem vorbereiteten Sachbuch und einem passenden digitalen Angebot finden.",
+      "after": "Dieselbe Information zu jahreszeitlichen Veränderungen eines Laubbaums aus traditionellen und digitalen Medien.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-FSP-DEHKS-12-LB6",
+        "Q-FSP-DEHKS-12-WB4"
+      ]
+    },
+    {
+      "id": "SU-146",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine gemeinsame Sachunterrichtsaufgabe mit Schrittkarte bearbeiten und das eigene Ergebnis an einem vorher vereinbarten Kriterium prüfen.",
+      "after": "Die Abfolge und Überprüfbarkeit der Schritte einer noch gemeinsam festzulegenden Sachunterrichtsaufgabe. Methodischer Anschluss über FSP-Bandziele.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-LB1",
+        "Q-GS-SU-12-WB1",
+        "Q-FSP-DEHKS-GESAMT"
+      ]
+    },
+    {
+      "id": "SU-147",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Wie teilen wir Material in der Freiarbeit? Eine verständliche Klassenregel dazu entwickeln.",
+      "after": "Eine gemeinsame Klassenregel zum Arbeitsverhalten bei Freiarbeit. Nur bei tatsächlich gewähltem GS-Wahlbereich 1.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12-WB1",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-148",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Gemeinsam ein Getränk oder ein Getreideprodukt für eine konkrete Mahlzeit auswählen; Auswahlkriterium und Angebot vorher festlegen.",
+      "after": "Dasselbe Getränk oder Getreideprodukt für eine konkrete Mahlzeit und ein vereinbartes Auswahlkriterium. Bedingter Teilaspekt der Lebensmittelwahl.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-12",
+        "Q-FSP-DEHKS-34-LB4",
+        "Q-FSP-DEHKS-34-LB6"
+      ]
+    },
+    {
+      "id": "SU-149",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Eine geeignete historische Anlage im Heimatort erkunden; ein Foto oder eine Informationstafel mit einem ausgewählten Merkmal früherer Nutzung verbinden.",
+      "after": "Dieselbe historische Anlage im Heimatort und eine belegte Information über ihre frühere Nutzung. Nur bei gewähltem FSP-Wahlbereich 3.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-34-WB3"
+      ]
+    },
+    {
+      "id": "SU-150",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Einen tatsächlich vorhandenen Spielplatz oder ein örtliches Freizeitangebot auswählen: Möchte ich dort meine Freizeit verbringen, und warum?",
+      "after": "Dasselbe tatsächlich vorhandene örtliche Freizeitangebot und seine Bedeutung für die eigene Freizeit.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-15",
+        "Q-FSP-DEHKS-34-LB3"
+      ]
+    },
+    {
+      "id": "SU-151",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Ein tatsächlich vorkommendes Wiesentier, etwa einen Schmetterling, gemeinsam beobachten; Körpermerkmal oder Bewegung beschreiben.",
+      "after": "Dasselbe tatsächlich vorkommende Wiesentier und ein ausgewähltes Körper- oder Bewegungsmerkmal.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-3-LB3",
+        "Q-FSP-DEHKS-12-LB6",
+        "Q-FSP-DEHKS-12-WB4"
+      ]
+    },
+    {
+      "id": "SU-152",
+      "subject": "Sachunterricht",
+      "decision": "reworded",
+      "before": "Am selben geeigneten Teich ausgewählte Pflanzen oder Ufertiere betrachten: GS vergleicht zwei Beispiele, FSP erzählt von einer konkreten Entdeckung.",
+      "after": "Dieselben ausgewählten Pflanzen oder Tiere an einem geeigneten Teich. Nur bei gewähltem FSP-Wahlbereich 4; Unterscheiden und Erzählen bleiben getrennte Anforderungen.",
+      "reason": "Gemeinsamen Gegenstand von Zielhandlung, Arbeitsauftrag oder Hilfsmittel getrennt beziehungsweise sprachlichen/fachlichen Fokus und Grenzen präzisiert.",
+      "source_ids": [
+        "Q-GS-SU-43",
+        "Q-FSP-DEHKS-12-WB4"
+      ]
+    }
+  ],
+  "validation": {
+    "data_checks": "update-mathematik.py, prepare-pages.py, check-deutsch.py, check-mathematik.py, test-mathematik-scope.py, check-fsp-info.py, check-learning-objects.py passed",
+    "preservation": "All five existing embedded subject/title/information payloads unchanged; Deutsch and Mathematik row audits and progress records unchanged. Subject card IDs, sources, goals, criteria and scopes preserved.",
+    "local_browser": "All 313 reviewed Deutsch/Sachunterricht cards: visible suggestion, explicit adoption, output, selected-card view, empty task/aid fields, preservation of teacher texts, reload and mobile320/390. Legacy area migration for SU-020 and SU-065 passed including subject switching.",
+    "regression_browser": "31 mathematics cards, connection picker in all three subjects and landing page passed",
+    "initial_failure": "Full inventory browser check exposed six previously unreachable Sachunterricht cards; selection fix documented above, full rerun passed",
+    "visual_review": "Mobile learning-object suggestion inspected"
+  },
+  "publication": {
+    "status": "pending"
+  },
+  "selection_fix": {
+    "previously_unreachable": [
+      "SU-126",
+      "SU-132",
+      "SU-133",
+      "SU-135",
+      "SU-151",
+      "SU-152"
+    ],
+    "cause": "Klassenfilter wertete ausschließlich eine bestimmte Schreibweise des Quelltextes aus.",
+    "fix": "Strukturierte gs_anchor_grade verwenden; übergreifende fachliche Ziele SU-020/SU-126 in Klasse3 und SU-065 in Klasse4 getrennt von Lernbereichen anbieten. Bestehende Auswahl bei Laden/Fachwechsel auf den korrekten Bereich abbilden.",
+    "curriculum_change": false
+  }
+}
