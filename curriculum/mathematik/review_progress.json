@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-020",
+  "last_batch": "MA-021",
   "complete": false,
   "counts": {
-    "cards": 29,
+    "cards": 31,
     "cross_band": 7
   },
   "source_plans": {
@@ -1321,10 +1321,54 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
       "version": "2019"
+    },
+    "page912_1862": {
+      "id": "page912_1862",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1862",
+      "version": "2026"
+    },
+    "page912_1863": {
+      "id": "page912_1863",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1863",
+      "version": "2026"
+    },
+    "page139_37885": {
+      "id": "page139_37885",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "version": "2019"
+    },
+    "page912_187061": {
+      "id": "page912_187061",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187061",
+      "version": "2026"
     }
   },
-  "next_id": "page912_1862",
-  "next_step": "GS1/2 Rechenstrategien: 1862 und 1863 (bekannte Aufgaben/Grundaufgaben), anschließend 187057 ff. gegen beide FSP-Bänder prüfen. MA-029 deckt 187056/1861 nur für Bildsituation → additive Gleichung bis didaktisch20. Weitere Darstellungen und Wechselrichtungen, Hinzufügen, Ergänzen und vergleichende Differenzbestimmung bleiben Restumfänge; sechs Anschlussfragen und frühere Restumfänge bewahren.",
+  "next_id": "page912_187057",
+  "next_step": "GS1/2 Rechenstrategien: 187057 (Verdoppeln), danach187058 (schrittweises Rechnen),187059/187060. Die fachlich mit1863 zusammenhängende Nachbarzeile187061 wurde in MA-021 bereits begrenzt geprüft; nicht erneut als neue Zielzeile zählen, ihre Restumfänge bleiben offen. Sechs Anschlussfragen und alle früheren Restumfänge bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1396,7 +1440,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_020.json",
+  "last_review_file": "review_batch_021.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1426,7 +1470,8 @@
         "page139_37885",
         "page139_35468",
         "page139_35485"
-      ]
+      ],
+      "follow_up_evidence": "MA-021 bestätigt die begrenzte Rechenübertragung einer bekannten Eineraddition bei zusätzlichem Zehner für GS1863 (Kennen). Ob und wie derselbe Rechenbeleg den Struktur-/Darstellungsanspruch von1849 unter Beherrschen trägt, bleibt gesondert zu prüfen; keine pauschale Erledigung der Stellenwertanalogien."
     },
     {
       "gs_id": "page912_187049",
@@ -1526,6 +1571,16 @@
       "gs_id": "page912_1861",
       "scope": "Weitere Lösungsansätze mittels Tabellen, Schaubildern, isolierten Termen, Ungleichungen, Platzhaltern an verschiedenen Positionen sowie weitere Sachsituationen und Zahlenraum oberhalb20. Ein Gleichungsansatz ist keine vollständige Deckung dieser Liste.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_1863",
+      "scope": "Weitere Rückführungen auf bekannte Aufgaben und Grundaufgaben, insbesondere Subtraktion, andere Stellenwertbeziehungen und größerer GS-Zahlenraum. MA-030 beschränkt den FSP-Weg auf einen zusätzlichen Zehner im ersten Summanden einer bekannten Eineraddition.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187061",
+      "scope": "Andere Änderungen der Summanden, Nachbaraufgaben in umgekehrter Richtung, Subtraktionsnachbarn und andere Hilfsaufgaben sowie GS-Zahlenraum über20. MA-031 umfasst nur Erhöhen des zweiten Summanden einer bekannten Addition um eins.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1541,7 +1596,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Teilinventur von 67 Zeilen: vier GS1/2-Blöcke und ausgewählte GS3/4-Zeilen. Block1857 bis einschließlich1861 begrenzt geprüft, Eltern1857/1858 nur Kontext; ab1862 offen. Inventur zählt nicht als fachlicher Prüffortschritt.",
+    "note": "67 inventarisierte Zeilen. Block1857 bis1863 begrenzt bzw. als Kontext geprüft; zusätzlich187061 als fachlich zusammenhängende Nachbarstrategie begrenzt geprüft. Ab187057 weitere Strategien offen;187061 bei Fortsetzung nicht erneut als neue Zeile zählen. Inventur ist kein fachlicher Prüffortschritt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

@@ -39,3 +39,25 @@ for c in reuse_cases:
 for c in cards.values():
     validate_reuse(c)
 print('PASS: reused GS evidence preserves parent/operator/source and separates coverage from context.')
+
+# A limit explicitly stated in a subordinate target must not be relabelled
+# as a stage-goal inference or moved to an unproven parent/sibling target.
+validate_range = checks['check_number_range_alignment']
+range_cases = []
+c = copy.deepcopy(cards['MA-030']); c['number_range_alignment']['fsp_source_id'] = 'page139_37851'; range_cases.append(c)
+c = copy.deepcopy(cards['MA-030']); c['number_range_alignment']['fsp_source_id'] = 'page139_37908'; range_cases.append(c)
+c = copy.deepcopy(cards['MA-030']); c['number_range_alignment']['fsp_basis'] = 'stage_goal_context'; range_cases.append(c)
+c = copy.deepcopy(cards['MA-030']); c['number_range_alignment']['fsp_max'] = 100; range_cases.append(c)
+c = copy.deepcopy(cards['MA-031']); c['fsp_scope']['source_ids'] = ['Q-MA-page139_37863']; range_cases.append(c)
+c = copy.deepcopy(cards['MA-031']); del c['number_range_alignment']['fsp_basis']; range_cases.append(c)
+c = copy.deepcopy(cards['MA-030']); c['number_range_alignment'].update(fsp_basis='stage_goal_context', fsp_source_id='page139_37739'); c['context_source_ids'] = ['Q-MA-page139_37739']; range_cases.append(c)
+for c in range_cases:
+    try:
+        validate_range(c)
+    except (AssertionError, KeyError):
+        pass
+    else:
+        raise AssertionError('Invalid target-row range provenance accepted: ' + c['id'])
+for c in cards.values():
+    validate_range(c)
+print('PASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.')

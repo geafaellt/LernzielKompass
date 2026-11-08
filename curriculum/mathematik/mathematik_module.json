@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-08.1",
+  "version": "MA-2026-11-08.2",
   "checked_on": "2026-11-08",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -758,6 +758,30 @@
       "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1862",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1862",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1863",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1863",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37885",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187061",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187061",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -3106,6 +3130,178 @@
         "context_only_gs_ids": [
           "page912_1857",
           "page912_1858"
+        ]
+      }
+    },
+    {
+      "id": "MA-030",
+      "subject": "Mathematik",
+      "theme": "Bekannte Eineraddition auf einen zusätzlichen Zehner übertragen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Bekannte Addition zum Erschließen einer Addition mit zusätzlichen Zehnern nutzen, als begrenzter Ausschnitt bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Rechenvorteil bei einem zusätzlichen Zehner im ersten Summanden; Bemerkungsbeispiel unter Einblick gewinnen, ausdrücklich bis 20",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg verändert den ersten Summanden einer bekannten Eineraddition um einen zusätzlichen Zehner; der zweite Summand bleibt gleich. Die Summe wächst entsprechend um einen Zehner. Das Wort Übertragen im FSP-Bemerkungsbeispiel bezeichnet den Rechenweg, keine zusätzliche amtliche Operatorstufe. Andere Stellenwertübertragungen, Subtraktion und allgemeines Zurückführen auf sämtliche Grundaufgaben bleiben offen. Die Anschlussfrage zu GS-Stellenwertanalogien1849 unter Beherrschen wird damit nicht pauschal abgeschlossen.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_1863"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_1863",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg verändert den ersten Summanden einer bekannten Eineraddition um einen zusätzlichen Zehner; der zweite Summand bleibt gleich. Die Summe wächst entsprechend um einen Zehner. Das Wort Übertragen im FSP-Bemerkungsbeispiel bezeichnet den Rechenweg, keine zusätzliche amtliche Operatorstufe. Andere Stellenwertübertragungen, Subtraktion und allgemeines Zurückführen auf sämtliche Grundaufgaben bleiben offen. Die Anschlussfrage zu GS-Stellenwertanalogien1849 unter Beherrschen wird damit nicht pauschal abgeschlossen.",
+      "shared_object_suggestion": "Bekannte Eineraddition auf einen zusätzlichen Zehner übertragen",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind nutzt das Ergebnis einer bekannten Eineraddition, um die entsprechende Addition mit zusätzlichen Zehnern im ersten Summanden im Zahlenraum bis 100 zu erschließen.",
+          "criterion": "Der zweite Summand bleibt gleich. Die Veränderung des ersten Summanden und die Veränderung der Summe entsprechen einander. Alle Ausgangszahlen, Summanden sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind nutzt das Ergebnis einer bekannten Eineraddition, um die entsprechende Addition mit einem zusätzlichen Zehner im ersten Summanden im Zahlenraum bis 20 zu erschließen.",
+          "criterion": "Der zweite Summand bleibt gleich; erster Summand und Summe wachsen jeweils um einen Zehner. Das Ergebnis wird aus der bekannten Addition abgeleitet. Alle Ausgangszahlen, Summanden sowie relevanten Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Die Grenze steht unmittelbar in 37885 (Probieren verschiedener Rechenwege und Nutzen von Rechenvorteilen). Sie wird nicht aus dem übergreifenden Bandziel abgeleitet. Die ausgewählte Veränderung einer bekannten Addition ist eine didaktische Konkretisierung eines Bemerkungsbeispiels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen. Ausgangszahlen, sämtliche Summanden und Summen sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch die neue Summe darf 20 nicht überschreiten. Nur ein zusätzlicher Zehner im ersten Summanden einer Eineraddition; der zweite Summand bleibt unverändert."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Strategie-Unterziel unter Kennen; 1857 und1862 sind Kontext, keine vollständige Zieldeckung.",
+        "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen; konkreter Rechenweg aus Bemerkung37885.",
+        "fsp_remark_anchor": "page139_37885",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
+        ]
+      }
+    },
+    {
+      "id": "MA-031",
+      "subject": "Mathematik",
+      "theme": "Additive Nachbaraufgabe aus bekanntem Ergebnis ableiten",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Nachbaraufgabe mit um eins größerem zweiten Summanden aus einer bekannten Addition bis 100 ableiten",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Additive Nachbarstrategie aus der Bemerkung zu Rechenvorteilen, ausdrücklich bis 20",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg erhöht bei einer bekannten Addition nur den zweiten Summanden um eins; entsprechend wächst die Summe um eins. Andere Änderungen von Summanden, die umgekehrte Richtung, Subtraktionsnachbarn und weitere Hilfsaufgaben bleiben offen. Die konkrete Nachbarstrategie wird nur dieser Karte zugeordnet; kein erneutes Zählen als vollständige Abdeckung der allgemeinen Strategiezeile1862.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187061"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187061",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg erhöht bei einer bekannten Addition nur den zweiten Summanden um eins; entsprechend wächst die Summe um eins. Andere Änderungen von Summanden, die umgekehrte Richtung, Subtraktionsnachbarn und weitere Hilfsaufgaben bleiben offen. Die konkrete Nachbarstrategie wird nur dieser Karte zugeordnet; kein erneutes Zählen als vollständige Abdeckung der allgemeinen Strategiezeile1862.",
+      "shared_object_suggestion": "Additive Nachbaraufgabe aus bekanntem Ergebnis ableiten",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind nutzt ein bekanntes Additionsergebnis, um das Ergebnis der Nachbaraufgabe mit um eins größerem zweiten Summanden im Zahlenraum bis 100 abzuleiten.",
+          "criterion": "Der erste Summand bleibt gleich. Der zweite Summand und die Summe wachsen jeweils um eins; das neue Ergebnis wird aus dem bekannten Ergebnis abgeleitet. Alle Ausgangszahlen, Summanden sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt und nutzt im Zahlenraum bis 20 den Zusammenhang zwischen einer bekannten Addition und ihrer Nachbaraufgabe mit um eins größerem zweiten Summanden.",
+          "criterion": "Der erste Summand bleibt gleich. Der zweite Summand und die Summe wachsen jeweils um eins; das Ergebnis wird aus der bekannten Addition abgeleitet. Alle Ausgangszahlen, Summanden sowie relevanten Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Die Grenze steht unmittelbar in 37885 (Probieren verschiedener Rechenwege und Nutzen von Rechenvorteilen). Sie wird nicht aus dem übergreifenden Bandziel abgeleitet. Die ausgewählte Veränderung einer bekannten Addition ist eine didaktische Konkretisierung eines Bemerkungsbeispiels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen. Ausgangszahlen, sämtliche Summanden und Summen sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch die neue Summe darf 20 nicht überschreiten. Nur Erhöhen des zweiten Summanden um eins; der erste Summand bleibt unverändert."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Strategie-Unterziel unter Kennen; 1857 und1862 sind Kontext, keine vollständige Zieldeckung.",
+        "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen; konkreter Rechenweg aus Bemerkung37885.",
+        "fsp_remark_anchor": "page139_37885",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
         ]
       }
     }

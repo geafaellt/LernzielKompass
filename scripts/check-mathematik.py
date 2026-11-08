@@ -81,6 +81,33 @@ def check_additional_gs_groups(card):
     return additional
 
 
+def check_number_range_alignment(card):
+    """Keep the range comparison tied to the precise target or stage-goal source."""
+    card_id = card['id']
+    number_range = card.get('number_range_alignment')
+    if number_range:
+        assert number_range.get('fsp_basis') in {None, 'stage_goal_context', 'target_row'}, card_id
+        assert number_range['fsp_max'] == card['fsp_scope']['max_value'], card_id
+        assert number_range['relation'] == 'reduced-fsp', card_id
+        assert 0 < number_range['fsp_max'] < number_range['gs_max'], card_id
+        assert number_range['full_gs_goal_covered'] is False, card_id
+        assert number_range['gs_source_id'] == card['gs_target_ids'][0], card_id
+        if number_range.get('fsp_basis') == 'stage_goal_context':
+            assert card['fsp_scope']['status'] == 'derived', card_id
+            assert 'Q-MA-' + number_range['fsp_source_id'] in card['fsp_scope']['source_ids'], card_id
+            assert 'Q-MA-' + number_range['fsp_source_id'] in card.get('context_source_ids', []), card_id
+        elif number_range.get('fsp_basis') == 'target_row':
+            assert number_range['fsp_source_id'] in card['fsp_target_ids'], card_id
+            assert card['fsp_scope']['status'] == 'explicit', card_id
+            assert 'Q-MA-' + number_range['fsp_source_id'] in card['fsp_scope']['source_ids'], card_id
+        else:
+            assert number_range['fsp_source_id'] == card['fsp_target_ids'][0], card_id
+        assert card['content_review_required'] and number_range['notice'] in card['app_review_message'], card_id
+        for side in ['gs', 'fsp']:
+            displayed_max = f"{number_range[side + '_max']:,}".replace(',', ' ')
+            assert displayed_max in number_range['notice'], card_id
+
+
 used_anchors = set()
 used_sources = set()
 for card in cards:
@@ -91,20 +118,7 @@ for card in cards:
     assert [g['track'] for g in card['fine_goals']] == ['Grundschule', 'FSP Lernen'], card_id
     assert all(g['goal'] and g['criterion'] for g in card['fine_goals']), card_id
     assert card['app_review_message'] and card['operator_relation'], card_id
-    number_range = card.get('number_range_alignment')
-    if number_range:
-        assert number_range['relation'] == 'reduced-fsp', card_id
-        assert 0 < number_range['fsp_max'] < number_range['gs_max'], card_id
-        assert number_range['full_gs_goal_covered'] is False, card_id
-        assert number_range['gs_source_id'] == card['gs_target_ids'][0], card_id
-        if number_range.get('fsp_basis') == 'stage_goal_context':
-            assert 'Q-MA-' + number_range['fsp_source_id'] in card.get('context_source_ids', []), card_id
-        else:
-            assert number_range['fsp_source_id'] == card['fsp_target_ids'][0], card_id
-        assert card['content_review_required'] and number_range['notice'] in card['app_review_message'], card_id
-        for side in ['gs', 'fsp']:
-            displayed_max = f"{number_range[side + '_max']:,}".replace(',', ' ')
-            assert displayed_max in number_range['notice'], card_id
+    check_number_range_alignment(card)
     stage = card['stage_alignment']
     gs_grade = stage['gs_anchor_grade']
     fsp_band, = stage['fsp_curriculum_bands']

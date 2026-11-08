@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-020
+# Mathematik-Abgleich · MA-021
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Neunundzwanzig Karten dokumentieren begrenzte Anschlüsse. Zweiundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einunddreißig Karten dokumentieren begrenzte Anschlüsse. Vierundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -264,3 +264,18 @@ Korrektur zu MA-019: Der alternative FSP-3/4-Unterpunkt 35479 steht unter Übert
 Zwei weitere GS-Zeilen begrenzt geprüft, eine neue Karte; keine Doppelzählung der gemeinsamen Karte oder der Elternziele. Bestand 29 Karten, davon sieben stufenübergreifend; 108 Quellenlinks (106 Zielanker, zwei Kontextquellen), weiterhin 67 inventarisierte Zeilen. Fortsetzung bei 1862/1863 (Rechenstrategien, bekannte Aufgaben). Sechs offene Anschlussfragen und bisherige Restumfänge bleiben erhalten. Prüf- und Veröffentlichungsnachweise: review_batch_020.json.
 
 Datenprüfungen, Zahlenraumregressionen und lokaler Browserdurchlauf aller 29 Mathematikkarten bestanden. Die zehn Fälle der Informationsübersicht wurden ebenfalls im Browser erfolgreich geprüft. App 1.325 wurde mit Commit f9acf8f2315ff19b43f54f1a48347f6382a8c80a auf main veröffentlicht; [Pages-Lauf 42462093033](https://github.com/geafaellt/LernzielKompass/actions/runs/42462093033) ist erfolgreich. Die öffentliche App stimmt bytegenau mit der geprüften Fassung überein. Nach anfänglichen Ladezeitüberschreitungen bestanden beide öffentlichen Browserprüfungen bei der Wiederholung. Die vollständigen Nachweise einschließlich Wiederholungen stehen im Prüfpaket.
+
+
+## MA-021 · Bekannte Additionen nutzen · App 1.326
+
+MA-030 begrenzt GS 1863 auf das Ableiten einer Addition mit zusätzlichem Zehner aus einer bekannten Eineraddition. MA-031 begrenzt GS 187061 auf eine additive Nachbaraufgabe mit um eins größerem zweiten Summanden. Der Nachbarpunkt wird als fachlich zusammenhängender Teil dieses Pakets vorgezogen; bei der späteren Fortsetzung wird er nicht erneut als neue Zielzeile gezählt. GS 1862 bleibt Kontext für die einzelnen Strategien.
+
+Beide Karten verwenden den passenden FSP-Bandanschluss 1/2: Einblick gewinnen (37851), Rechenvorteile bis 20 (37885). Die konkreten Wege stammen aus der Bemerkung. Der Zahlenraum bis 20 steht hier ausdrücklich in der Unterzielzeile; er wird nicht aus dem Bandziel abgeleitet. Ausgangszahlen, Summanden, Zwischen- und Endergebnisse einschließlich der veränderten Summe bleiben darin. Der GS-Rahmen bis 100 wird nicht vollständig gedeckt. Aufgaben und Hilfsmittel werden nicht ergänzt.
+
+Die FSP-3/4-Alternative 35485 unter Übertragen (35470) wurde geprüft, aber nicht allein wegen größerem Zahlenraum oder allgemeinerer Formulierung bevorzugt. Das Wort Übertragen im FSP-1/2-Bemerkungsbeispiel bezeichnet den Rechenweg, keine neue Operatorstufe. Die bisherige Anschlussfrage 1849 zu Stellenwertanalogien unter GS-Beherrschen bleibt separat, mit Hinweis auf den neuen begrenzten Rechenbeleg. Alle 29 bisherigen Karten bleiben unverändert.
+
+Die Zahlenraumprüfung unterstützt nun auch ausdrücklich belegte Grenzen aus Unterzielzeilen. Sie verlangt dafür einen zur Karte gehörenden Zielanker und denselben Beleg im FSP-Geltungsbereich; Verwechslungen mit übergreifenden Bandzielen oder unbelegten Elternzeilen werden geprüft.
+
+Zwei GS-Zeilen begrenzt geprüft, zwei neue Karten. Bestand 31 Karten, davon sieben stufenübergreifend;112 Quellenlinks (110 Zielanker, zwei Kontextquellen), weiterhin 67 inventarisierte Zeilen. Andere Rückführungen, Subtraktions- und Nachbarvarianten bleiben Restumfänge. Fortsetzung bei 187057 (Verdoppeln), anschließend 187058–187060; sechs Anschlussfragen bleiben offen. Prüf- und Veröffentlichungsnachweise: review_batch_021.json.
+
+Datenprüfungen, erweiterte Zahlenraumregressionen und lokaler Browserdurchlauf aller 31 Mathematikkarten bestanden. Auch die bestehende Informationsübersicht und der Erhalt eigener Entwürfe wurden erfolgreich geprüft. Veröffentlichungsnachweise werden im Prüfpaket dokumentiert.
