@@ -1,0 +1,14 @@
+{
+  "app_version": "1.338",
+  "base_commit": "6a99291c85e90c2f3671451ad12cd41e1c430a0e",
+  "change": "Anschlussstellenmodell: Lehrplan der Grund-/Oberschule; Planungsspur Grund-/Oberschule. Nur zwei Modellbeschriftungen geändert.",
+  "validation": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope",
+    "preservation": "exact two-label change plus app version; all curricula, cards, goals, criteria, scopes and application logic unchanged",
+    "startpage": "passed landing gate, keyboard/focus, draft preservation, mobile320/390, print and no-JS; desktop and mobile screenshots inspected",
+    "mathematics_browser": "passed all36 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, teacher drafts, subject isolation and mobile"
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
