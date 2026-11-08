@@ -12,7 +12,8 @@
   "service_verification": {
     "public_form": "published and visually inspected; German, required/optional fields checked, reCAPTCHA present",
     "email_notifications": "enabled, saved and verified after reload; destination matches user-confirmed account email",
-    "mailbox_delivery": "not verified: no test submission or inbox access"
+    "mailbox_delivery": "user confirmed receipt after successful live test submission",
+    "test_submission": "submitted by the user; public form displayed confirmation and thank-you text"
   },
   "validation": {
     "checks": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope",
@@ -21,6 +22,12 @@
     "visual": "mobile dialog inspected"
   },
   "publication": {
-    "status": "pending"
+    "status": "verified",
+    "commit": "f2aecfb2be19e4dc2ad314bb1e4ccb166f322c4b",
+    "pages_run": 42469746545,
+    "pages_result": "completed success",
+    "delivered_html": "byte-identical to checked local index.html and dist/index.html",
+    "public_browser": "passed feedback access, keyboard/focus, mobile320/390, no background Tally requests and no draft transfer",
+    "url": "https://geafaellt.github.io/LernzielKompass/"
   }
 }
