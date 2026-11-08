@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-08.3",
+  "version": "MA-2026-11-08.4",
   "checked_on": "2026-11-08",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -781,6 +781,12 @@
       "id": "Q-MA-page912_187061",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187061",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187058",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · schrittweises Rechnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187058",
       "version": "2026"
     }
   ],
@@ -3299,6 +3305,92 @@
         "gs": "Verbindliches Strategie-Unterziel unter Kennen; 1857 und1862 sind Kontext, keine vollständige Zieldeckung.",
         "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen; konkreter Rechenweg aus Bemerkung37885.",
         "fsp_remark_anchor": "page139_37885",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
+        ]
+      }
+    },
+    {
+      "id": "MA-032",
+      "subject": "Mathematik",
+      "theme": "Schrittweise Addition über die Zehn",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenweg didaktisch konkretisiert",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Schrittweises Addieren bis 100, begrenzt auf den Weg über den nächsten Zehner",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Addition mit Zehnerüberschreitung und Rechenwege bis 20; Ergänzen zur Zehn und Zerlegen als Bemerkungsbezüge",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss. GS verlangt Kennen, FSP Einblick gewinnen. FSP 37863 nennt Addition/Subtraktion mit Zehnerüberschreitung; Ergänzen zur Zehn, Zerlegen und individuelle Lösungsschritte stehen in der Bemerkung. FSP 37885 nennt Rechenwege/Rechenvorteile bis 20 und Mengenzerlegung als Bemerkung. Die Verbindung zum Zweischrittweg ist eine didaktische Konkretisierung dieser zusammengehörigen Inhalte, keine wörtliche FSP-Zweischrittvorschrift. FSP 3/4 nennt in 35485 das Nacheinanderausführen von Teilschritten ausdrücklich als Bemerkung unter Übertragen (35470); der belegte stufenbandpassende Teilanschluss wird bevorzugt. FSP konkretisiert zwei positive einstellige Summanden mit Summe über zehn: zunächst zur Zehn, dann der Rest. Subtraktion, andere Zerlegungen, mehrere Wege, selbstständige Strategiewahl, Protokollieren und sämtliche GS-Zahlen bis 100 werden nicht vollständig abgedeckt. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187058"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187058",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss. GS verlangt Kennen, FSP Einblick gewinnen. FSP 37863 nennt Addition/Subtraktion mit Zehnerüberschreitung; Ergänzen zur Zehn, Zerlegen und individuelle Lösungsschritte stehen in der Bemerkung. FSP 37885 nennt Rechenwege/Rechenvorteile bis 20 und Mengenzerlegung als Bemerkung. Die Verbindung zum Zweischrittweg ist eine didaktische Konkretisierung dieser zusammengehörigen Inhalte, keine wörtliche FSP-Zweischrittvorschrift. FSP 3/4 nennt in 35485 das Nacheinanderausführen von Teilschritten ausdrücklich als Bemerkung unter Übertragen (35470); der belegte stufenbandpassende Teilanschluss wird bevorzugt. FSP konkretisiert zwei positive einstellige Summanden mit Summe über zehn: zunächst zur Zehn, dann der Rest. Subtraktion, andere Zerlegungen, mehrere Wege, selbstständige Strategiewahl, Protokollieren und sämtliche GS-Zahlen bis 100 werden nicht vollständig abgedeckt. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung.",
+      "shared_object_suggestion": "Eine Summe in zwei Schritten: der Ergänzungsteil zum nächsten Zehner und der verbleibende Rest.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert an einer vertrauten Addition bis 100 den Weg über den nächsten Zehner und bestimmt die Summe in diesen beiden Schritten.",
+          "criterion": "Bei Addition eines positiven einstelligen zweiten Summanden über einen Zehnerübergang zerlegt sich dieser in den Ergänzungsteil zum nächsten Zehner und den Rest. Beide Teilbeträge ergeben den zweiten Summanden; Zwischensumme und Endsumme stimmen. Alle Summanden, Teilbeträge sowie Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vollzieht bei einer Addition zweier positiver einstelliger Summanden mit Zehnerüberschreitung den Weg zur Zehn und anschließend mit dem Rest im Zahlenraum bis 20 nach.",
+          "criterion": "Der Ergänzungsteil führt zur Zwischensumme zehn; Ergänzungsteil und Rest ergeben zusammen den zweiten Summanden. Der anschließende Rest führt zur passenden Endsumme. Alle Ausgangszahlen, Summanden, Teilbeträge sowie Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung; keine selbstständige Wahl zwischen mehreren Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Bis 20 steht ausdrücklich in Unterziel 37885 unter Einblick gewinnen (37851). Ergänzen zur Zehn und Zerlegen stammen aus der Bemerkung zu 37863. Der konkret begrenzte Zweischrittweg wird didaktisch aus diesem Additions-/Strategiezusammenhang abgeleitet; die Zahlenraumgrenze selbst ist ausdrücklich belegt.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Zwei positive einstellige Summanden mit Summe größer als zehn und höchstens 20. Ergänzungsteil und Rest ergeben den zweiten Summanden; erster Schritt zur Zwischensumme zehn, zweiter Schritt mit dem Rest. Sämtliche Ausgangszahlen, Summanden, Teilbeträge, Zwischen- und Endergebnisse bleiben bis 20. Keine negative Differenz und kein Überschreiten der Grenze durch die Endsumme."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Unterziel schrittweises Rechnen unter Kennen (1857); konkreter Additionsweg über den Zehner aus Bemerkung187058. 1857/1862 sind Kontext.",
+        "fsp": "Addition mit Zehnerüberschreitung und Rechenwege bis20 als Zielzeilen unter Einblick gewinnen. Ergänzen zur Zehn/Zerlegen/individuelle Lösungsschritte aus Bemerkung37863; Teilmengenzerlegung aus Bemerkung37885. Zweischrittverknüpfung didaktisch, nicht als wörtliche Vorgabe ausgeben.",
+        "fsp_remark_anchor": "page139_37863",
         "context_only_gs_ids": [
           "page912_1857",
           "page912_1862"

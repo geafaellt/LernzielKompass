@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-021
+# Mathematik-Abgleich · MA-022
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einunddreißig Karten dokumentieren begrenzte Anschlüsse. Vierundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Zweiunddreißig Karten dokumentieren begrenzte Anschlüsse. Fünfundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung beim Operationsverständnis Addition/Subtraktion (page912_1857). Sechs Anschlussfragen sowie dokumentierte Teilumfänge des ersten Blocks bleiben offen. [Prüfpaket MA-018](review_batch_018.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei Tauschaufgaben (page912_187059), danach Umkehraufgaben (187060). Sieben Anschlussfragen einschließlich Verdoppeln als Rechenstrategie (187057) und bisherige Restumfänge bleiben offen. [Prüfpaket MA-022](review_batch_022.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -286,3 +286,14 @@ Datenprüfungen, erweiterte Zahlenraumregressionen und lokaler Browserdurchlauf 
 Alle 31 Vorschläge waren identisch mit den Kartentiteln. Sie benennen jetzt die gemeinsame mathematische Sache oder Beziehung, etwa „Zehner und Einer – der Aufbau einer zweistelligen Zahl und die Werte ihrer beiden Stellen“. Verfahrenskarten behalten ihren konkreten Verfahrensbezug. Gleiche Gegenstände können bei verschiedenen GS-Stufen gleich formuliert sein; Zahlenräume, Operatoren und Feinziele bleiben getrennt. Die Vorschläge sind didaktische Konkretisierungen und keine neuen amtlichen Ziele oder Aufgaben. Eigene Texte werden weiterhin nur nach ausdrücklicher Übernahme ersetzt.
 
 [Formulierungsprüfung aller 31 Karten](review_learning_objects_001.json) mit Vorher/Nachher, Grenzen und bestehenden Quellenankern. Keine neue Anschlusskarte oder geprüfte Zielzeile; Zeilenaudit, Fortschrittszähler und Fortsetzung MA-021 / page912_187057 bleiben unverändert.
+
+
+## MA-022 · Schrittweise Addition und offene Verdoppelstrategie · App 1.331
+
+MA-032 verbindet GS187058 mit FSP1/2: Addition mit Zehnerüberschreitung (37863) und Rechenwege bis20 (37885), unter Einblick gewinnen (37851). Ergänzen zur Zehn, Zerlegen und individuelle Lösungsschritte stehen in den Bemerkungen; der konkrete Zweischrittweg ist ausdrücklich eine didaktische Konkretisierung. GS verlangt Kennen unter1857. FSP3/4 nennt Nacheinanderausführen von Teilschritten ausdrücklich in der Bemerkung35485 unter Übertragen35470; der tragfähige stufenbandpassende Teilanschluss wird bevorzugt.
+
+Der FSP-Zahlenraum bis20 ist in37885 ausdrücklich belegt. Zwei positive einstellige Summanden mit Zehnerüberschreitung, Ergänzungsteil, Rest, Zwischensumme und Endsumme bleiben darin. GS bis100 ist nicht vollständig gedeckt. Subtraktion, andere Wege, Strategiewahl und Protokollieren bleiben außerhalb. Der gemeinsame Lerngegenstand benennt Ergänzungsteil und Rest; keine Aufgaben oder Hilfsmittel werden ergänzt.
+
+Verdoppeln187057 bleibt eine eigene Anschlussfrage. MA-011 belegt bereits Verdoppeln von Mengen/Zahlbeziehungen unter GS-Beherrschen; die Übernahme in den GS-Kennen-Strategiekontext wird nicht automatisch behauptet. Beide FSP-Bänder wurden geprüft, positive Inhaltsbezüge sind erhalten. Das ist keine pauschale Nichtanschlussentscheidung und kein Ausschluss wegen Zahlenraum.
+
+Eine Zielzeile begrenzt zugeordnet, eine zusätzliche Anschlussfrage offen; keine neue vollständig erledigte Zeile.32 Karten, sieben stufenübergreifend,113 Quellenlinks (111 Zielanker, zwei Kontextquellen), weiterhin67 Inventurzeilen und nun sieben Anschlussfragen. Bestehende31 Karten einschließlich Zahlenraumgrenzen und Lerngegenständen unverändert. Fortsetzung187059/187060;187061 nicht erneut zählen. Prüf- und Veröffentlichungsnachweise: review_batch_022.json.

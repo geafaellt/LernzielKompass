@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-021",
+  "last_batch": "MA-022",
   "complete": false,
   "counts": {
-    "cards": 31,
+    "cards": 32,
     "cross_band": 7
   },
   "source_plans": {
@@ -1365,10 +1365,23 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187061",
       "version": "2026"
+    },
+    "page912_187058": {
+      "id": "page912_187058",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187058",
+      "version": "2026",
+      "target": "schrittweises Rechnen",
+      "remarks": "differente Wege unter Nutzung von Material erarbeiten Eignung eines Rechenweges erkennen 7 + 9 = 7 + 3 + 6 Lösungswege am Rechenstrich protokollieren"
     }
   },
-  "next_id": "page912_187057",
-  "next_step": "GS1/2 Rechenstrategien: 187057 (Verdoppeln), danach187058 (schrittweises Rechnen),187059/187060. Die fachlich mit1863 zusammenhängende Nachbarzeile187061 wurde in MA-021 bereits begrenzt geprüft; nicht erneut als neue Zielzeile zählen, ihre Restumfänge bleiben offen. Sechs Anschlussfragen und alle früheren Restumfänge bewahren.",
+  "next_id": "page912_187059",
+  "next_step": "GS1/2 Tauschaufgaben187059 und Umkehraufgaben187060 prüfen.187061 bereits in MA-021 begrenzt geprüft, nicht neu zählen. Verdoppeln187057 bleibt als neue Anschlussfrage offen; insgesamt sieben Anschlussfragen und alle früheren Restumfänge bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1440,7 +1453,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_021.json",
+  "last_review_file": "review_batch_022.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1488,6 +1501,25 @@
         "page139_37871",
         "page139_35468"
       ]
+    },
+    {
+      "gs_id": "page912_187057",
+      "scope": "Verdoppeln als Strategie zum Lösen von Additions-/Subtraktionsaufgaben, abgegrenzt vom bereits belegten Verdoppeln von Mengen und Zahlbeziehungen.",
+      "status": "offen",
+      "reason": "Positiver inhaltlicher FSP3/4-Beleg35437 und MA-011 bleiben erhalten. Der Strategiebezug zu GS187057 unter Kennen ist gegenüber dem Mengen-/Zahlbeziehungsbezug unter Beherrschen noch gesondert zu entscheiden. FSP1/2 nennt Rechenwege und Grundaufgaben, aber nicht ausdrücklich eine additive Verdoppelstrategie; FSP3/4 nennt Verdoppeln im Verteilungskontext und gleiche Summanden im Multiplikationskontext. Keine pauschale Nichtanschlussentscheidung und kein Ausschluss wegen Zahlenraum.",
+      "candidate_ids": [
+        "page139_37863",
+        "page139_37869",
+        "page139_37885",
+        "page139_35435",
+        "page139_35437",
+        "page139_35439",
+        "page139_35440",
+        "page139_35442",
+        "page139_35475",
+        "page139_35485"
+      ],
+      "follow_up": "Prüfen, ob der ausdrückliche Verdoppelbeleg einen didaktisch begrenzten additiven Strategiezugang trägt; tatsächliche Hauptoperatoren und Verteilungskontext erhalten. MA-011 nicht ungeprüft mit anderem GS-Hauptoperator wiederverwenden oder doppelt zählen."
     }
   ],
   "remaining_scopes": [
@@ -1581,6 +1613,11 @@
       "gs_id": "page912_187061",
       "scope": "Andere Änderungen der Summanden, Nachbaraufgaben in umgekehrter Richtung, Subtraktionsnachbarn und andere Hilfsaufgaben sowie GS-Zahlenraum über20. MA-031 umfasst nur Erhöhen des zweiten Summanden einer bekannten Addition um eins.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187058",
+      "scope": "Subtraktion, andere Zerlegungen oder Reihenfolgen, mehrere Wege und selbstständige Strategiewahl sowie GS-Zahlenraum oberhalb20. MA-032 konkretisiert FSP1/2 nur den Additionsweg über die Zehn mit zwei positiven einstelligen Summanden; keine vollständige Zieldeckung.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1596,7 +1633,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "67 inventarisierte Zeilen. Block1857 bis1863 begrenzt bzw. als Kontext geprüft; zusätzlich187061 als fachlich zusammenhängende Nachbarstrategie begrenzt geprüft. Ab187057 weitere Strategien offen;187061 bei Fortsetzung nicht erneut als neue Zeile zählen. Inventur ist kein fachlicher Prüffortschritt.",
+    "note": "67 inventarisierte Zeilen.187058 als Zweischrittaddition begrenzt geprüft;187057 als offene Strategie-Anschlussfrage dokumentiert, nicht abgeschlossen.187061 bereits MA-021. Fortsetzung187059/187060; keine zusätzliche Inventur oder Doppelzählung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
