@@ -318,10 +318,17 @@
     "data_checks": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
     "disclosures_browser": "passed: all349 cards,36 deduplicated mathematics warnings, sources and keyboard interaction, drafts, mobile320/390",
     "browser_local": "passed: all36 cards with unchanged assertions in check-mathematik-browser.cjs; visible scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved teacher drafts, mobile. After two default-run timing failures (button stability/scrolling), rerun passed with background throttling disabled and timeout60s; no forced clicks or skipped assertions.",
-    "browser_live": "pending"
+    "browser_live": "passed: all36 cards on public Pages version1.337; scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved teacher drafts, subject isolation and mobile. Same unchanged assertions, background throttling disabled."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.337"
+    "status": "success",
+    "app_version": "1.337",
+    "commit": "ad4698fa3c27e6507cdf0ef0fc1fcafc883677d7",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42486092319",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "75a62081d79a88bcc99723f505e05b65d22d16435181d4134fe0b3c1d2cd87c1",
+    "live_browser": "passed:36 cards"
   }
 }
