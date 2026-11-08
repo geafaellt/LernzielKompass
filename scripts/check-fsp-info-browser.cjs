@@ -10,6 +10,7 @@ const data=require(resolve('curriculum/fsp-rueckwaerts/teacher_info.json'));
  page.on('pageerror',e=>errors.push(e.message));
  await page.goto(process.env.LZK_APP_URL||pathToFileURL(resolve('index.html')).href,{waitUntil:'domcontentloaded'});
  await page.locator('#runtimeStatus').waitFor({state:'hidden'});
+ await page.locator('#startPlanning').click();
  await page.selectOption('#subject','Mathematik');
  await page.locator('#next').click();
  await page.locator('#baseline').fill('Mein unveränderter Lehrkraftentwurf');

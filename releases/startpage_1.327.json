@@ -1,0 +1,21 @@
+{
+  "app_version": "1.327",
+  "base_commit": "d9846d378a0b7ba5e08dd9247df162586244e5fc",
+  "model_source": {
+    "filename": "Anschlussstellenmodell_lernzieldifferente_Unterrichtsplanung_praezisiert_v2.pptx",
+    "slide": 1,
+    "sha256": "f45d3b5f855196ee9a81fa481133326bb0d2d20c3b81bb9efb768315a4c90d2f",
+    "adaptation": "Read-only HTML model for current GS scope: both curricula, curricular connection, shared learning object, two planning tracks (fine goal, task/action, scaffolding, criteria), common phases/consolidation, overarching prerequisites/resources/barriers. Original file not published."
+  },
+  "curriculum_changes": false,
+  "tests": {
+    "data": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-fsp-info",
+    "preservation": "passed: all curricular, card-title and teacher-information payloads byte-identical; original introduction retained; unique DOM ids and planner containment verified",
+    "startpage_local": "passed: explicit gate, model labels, concise visible text, keyboard/focus, selection-first entry, return/reload draft preservation, mobile320/390, print and no-JS fallback",
+    "visual_review": "passed: desktop and mobile screenshots inspected",
+    "fsp_info_local": "passed:10 cases, source links, filters, mobile and draft preservation",
+    "mathematics_local": "passed:31 cards, scope in cards/goals/output, source links, adoption, empty task/aid fields, teacher drafts, subject isolation, mobile",
+    "public_browser": "pending"
+  },
+  "publication": "pending"
+}

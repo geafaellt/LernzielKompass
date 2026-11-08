@@ -13,6 +13,7 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   const base = process.env.LZK_APP_URL || pathToFileURL(resolve('index.html')).href;
   await page.goto(base, {waitUntil:'domcontentloaded'});
   await page.locator('#runtimeStatus').waitFor({state:'hidden'});
+  await page.locator('#startPlanning').click();
   assert.equal(await page.title(),readFileSync(resolve('index.html'),'utf8').match(/<title>(.*?)<\/title>/)[1]);
   await page.selectOption('#subject','Mathematik');
   for (const grade of ['1','2','3','4']) {
@@ -86,6 +87,7 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   assert.equal(await page.inputValue('#topic'),card.id);
   assert.equal(await page.inputValue('#goalGS'),card.fine_goals[0].goal);
   await page.reload({waitUntil:'domcontentloaded'});
+  await page.locator('#startPlanning').click();
   assert.equal(await page.inputValue('#subject'),'Mathematik');
   assert.equal(await page.inputValue('#topic'),card.id);
   await page.locator('#next').click();
@@ -98,6 +100,7 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   assert.equal(await page.inputValue('#goalFSP'),'Eigener unveränderter Entwurf');
   assert.equal(await page.inputValue('#taskFSP'),'Eigene Aufgabenentscheidung');
   await page.reload({waitUntil:'domcontentloaded'});
+  await page.locator('#startPlanning').click();
   assert.equal(await page.inputValue('#goalFSP'),'Eigener unveränderter Entwurf');
   assert.equal(await page.inputValue('#taskFSP'),'Eigene Aufgabenentscheidung');
   await page.locator('#next').click();
