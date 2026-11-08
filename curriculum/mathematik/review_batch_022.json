@@ -348,10 +348,18 @@
     "finite_scope_check": "passed: all36 pairs of positive one-digit summands with sum above10 satisfy positive complement/rest, correct intermediate10 and final sum within20; no example tasks inserted into app",
     "data_checks": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
     "browser_local": "passed: all32 mathematics cards including scope/source links, separate goal adoption, shared-object adoption/output, empty tasks/aids, teacher drafts, subject isolation and mobile",
-    "picker_browser_local": "passed in all three subjects"
+    "picker_browser_local": "passed in all three subjects",
+    "browser_live": "passed: all32 mathematics cards, shared-object and goal adoption, scope/source links in cards/goals/output, empty task/aid fields, teacher drafts, subject isolation and mobile"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.331"
+    "status": "success",
+    "app_version": "1.331",
+    "commit": "165fa992bb4160b33f9a2d82a389ff2e48fdc034",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42467586448",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "15f30fe2bf5021fd0ac63bbd4050e64802d881ef1b697c5eee52efee76c22a3b",
+    "live_browser": "passed:32 cards"
   }
 }
