@@ -1,0 +1,327 @@
+{
+  "id": "MA-024",
+  "date": "2026-11-08",
+  "base_commit": "6303eb5cc0815b35b244bf08bae931cf9314cde7",
+  "scope": "Additive Aufgabenfamilien und Subtraktion durch Ergänzen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1857",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1857",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1857",
+      "version": "2026",
+      "target": "Kennen der Addition und Subtraktion im Zahlenraum bis 100",
+      "remarks": "Operationsverständnis"
+    },
+    {
+      "id": "page912_1862",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1862",
+      "version": "2026",
+      "target": "Lösen von Additions- und Subtraktionsaufgaben im Zahlenraum bis 100 durch Nutzen von Strategien",
+      "remarks": "gestütztes Kopfrechnen bzw. halbschriftliches Rechnen"
+    },
+    {
+      "id": "page912_187062",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187062",
+      "version": "2026",
+      "target": "Aufgabenfamilien",
+      "remarks": ""
+    },
+    {
+      "id": "page912_187063",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187063",
+      "version": "2026",
+      "target": "Ergänzungen",
+      "remarks": "11 – 7 = ___ ⇒ 7 + ___ = 11"
+    },
+    {
+      "id": "page912_187064",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187064",
+      "version": "2026",
+      "target": "gegensinniges und gleichsinniges Verändern",
+      "remarks": "76 – 28 = 78 – 30 = 48"
+    },
+    {
+      "id": "page139_37851",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "version": "2019",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten"
+    },
+    {
+      "id": "page139_37863",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "version": "2019",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter"
+    },
+    {
+      "id": "page139_37869",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37869",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "version": "2019",
+      "operator": ""
+    },
+    {
+      "id": "page139_37885",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "version": "2019",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11"
+    },
+    {
+      "id": "page139_35439",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "version": "2019",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen"
+    },
+    {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "version": "2019",
+      "operator": ""
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "version": "2019",
+      "operator": "Übertragen"
+    },
+    {
+      "id": "page139_35475",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Aufgaben des Einspluseins im Zahlenraum bis 20",
+      "remarks": "Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter, Kettenaufgaben gedächtnismäßiges Beherrschen der Aufgaben mit Überschreiten des Zehners",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "version": "2019",
+      "operator": ""
+    },
+    {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "version": "2019",
+      "operator": ""
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "version": "2019",
+      "operator": ""
+    }
+  ],
+  "new_cards": [
+    "MA-035",
+    "MA-036"
+  ],
+  "existing_cards_rechecked": [
+    "MA-028",
+    "MA-032",
+    "MA-033",
+    "MA-034"
+  ],
+  "existing_card_decisions": {
+    "MA-028": "Wegnehmen/Restmenge bleibt Operationsvorstellung; nicht automatisch Ergänzungsverfahren.",
+    "MA-032": "Ergänzung bis 10 als Teilschritt einer Addition bleibt getrennt vom Ergänzen als Subtraktionsstrategie.",
+    "MA-033": "Einzelne Tauschbeziehung unverändert; MA-035 erfasst die verknüpfte Familie.",
+    "MA-034": "Einzelne Subtraktion aus bekannter Addition unverändert; MA-035 verknüpft vier Beziehungen, MA-036 geht von einer gesuchten Differenz aus. Historischer Restumfang durch Folgehinweis ergänzt, kein Abschluss der ganzen Zeile."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187062",
+      "status": "partially_reviewed",
+      "card": "MA-035",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869",
+        "page139_37885"
+      ],
+      "cross_band_candidates": [
+        "page139_35439",
+        "page139_35442",
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS-Operator Kennen aus 1857; FSP-Operator Einblick gewinnen aus 37851. Die FSP-Zielzeile 37885 begrenzt Rechenwege und Rechenvorteile ausdrücklich auf 20; konkrete Beziehungen stammen aus ihrer Bemerkung. FSP 3/4 nennt additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen (35470), aber keinen für diese Ausschnitte erforderlichen besser passenden Anschluss. Die Vierergruppen in 35442 unter Kennen (35439) betreffen Multiplikation und Division und belegen keine additive Aufgabenfamilie. Die FSP-Bemerkung 37885 enthält zwei vertauschte Additionen und beide zugehörigen Subtraktionen derselben drei Zahlen. Ihre Zusammenfassung als additive Aufgabenfamilie ist eine beleggestützte didaktische Konkretisierung, kein wörtlich benanntes FSP-Unterziel. Der neue Ausschnitt verknüpft die in MA-033 und MA-034 einzeln betrachteten Beziehungen; diese Karten werden nicht erneut gezählt.",
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Einblick gewinnen",
+        "fsp_3_4_additive_alternative": "Übertragen",
+        "fsp_3_4_multiplicative_context": "Kennen"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_explicit_max": 20,
+        "fsp_source_id": "page139_37885",
+        "basis": "target_row"
+      },
+      "prerequisites": "Verständnis von Addition und Subtraktion sowie der Beziehung zweier Teile zu ihrem Ganzen; einzelne Tausch- und Umkehrbeziehungen als Grundlage.",
+      "uncertainty": "Die konkreten Beziehungen sind FSP-Bemerkungen, keine eigenständigen Zielzeilen mit eigenem Operator. Ihre didaktische Konkretisierung belegt keine vollständige GS-Zieldeckung.",
+      "remaining": "GS-Zahlenraum oberhalb 20, Sonderfälle mit gleichen Summanden oder Null, selbstständige Strategiewahl und vollständige Deckung des übergeordneten GS-Ziels. Multiplikative Aufgabenfamilien sind kein Inhalt dieses additiven Anschlusses.",
+      "planning_limit": "Didaktisch begrenzt auf zwei verschiedene positive ganzzahlige Summanden und ihre Summe. Beide Summanden, die Summe und beide Differenzen sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Gleiche Summanden, Null und multiplikative Familien sind in diesem Feinziel nicht enthalten."
+    },
+    {
+      "gs_id": "page912_187063",
+      "status": "partially_reviewed",
+      "card": "MA-036",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869",
+        "page139_37885"
+      ],
+      "cross_band_candidates": [
+        "page139_35439",
+        "page139_35442",
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS-Operator Kennen aus 1857; FSP-Operator Einblick gewinnen aus 37851. Die FSP-Zielzeile 37885 begrenzt Rechenwege und Rechenvorteile ausdrücklich auf 20; konkrete Beziehungen stammen aus ihrer Bemerkung. FSP 3/4 nennt additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen (35470), aber keinen für diese Ausschnitte erforderlichen besser passenden Anschluss. Die Vierergruppen in 35442 unter Kennen (35439) betreffen Multiplikation und Division und belegen keine additive Aufgabenfamilie. GS-Bemerkung 187063 und FSP-Bemerkung 37885 zeigen übereinstimmend eine Subtraktion als Addition mit fehlendem Summanden. Ergänzen bis 10 in 37863 ist ein engerer zusätzlicher Beleg, aber keine Obergrenze für die ausdrücklich bis 20 gefasste Zielzeile 37885. Anders als MA-034 steht hier eine gesuchte Differenz am Anfang; MA-032 betrifft das schrittweise Addieren über den Zehner.",
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Einblick gewinnen",
+        "fsp_3_4_additive_alternative": "Übertragen",
+        "fsp_3_4_multiplicative_context": "Kennen"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_explicit_max": 20,
+        "fsp_source_id": "page139_37885",
+        "basis": "target_row"
+      },
+      "prerequisites": "Verständnis von Addition und Subtraktion sowie der Rolle eines fehlenden Summanden; die größere Zahl bildet das Ganze.",
+      "uncertainty": "Die konkreten Beziehungen sind FSP-Bemerkungen, keine eigenständigen Zielzeilen mit eigenem Operator. Ihre didaktische Konkretisierung belegt keine vollständige GS-Zieldeckung.",
+      "remaining": "Selbstständige Wahl und Kombination von Ergänzungsverfahren, alle weiteren Strategien und GS-Zahlenraum oberhalb 20. Die Ergebniskontrolle durch Umkehroperation in 187068 bleibt gesondert zu prüfen.",
+      "planning_limit": "Nur nichtnegative ganze Zahlen. Der Subtrahend ist höchstens so groß wie der Minuend. Minuend, Subtrahend, fehlender Summand und Differenz sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Kein bestimmter schrittweiser Ergänzungsweg oder Überschreiten dieser Grenze wird vorausgesetzt."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "newly_completed_rows": 0,
+    "new_cards": 2,
+    "cards": 36,
+    "cross_band_cards": 7,
+    "source_links": 117,
+    "target_anchors": 115,
+    "audit_rows": 67,
+    "open_connection_questions": 7
+  },
+  "continuation": "GS 1/2 gegensinniges/gleichsinniges Verändern (187064) prüfen, danach verschiedene Lösungswege (1864) und Kontrolle durch Umkehroperation (187068). Aufgabenfamilien (187062) und Ergänzungen (187063) sind in MA-024 begrenzt geprüft; bestehende Karten nicht erneut zählen. Sieben Anschlussfragen und sämtliche dokumentierten Restumfänge bleiben offen.",
+  "tests": {
+    "source_hierarchy": "passed: fresh official GS/FSP HTML; target and remark columns separated; both FSP bands and parent operators checked",
+    "preservation": "passed: all34 existing mathematics cards and all existing sources unchanged; other subject, title, learning-object, teacher-information and feedback payloads unchanged",
+    "finite_scope_check": "passed: all180 ordered pairs of distinct positive summands with sum at most20 preserve all four family relations; all231 nonnegative minuend/subtrahend pairs within20 preserve the completion/difference relationship",
+    "data_checks": "passed: update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
+    "disclosures_browser": "passed: all349 cards,36 deduplicated mathematics warnings, sources and keyboard interaction, drafts, mobile320/390",
+    "browser_local": "passed: all36 cards with unchanged assertions in check-mathematik-browser.cjs; visible scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved teacher drafts, mobile. After two default-run timing failures (button stability/scrolling), rerun passed with background throttling disabled and timeout60s; no forced clicks or skipped assertions.",
+    "browser_live": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.337"
+  }
+}

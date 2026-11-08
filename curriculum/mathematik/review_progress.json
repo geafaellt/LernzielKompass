@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-023",
+  "last_batch": "MA-024",
   "complete": false,
   "counts": {
-    "cards": 34,
+    "cards": 36,
     "cross_band": 7
   },
   "source_plans": {
@@ -1404,10 +1404,36 @@
       "version": "2026",
       "target": "Umkehraufgaben",
       "remarks": ""
+    },
+    "page912_187062": {
+      "id": "page912_187062",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187062",
+      "version": "2026",
+      "target": "Aufgabenfamilien",
+      "remarks": ""
+    },
+    "page912_187063": {
+      "id": "page912_187063",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187063",
+      "version": "2026",
+      "target": "Ergänzungen",
+      "remarks": "11 – 7 = ___ ⇒ 7 + ___ = 11"
     }
   },
-  "next_id": "page912_187062",
-  "next_step": "GS1/2 Aufgabenfamilien187062 und Ergänzungen187063 prüfen; danach gegensinniges/gleichsinniges Verändern187064. Bereits zugeordnete187059/187060/187061 nicht erneut zählen. Sieben Anschlussfragen und sämtliche Restumfänge bleiben offen.",
+  "next_id": "page912_187064",
+  "next_step": "GS 1/2 gegensinniges/gleichsinniges Verändern (187064) prüfen, danach verschiedene Lösungswege (1864) und Kontrolle durch Umkehroperation (187068). Aufgabenfamilien (187062) und Ergänzungen (187063) sind in MA-024 begrenzt geprüft; bestehende Karten nicht erneut zählen. Sieben Anschlussfragen und sämtliche dokumentierten Restumfänge bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1479,7 +1505,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_023.json",
+  "last_review_file": "review_batch_024.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1653,6 +1679,17 @@
     {
       "gs_id": "page912_187060",
       "scope": "Die umgekehrte Ableitungsrichtung von Subtraktion zu Addition, vollständige Aufgabenfamilien, selbstständige Strategiewahl und GS-Zahlenraum oberhalb20. Der Kontrollzweck der Umkehroperation in187068 wird hier nicht mitgeprüft.",
+      "status": "offen",
+      "follow_up": "MA-024: additiver Familienzusammenhang unter 187062/MA-035 und Ergänzungsbeziehung unter 187063/MA-036 bis 20 begrenzt geprüft. Keine vollständige Erledigung oder neue Zählung der Umkehraufgabenzeile 187060; die enger gefasste Karte MA-034 bleibt erhalten."
+    },
+    {
+      "gs_id": "page912_187062",
+      "scope": "GS-Zahlenraum oberhalb 20, Sonderfälle mit gleichen Summanden oder Null, selbstständige Strategiewahl und vollständige Deckung des übergeordneten GS-Ziels. Multiplikative Aufgabenfamilien sind kein Inhalt dieses additiven Anschlusses.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187063",
+      "scope": "Selbstständige Wahl und Kombination von Ergänzungsverfahren, alle weiteren Strategien und GS-Zahlenraum oberhalb 20. Die Ergebniskontrolle durch Umkehroperation in 187068 bleibt gesondert zu prüfen.",
       "status": "offen"
     }
   ],
@@ -1669,7 +1706,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Weiterhin67 inventarisierte Zeilen.187059/187060 jeweils begrenzt zugeordnet (MA-033/034), nicht vollständig abgeschlossen.187061 bereits MA-021. Keine neue Inventur und keine Doppelzählung; Fortsetzung187062.",
+    "note": "Weiterhin 67 inventarisierte Zeilen. 187062/187063 jeweils begrenzt zugeordnet (MA-035/036), nicht vollständig abgeschlossen. Keine neue Inventur und keine Doppelzählung; Fortsetzung 187064.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

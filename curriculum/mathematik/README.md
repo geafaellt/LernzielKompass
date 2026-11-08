@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-023
+# Mathematik-Abgleich · MA-024
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Vierunddreißig Karten dokumentieren begrenzte Anschlüsse. Siebenundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Sechsunddreißig Karten dokumentieren begrenzte Anschlüsse. Neunundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Aufgabenfamilien (page912_187062) und Ergänzungen (187063), danach gegensinniges/gleichsinniges Verändern (187064). Sieben Anschlussfragen und bisherige Restumfänge bleiben offen. [Prüfpaket MA-023](review_batch_023.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei gegensinnigem/gleichsinnigem Verändern (page912_187064), danach verschiedenen Lösungswegen (1864) und Kontrolle durch Umkehroperation (187068). Sieben Anschlussfragen und bisherige Restumfänge bleiben offen. [Prüfpaket MA-024](review_batch_024.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -310,3 +310,12 @@ Feinziele und Erfolgskriterien sind didaktisch konkretisiert. Alle beteiligten Z
 Zwei Zeilen teilweise geprüft, keine vollständig abgeschlossen.34 Karten, davon27 stufenbandpassend, sieben stufenübergreifend;115 Quellenlinks (113 Zielanker, zwei Kontextquellen), weiterhin67 Auditzeilen. Alle32 bisherigen Karten unverändert. Sieben Anschlussfragen bleiben bestehen; neue Restumfänge sind dokumentiert. Aufgabenfamilien, Umkehrrichtung, Kontrollzweck und selbstständige Strategiewahl bleiben gesondert zu prüfen. Fortsetzung187062;187061 nicht erneut zählen. Nachweise in review_batch_023.json.
 
 Datenprüfungen und Zahlenraumregressionen bestanden. Lokal alle34 Mathematikkarten sowie die Hinweise/Quellen aller347 Karten geprüft; öffentlicher Browserdurchlauf aller34 Mathematikkarten bestanden. App1.336 mit Commitf49e28b207b0a9394ab53b717fc9b10ea1f0a57b veröffentlicht; [Pages-Lauf42476820597](https://github.com/geafaellt/LernzielKompass/actions/runs/42476820597) erfolgreich. Die öffentliche HTML-Datei ist bytegleich zum geprüften Stand. Feedbackfunktion und rechte Bildposition bleiben erhalten.
+
+
+## MA-024 · Aufgabenfamilien und Ergänzungen · App 1.337
+
+MA-035 verbindet zwei vertauschte Additionen und ihre beiden Umkehraufgaben. Diese vier Beziehungen sind in der FSP-Bemerkung 37885 belegt; ihre Zusammenfassung als Aufgabenfamilie ist didaktisch konkretisiert, kein wörtliches FSP-Unterziel. Das Feinziel ist auf verschiedene positive Summanden begrenzt. MA-036 verbindet eine gesuchte Differenz mit dem fehlenden Summanden einer Ergänzung; die Bemerkungen GS 187063 und FSP 37885 belegen dieselbe Beziehung. Ergänzen bis 10 aus 37863 wird nicht zur Obergrenze der Zielzeile 37885 umgedeutet.
+
+Beide Anschlüsse sind GS 1/2 → FSP 1/2, mit Kennen (1857) und Einblick gewinnen (37851). Die Grenze bis 20 ist in der FSP-Zielzeile ausdrücklich belegt und gilt auch für alle beteiligten Zahlen und relevanten Zwischen-/Endergebnisse der didaktischen Feinziele und Kriterien. GS reicht bis 100; vollständige GS-Zieldeckung wird nicht behauptet. FSP 3/4 wurde mitgeprüft: additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen, multiplikative Vierergruppen in 35442 unter Kennen. Letztere sind kein additiver Beleg.
+
+Die Einzelbeziehungen MA-033/034 und der Teilschritt in MA-032 bleiben erhalten; keine Doppelzählung. Alle 34 bisherigen Karten unverändert. Zwei weitere Zeilen teilweise geprüft, keine vollständig abgeschlossen. 36 Karten, davon 29 stufenbandpassend und sieben stufenübergreifend; 117 Quellenlinks (115 Zielanker, zwei Kontextquellen), weiterhin 67 Auditzeilen und sieben Anschlussfragen. Sonderfälle, größere Zahlenräume, selbstständige Strategiewahl und Kontrollzweck bleiben abgegrenzt. Keine Aufgaben, Lernhandlungen oder Hilfsmittel ergänzt. Fortsetzung 187064. Test- und Veröffentlichungsnachweise in review_batch_024.json.

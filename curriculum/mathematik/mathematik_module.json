@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-08.5",
+  "version": "MA-2026-11-08.6",
   "checked_on": "2026-11-08",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -799,6 +799,18 @@
       "id": "Q-MA-page912_187060",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Umkehraufgaben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187060",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187062",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Aufgabenfamilien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187062",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187063",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Ergänzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187063",
       "version": "2026"
     }
   ],
@@ -3574,6 +3586,178 @@
       "evidence_classification": {
         "gs": "Verbindliches Strategie-Unterziel Umkehraufgaben unter Kennen1857;1857/1862 dienen als Kontext und sind nicht vollständig abgedeckt.",
         "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen37851; konkrete Strategie aus der Bemerkung37885, Feinziel und Erfolgskriterium didaktisch konkretisiert.",
+        "fsp_remark_anchor": "page139_37885",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
+        ]
+      }
+    },
+    {
+      "id": "MA-035",
+      "subject": "Mathematik",
+      "theme": "Additive Aufgabenfamilien als zusammengehörige Beziehungen erkennen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Aufgabenfamilien der Addition und Subtraktion bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Zwei vertauschte Additionen und ihre beiden Umkehraufgaben bis 20; Zusammenfassung als Aufgabenfamilie didaktisch konkretisiert",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS-Operator Kennen aus 1857; FSP-Operator Einblick gewinnen aus 37851. Die FSP-Zielzeile 37885 begrenzt Rechenwege und Rechenvorteile ausdrücklich auf 20; konkrete Beziehungen stammen aus ihrer Bemerkung. FSP 3/4 nennt additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen (35470), aber keinen für diese Ausschnitte erforderlichen besser passenden Anschluss. Die Vierergruppen in 35442 unter Kennen (35439) betreffen Multiplikation und Division und belegen keine additive Aufgabenfamilie. Die FSP-Bemerkung 37885 enthält zwei vertauschte Additionen und beide zugehörigen Subtraktionen derselben drei Zahlen. Ihre Zusammenfassung als additive Aufgabenfamilie ist eine beleggestützte didaktische Konkretisierung, kein wörtlich benanntes FSP-Unterziel. Der neue Ausschnitt verknüpft die in MA-033 und MA-034 einzeln betrachteten Beziehungen; diese Karten werden nicht erneut gezählt. Offen bleiben: GS-Zahlenraum oberhalb 20, Sonderfälle mit gleichen Summanden oder Null, selbstständige Strategiewahl und vollständige Deckung des übergeordneten GS-Ziels. Multiplikative Aufgabenfamilien sind kein Inhalt dieses additiven Anschlusses.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187062"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187062",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS-Operator Kennen aus 1857; FSP-Operator Einblick gewinnen aus 37851. Die FSP-Zielzeile 37885 begrenzt Rechenwege und Rechenvorteile ausdrücklich auf 20; konkrete Beziehungen stammen aus ihrer Bemerkung. FSP 3/4 nennt additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen (35470), aber keinen für diese Ausschnitte erforderlichen besser passenden Anschluss. Die Vierergruppen in 35442 unter Kennen (35439) betreffen Multiplikation und Division und belegen keine additive Aufgabenfamilie. Die FSP-Bemerkung 37885 enthält zwei vertauschte Additionen und beide zugehörigen Subtraktionen derselben drei Zahlen. Ihre Zusammenfassung als additive Aufgabenfamilie ist eine beleggestützte didaktische Konkretisierung, kein wörtlich benanntes FSP-Unterziel. Der neue Ausschnitt verknüpft die in MA-033 und MA-034 einzeln betrachteten Beziehungen; diese Karten werden nicht erneut gezählt. Offen bleiben: GS-Zahlenraum oberhalb 20, Sonderfälle mit gleichen Summanden oder Null, selbstständige Strategiewahl und vollständige Deckung des übergeordneten GS-Ziels. Multiplikative Aufgabenfamilien sind kein Inhalt dieses additiven Anschlusses.",
+      "shared_object_suggestion": "Zwei Teile und ihr Ganzes – vier zusammengehörige Beziehungen zwischen drei Zahlen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert im Zahlenraum bis 100 den Zusammenhang zwischen zwei vertauschten Additionen und ihren beiden zugehörigen Subtraktionen.",
+          "criterion": "Die beiden verschiedenen positiven Summanden und ihre Summe bilden dieselben drei Zahlen in allen vier Beziehungen. Bei beiden Additionen bleibt die Summe gleich; bei den beiden Subtraktionen bleibt jeweils der andere Summand als Differenz. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt im Zahlenraum bis 20 den Zusammenhang zwischen zwei vertauschten Additionen und den beiden zugehörigen Subtraktionen derselben drei Zahlen.",
+          "criterion": "Die beiden verschiedenen positiven Summanden und ihre Summe bilden dieselben drei Zahlen in allen vier Beziehungen. Bei beiden Additionen bleibt die Summe gleich; bei den beiden Subtraktionen bleibt jeweils der andere Summand als Differenz. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung aus dem Bemerkungsbeleg; keine selbstständige Auswahl zwischen mehreren Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Bis 20 steht ausdrücklich in Unterziel 37885 unter Einblick gewinnen (37851). Die konkrete Beziehung stammt aus der zugehörigen Bemerkung und wird didaktisch eingegrenzt; keine Ableitung der Obergrenze aus dem übergreifenden Bandziel.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Didaktisch begrenzt auf zwei verschiedene positive ganzzahlige Summanden und ihre Summe. Beide Summanden, die Summe und beide Differenzen sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Gleiche Summanden, Null und multiplikative Familien sind in diesem Feinziel nicht enthalten."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Strategie-Unterziel Aufgabenfamilien unter Kennen (1857); 1857/1862 dienen als Kontext und sind nicht vollständig abgedeckt.",
+        "fsp": "Rechenwege/Rechenvorteile bis 20 als Zielzeile unter Einblick gewinnen (37851); konkrete Beziehungen aus Bemerkung 37885, Zusammenfassung und Feinziele didaktisch konkretisiert.",
+        "fsp_remark_anchor": "page139_37885",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
+        ]
+      }
+    },
+    {
+      "id": "MA-036",
+      "subject": "Mathematik",
+      "theme": "Eine Differenz durch Ergänzen bestimmen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Subtraktion bis 100 über die zugehörige Ergänzung verstehen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Beziehung zwischen Subtraktion und Addition mit fehlendem Summanden bis 20, in der Bemerkung belegt",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS-Operator Kennen aus 1857; FSP-Operator Einblick gewinnen aus 37851. Die FSP-Zielzeile 37885 begrenzt Rechenwege und Rechenvorteile ausdrücklich auf 20; konkrete Beziehungen stammen aus ihrer Bemerkung. FSP 3/4 nennt additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen (35470), aber keinen für diese Ausschnitte erforderlichen besser passenden Anschluss. Die Vierergruppen in 35442 unter Kennen (35439) betreffen Multiplikation und Division und belegen keine additive Aufgabenfamilie. GS-Bemerkung 187063 und FSP-Bemerkung 37885 zeigen übereinstimmend eine Subtraktion als Addition mit fehlendem Summanden. Ergänzen bis 10 in 37863 ist ein engerer zusätzlicher Beleg, aber keine Obergrenze für die ausdrücklich bis 20 gefasste Zielzeile 37885. Anders als MA-034 steht hier eine gesuchte Differenz am Anfang; MA-032 betrifft das schrittweise Addieren über den Zehner. Offen bleiben: Selbstständige Wahl und Kombination von Ergänzungsverfahren, alle weiteren Strategien und GS-Zahlenraum oberhalb 20. Die Ergebniskontrolle durch Umkehroperation in 187068 bleibt gesondert zu prüfen.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187063"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187063",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS-Operator Kennen aus 1857; FSP-Operator Einblick gewinnen aus 37851. Die FSP-Zielzeile 37885 begrenzt Rechenwege und Rechenvorteile ausdrücklich auf 20; konkrete Beziehungen stammen aus ihrer Bemerkung. FSP 3/4 nennt additive Tausch-/Umkehrbeziehungen in 35485 unter Übertragen (35470), aber keinen für diese Ausschnitte erforderlichen besser passenden Anschluss. Die Vierergruppen in 35442 unter Kennen (35439) betreffen Multiplikation und Division und belegen keine additive Aufgabenfamilie. GS-Bemerkung 187063 und FSP-Bemerkung 37885 zeigen übereinstimmend eine Subtraktion als Addition mit fehlendem Summanden. Ergänzen bis 10 in 37863 ist ein engerer zusätzlicher Beleg, aber keine Obergrenze für die ausdrücklich bis 20 gefasste Zielzeile 37885. Anders als MA-034 steht hier eine gesuchte Differenz am Anfang; MA-032 betrifft das schrittweise Addieren über den Zehner. Offen bleiben: Selbstständige Wahl und Kombination von Ergänzungsverfahren, alle weiteren Strategien und GS-Zahlenraum oberhalb 20. Die Ergebniskontrolle durch Umkehroperation in 187068 bleibt gesondert zu prüfen.",
+      "shared_object_suggestion": "Der fehlende Teil zum Ganzen – dieselbe Zahl als Ergänzung und Differenz.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert und nutzt bis 100, dass die Differenz einer Subtraktion dem fehlenden Summanden der zugehörigen Ergänzung entspricht.",
+          "criterion": "Der Subtrahend wird zum bekannten Summanden und der Minuend zur Summe. Der fehlende Summand stimmt mit der gesuchten Differenz überein; beide Beziehungen sind rechnerisch richtig. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt und nutzt bis 20 die Beziehung zwischen einer Subtraktion und der zugehörigen Addition mit fehlendem Summanden.",
+          "criterion": "Der Subtrahend wird zum bekannten Summanden und der Minuend zur Summe. Der fehlende Summand stimmt mit der gesuchten Differenz überein; beide Beziehungen sind rechnerisch richtig. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung aus dem Bemerkungsbeleg; keine selbstständige Auswahl zwischen mehreren Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Bis 20 steht ausdrücklich in Unterziel 37885 unter Einblick gewinnen (37851). Die konkrete Beziehung stammt aus der zugehörigen Bemerkung und wird didaktisch eingegrenzt; keine Ableitung der Obergrenze aus dem übergreifenden Bandziel.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen. Der Subtrahend ist höchstens so groß wie der Minuend. Minuend, Subtrahend, fehlender Summand und Differenz sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Kein bestimmter schrittweiser Ergänzungsweg oder Überschreiten dieser Grenze wird vorausgesetzt."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Strategie-Unterziel Ergänzungen unter Kennen (1857); 1857/1862 dienen als Kontext und sind nicht vollständig abgedeckt.",
+        "fsp": "Rechenwege/Rechenvorteile bis 20 als Zielzeile unter Einblick gewinnen (37851); konkrete Beziehungen aus Bemerkung 37885, Zusammenfassung und Feinziele didaktisch konkretisiert.",
         "fsp_remark_anchor": "page139_37885",
         "context_only_gs_ids": [
           "page912_1857",
