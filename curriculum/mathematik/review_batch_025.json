@@ -679,8 +679,15 @@
     "browser": "not repeated: no app/UI change. All36 local/public browser checks from MA-024 apply to byte-identical app1.337; no new browser success claimed."
   },
   "publication": {
-    "status": "pending",
+    "status": "success",
     "app_version": "1.337",
-    "app_changed": false
+    "app_changed": false,
+    "commit": "ca59c5d0f74c4579c26ac43d6f01f8a9f60264c8",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42487438962",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "75a62081d79a88bcc99723f505e05b65d22d16435181d4134fe0b3c1d2cd87c1",
+    "live_browser": "not repeated: byte-identical app1.337; complete36-card browser evidence in MA-024"
   }
 }
