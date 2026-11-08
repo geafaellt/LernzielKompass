@@ -26,9 +26,15 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
     assert.equal(await page.locator('#topic option').count(), cards.length+1);
     if(!cards.length) assert.match(await page.locator('#coverage').innerText(),/Abgleich bleibt offen/);
     for (const card of cards) {
+     const previousObject=await page.inputValue('#learningObject');
      await page.selectOption('#topic',card.id);
+     assert.equal(await page.inputValue('#learningObject'),previousObject,'Card selection must preserve teacher text');
+     assert.notEqual(card.shared_object_suggestion,card.theme);
+     assert.equal(await page.locator('#learningObjectSuggestion').innerText(),'Didaktischer Vorschlag (kein amtlicher Lehrplantext): '+card.shared_object_suggestion);
      if (card.fsp_scope) {
       await page.locator('#next').click();
+      await page.locator('#insertLearningObject').click();
+      assert.equal(await page.inputValue('#learningObject'),card.shared_object_suggestion);
       assert.equal(await page.locator('#reviewWarning').isVisible(), true);
       if(card.number_range_alignment)assert.ok((await page.locator('#reviewWarning').innerText()).includes(card.number_range_alignment.notice));
       assert.equal(await page.locator('#fspScopeDetails').isVisible(),true);
@@ -46,6 +52,9 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       }
       await page.locator('#next').click();
       await page.locator('#next').click();
+      const objectRow=page.locator('#output tr').filter({hasText:'Gemeinsamer Lerngegenstand'});
+      assert.equal(await objectRow.count(),1);
+      assert.equal(await objectRow.locator('td').innerText(),card.shared_object_suggestion);
       const scopeRow=page.locator('#output tr').filter({hasText:'FSP-Zahlenraum / Geltungsbereich'});
       assert.equal(await scopeRow.count(),1);
       assert.ok((await scopeRow.innerText()).includes(card.fsp_scope.summary));
@@ -92,15 +101,20 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   assert.equal(await page.inputValue('#topic'),card.id);
   await page.locator('#next').click();
   await page.locator('#next').click();
+  await page.locator('#prev').click();
+  await page.locator('#learningObject').fill('Mein eigener gemeinsamer Lerngegenstand');
+  await page.locator('#next').click();
   await page.locator('#goalFSP').fill('Eigener unveränderter Entwurf');
   await page.locator('#taskFSP').fill('Eigene Aufgabenentscheidung');
   await page.locator('#prev').click();
   await page.locator('#prev').click();
   await page.selectOption('#topic','MA-018');
+  assert.equal(await page.inputValue('#learningObject'),'Mein eigener gemeinsamer Lerngegenstand');
   assert.equal(await page.inputValue('#goalFSP'),'Eigener unveränderter Entwurf');
   assert.equal(await page.inputValue('#taskFSP'),'Eigene Aufgabenentscheidung');
   await page.reload({waitUntil:'domcontentloaded'});
   await page.locator('#startPlanning').click();
+  assert.equal(await page.inputValue('#learningObject'),'Mein eigener gemeinsamer Lerngegenstand');
   assert.equal(await page.inputValue('#goalFSP'),'Eigener unveränderter Entwurf');
   assert.equal(await page.inputValue('#taskFSP'),'Eigene Aufgabenentscheidung');
   await page.locator('#next').click();
@@ -109,6 +123,6 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
   if(process.env.LZK_SCOPE_SCREENSHOT)await page.locator('#fspScopeDetails').screenshot({path:process.env.LZK_SCOPE_SCREENSHOT});
   assert.deepEqual(errors,[]);
-  console.log('PASS: '+moduleData.connections.length+' mathematics cards: visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout.');
+  console.log('PASS: '+moduleData.connections.length+' mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout.');
  } finally {await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1;});

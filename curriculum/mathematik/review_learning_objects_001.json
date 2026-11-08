@@ -1,0 +1,551 @@
+{
+  "id": "MA-LG-001",
+  "date": "2026-11-08",
+  "app_version": "1.329",
+  "base_commit": "46ee4aa8fa53b8592eeb6e25bffb61fa56d96927",
+  "type": "Didaktische Formulierungsprüfung bestehender gemeinsamer Lerngegenstände, keine neue GS-zu-FSP-Zeilenprüfung",
+  "finding": "31 von 31 Vorschlägen waren wortgleich mit dem Kartentitel.",
+  "principles": [
+    "Gemeinsame mathematische Sache oder Beziehung statt Zielhandlung, Klassenetikett oder Kopie des Kartentitels.",
+    "Kein zusätzliches Begründen, Darstellen oder anderes Anspruchsniveau; Operatoren bleiben in den getrennten Lernzielen.",
+    "Keine konkreten Aufgaben, Lernhandlungen oder Hilfsmittel; ausdrückliche Darstellungsbezüge bleiben nur erhalten, wo sie den bestehenden Gegenstand bestimmen.",
+    "Zahlenräume und Geltungsbereiche bleiben kartenspezifisch. Gemeinsamer Gegenstand bedeutet weder gleichen Zahlenraum noch vollständige GS-Zieldeckung.",
+    "Eigene Entwürfe bleiben erhalten; Übernahme weiterhin ausschließlich über Vorschlag einfügen."
+  ],
+  "source_basis": {
+    "official_pages_retrieved": [
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+      "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+    ],
+    "existing_evidence": "Kartenanker, Operatorrelationen und FSP-Geltungsbereiche; review_progress.json, row_audit.csv und Prüfpakete MA-001 bis MA-021. Keine neuen Quellen oder Anschlussentscheidungen."
+  },
+  "cards": [
+    {
+      "id": "MA-001",
+      "before": "Räumliche Lage von Objekten",
+      "after": "Dinge in unserer Schule und ihre Lage zueinander: über, unter, neben, vor oder hinter einem anderen Gegenstand.",
+      "reason_and_boundary": "Schulkontext und Objektbezug; keine Körperorientierung.",
+      "source_ids": [
+        "Q-MA-page912_1765",
+        "Q-MA-page912_1766",
+        "Q-MA-page912_1774",
+        "Q-MA-page139_37779",
+        "Q-MA-page139_37786"
+      ],
+      "fsp_scope_status": "not_applicable",
+      "fsp_planning_rule": "Keine rechnerischen Zusatzanforderungen aus dem Zahlenraum anderer Karten ableiten."
+    },
+    {
+      "id": "MA-002",
+      "before": "Spiegelachsen ebener Figuren",
+      "after": "Die Spiegelachse einer Figur als Grenze zwischen zwei spiegelgleichen Hälften.",
+      "reason_and_boundary": "Spiegelachse als gemeinsamer Gegenstand; keine neue Zeichen- oder Spiegelaufgabe.",
+      "source_ids": [
+        "Q-MA-page912_187012",
+        "Q-MA-page912_187025",
+        "Q-MA-page139_35432",
+        "Q-MA-page139_35434"
+      ],
+      "fsp_scope_status": "not_applicable",
+      "fsp_planning_rule": "Keine rechnerischen Zusatzanforderungen aus dem Zahlenraum anderer Karten ableiten."
+    },
+    {
+      "id": "MA-003",
+      "before": "Geldbeträge in Euro und Cent",
+      "after": "Mehr, weniger oder gleich viel Geld – Geldbeträge in derselben Einheit: Euro oder Cent.",
+      "reason_and_boundary": "Vergleich innerhalb einer Einheit; keine Umrechnung oder gemischte Schreibweise.",
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_1913",
+        "Q-MA-page912_1915",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37926",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Nur ganze Beträge bis 20 in der gewählten Einheit vergleichen; Euro und Cent nicht mischen oder umrechnen. Der Betrag in Euro wird hier nicht zusätzlich als Centzahl bewertet."
+    },
+    {
+      "id": "MA-004",
+      "before": "Längen in Metern",
+      "after": "Längen in der Natur: kürzer, länger oder gleich lang bei Angaben in Metern.",
+      "reason_and_boundary": "Naturkontext und Meter bleiben erhalten; keine Messaufgabe oder erfundene Obergrenze.",
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_1923",
+        "Q-MA-page912_187114",
+        "Q-MA-page139_37961",
+        "Q-MA-page139_37967",
+        "Q-MA-page139_37974"
+      ],
+      "fsp_scope_status": "unspecified",
+      "fsp_planning_rule": "Die Lehrkraft legt den Zahlenraum und die Darstellungsform der Meterangaben fest. Im gewählten Bereich vergleichen; keine zusätzlichen Einheiten oder Umrechnungen. Eine Grenze von 1 m oder 20 m ist aus dieser Zielzeile nicht belegt."
+    },
+    {
+      "id": "MA-005",
+      "before": "Schriftliches Addieren zweier Summanden",
+      "after": "Zwei Zahlen, eine Summe – Stellenwerte und Übertrag bei der schriftlichen Addition.",
+      "reason_and_boundary": "Zwei Summanden und schriftliches Verfahren einschließlich Übertrag; keine dritte Zahl.",
+      "source_ids": [
+        "Q-MA-page912_2068",
+        "Q-MA-page912_2069",
+        "Q-MA-page139_35498",
+        "Q-MA-page139_35499",
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Beide nichtnegativen ganzzahligen Summanden, relevante Zwischenwerte und die Summe bleiben bis 100. Kommazahlen, Größenumrechnungen und weitere Summanden gehören nicht zu diesem Feinziel."
+    },
+    {
+      "id": "MA-006",
+      "before": "Minutengenaue Uhrzeiten",
+      "after": "Stunden und Minuten eines Zeitpunkts – Uhrzeiten für die eigene Zeitplanung.",
+      "reason_and_boundary": "Zeitpunkt und eigene Zeitplanung; keine Zeitspanne.",
+      "source_ids": [
+        "Q-MA-page912_187247",
+        "Q-MA-page912_187252",
+        "Q-MA-page912_187253",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35549"
+      ],
+      "fsp_scope_status": "domain_specific",
+      "fsp_planning_rule": "Stunde, Minute und Darstellungsform beachten; keine zusätzlichen Rechenanforderungen."
+    },
+    {
+      "id": "MA-007",
+      "before": "Schriftliche Addition als Grundlage in Klasse 4",
+      "after": "Zwei Zahlen, eine Summe – Stellenwerte und Übertrag bei der schriftlichen Addition.",
+      "reason_and_boundary": "Derselbe Gegenstand wie MA-005; Klassenstufe und Zahlenraum sind Differenzierungsmerkmale, nicht gemeinsame Sache.",
+      "source_ids": [
+        "Q-MA-page912_2291",
+        "Q-MA-page912_2292",
+        "Q-MA-page139_35498",
+        "Q-MA-page139_35499",
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Beide nichtnegativen ganzzahligen Summanden, relevante Zwischenwerte und die Summe bleiben bis 100. Kommazahlen, Größenumrechnungen und weitere Summanden gehören nicht zu diesem Feinziel."
+    },
+    {
+      "id": "MA-008",
+      "before": "Strukturierte Mengen bis sechs erfassen",
+      "after": "Kleine geordnete Mengen: die auf einen Blick erkennbare Anzahl von bis zu sechs Elementen.",
+      "reason_and_boundary": "Strukturierte Mengen bis sechs, ohne zusätzliche Erfassungsstrategie.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1836",
+        "Q-MA-page912_187042",
+        "Q-MA-page139_37804",
+        "Q-MA-page139_37811",
+        "Q-MA-page139_37817"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 6; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "id": "MA-009",
+      "before": "Anzahlen von Mengen vergleichen",
+      "after": "Zwei Mengen im Vergleich: mehr, weniger oder gleich viele Elemente.",
+      "reason_and_boundary": "Vergleichsrelationen zwischen Anzahlen; kein Verdoppeln oder Halbieren.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1836",
+        "Q-MA-page912_187044",
+        "Q-MA-page139_37804",
+        "Q-MA-page139_37811",
+        "Q-MA-page139_37813",
+        "Q-MA-page912_1837",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "id": "MA-010",
+      "before": "Anzahl und Zahl im Naturkontext",
+      "after": "Anzahlen in der Natur und die dazugehörige Zahl: von einer Menge zu Zahlwort und Ziffernschreibweise.",
+      "reason_and_boundary": "Gerichteter Bezug Menge → Zahlwort/Zahl im Naturkontext; keine Umkehrrichtung.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1835",
+        "Q-MA-page912_187040",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37941",
+        "Q-MA-page139_37944",
+        "Q-MA-page139_37739",
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1851",
+        "Q-MA-page912_187047"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "id": "MA-011",
+      "before": "Doppelte und halbe Anzahlen",
+      "after": "Gerechtes Verteilen: doppelte Anzahlen und zwei gleich große Teile einer geraden Anzahl.",
+      "reason_and_boundary": "Doppelte und ganzzahlig halbierbare Anzahlen im Verteilungskontext; keine Bruchteile.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1836",
+        "Q-MA-page912_187045",
+        "Q-MA-page139_35435",
+        "Q-MA-page139_35437",
+        "Q-MA-page139_35415",
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1847"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 100."
+    },
+    {
+      "id": "MA-012",
+      "before": "Zahlen bis 100 lesen und schreiben",
+      "after": "Gesprochene Zahlen und ihre Ziffernschreibweise – dieselbe Zahl in zwei Formen.",
+      "reason_and_boundary": "Gesprochene Zahl und Ziffernschreibweise; keine ausgeschriebenen Zahlwörter.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1834",
+        "Q-MA-page912_187038",
+        "Q-MA-page912_187039",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "id": "MA-013",
+      "before": "Bedeutung von Zahlenangaben in der Umwelt",
+      "after": "Zahlen in unserer Umwelt und das, wofür eine Zahlenangabe in ihrem Zusammenhang steht.",
+      "reason_and_boundary": "Bedeutung numerischer Umweltangaben, kontextabhängiger Geltungsbereich.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1834",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37959"
+      ],
+      "fsp_scope_status": "domain_specific",
+      "fsp_planning_rule": "Bedeutung der konkreten Angabe prüfen; daraus keine zusätzliche Rechenanforderung ableiten."
+    },
+    {
+      "id": "MA-014",
+      "before": "Zahlen und ihre Position in der Zahlwortreihe",
+      "after": "Eine Zahl zwischen ihren unmittelbaren Nachbarn: die Zahl davor und die Zahl danach.",
+      "reason_and_boundary": "Unmittelbare Nachbarzahlen, nicht Nachbarzehner.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1835",
+        "Q-MA-page912_187041",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37947",
+        "Q-MA-page139_37739",
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1846",
+        "Q-MA-page912_187049"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "id": "MA-015",
+      "before": "Teilmengen und Gesamtmenge",
+      "after": "Eine Menge besteht aus zwei getrennten Teilen: Teilanzahlen und Gesamtanzahl gehören zusammen.",
+      "reason_and_boundary": "Teil-Ganzes-Beziehung bei zwei disjunkten Teilmengen; kein Finden aller Zerlegungen.",
+      "source_ids": [
+        "Q-MA-page912_1833",
+        "Q-MA-page912_1836",
+        "Q-MA-page912_187046",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37859",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "id": "MA-016",
+      "before": "Zählen in Schritten · GS 3",
+      "after": "Zahlenfolgen im Alltag: gleich große Zählschritte vorwärts oder rückwärts.",
+      "reason_and_boundary": "Gleich große Schritte; GS-/FSP-Zahlenräume bleiben getrennt.",
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187185",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "id": "MA-017",
+      "before": "Zahlen vergleichen und ordnen · GS 3",
+      "after": "Zahlen im Alltag und ihre Reihenfolge: kleinere, größere und gleich große Zahlen.",
+      "reason_and_boundary": "Numerische Vergleichsrelation und Ordnung; keine neue Darstellungsvorgabe.",
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187186",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "id": "MA-018",
+      "before": "Zählen in Schritten · GS 4",
+      "after": "Zahlenfolgen im Alltag: gleich große Zählschritte vorwärts oder rückwärts.",
+      "reason_and_boundary": "Derselbe Gegenstand wie MA-016 bei anderen GS-Anforderungen.",
+      "source_ids": [
+        "Q-MA-page912_2267",
+        "Q-MA-page912_2269",
+        "Q-MA-page912_187295",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "id": "MA-019",
+      "before": "Zahlen vergleichen und ordnen · GS 4",
+      "after": "Zahlen im Alltag und ihre Reihenfolge: kleinere, größere und gleich große Zahlen.",
+      "reason_and_boundary": "Derselbe Gegenstand wie MA-017 bei anderen GS-Anforderungen.",
+      "source_ids": [
+        "Q-MA-page912_2267",
+        "Q-MA-page912_2269",
+        "Q-MA-page912_187296",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Alle für dieses Feinziel relevanten Anzahlen bzw. Zahlen bleiben bis 100; Ergebnisse und gegebenenfalls Zwischenwerte eingeschlossen."
+    },
+    {
+      "id": "MA-020",
+      "before": "Vorwärts-, Rückwärts- und Schrittzählen · GS 1/2",
+      "after": "Zahlenfolgen beim Erkunden der Natur: vorwärts, rückwärts und in gleich großen Schritten.",
+      "reason_and_boundary": "Naturkontext sowie beide Zählrichtungen und Schrittzählen bleiben erhalten.",
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1844",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37950",
+        "Q-MA-page139_37952",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "id": "MA-021",
+      "before": "Zahlen vergleichen und ordnen · GS 1/2",
+      "after": "Zahlen beim Erkunden der Natur: kleiner, größer oder gleich und ihre Reihenfolge.",
+      "reason_and_boundary": "Numerische Vergleichsrelation und Ordnung im Naturkontext.",
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1845",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37956",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahlen, Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20."
+    },
+    {
+      "id": "MA-022",
+      "before": "Nachbarzehner bis 100 · GS 1/2 → FSP 3/4",
+      "after": "Eine Zahl zwischen zwei aufeinanderfolgenden vollen Zehnern.",
+      "reason_and_boundary": "Zahl zwischen begrenzenden Zehnern; keine Rundung, keine durch zehn teilbare Ausgangszahl.",
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1846",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Nur nichtnegative ganze Zahlen; Ausgangszahl und beide begrenzenden Zehnerzahlen bleiben bis 100. Keine Erweiterung über 100; genaue Zehnerzahlen sind nicht Bestandteil dieses Feinziels."
+    },
+    {
+      "id": "MA-023",
+      "before": "Gerade und ungerade Zahlen · Teilbarkeit durch 2",
+      "after": "Gerade oder ungerade: Zahlen, die ohne Rest durch zwei teilbar sind, und Zahlen mit Rest eins.",
+      "reason_and_boundary": "Nur Teilbarkeit durch zwei, keine weiteren Teilbarkeitsregeln.",
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1848",
+        "Q-MA-page139_35439",
+        "Q-MA-page139_35444",
+        "Q-MA-page139_35415",
+        "Q-MA-page912_187049"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Nur nichtnegative ganze Zahlen bis 100; relevante Zwischenwerte und ganzzahlige Ergebnisse ebenfalls bis 100. Der Ausschnitt betrifft die Teilbarkeit durch 2 und gerade/ungerade; keine Erweiterung auf Teilbarkeitsregeln für 5 und 10, negative Zahlen oder Brüche."
+    },
+    {
+      "id": "MA-024",
+      "before": "Zahlen in Zehnerwert und Einerwert zerlegen",
+      "after": "Zehner und Einer – der Aufbau einer zweistelligen Zahl und die Werte ihrer beiden Stellen.",
+      "reason_and_boundary": "Zehner-Einer-Struktur und Stellenwerte; keine Hunderter oder allgemeine Stellenwertanalogien.",
+      "source_ids": [
+        "Q-MA-page912_1842",
+        "Q-MA-page912_1843",
+        "Q-MA-page912_1850",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37871",
+        "Q-MA-page139_37739",
+        "Q-MA-page912_1852",
+        "Q-MA-page912_1853",
+        "Q-MA-page912_1854",
+        "Q-MA-page912_1856",
+        "Q-MA-page912_187052",
+        "Q-MA-page912_187053"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Ausgangszahl, Zehnerwert, Einerwert sowie relevante Zwischen- und Endergebnisse bleiben bis 20. Zehnerwert und Zehneranzahl unterscheiden; der Einerwert liegt zwischen 0 und 9. Keine Hunderterzerlegung, keine anderen Zerlegungsarten und keine Erweiterung auf den gesamten GS-Zahlenraum."
+    },
+    {
+      "id": "MA-025",
+      "before": "Zehnerbündelung im dekadischen System",
+      "after": "Zehn Einer sind ein Zehner, zehn Zehner ein Hunderter – gleichwertige Bündel im Zahlaufbau.",
+      "reason_and_boundary": "Dekadisches Bündelungsverhältnis bis Hunderter; keine Rechenaufgabe mit Übertrag.",
+      "source_ids": [
+        "Q-MA-page912_1852",
+        "Q-MA-page912_1853",
+        "Q-MA-page912_187050",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35468"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Nur nichtnegative ganze Zahlen; dargestellter Gesamtwert, relevante Zwischenwerte und Ergebnisse bleiben bis 100. Auf Einer, Zehner und Hunderter begrenzen; keine Tausender oder schriftlichen Übertragsverfahren ergänzen."
+    },
+    {
+      "id": "MA-026",
+      "before": "Zehnerstruktur im Hunderterfeld erkennen",
+      "after": "Anzahlen im Hunderterfeld: volle Zehnergruppen und die übrigen Einer.",
+      "reason_and_boundary": "Anzahlstruktur im Feld, nicht sämtliche Feldmuster.",
+      "source_ids": [
+        "Q-MA-page912_1852",
+        "Q-MA-page912_1856",
+        "Q-MA-page912_187051",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35468"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Nur nichtnegative ganzzahlige Anzahlen bis 100. Teilanzahlen, Gesamtanzahl sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Keine Erweiterung auf größere Zahlenräume oder sämtliche Muster im Hunderterfeld."
+    },
+    {
+      "id": "MA-027",
+      "before": "Addition als Vereinigen von Mengen",
+      "after": "Zwei getrennte Mengen werden eine Gesamtmenge – ihre Anzahlen sind durch Addition verbunden.",
+      "reason_and_boundary": "Vereinigen zweier disjunkter Mengen; keine zusätzliche Grundvorstellung des Hinzufügens.",
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1858",
+        "Q-MA-page912_187054",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37859",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Nur nichtnegative ganzzahlige Anzahlen. Ausgangs- und Teilanzahlen, Gesamt- bzw. Restanzahl sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Bei Addition darf auch die Summe 20 nicht überschreiten; bei Subtraktion ist die weggenommene Menge eine Teilmenge der Ausgangsmenge. Keine negativen Ergebnisse."
+    },
+    {
+      "id": "MA-028",
+      "before": "Subtraktion als Wegnehmen und Restmenge",
+      "after": "Von einer Menge geht ein Teil weg – Ausgangsanzahl, weggenommene Anzahl und Rest gehören zusammen.",
+      "reason_and_boundary": "Wegnehmen einer enthaltenen Teilmenge; keine Ergänzungs- oder Vergleichsgrundvorstellung.",
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1858",
+        "Q-MA-page912_187055",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37859",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Nur nichtnegative ganzzahlige Anzahlen. Ausgangs- und Teilanzahlen, Gesamt- bzw. Restanzahl sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Bei Addition darf auch die Summe 20 nicht überschreiten; bei Subtraktion ist die weggenommene Menge eine Teilmenge der Ausgangsmenge. Keine negativen Ergebnisse."
+    },
+    {
+      "id": "MA-029",
+      "before": "Bildliche Sachsituationen als Gleichung ausdrücken",
+      "after": "Von einer dargestellten Sachsituation zur passenden Plus- oder Minusgleichung: Bildangaben und Rechenbeziehung.",
+      "reason_and_boundary": "Nur Bildsituation → Gleichung; keine Umkehrrichtung oder andere Darstellungswechsel.",
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1858",
+        "Q-MA-page912_187056",
+        "Q-MA-page912_1861",
+        "Q-MA-page139_37896",
+        "Q-MA-page139_37898",
+        "Q-MA-page139_37908",
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope_status": "derived",
+      "fsp_planning_rule": "Alle dargestellten Anzahlen, Zahlen in der Gleichung, relevanten Zwischen- und Endergebnisse bleiben bis 20. Auch die Summe darf 20 nicht überschreiten; bei Subtraktion darf die weggenommene Anzahl nicht größer als die Ausgangsanzahl sein. Nur nichtnegative ganze Anzahlen, keine Einheitenumrechnung und keine Erweiterung auf andere Rechenarten."
+    },
+    {
+      "id": "MA-030",
+      "before": "Bekannte Eineraddition auf einen zusätzlichen Zehner übertragen",
+      "after": "Ein Zehner mehr im ersten Summanden, derselbe zweite Summand – die Summe wächst um einen Zehner.",
+      "reason_and_boundary": "Nur erster Summand um zehn größer; zweiter bleibt gleich. Alle FSP-Werte und Ergebnisse bis 20.",
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_1863",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Nur nichtnegative ganze Zahlen. Ausgangszahlen, sämtliche Summanden und Summen sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch die neue Summe darf 20 nicht überschreiten. Nur ein zusätzlicher Zehner im ersten Summanden einer Eineraddition; der zweite Summand bleibt unverändert."
+    },
+    {
+      "id": "MA-031",
+      "before": "Additive Nachbaraufgabe aus bekanntem Ergebnis ableiten",
+      "after": "Derselbe erste Summand, eins mehr im zweiten Summanden – die Summe wächst um eins.",
+      "reason_and_boundary": "Nur zweiter Summand um eins größer; erster bleibt gleich. Alle FSP-Werte und Ergebnisse bis 20.",
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187061",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "fsp_scope_status": "explicit",
+      "fsp_planning_rule": "Nur nichtnegative ganze Zahlen. Ausgangszahlen, sämtliche Summanden und Summen sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch die neue Summe darf 20 nicht überschreiten. Nur Erhöhen des zweiten Summanden um eins; der erste Summand bleibt unverändert."
+    }
+  ],
+  "counts": {
+    "existing_cards_reworded": 31,
+    "new_cards": 0,
+    "newly_reviewed_target_rows": 0
+  },
+  "continuation_unchanged": "page912_187057; Prüfstand MA-021; sechs Anschlussfragen bleiben offen.",
+  "tests": {
+    "data_checks": "update-mathematik.py, check-deutsch.py, prepare-pages.py, check-mathematik.py, test-mathematik-scope.py, check-fsp-info.py passed",
+    "preservation": "Only 31 shared_object_suggestion values and module version changed; all other module fields identical, including sources, goals, criteria and ranges. Other embedded subject/title/information payloads unchanged.",
+    "browser": "check-mathematik-browser.cjs passed for all 31 cards: display, explicit adoption, planning output, source/scope checks, teacher learning-object text preserved across card switch and reload. check-connection-picker-browser.cjs passed in all subjects.",
+    "future_guard": "Mathematics check rejects missing suggestions and verbatim repetition of the card title; this structural guard does not replace didactic review."
+  },
+  "publication": {
+    "status": "pending"
+  }
+}

@@ -279,3 +279,10 @@ Die Zahlenraumprüfung unterstützt nun auch ausdrücklich belegte Grenzen aus U
 Zwei GS-Zeilen begrenzt geprüft, zwei neue Karten. Bestand 31 Karten, davon sieben stufenübergreifend;112 Quellenlinks (110 Zielanker, zwei Kontextquellen), weiterhin 67 inventarisierte Zeilen. Andere Rückführungen, Subtraktions- und Nachbarvarianten bleiben Restumfänge. Fortsetzung bei 187057 (Verdoppeln), anschließend 187058–187060; sechs Anschlussfragen bleiben offen. Prüf- und Veröffentlichungsnachweise: review_batch_021.json.
 
 Datenprüfungen, erweiterte Zahlenraumregressionen und lokaler Browserdurchlauf aller 31 Mathematikkarten bestanden. Auch die bestehende Informationsübersicht und der Erhalt eigener Entwürfe wurden erfolgreich geprüft. App 1.326 wurde mit Commit 5dbd0dd0384d6dbac6a34e328561fa616813949e auf main veröffentlicht; [Pages-Lauf 42463003417](https://github.com/geafaellt/LernzielKompass/actions/runs/42463003417) ist erfolgreich. Die öffentliche App stimmt bytegenau mit der geprüften Fassung überein. Beide Browserprüfungen wurden auf der öffentlichen Seite erfolgreich wiederholt.
+
+
+## Gemeinsame Lerngegenstände · App 1.329
+
+Alle 31 Vorschläge waren identisch mit den Kartentiteln. Sie benennen jetzt die gemeinsame mathematische Sache oder Beziehung, etwa „Zehner und Einer – der Aufbau einer zweistelligen Zahl und die Werte ihrer beiden Stellen“. Verfahrenskarten behalten ihren konkreten Verfahrensbezug. Gleiche Gegenstände können bei verschiedenen GS-Stufen gleich formuliert sein; Zahlenräume, Operatoren und Feinziele bleiben getrennt. Die Vorschläge sind didaktische Konkretisierungen und keine neuen amtlichen Ziele oder Aufgaben. Eigene Texte werden weiterhin nur nach ausdrücklicher Übernahme ersetzt.
+
+[Formulierungsprüfung aller 31 Karten](review_learning_objects_001.json) mit Vorher/Nachher, Grenzen und bestehenden Quellenankern. Keine neue Anschlusskarte oder geprüfte Zielzeile; Zeilenaudit, Fortschrittszähler und Fortsetzung MA-021 / page912_187057 bleiben unverändert.

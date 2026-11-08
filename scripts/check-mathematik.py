@@ -111,6 +111,8 @@ def check_number_range_alignment(card):
 used_anchors = set()
 used_sources = set()
 for card in cards:
+    assert card.get("shared_object_suggestion", "").strip(), (card["id"], "missing shared mathematical object")
+    assert card["shared_object_suggestion"].strip().casefold() != card["theme"].strip().casefold(), (card["id"], "shared object must not merely repeat the card title")
     card_id = card['id']
     check_fsp_scope(card)
     assert re.fullmatch(r'MA-\d{3}', card_id) and card['subject'] == 'Mathematik'
