@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-08.7",
+  "version": "MA-2026-11-08.8",
   "checked_on": "2026-11-08",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -830,6 +830,18 @@
       "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum · Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37889",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187069",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187069",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187070",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Zahlenfolgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187070",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -3949,6 +3961,97 @@
         "context_only_gs_ids": [
           "page912_1857"
         ]
+      }
+    },
+    {
+      "id": "MA-039",
+      "subject": "Mathematik",
+      "theme": "Zahlenfolgen mit gleichbleibender Schrittweite",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · FSP-Zahlenraum aus übergreifendem Ziel",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Zahlenfolgen als arithmetisches Muster erkennen, beschreiben und fortsetzen bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Schrittweise vorwärts und rückwärts zählen; Naturkontext, didaktisch bis 20",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Kennen · FSP: Beherrschen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau (37739) abgeleitet. Die FSP-Zählzeilen selbst nennen keine eigene Obergrenze. Der Teilanschluss deckt weder den vollständigen GS-Zahlenraum noch den gesamten Muster- und Regelanspruch ab. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS Kennen stammt aus 1857, FSP Beherrschen aus 37931. GS 187069/187070 betrifft Erkennen, Beschreiben und Fortsetzen von Mustern/Zahlenfolgen; FSP 37950/37952 belegt Schrittzählen und Vorwärts-/Rückwärtszählen. Der gemeinsame Ausschnitt ist das Fortsetzen gleichschrittiger Folgen. Das selbstständige Entdecken und Beschreiben einer Bildungsregel wird nicht als gleichwertiges FSP-Ziel behauptet. Die Auswahl von 2er-/5er-Schritten stammt aus der FSP-Bemerkung und ist eine didaktische Eingrenzung, keine zusätzliche Pflicht. Naturkontext bleibt erhalten. MA-020 behandelt das Zählen unter GS Beherrschen (1842); hier steht der Musterbezug unter GS Kennen (1857) mit eigenem GS-Feinziel im Mittelpunkt. Keine erneute Prüfung oder Zählung der GS-Zeile 1844. Offen bleiben: Andere oder wechselnde Bildungsregeln, vollständiges selbstständiges Erkennen/Beschreiben von Regeln auf FSP-Seite, alle bildlichen/sprachlichen/symbolischen Darstellungsbezüge und der GS-Zahlenraum oberhalb 20. Strukturierte Aufgabenformate (187071) und operative Aufgabenserien (187072) bleiben getrennte Prüfpunkte.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_187069",
+        "page912_187070"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_187069",
+        "Q-MA-page912_187070",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37950",
+        "Q-MA-page139_37952",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau (37739) abgeleitet. Die FSP-Zählzeilen selbst nennen keine eigene Obergrenze. Der Teilanschluss deckt weder den vollständigen GS-Zahlenraum noch den gesamten Muster- und Regelanspruch ab. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS Kennen stammt aus 1857, FSP Beherrschen aus 37931. GS 187069/187070 betrifft Erkennen, Beschreiben und Fortsetzen von Mustern/Zahlenfolgen; FSP 37950/37952 belegt Schrittzählen und Vorwärts-/Rückwärtszählen. Der gemeinsame Ausschnitt ist das Fortsetzen gleichschrittiger Folgen. Das selbstständige Entdecken und Beschreiben einer Bildungsregel wird nicht als gleichwertiges FSP-Ziel behauptet. Die Auswahl von 2er-/5er-Schritten stammt aus der FSP-Bemerkung und ist eine didaktische Eingrenzung, keine zusätzliche Pflicht. Naturkontext bleibt erhalten. MA-020 behandelt das Zählen unter GS Beherrschen (1842); hier steht der Musterbezug unter GS Kennen (1857) mit eigenem GS-Feinziel im Mittelpunkt. Keine erneute Prüfung oder Zählung der GS-Zeile 1844. Offen bleiben: Andere oder wechselnde Bildungsregeln, vollständiges selbstständiges Erkennen/Beschreiben von Regeln auf FSP-Seite, alle bildlichen/sprachlichen/symbolischen Darstellungsbezüge und der GS-Zahlenraum oberhalb 20. Strukturierte Aufgabenformate (187071) und operative Aufgabenserien (187072) bleiben getrennte Prüfpunkte.",
+      "shared_object_suggestion": "Gleich große Zählschritte beim Erkunden der Natur – eine Zahlenfolge wächst oder wird kleiner.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt und beschreibt bei einer Zahlenfolge bis 100 die gleichbleibende Richtung und Schrittweite von 2 oder 5 und setzt die Folge passend fort.",
+          "criterion": "Die beschriebene Regel passt zu jedem Übergang der ausgewählten gleichschrittigen Folge; die Fortsetzung erhält Richtung und Schrittweite. Alle Folgenglieder, Schrittweiten sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegativ und bis 100.",
+          "status": "Didaktische Konkretisierung; ausgewählte gleichschrittige Folgen, keine vollständige Musterabdeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind setzt im Naturkontext eine Zahlenfolge bis 20 mit vorgegebener Richtung und gleichbleibender Schrittweite von 2 oder 5 sicher fort.",
+          "criterion": "Bei jedem Zählschritt bleiben die vorgegebene Richtung und Schrittweite erhalten. Alle Folgenglieder, Anzahlen, Schrittweiten sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegativ und bis 20. Eigenständiges Entdecken oder sprachliches Begründen der Regel wird nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung aus Zählzielen und Bemerkungen; Zahlenrahmen aus dem übergreifenden Stufenziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zum Zahlaufbau (37739) abgeleitet. Die FSP-Zählzeilen selbst nennen keine eigene Obergrenze. Der Teilanschluss deckt weder den vollständigen GS-Zahlenraum noch den gesamten Muster- und Regelanspruch ab.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "Zahlenfolgen 187070 unter Musterziel 187069 und Hauptziel Kennen 1857; nur gleichschrittiger Ausschnitt. 1857/187069 sind Kontext, keine vollständige Zieldeckung.",
+        "fsp": "Schrittzählen sowie Vorwärts-/Rückwärtszählen als Zielzeilen unter Beherrschen 37931. Schrittweiten und Fortsetzen aus Bemerkungen didaktisch eingegrenzt; keine eigenständige FSP-Regelerkundungsforderung erfunden.",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_187069"
+        ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "37950/37952 stehen unter Beherrschen von Zählhandlungen beim Erkunden der Natur (37931), ohne eigene numerische Obergrenze. Bis 20 wird aus dem übergreifenden Ziel zum Zahlaufbau 37739 didaktisch abgeleitet. Die 2er-/5er-Schritte sind Differenzierungsbeispiele in Bemerkung 37950; Unterbrechen/Fortsetzen steht in Bemerkung 37952.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen; vorgegebene Richtung und konstante Schrittweite 2 oder 5. Startzahl, sämtliche Folgenglieder und Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20. Die Fortsetzung endet vor einem Schritt über 20 oder unter 0. Keine wechselnden Regeln, keine automatische Aufgaben-/Materialvorgabe; Naturkontext und vorgegebene Regel erhalten."
       }
     }
   ]

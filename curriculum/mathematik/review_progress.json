@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-026",
+  "last_batch": "MA-027",
   "complete": false,
   "counts": {
-    "cards": 38,
+    "cards": 39,
     "cross_band": 7
   },
   "source_plans": {
@@ -1469,10 +1469,36 @@
       "version": "2019",
       "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
       "remarks": ""
+    },
+    "page912_187069": {
+      "id": "page912_187069",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187069",
+      "version": "2026",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": ""
+    },
+    "page912_187070": {
+      "id": "page912_187070",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187070",
+      "version": "2026",
+      "target": "Zahlenfolgen",
+      "remarks": "bildlich, sprachlich und symbolisch Bildungsregeln ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
     }
   },
-  "next_id": "page912_187069",
-  "next_step": "GS 1/2 arithmetische Muster (187069) mit Zahlenfolgen (187070), strukturierten Aufgabenformaten (187071) und operativen Aufgabenserien (187072) gegen beide FSP-Bänder prüfen; danach Fachbegriffe (187073). 1864/187068 in MA-026 nur begrenzt zugeordnet; Bewertungs-/Begründungsreste sowie Erfahrungsvergleich bleiben offen. Vorhandene 38 Karten nicht erneut zählen; sieben Anschlussfragen und alle Restumfänge erhalten.",
+  "next_id": "page912_187071",
+  "next_step": "GS 1/2 strukturierte Aufgabenformate (187071) und operative Aufgabenserien (187072) gegen beide FSP-Bänder prüfen; FSP-Wahlbereich Zahlenzauberei (38017/38019) und konkrete Rechenbeziehungen getrennt von allgemeinem Mustererkennen beurteilen. Danach Fachbegriffe (187073). Zahlenfolgen 187070 in MA-027 nur gleichschrittig zugeordnet; 187069 bleibt Kontext ohne vollständige Abdeckung. MA-020 und MA-039 nicht als neue Prüfung derselben Zählzeile zählen. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1544,7 +1570,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_026.json",
+  "last_review_file": "review_batch_027.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1748,6 +1774,11 @@
       "gs_id": "page912_187068",
       "scope": "Vergleich mit Erfahrungswerten, weitere Plausibilitätsbeziehungen, die Kontrolle von Subtraktionen, Selbstkontrollgewohnheit und GS-Zahlenraum oberhalb 20. Die bestehenden Umkehr-/Familien-/Ergänzungskarten belegen diese Restumfänge nicht automatisch.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187070",
+      "scope": "Andere oder wechselnde Bildungsregeln, vollständiges selbstständiges Erkennen/Beschreiben von Regeln auf FSP-Seite, alle bildlichen/sprachlichen/symbolischen Darstellungsbezüge und der GS-Zahlenraum oberhalb 20. Strukturierte Aufgabenformate (187071) und operative Aufgabenserien (187072) bleiben getrennte Prüfpunkte.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1764,7 +1795,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Weiterhin 67 inventarisierte Zeilen. MA-026 ordnet 1864/187068 begrenzte Ausschnitte zu (MA-037/038), keine vollständige Zieldeckung. 38 Karten, sieben stufenübergreifend; Fortsetzung 187069. Keine neue Inventur oder Doppelzählung.",
+    "note": "Weiterhin 67 inventarisierte Zeilen. MA-027: Zahlenfolgen 187070 teilweise zugeordnet (MA-039); 187069 nur übergeordneter Kontext, keine zweite Inhaltsdeckung. 39 Karten, sieben stufenübergreifend. Keine neue Inventur und keine erneute Zählung der alten Zählzeile 1844; Fortsetzung 187071.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
