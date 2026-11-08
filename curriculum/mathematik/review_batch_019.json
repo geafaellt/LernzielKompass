@@ -246,6 +246,19 @@
       "version": "2019",
       "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
       "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel"
+    },
+    {
+      "id": "page139_35470",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "operator": "Übertragen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "version": "2019",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung"
     }
   ],
   "context_evidence": {
@@ -305,7 +318,7 @@
         "page139_35505",
         "page139_35509"
       ],
-      "decision": "FSP1/2 nennt Vereinigungs- und Differenzmengen unter Einblick gewinnen sowie Addition und Subtraktion. Diese expliziten Inhaltsbelege tragen den begrenzten Operationsausschnitt. FSP3/4 Addieren/Subtrahieren bis100 unter Beherrschen ist eine Alternative, aber kein Grund, den stufengleichen Inhaltsanschluss zu ersetzen. Schriftliche Verfahren werden nicht als Beleg für Grundvorstellungen verwendet.",
+      "decision": "FSP1/2 nennt Vereinigungs- und Differenzmengen unter Einblick gewinnen sowie Addition und Subtraktion. Diese expliziten Inhaltsbelege tragen den begrenzten Operationsausschnitt. FSP3/4 Addieren/Subtrahieren bis100 unter Übertragen (Hauptziel35470) ist eine Alternative, aber kein Grund, den stufengleichen Inhaltsanschluss zu ersetzen. Schriftliche Verfahren werden nicht als Beleg für Grundvorstellungen verwendet.",
       "operators": {
         "gs": "Kennen",
         "fsp": "Einblick gewinnen"
@@ -342,7 +355,7 @@
         "page139_35505",
         "page139_35509"
       ],
-      "decision": "FSP1/2 nennt Vereinigungs- und Differenzmengen unter Einblick gewinnen sowie Addition und Subtraktion. Diese expliziten Inhaltsbelege tragen den begrenzten Operationsausschnitt. FSP3/4 Addieren/Subtrahieren bis100 unter Beherrschen ist eine Alternative, aber kein Grund, den stufengleichen Inhaltsanschluss zu ersetzen. Schriftliche Verfahren werden nicht als Beleg für Grundvorstellungen verwendet.",
+      "decision": "FSP1/2 nennt Vereinigungs- und Differenzmengen unter Einblick gewinnen sowie Addition und Subtraktion. Diese expliziten Inhaltsbelege tragen den begrenzten Operationsausschnitt. FSP3/4 Addieren/Subtrahieren bis100 unter Übertragen (Hauptziel35470) ist eine Alternative, aber kein Grund, den stufengleichen Inhaltsanschluss zu ersetzen. Schriftliche Verfahren werden nicht als Beleg für Grundvorstellungen verwendet.",
       "operators": {
         "gs": "Kennen",
         "fsp": "Einblick gewinnen"
@@ -393,5 +406,16 @@
     "live_byte_match": true,
     "html_sha256": "e1d4e9ac8e9559b59e598e80a86e50d7181d395a1bde6cb99f704efad443bf61",
     "live_browser": "passed"
-  }
+  },
+  "corrections": [
+    {
+      "batch": "MA-020",
+      "date": "2026-11-08",
+      "anchor": "page139_35479",
+      "parent": "page139_35470",
+      "previous_statement": "Alternative FSP3/4 Addieren/Subtrahieren unter Beherrschen",
+      "correct_statement": "Unterziel35479 gehört zu Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt (35470), nicht zu Beherrschen der Zahlen bis100 (35461).",
+      "impact": "Nur die Beschreibung der geprüften Alternative war falsch. Die gespeicherten Quellmetadaten hatten den richtigen Elternanker35470. MA-027/028 verwenden FSP1/2 Einblick gewinnen; keine bestehende Karte oder Feinzielgrenze ändert sich."
+    }
+  ]
 }

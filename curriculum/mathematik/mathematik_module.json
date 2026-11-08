@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-07.15",
-  "checked_on": "2026-11-07",
+  "version": "MA-2026-11-08.1",
+  "checked_on": "2026-11-08",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -728,6 +728,36 @@
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187055",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187056",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187056",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1861",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1861",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37896",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37898",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37898",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37908",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -2978,6 +3008,101 @@
       "evidence_classification": {
         "gs": "Verbindliche Operationsvorstellung unter Kennen; Hauptziel 1857 und Unterziel 1858 sind Kontext, keine vollständige Zieldeckung.",
         "fsp": "Verbindliche Vereinigungs-/Differenzmengen und Addition/Subtraktion unter Einblick gewinnen; Operationsdeutung als didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1858"
+        ]
+      }
+    },
+    {
+      "id": "MA-029",
+      "subject": "Mathematik",
+      "theme": "Bildliche Sachsituationen als Gleichung ausdrücken",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Bildsituation → Gleichung · Belege aus FSP-Bemerkungen",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Operationsdarstellungen vernetzen und Lösungsansätze aufstellen; begrenzt auf Bildsituation → Additions-/Subtraktionsgleichung bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Wesentliche Angaben und Rechenoperation erkennen; Gleichung als ausgewählter Lösungsansatz aus Bemerkung, didaktisch bis 20",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Sachaufgabenziele nennen keine eigene Obergrenze. Der Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss: GS Kennen, FSP Einblick gewinnen. Der FSP nennt das Herausfinden wesentlicher Angaben und der Rechenoperation sowie das Probieren verschiedener Lösungswege. Situationsbilder stehen in der Bemerkung zum Hauptziel, Term oder Gleichung in der Bemerkung zu den Lösungswegen. Der gerichtete Zusammenhang Bildsituation → Additions- oder Subtraktionsgleichung ist eine didaktische Konkretisierung dieser Belege, keine wörtliche Forderung nach sämtlichen Darstellungswechseln. Die gleiche Karte trägt den begrenzten Gleichungsansatz von GS 1861; eine zweite Karte für denselben Gegenstand wird nicht erzeugt. Die Umkehrrichtung, Tabellen, weitere Schaubilder, isolierte Terme, Ungleichungen, Platzhalter an verschiedenen Positionen und das Vergleichen mehrerer Lösungswege sind nicht vollständig abgedeckt. Auch das vollständige FSP-Probieren verschiedener Lösungswege wird nicht behauptet. MA-027 und MA-028 bleiben beim Operationsverständnis; vorhandene Mengen- und Stellenwertkarten werden nicht als Operationsvernetzung doppelt gezählt.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1858",
+        "page912_187056",
+        "page912_1861"
+      ],
+      "fsp_target_ids": [
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1858",
+        "Q-MA-page912_187056",
+        "Q-MA-page912_1861",
+        "Q-MA-page139_37896",
+        "Q-MA-page139_37898",
+        "Q-MA-page139_37908",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Sachaufgabenziele nennen keine eigene Obergrenze. Der Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss: GS Kennen, FSP Einblick gewinnen. Der FSP nennt das Herausfinden wesentlicher Angaben und der Rechenoperation sowie das Probieren verschiedener Lösungswege. Situationsbilder stehen in der Bemerkung zum Hauptziel, Term oder Gleichung in der Bemerkung zu den Lösungswegen. Der gerichtete Zusammenhang Bildsituation → Additions- oder Subtraktionsgleichung ist eine didaktische Konkretisierung dieser Belege, keine wörtliche Forderung nach sämtlichen Darstellungswechseln. Die gleiche Karte trägt den begrenzten Gleichungsansatz von GS 1861; eine zweite Karte für denselben Gegenstand wird nicht erzeugt. Die Umkehrrichtung, Tabellen, weitere Schaubilder, isolierte Terme, Ungleichungen, Platzhalter an verschiedenen Positionen und das Vergleichen mehrerer Lösungswege sind nicht vollständig abgedeckt. Auch das vollständige FSP-Probieren verschiedener Lösungswege wird nicht behauptet. MA-027 und MA-028 bleiben beim Operationsverständnis; vorhandene Mengen- und Stellenwertkarten werden nicht als Operationsvernetzung doppelt gezählt.",
+      "shared_object_suggestion": "Bildliche Sachsituationen als Gleichung ausdrücken",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt in einer überschaubaren bildlich dargestellten Sachsituation eine additive Beziehung und drückt sie als passende Additions- oder Subtraktionsgleichung im Zahlenraum bis 100 aus.",
+          "criterion": "Zahlen und Rechenoperation passen zur dargestellten Beziehung; die Gleichung beschreibt sie zutreffend. Alle Situationsanzahlen, eingetragenen Werte sowie relevanten Zwischen- und Endergebnisse bleiben bis 100. Es werden nur nichtnegative ganze Anzahlen verwendet.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt in einer überschaubaren bildlich dargestellten Sachsituation eine additive Beziehung und stellt sie durch eine passende Additions- oder Subtraktionsgleichung im Zahlenraum bis 20 dar.",
+          "criterion": "Wesentliche Anzahlen und Rechenoperation sind zutreffend zugeordnet; die Gleichung beschreibt die Bildsituation passend. Alle Situationsanzahlen, eingetragenen Werte sowie relevanten Zwischen- und Endergebnisse bleiben bis 20. Es werden nur nichtnegative ganze Anzahlen verwendet.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Stufenbandziel zu Mengen und Operationsvorstellungen abgeleitet. Die ausgewählten FSP-Sachaufgabenziele nennen keine eigene Obergrenze. Der Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "Die FSP-Sachaufgabenziele 37896, 37898 und 37908 nennen keine eigene Obergrenze. Das übergreifende Stufenbandziel 1/2 benennt Mengen und Operationsvorstellungen sowie Addition/Subtraktion bis 20. Der ausgewählte additive Gleichungsansatz wird didaktisch auf diesen Rahmen begrenzt.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Alle dargestellten Anzahlen, Zahlen in der Gleichung, relevanten Zwischen- und Endergebnisse bleiben bis 20. Auch die Summe darf 20 nicht überschreiten; bei Subtraktion darf die weggenommene Anzahl nicht größer als die Ausgangsanzahl sein. Nur nichtnegative ganze Anzahlen, keine Einheitenumrechnung und keine Erweiterung auf andere Rechenarten."
+      },
+      "evidence_classification": {
+        "gs": "Zwei verbindliche Unterzielzeilen unter Kennen (1857), verbunden durch einen einzigen begrenzten Gleichungsgegenstand; 1858 nur Kontext zur Darstellungsvernetzung.",
+        "fsp": "Wesentliche Angaben/Rechenoperation und Probieren verschiedener Lösungswege sind Zielzeilen. Situationsbilder (37896) und Term oder Gleichung (37908) sind Bemerkungsbelege; gerichtete Übertragung didaktisch konkretisiert.",
+        "fsp_remark_anchors": [
+          "page139_37896",
+          "page139_37908"
+        ],
         "context_only_gs_ids": [
           "page912_1857",
           "page912_1858"

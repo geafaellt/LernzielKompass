@@ -1,0 +1,374 @@
+{
+  "id": "MA-020",
+  "date": "2026-11-08",
+  "base_commit": "87cd8a492313689a8273e8ba5026fb21417d6fae",
+  "scope": "Darstellungsvernetzung und Gleichungsansatz in additiven Sachsituationen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1857",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1857",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1857",
+      "version": "2026",
+      "target": "Kennen der Addition und Subtraktion im Zahlenraum bis 100",
+      "remarks": "Operationsverständnis"
+    },
+    {
+      "id": "page912_1858",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1858",
+      "version": "2026",
+      "target": "Entwickeln von Grundvorstellungen der Rechenoperationen",
+      "remarks": "Bezug zur Alltags- und Umwelterfahrung der Schülerinnen und Schüler"
+    },
+    {
+      "id": "page912_187056",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187056",
+      "version": "2026",
+      "target": "Vernetzen von Darstellungen",
+      "remarks": ""
+    },
+    {
+      "id": "page912_1861",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1861",
+      "version": "2026",
+      "target": "Aufstellen von Lösungsansätzen unter Nutzung von Tabellen, Schaubildern, Termen, Gleichungen, Ungleichungen",
+      "remarks": "Variable als Platzhalter ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
+    },
+    {
+      "id": "page139_37851",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "version": "2019",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten"
+    },
+    {
+      "id": "page139_37859",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859",
+      "version": "2019",
+      "target": "Bilden von Vereinigungs- und Differenzmengen",
+      "remarks": "aus aktuellem Geschehen, Situationsbildern und Rechengeschichten Zerlegen in Teilmengen, Bündeln"
+    },
+    {
+      "id": "page139_37863",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "version": "2019",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter"
+    },
+    {
+      "id": "page139_37866",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37866",
+      "version": "2019",
+      "target": "Verwenden der Zeichen +, – und = in Gleichungen",
+      "remarks": "Addition/Subtraktion mit und ohne Platzhalter"
+    },
+    {
+      "id": "page139_37896",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "version": "2019",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten"
+    },
+    {
+      "id": "page139_37898",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37898",
+      "version": "2019",
+      "target": "Herausfinden der wesentlichen Angaben und der Rechenoperation",
+      "remarks": "Umformulieren, Hinterfragen des Textes, Hervorheben durch Unterstreichen, Suche nach Signalwörtern, Erkennen einer Frage"
+    },
+    {
+      "id": "page139_37908",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
+      "version": "2019",
+      "target": "Probieren verschiedener Lösungswege",
+      "remarks": "Skizze, Tabelle, Term oder Gleichung"
+    },
+    {
+      "id": "page139_35461",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461",
+      "version": "2019",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben"
+    },
+    {
+      "id": "page139_35470",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "operator": "Übertragen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "version": "2019",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung"
+    },
+    {
+      "id": "page139_35479",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "version": "2019",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben"
+    },
+    {
+      "id": "page139_35504",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "version": "2019",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung"
+    },
+    {
+      "id": "page139_35508",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35508",
+      "version": "2019",
+      "target": "Unterscheiden von wesentlichen und unwesentlichen Informationen",
+      "remarks": "mögliche Fragen formulieren, notieren Scherz- und Denkaufgaben"
+    },
+    {
+      "id": "page139_35509",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "version": "2019",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel"
+    }
+  ],
+  "context_evidence": {
+    "id": "page139_37739",
+    "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+    "kind": "stage_goals",
+    "grade": "1/2",
+    "excerpt": "erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20",
+    "use": "Übergreifender Operationsrahmen; didaktische Feinzielgrenze für den additiven Sachkontext, keine eigene Obergrenze der Sachaufgabenzielzeilen."
+  },
+  "new_cards": [
+    "MA-029"
+  ],
+  "existing_cards_rechecked": [
+    "MA-010",
+    "MA-015",
+    "MA-024",
+    "MA-027",
+    "MA-028"
+  ],
+  "existing_card_decisions": "Menge→Zahl, Teil-Ganzes-Beziehung, Zehner-Einer-Darstellung und Operationsbedeutungen bleiben unverändert. Diese Inhalte belegen für sich keine vollständige Vernetzung der Operationsdarstellungen; MA-029 führt den gesonderten Sachkontext→Gleichungsansatz mit eigener FSP-Hauptzielhierarchie.",
+  "decisions": [
+    {
+      "gs_id": "page912_187056",
+      "status": "partially_reviewed",
+      "card": "MA-029",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37866",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35470",
+        "page139_35479",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509"
+      ],
+      "decision": "FSP1/2 37896/37898/37908 verbindet den Sachkontext mit Angaben/Rechenoperation und Lösungswegen; Situationsbilder und Gleichung sind konkrete Bemerkungsbelege. Daraus wird ein gerichteter, additiver Gleichungsansatz didaktisch ausgewählt. Der passende Bandanschluss wird bevorzugt. FSP3/4 35479 hat einen ausdrücklichen bildlich→symbolisch-Hinweis in der Bemerkung unter Übertragen (35470); 35509 nennt mathematisches Darstellen unter Einblick gewinnen (35504). Beide Alternativen sind fachlich verwandt, ersetzen nicht automatisch den belegten passenden Bandanschluss.",
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Einblick gewinnen",
+        "fsp_3_4_alternative_35479": "Übertragen",
+        "fsp_3_4_alternative_35509": "Einblick gewinnen"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_target_row_max": null,
+        "fsp_didactic_max": 20,
+        "context_anchor": "page139_37739"
+      },
+      "prerequisites": "Wesentliche Anzahlen erkennen, Operationsbedeutung unterscheiden und die additive Beziehung mit einer Gleichung verbinden; nichtnegative ganzzahlige Anzahlen, gültige Summen bzw. enthaltene weggenommene Teilmenge.",
+      "uncertainty": "Die FSP-Sachaufgabenzielzeilen fordern nicht ausdrücklich jede Wechselrichtung und Darstellungsform; gerichteter Übergang und Auswahl einer Gleichung sind didaktische Konkretisierungen. Mehrere Lösungswege sind durch einen einzelnen Gleichungsansatz nicht vollständig abgedeckt.",
+      "remaining": "Weitere Darstellungsarten und Wechselrichtungen, insbesondere Gleichung → Bildsituation; Vernetzen sämtlicher Handlung-, Bild-, Sprach- und Symbolbezüge; GS-Zahlenraum jenseits des didaktischen FSP-Rahmens bis20."
+    },
+    {
+      "gs_id": "page912_1861",
+      "status": "partially_reviewed",
+      "card": "MA-029",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37866",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "cross_band_candidates": [
+        "page139_35461",
+        "page139_35470",
+        "page139_35479",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509"
+      ],
+      "decision": "FSP1/2 37896/37898/37908 verbindet den Sachkontext mit Angaben/Rechenoperation und Lösungswegen; Situationsbilder und Gleichung sind konkrete Bemerkungsbelege. Daraus wird ein gerichteter, additiver Gleichungsansatz didaktisch ausgewählt. Der passende Bandanschluss wird bevorzugt. FSP3/4 35479 hat einen ausdrücklichen bildlich→symbolisch-Hinweis in der Bemerkung unter Übertragen (35470); 35509 nennt mathematisches Darstellen unter Einblick gewinnen (35504). Beide Alternativen sind fachlich verwandt, ersetzen nicht automatisch den belegten passenden Bandanschluss.",
+      "operators": {
+        "gs": "Kennen",
+        "fsp": "Einblick gewinnen",
+        "fsp_3_4_alternative_35479": "Übertragen",
+        "fsp_3_4_alternative_35509": "Einblick gewinnen"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_target_row_max": null,
+        "fsp_didactic_max": 20,
+        "context_anchor": "page139_37739"
+      },
+      "prerequisites": "Wesentliche Anzahlen erkennen, Operationsbedeutung unterscheiden und die additive Beziehung mit einer Gleichung verbinden; nichtnegative ganzzahlige Anzahlen, gültige Summen bzw. enthaltene weggenommene Teilmenge.",
+      "uncertainty": "Die FSP-Sachaufgabenzielzeilen fordern nicht ausdrücklich jede Wechselrichtung und Darstellungsform; gerichteter Übergang und Auswahl einer Gleichung sind didaktische Konkretisierungen. Mehrere Lösungswege sind durch einen einzelnen Gleichungsansatz nicht vollständig abgedeckt.",
+      "remaining": "Weitere Lösungsansätze mittels Tabellen, Schaubildern, isolierten Termen, Ungleichungen, Platzhaltern an verschiedenen Positionen sowie weitere Sachsituationen und Zahlenraum oberhalb20. Ein Gleichungsansatz ist keine vollständige Deckung dieser Liste."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "new_cards": 1,
+    "cards": 29,
+    "cross_band_cards": 7,
+    "source_links": 108,
+    "target_anchors": 106,
+    "audit_rows": 67,
+    "open_connection_questions": 6
+  },
+  "continuation": "GS1/2 Rechenstrategien: 1862 und 1863 (bekannte Aufgaben/Grundaufgaben), anschließend 187057 ff. gegen beide FSP-Bänder prüfen. MA-029 deckt 187056/1861 nur für Bildsituation → additive Gleichung bis didaktisch20. Weitere Darstellungen und Wechselrichtungen, Hinzufügen, Ergänzen und vergleichende Differenzbestimmung bleiben Restumfänge; sechs Anschlussfragen und frühere Restumfänge bewahren.",
+  "tests": {
+    "update_mathematik": "passed",
+    "check_deutsch": "passed: 178 cards, 117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: root/dist synchronized; information panel retained",
+    "check_mathematik": "passed: 29 cards, 108 sources, 106 target anchors and 2 context sources",
+    "scope_regression": "passed: invalid scope/context and malformed reused evidence rejected",
+    "source_hierarchy": "passed: all quoted targets and remarks match live source; actual preceding main-target rows verified, including 35479 under Übertragen35470",
+    "check_fsp_info": "passed: 10 reviewed cases unchanged",
+    "preservation": "passed: 28 existing math cards unchanged; app differences limited to math payload, version and date; 67 unique audit rows; two newly reviewed target rows, one card, no parent coverage",
+    "browser_local": "passed: all29 cards, scope in cards/goals/output, sources, adoption, empty tasks/aids, teacher drafts, subject isolation, mobile layout",
+    "fsp_info_browser_local": "passed: 10 cases, excerpt links, keyboard, filters, mobile, print exclusion and draft preservation",
+    "browser_live": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.325"
+  },
+  "corrections_to_prior_review": [
+    {
+      "batch": "MA-020",
+      "date": "2026-11-08",
+      "anchor": "page139_35479",
+      "parent": "page139_35470",
+      "previous_statement": "Alternative FSP3/4 Addieren/Subtrahieren unter Beherrschen",
+      "correct_statement": "Unterziel35479 gehört zu Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt (35470), nicht zu Beherrschen der Zahlen bis100 (35461).",
+      "impact": "Nur die Beschreibung der geprüften Alternative war falsch. Die gespeicherten Quellmetadaten hatten den richtigen Elternanker35470. MA-027/028 verwenden FSP1/2 Einblick gewinnen; keine bestehende Karte oder Feinzielgrenze ändert sich."
+    }
+  ]
+}

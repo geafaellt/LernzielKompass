@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-019
+# Mathematik-Abgleich · MA-020
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Achtundzwanzig Karten dokumentieren begrenzte Anschlüsse. Einundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Neunundzwanzig Karten dokumentieren begrenzte Anschlüsse. Zweiundzwanzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -242,7 +242,7 @@ Drei neue Unterzielzeilen begrenzt geprüft, Elternzeile 1856 nur als Kontext. B
 
 ## MA-019 · Operationsverständnis: Vereinigen und Wegnehmen · App 1.324
 
-MA-027 verbindet GS 187054 mit dem Vereinigen disjunkter Mengen, MA-028 verbindet GS 187055 mit Wegnehmen einer enthaltenen Teilmenge und Restmenge. Grundlage sind die ausdrücklichen FSP 1/2-Zeilen 37859 (Vereinigungs-/Differenzmengen) und 37863 (Addition/Subtraktion), unter Einblick gewinnen (37851). GS verlangt Kennen (1857). Beide FSP-Bänder wurden geprüft; der passende 1/2-Anschluss wird gegenüber der Alternative Addieren/Subtrahieren bis 100 unter Beherrschen in FSP 3/4 bevorzugt.
+MA-027 verbindet GS 187054 mit dem Vereinigen disjunkter Mengen, MA-028 verbindet GS 187055 mit Wegnehmen einer enthaltenen Teilmenge und Restmenge. Grundlage sind die ausdrücklichen FSP 1/2-Zeilen 37859 (Vereinigungs-/Differenzmengen) und 37863 (Addition/Subtraktion), unter Einblick gewinnen (37851). GS verlangt Kennen (1857). Beide FSP-Bänder wurden geprüft; der passende 1/2-Anschluss wird gegenüber der Alternative Addieren/Subtrahieren bis 100 unter Übertragen (35470) in FSP 3/4 bevorzugt. Diese Operatorzuordnung wurde in MA-020 berichtigt.
 
 Der Feinzielrahmen bis 20 stammt aus dem übergreifenden FSP 1/2-Ziel zu Mengen und Operationsvorstellungen; die Unterzielzeilen nennen keine eigene Obergrenze. Alle Teil-, Gesamt- und Restanzahlen, relevanten Zwischen- und Endergebnisse bleiben darin. Auch die Summe darf 20 nicht überschreiten; weggenommene Mengen sind Teilmengen, negative Ergebnisse ausgeschlossen. Der GS-Zahlenraum bis 100 wird nicht vollständig gedeckt. Aufgaben und Hilfsmittel werden nicht ergänzt.
 
@@ -251,3 +251,16 @@ MA-015 bleibt unverändert bei der Teil-Ganzes-Beziehung unter GS-Beherrschen. S
 Zwei weitere Unterzielzeilen begrenzt geprüft; 1857 und 1858 nur Kontext. Bestand 28 Karten, davon 7 stufenübergreifend; 103 Quellenlinks (101 Zielanker, zwei Kontextquellen), weiterhin 67 inventarisierte Zeilen. Hinzufügen, Ergänzen und vergleichendes Bestimmen der Differenz bleiben als Restumfänge dokumentiert. Fortsetzung bei 187056 (Darstellungsvernetzung), danach 1861. Sechs bisherige Anschlussfragen bleiben offen; der Gesamtvergleich ist nicht abgeschlossen. Prüf- und Veröffentlichungsnachweise: review_batch_019.json.
 
 Datenprüfungen, Zahlenraumregressionen und lokaler Browserdurchlauf aller 28 Mathematikkarten bestanden. Die zehn Fälle der Informationsübersicht wurden ebenfalls im Browser geprüft; eigene Entwürfe bleiben erhalten. App 1.324 wurde mit Commit bb4c08289fcafedb008edbe2bda307e0a0f0b33d auf main veröffentlicht; [Pages-Lauf 42408988638](https://github.com/geafaellt/LernzielKompass/actions/runs/42408988638) ist erfolgreich. Die öffentliche App stimmt bytegenau mit der geprüften Fassung überein. Beide Browserprüfungen wurden auf der öffentlichen Seite erfolgreich wiederholt.
+
+
+## MA-020 · Bildsituation und Gleichungsansatz · App 1.325
+
+MA-029 verbindet GS 187056 (Darstellungsvernetzung) und 1861 (Lösungsansätze) mit einem einzigen begrenzten Gegenstand: Bildsituation → Additions-/Subtraktionsgleichung. Beide GS-Zeilen gehören zu Kennen (1857). FSP 1/2 nennt wesentliche Angaben/Rechenoperation (37898) und verschiedene Lösungswege (37908) unter Einblick gewinnen (37896); Situationsbilder und Gleichung stehen in den Bemerkungen. Die gerichtete Verbindung wird ausdrücklich didaktisch konkretisiert. Der passende Bandanschluss wird gegenüber geprüften FSP-3/4-Alternativen bevorzugt.
+
+Der FSP-Feinzielrahmen bis 20 stammt aus dem übergreifenden Operationsziel, nicht aus einer eigenen Grenze der Sachaufgabenzielzeilen. Dargestellte Anzahlen, Gleichungswerte sowie Zwischen- und Endergebnisse bleiben darin; Summe höchstens 20, keine negative Restanzahl. Keine Aufgaben, Lernhandlungen oder Hilfsmittel werden vorgeschlagen. Der gesamte GS-Bereich bis 100, sämtliche Darstellungswechsel, die Umkehrrichtung, weitere Tabellen-/Term-/Ungleichungsansätze, verschiedene Platzhalterpositionen und das Probieren mehrerer Lösungswege sind nicht vollständig abgedeckt.
+
+Korrektur zu MA-019: Der alternative FSP-3/4-Unterpunkt 35479 steht unter Übertragen (35470), nicht unter Beherrschen (35461). Der Quell-Elternanker war bereits richtig gespeichert; berichtigt werden die Entscheidungstexte und der Bericht. Die bisherigen 28 Karten und ihre Operatoren, Grenzen und Ziele bleiben unverändert. Die Korrektur ist in beiden Prüfpaketen nachvollziehbar dokumentiert.
+
+Zwei weitere GS-Zeilen begrenzt geprüft, eine neue Karte; keine Doppelzählung der gemeinsamen Karte oder der Elternziele. Bestand 29 Karten, davon sieben stufenübergreifend; 108 Quellenlinks (106 Zielanker, zwei Kontextquellen), weiterhin 67 inventarisierte Zeilen. Fortsetzung bei 1862/1863 (Rechenstrategien, bekannte Aufgaben). Sechs offene Anschlussfragen und bisherige Restumfänge bleiben erhalten. Prüf- und Veröffentlichungsnachweise: review_batch_020.json.
+
+Datenprüfungen, Zahlenraumregressionen und lokaler Browserdurchlauf aller 29 Mathematikkarten bestanden. Die zehn Fälle der Informationsübersicht wurden ebenfalls im Browser erfolgreich geprüft. Veröffentlichung und öffentliche Gegenprüfung werden im Prüfpaket dokumentiert.

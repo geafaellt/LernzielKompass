@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-019",
+  "last_batch": "MA-020",
   "complete": false,
   "counts": {
-    "cards": 28,
+    "cards": 29,
     "cross_band": 7
   },
   "source_plans": {
@@ -1266,10 +1266,65 @@
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187055",
       "version": "2026"
+    },
+    "page912_187056": {
+      "id": "page912_187056",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187056",
+      "version": "2026"
+    },
+    "page912_1861": {
+      "id": "page912_1861",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1861",
+      "version": "2026"
+    },
+    "page139_37896": {
+      "id": "page139_37896",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "version": "2019"
+    },
+    "page139_37898": {
+      "id": "page139_37898",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37898",
+      "version": "2019"
+    },
+    "page139_37908": {
+      "id": "page139_37908",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
+      "version": "2019"
     }
   },
-  "next_id": "page912_187056",
-  "next_step": "GS1/2 Vernetzen von Darstellungen im Operationsverständnis (page912_187056) gegen beide FSP-Bänder prüfen; danach 1861 (Lösungsansätze). MA-027/028 grenzen Vereinigen und Wegnehmen/Restmenge bis didaktisch20 ab; Hinzufügen, Ergänzen und vergleichendes Bestimmen der Differenz bleiben gesonderte Restumfänge. Sechs offene Anschlussfragen und alle früheren Restumfänge bewahren.",
+  "next_id": "page912_1862",
+  "next_step": "GS1/2 Rechenstrategien: 1862 und 1863 (bekannte Aufgaben/Grundaufgaben), anschließend 187057 ff. gegen beide FSP-Bänder prüfen. MA-029 deckt 187056/1861 nur für Bildsituation → additive Gleichung bis didaktisch20. Weitere Darstellungen und Wechselrichtungen, Hinzufügen, Ergänzen und vergleichende Differenzbestimmung bleiben Restumfänge; sechs Anschlussfragen und frühere Restumfänge bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1341,7 +1396,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_019.json",
+  "last_review_file": "review_batch_020.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1461,6 +1516,16 @@
       "gs_id": "page912_187055",
       "scope": "Ergänzen sowie vergleichendes Bestimmen der Differenz; der gewählte Wegnahme-/Restmengenaspekt deckt diese Vorstellungen nicht vollständig. Weiterer GS-Zahlenraum über20 bleibt offen.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187056",
+      "scope": "Weitere Darstellungsarten und Wechselrichtungen, insbesondere Gleichung → Bildsituation; Vernetzen sämtlicher Handlung-, Bild-, Sprach- und Symbolbezüge; GS-Zahlenraum jenseits des didaktischen FSP-Rahmens bis20.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_1861",
+      "scope": "Weitere Lösungsansätze mittels Tabellen, Schaubildern, isolierten Termen, Ungleichungen, Platzhaltern an verschiedenen Positionen sowie weitere Sachsituationen und Zahlenraum oberhalb20. Ein Gleichungsansatz ist keine vollständige Deckung dieser Liste.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1476,7 +1541,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Teilinventur von 67 Zeilen: vier GS1/2-Blöcke und ausgewählte GS3/4-Zeilen. Block1857: Operationsvorstellungen187054/187055 begrenzt geprüft, Eltern1857/1858 nur Kontext; ab187056 offen. Inventur zählt nicht als fachlicher Prüffortschritt.",
+    "note": "Teilinventur von 67 Zeilen: vier GS1/2-Blöcke und ausgewählte GS3/4-Zeilen. Block1857 bis einschließlich1861 begrenzt geprüft, Eltern1857/1858 nur Kontext; ab1862 offen. Inventur zählt nicht als fachlicher Prüffortschritt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
