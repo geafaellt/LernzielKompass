@@ -15,7 +15,16 @@
     "visual_review": "passed: desktop and mobile screenshots inspected",
     "fsp_info_local": "passed:10 cases, source links, filters, mobile and draft preservation",
     "mathematics_local": "passed:31 cards, scope in cards/goals/output, source links, adoption, empty task/aid fields, teacher drafts, subject isolation, mobile",
-    "public_browser": "pending"
+    "public_browser": "passed: start-page gate, supplied-model labels, concise visible text, keyboard/focus, selection entry, return/reload draft preservation, mobile320/390, print and no-JS fallback; full31-card mathematics browser regression passed"
   },
-  "publication": "pending"
+  "publication": {
+    "status": "success",
+    "branch": "main",
+    "commit": "d22a550acfa1284163d5799eb9e55b5e53a9bbbe",
+    "pages_run": 42464104009,
+    "pages_result": "completed success",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_bytes_equal_local": true,
+    "html_sha256": "5e2176d4df238e7ce7973079951fe5c2f86b43dd55e9730a9b9dc0747f0dd896"
+  }
 }
