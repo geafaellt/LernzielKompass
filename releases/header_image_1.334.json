@@ -9,6 +9,11 @@
     "mathematics_browser": "passed all 32 cards, scopes, goals, draft preservation and mobile layout"
   },
   "publication": {
-    "status": "pending"
+    "status": "verified",
+    "commit": "582e6fe05aa459c8d8210d21eab65b82a6257868",
+    "pages_run": 42471580410,
+    "pages_result": "completed success",
+    "delivered_html": "byte-identical to local checked index.html and dist/index.html",
+    "public_browser": "passed left position, image loading and no overflow at 1280/390/320"
   }
 }
