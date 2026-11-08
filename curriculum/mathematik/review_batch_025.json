@@ -1,0 +1,686 @@
+{
+  "id": "MA-025",
+  "date": "2026-11-08",
+  "base_commit": "5eca989348215197a18e5767114d74c50c8459ee",
+  "scope": "Gegensinniges und gleichsinniges Verändern im additiven GS-Strategieblock; Abgrenzung von Mengeninvarianz, Tausch-/Umkehrbeziehungen und allgemeiner Variation",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1857",
+      "level": 1,
+      "parent_target_id": "page912_1857",
+      "target": "Kennen der Addition und Subtraktion im Zahlenraum bis 100",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1857",
+      "operator": "Kennen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "is_elective": false,
+      "version": "2026"
+    },
+    {
+      "id": "page912_1862",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "target": "Lösen von Additions- und Subtraktionsaufgaben im Zahlenraum bis 100 durch Nutzen von Strategien",
+      "remarks": "gestütztes Kopfrechnen bzw. halbschriftliches Rechnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1862",
+      "operator": "Kennen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "is_elective": false,
+      "version": "2026"
+    },
+    {
+      "id": "page912_187064",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "target": "gegensinniges und gleichsinniges Verändern",
+      "remarks": "76 – 28 = 78 – 30 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187064",
+      "operator": "Kennen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "is_elective": false,
+      "version": "2026"
+    },
+    {
+      "id": "page912_1864",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "target": "Probieren, Begründen und Bewerten von unterschiedlichen Lösungswegen",
+      "remarks": "Lösungswege anderer kritisch bewerten lernen Rechenkonferenzen ⇒ Kommunikationsfähigkeit",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1864",
+      "operator": "Kennen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "is_elective": false,
+      "version": "2026"
+    },
+    {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804",
+      "operator": "Kennen",
+      "grade": "1/2",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes 80 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37816",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Strukturieren von Mengen",
+      "remarks": "Sortieren und Bündeln Invarianz: Anzahl der Elemente bleibt bei Umordnung gleich Relevanz: Anzahl bleibt bei unterschiedlichen Merkmalen der Elemente gleich Verbindung von Relevanz und Invarianz: paarweises Zuordnen, nicht zählen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37816",
+      "operator": "Kennen",
+      "grade": "1/2",
+      "area": "Lernbereich 1: Jeder ist etwas Besonderes 80 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Die Welt um mich herum 90 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37859",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Bilden von Vereinigungs- und Differenzmengen",
+      "remarks": "aus aktuellem Geschehen, Situationsbildern und Rechengeschichten Zerlegen in Teilmengen, Bündeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Die Welt um mich herum 90 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Die Welt um mich herum 90 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Lernbereich 2: Die Welt um mich herum 90 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "operator": "Beherrschen",
+      "grade": "1/2",
+      "area": "Lernbereich 3: Natur entdecken und erleben 50 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937",
+      "operator": "Beherrschen",
+      "grade": "1/2",
+      "area": "Lernbereich 3: Natur entdecken und erleben 50 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Wahlbereich 1: Im Märchenland",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38001",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Verändern von Mengen, Variieren von Rechenaufgaben",
+      "remarks": "Ordnen, Zuordnen, Vergleichen, Vergrößern, Verkleinern, Addieren und Subtrahieren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38001",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Wahlbereich 1: Im Märchenland",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38017",
+      "level": 1,
+      "parent_target_id": "page139_38017",
+      "target": "Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "remarks": "⇒ informatische Bildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017",
+      "operator": "Anwenden",
+      "grade": "1/2",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38019",
+      "level": 2,
+      "parent_target_id": "page139_38017",
+      "target": "Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "remarks": "Rechenblumen, -dominos, -mauern, -quadrate Nutzen verschiedener Kontrollverfahren, Lösungsbild, -wort, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "operator": "Anwenden",
+      "grade": "1/2",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38035",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Prüfen, ob das Problem rechnerisch lösbar ist",
+      "remarks": "Scherzaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38035",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_38037",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Skizze",
+      "remarks": "Strichliste, Bündelung, Schritte an der Geraden, 8 + 3 + 5 – 2 = 14",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38037",
+      "operator": "Einblick gewinnen",
+      "grade": "1/2",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "operator": "Übertragen",
+      "grade": "3/4",
+      "area": "Lernbereich 2: Die Welt um mich herum 100 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35475",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Aufgaben des Einspluseins im Zahlenraum bis 20",
+      "remarks": "Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter, Kettenaufgaben gedächtnismäßiges Beherrschen der Aufgaben mit Überschreiten des Zehners",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475",
+      "operator": "Übertragen",
+      "grade": "3/4",
+      "area": "Lernbereich 2: Die Welt um mich herum 100 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "operator": "Übertragen",
+      "grade": "3/4",
+      "area": "Lernbereich 2: Die Welt um mich herum 100 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "operator": "Übertragen",
+      "grade": "3/4",
+      "area": "Lernbereich 2: Die Welt um mich herum 100 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "operator": "Kennen",
+      "grade": "3/4",
+      "area": "Lernbereich 1: Einer braucht den anderen 70 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "operator": "Kennen",
+      "grade": "3/4",
+      "area": "Lernbereich 1: Einer braucht den anderen 70 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "operator": "Einblick gewinnen",
+      "grade": "3/4",
+      "area": "Lernbereich 3: Natur entdecken und erleben 40 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35505",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Variieren von Sachverhalten zu mathematischen Inhalten",
+      "remarks": "unterschiedliche Fragestellungen finden mit gleichem Zahlenmaterial die Sachverhalte verändern selbstständig Sachaufgaben bilden ⇒ Förderung kognitiver Fähigkeiten ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35505",
+      "operator": "Einblick gewinnen",
+      "grade": "3/4",
+      "area": "Lernbereich 3: Natur entdecken und erleben 40 Ustd.",
+      "is_elective": false,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "operator": "Kennen",
+      "grade": "3/4",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "operator": "Kennen",
+      "grade": "3/4",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "operator": "Kennen",
+      "grade": "3/4",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    },
+    {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "operator": "Kennen",
+      "grade": "3/4",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "is_elective": true,
+      "version": "2019"
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "finding": "Allgemeine Strategie- und Sprachziele fördern individuelle Rechenwege und deren Erklärung, nennen aber keine konkrete ausgleichende Änderung zweier Operanden. Bandzahlenraum bleibt Kontext; keine neue Planungsgrenze abgeleitet."
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "finding": "Allgemeine Strategie- und Sprachziele fördern individuelle Rechenwege und deren Erklärung, nennen aber keine konkrete ausgleichende Änderung zweier Operanden. Bandzahlenraum bleibt Kontext; keine neue Planungsgrenze abgeleitet."
+    }
+  ],
+  "new_cards": [],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-031",
+    "MA-032",
+    "MA-033",
+    "MA-034",
+    "MA-035",
+    "MA-036"
+  ],
+  "existing_card_review": {
+    "MA-031": "Nachbarstrategie verändert Ergebnis bei verändertem Summanden; kein Ausgleich beider Summanden. FSP bis 20 bleibt unverändert.",
+    "MA-032": "Zerlegung in Teilschritte beim Addieren über den Zehner ist kein gleich-/gegensinniger Ausgleich der ursprünglichen Operanden. FSP bis 20 einschließlich Zwischenwerte unverändert.",
+    "MA-033": "Vertauschen erhält die Summe bei unveränderten Werten beider Summanden; keine Kompensation durch veränderte Werte. FSP bis 20 unverändert.",
+    "MA-034": "Umkehren einer Addition zur Subtraktion ist ein anderer Zusammenhang. FSP bis 20 unverändert.",
+    "MA-035": "Verknüpfte Tausch-/Umkehrbeziehungen derselben drei Zahlen sind keine gleich-/gegensinnige Veränderung. Positive verschiedene Summanden und FSP-Grenze bis 20 bleiben bestehen.",
+    "MA-036": "Ergänzungsbeziehung wechselt zwischen Subtraktion und Addition mit fehlendem Summanden; keine Kompensation zweier Operanden. FSP bis 20 unverändert."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187064",
+      "status": "no_sufficient_direct_connection",
+      "gs_hierarchy": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187064"
+      ],
+      "gs_operator": "Kennen",
+      "gs_scope": "Fachliche Interpretation des GS-Unterpunkts im Additions-/Subtraktionskontext: Bei der Addition werden Summanden um denselben Betrag gegensinnig verändert, sodass die Summe gleich bleibt; bei der Subtraktion werden Minuend und Subtrahend gleichsinnig um denselben Betrag verändert, sodass die Differenz gleich bleibt. Die GS-Bemerkung belegt unmittelbar die zweite Beziehung. Keine Übertragung des Wortlauts auf den getrennten Multiplikations-/Divisionsblock.",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37885",
+        "page139_37931",
+        "page139_37937",
+        "page139_37997",
+        "page139_38001",
+        "page139_38017",
+        "page139_38019",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_38037"
+      ],
+      "cross_band_candidates": [
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485",
+        "page139_35439",
+        "page139_35442",
+        "page139_35504",
+        "page139_35505",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "evidence_groups": [
+        {
+          "ids": [
+            "page139_37804",
+            "page139_37816"
+          ],
+          "finding": "Die ausdrücklich genannte Invarianz betrifft unveränderte Anzahl bei Umordnung von Mengenelementen. Sie belegt weder das Verändern zweier Summanden um entgegengesetzte gleiche Beträge noch das gleichsinnige Verändern von Minuend und Subtrahend.",
+          "operators_by_parent": {
+            "page139_37804": "Kennen"
+          },
+          "grade": "1/2",
+          "evidence_type": "target_and_remark",
+          "elective_context": false
+        },
+        {
+          "ids": [
+            "page139_37851",
+            "page139_37859",
+            "page139_37863",
+            "page139_37885"
+          ],
+          "finding": "Rechenwege/Rechenvorteile bis 20 sowie Zerlegen sind fachlich verwandt. Der Nachbarbeleg verändert einen Summanden und dadurch das Ergebnis; der Tauschbeleg vertauscht unveränderte Summanden; Umkehr- und Ergänzungsbelege wechseln die Operationsbeziehung. Keiner dieser Belege zeigt die gezielte Veränderung beider Operanden unter Erhaltung von Summe oder Differenz. Allgemeine Offenheit für individuelle Rechenwege wird nicht als ausdrücklicher Nachweis dieser speziellen Strategie gezählt.",
+          "operators_by_parent": {
+            "page139_37851": "Einblick gewinnen"
+          },
+          "grade": "1/2",
+          "evidence_type": "target_and_remark",
+          "elective_context": false
+        },
+        {
+          "ids": [
+            "page139_37931",
+            "page139_37937"
+          ],
+          "finding": "Relevanz/Invarianz im Kontext von Mengendarstellung und Zählen beschreibt Anzahlkonstanz. Das ist eine mögliche Grundlage, aber kein Beleg für die gesuchte arithmetische Veränderungsstrategie.",
+          "operators_by_parent": {
+            "page139_37931": "Beherrschen"
+          },
+          "grade": "1/2",
+          "evidence_type": "target_and_remark",
+          "elective_context": false
+        },
+        {
+          "ids": [
+            "page139_37997",
+            "page139_38001"
+          ],
+          "finding": "Wahlbereich Im Märchenland: Vergrößern/Verkleinern von Mengen und Variieren von Rechenaufgaben lassen zahlreiche Veränderungen zu. Das Erhalten eines Operationsergebnisses durch aufeinander abgestimmte Veränderungen beider Operanden ist nicht spezifiziert. Wahlbereich und Märchenkontext dürfen nicht in ein allgemeines Pflichtziel umgedeutet werden.",
+          "operators_by_parent": {
+            "page139_37997": "Einblick gewinnen"
+          },
+          "grade": "1/2",
+          "evidence_type": "target_and_remark",
+          "elective_context": true
+        },
+        {
+          "ids": [
+            "page139_38017",
+            "page139_38019",
+            "page139_38021",
+            "page139_38022",
+            "page139_38035",
+            "page139_38037"
+          ],
+          "finding": "Wahlbereich Zahlenzauberei: vielfältige Aufgabenformen, Probieren und Skizzieren können die Strategie didaktisch aufnehmen; die Zielzeilen und Bemerkungen belegen jedoch keine konkrete Summen-/Differenzkonstanz durch Operandenausgleich. Genannte Darstellungsformen werden nicht als zusätzliche Lehrkraftaufgaben übernommen.",
+          "operators_by_parent": {
+            "page139_38017": "Anwenden",
+            "page139_38021": "Einblick gewinnen"
+          },
+          "grade": "1/2",
+          "evidence_type": "target_and_remark",
+          "elective_context": true
+        },
+        {
+          "ids": [
+            "page139_35470",
+            "page139_35475",
+            "page139_35479",
+            "page139_35485"
+          ],
+          "finding": "FSP 3/4 belegt Addieren/Subtrahieren bis 100 ausdrücklich und damit denselben Zahlenraum wie der GS-Kontext. Die genannten Zerlegungen bzw. Teilschritte verändern den Rechenweg, nicht beide Operanden unter Erhaltung der ursprünglichen Summe/Differenz. Tausch-/Umkehrbeziehungen und nicht näher konkretisierte Nachbaraufgaben reichen allein nicht zur spezifischen Zuordnung. Die Entscheidung ist ausdrücklich keine Ablehnung wegen eines kleineren Zahlenraums.",
+          "operators_by_parent": {
+            "page139_35470": "Übertragen"
+          },
+          "grade": "3/4",
+          "evidence_type": "target_and_remark",
+          "elective_context": false
+        },
+        {
+          "ids": [
+            "page139_35439",
+            "page139_35442"
+          ],
+          "finding": "Die Lösungswege, Tausch-/Umkehr- und Nachbarbelege betreffen Multiplikation/Division. Trotz verwandten Strategiecharakters kein konkreter additiver Ausgleichsbeleg; auch keine Übertragung aus dem getrennten GS-Multiplikationsblock.",
+          "operators_by_parent": {
+            "page139_35439": "Kennen"
+          },
+          "grade": "3/4",
+          "evidence_type": "target_and_remark",
+          "elective_context": false
+        },
+        {
+          "ids": [
+            "page139_35504",
+            "page139_35505"
+          ],
+          "finding": "Variiert werden Sachverhalte und Fragestellungen bei gleichem Zahlenmaterial. Das unterscheidet sich von abgestimmten Änderungen der Zahlen einer Addition/Subtraktion bei konstantem Ergebnis.",
+          "operators_by_parent": {
+            "page139_35504": "Einblick gewinnen"
+          },
+          "grade": "3/4",
+          "evidence_type": "target_and_remark",
+          "elective_context": false
+        },
+        {
+          "ids": [
+            "page139_35571",
+            "page139_35577",
+            "page139_35578",
+            "page139_35580"
+          ],
+          "finding": "Wahlbereich Zahlenzauberei: Probieren, Rückführung auf bekannte Aufgaben und Beschreiben eigener Wege erlauben didaktische Konkretisierungen, spezifizieren aber keine gleich-/gegensinnige Veränderung. Der allgemeinere Strategieauftrag wird nicht als Nachweis einer beliebigen besonderen Strategie ausgegeben.",
+          "operators_by_parent": {
+            "page139_35571": "Kennen"
+          },
+          "grade": "3/4",
+          "evidence_type": "target_and_remark",
+          "elective_context": true
+        }
+      ],
+      "decision": "Kein hinreichend belegter direkter Anschluss für 187064 eingetragen. Beide FSP-Bänder einschließlich einschlägiger Wahlbereiche und übergreifender Ziele wurden nach dem konkreten mathematischen Gehalt geprüft. Allgemeine Strategieoffenheit und Mengeninvarianz sichern nicht automatisch den speziellen Operanden-Ausgleich. Das ist keine Behauptung fehlender didaktischer Anschlussfähigkeit und keine Entscheidung allein aufgrund fehlender Wörter, fehlender Karten oder kleinerer Zahlenräume.",
+      "number_range": {
+        "gs_max": 100,
+        "fsp_1_2_rechenvorteile_explicit_max": 20,
+        "fsp_1_2_anchor": "page139_37885",
+        "fsp_3_4_addition_subtraction_explicit_max": 100,
+        "fsp_3_4_anchor": "page139_35479",
+        "note": "FSP 3/4 und GS haben für den geprüften additiven Kontext denselben Zahlenraum bis 100. Kein Zahlenraumausschluss. Keine neue Karte oder didaktische Planungsgrenze angelegt; Obergrenzen nicht auf Wahlbereiche oder andere Hauptziele übertragen."
+      },
+      "prerequisites": "Verständnis der Rollen von Summanden/Summe und Minuend/Subtrahend/Differenz sowie Unterscheidung von Umordnung, Operationswechsel und wertveränderndem Ausgleich. Vorhandene Karten können Vorwissen bereitstellen, decken die spezielle Strategie aber nicht dadurch bereits ab.",
+      "uncertainty": "Die offenen FSP-Strategieziele schließen eine didaktische Behandlung nicht aus; die konkrete Ausgleichsbeziehung ist in den geprüften Ziel- und Bemerkungsbelegen nicht hinreichend bestimmt. Entscheidung gilt für die ausdrückliche Kartenabdeckung, nicht als Verbot oder genereller Nichtanschluss.",
+      "remaining": "Der gesamte spezifische Strategieausschnitt 187064 bleibt ohne ausdrückliche Kartenabdeckung. Bei zusätzlichem amtlichem Beleg neu bewerten; bestehende Strategieanschlüsse bleiben gültig. Übergreifende GS-Ziele 1857/1862 werden nicht als abgeschlossen gezählt."
+    }
+  ],
+  "counts": {
+    "new_individually_reviewed_rows": 1,
+    "new_no_sufficient_direct_connection_rows": 1,
+    "new_fully_covered_rows": 0,
+    "rechecked_existing_cards": 6,
+    "new_cards": 0,
+    "cards": 36,
+    "cross_band_cards": 7,
+    "source_links": 117,
+    "target_anchors": 115,
+    "audit_rows": 67,
+    "open_connection_questions": 7,
+    "documented_no_direct_connection_rows": 4
+  },
+  "continuation": "GS 1/2 Probieren, Begründen und Bewerten unterschiedlicher Lösungswege (1864) gegen beide FSP-Bänder prüfen; danach Kontrolle durch Umkehroperation und Vergleich mit Erfahrungen (187068). Übergreifende Strategie-/Sprachziele, konkrete Zielzeilen und Bemerkungen sowie Wahlbereiche getrennt halten. 187064 in MA-025 ohne hinreichend belegten direkten Anschluss geprüft; vorhandene 36 Karten nicht erneut zählen. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen.",
+  "tests": {
+    "source_review": "passed: fresh official GS/FSP HTML, 32 exact target/remark excerpts and two overarching-goal contexts; both FSP bands, relevant elective areas, parents/operators and mathematical distinctions checked",
+    "check_deutsch": "passed:178 cards,117 block decisions; Sachunterricht unchanged",
+    "prepare_pages": "passed: synchronized; both HTML files remain byte-identical to published1.337",
+    "check_mathematik": "passed:36 cards,117 sources,115 card target anchors plus2 context sources; continuation points to open row1864",
+    "scope_regression": "passed: missing scope, inconsistent/exceeded limits, invented bounds, wrong context/parent and malformed reused evidence rejected",
+    "preservation": "passed: entire mathematics module, scopes, fine goals/criteria, other subjects and both HTML files unchanged; seven open questions and all prior remaining scopes preserved; exactly one changed audit row; no duplicated inventory or card count",
+    "update_mathematik": "not required: no module/app change",
+    "browser": "not repeated: no app/UI change. All36 local/public browser checks from MA-024 apply to byte-identical app1.337; no new browser success claimed."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.337",
+    "app_changed": false
+  }
+}

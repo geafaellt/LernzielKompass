@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-024
+# Mathematik-Abgleich · MA-025
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei gegensinnigem/gleichsinnigem Verändern (page912_187064), danach verschiedenen Lösungswegen (1864) und Kontrolle durch Umkehroperation (187068). Sieben Anschlussfragen und bisherige Restumfänge bleiben offen. [Prüfpaket MA-024](review_batch_024.json) und [Zeilenaudit](row_audit.csv) dokumentieren die Grenzen.
+Fortsetzung bei Probieren, Begründen und Bewerten unterschiedlicher Lösungswege (page912_1864), danach Kontrolle durch Umkehroperation und Vergleich mit Erfahrungen (187068). 187064 ist in [MA-025](review_batch_025.json) ohne hinreichend belegten direkten Anschluss geprüft. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen; [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -321,3 +321,12 @@ Beide Anschlüsse sind GS 1/2 → FSP 1/2, mit Kennen (1857) und Einblick gewinn
 Die Einzelbeziehungen MA-033/034 und der Teilschritt in MA-032 bleiben erhalten; keine Doppelzählung. Alle 34 bisherigen Karten unverändert. Zwei weitere Zeilen teilweise geprüft, keine vollständig abgeschlossen. 36 Karten, davon 29 stufenbandpassend und sieben stufenübergreifend; 117 Quellenlinks (115 Zielanker, zwei Kontextquellen), weiterhin 67 Auditzeilen und sieben Anschlussfragen. Sonderfälle, größere Zahlenräume, selbstständige Strategiewahl und Kontrollzweck bleiben abgegrenzt. Keine Aufgaben, Lernhandlungen oder Hilfsmittel ergänzt. Fortsetzung 187064. Test- und Veröffentlichungsnachweise in review_batch_024.json.
 
 Veröffentlicht auf main mit App-Commit `ad4698fa3c27e6507cdf0ef0fc1fcafc883677d7`; [Pages-Lauf 42486092319](https://github.com/geafaellt/LernzielKompass/actions/runs/42486092319) erfolgreich. Ausgelieferte App 1.337 ist bytegleich (SHA-256 `75a62081d79a88bcc99723f505e05b65d22d16435181d4134fe0b3c1d2cd87c1`). Daten-, Zahlenraum- und Lerngegenstandsprüfungen bestanden. Alle 36 Mathematikkarten lokal und öffentlich im Browser geprüft; Hinweise/Quellen für alle 349 Karten lokal geprüft. Zwei anfängliche Wartezeitfehler bei Standard-Browserläufen sind im Prüfpaket dokumentiert; der vollständige unveränderte Test bestand mit abgeschalteter Hintergrunddrosselung ohne erzwungene Klicks oder ausgelassene Prüfungen.
+
+
+## MA-025 · Gegensinniges und gleichsinniges Verändern · Audit ohne App-Änderung
+
+Die GS-Zeile 187064 unter Kennen (1857) wurde gegen beide FSP-Stufenbänder geprüft, einschließlich Mengeninvarianz, Rechenvorteilen, Variation von Mengen/Sachverhalten sowie einschlägigen Wahlbereichen. Gegenstand sind abgestimmte Änderungen beider Operanden bei gleichbleibender Summe bzw. Differenz. Der GS-Bemerkungsbeleg konkretisiert die Differenzkonstanz.
+
+Kein hinreichend belegter direkter Anschluss: Mengeninvarianz bei Umordnung, Tausch- und Umkehrbeziehungen, Teilschritte und allgemein zugelassene Variation sind mathematisch verwandte, aber nicht identische Belege. Auch FSP 3/4 mit ausdrücklich gleicher Grenze bis 100 liefert in den geprüften Zeilen keinen hinreichend konkreten Ausgleichsbeleg. Ein kleinerer FSP-Zahlenraum ist daher ausdrücklich nicht der Ablehnungsgrund. Eine didaktische Behandlung bleibt möglich; der Befund betrifft die belegte Kartenabdeckung. Quellenanker, Operatoren, Pflicht-/Wahlbereiche und übergreifende Ziele sind im [Prüfpaket MA-025](review_batch_025.json) getrennt dokumentiert.
+
+MA-031 bis MA-036 wurden auf vermeintliche Überschneidungen nachgeprüft und bleiben unverändert, einschließlich FSP-Grenze bis 20 und Grenzen der Feinziele/Kriterien. Keine neue Karte, kein neues Feinziel und keine Aufgaben, Lernhandlungen oder Hilfsmittel. Eine zusätzliche Zeile mit Einzelentscheidung, keine neue Zieldeckung; weiterhin 36 Karten, 117 Quellenlinks/115 Karten-Zielanker, 67 Auditzeilen und sieben Anschlussfragen. Nun vier dokumentierte Zeilenentscheidungen ohne hinreichend belegten direkten Anschluss. Der gesamte spezifische Inhalt 187064 bleibt ohne Kartenabdeckung; keine zusätzliche Zählung der Kontextzeilen 1857/1862. Fortsetzung 1864. App bleibt 1.337.

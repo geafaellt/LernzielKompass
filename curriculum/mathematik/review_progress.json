@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-024",
+  "last_batch": "MA-025",
   "complete": false,
   "counts": {
     "cards": 36,
@@ -1432,8 +1432,8 @@
       "remarks": "11 – 7 = ___ ⇒ 7 + ___ = 11"
     }
   },
-  "next_id": "page912_187064",
-  "next_step": "GS 1/2 gegensinniges/gleichsinniges Verändern (187064) prüfen, danach verschiedene Lösungswege (1864) und Kontrolle durch Umkehroperation (187068). Aufgabenfamilien (187062) und Ergänzungen (187063) sind in MA-024 begrenzt geprüft; bestehende Karten nicht erneut zählen. Sieben Anschlussfragen und sämtliche dokumentierten Restumfänge bleiben offen.",
+  "next_id": "page912_1864",
+  "next_step": "GS 1/2 Probieren, Begründen und Bewerten unterschiedlicher Lösungswege (1864) gegen beide FSP-Bänder prüfen; danach Kontrolle durch Umkehroperation und Vergleich mit Erfahrungen (187068). Übergreifende Strategie-/Sprachziele, konkrete Zielzeilen und Bemerkungen sowie Wahlbereiche getrennt halten. 187064 in MA-025 ohne hinreichend belegten direkten Anschluss geprüft; vorhandene 36 Karten nicht erneut zählen. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1505,7 +1505,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_024.json",
+  "last_review_file": "review_batch_025.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1691,12 +1691,19 @@
       "gs_id": "page912_187063",
       "scope": "Selbstständige Wahl und Kombination von Ergänzungsverfahren, alle weiteren Strategien und GS-Zahlenraum oberhalb 20. Die Ergebniskontrolle durch Umkehroperation in 187068 bleibt gesondert zu prüfen.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187064",
+      "scope": "Der gesamte spezifische Strategieausschnitt 187064 bleibt ohne ausdrückliche Kartenabdeckung. Bei zusätzlichem amtlichem Beleg neu bewerten; bestehende Strategieanschlüsse bleiben gültig. Übergreifende GS-Ziele 1857/1862 werden nicht als abgeschlossen gezählt.",
+      "status": "ohne hinreichend belegten direkten Anschluss",
+      "review_file": "review_batch_025.json"
     }
   ],
   "documented_no_direct_connection_ids": [
     "page912_187043",
     "page912_187048",
-    "page912_1855"
+    "page912_1855",
+    "page912_187064"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -1706,7 +1713,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Weiterhin 67 inventarisierte Zeilen. 187062/187063 jeweils begrenzt zugeordnet (MA-035/036), nicht vollständig abgeschlossen. Keine neue Inventur und keine Doppelzählung; Fortsetzung 187064.",
+    "note": "Weiterhin 67 inventarisierte Zeilen. MA-025 prüft 187064 einschließlich additiver Summe-/Differenzkonstanz gegen beide FSP-Bänder: kein hinreichend belegter direkter Anschluss. Keine neue Karte, Inventur oder Doppelzählung; Fortsetzung 1864. Vier dokumentierte Zeilenentscheidungen ohne hinreichend belegten direkten Anschluss, sieben offene Anschlussfragen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
