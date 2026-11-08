@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-08.4",
+  "version": "MA-2026-11-08.5",
   "checked_on": "2026-11-08",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -787,6 +787,18 @@
       "id": "Q-MA-page912_187058",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · schrittweises Rechnen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187058",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187059",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Tauschaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187059",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187060",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Umkehraufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187060",
       "version": "2026"
     }
   ],
@@ -3391,6 +3403,178 @@
         "gs": "Verbindliches Unterziel schrittweises Rechnen unter Kennen (1857); konkreter Additionsweg über den Zehner aus Bemerkung187058. 1857/1862 sind Kontext.",
         "fsp": "Addition mit Zehnerüberschreitung und Rechenwege bis20 als Zielzeilen unter Einblick gewinnen. Ergänzen zur Zehn/Zerlegen/individuelle Lösungsschritte aus Bemerkung37863; Teilmengenzerlegung aus Bemerkung37885. Zweischrittverknüpfung didaktisch, nicht als wörtliche Vorgabe ausgeben.",
         "fsp_remark_anchor": "page139_37863",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
+        ]
+      }
+    },
+    {
+      "id": "MA-033",
+      "subject": "Mathematik",
+      "theme": "Summanden vertauschen und die Summe beibehalten",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Tauschaufgaben der Addition als Rechenstrategie bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Vertauschen der Summanden als Rechenvorteil bis 20, konkret in der Bemerkung belegt",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss. GS verlangt Kennen unter1857; FSP Einblick gewinnen unter37851. Rechenwege und Rechenvorteile bis20 sind FSP-Zieltext37885, die konkrete Strategie steht in der Bemerkung. FSP3/4 nennt in35485 ebenfalls additive Tausch-/Umkehrbeziehungen unter Übertragen35470; der tragfähige stufenbandpassende Anschluss wird bevorzugt. Die Tausch-/Umkehrbeispiele in35442 betreffen dagegen Multiplikation und Division unter Kennen35439 und werden nicht als Beleg für additive Strategien verwendet. Der FSP-Bemerkungsbeleg nennt ausdrücklich das Vertauschen bei einer Addition. Der Anschluss bezieht sich ausschließlich auf die Reihenfolge der Summanden bei unveränderter Summe; die Subtraktion wird nicht als vertauschbar ausgegeben. Offen bleiben: GS-Zahlenraum oberhalb20, flexible selbstständige Auswahl und Kombination verschiedener Strategien sowie die vollständige Deckung des übergeordneten GS-Ziels. Keine Übertragung des Vertauschens auf die Subtraktion.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187059"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187059",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss. GS verlangt Kennen unter1857; FSP Einblick gewinnen unter37851. Rechenwege und Rechenvorteile bis20 sind FSP-Zieltext37885, die konkrete Strategie steht in der Bemerkung. FSP3/4 nennt in35485 ebenfalls additive Tausch-/Umkehrbeziehungen unter Übertragen35470; der tragfähige stufenbandpassende Anschluss wird bevorzugt. Die Tausch-/Umkehrbeispiele in35442 betreffen dagegen Multiplikation und Division unter Kennen35439 und werden nicht als Beleg für additive Strategien verwendet. Der FSP-Bemerkungsbeleg nennt ausdrücklich das Vertauschen bei einer Addition. Der Anschluss bezieht sich ausschließlich auf die Reihenfolge der Summanden bei unveränderter Summe; die Subtraktion wird nicht als vertauschbar ausgegeben. Offen bleiben: GS-Zahlenraum oberhalb20, flexible selbstständige Auswahl und Kombination verschiedener Strategien sowie die vollständige Deckung des übergeordneten GS-Ziels. Keine Übertragung des Vertauschens auf die Subtraktion.",
+      "shared_object_suggestion": "Zwei Summanden in umgekehrter Reihenfolge – dieselbe Summe.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert und nutzt bei einer Addition bis 100, dass das Vertauschen der beiden Summanden die Summe unverändert lässt.",
+          "criterion": "Beide Summanden bleiben in ihrem Wert erhalten und wechseln ihre Position. Die Summe bleibt gleich; das Ergebnis wird auf die bekannte Addition bezogen. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt bei einer bekannten Addition bis 20 die gleiche Summe nach dem Vertauschen der beiden Summanden und nutzt diese Beziehung.",
+          "criterion": "Beide Summanden bleiben in ihrem Wert erhalten und wechseln ihre Position. Die Summe bleibt gleich; das Ergebnis wird auf die bekannte Addition bezogen. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung aus dem Bemerkungsbeleg; keine selbstständige Auswahl zwischen mehreren Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Bis 20 steht ausdrücklich in Unterziel37885 unter Einblick gewinnen37851. Die konkrete Strategie stammt aus der zugehörigen Bemerkung und wird didaktisch eingegrenzt; die Zahlenraumgrenze ist keine Ableitung aus dem übergreifenden Bandziel.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen. Beide Summanden und die gemeinsame Summe sowie alle relevanten Zwischen- und Endergebnisse bleiben bis 20. Das Vertauschen gilt hier ausschließlich für die Addition, nicht für die Subtraktion."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Strategie-Unterziel Tauschaufgaben unter Kennen1857;1857/1862 dienen als Kontext und sind nicht vollständig abgedeckt.",
+        "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen37851; konkrete Strategie aus der Bemerkung37885, Feinziel und Erfolgskriterium didaktisch konkretisiert.",
+        "fsp_remark_anchor": "page139_37885",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_1862"
+        ]
+      }
+    },
+    {
+      "id": "MA-034",
+      "subject": "Mathematik",
+      "theme": "Aus einer Addition eine Umkehraufgabe ableiten",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Aus einer bekannten Addition eine zugehörige Subtraktion als Umkehraufgabe bis 100 ableiten",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Umkehraufgaben aus bekannten Additionen als Rechenvorteil bis 20, konkret in der Bemerkung belegt",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss. GS verlangt Kennen unter1857; FSP Einblick gewinnen unter37851. Rechenwege und Rechenvorteile bis20 sind FSP-Zieltext37885, die konkrete Strategie steht in der Bemerkung. FSP3/4 nennt in35485 ebenfalls additive Tausch-/Umkehrbeziehungen unter Übertragen35470; der tragfähige stufenbandpassende Anschluss wird bevorzugt. Die Tausch-/Umkehrbeispiele in35442 betreffen dagegen Multiplikation und Division unter Kennen35439 und werden nicht als Beleg für additive Strategien verwendet. Die FSP-Bemerkung nennt Umkehraufgaben ausdrücklich als Ableitung einer Subtraktion aus einer bekannten Addition. Hier wird jeweils eine zugehörige Subtraktion didaktisch konkretisiert; das Aufstellen der vollständigen Aufgabenfamilie und der Kontrollzweck bleiben getrennte Prüfgegenstände. Offen bleiben: Die umgekehrte Ableitungsrichtung von Subtraktion zu Addition, vollständige Aufgabenfamilien, selbstständige Strategiewahl und GS-Zahlenraum oberhalb20. Der Kontrollzweck der Umkehroperation in187068 wird hier nicht mitgeprüft.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_1862",
+        "page912_187060"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_1862",
+        "Q-MA-page912_187060",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Teilanschluss. GS verlangt Kennen unter1857; FSP Einblick gewinnen unter37851. Rechenwege und Rechenvorteile bis20 sind FSP-Zieltext37885, die konkrete Strategie steht in der Bemerkung. FSP3/4 nennt in35485 ebenfalls additive Tausch-/Umkehrbeziehungen unter Übertragen35470; der tragfähige stufenbandpassende Anschluss wird bevorzugt. Die Tausch-/Umkehrbeispiele in35442 betreffen dagegen Multiplikation und Division unter Kennen35439 und werden nicht als Beleg für additive Strategien verwendet. Die FSP-Bemerkung nennt Umkehraufgaben ausdrücklich als Ableitung einer Subtraktion aus einer bekannten Addition. Hier wird jeweils eine zugehörige Subtraktion didaktisch konkretisiert; das Aufstellen der vollständigen Aufgabenfamilie und der Kontrollzweck bleiben getrennte Prüfgegenstände. Offen bleiben: Die umgekehrte Ableitungsrichtung von Subtraktion zu Addition, vollständige Aufgabenfamilien, selbstständige Strategiewahl und GS-Zahlenraum oberhalb20. Der Kontrollzweck der Umkehroperation in187068 wird hier nicht mitgeprüft.",
+      "shared_object_suggestion": "Eine Summe und ihre beiden Summanden – Addition und zugehörige Subtraktion als Umkehrbeziehung.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert und nutzt im Zahlenraum bis 100 die Umkehrbeziehung von einer bekannten Addition zu einer zugehörigen Subtraktion.",
+          "criterion": "Die bekannte Summe wird zum Minuenden, einer der beiden Summanden zum Subtrahenden und der andere zur Differenz. Die Beziehung zur bekannten Addition und das Subtraktionsergebnis stimmen. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt und nutzt im Zahlenraum bis 20, dass beim Abziehen eines Summanden von der bekannten Summe der andere Summand verbleibt.",
+          "criterion": "Die bekannte Summe wird zum Minuenden, einer der beiden Summanden zum Subtrahenden und der andere zur Differenz. Die Beziehung zur bekannten Addition und das Subtraktionsergebnis stimmen. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 20.",
+          "status": "Didaktische Konkretisierung aus dem Bemerkungsbeleg; keine selbstständige Auswahl zwischen mehreren Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37885",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Bis 20 steht ausdrücklich in Unterziel37885 unter Einblick gewinnen37851. Die konkrete Strategie stammt aus der zugehörigen Bemerkung und wird didaktisch eingegrenzt; die Zahlenraumgrenze ist keine Ableitung aus dem übergreifenden Bandziel.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen. Ausgangssummanden, bekannte Summe, Minuend, Subtrahend und Differenz sowie relevante Zwischen- und Endergebnisse bleiben bis 20. Von der bekannten Summe wird einer ihrer Summanden abgezogen; keine negative Differenz. Keine vollständige Aufgabenfamilie vorausgesetzt."
+      },
+      "evidence_classification": {
+        "gs": "Verbindliches Strategie-Unterziel Umkehraufgaben unter Kennen1857;1857/1862 dienen als Kontext und sind nicht vollständig abgedeckt.",
+        "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen37851; konkrete Strategie aus der Bemerkung37885, Feinziel und Erfolgskriterium didaktisch konkretisiert.",
+        "fsp_remark_anchor": "page139_37885",
         "context_only_gs_ids": [
           "page912_1857",
           "page912_1862"
