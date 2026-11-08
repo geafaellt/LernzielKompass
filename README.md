@@ -2,7 +2,7 @@
 
 Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.327** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.328** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -13,6 +13,10 @@ Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maß
 App 1.327 öffnet eine kompakte Startseite mit dem Anschlussstellenmodell. Erst „Jetzt lernzieldifferent planen“ führt zur Lehrplanauswahl. Das Modell trennt die curriculare Anschlussstelle vom gemeinsamen Lerngegenstand und zeigt beide Planungsspuren einschließlich Feinziel, Aufgabe/Lernhandlung, Unterstützung und Kriterien. Lernvoraussetzungen, Ressourcen und Barrieren bleiben die durchgehende Prüfperspektive. Die ausführliche Einführung ist aufklappbar. „Zur Startseite“ und ein erneutes Öffnen erhalten eigene Entwürfe; der Einstieg beginnt immer bei der Auswahl.
 
 Das Modell ist eine für den aktuellen GS-Bereich der App verdichtete HTML-Darstellung der von der Projektverantwortlichen bereitgestellten Präsentation „Anschlussstellenmodell_lernzieldifferente_Unterrichtsplanung_praezisiert_v2.pptx“, Folie 1. Der Lehrplanabgleich und alle Fachbestände bleiben unverändert. Die Datei selbst wird nicht veröffentlicht. Prüfung: `scripts/check-startpage-browser.cjs`, vorhandene Browser- und Datenprüfungen. Veröffentlichungsnachweise: `releases/startpage_1.327.json`.
+
+## Anschlussstelle prüfen
+
+Ab App 1.328 zeigt Schritt 2 zunächst nur die ausgewählte Karte. „anderen Anschluss wählen“ blendet die passenden Karten ein; nach einer Auswahl schließt sich die Liste wieder. Ohne Auswahl bleiben die verfügbaren Karten direkt zugänglich. Eigene Planungstexte und Fachbestände bleiben erhalten. Prüfung: `scripts/check-connection-picker-browser.cjs`. Veröffentlichungsnachweis: `releases/connection_picker_1.328.json`.
 
 ## Informationen zu offenen FSP-Inhalten
 

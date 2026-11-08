@@ -1,0 +1,23 @@
+{
+  "app_version": "1.328",
+  "feature": "Anschlussstelle prüfen: ausgewählte Karte und aufklappbare Alternativen",
+  "base_commit": "524b73a5273075b91924721154890e53c0015757",
+  "changes": [
+    "Nur ausgewählte Karte in Schritt 2; andere passende Karten über anderen Anschluss wählen.",
+    "Auswahl schließt nach Kartenwechsel, bei erneutem Betreten und nach Neuladen.",
+    "Ohne Auswahl alle verfügbaren Karten; bei einer oder keiner Karte kein unnötiger Umschalter.",
+    "Eigene Planungstexte, Quellen, FSP-Zahlenräume und sämtliche Fachbestände unverändert."
+  ],
+  "validation": {
+    "data_checks": "passed",
+    "embedded_payloads_unchanged": true,
+    "browser_checks": {
+      "connection_picker": "passed: all three subjects, selected-only and switching, keyboard/focus, no/single/empty selection, teacher text preservation, navigation/reload, mobile320/390",
+      "startpage": "passed",
+      "fsp_information": "passed: 10 cases",
+      "mathematics": "passed: 31 cards; scope, sources, goal adoption, planning output and draft isolation",
+      "visual_review": "desktop screenshot inspected"
+    },
+    "public_pages": "pending"
+  }
+}
