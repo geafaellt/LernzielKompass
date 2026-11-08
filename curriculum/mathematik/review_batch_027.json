@@ -396,11 +396,19 @@
     "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
     "finite_scope_check": "passed all268 admissible repeated transitions from every start0..20, both directions, step2/5; constant step maintained and sequences stop before crossing0/20",
     "browser_local": "passed all39 cards: visible scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, teacher drafts, subject isolation and mobile; unchanged assertions with background throttling disabled",
-    "browser_live": "pending",
-    "disclosures_browser": "passed all352 cards,39 deduplicated math warnings, collapsed sources/notes, operator help, keyboard, reload/drafts and mobile320/390"
+    "browser_live": "passed all39 math cards in diagnostic retry on public app1.341: visible scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, teacher drafts, subject isolation and mobile; no forced clicks or skipped assertions",
+    "disclosures_browser": "passed all352 cards,39 deduplicated math warnings, collapsed sources/notes, operator help, keyboard, reload/drafts and mobile320/390",
+    "public_first_attempt": "Aborted after60s waiting for insertLearningObject button stability. No curricular/data assertion failure reported; diagnostic retry runs unchanged assertions with per-card progress logging."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.341"
+    "status": "success",
+    "app_version": "1.341",
+    "commit": "e58f6996ca474e92405a58ce5b386e9230722721",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42505192428",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "d7f9c888eac79e810a0cea209f8d05122d7e62caf59bd18eba9ce2f0d3adff7c",
+    "live_browser": "passed:39 cards after one timing-related retry"
   }
 }
