@@ -291,10 +291,18 @@
     "check_fsp_info": "passed:10 cases unchanged",
     "browser_local": "passed:31 cards, scope in cards/goals/output, links, goal adoption, empty tasks/aids, teacher drafts, subject isolation, mobile",
     "fsp_info_browser_local": "passed:10 cases, excerpt links, keyboard, filters, mobile, print exclusion, draft preservation",
-    "browser_live": "pending"
+    "browser_live": "passed:31 cards, visible scope in cards/goals/output, source links, adoption, empty tasks/aids, teacher drafts, subject isolation, mobile layout",
+    "fsp_info_browser_live": "passed:10 cases, excerpt links, keyboard, filters, mobile, print exclusion, draft preservation"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.326"
+    "status": "success",
+    "app_version": "1.326",
+    "commit": "5dbd0dd0384d6dbac6a34e328561fa616813949e",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42463003417",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "a7517fefac32c519144d4111dce65c640f871e3d45e20ea4c3ff01211e896f16",
+    "live_browser": "passed"
   }
 }
