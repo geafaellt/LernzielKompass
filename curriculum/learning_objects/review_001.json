@@ -4532,7 +4532,14 @@
     "visual_review": "Mobile learning-object suggestion inspected"
   },
   "publication": {
-    "status": "pending"
+    "status": "verified",
+    "app_commit": "3b5abd59597cdef86eec0c2c30877908405fc346",
+    "app_version": "1.330",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "pages_run": "https://github.com/geafaellt/LernzielKompass/actions/runs/42466888797",
+    "pages_conclusion": "success",
+    "delivered_html": "byte-identical to tested index.html and dist/index.html",
+    "public_browser": "All 313 Deutsch/Sachunterricht cards passed display, explicit adoption, planning output, selected-card view, no autofilled tasks/aids, teacher draft preservation, reload, legacy overarching-goal area migration and mobile320/390."
   },
   "selection_fix": {
     "previously_unreachable": [
