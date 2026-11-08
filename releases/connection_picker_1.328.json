@@ -18,6 +18,14 @@
       "mathematics": "passed: 31 cards; scope, sources, goal adoption, planning output and draft isolation",
       "visual_review": "desktop screenshot inspected"
     },
-    "public_pages": "pending"
+    "public_pages": {
+      "status": "passed",
+      "app_commit": "0525be1e55fe252ad0981883b22d0c99b6e01b48",
+      "pages_run": "https://github.com/geafaellt/LernzielKompass/actions/runs/42465021924",
+      "pages_conclusion": "success",
+      "public_url": "https://geafaellt.github.io/LernzielKompass/",
+      "delivered_html": "byte-identical to tested index.html and dist/index.html",
+      "public_browser": "check-connection-picker-browser.cjs passed: all three subjects, keyboard/focus, drafts, navigation/reload, empty/single and mobile320/390"
+    }
   }
 }
