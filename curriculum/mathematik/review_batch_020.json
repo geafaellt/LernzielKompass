@@ -354,11 +354,20 @@
     "preservation": "passed: 28 existing math cards unchanged; app differences limited to math payload, version and date; 67 unique audit rows; two newly reviewed target rows, one card, no parent coverage",
     "browser_local": "passed: all29 cards, scope in cards/goals/output, sources, adoption, empty tasks/aids, teacher drafts, subject isolation, mobile layout",
     "fsp_info_browser_local": "passed: 10 cases, excerpt links, keyboard, filters, mobile, print exclusion and draft preservation",
-    "browser_live": "pending"
+    "browser_live": "passed: standard browser check on public root URL, all29 cards, scope in cards/goals/output, links, adoption, empty tasks/aids, teacher drafts, subject isolation and mobile layout",
+    "fsp_info_browser_live": "passed: standard browser check on public root URL, all10 cases, links, keyboard, filters, mobile, print exclusion and draft preservation",
+    "browser_retry_note": "Initial concurrent public checks with ?release=1.325 timed out during page.goto after30s. Standard checks on the public root URL both passed on retry. An additional mathematics run with the release query and navigation timeout90s also passed. No application or committed test changes were needed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.325"
+    "status": "success",
+    "app_version": "1.325",
+    "commit": "f9acf8f2315ff19b43f54f1a48347f6382a8c80a",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42462093033",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "2421a14707b6720b181c9620d3e878d16a89b50e8de72df37787b8febdb655bd",
+    "live_browser": "passed after retry"
   },
   "corrections_to_prior_review": [
     {
