@@ -319,10 +319,17 @@
     "finite_scope_check": "passed all231 nonnegative ordered summand pairs with sum at most20: swap preserves sum, inverse subtraction preserves nonnegativity and range",
     "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
     "browser_local": "passed all34 mathematics cards: shared object/scope in cards/goals/output, source links, goal adoption, empty tasks/aids, teacher drafts and mobile; disclosures across all347 cards passed",
-    "browser_live": "pending"
+    "browser_live": "passed all34 mathematics cards including source links, scopes in cards/goals/output, shared-object and goal adoption, empty task/aid fields, teacher drafts and mobile"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.336"
+    "status": "success",
+    "app_version": "1.336",
+    "commit": "f49e28b207b0a9394ab53b717fc9b10ea1f0a57b",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42476820597",
+    "workflow_result": "completed success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_match": true,
+    "html_sha256": "2ce3ce3e247e17527fc84d58aa4856dcde464b5bb4f21e637c6b87b157a85874",
+    "live_browser": "passed:34 cards"
   }
 }
