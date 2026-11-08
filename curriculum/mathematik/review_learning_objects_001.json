@@ -546,6 +546,13 @@
     "future_guard": "Mathematics check rejects missing suggestions and verbatim repetition of the card title; this structural guard does not replace didactic review."
   },
   "publication": {
-    "status": "pending"
+    "status": "verified",
+    "app_commit": "1e0ce51a9173ad4dbf0b8526def2d26a5a27272e",
+    "app_version": "1.329",
+    "url": "https://geafaellt.github.io/LernzielKompass/",
+    "pages_run": "https://github.com/geafaellt/LernzielKompass/actions/runs/42465850103",
+    "pages_conclusion": "success",
+    "delivered_html": "byte-identical with tested index.html and dist/index.html",
+    "public_browser": "check-mathematik-browser.cjs passed for all 31 cards, including shared-object display/adoption/output, draft preservation, source/range checks, subject isolation and mobile layout"
   }
 }
