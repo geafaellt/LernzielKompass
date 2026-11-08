@@ -1,0 +1,13 @@
+{
+  "app_version": "1.335",
+  "base_commit": "88dc2fcb7680d8160c78942915dbb44ddb5e18db",
+  "change": "Existing image again right of header copy, with 16px desktop / 8px mobile gap instead of space-between alignment.",
+  "validation": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope",
+    "header": "passed image loaded, right of copy, gap at most17px, no overflow at1280/390/320; screenshots inspected",
+    "mathematics_browser": "passed all32 cards, scope limits, goals, teacher drafts, shared object and mobile"
+  },
+  "publication": {
+    "status": "pending"
+  }
+}
