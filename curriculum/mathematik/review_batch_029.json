@@ -380,13 +380,41 @@
     "initial_validation": "check-mathematik and dependent scope tests initially rejected missing next audit row; fixed by explicitly inventorying all3 rows of next block without marking them reviewed; full recheck follows",
     "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects after adding open continuation inventory",
     "browser_local": "passed all41 mathematics cards: scope cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, unchanged drafts, subject isolation and mobile; passed disclosure checks for all354 cards,41 duplicate warnings removed",
-    "browser_live": "pending",
+    "browser_live": "passed all41 mathematics cards in publicly delivered App1.343: scopes in cards/goals/output, sources, goal/shared-object adoption, empty tasks/aids, drafts, subject isolation and mobile; see two earlier timeouts and successful adjusted-environment run",
     "preservation": "passed: all40 previous cards and all other subject/information/shared-object payloads unchanged; exactly one old audit row changed and three open inventory rows added; existing scope checks unchanged",
-    "scope_check": "reviewed same-unit Euro/Cent bounds and no conversions; all231 nonnegative integer pairs with sum at most20 satisfy operand and result bounds; teacher free text is not automatically validated"
+    "scope_check": "reviewed same-unit Euro/Cent bounds and no conversions; all231 nonnegative integer pairs with sum at most20 satisfy operand and result bounds; teacher free text is not automatically validated",
+    "browser_live_attempts": [
+      {
+        "result": "failed",
+        "card": "MA-036",
+        "step": "insertLearningObject",
+        "reason": "Playwright locator.click timed out after60000ms while waiting for element stability; no forced click"
+      },
+      {
+        "result": "failed",
+        "card": "MA-013",
+        "step": "applyGS",
+        "reason": "Complete repeat timed out after60000ms while waiting for element stability, at a different existing card; no forced click"
+      },
+      {
+        "result": "passed",
+        "scope": "complete original check-mathematik-browser.cjs, all41cards across grades",
+        "environment": "GPU and CalculateNativeWinOcclusion disabled; page brought to front on creation; normal clicks and all assertions unchanged"
+      }
+    ],
+    "browser_live_environment": "Third complete run disables GPU and CalculateNativeWinOcclusion and brings the page to front on creation, in addition to existing background-throttling flags. Original test script, assertions and normal clicks unchanged; result passed. The successful run does not establish a definitive cause of the preceding intermittent timeouts."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.343"
+    "status": "published_verified",
+    "app_version": "1.343",
+    "app_commit": "eabe4bb2d13928cbb33b3aace531ae0db0934a5f",
+    "pages_run": 42581499672,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42581499672",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "2baf6b109e99f40afc7fceecf25b950b4cd9d7ee4c54780d6b86bdc3fdcb9e69",
+    "verified_date": "2026-11-09"
   },
   "inventory_only_rows": [
     {
