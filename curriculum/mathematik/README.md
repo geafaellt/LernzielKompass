@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-030
+# Mathematik-Abgleich · MA-031
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Zweiundvierzig Karten dokumentieren begrenzte Anschlüsse. Fünfunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Dreiundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Strategien zur Vernetzung (page912_55444) unter Beherrschen (1867). [MA-030](review_batch_030.json) ordnet nur den Gedächtnisabruf vertrauter Grundaufgaben bis 10 unter 55442 zu. Acht Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Multiplikation/Division (page912_1881), zunächst Grundvorstellungen (1882/187075). Der folgende Block ist nur inventarisiert. [MA-031](review_batch_031.json) ordnet 55444 nur über die ausgewählte Umkehrvernetzung zu. Acht Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -381,3 +381,10 @@ MA-042 verbindet den ausgewählten GS-Grundaufgabenausschnitt (1867/55442, Beher
 Beide FSP-Bänder geprüft: FSP3/4-Einspluseins bis 20 und weiterführende Rechen-/Strategiebezüge bleiben dokumentierte Alternativen. Alle41 bisherigen Karten unverändert; Operations-/Strategieanschlüsse unter GS-Kennen nicht umgewidmet. Eine neue teilweise geprüfte Inhaltszeile, ein geprüfter Hauptzielkontext, kein vollständiger Abschluss. 42 Karten (35 stufenbandpassend, sieben stufenübergreifend), 131 Quellenlinks/129 Karten-Zielanker plus zwei Kontextquellen; weiterhin 70 Auditzeilen, acht Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung 55444, siehe Prüfpaket.
 
 Veröffentlicht auf main mit App-Commit `34cd1938711ec31ce96690a695763613c58b762a`; [Pages-Lauf 42589270552](https://github.com/geafaellt/LernzielKompass/actions/runs/42589270552) erfolgreich. Ausgelieferte App 1.344 bytegleich (SHA-256 `7f8a1baeb8ff1f600e27745174286ce753d7f2af0ba8b4b8fd6eaa683fc3230e`). Daten-, Zahlenraum- und Erhaltungsprüfungen bestanden; alle 42 Mathematikkarten lokal und öffentlich funktional geprüft, einklappbare Hinweise/Quellen aller 355 Karten lokal geprüft. Der erste öffentliche Lauf brach bei MA-025 während des Scrollens zur Zurück-Schaltfläche ab. Die vollständige Wiederholung mit deaktivierter Scrollanimation im Testbrowser bestand mit unverändertem Prüffile, normalen Klicks und sämtlichen Assertions. Die Animation selbst wird durch diesen Wiederholungslauf nicht validiert; App-Code blieb unverändert. Fortsetzung 55444; acht Anschlussfragen und alle Restumfänge bleiben offen.
+
+
+## MA-031 · Umkehrvernetzung unter Beherrschen · App 1.345 · 09.11.2026
+
+MA-043 konkretisiert die GS-Strategievernetzung (55444 unter Beherrschen1867) über die Ableitung einer Subtraktion aus einer vertrauten Addition zweier positiver einstelliger Summanden. FSP belegt die Beziehung in der Bemerkung zu Rechenvorteilen bis20 (37885 unter Einblick gewinnen37851). GS nutzt die ausgewählte Verknüpfung sicher und selbstständig; für FSP ist keine freie Strategiewahl vorausgesetzt. Die konkrete Strategieauswahl ist didaktisch. GS-Zielzeile ohne eigene Obergrenze, Auswahl bis20 didaktisch; FSP bis20 ausdrücklich. Alle Ausgangszahlen und relevanten Zwischen-/Endergebnisse bleiben im Rahmen. Das gesonderte Gedächtnisziel bis10 bleibt unverändert.
+
+Beide FSP-Bänder und vorhandene Strategiekarten geprüft. MA-034 bleibt unter GS-Kennen erhalten: MA-043 ist eine zusätzliche Zuordnung zu einem anderen GS-Anforderungsniveau, kein neuer mathematischer Gegenstand. Alle42 bisherigen Karten unverändert. Eine weitere Zeile teilweise geprüft, keine vollständig abgeschlossen. 43 Karten (36 stufenbandpassend, sieben stufenübergreifend), 132 Quellenlinks/130 Karten-Zielanker plus zwei Kontextquellen; 86 Auditzeilen, davon16 neu inventarisierte ungeprüfte Zeilen des folgenden Multiplikations-/Divisionsblocks. Acht Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss bleiben erhalten. Keine Aufgaben oder Hilfsmittel ergänzt. Fortsetzung1881/1882/187075, siehe Prüfpaket.

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.3",
+  "version": "MA-2026-11-09.4",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -896,6 +896,12 @@
       "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum · gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37869",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_55444",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Nutzen von Strategien zur Vernetzung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55444",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -4361,6 +4367,79 @@
       "evidence_classification": {
         "gs": "Hauptziel Beherrschen 1867, Grundaufgaben als arithmetische Basisfakten in der Bemerkung; Unterziel Lösen 55442. Keine eigene numerische Grenze. Auswahl bis 10 didaktisch.",
         "fsp": "Gedächtnismäßiges Verfügen bis 10 ist Zieltext 37869 unter Addition/Subtraktion 37863 und Einblick gewinnen 37851, keine bloße Bemerkung.",
+        "context_only_gs_ids": [
+          "page912_1867"
+        ]
+      }
+    },
+    {
+      "id": "MA-043",
+      "subject": "Mathematik",
+      "theme": "Umkehrbeziehungen zum Vernetzen von Grundaufgaben",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · eigener GS-Beherrschensauftrag",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Strategien zur Vernetzung von Grundaufgaben unter Beherrschen; Umkehrbeziehung als didaktischer Ausschnitt",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Umkehraufgaben aus bekannten Additionen als Rechenvorteil bis 20, konkret in der Bemerkung belegt",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. FSP bis 20 ausdrücklich in 37885. GS 1867/55444 ohne eigene numerische Obergrenze; die Auswahl positiver einstelliger Summanden und zugehöriger Umkehraufgabe bis 20 ist dort didaktisch. Daraus folgt keine amtliche GS-Grenze bis 20 oder bis 100. Keine vollständige GS-Zieldeckung. GS 55444 verlangt Strategien zur Vernetzung unter Beherrschen (1867), ohne einzelne Strategien oder eine numerische Obergrenze zu nennen. Die bekannte Umkehrbeziehung wird als didaktisch ausgewählter Vernetzungsbaustein konkretisiert: Eine vertraute Addition zweier positiver einstelliger Summanden trägt die Ableitung einer zugehörigen Subtraktion. FSP 37885 nennt Rechenvorteile bis 20; die Umkehraufgabenbeziehung steht ausdrücklich in seiner Bemerkung. FSP-Hauptoperator bleibt Einblick gewinnen (37851). GS nutzt die ausgewählte Verknüpfung sicher und selbstständig; auf FSP-Seite wird keine selbstständige Auswahl zwischen mehreren Strategien vorausgesetzt. MA-034 bleibt unter GS-Kennen unverändert. Dies ist eine zusätzliche Zuordnung zu einem anderen GS-Anforderungsniveau, kein neuer mathematischer Gegenstand und keine erneute Prüfung von 187060. Offen bleiben: Andere Vernetzungsstrategien, die umgekehrte Ableitungsrichtung, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie alle weiteren Grundaufgaben außerhalb des ausgewählten Ausschnitts. Der gesamte GS-Beherrschensauftrag bleibt unvollständig abgedeckt.",
+      "gs_target_ids": [
+        "page912_1867",
+        "page912_55444"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1867",
+        "Q-MA-page912_55444",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37885"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. FSP bis 20 ausdrücklich in 37885. GS 1867/55444 ohne eigene numerische Obergrenze; die Auswahl positiver einstelliger Summanden und zugehöriger Umkehraufgabe bis 20 ist dort didaktisch. Daraus folgt keine amtliche GS-Grenze bis 20 oder bis 100. Keine vollständige GS-Zieldeckung. GS 55444 verlangt Strategien zur Vernetzung unter Beherrschen (1867), ohne einzelne Strategien oder eine numerische Obergrenze zu nennen. Die bekannte Umkehrbeziehung wird als didaktisch ausgewählter Vernetzungsbaustein konkretisiert: Eine vertraute Addition zweier positiver einstelliger Summanden trägt die Ableitung einer zugehörigen Subtraktion. FSP 37885 nennt Rechenvorteile bis 20; die Umkehraufgabenbeziehung steht ausdrücklich in seiner Bemerkung. FSP-Hauptoperator bleibt Einblick gewinnen (37851). GS nutzt die ausgewählte Verknüpfung sicher und selbstständig; auf FSP-Seite wird keine selbstständige Auswahl zwischen mehreren Strategien vorausgesetzt. MA-034 bleibt unter GS-Kennen unverändert. Dies ist eine zusätzliche Zuordnung zu einem anderen GS-Anforderungsniveau, kein neuer mathematischer Gegenstand und keine erneute Prüfung von 187060. Offen bleiben: Andere Vernetzungsstrategien, die umgekehrte Ableitungsrichtung, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie alle weiteren Grundaufgaben außerhalb des ausgewählten Ausschnitts. Der gesamte GS-Beherrschensauftrag bleibt unvollständig abgedeckt.",
+      "shared_object_suggestion": "Verknüpfte Rechenfakten: Eine bekannte Summe und ihre beiden Summanden bestimmen auch das Ergebnis der zugehörigen Subtraktion.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind nutzt sicher und selbstständig eine vertraute Addition zweier positiver einstelliger Summanden, um das Ergebnis einer zugehörigen Subtraktion im didaktisch ausgewählten Bereich bis 20 abzuleiten.",
+          "criterion": "Die bekannte Summe wird zum Minuenden, ein Summand zum Subtrahenden und der andere zum Ergebnis. Die Verknüpfung und das Ergebnis stimmen; die Ableitung erfolgt selbstständig aus der bekannten Addition. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 20. Die Auswahl ist keine amtliche Obergrenze der GS-Zielzeile.",
+          "status": "Didaktische Konkretisierung des GS-Beherrschens; eine ausgewählte Vernetzungsstrategie, keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt und nutzt bis 20 bei einer vertrauten Addition zweier positiver einstelliger Summanden, dass beim Abziehen eines Summanden von der bekannten Summe der andere verbleibt.",
+          "criterion": "Die bekannte Summe wird zum Minuenden, ein Summand zum Subtrahenden und der andere zum Ergebnis. Die Beziehung und das Subtraktionsergebnis stimmen. Alle Ausgangszahlen sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegativ und bis 20. Keine selbstständige Auswahl zwischen verschiedenen Strategien verlangt.",
+          "status": "Didaktische Konkretisierung aus dem Bemerkungsbeleg; keine selbstständige Auswahl zwischen mehreren Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 20 · ausdrücklich in der FSP-Unterzielzeile zu Rechenvorteilen",
+        "detail": "Bis 20 steht ausdrücklich in 37885 unter Einblick gewinnen (37851). Die Umkehrbeziehung stammt aus der Bemerkung. Positive einstellige Ausgangssummanden und eine Ableitungsrichtung sind didaktische Eingrenzungen. Die GS-Zeilen 1867/55444 nennen keine eigene Obergrenze; die dortige Auswahl bis 20 ist didaktisch.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37885"
+        ],
+        "planning_rule": "Zwei positive einstellige Ausgangssummanden und ihre bekannte Summe; sämtliche Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 20. Von der Summe wird einer ihrer Summanden abgezogen; das Ergebnis ist der andere Summand und nicht negativ. Kein pauschaler Gedächtnisabruf aller Grundaufgaben bis 20: Die gesonderte FSP-Gedächtniszeile 37869 bleibt bis 10. Keine vollständige Aufgabenfamilie, Umkehrrichtung oder freie Strategiewahl vorausgesetzt."
+      },
+      "evidence_classification": {
+        "gs": "Verbindlicher Vernetzungsauftrag 55444 unter Beherrschen 1867; Auswahl der Umkehrstrategie und positiver einstelliger Ausgangssummanden didaktisch, nicht wörtliche GS-Untergliederung. Keine eigene numerische Obergrenze.",
+        "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile 37885 unter Einblick gewinnen37851; konkrete Umkehrbeziehung aus derselben Bemerkung.",
+        "fsp_remark_anchor": "page139_37885",
         "context_only_gs_ids": [
           "page912_1867"
         ]

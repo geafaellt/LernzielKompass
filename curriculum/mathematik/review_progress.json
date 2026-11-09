@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-030",
+  "last_batch": "MA-031",
   "complete": false,
   "counts": {
-    "cards": 42,
+    "cards": 43,
     "cross_band": 7
   },
   "source_plans": {
@@ -1612,10 +1612,23 @@
       "version": "2019",
       "target": "gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
       "remarks": ""
+    },
+    "page912_55444": {
+      "id": "page912_55444",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1867",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55444",
+      "version": "2026",
+      "target": "Nutzen von Strategien zur Vernetzung",
+      "remarks": ""
     }
   },
-  "next_id": "page912_55444",
-  "next_step": "GS 1/2 Nutzen von Strategien zur Vernetzung (55444) unter Beherrschen (1867) gegen beide FSP-Bänder prüfen. Bestehende Strategiekarten unter GS-Kennen (1857) nicht automatisch umwidmen. MA-042 belegt nur den Gedächtnisabruf vertrauter Grundaufgaben bis 10 unter 55442; 1867 bleibt Hauptzielkontext. Acht Anschlussfragen und alle Restumfänge erhalten.",
+  "next_id": "page912_1881",
+  "next_step": "GS 1/2 Kennen der Multiplikation und Division (1881) mit Grundvorstellungen (1882/187075) gegen beide FSP-Bänder prüfen. Der gesamte folgende Block ist nur inventarisiert, nicht fachlich zugeordnet. Bestehende Verdoppel-/Halbierungs- und Additionskarten nicht automatisch übernehmen. 55444 nur über die ausgewählte Umkehrvernetzung auf MA-043 begrenzt zugeordnet; alle Restumfänge und acht Anschlussfragen erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1687,7 +1700,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_030.json",
+  "last_review_file": "review_batch_031.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1930,6 +1943,12 @@
     {
       "gs_id": "page912_55442",
       "scope": "Grundaufgaben oberhalb des ausgewählten Bereichs bis 10, die vollständige Breite und Sicherheit des GS-Beherrschens sowie Strategien zur Vernetzung (55444). Kein Abschluss des gesamten Grundaufgabenblocks.",
+      "status": "offen",
+      "follow_up": "MA-031 prüft 55444 gesondert nur für Umkehrvernetzung. Kein weiterer Abschluss oder erneute Zählung von55442; MA-042 unverändert."
+    },
+    {
+      "gs_id": "page912_55444",
+      "scope": "Andere Vernetzungsstrategien, die umgekehrte Ableitungsrichtung, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie alle weiteren Grundaufgaben außerhalb des ausgewählten Ausschnitts. Der gesamte GS-Beherrschensauftrag bleibt unvollständig abgedeckt.",
       "status": "offen"
     }
   ],
@@ -1945,10 +1964,11 @@
       "page912_1842",
       "page912_1852",
       "page912_1857",
-      "page912_1867"
+      "page912_1867",
+      "page912_1881"
     ],
-    "rows": 70,
-    "note": "Weiterhin 70 inventarisierte Zeilen. MA-030: 1867 als Hauptzielkontext geprüft, 55442 teilweise über MA-042 zugeordnet. Eine neue Karte, kein vollständiger Zeilenabschluss. 42 Karten, sieben stufenübergreifend; acht Anschlussfragen. Fortsetzung 55444; keine erneute Zählung der Strategiezeilen unter 1857.",
+    "rows": 86,
+    "note": "86 inventarisierte Zeilen, davon16 neu aufgenommene und noch ungeprüfte Zeilen zu Multiplikation/Division. MA-031: 55444 teilweise über MA-043 zugeordnet; eine neue GS-Operatorenzuordnung zum bereits bekannten Umkehrgegenstand, keine erneute Zählung von187060 oder1867. 43 Karten, sieben stufenübergreifend; acht Anschlussfragen. Fortsetzung1881/1882/187075.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
