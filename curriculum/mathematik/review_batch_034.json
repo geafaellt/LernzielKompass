@@ -369,10 +369,24 @@
     "preservation": "passed all46 prior cards,138 prior sources,9 questions and nonmath app payloads unchanged; audit changes limited to1885 plus1881/1884 contexts; index/dist identical",
     "scope_check": "passed all70 permitted combinations of two core products with first factors in2,5,10, common second factor1..10 and positive sum/difference of first factors<=10; distributive identity holds and all core products/intermediate/end values<=100",
     "browser_local": "passed all47 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; disclosure checks passed all360 cards",
-    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed."
+    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed.",
+    "browser_live": "passed all47 mathematics cards in publicly delivered App1.348: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; Chromium smooth scrolling disabled as documented"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.348"
+    "status": "published_verified_with_workflow_status_discrepancy",
+    "app_version": "1.348",
+    "app_commit": "bcfad76bdaf3cf23484eb6509d7911b05eceeca9",
+    "pages_run": 42673685859,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42673685859",
+    "pages_conclusion": "failure",
+    "pages_build_conclusion": "success",
+    "pages_deploy_conclusion": "success",
+    "pages_deploy_job": 129350978710,
+    "pages_deploy_log_evidence": "2026-11-09T18:24:23.0493504Z Reported success! Deployment bcfad76bdaf3cf23484eb6509d7911b05eceeca9; environment URL https://geafaellt.github.io/LernzielKompass/",
+    "workflow_discrepancy": "Overall run reports failure, while both listed jobs (build/deploy) completed successfully. Jobs endpoint filter=all lists only these2 jobs. Cause of overall failure not established. Retry of failed jobs rejected by GitHub403: This workflow run cannot be retried. No claim of a wholly successful workflow run.",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "bf5268708abda9bff57fdf998ead669e95ad73cf1fc67222db1f76d704c360b8",
+    "verified_date": "2026-11-09"
   }
 }
