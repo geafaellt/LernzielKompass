@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.2",
+  "version": "MA-2026-11-09.3",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -877,6 +877,24 @@
       "id": "Q-MA-page139_37927",
       "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum · Rechnen mit Geldbeträgen in Sachsituationen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37927",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1867",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Beherrschen der Grundaufgaben der Addition und Subtraktion",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1867",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_55442",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Lösen von Additions- und Subtraktionsaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55442",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37869",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum · gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37869",
       "version": "2019"
     }
   ],
@@ -4273,6 +4291,78 @@
         "fsp_remark_anchor": "page139_37927",
         "context_only_gs_ids": [
           "page912_1857"
+        ]
+      }
+    },
+    {
+      "id": "MA-042",
+      "subject": "Mathematik",
+      "theme": "Grundaufgaben bis 10 aus dem Gedächtnis",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · FSP-Zielgrenze ausdrücklich",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Grundaufgaben der Addition und Subtraktion beherrschen; didaktischer Ausschnitt bis 10",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Gedächtnismäßiges Verfügen über Grundaufgaben bis 10",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Beherrschen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. FSP-Zahlenraum bis 10 ausdrücklich in 37869. Die ausgewählten GS-Zeilen 1867/55442 nennen keine eigene numerische Obergrenze. Für das GS-Feinziel wird bis 10 als didaktischer Ausschnitt gewählt; weder bis 20 noch bis 100 wird als wörtliche Grenze dieser GS-Zeilen ausgegeben. Keine vollständige GS-Zieldeckung. GS-Hauptoperator Beherrschen stammt aus 1867; 55442 konkretisiert das Lösen von Additions- und Subtraktionsaufgaben. FSP-Hauptoperator Einblick gewinnen bleibt an 37851 gebunden. Das Unterziel 37869 fordert gleichwohl ausdrücklich gedächtnismäßiges Verfügen über Grundaufgaben bis 10 innerhalb des Additions-/Subtraktionszusammenhangs 37863. Diese konkrete Gedächtnisanforderung wird weder abgeschwächt noch zum FSP-Hauptoperator Beherrschen umetikettiert. Die Karte wählt den gemeinsamen Ausschnitt nichtnegativer additiver und subtraktiver Grundaufgaben bis 10. Offen bleiben: Grundaufgaben oberhalb des ausgewählten Bereichs bis 10, die vollständige Breite und Sicherheit des GS-Beherrschens sowie Strategien zur Vernetzung (55444). Kein Abschluss des gesamten Grundaufgabenblocks.",
+      "gs_target_ids": [
+        "page912_1867",
+        "page912_55442"
+      ],
+      "fsp_target_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1867",
+        "Q-MA-page912_55442",
+        "Q-MA-page139_37851",
+        "Q-MA-page139_37863",
+        "Q-MA-page139_37869"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. FSP-Zahlenraum bis 10 ausdrücklich in 37869. Die ausgewählten GS-Zeilen 1867/55442 nennen keine eigene numerische Obergrenze. Für das GS-Feinziel wird bis 10 als didaktischer Ausschnitt gewählt; weder bis 20 noch bis 100 wird als wörtliche Grenze dieser GS-Zeilen ausgegeben. Keine vollständige GS-Zieldeckung. GS-Hauptoperator Beherrschen stammt aus 1867; 55442 konkretisiert das Lösen von Additions- und Subtraktionsaufgaben. FSP-Hauptoperator Einblick gewinnen bleibt an 37851 gebunden. Das Unterziel 37869 fordert gleichwohl ausdrücklich gedächtnismäßiges Verfügen über Grundaufgaben bis 10 innerhalb des Additions-/Subtraktionszusammenhangs 37863. Diese konkrete Gedächtnisanforderung wird weder abgeschwächt noch zum FSP-Hauptoperator Beherrschen umetikettiert. Die Karte wählt den gemeinsamen Ausschnitt nichtnegativer additiver und subtraktiver Grundaufgaben bis 10. Offen bleiben: Grundaufgaben oberhalb des ausgewählten Bereichs bis 10, die vollständige Breite und Sicherheit des GS-Beherrschens sowie Strategien zur Vernetzung (55444). Kein Abschluss des gesamten Grundaufgabenblocks.",
+      "shared_object_suggestion": "Vertraute Zahlbeziehungen beim Zusammenfügen und Wegnehmen – die zugehörigen Ergebnisse sind als Rechenfakten verfügbar.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind gibt Ergebnisse vertrauter Grundaufgaben der Addition und Subtraktion im didaktisch ausgewählten Bereich bis 10 sicher aus dem Gedächtnis an.",
+          "criterion": "Die Ergebnisse stimmen und werden ohne erneutes zählendes Ermitteln verfügbar. Alle Ausgangszahlen sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 10. Diese Auswahl ist keine amtliche Obergrenze des GS-Ziels und keine vollständige Zieldeckung.",
+          "status": "Didaktische Konkretisierung des GS-Beherrschens; ausgewählter Bereich bis 10."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind gibt Ergebnisse vertrauter Grundaufgaben der Addition und Subtraktion bis 10 aus dem Gedächtnis an.",
+          "criterion": "Die wiedergegebenen Ergebnisse stimmen. Der Abruf erfolgt aus dem Gedächtnis statt durch erneutes Abzählen. Sämtliche Ausgangszahlen sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegative ganze Zahlen bis 10; kein Zeitlimit wird vorgegeben.",
+          "status": "Didaktische Konkretisierung der ausdrücklich genannten Gedächtnisanforderung im Unterziel; Hauptoperator bleibt Einblick gewinnen.",
+          "scope_status": "explicit",
+          "range_max": 10
+        }
+      ],
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 10 · ausdrücklich in der FSP-Unterzielzeile zu Grundaufgaben",
+        "detail": "37869 nennt Grundaufgaben bis 10 innerhalb von Addition/Subtraktion (37863) unter Einblick gewinnen (37851). Der engere Rahmen wird nicht durch das übergreifende Ziel bis 20 ersetzt. GS 1867/55442 ohne eigene numerische Obergrenze; dort ist die Auswahl bis 10 eine didaktische Eingrenzung.",
+        "max_value": 10,
+        "source_ids": [
+          "Q-MA-page139_37869"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Zahlen bis 10: sämtliche Ausgangszahlen, Summanden, Minuenden, Subtrahenden sowie relevante Zwischen- und Endergebnisse bleiben bis 10. Bei Addition bleibt auch die Summe bis 10; bei Subtraktion ist der Subtrahend nicht größer als der Minuend. Gedächtnisabruf von vertrauten Grundaufgaben, keine Vorgabe von Zeitlimit, konkreten Aufgaben oder Hilfsmitteln. Eigene Entwürfe benötigen weiterhin fachliche Prüfung."
+      },
+      "evidence_classification": {
+        "gs": "Hauptziel Beherrschen 1867, Grundaufgaben als arithmetische Basisfakten in der Bemerkung; Unterziel Lösen 55442. Keine eigene numerische Grenze. Auswahl bis 10 didaktisch.",
+        "fsp": "Gedächtnismäßiges Verfügen bis 10 ist Zieltext 37869 unter Addition/Subtraktion 37863 und Einblick gewinnen 37851, keine bloße Bemerkung.",
+        "context_only_gs_ids": [
+          "page912_1867"
         ]
       }
     }

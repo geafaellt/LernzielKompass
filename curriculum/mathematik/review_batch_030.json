@@ -1,0 +1,235 @@
+{
+  "id": "MA-030",
+  "date": "2026-11-09",
+  "base_commit": "2babc802bc983f6c2a0c643dd44b11f03eb34a4c",
+  "scope": "Grundaufgaben: Gedächtnisabruf bis 10; Hauptzielkontext 1867 und Unterziel 55442",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1867",
+      "level": 1,
+      "parent_target_id": "page912_1867",
+      "target": "Beherrschen der Grundaufgaben der Addition und Subtraktion",
+      "remarks": "Arithmetische Basisfakten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1867",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page912_55442",
+      "level": 2,
+      "parent_target_id": "page912_1867",
+      "target": "Lösen von Additions- und Subtraktionsaufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55442",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page912_55444",
+      "level": 2,
+      "parent_target_id": "page912_1867",
+      "target": "Nutzen von Strategien zur Vernetzung",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55444",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37869",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37869",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    },
+    {
+      "id": "page139_35475",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Aufgaben des Einspluseins im Zahlenraum bis 20",
+      "remarks": "Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter, Kettenaufgaben gedächtnismäßiges Beherrschen der Aufgaben mit Überschreiten des Zehners",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    },
+    {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "new_cards": [
+    "MA-042"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-027",
+    "MA-028",
+    "MA-030",
+    "MA-031",
+    "MA-032",
+    "MA-033",
+    "MA-034",
+    "MA-035",
+    "MA-036",
+    "MA-037",
+    "MA-038"
+  ],
+  "existing_card_decisions": "Alle41 bisherigen Karten unverändert. Operationsvorstellungen und Strategiebeziehungen unter Kennen (1857) sind gegenüber dem gesonderten Beherrschen-Grundaufgabenziel abzugrenzen. MA-042 fokussiert Gedächtnisverfügbarkeit, kein zweites Erfassen derselben Strategie.",
+  "decisions": [
+    {
+      "gs_id": "page912_1867",
+      "status": "context_only_reviewed",
+      "decision": "Hauptoperator Beherrschen und Bemerkung Arithmetische Basisfakten geprüft. Keine eigene Zahlengrenze. Keine separate Karten-/Inhaltszählung; 55442 nur teilweise, 55444 noch offen."
+    },
+    {
+      "gs_id": "page912_55442",
+      "status": "partially_reviewed",
+      "card": "MA-042",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869",
+        "page139_37885"
+      ],
+      "cross_band_candidates": [
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "decision": "GS-Hauptoperator Beherrschen stammt aus 1867; 55442 konkretisiert das Lösen von Additions- und Subtraktionsaufgaben. FSP-Hauptoperator Einblick gewinnen bleibt an 37851 gebunden. Das Unterziel 37869 fordert gleichwohl ausdrücklich gedächtnismäßiges Verfügen über Grundaufgaben bis 10 innerhalb des Additions-/Subtraktionszusammenhangs 37863. Diese konkrete Gedächtnisanforderung wird weder abgeschwächt noch zum FSP-Hauptoperator Beherrschen umetikettiert. Die Karte wählt den gemeinsamen Ausschnitt nichtnegativer additiver und subtraktiver Grundaufgaben bis 10.",
+      "candidate_review": "FSP1/2 37869 ist der engste stufenbandpassende Beleg für Gedächtnisverfügbarkeit bis 10. 37863 belegt Addition/Subtraktion als Kontext; 37885 betrifft Strategien bis 20 und ersetzt nicht die engere Grundaufgabengrenze. FSP3/4 35475 nennt Einspluseins bis 20 und gedächtnismäßiges Beherrschen mit Zehnerüberschreitung in der Bemerkung unter Übertragen (35470). 35479/35485 betreffen Rechnen bis 100 bzw. Lösungswege, keine pauschale Erweiterung des Gedächtnisabrufs auf alle Aufgaben bis100. Der belegte passende Bandanschluss wird bevorzugt; weiterführende FSP3/4-Bezüge nicht als fehlend bezeichnet.",
+      "operators": {
+        "gs": "Beherrschen (1867)",
+        "fsp": "Einblick gewinnen (37851); gedächtnismäßiges Verfügen ist tatsächliche Unterzielanforderung37869"
+      },
+      "number_range": {
+        "gs_target_row_max": null,
+        "gs_didactic_selection_max": 10,
+        "fsp_explicit_max": 10,
+        "fsp_source": "page139_37869",
+        "note": "FSP-Zahlenraum bis 10 ausdrücklich in 37869. Die ausgewählten GS-Zeilen 1867/55442 nennen keine eigene numerische Obergrenze. Für das GS-Feinziel wird bis 10 als didaktischer Ausschnitt gewählt; weder bis 20 noch bis 100 wird als wörtliche Grenze dieser GS-Zeilen ausgegeben. Keine vollständige GS-Zieldeckung."
+      },
+      "prerequisites": "Vertraute Grundaufgaben und zugängliche Operationsvorstellungen. Gedächtnisabruf wird von erneutem Zählen unterschieden; kein Zeit- oder Aufgabensatz vorgeschrieben.",
+      "uncertainty": "Keine eigene numerische Obergrenze in den GS-Zielzeilen; die GS-Auswahl bis10 wird ausdrücklich didaktisch markiert. Die konkrete Performanzbeschreibung bleibt didaktisch, nicht amtlicher Wortlaut.",
+      "remaining": "Grundaufgaben oberhalb des ausgewählten Bereichs bis 10, die vollständige Breite und Sicherheit des GS-Beherrschens sowie Strategien zur Vernetzung (55444). Kein Abschluss des gesamten Grundaufgabenblocks.",
+      "planning_limit": "Nur nichtnegative ganze Zahlen bis 10: sämtliche Ausgangszahlen, Summanden, Minuenden, Subtrahenden sowie relevante Zwischen- und Endergebnisse bleiben bis 10. Bei Addition bleibt auch die Summe bis 10; bei Subtraktion ist der Subtrahend nicht größer als der Minuend. Gedächtnisabruf von vertrauten Grundaufgaben, keine Vorgabe von Zeitlimit, konkreten Aufgaben oder Hilfsmitteln. Eigene Entwürfe benötigen weiterhin fachliche Prüfung."
+    }
+  ],
+  "deferred_rows": [
+    {
+      "gs_id": "page912_55444",
+      "status": "open",
+      "reason": "Eigener Vernetzungsauftrag unter Beherrschen; Quellenzeile gelesen, aber noch keine Anschlussentscheidung. Bekannte Strategiekarten unter Kennen nicht automatisch übernehmen."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "context_rows_reviewed": 1,
+    "newly_completed_rows": 0,
+    "new_cards": 1,
+    "cards": 42,
+    "cross_band_cards": 7,
+    "source_links": 131,
+    "target_anchors": 129,
+    "audit_rows": 70,
+    "open_connection_questions": 8,
+    "documented_no_direct_connection_rows": 4
+  },
+  "continuation": "GS 1/2 Nutzen von Strategien zur Vernetzung (55444) unter Beherrschen (1867) gegen beide FSP-Bänder prüfen. Bestehende Strategiekarten unter GS-Kennen (1857) nicht automatisch umwidmen. MA-042 belegt nur den Gedächtnisabruf vertrauter Grundaufgaben bis 10 unter 55442; 1867 bleibt Hauptzielkontext. Acht Anschlussfragen und alle Restumfänge erhalten.",
+  "tests": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
+    "preservation": "passed: all41 prior cards and nonmath app payloads unchanged; only main context1867 and target55442 audit rows changed; row55444 remains open; no source duplication",
+    "scope_check": "passed all66 admissible additions and66 subtractions on nonnegative integers with all operands and results at most10; explicit FSP source37869 retained; no invented numeric GS target bound",
+    "browser_local": "passed all42 mathematics cards: scope in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, unchanged drafts, subject isolation and mobile; passed disclosure checks for all355 cards,42 duplicate warnings removed",
+    "browser_live": "pending",
+    "browser_environment": "Temporary runner disables GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original browser scripts, normal clicks and all assertions unchanged."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.344"
+  }
+}

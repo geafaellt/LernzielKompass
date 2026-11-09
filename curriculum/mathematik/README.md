@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-029
+# Mathematik-Abgleich · MA-030
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einundvierzig Karten dokumentieren begrenzte Anschlüsse. Vierunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Zweiundvierzig Karten dokumentieren begrenzte Anschlüsse. Fünfunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung beim Grundaufgabenblock (page912_1867, Unterzeilen 55442/55444; nur inventarisiert). [MA-029](review_batch_029.json) ordnet nur den Fachbegriff Summe im Geldkontext zu. Acht Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Strategien zur Vernetzung (page912_55444) unter Beherrschen (1867). [MA-030](review_batch_030.json) ordnet nur den Gedächtnisabruf vertrauter Grundaufgaben bis 10 unter 55442 zu. Acht Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -372,3 +372,10 @@ MA-041 verbindet das GS-Verwenden des Fachworts Summe (187073, Kennen aus 1857) 
 Beide FSP-Bänder, übergreifende Sprachziele und bestehende Inhaltskarten geprüft. Die übrigen 14 Fachwörter bleiben ausdrücklich offen; Operations-/Symbolbelege werden nicht mit eigenständiger Wortverwendung gleichgesetzt. Alle 40 bisherigen Karten unverändert. Eine weitere GS-Zeile teilweise geprüft, keine vollständig abgeschlossen. 41 Karten (34 stufenbandpassend, sieben stufenübergreifend), 128 Quellenlinks/126 Karten-Zielanker plus zwei Kontextquellen, 70 Auditzeilen (drei neu inventarisierte, noch ungeprüfte Zeilen des folgenden Grundaufgabenblocks), acht Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Keine Aufgaben, Lernhandlungen oder Hilfsmittel ergänzt. Fortsetzung 1867/55442/55444; Nachweise im Prüfpaket.
 
 Veröffentlicht auf main mit App-Commit `eabe4bb2d13928cbb33b3aace531ae0db0934a5f`; [Pages-Lauf 42581499672](https://github.com/geafaellt/LernzielKompass/actions/runs/42581499672) erfolgreich. Ausgelieferte App 1.343 bytegleich (SHA-256 `2baf6b109e99f40afc7fceecf25b950b4cd9d7ee4c54780d6b86bdc3fdcb9e69`). Daten-, Zahlenraum- und Erhaltungsprüfungen bestanden; alle 41 Mathematikkarten lokal und öffentlich im Browser geprüft, einklappbare Hinweise/Quellen aller 354 Karten lokal geprüft. Die ersten beiden öffentlichen Läufe brachen beim Warten auf Schaltflächenstabilität an MA-036 bzw. MA-013 ab. Der vollständige Lauf mit deaktivierter Grafikbeschleunigung/Native-Win-Occlusion und initialem Bring-to-front bestand mit unverändertem Prüffile, normalen Klicks und sämtlichen Assertions. Eine definitive Ursache der sporadischen Abbrüche ist damit nicht bewiesen. Fortsetzung 1867/55442/55444; acht Anschlussfragen und alle Restumfänge bleiben offen.
+
+
+## MA-030 · Grundaufgaben bis 10 aus dem Gedächtnis · App 1.344 · 09.11.2026
+
+MA-042 verbindet den ausgewählten GS-Grundaufgabenausschnitt (1867/55442, Beherrschen) mit dem ausdrücklichen FSP-Unterziel zum gedächtnismäßigen Verfügen bis 10 (37869 unter Einblick gewinnen 37851; Operationskontext 37863). Der FSP-Hauptoperator bleibt korrekt zugeordnet; die konkrete Gedächtnisanforderung wird erhalten. Die GS-Zeilen nennen keine eigene Obergrenze: bis 10 ist dort nur die didaktische Auswahl, nicht eine erfundene amtliche Grenze. Sämtliche Ausgangszahlen sowie relevanten Zwischen-/Endergebnisse bleiben nichtnegative ganze Zahlen bis 10. Keine Zeitlimits, konkreten Aufgaben oder Hilfsmittel vorgeschlagen.
+
+Beide FSP-Bänder geprüft: FSP3/4-Einspluseins bis 20 und weiterführende Rechen-/Strategiebezüge bleiben dokumentierte Alternativen. Alle41 bisherigen Karten unverändert; Operations-/Strategieanschlüsse unter GS-Kennen nicht umgewidmet. Eine neue teilweise geprüfte Inhaltszeile, ein geprüfter Hauptzielkontext, kein vollständiger Abschluss. 42 Karten (35 stufenbandpassend, sieben stufenübergreifend), 131 Quellenlinks/129 Karten-Zielanker plus zwei Kontextquellen; weiterhin 70 Auditzeilen, acht Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung 55444, siehe Prüfpaket.

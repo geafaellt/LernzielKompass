@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-029",
+  "last_batch": "MA-030",
   "complete": false,
   "counts": {
-    "cards": 41,
+    "cards": 42,
     "cross_band": 7
   },
   "source_plans": {
@@ -1573,10 +1573,49 @@
       "version": "2019",
       "target": "Rechnen mit Geldbeträgen in Sachsituationen",
       "remarks": "Differenzierung: Begriff Summe"
+    },
+    "page912_1867": {
+      "id": "page912_1867",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1867",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1867",
+      "version": "2026",
+      "target": "Beherrschen der Grundaufgaben der Addition und Subtraktion",
+      "remarks": "Arithmetische Basisfakten"
+    },
+    "page912_55442": {
+      "id": "page912_55442",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1867",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55442",
+      "version": "2026",
+      "target": "Lösen von Additions- und Subtraktionsaufgaben",
+      "remarks": ""
+    },
+    "page139_37869": {
+      "id": "page139_37869",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37869",
+      "version": "2019",
+      "target": "gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
+      "remarks": ""
     }
   },
-  "next_id": "page912_1867",
-  "next_step": "GS 1/2 Beherrschen der Grundaufgaben der Addition und Subtraktion (1867) mit Unterzeilen 55442/55444 bereits offen inventarisiert, nun einzeln gegen beide FSP-Bänder prüfen. Gleiche Rechengegenstände unter GS-Kennen (1857) nicht automatisch auf Beherrschen übertragen. Fachwortzeile 187073 nur über Summe im Geldkontext (MA-041) begrenzt zugeordnet; übrige Fachwörter und acht Anschlussfragen offen.",
+  "next_id": "page912_55444",
+  "next_step": "GS 1/2 Nutzen von Strategien zur Vernetzung (55444) unter Beherrschen (1867) gegen beide FSP-Bänder prüfen. Bestehende Strategiekarten unter GS-Kennen (1857) nicht automatisch umwidmen. MA-042 belegt nur den Gedächtnisabruf vertrauter Grundaufgaben bis 10 unter 55442; 1867 bleibt Hauptzielkontext. Acht Anschlussfragen und alle Restumfänge erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1648,7 +1687,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_029.json",
+  "last_review_file": "review_batch_030.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1887,6 +1926,11 @@
       "gs_id": "page912_187073",
       "scope": "Die übrigen 14 Fachwörter der GS-Zeile, selbstständiges flexibles Verwenden der gesamten Fachwortliste, andere Sachkontexte und GS-Zahlenraum oberhalb 20. Keine vollständige GS-Zieldeckung.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_55442",
+      "scope": "Grundaufgaben oberhalb des ausgewählten Bereichs bis 10, die vollständige Breite und Sicherheit des GS-Beherrschens sowie Strategien zur Vernetzung (55444). Kein Abschluss des gesamten Grundaufgabenblocks.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1904,7 +1948,7 @@
       "page912_1867"
     ],
     "rows": 70,
-    "note": "70 inventarisierte Zeilen: drei offene Zeilen des nächsten Blocks neu aufgenommen, fachlich noch nicht geprüft. MA-029: 187073 teilweise geprüft, eine neue Karte MA-041 zum Begriff Summe im Geldkontext. Keine vollständigen Zeilenabschlüsse. 41 Karten, sieben stufenübergreifend; acht Anschlussfragen. Fortsetzung 1867/55442/55444, nur inventarisiert. Keine erneute Zählung vorhandener Operations-/Musterzeilen.",
+    "note": "Weiterhin 70 inventarisierte Zeilen. MA-030: 1867 als Hauptzielkontext geprüft, 55442 teilweise über MA-042 zugeordnet. Eine neue Karte, kein vollständiger Zeilenabschluss. 42 Karten, sieben stufenübergreifend; acht Anschlussfragen. Fortsetzung 55444; keine erneute Zählung der Strategiezeilen unter 1857.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
