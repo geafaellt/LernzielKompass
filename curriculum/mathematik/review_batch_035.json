@@ -430,11 +430,20 @@
     "preservation": "passed all47 prior cards,141 prior sources,9 questions and nonmath app payloads unchanged; audit changes limited to1887/187080 plus1881/1884 contexts; index/dist identical",
     "scope_check": "passed all9 permitted equal-factor neighbour transitions: n*n+n=(n+1)*n for1<=n<=9, all relevant values<=100; n=10 excluded because target110 exceeds100",
     "browser_local": "passed all48 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; disclosure checks passed all361 cards",
-    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed."
+    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed.",
+    "browser_live": "passed all48 mathematics cards in publicly delivered App1.349: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; Chromium smooth scrolling disabled as documented"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.349"
+    "status": "published_verified",
+    "app_version": "1.349",
+    "app_commit": "0ad31b7367c5c9b32b40d8d98310663297860a80",
+    "pages_run": 42687092388,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42687092388",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "e44de74b2e3a617ccc7e0ea7da0b53521dc31b1a948a113225f6d675a43d0907",
+    "verified_date": "2026-11-09"
   },
   "prior_publication_followup": {
     "run": 42674263970,
