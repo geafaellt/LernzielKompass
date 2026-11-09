@@ -367,11 +367,19 @@
     "preservation": "passed: all42 prior cards and nonmath app payloads unchanged; only context1867 and target55444 audit rows changed;16 new inventory rows all remain open; old187060 not recounted; MA-034 keeps Kennen and MA-042 explicit10",
     "scope_check": "passed all81 pairs of positive single-digit summands and both inverse relations; all inputs, sums and differences remain within20; no invented GS numeric target bound",
     "browser_local": "passed all43 mathematics cards: scope in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, unchanged drafts, subject isolation and mobile; passed disclosure checks for all356 cards,43 duplicate warnings removed; scrolling animation disabled in test environment",
-    "browser_live": "pending",
+    "browser_live": "passed all43 mathematics cards in publicly delivered App1.345: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, drafts, subject isolation and mobile; Chromium smooth scrolling disabled as documented",
     "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original browser scripts, normal clicks and all assertions unchanged. Functional check; animated scrolling itself not assessed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.345"
+    "status": "published_verified",
+    "app_version": "1.345",
+    "app_commit": "72c4e0d579a57b5f23dda265b0489d79ae943e10",
+    "pages_run": 42625253259,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42625253259",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "0b3c86c4adee4c42dd5870cf1a853304538458962af82fe0545923f20face90f",
+    "verified_date": "2026-11-09"
   }
 }
