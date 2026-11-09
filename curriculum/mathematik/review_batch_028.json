@@ -413,11 +413,19 @@
     "preservation": "passed:38 prior cards unchanged; MA-031 retains FSP goal/criterion/scope and gains bounded GS evidence/recognition goal; other subject/title/shared-object/information/feedback payloads unchanged; exactly2 audit rows and no recount of187061",
     "finite_scope_check": "passed all946 admissible three-level additive structures over nonnegative integers with top at most20; both middle sums and all field values remain within20",
     "browser_local": "passed all40 mathematics cards: scope visible in cards/goals/output, source links, goal adoption, empty tasks/aids, unchanged drafts, subject isolation and mobile; passed disclosure checks for all353 cards,40 duplicate warnings removed",
-    "browser_live": "pending",
+    "browser_live": "passed all40 mathematics cards in publicly delivered App1.342, including scope in cards/goals/output, goal/shared-object adoption, empty tasks/aids, unchanged teacher drafts, subject isolation and mobile",
     "browser_evidence_note": "A preceding browser invocation had no retained completion output; only the fully logged repeat is counted as evidence."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.342"
+    "status": "published_verified",
+    "app_version": "1.342",
+    "app_commit": "6c61b32bb60c277f2a9c5014e703d9a03ae58d88",
+    "pages_run": 42578818983,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42578818983",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "00eddba560813d137427df0b10dfc8590db990880a4f8a7c766f676849b3ed5c",
+    "verified_date": "2026-11-09"
   }
 }
