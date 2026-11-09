@@ -364,10 +364,19 @@
     "scope_check": "passed all382 positive equal-group configurations with at least2 groups and total<=100; group count, points per group, total and relevant results stay within100; no invented GS target-row bound",
     "browser_local": "passed all46 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; disclosure checks passed all359 cards",
     "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed.",
-    "test_setup_retry": "Initial browser launch used the wrong working directory and could not locate project data; no assertions ran. Corrected working directory, both complete browser checks passed."
+    "test_setup_retry": "Initial browser launch used the wrong working directory and could not locate project data; no assertions ran. Corrected working directory, both complete browser checks passed.",
+    "browser_live": "passed all46 mathematics cards in publicly delivered App1.347: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; Chromium smooth scrolling disabled as documented"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.347"
+    "status": "published_verified",
+    "app_version": "1.347",
+    "app_commit": "4621f44007653a9ca44eb8712b79de1ea57f1217",
+    "pages_run": 42665035746,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42665035746",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "a71dd3860c97b073baaab58c85e0170e7fefa88e776687d533ffe2d3adebd053",
+    "verified_date": "2026-11-09"
   }
 }
