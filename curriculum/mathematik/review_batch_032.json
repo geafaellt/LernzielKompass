@@ -324,12 +324,20 @@
     "preservation": "passed: all43 prior cards and nonmath app payloads unchanged; only1881/1882 context rows and187075 target row changed; all8 prior questions intact; MA-011 preserved",
     "scope_check": "passed all50 positive doubling cases,50 positive even halving cases and382 admissible equal-group products up to100 with exact division; factors, totals and relevant results within100; no invented GS target-row bound",
     "browser_local": "passed all45 mathematics cards: scope in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, unchanged drafts, subject isolation and mobile; passed disclosure checks for all358 cards,45 duplicate warnings removed; scrolling animation disabled in test environment",
-    "browser_live": "pending",
+    "browser_live": "passed all45 mathematics cards in publicly delivered App1.346: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, drafts, subject isolation and mobile; Chromium smooth scrolling disabled as documented",
     "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and all assertions unchanged. Functional checks; scrolling animation itself not assessed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.346"
+    "status": "published_verified",
+    "app_version": "1.346",
+    "app_commit": "b54579e9ad253f2f981140ea7941133f8f4294ec",
+    "pages_run": 42663200063,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42663200063",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "0b2652a495e89808c841241c9d6c30bdc34be499ed8cbda127e6ea0531a4f752",
+    "verified_date": "2026-11-09"
   },
   "same_band_term_crosscheck": {
     "scope": "Fresh FSP1/2 target and remark rows additionally screened for halb/doppel/vervielf/teil/grupp, as supplement to semantic candidate review, not sole evidence for exclusion",
