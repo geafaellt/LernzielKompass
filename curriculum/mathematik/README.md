@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-034
+# Mathematik-Abgleich · MA-035
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Siebenundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046 und MA-047 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Achtundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047 und MA-048 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Quadratzahlen als Strategie (page912_1887), danach Tauschaufgaben187078. [MA-034](review_batch_034.json) ordnet1885 teilweise über MA-047 zu;1884 ist Strategiekontext. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Tauschaufgaben187078, danach Umkehraufgaben187079. [MA-035](review_batch_035.json) prüft1887 und187080 gemeinsam teilweise über MA-048.187080 später nicht erneut als neue Zeile zählen. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -423,3 +423,14 @@ GS bis 100 ist ausdrücklich in1884 belegt. FSP bis 100 bleibt aus Bandziel35415
 Alle46 bisherigen Karten unverändert. Eine teilweise geprüfte Inhaltszeile, ein neu geprüfter Strategiekontext und ein wiederverwendetes Hauptziel; kein vollständiger Abschluss. 47 Karten (36 stufenbandpassend, elf stufenübergreifend),141 Quellenlinks/139 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung1887; Nachweise im Prüfpaket.
 
 Daten-, Zahlenraum-, Bestandsschutz- und Browserprüfungen bestanden: alle47 Mathematikkarten und die aufklappbaren Hinweise/Quellen aller360 Karten. Alle70 zulässigen Zwei-Kernprodukte-Kombinationen erfüllen die Rechenidentität und bleiben einschließlich Zwischenprodukten bis100. Eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. App1.348 auf main veröffentlicht (Commit `bcfad76bdaf3cf23484eb6509d7911b05eceeca9`). Öffentliche HTML-Datei bytegleich zum geprüften Stand (SHA-256 `bf5268708abda9bff57fdf998ead669e95ad73cf1fc67222db1f76d704c360b8`); Live-Browserprüfung aller47 Mathematikkarten bestanden. [Pages-Lauf 42673685859](https://github.com/geafaellt/LernzielKompass/actions/runs/42673685859) meldet insgesamt `failure`, obwohl beide gelisteten Jobs `build` und `deploy` erfolgreich sind und das Veröffentlichungsprotokoll den Erfolg bestätigt. Ursache des Gesamtstatus ungeklärt; Wiederholung wurde von GitHub mit403 abgelehnt. Kein vollständig grüner Workflow behauptet. Details im [Prüfpaket MA-034](review_batch_034.json).
+
+
+## MA-035 · Vom Quadratprodukt zum Nachbarprodukt · App 1.349 · 09.11.2026
+
+MA-048 verbindet den in der GS-Bemerkung1887 gezeigten positiven Nachbarweg mit den multiplikativen Nachbaraufgaben in der FSP-Bemerkung35442 unter Kennen35439. Die GS-Nachbarzeile187080 wird als fachlich verbundenes Unterziel mitgeprüft. Auf FSP-Seite sind gleiche Ausgangsfaktoren eine didaktische Auswahl innerhalb der belegten Nachbarbeziehung: kein eigenständiger Quadratzahlenauftrag, keine Fachwortpflicht und kein behauptetes Auswendiglernen aller Quadratprodukte. FSP1/2-Belege zu additiven Nachbarn, Schrittzählen und Rechenquadraten sind hierfür nicht gleichzusetzen.
+
+GS bis100 ausdrücklich in1884; FSP bis100 aus Bandziel35415 didaktisch abgeleitet. Gleiche positive Ausgangsfaktoren1 bis9, erster Faktor plus eins, zweiter Faktor unverändert. Ausgangsprodukt, Zuwachs und relevante Ergebnisse bleiben bis100; Ausgangsfaktor10 ausgeschlossen, weil das Nachbarprodukt110 entstünde. Andere Ausgangsprodukte, Richtungen und vollständige Strategiewahl bleiben offen. Aufgaben/Hilfsmittel werden nicht vorgeschlagen.
+
+Alle47 bisherigen Karten unverändert. Zwei teilweise geprüfte Inhaltszeilen mit einer neuen Karte; wiederverwendete Kontextzeilen nicht erneut gezählt. 48 Karten (36 stufenbandpassend, zwölf stufenübergreifend),143 Quellenlinks/141 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung187078/187079;187080 bereits teilweise geprüft. Nachweise im Prüfpaket.
+
+Daten-, Zahlenraum-, Bestandsschutz- und Browserprüfungen bestanden: alle48 Mathematikkarten und Hinweise/Quellen aller361 Karten. Alle neun zulässigen Übergänge bleiben mit Zwischen- und Endergebnissen bis100; Ausgangsfaktor10 ausgeschlossen. Aufgaben/Hilfsmittel leer und eigene Entwürfe erhalten. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. Nachprüfung der früheren Statusabweichung: GitHub-Lauf42674263970 nennt einen internen Serverfehler (Korrelationskennung im Prüfpaket); keine Behauptung, das Plattformproblem sei bereits behoben. Veröffentlichung und Live-Nachweis dieses Stands folgen im Prüfpaket.

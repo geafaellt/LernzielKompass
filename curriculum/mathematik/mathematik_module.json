@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.7",
+  "version": "MA-2026-11-09.8",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -956,6 +956,18 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Entdecken und Nutzen verschiedener Lösungswege",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1887",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Quadratzahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1887",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187080",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Nachbaraufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187080",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -4803,6 +4815,85 @@
       "evidence_classification": {
         "gs": "1885 ist Unterziel unter dem Strategieziel1884 mit ausdrücklichem Zahlenraum bis 100 und Hauptoperator Kennen1881. Summe/Differenz von Kernprodukten in GS-Bemerkung;1881/1884 nur Kontext der Kartenabdeckung.",
         "fsp": "35442 ist Unterziel unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung. Die konkrete additive/subtraktive Ableitung zweier Kernprodukte ist didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_1881",
+          "page912_1884"
+        ]
+      }
+    },
+    {
+      "id": "MA-048",
+      "subject": "Mathematik",
+      "theme": "Vom bekannten Quadratprodukt zum Nachbarprodukt",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Quadratzahlen und Nachbaraufgaben als Strategien bis 100 unter Kennen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Multiplikative Nachbaraufgaben als Bemerkung zu Entdecken/Nutzen von Lösungswegen unter Kennen von Rechenhandlungen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Gleiche Hauptoperatoren bedeuten keine vollständige inhaltliche Deckung. Stufenübergreifend GS1/2 → FSP3/4. GS1887 nennt Quadratzahlen als Strategie und zeigt in der Bemerkung den Übergang von einem Quadratprodukt zum Produkt mit um eins erhöhtem ersten Faktor. GS187080 nennt Nachbaraufgaben unter demselben Strategieziel1884/Kennen1881. FSP35442 nennt Nachbaraufgaben ausdrücklich in der Bemerkung zum Entdecken/Nutzen verschiedener Lösungswege unter Kennen35439; das Beispiel erhöht den ersten Faktor um eins bei unverändertem zweiten Faktor. Diese gemeinsame Rechenbeziehung trägt den Teilanschluss. Die Auswahl eines bereits bekannten Produkts mit gleichen Faktoren auf FSP-Seite ist didaktisch; ein eigenständiger FSP-Auftrag Quadratzahlen, der Fachbegriff oder das Auswendiglernen aller Quadratprodukte wird nicht behauptet. GS bis 100 ausdrücklich im Strategieziel1884. FSP35442 hat keine eigene numerische Obergrenze; bis100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Für beide Feinziele wird der Ausschnitt auf bekannte Produkte mit gleichen positiven Faktoren von1 bis9 und das zugehörige Produkt mit um eins erhöhtem ersten Faktor begrenzt. Alle relevanten Zwischen- und Endergebnisse bleiben bis100. Keine vollständige GS-Zieldeckung. Offen: Andere Ableitungen aus Quadratzahlen, selbstständige Wahl verschiedener Strategien, ein vollständiger Quadratzahlenbestand und die vollständige GS-Zieldeckung. Auf FSP-Seite ist ein Quadratprodukt nur didaktisch ausgewählte bekannte Ausgangsaufgabe; kein eigener amtlicher Quadratzahlenauftrag. Andere Ausgangsprodukte, Verringerung oder Änderung des zweiten Faktors, andere Änderungsweiten, Nullfälle, Division sowie selbstständige flexible Wahl und Kombination von Strategien. Die allgemeine GS-Nachbaraufgabenzeile bleibt nur teilweise abgedeckt.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_1884",
+        "page912_1887",
+        "page912_187080"
+      ],
+      "fsp_target_ids": [
+        "page139_35439",
+        "page139_35442"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_1884",
+        "Q-MA-page912_1887",
+        "Q-MA-page912_187080",
+        "Q-MA-page139_35439",
+        "Q-MA-page139_35442",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS1887 nennt Quadratzahlen als Strategie und zeigt in der Bemerkung den Übergang von einem Quadratprodukt zum Produkt mit um eins erhöhtem ersten Faktor. GS187080 nennt Nachbaraufgaben unter demselben Strategieziel1884/Kennen1881. FSP35442 nennt Nachbaraufgaben ausdrücklich in der Bemerkung zum Entdecken/Nutzen verschiedener Lösungswege unter Kennen35439; das Beispiel erhöht den ersten Faktor um eins bei unverändertem zweiten Faktor. Diese gemeinsame Rechenbeziehung trägt den Teilanschluss. Die Auswahl eines bereits bekannten Produkts mit gleichen Faktoren auf FSP-Seite ist didaktisch; ein eigenständiger FSP-Auftrag Quadratzahlen, der Fachbegriff oder das Auswendiglernen aller Quadratprodukte wird nicht behauptet. GS bis 100 ausdrücklich im Strategieziel1884. FSP35442 hat keine eigene numerische Obergrenze; bis100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Für beide Feinziele wird der Ausschnitt auf bekannte Produkte mit gleichen positiven Faktoren von1 bis9 und das zugehörige Produkt mit um eins erhöhtem ersten Faktor begrenzt. Alle relevanten Zwischen- und Endergebnisse bleiben bis100. Keine vollständige GS-Zieldeckung. Offen: Andere Ableitungen aus Quadratzahlen, selbstständige Wahl verschiedener Strategien, ein vollständiger Quadratzahlenbestand und die vollständige GS-Zieldeckung. Auf FSP-Seite ist ein Quadratprodukt nur didaktisch ausgewählte bekannte Ausgangsaufgabe; kein eigener amtlicher Quadratzahlenauftrag. Andere Ausgangsprodukte, Verringerung oder Änderung des zweiten Faktors, andere Änderungsweiten, Nullfälle, Division sowie selbstständige flexible Wahl und Kombination von Strategien. Die allgemeine GS-Nachbaraufgabenzeile bleibt nur teilweise abgedeckt.",
+      "shared_object_suggestion": "Eine gleich große Gruppe mehr: Wie sich dadurch eine bekannte Gesamtmenge verändert.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind leitet bis 100 aus einem bekannten Quadratprodukt das Produkt mit um eins erhöhtem ersten Faktor ab und erläutert die Veränderung um eine gleich große Gruppe.",
+          "criterion": "Der erste Faktor ist um eins größer, der zweite unverändert; zum bekannten Quadratprodukt kommt genau der zweite Faktor hinzu. Die gleichen Ausgangsfaktoren liegen zwischen 1 und 9. Alle relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung des in der GS-Bemerkung gezeigten Nachbarwegs; Obergrenze100 ausdrücklich in1884."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind leitet bis 100 aus einem bekannten Produkt mit gleichen Faktoren das Nachbarprodukt mit um eins erhöhtem ersten Faktor ab.",
+          "criterion": "Zum bekannten Ausgangsprodukt wird genau der unveränderte zweite Faktor addiert; das Ergebnis passt zum um eins erhöhten ersten Faktor. Beide gleichen Ausgangsfaktoren liegen zwischen 1 und 9; alle relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Auswahl eines bekannten Ausgangsprodukts innerhalb der belegten Nachbarbeziehung; weder Fachbegriff Quadratzahl noch Auswendiglernen aller Quadratprodukte vorausgesetzt. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "FSP35442 belegt multiplikative Nachbaraufgaben in der Bemerkung, ohne eigene Obergrenze. Bis100 wird aus Bandziel35415 didaktisch abgeleitet. Das bekannte Produkt mit gleichen Faktoren ist eine didaktische Auswahl, kein eigener FSP-Quadratzahlenauftrag. GS bis100 ausdrücklich in1884. Der hier gewählte positive Nachbarweg begrenzt gleiche Ausgangsfaktoren zusätzlich auf1 bis9.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Didaktischer Ausschnitt: Die beiden gleichen positiven Ausgangsfaktoren liegen zwischen 1 und 9. Der erste Faktor wird um genau eins erhöht, der zweite bleibt gleich. Das bekannte Ausgangsprodukt wird um den unveränderten zweiten Faktor erhöht. Ausgangsprodukt, hinzugefügter Wert, Zwischenwerte und Zielprodukt bleiben bis 100. Der Ausgangsfaktor10 ist für diese Richtung ausgeschlossen, weil das Nachbarprodukt110 den Rahmen überschreitet. Keine Null-/Negativfälle, Division oder Bruchteile. Kein verpflichtender Fachwortgebrauch Quadratzahl auf FSP-Seite; eigene Entwürfe fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "1887 und187080 sind Unterziele unter1884 mit ausdrücklich bis100 und Hauptoperator Kennen1881. Die Bemerkung zu1887 zeigt denselben positiven Nachbarweg. 1881/1884 bleiben Kontext.",
+        "fsp": "Multiplikativer Nachbarübergang ausdrücklich in Bemerkung35442 unter Kennen35439. Gleichheit der beiden Ausgangsfaktoren ist didaktisch gewählt; kein ausdrückliches FSP-Ziel Quadratzahlen.",
         "context_only_gs_ids": [
           "page912_1881",
           "page912_1884"

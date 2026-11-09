@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-034",
+  "last_batch": "MA-035",
   "complete": false,
   "counts": {
-    "cards": 47,
-    "cross_band": 11
+    "cards": 48,
+    "cross_band": 12
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1742,10 +1742,36 @@
       "version": "2019",
       "target": "Entdecken und Nutzen verschiedener Lösungswege",
       "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48"
+    },
+    "page912_1887": {
+      "id": "page912_1887",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1887",
+      "version": "2026",
+      "target": "Quadratzahlen",
+      "remarks": "8 · 7 = 7 · 7 + 1 · 7"
+    },
+    "page912_187080": {
+      "id": "page912_187080",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187080",
+      "version": "2026",
+      "target": "Nachbaraufgaben",
+      "remarks": ""
     }
   },
-  "next_id": "page912_1887",
-  "next_step": "GS1/2 Quadratzahlen1887 als Strategie unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach Tauschaufgaben187078. Kernaufgaben1885 nur über den didaktischen Zwei-Kernprodukte-Weg auf MA-047 begrenzt zugeordnet. Neun Anschlussfragen und alle Restumfänge erhalten; keine vollständige Zieldeckung.",
+  "next_id": "page912_187078",
+  "next_step": "GS1/2 Tauschaufgaben187078 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach Umkehraufgaben187079. Quadratzahlen1887 und die fachlich verbundene Nachbarzeile187080 sind über MA-048 nur für den positiven Nachbarweg aus einem bekannten Produkt mit gleichen Faktoren teilweise geprüft.187080 später nicht erneut als neue Zeile zählen. Neun Anschlussfragen und alle Restumfänge erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1873,9 +1899,24 @@
         "page139_38021"
       ],
       "decision": "FSP 1/2: Rechenvorteile bis 20 (37885) gehören zum Additions-/Subtraktionskontext 37863; die Grundaufgaben bis 10 in37869 sind keine Multiplikationskernaufgaben. Schrittzählen in2er-/5er-Schritten (37950) ist ein verwandter Vorläufer, belegt aber noch keine Produktableitung mit Kernaufgaben der2,5,10. Allgemeine Sach-/Knobelstrategien (37896/38021) benennen diesen spezifischen Weg nicht. FSP3/4 nennt in35442 Kernaufgaben der2,5,10 ausdrücklich als Bemerkung zum Entdecken/Nutzen von Lösungswegen. Der Inhalt, nicht allein ein größerer Zahlenraum, begründet den stufenübergreifenden Anschluss. Kein pauschaler Nichtanschluss für mathematische Strategien in FSP1/2."
+    },
+    "MA-048": {
+      "same_band_candidate_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_37952",
+        "page139_38017",
+        "page139_38019",
+        "page139_38021"
+      ],
+      "decision": "FSP 1/2: Nachbaraufgaben in37885 beziehen sich auf Addition/Subtraktion (37863), nicht auf benachbarte Produkte. Schrittzählen37950/37952 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, sichern diesen spezifischen multiplikativen Weg aber nicht. Rechenquadrate38019 sind grafische Aufgabenformate, keine Quadratzahlenstrategie. Der konkrete multiplikative Nachbarbezug in FSP3/4 35442 begründet den stufenübergreifenden Anschluss; der kleinere Zahlenraum in FSP1/2 allein wäre kein Ausschlussgrund."
     }
   },
-  "last_review_file": "review_batch_034.json",
+  "last_review_file": "review_batch_035.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2157,6 +2198,16 @@
       "gs_id": "page912_1885",
       "scope": "Division und Umkehrbeziehungen, Ableitungen mit mehr als zwei Kernprodukten, Nullfälle, weitere Faktorbereiche, andere Strategien sowie selbstständige flexible Wahl und Bewertung verschiedener Wege. Der Gesamtanspruch des GS-Strategieziels1884 bleibt unvollständig abgedeckt; Quadratzahlen1887 und folgende Strategiezeilen werden gesondert geprüft.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_1887",
+      "scope": "Andere Ableitungen aus Quadratzahlen, selbstständige Wahl verschiedener Strategien, ein vollständiger Quadratzahlenbestand und die vollständige GS-Zieldeckung. Auf FSP-Seite ist ein Quadratprodukt nur didaktisch ausgewählte bekannte Ausgangsaufgabe; kein eigener amtlicher Quadratzahlenauftrag.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187080",
+      "scope": "Andere Ausgangsprodukte, Verringerung oder Änderung des zweiten Faktors, andere Änderungsweiten, Nullfälle, Division sowie selbstständige flexible Wahl und Kombination von Strategien. Die allgemeine GS-Nachbaraufgabenzeile bleibt nur teilweise abgedeckt.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2175,7 +2226,7 @@
       "page912_1881"
     ],
     "rows": 86,
-    "note": "Weiterhin86 inventarisierte Zeilen. MA-034 prüft1884 als Strategiekontext und1885 teilweise über MA-047;1881 wiederverwendet und nicht erneut gezählt. Eine neue Inhaltszeile, keine vollständige Zieldeckung. 47 Karten, davon11 stufenübergreifend; neun Anschlussfragen. Fortsetzung1887.",
+    "note": "Weiterhin86 inventarisierte Zeilen. MA-035 prüft1887 und die fachlich verbundene Nachbarzeile187080 teilweise über eine gemeinsame Karte.1881/1884 wiederverwendet und nicht erneut gezählt. 48 Karten, davon12 stufenübergreifend; neun Anschlussfragen. Fortsetzung187078, danach187079;187080 nicht erneut als neue Zeile zählen. Keine vollständige Zieldeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
