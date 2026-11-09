@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-033",
+  "last_batch": "MA-034",
   "complete": false,
   "counts": {
-    "cards": 46,
-    "cross_band": 10
+    "cards": 47,
+    "cross_band": 11
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1703,10 +1703,49 @@
       "version": "2026",
       "target": "Vernetzen von Darstellungen",
       "remarks": ""
+    },
+    "page912_1884": {
+      "id": "page912_1884",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1884",
+      "version": "2026",
+      "target": "Lösen aller Multiplikations- und Divisionsaufgaben im Zahlenraum bis 100 durch Nutzen von Strategien",
+      "remarks": "sinntragendes und flexibles Rechnen Lösungswege aufgabenbezogen begründet auswählen, ausprobieren und reflektieren Gewohnheit zur Selbstkontrolle"
+    },
+    "page912_1885": {
+      "id": "page912_1885",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1885",
+      "version": "2026",
+      "target": "Kernaufgaben der 2, 5 und 10",
+      "remarks": "7 · 8 = 5 · 8 + 2 · 8 8 · 9 = 10 · 9 - 2 · 9"
+    },
+    "page139_35442": {
+      "id": "page139_35442",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "version": "2019",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48"
     }
   },
-  "next_id": "page912_1884",
-  "next_step": "GS1/2 Strategie-Hauptunterziel1884 (alle Multiplikations-/Divisionsaufgaben bis100) und seine folgenden Unterzeilen gegen beide FSP-Bänder prüfen. MA-046 begrenzt187076/187077 auf Punktfeld → sprachliche Gruppenbeschreibung. Bestehende Karten und neun Anschlussfragen einschließlich Aufteilen/Reste sowie alle Restumfänge erhalten; keine vollständige Zieldeckung.",
+  "next_id": "page912_1887",
+  "next_step": "GS1/2 Quadratzahlen1887 als Strategie unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach Tauschaufgaben187078. Kernaufgaben1885 nur über den didaktischen Zwei-Kernprodukte-Weg auf MA-047 begrenzt zugeordnet. Neun Anschlussfragen und alle Restumfänge erhalten; keine vollständige Zieldeckung.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1820,9 +1859,23 @@
         "page139_37941"
       ],
       "decision": "FSP 1/2: Punktmengen und Eigenschaften (37811), paarweise Zuordnung (37813), Strukturieren/Bündeln (37816), strukturierte Mengen bis sechs (37817), Teilmengen (37859) und Menge/Zahlwort/Zahl (37937/37941) liefern verwandte Voraussetzungen. Die ausgewählte Deutung eines Punktfeldes als gleich große Gruppen mit multiplikativer Gesamtmenge wird dort nicht hinreichend konkret benannt. Die Zeichen in37866 beziehen sich auf Addition/Subtraktion. Für FSP3/4 sprechen ausdrücklich Vervielfachen/Teilen35438 und die Darstellungsbezüge in den Bemerkungen35435/35438; nicht allein ein größerer Zahlenraum. Kein pauschaler Nichtanschluss für Darstellungen in FSP1/2."
+    },
+    "MA-047": {
+      "same_band_candidate_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_37952",
+        "page139_38021"
+      ],
+      "decision": "FSP 1/2: Rechenvorteile bis 20 (37885) gehören zum Additions-/Subtraktionskontext 37863; die Grundaufgaben bis 10 in37869 sind keine Multiplikationskernaufgaben. Schrittzählen in2er-/5er-Schritten (37950) ist ein verwandter Vorläufer, belegt aber noch keine Produktableitung mit Kernaufgaben der2,5,10. Allgemeine Sach-/Knobelstrategien (37896/38021) benennen diesen spezifischen Weg nicht. FSP3/4 nennt in35442 Kernaufgaben der2,5,10 ausdrücklich als Bemerkung zum Entdecken/Nutzen von Lösungswegen. Der Inhalt, nicht allein ein größerer Zahlenraum, begründet den stufenübergreifenden Anschluss. Kein pauschaler Nichtanschluss für mathematische Strategien in FSP1/2."
     }
   },
-  "last_review_file": "review_batch_033.json",
+  "last_review_file": "review_batch_034.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2099,6 +2152,11 @@
       "gs_id": "page912_187077",
       "scope": "Andere Darstellungsformen und Übersetzungsrichtungen, selbstständige Auswahl geeigneter Darstellungen, symbolische Multiplikations-/Divisionsgleichungen, Deutung als Division, Aufteilen und Reste sowie die vollständige Vernetzung und GS-Zieldeckung. Keine automatische Übertragung auf das nachfolgende Strategieziel1884.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_1885",
+      "scope": "Division und Umkehrbeziehungen, Ableitungen mit mehr als zwei Kernprodukten, Nullfälle, weitere Faktorbereiche, andere Strategien sowie selbstständige flexible Wahl und Bewertung verschiedener Wege. Der Gesamtanspruch des GS-Strategieziels1884 bleibt unvollständig abgedeckt; Quadratzahlen1887 und folgende Strategiezeilen werden gesondert geprüft.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2117,7 +2175,7 @@
       "page912_1881"
     ],
     "rows": 86,
-    "note": "Weiterhin86 inventarisierte Zeilen. MA-033 prüft187076/187077 teilweise über eine gemeinsame Darstellungskarte MA-046;1881/1882 bleiben Kontext und werden nicht erneut gezählt. 46 Karten, davon10 stufenübergreifend; neun Anschlussfragen. Fortsetzung1884. Keine vollständige Zieldeckung.",
+    "note": "Weiterhin86 inventarisierte Zeilen. MA-034 prüft1884 als Strategiekontext und1885 teilweise über MA-047;1881 wiederverwendet und nicht erneut gezählt. Eine neue Inhaltszeile, keine vollständige Zieldeckung. 47 Karten, davon11 stufenübergreifend; neun Anschlussfragen. Fortsetzung1887.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

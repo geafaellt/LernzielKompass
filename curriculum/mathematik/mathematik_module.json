@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.6",
+  "version": "MA-2026-11-09.7",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -938,6 +938,24 @@
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Vernetzen von Darstellungen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187077",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1884",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Lösen aller Multiplikations- und Divisionsaufgaben im Zahlenraum bis 100 durch Nutzen von Strategien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1884",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1885",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Kernaufgaben der 2, 5 und 10",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1885",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35442",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Entdecken und Nutzen verschiedener Lösungswege",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -4711,6 +4729,83 @@
         "context_only_gs_ids": [
           "page912_1881",
           "page912_1882"
+        ]
+      }
+    },
+    {
+      "id": "MA-047",
+      "subject": "Mathematik",
+      "theme": "Produkte aus Kernaufgaben der 2, 5 und 10 ableiten",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Kernaufgaben der 2, 5 und 10 als Strategien bis 100 unter Kennen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Kernaufgaben der 2, 5 und 10 als Bemerkung zu Entdecken/Nutzen von Lösungswegen unter Kennen von Rechenhandlungen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Gleiche Hauptoperatoren bedeuten keine vollständige inhaltliche Deckung. Stufenübergreifend GS1/2 → FSP3/4. GS1885 nennt Kernaufgaben der 2, 5 und 10 unter dem Strategieziel1884 und Hauptoperator Kennen1881. Die GS-Bemerkung zeigt additive und subtraktive Produktableitungen. FSP35442 nennt Entdecken und Nutzen verschiedener Lösungswege unter Kennen35439; die Kernaufgaben der 2, 5 und 10 stehen ausdrücklich in der Bemerkung. Die Karte konkretisiert daraus die Ableitung eines Produkts aus Summe oder positiver Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. Der konkrete Weg ist didaktische Auswahl, kein wörtlicher FSP-Algorithmus und kein eigener Hauptoperator. GS bis 100 ausdrücklich im Unterziel1884;1885 steht darunter. FSP35442 ohne eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Trotz gleichen ausgewählten Zahlenrahmens keine vollständige GS-Zieldeckung: Die Karte umfasst nur einen ausgewählten multiplikativen Ableitungsweg, nicht alle Aufgaben, Verfahren oder die Division. Offen: Division und Umkehrbeziehungen, Ableitungen mit mehr als zwei Kernprodukten, Nullfälle, weitere Faktorbereiche, andere Strategien sowie selbstständige flexible Wahl und Bewertung verschiedener Wege. Der Gesamtanspruch des GS-Strategieziels1884 bleibt unvollständig abgedeckt; Quadratzahlen1887 und folgende Strategiezeilen werden gesondert geprüft.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_1884",
+        "page912_1885"
+      ],
+      "fsp_target_ids": [
+        "page139_35439",
+        "page139_35442"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_1884",
+        "Q-MA-page912_1885",
+        "Q-MA-page139_35439",
+        "Q-MA-page139_35442",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS1885 nennt Kernaufgaben der 2, 5 und 10 unter dem Strategieziel1884 und Hauptoperator Kennen1881. Die GS-Bemerkung zeigt additive und subtraktive Produktableitungen. FSP35442 nennt Entdecken und Nutzen verschiedener Lösungswege unter Kennen35439; die Kernaufgaben der 2, 5 und 10 stehen ausdrücklich in der Bemerkung. Die Karte konkretisiert daraus die Ableitung eines Produkts aus Summe oder positiver Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. Der konkrete Weg ist didaktische Auswahl, kein wörtlicher FSP-Algorithmus und kein eigener Hauptoperator. GS bis 100 ausdrücklich im Unterziel1884;1885 steht darunter. FSP35442 ohne eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Trotz gleichen ausgewählten Zahlenrahmens keine vollständige GS-Zieldeckung: Die Karte umfasst nur einen ausgewählten multiplikativen Ableitungsweg, nicht alle Aufgaben, Verfahren oder die Division. Offen: Division und Umkehrbeziehungen, Ableitungen mit mehr als zwei Kernprodukten, Nullfälle, weitere Faktorbereiche, andere Strategien sowie selbstständige flexible Wahl und Bewertung verschiedener Wege. Der Gesamtanspruch des GS-Strategieziels1884 bleibt unvollständig abgedeckt; Quadratzahlen1887 und folgende Strategiezeilen werden gesondert geprüft.",
+      "shared_object_suggestion": "Bekannte Produkte als Bausteine: Gleich große Gruppen lassen sich zusammenfassen oder voneinander abziehen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind leitet ein Produkt bis 100 aus der Summe oder positiven Differenz zweier bekannter Kernprodukte der 2, 5 oder 10 mit demselben zweiten Faktor ab und erläutert den Zusammenhang.",
+          "criterion": "Die Zerlegung des ersten Faktors passt zu den beiden Kernprodukten; deren Summe oder positive Differenz entspricht dem gesuchten Produkt. Alle Faktoren liegen zwischen 1 und 10, alle Kernprodukte sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung eines Strategieausschnitts; GS-Grenze bis 100 ausdrücklich in1884."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind nutzt bis 100 zwei bekannte Kernprodukte der 2, 5 oder 10 mit demselben zweiten Faktor, um ein Produkt durch Addieren oder Bilden einer positiven Differenz abzuleiten.",
+          "criterion": "Die Verbindung der ersten Faktoren und die entsprechende Verbindung der Kernprodukte stimmen überein; das abgeleitete Produkt ist richtig. Alle Faktoren liegen zwischen 1 und 10, beide Kernprodukte sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung aus dem Kernaufgabenbezug der Bemerkung35442; kein vollständiger Anspruch verschiedener Lösungswege. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "FSP35442 nennt verschiedene Lösungswege unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung, ohne eigene Obergrenze. Bis100 wird didaktisch aus Bandziel35415 zu Operationsvorstellungen abgeleitet. GS nennt bis 100 ausdrücklich in1884. Die Auswahl zweier positiver Kernprodukte mit Faktoren bis 10 begrenzt die Feinziele zusätzlich.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Didaktischer Ausschnitt: positive ganzzahlige Faktoren bis 10. Zwei bekannte Kernprodukte mit erstem Faktor aus 2, 5 und 10 und demselben zweiten Faktor von 1 bis 10 werden addiert oder als positive Differenz verbunden. Auch die Summe bzw. Differenz der ersten Faktoren muss zwischen 1 und 10 liegen. Beide Kernprodukte, der abgeleitete Faktor, das Zielprodukt und alle relevanten Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenprodukt oberhalb 100 auch dann, wenn das Endergebnis kleiner wäre. Keine Null-/Negativfälle, Division oder Bruchteile. Eigene Entwürfe fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "1885 ist Unterziel unter dem Strategieziel1884 mit ausdrücklichem Zahlenraum bis 100 und Hauptoperator Kennen1881. Summe/Differenz von Kernprodukten in GS-Bemerkung;1881/1884 nur Kontext der Kartenabdeckung.",
+        "fsp": "35442 ist Unterziel unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung. Die konkrete additive/subtraktive Ableitung zweier Kernprodukte ist didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_1881",
+          "page912_1884"
         ]
       }
     }

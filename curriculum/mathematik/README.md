@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-033
+# Mathematik-Abgleich · MA-034
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Sechsundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045 und MA-046 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Siebenundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046 und MA-047 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Strategien für Multiplikation/Division bis100 (page912_1884). [MA-033](review_batch_033.json) ordnet187076/187077 teilweise über MA-046 zu. Weitere Darstellungsrichtungen, Aufteilen und Reste bleiben offen. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Quadratzahlen als Strategie (page912_1887), danach Tauschaufgaben187078. [MA-034](review_batch_034.json) ordnet1885 teilweise über MA-047 zu;1884 ist Strategiekontext. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -412,3 +412,14 @@ FSP bis100 ist aus Bandziel35415 didaktisch abgeleitet, GS-Zielzeilen ohne eigen
 Alle45 bisherigen Karten unverändert. Zwei teilweise geprüfte Inhaltszeilen mit einer neuen Karte; wiederverwendete Kontextzeilen werden nicht erneut gezählt. 46 Karten (36 stufenbandpassend, zehn stufenübergreifend),138 Quellenlinks/136 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung1884; Nachweise im Prüfpaket.
 
 Daten-, Zahlenraum-, Bestandsschutz- und Browserprüfungen bestanden: alle46 Mathematikkarten und die aufklappbaren Hinweise/Quellen aller359 Karten. Eigene Entwürfe bleiben erhalten, Aufgaben/Hilfsmittel leer. Erster Browserstart brach vor Prüfungen wegen falschem Arbeitsordner ab; korrigierter vollständiger Lauf bestanden. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. App1.347 auf main veröffentlicht; Pages-Lauf 42665035746 erfolgreich. Öffentliche HTML-Datei bytegleich zum geprüften Stand (SHA-256 a71dd3860c97b073baaab58c85e0170e7fefa88e776687d533ffe2d3adebd053). Live-Browserprüfung aller46 Mathematikkarten bestanden. Details im [Prüfpaket MA-033](review_batch_033.json).
+
+
+## MA-034 · Kernaufgaben als Bausteine · App 1.348 · 09.11.2026
+
+MA-047 verbindet GS1885 unter Strategieziel1884/Kennen1881 mit FSP3/4: Kennen von Rechenhandlungen35439, Entdecken/Nutzen verschiedener Lösungswege35442 und Kernaufgaben der 2, 5 und 10 in der Bemerkung. Didaktisch ausgewählt ist die Ableitung eines Produkts durch Summe oder positive Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. FSP1/2 wurde geprüft: Schrittzählen, additive Rechenvorteile und allgemeine Strategien sichern diesen spezifischen multiplikativen Weg nicht hinreichend.
+
+GS bis 100 ist ausdrücklich in1884 belegt. FSP bis 100 bleibt aus Bandziel35415 didaktisch abgeleitet. Alle Faktoren im gewählten Ausschnitt liegen zwischen 1 und 10; Kernprodukte, abgeleitetes Produkt und relevante Zwischen-/Endergebnisse bis 100. Division, Nullfälle, andere Ableitungen und die vollständige flexible Strategienutzung bleiben offen. Aufgaben und Hilfsmittel werden nicht vorgeschlagen.
+
+Alle46 bisherigen Karten unverändert. Eine teilweise geprüfte Inhaltszeile, ein neu geprüfter Strategiekontext und ein wiederverwendetes Hauptziel; kein vollständiger Abschluss. 47 Karten (36 stufenbandpassend, elf stufenübergreifend),141 Quellenlinks/139 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung1887; Nachweise im Prüfpaket.
+
+Daten-, Zahlenraum-, Bestandsschutz- und Browserprüfungen bestanden: alle47 Mathematikkarten und die aufklappbaren Hinweise/Quellen aller360 Karten. Alle70 zulässigen Zwei-Kernprodukte-Kombinationen erfüllen die Rechenidentität und bleiben einschließlich Zwischenprodukten bis100. Eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. Veröffentlichung und Live-Nachweis folgen im Prüfpaket.
