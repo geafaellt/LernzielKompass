@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.4",
+  "version": "MA-2026-11-09.5",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -902,6 +902,30 @@
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Nutzen von Strategien zur Vernetzung",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_55444",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1881",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Kennen der Multiplikation und Division",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1881",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1882",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Entwickeln von Grundvorstellungen der Rechenoperationen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1882",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187075",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Verdoppeln, Halbieren, Vervielfachen, Verteilen und Aufteilen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187075",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35438",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Vervielfachen und Teilen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35438",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -4442,6 +4466,160 @@
         "fsp_remark_anchor": "page139_37885",
         "context_only_gs_ids": [
           "page912_1867"
+        ]
+      }
+    },
+    {
+      "id": "MA-044",
+      "subject": "Mathematik",
+      "theme": "Verdoppeln und Halbieren als Operationsvorstellungen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Verdoppeln und Halbieren als Grundvorstellungen unter Kennen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Verdoppeln und Halbieren im Kontext gerechten Verteilens",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4. GS-Hauptoperator Kennen aus 1881, FSP-Hauptoperator Einblick gewinnen aus 35435. Der FSP-Kontext gerechten Verteilens bleibt erhalten. FSP 3/4: bis 100 als didaktischer Rahmen aus dem übergreifenden Ziel 35415 zu Operationsvorstellungen. Die FSP-Zielzeilen 35435/35437/35438 nennen keine eigene Obergrenze. GS 1881/1882/187075 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird für diese Feinziele didaktisch ausgewählt. Die Grenze des nachfolgenden GS-Strategieziels 1884 wird nicht auf diese Zeile übertragen. Keine vollständige GS-Zieldeckung. FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2. 35437 benennt Verdoppeln und Halbieren ausdrücklich. Die Karte konkretisiert positive Anzahlen und ganzzahlige Hälften. MA-011 bleibt unter GS-Beherrschen erhalten; diese neue Zuordnung betrifft das Operationsverständnis unter GS-Kennen. Sie ist kein neu entdeckter mathematischer Gegenstand. Offen bleiben: Aufteilen bei vorgegebener Gruppengröße und gesuchter Gruppenanzahl, Umgang mit Resten, ungerade Hälften bzw. Bruchteile, weitere Sachkontexte und Darstellungswechsel sowie vollständige GS-Zieldeckung. Keine automatische Zuordnung der anschließenden Darstellungs- oder Strategiezeilen.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_1882",
+        "page912_187075"
+      ],
+      "fsp_target_ids": [
+        "page139_35435",
+        "page139_35437"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_1882",
+        "Q-MA-page912_187075",
+        "Q-MA-page139_35435",
+        "Q-MA-page139_35437",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4. GS-Hauptoperator Kennen aus 1881, FSP-Hauptoperator Einblick gewinnen aus 35435. Der FSP-Kontext gerechten Verteilens bleibt erhalten. FSP 3/4: bis 100 als didaktischer Rahmen aus dem übergreifenden Ziel 35415 zu Operationsvorstellungen. Die FSP-Zielzeilen 35435/35437/35438 nennen keine eigene Obergrenze. GS 1881/1882/187075 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird für diese Feinziele didaktisch ausgewählt. Die Grenze des nachfolgenden GS-Strategieziels 1884 wird nicht auf diese Zeile übertragen. Keine vollständige GS-Zieldeckung. FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2. 35437 benennt Verdoppeln und Halbieren ausdrücklich. Die Karte konkretisiert positive Anzahlen und ganzzahlige Hälften. MA-011 bleibt unter GS-Beherrschen erhalten; diese neue Zuordnung betrifft das Operationsverständnis unter GS-Kennen. Sie ist kein neu entdeckter mathematischer Gegenstand. Offen bleiben: Aufteilen bei vorgegebener Gruppengröße und gesuchter Gruppenanzahl, Umgang mit Resten, ungerade Hälften bzw. Bruchteile, weitere Sachkontexte und Darstellungswechsel sowie vollständige GS-Zieldeckung. Keine automatische Zuordnung der anschließenden Darstellungs- oder Strategiezeilen.",
+      "shared_object_suggestion": "Zweimal dieselbe Anzahl und zwei gleich große Teile eines Ganzen – Verdoppeln und Halbieren im Verteilungskontext.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert Verdoppeln als zweimal dieselbe Anzahl und Halbieren als Zerlegen einer geraden Anzahl in zwei gleich große Teile im didaktisch ausgewählten Bereich bis 100.",
+          "criterion": "Die doppelte Anzahl entspricht zweimal der Ausgangsanzahl; beide Hälften sind gleich groß und ergeben zusammen die ganze Anzahl. Alle Ausgangsanzahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100. Beim Verdoppeln ist die Ausgangsanzahl höchstens 50, beim Halbieren die positive ganze Anzahl gerade.",
+          "status": "Didaktische Konkretisierung des Operationsverständnisses; die GS-Zielzeile hat keine eigene numerische Obergrenze."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt doppelte und halbe Anzahlen bis 100 im Zusammenhang gerechten Verteilens.",
+          "criterion": "Die Beziehung zwischen ganzer, doppelter und halber Anzahl stimmt. Alle Ausgangsanzahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100; beim Verdoppeln ist die Ausgangsanzahl höchstens 50. Halbieren betrifft nur positive gerade Anzahlen und zwei gleich große ganzzahlige Teile.",
+          "status": "Didaktische Konkretisierung; Zahlenrahmen aus übergreifendem Stufenbandziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "FSP 35437 nennt Verdoppeln und Halbieren unter Einblick gewinnen in gerechtes Verteilen (35435), ohne eigene Obergrenze. Bis 100 wird didaktisch aus dem übergreifenden Operationsziel 35415 abgeleitet. GS 1881/1882/187075 ohne eigene Obergrenze; der gewählte Rahmen ist dort ebenfalls didaktisch.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Positive ganzzahlige Anzahlen. Beim Verdoppeln Ausgangsanzahl höchstens 50, doppelte Anzahl bis 100. Beim Halbieren nur gerade ganze Anzahlen bis 100 und zwei gleich große ganzzahlige Teile. Sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100. Keine Bruchteile und keine Restverteilung; eigene Entwürfe weiterhin fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "Verdoppeln/Halbieren stehen ausdrücklich in187075 unter Grundvorstellungen1882 und Kennen1881; 1881/1882 sind Kontext.",
+        "fsp": "Ausdrückliches Unterziel35437 unter Einblick gewinnen35435. Darstellungsbeispiele bleiben Bemerkungen, Zahlenrahmen aus übergreifendem Ziel35415.",
+        "context_only_gs_ids": [
+          "page912_1881",
+          "page912_1882"
+        ]
+      }
+    },
+    {
+      "id": "MA-045",
+      "subject": "Mathematik",
+      "theme": "Gleich große Gruppen: Vervielfachen und Verteilen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Vervielfachen und Verteilen als Grundvorstellungen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Vervielfachen und Teilen unter Einblick gewinnen in gerechtes Verteilen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4. GS-Hauptoperator Kennen aus 1881, FSP-Hauptoperator Einblick gewinnen aus 35435. Der FSP-Kontext gerechten Verteilens bleibt erhalten. FSP 3/4: bis 100 als didaktischer Rahmen aus dem übergreifenden Ziel 35415 zu Operationsvorstellungen. Die FSP-Zielzeilen 35435/35437/35438 nennen keine eigene Obergrenze. GS 1881/1882/187075 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird für diese Feinziele didaktisch ausgewählt. Die Grenze des nachfolgenden GS-Strategieziels 1884 wird nicht auf diese Zeile übertragen. Keine vollständige GS-Zieldeckung. FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2. 35438 benennt Vervielfachen und Teilen unter gerechtem Verteilen (35435). Die ausgewählte Beziehung zwischen Gesamtmenge, bekannter Gruppenanzahl und gleicher Anzahl je Gruppe ist eine didaktische Konkretisierung. Beim Verteilen ist die Zahl der Gruppen vorgegeben, die Anzahl je Gruppe gesucht. Dies wird nicht mit Aufteilen bei vorgegebener Gruppengröße gleichgesetzt. Nur restfreie positive ganzzahlige Beziehungen; kein freies Auswählen von Verfahren und keine vollständige Darstellungskompetenz behauptet. Offen bleiben: Aufteilen bei vorgegebener Gruppengröße und gesuchter Gruppenanzahl, Umgang mit Resten, ungerade Hälften bzw. Bruchteile, weitere Sachkontexte und Darstellungswechsel sowie vollständige GS-Zieldeckung. Keine automatische Zuordnung der anschließenden Darstellungs- oder Strategiezeilen.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_1882",
+        "page912_187075"
+      ],
+      "fsp_target_ids": [
+        "page139_35435",
+        "page139_35438"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_1882",
+        "Q-MA-page912_187075",
+        "Q-MA-page139_35435",
+        "Q-MA-page139_35438",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4. GS-Hauptoperator Kennen aus 1881, FSP-Hauptoperator Einblick gewinnen aus 35435. Der FSP-Kontext gerechten Verteilens bleibt erhalten. FSP 3/4: bis 100 als didaktischer Rahmen aus dem übergreifenden Ziel 35415 zu Operationsvorstellungen. Die FSP-Zielzeilen 35435/35437/35438 nennen keine eigene Obergrenze. GS 1881/1882/187075 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird für diese Feinziele didaktisch ausgewählt. Die Grenze des nachfolgenden GS-Strategieziels 1884 wird nicht auf diese Zeile übertragen. Keine vollständige GS-Zieldeckung. FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2. 35438 benennt Vervielfachen und Teilen unter gerechtem Verteilen (35435). Die ausgewählte Beziehung zwischen Gesamtmenge, bekannter Gruppenanzahl und gleicher Anzahl je Gruppe ist eine didaktische Konkretisierung. Beim Verteilen ist die Zahl der Gruppen vorgegeben, die Anzahl je Gruppe gesucht. Dies wird nicht mit Aufteilen bei vorgegebener Gruppengröße gleichgesetzt. Nur restfreie positive ganzzahlige Beziehungen; kein freies Auswählen von Verfahren und keine vollständige Darstellungskompetenz behauptet. Offen bleiben: Aufteilen bei vorgegebener Gruppengröße und gesuchter Gruppenanzahl, Umgang mit Resten, ungerade Hälften bzw. Bruchteile, weitere Sachkontexte und Darstellungswechsel sowie vollständige GS-Zieldeckung. Keine automatische Zuordnung der anschließenden Darstellungs- oder Strategiezeilen.",
+      "shared_object_suggestion": "Gleich große Gruppen und ihre Gesamtmenge: Wie viele Gruppen es gibt und wie viel auf jede Gruppe entfällt.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erklärt im didaktisch ausgewählten Bereich bis 100 die Beziehung zwischen gleich großen Gruppen und der Gesamtmenge beim Vervielfachen und restfreien Verteilen.",
+          "criterion": "Beim Vervielfachen entspricht die Gesamtanzahl der Gruppenanzahl mal der Anzahl je Gruppe. Beim Verteilen stehen Gesamtanzahl und Gruppenanzahl fest; jede Gruppe erhält gleich viele Elemente, zusammen die gesamte Menge. Alle Anzahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung des Operationsverständnisses; keine eigene numerische Obergrenze in der GS-Zielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt im Kontext gerechten Verteilens bis 100 den Zusammenhang zwischen gleich großen Gruppen und ihrer Gesamtmenge beim Vervielfachen und restfreien Verteilen.",
+          "criterion": "Die Gesamtmenge entspricht der vorgegebenen Anzahl gleich großer Gruppen. Beim Verteilen auf die feststehende Gruppenanzahl sind die Teilmengen gleich groß und ergeben zusammen die gesamte Menge. Gruppenanzahl, Anzahl je Gruppe, Gesamtanzahl sowie relevante Zwischen- und Endergebnisse bleiben positive ganze Zahlen bis 100.",
+          "status": "Didaktische Konkretisierung; keine formale Gleichungsnotation oder selbstständige Strategiewahl vorausgesetzt. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "35438 nennt Vervielfachen und Teilen unter gerechtem Verteilen (35435), ohne eigene Obergrenze. Bis 100 wird aus dem übergreifenden Ziel35415 zu Operationsvorstellungen didaktisch abgeleitet. GS 1881/1882/187075 ohne eigene Obergrenze; bis100 ist auch dort die Auswahl, nicht eine Zielzeilengrenze.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Mindestens zwei gleich große Gruppen mit jeweils positiver ganzzahliger Anzahl. Gruppenanzahl, Anzahl je Gruppe, Gesamtmenge und relevante Zwischen- und Endergebnisse bleiben bis 100; insbesondere darf das Produkt 100 nicht überschreiten. Beim Verteilen ist die Gruppenanzahl vorgegeben, die Gesamtanzahl durch sie ohne Rest teilbar. Keine Division durch null, Bruchteile, Restverteilung oder automatische Gleichsetzung mit Aufteilen. Eigene Entwürfe weiterhin fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "Vervielfachen/Verteilen stehen ausdrücklich in187075; 1881/1882 sind Kontext. Auswahl gleich großer positiver Gruppen und Restfreiheit didaktisch.",
+        "fsp": "Vervielfachen/Teilen ausdrücklich in35438 unter Einblick gewinnen in gerechtes Verteilen35435; Gruppenbeziehung didaktisch konkretisiert. Keine Gleichsetzung aller Divisionsvorstellungen.",
+        "context_only_gs_ids": [
+          "page912_1881",
+          "page912_1882"
         ]
       }
     }

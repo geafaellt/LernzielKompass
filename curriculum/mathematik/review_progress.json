@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-031",
+  "last_batch": "MA-032",
   "complete": false,
   "counts": {
-    "cards": 43,
-    "cross_band": 7
+    "cards": 45,
+    "cross_band": 9
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1625,10 +1625,62 @@
       "version": "2026",
       "target": "Nutzen von Strategien zur Vernetzung",
       "remarks": ""
+    },
+    "page912_1881": {
+      "id": "page912_1881",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1881",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1881",
+      "version": "2026",
+      "target": "Kennen der Multiplikation und Division",
+      "remarks": "Operationsverständnis"
+    },
+    "page912_1882": {
+      "id": "page912_1882",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1882",
+      "version": "2026",
+      "target": "Entwickeln von Grundvorstellungen der Rechenoperationen",
+      "remarks": ""
+    },
+    "page912_187075": {
+      "id": "page912_187075",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187075",
+      "version": "2026",
+      "target": "Verdoppeln, Halbieren, Vervielfachen, Verteilen und Aufteilen",
+      "remarks": "Bezug zur Alltags- und Umwelterfahrung der Schülerinnen und Schüler Klärung des Restes am konkreten Sachverhalt"
+    },
+    "page139_35438": {
+      "id": "page139_35438",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35438",
+      "version": "2019",
+      "target": "Vervielfachen und Teilen",
+      "remarks": "Rollenspiel, Quadrat-, Punktfelder Faltarbeiten mit Kreis, Dreieck, Quadrat, Rechteck"
     }
   },
-  "next_id": "page912_1881",
-  "next_step": "GS 1/2 Kennen der Multiplikation und Division (1881) mit Grundvorstellungen (1882/187075) gegen beide FSP-Bänder prüfen. Der gesamte folgende Block ist nur inventarisiert, nicht fachlich zugeordnet. Bestehende Verdoppel-/Halbierungs- und Additionskarten nicht automatisch übernehmen. 55444 nur über die ausgewählte Umkehrvernetzung auf MA-043 begrenzt zugeordnet; alle Restumfänge und acht Anschlussfragen erhalten.",
+  "next_id": "page912_187076",
+  "next_step": "GS 1/2 Nutzen geeigneter Darstellungsformen (187076) und Vernetzen von Darstellungen (187077) unter Kennen1881 gegen beide FSP-Bänder prüfen. 187075 nur über Verdoppeln/Halbieren und Vervielfachen/gerechtes Verteilen auf MA-044/045 begrenzt zugeordnet. Aufteilen bei vorgegebener Gruppengröße und Reste bleiben offen; neun Anschlussfragen und alle Restumfänge erhalten. MA-011 unter Beherrschen unverändert.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1698,9 +1750,37 @@
         "page139_37937"
       ],
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
+    },
+    "MA-044": {
+      "same_band_candidate_ids": [
+        "page139_37804",
+        "page139_37813",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37885",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "decision": "FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2."
+    },
+    "MA-045": {
+      "same_band_candidate_ids": [
+        "page139_37804",
+        "page139_37813",
+        "page139_37816",
+        "page139_37851",
+        "page139_37859",
+        "page139_37863",
+        "page139_37885",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "decision": "FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2."
     }
   },
-  "last_review_file": "review_batch_031.json",
+  "last_review_file": "review_batch_032.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1781,6 +1861,18 @@
         "page139_35479",
         "page139_35485",
         "page139_35415"
+      ]
+    },
+    {
+      "gs_id": "page912_187075",
+      "scope": "Aufteilen bei vorgegebener Gruppengröße und gesuchter Anzahl der Gruppen; Klärung von Resten am konkreten Sachverhalt.",
+      "status": "offen",
+      "reason": "FSP3/4 benennt Teilen und gerechtes Verteilen sowie Gruppierungen. Der ausgewählte Verteilungsanschluss mit vorgegebener Gruppenanzahl sichert die andere Divisionsvorstellung und Restbehandlung noch nicht eindeutig. Keine pauschale Nichtanschlussentscheidung.",
+      "candidate_ids": [
+        "page139_35435",
+        "page139_35438",
+        "page139_35441",
+        "page139_35443"
       ]
     }
   ],
@@ -1950,6 +2042,11 @@
       "gs_id": "page912_55444",
       "scope": "Andere Vernetzungsstrategien, die umgekehrte Ableitungsrichtung, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie alle weiteren Grundaufgaben außerhalb des ausgewählten Ausschnitts. Der gesamte GS-Beherrschensauftrag bleibt unvollständig abgedeckt.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187075",
+      "scope": "Aufteilen bei vorgegebener Gruppengröße und gesuchter Gruppenanzahl, Umgang mit Resten, ungerade Hälften bzw. Bruchteile, weitere Sachkontexte und Darstellungswechsel sowie vollständige GS-Zieldeckung. Keine automatische Zuordnung der anschließenden Darstellungs- oder Strategiezeilen.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1968,7 +2065,7 @@
       "page912_1881"
     ],
     "rows": 86,
-    "note": "86 inventarisierte Zeilen, davon16 neu aufgenommene und noch ungeprüfte Zeilen zu Multiplikation/Division. MA-031: 55444 teilweise über MA-043 zugeordnet; eine neue GS-Operatorenzuordnung zum bereits bekannten Umkehrgegenstand, keine erneute Zählung von187060 oder1867. 43 Karten, sieben stufenübergreifend; acht Anschlussfragen. Fortsetzung1881/1882/187075.",
+    "note": "Weiterhin86 inventarisierte Zeilen. MA-032: 1881/1882 als Haupt-/Unterzielkontext geprüft,187075 teilweise über zwei Karten zugeordnet. Eine neue Inhaltszeile, keine vollständige Zieldeckung. 45 Karten, davon9 stufenübergreifend; neun Anschlussfragen. Fortsetzung187076/187077. MA-011 und ihre früheren Zeilen nicht erneut gezählt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

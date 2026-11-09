@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-031
+# Mathematik-Abgleich · MA-032
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Dreiundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Fünfundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044 und MA-045 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Multiplikation/Division (page912_1881), zunächst Grundvorstellungen (1882/187075). Der folgende Block ist nur inventarisiert. [MA-031](review_batch_031.json) ordnet 55444 nur über die ausgewählte Umkehrvernetzung zu. Acht Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei geeigneten Darstellungsformen und deren Vernetzung (page912_187076/187077). [MA-032](review_batch_032.json) ordnet 187075 nur über die ausgewählten Grundvorstellungen auf MA-044/045 zu. Aufteilen und Reste bleiben offen. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -390,3 +390,12 @@ MA-043 konkretisiert die GS-Strategievernetzung (55444 unter Beherrschen1867) ü
 Beide FSP-Bänder und vorhandene Strategiekarten geprüft. MA-034 bleibt unter GS-Kennen erhalten: MA-043 ist eine zusätzliche Zuordnung zu einem anderen GS-Anforderungsniveau, kein neuer mathematischer Gegenstand. Alle42 bisherigen Karten unverändert. Eine weitere Zeile teilweise geprüft, keine vollständig abgeschlossen. 43 Karten (36 stufenbandpassend, sieben stufenübergreifend), 132 Quellenlinks/130 Karten-Zielanker plus zwei Kontextquellen; 86 Auditzeilen, davon16 neu inventarisierte ungeprüfte Zeilen des folgenden Multiplikations-/Divisionsblocks. Acht Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss bleiben erhalten. Keine Aufgaben oder Hilfsmittel ergänzt. Fortsetzung1881/1882/187075, siehe Prüfpaket.
 
 Veröffentlicht auf main mit App-Commit `72c4e0d579a57b5f23dda265b0489d79ae943e10`; [Pages-Lauf 42625253259](https://github.com/geafaellt/LernzielKompass/actions/runs/42625253259) erfolgreich. Ausgelieferte App 1.345 bytegleich (SHA-256 `0b3c86c4adee4c42dd5870cf1a853304538458962af82fe0545923f20face90f`). Daten-, Zahlenraum- und Erhaltungsprüfungen bestanden; alle 43 Mathematikkarten lokal und öffentlich funktional geprüft, einklappbare Hinweise/Quellen aller 356 Karten lokal geprüft. Scrollanimation war im Testbrowser deaktiviert; normale Klicks und alle Assertions blieben unverändert. Die Animation selbst ist nicht Teil dieses Funktionsnachweises. Fortsetzung 1881/1882/187075; acht Anschlussfragen und alle Restumfänge bleiben offen.
+
+
+## MA-032 · Multiplikative Grundvorstellungen · App 1.346 · 09.11.2026
+
+MA-044 verbindet Verdoppeln/Halbieren unter GS-Kennen1881 mit dem ausdrücklichen FSP3/4-Unterziel35437 unter Einblick gewinnen35435. MA-011 bleibt mit GS-Beherrschen erhalten; keine erneute Zählung ihrer früheren Zeilen. MA-045 konkretisiert Vervielfachen und gerechtes Verteilen (35438) über gleich große Gruppen, Gesamtmenge und vorgegebene Gruppenanzahl. Aufteilen bei vorgegebener Gruppengröße und Restbehandlung werden nicht gleichgesetzt. Beide Karten sind stufenübergreifend GS1/2 → FSP3/4; die verwandten FSP1/2-Belege wurden geprüft. Der spezifische Inhalt, nicht der kleinere Zahlenraum, begründet die Auswahl.
+
+FSP bis100 ist aus Bandziel35415 didaktisch abgeleitet, keine Obergrenze der Zielzeilen. Auch GS1881/1882/187075 nennt keine eigene Obergrenze; bis100 ist die Auswahl. Verdoppeln nur mit Ausgangsanzahl höchstens50, Halbieren positiver gerader Anzahlen, Gruppenprodukte bis100 und restfreies Verteilen. Alle relevanten Zwischen-/Endergebnisse bleiben im Rahmen. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Alle 43 bisherigen Karten unverändert. Eine neue teilweise geprüfte Inhaltszeile, zwei Kontextzeilen, kein vollständiger Abschluss. 45 Karten (36 stufenbandpassend, neun stufenübergreifend), 136 Quellenlinks/134 Karten-Zielanker plus zwei Kontextquellen; weiterhin 86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung187076/187077; Nachweise im Prüfpaket.
