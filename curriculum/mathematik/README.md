@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-032
+# Mathematik-Abgleich · MA-033
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Fünfundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044 und MA-045 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Sechsundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045 und MA-046 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei geeigneten Darstellungsformen und deren Vernetzung (page912_187076/187077). [MA-032](review_batch_032.json) ordnet 187075 nur über die ausgewählten Grundvorstellungen auf MA-044/045 zu. Aufteilen und Reste bleiben offen. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Strategien für Multiplikation/Division bis100 (page912_1884). [MA-033](review_batch_033.json) ordnet187076/187077 teilweise über MA-046 zu. Weitere Darstellungsrichtungen, Aufteilen und Reste bleiben offen. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -401,3 +401,14 @@ FSP bis100 ist aus Bandziel35415 didaktisch abgeleitet, keine Obergrenze der Zie
 Alle 43 bisherigen Karten unverändert. Eine neue teilweise geprüfte Inhaltszeile, zwei Kontextzeilen, kein vollständiger Abschluss. 45 Karten (36 stufenbandpassend, neun stufenübergreifend), 136 Quellenlinks/134 Karten-Zielanker plus zwei Kontextquellen; weiterhin 86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung187076/187077; Nachweise im Prüfpaket.
 
 Veröffentlicht auf main mit App-Commit `b54579e9ad253f2f981140ea7941133f8f4294ec`; [Pages-Lauf 42663200063](https://github.com/geafaellt/LernzielKompass/actions/runs/42663200063) erfolgreich. Ausgelieferte App 1.346 bytegleich (SHA-256 `0b2652a495e89808c841241c9d6c30bdc34be499ed8cbda127e6ea0531a4f752`). Daten-, Zahlenraum- und Erhaltungsprüfungen bestanden; alle 45 Mathematikkarten lokal und öffentlich funktional geprüft, einklappbare Hinweise/Quellen aller 358 Karten lokal geprüft. Scrollanimation war im Testbrowser deaktiviert; normale Klicks und alle Assertions blieben unverändert. Die Animation selbst ist nicht Teil dieses Funktionsnachweises. Fortsetzung 187076/187077; neun Anschlussfragen und alle Restumfänge bleiben offen.
+
+
+## MA-033 · Punktefelder und sprachliche Gruppenbeschreibung · App 1.347 · 09.11.2026
+
+MA-046 konkretisiert GS187076/187077 unter Kennen1881: von einem rechteckigen Punktefeld zur sprachlichen Beschreibung gleich großer Gruppen und ihrer Gesamtmenge. FSP3/4 nennt Vervielfachen/Teilen35438 unter Einblick gewinnen in gerechtes Verteilen35435; Punktfelder und Darstellungsebenen stehen in den Bemerkungen. Die konkrete Übersetzungsrichtung ist didaktische Konkretisierung, kein amtlicher FSP-Vernetzungsoperator. Kandidaten im FSP-Band1/2 wurden geprüft; sie sichern Mengenstruktur/Zahlzuordnung, nicht hinreichend konkret die hier ausgewählte multiplikative Bild-Sprache-Beziehung.
+
+FSP bis100 ist aus Bandziel35415 didaktisch abgeleitet, GS-Zielzeilen ohne eigene Obergrenze. Gruppenanzahl, Punkte je Gruppe, Gesamtmenge und relevante Ergebnisse bleiben bis100; die Gruppierung bleibt gleich. Andere Darstellungen/Richtungen, selbstständige Auswahl, Gleichungsnotation, Division und Restdeutung bleiben offen. Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Alle45 bisherigen Karten unverändert. Zwei teilweise geprüfte Inhaltszeilen mit einer neuen Karte; wiederverwendete Kontextzeilen werden nicht erneut gezählt. 46 Karten (36 stufenbandpassend, zehn stufenübergreifend),138 Quellenlinks/136 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung1884; Nachweise im Prüfpaket.
+
+Daten-, Zahlenraum-, Bestandsschutz- und Browserprüfungen bestanden: alle46 Mathematikkarten und die aufklappbaren Hinweise/Quellen aller359 Karten. Eigene Entwürfe bleiben erhalten, Aufgaben/Hilfsmittel leer. Erster Browserstart brach vor Prüfungen wegen falschem Arbeitsordner ab; korrigierter vollständiger Lauf bestanden. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. Veröffentlichung und Live-Nachweis folgen im Prüfpaket.

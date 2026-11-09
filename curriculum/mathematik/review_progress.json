@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-032",
+  "last_batch": "MA-033",
   "complete": false,
   "counts": {
-    "cards": 45,
-    "cross_band": 9
+    "cards": 46,
+    "cross_band": 10
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1677,10 +1677,36 @@
       "version": "2019",
       "target": "Vervielfachen und Teilen",
       "remarks": "Rollenspiel, Quadrat-, Punktfelder Faltarbeiten mit Kreis, Dreieck, Quadrat, Rechteck"
+    },
+    "page912_187076": {
+      "id": "page912_187076",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187076",
+      "version": "2026",
+      "target": "Nutzen geeigneter Darstellungsformen",
+      "remarks": "Punktefelder"
+    },
+    "page912_187077": {
+      "id": "page912_187077",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187077",
+      "version": "2026",
+      "target": "Vernetzen von Darstellungen",
+      "remarks": ""
     }
   },
-  "next_id": "page912_187076",
-  "next_step": "GS 1/2 Nutzen geeigneter Darstellungsformen (187076) und Vernetzen von Darstellungen (187077) unter Kennen1881 gegen beide FSP-Bänder prüfen. 187075 nur über Verdoppeln/Halbieren und Vervielfachen/gerechtes Verteilen auf MA-044/045 begrenzt zugeordnet. Aufteilen bei vorgegebener Gruppengröße und Reste bleiben offen; neun Anschlussfragen und alle Restumfänge erhalten. MA-011 unter Beherrschen unverändert.",
+  "next_id": "page912_1884",
+  "next_step": "GS1/2 Strategie-Hauptunterziel1884 (alle Multiplikations-/Divisionsaufgaben bis100) und seine folgenden Unterzeilen gegen beide FSP-Bänder prüfen. MA-046 begrenzt187076/187077 auf Punktfeld → sprachliche Gruppenbeschreibung. Bestehende Karten und neun Anschlussfragen einschließlich Aufteilen/Reste sowie alle Restumfänge erhalten; keine vollständige Zieldeckung.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1778,9 +1804,25 @@
         "page139_37952"
       ],
       "decision": "FSP 1/2: Strukturieren und Bündeln von Mengen (37816), Vereinigungs-/Differenzmengen und Teilmengen (37859), Addition/Subtraktion (37863), Rechenvorteile (37885), paarweise Zuordnung (37813) und Schrittzählen (37950/37952) sind verwandte Voraussetzungen. Sie benennen die ausgewählten multiplikativen Grundvorstellungen nicht hinreichend konkret. Ausschlaggebend für FSP 3/4 ist der ausdrückliche Inhalt in 35435/35437/35438, nicht allein der kleinere Zahlenraum in FSP 1/2. Kein pauschaler Nichtanschluss für Mengenarbeit in FSP 1/2."
+    },
+    "MA-046": {
+      "same_band_candidate_ids": [
+        "page139_37804",
+        "page139_37811",
+        "page139_37813",
+        "page139_37816",
+        "page139_37817",
+        "page139_37851",
+        "page139_37859",
+        "page139_37866",
+        "page139_37931",
+        "page139_37937",
+        "page139_37941"
+      ],
+      "decision": "FSP 1/2: Punktmengen und Eigenschaften (37811), paarweise Zuordnung (37813), Strukturieren/Bündeln (37816), strukturierte Mengen bis sechs (37817), Teilmengen (37859) und Menge/Zahlwort/Zahl (37937/37941) liefern verwandte Voraussetzungen. Die ausgewählte Deutung eines Punktfeldes als gleich große Gruppen mit multiplikativer Gesamtmenge wird dort nicht hinreichend konkret benannt. Die Zeichen in37866 beziehen sich auf Addition/Subtraktion. Für FSP3/4 sprechen ausdrücklich Vervielfachen/Teilen35438 und die Darstellungsbezüge in den Bemerkungen35435/35438; nicht allein ein größerer Zahlenraum. Kein pauschaler Nichtanschluss für Darstellungen in FSP1/2."
     }
   },
-  "last_review_file": "review_batch_032.json",
+  "last_review_file": "review_batch_033.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2047,6 +2089,16 @@
       "gs_id": "page912_187075",
       "scope": "Aufteilen bei vorgegebener Gruppengröße und gesuchter Gruppenanzahl, Umgang mit Resten, ungerade Hälften bzw. Bruchteile, weitere Sachkontexte und Darstellungswechsel sowie vollständige GS-Zieldeckung. Keine automatische Zuordnung der anschließenden Darstellungs- oder Strategiezeilen.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187076",
+      "scope": "Andere Darstellungsformen und Übersetzungsrichtungen, selbstständige Auswahl geeigneter Darstellungen, symbolische Multiplikations-/Divisionsgleichungen, Deutung als Division, Aufteilen und Reste sowie die vollständige Vernetzung und GS-Zieldeckung. Keine automatische Übertragung auf das nachfolgende Strategieziel1884.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187077",
+      "scope": "Andere Darstellungsformen und Übersetzungsrichtungen, selbstständige Auswahl geeigneter Darstellungen, symbolische Multiplikations-/Divisionsgleichungen, Deutung als Division, Aufteilen und Reste sowie die vollständige Vernetzung und GS-Zieldeckung. Keine automatische Übertragung auf das nachfolgende Strategieziel1884.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2065,7 +2117,7 @@
       "page912_1881"
     ],
     "rows": 86,
-    "note": "Weiterhin86 inventarisierte Zeilen. MA-032: 1881/1882 als Haupt-/Unterzielkontext geprüft,187075 teilweise über zwei Karten zugeordnet. Eine neue Inhaltszeile, keine vollständige Zieldeckung. 45 Karten, davon9 stufenübergreifend; neun Anschlussfragen. Fortsetzung187076/187077. MA-011 und ihre früheren Zeilen nicht erneut gezählt.",
+    "note": "Weiterhin86 inventarisierte Zeilen. MA-033 prüft187076/187077 teilweise über eine gemeinsame Darstellungskarte MA-046;1881/1882 bleiben Kontext und werden nicht erneut gezählt. 46 Karten, davon10 stufenübergreifend; neun Anschlussfragen. Fortsetzung1884. Keine vollständige Zieldeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

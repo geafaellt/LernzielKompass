@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.5",
+  "version": "MA-2026-11-09.6",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -926,6 +926,18 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Vervielfachen und Teilen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35438",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187076",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Nutzen geeigneter Darstellungsformen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187076",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187077",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Vernetzen von Darstellungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187077",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -4617,6 +4629,85 @@
       "evidence_classification": {
         "gs": "Vervielfachen/Verteilen stehen ausdrücklich in187075; 1881/1882 sind Kontext. Auswahl gleich großer positiver Gruppen und Restfreiheit didaktisch.",
         "fsp": "Vervielfachen/Teilen ausdrücklich in35438 unter Einblick gewinnen in gerechtes Verteilen35435; Gruppenbeziehung didaktisch konkretisiert. Keine Gleichsetzung aller Divisionsvorstellungen.",
+        "context_only_gs_ids": [
+          "page912_1881",
+          "page912_1882"
+        ]
+      }
+    },
+    {
+      "id": "MA-046",
+      "subject": "Mathematik",
+      "theme": "Punktefelder und gleich große Gruppen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Darstellungsformen nutzen und vernetzen unter Kennen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Vervielfachen und Teilen unter Einblick gewinnen in gerechtes Verteilen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenübergreifender Teilanschluss GS1/2 → FSP3/4. GS-Hauptoperator Kennen1881, FSP-Hauptoperator Einblick gewinnen35435. GS187076 nennt das Nutzen geeigneter Darstellungsformen, mit Punktefeldern als Bemerkungsbeispiel;187077 nennt das Vernetzen von Darstellungen. FSP35438 benennt Vervielfachen und Teilen unter Einblick gewinnen in gerechtes Verteilen35435. Punktfelder stehen dort in der Bemerkung; die Darstellungsebenen stehen in der Bemerkung35435. Daraus wird nur die Beziehung von rechteckig strukturiertem Punktfeld zu sprachlicher Gruppenbeschreibung didaktisch konkretisiert. Weder ein eigenständiger FSP-Operator Vernetzen noch ein ausdrücklich vorgeschriebener Übersetzungsalgorithmus wird behauptet. FSP 3/4: bis 100 als didaktischer Rahmen aus dem übergreifenden Ziel35415 zu Operationsvorstellungen. Die Zielzeilen35435/35438 nennen keine eigene Obergrenze. Auch GS1881/1882/187076/187077 ohne eigene numerische Obergrenze; bis100 ist die didaktische Auswahl dieser Karte. Die Grenze des nachfolgenden GS-Strategieziels1884 wird nicht übertragen. Keine vollständige GS-Zieldeckung. Offen bleiben: Andere Darstellungsformen und Übersetzungsrichtungen, selbstständige Auswahl geeigneter Darstellungen, symbolische Multiplikations-/Divisionsgleichungen, Deutung als Division, Aufteilen und Reste sowie die vollständige Vernetzung und GS-Zieldeckung. Keine automatische Übertragung auf das nachfolgende Strategieziel1884.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_1882",
+        "page912_187076",
+        "page912_187077"
+      ],
+      "fsp_target_ids": [
+        "page139_35435",
+        "page139_35438"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_1882",
+        "Q-MA-page912_187076",
+        "Q-MA-page912_187077",
+        "Q-MA-page139_35435",
+        "Q-MA-page139_35438",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS1/2 → FSP3/4. GS-Hauptoperator Kennen1881, FSP-Hauptoperator Einblick gewinnen35435. GS187076 nennt das Nutzen geeigneter Darstellungsformen, mit Punktefeldern als Bemerkungsbeispiel;187077 nennt das Vernetzen von Darstellungen. FSP35438 benennt Vervielfachen und Teilen unter Einblick gewinnen in gerechtes Verteilen35435. Punktfelder stehen dort in der Bemerkung; die Darstellungsebenen stehen in der Bemerkung35435. Daraus wird nur die Beziehung von rechteckig strukturiertem Punktfeld zu sprachlicher Gruppenbeschreibung didaktisch konkretisiert. Weder ein eigenständiger FSP-Operator Vernetzen noch ein ausdrücklich vorgeschriebener Übersetzungsalgorithmus wird behauptet. FSP 3/4: bis 100 als didaktischer Rahmen aus dem übergreifenden Ziel35415 zu Operationsvorstellungen. Die Zielzeilen35435/35438 nennen keine eigene Obergrenze. Auch GS1881/1882/187076/187077 ohne eigene numerische Obergrenze; bis100 ist die didaktische Auswahl dieser Karte. Die Grenze des nachfolgenden GS-Strategieziels1884 wird nicht übertragen. Keine vollständige GS-Zieldeckung. Offen bleiben: Andere Darstellungsformen und Übersetzungsrichtungen, selbstständige Auswahl geeigneter Darstellungen, symbolische Multiplikations-/Divisionsgleichungen, Deutung als Division, Aufteilen und Reste sowie die vollständige Vernetzung und GS-Zieldeckung. Keine automatische Übertragung auf das nachfolgende Strategieziel1884.",
+      "shared_object_suggestion": "Dasselbe Ganze im Punktefeld und in Worten: gleich große Gruppen, ihre Anzahl und die Gesamtmenge.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erläutert im didaktisch ausgewählten Bereich bis 100 den Zusammenhang zwischen einem rechteckigen Punktefeld und seiner sprachlichen Beschreibung als gleich große Gruppen.",
+          "criterion": "Gruppenanzahl, Punkte je Gruppe und Gesamtanzahl stimmen in Bild und sprachlicher Beschreibung überein; die gewählte Gruppierung bleibt erhalten. Alle Anzahlen sowie relevanten Zwischen- und Endergebnisse bleiben positive ganze Zahlen bis 100.",
+          "status": "Didaktische Konkretisierung für die Richtung Bild → sprachliche Beschreibung; keine eigene numerische Obergrenze in der GS-Zielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt und benennt bis 100 gleich große Gruppen und ihre Gesamtmenge in einem rechteckigen Punktfeld im Kontext gerechten Verteilens.",
+          "criterion": "Die sprachlich benannte Gruppenanzahl, die Punktanzahl je Gruppe und die Gesamtanzahl passen zum Bild und zur gleichbleibenden Gruppierung. Alle Anzahlen und relevanten Zwischen- und Endergebnisse bleiben positive ganze Zahlen bis 100.",
+          "status": "Didaktische Konkretisierung aus den Darstellungsbezügen der Bemerkungen; keine formale Gleichungsnotation vorausgesetzt. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "FSP35438: Vervielfachen und Teilen unter gerechtem Verteilen35435, mit Punktfeldern und Darstellungsebenen in den Bemerkungen. Keine eigene Obergrenze; bis100 aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. GS187076/187077 ebenfalls ohne eigene Obergrenze; bis100 ist dort eine didaktische Auswahl.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Rechteckig angeordnete Punktmenge mit mindestens zwei gleich großen Gruppen und positiver ganzzahliger Punktanzahl je Gruppe. Gruppenanzahl, Punkte je Gruppe, Gesamtanzahl und relevante Zwischen- und Endergebnisse bleiben bis 100; insbesondere Gruppenanzahl mal Punkte je Gruppe höchstens100. Die sprachliche Beschreibung erhält dieselbe Gruppierung. Keine Bruchteile, Restdeutung, formale Gleichungsnotation oder Umdeutung durch Wechsel der Gruppierung voraussetzen. Eigene Entwürfe fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187076/187077 sind Unterziele unter Kennen1881 und Grundvorstellungen1882. Punktefelder sind Bemerkungsbeispiel zu187076. 1881/1882 nur Kontext.",
+        "fsp": "35438 ist Unterziel unter Einblick gewinnen35435. Punktfelder und Darstellungsebenen stehen ausschließlich in den Bemerkungen. Die konkrete Richtung Bild → sprachliche Gruppenbeschreibung ist didaktisch abgeleitet, kein amtlicher eigenständiger Vernetzungsoperator.",
         "context_only_gs_ids": [
           "page912_1881",
           "page912_1882"
