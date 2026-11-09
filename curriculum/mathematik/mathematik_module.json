@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-08.8",
-  "checked_on": "2026-11-08",
+  "version": "MA-2026-11-09.1",
+  "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -842,6 +842,30 @@
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Zahlenfolgen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187070",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187071",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · strukturierte Aufgabenformate",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187071",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187072",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Muster und Strukturen in operativen Aufgabenserien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187072",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_38017",
+      "title": "FSP Mathematik 1/2 · Wahlbereich 4: Zahlenzauberei · Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_38019",
+      "title": "FSP Mathematik 1/2 · Wahlbereich 4: Zahlenzauberei · Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -3285,15 +3309,17 @@
       "theme": "Additive Nachbaraufgabe aus bekanntem Ergebnis ableiten",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter Anschluss · Rechenvorteil aus FSP-Bemerkung",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Nachbaraufgabe mit um eins größerem zweiten Summanden aus einer bekannten Addition bis 100 ableiten",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Nachbaraufgabe mit um eins größerem zweiten Summanden aus einer bekannten Addition bis 100 ableiten; derselbe Veränderungszusammenhang als begrenzter Ausschnitt operativer Muster",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Additive Nachbarstrategie aus der Bemerkung zu Rechenvorteilen, ausdrücklich bis 20",
       "gs_operator": "Kennen",
       "fsp_operator": "Einblick gewinnen",
-      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg erhöht bei einer bekannten Addition nur den zweiten Summanden um eins; entsprechend wächst die Summe um eins. Andere Änderungen von Summanden, die umgekehrte Richtung, Subtraktionsnachbarn und weitere Hilfsaufgaben bleiben offen. Die konkrete Nachbarstrategie wird nur dieser Karte zugeordnet; kein erneutes Zählen als vollständige Abdeckung der allgemeinen Strategiezeile1862.",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg erhöht bei einer bekannten Addition nur den zweiten Summanden um eins; entsprechend wächst die Summe um eins. Andere Änderungen von Summanden, die umgekehrte Richtung, Subtraktionsnachbarn und weitere Hilfsaufgaben bleiben offen. Die konkrete Nachbarstrategie wird nur dieser Karte zugeordnet; kein erneutes Zählen als vollständige Abdeckung der allgemeinen Strategiezeile1862. MA-028-Prüfung: GS 187072 wird zusätzlich nur für den lokalen Übergang zwischen zwei benachbarten Additionen zugeordnet: erster Summand unverändert, zweiter Summand und Summe jeweils um eins größer. Der FSP-Bemerkungsbeleg 37885 zeigt genau diese Beziehung. Sie ist ein Baustein einer operativen Serie; vollständiges Fortsetzen oder Analysieren einer beliebigen Serie wird nicht behauptet. GS-Hauptoperator Kennen (1857) bleibt für beide Bezüge identisch. Bestehende Karte MA-031 wiederverwendet, keine zusätzliche Karte und keine erneute Zählung von 187061.",
       "gs_target_ids": [
         "page912_1857",
         "page912_1862",
-        "page912_187061"
+        "page912_187061",
+        "page912_187069",
+        "page912_187072"
       ],
       "fsp_target_ids": [
         "page139_37851",
@@ -3306,7 +3332,9 @@
         "Q-MA-page912_187061",
         "Q-MA-page139_37851",
         "Q-MA-page139_37863",
-        "Q-MA-page139_37885"
+        "Q-MA-page139_37885",
+        "Q-MA-page912_187069",
+        "Q-MA-page912_187072"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -3317,13 +3345,13 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg erhöht bei einer bekannten Addition nur den zweiten Summanden um eins; entsprechend wächst die Summe um eins. Andere Änderungen von Summanden, die umgekehrte Richtung, Subtraktionsnachbarn und weitere Hilfsaufgaben bleiben offen. Die konkrete Nachbarstrategie wird nur dieser Karte zugeordnet; kein erneutes Zählen als vollständige Abdeckung der allgemeinen Strategiezeile1862.",
+      "app_review_message": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP 1/2 bis 20, ausdrücklich in der ausgewählten Unterzielzeile zu Rechenwegen und Rechenvorteilen (37885). Der begrenzte Anschluss belegt keine vollständige GS-Zieldeckung. Stufenbandpassender Anschluss. GS verlangt Kennen, FSP Einblick gewinnen. Der FSP-Unterpunkt nennt Rechenwege und Rechenvorteile bis 20; die konkrete Strategie stammt aus seiner Bemerkung und wird hier didaktisch eingegrenzt. Die niedrigere FSP-Zahlengrenze ist kein Ausschlussgrund. Gedächtnismäßiges Verfügen über Grundaufgaben allein belegt noch nicht das Ableiten neuer Ergebnisse. Bestehende Mengen-, Stellenwert- und Operationskarten bleiben eigene Gegenstände. Es werden keine konkreten Rechenaufgaben oder Hilfsmittel vorgeschlagen. Der ausgewählte Weg erhöht bei einer bekannten Addition nur den zweiten Summanden um eins; entsprechend wächst die Summe um eins. Andere Änderungen von Summanden, die umgekehrte Richtung, Subtraktionsnachbarn und weitere Hilfsaufgaben bleiben offen. Die konkrete Nachbarstrategie wird nur dieser Karte zugeordnet; kein erneutes Zählen als vollständige Abdeckung der allgemeinen Strategiezeile1862. MA-028-Prüfung: GS 187072 wird zusätzlich nur für den lokalen Übergang zwischen zwei benachbarten Additionen zugeordnet: erster Summand unverändert, zweiter Summand und Summe jeweils um eins größer. Der FSP-Bemerkungsbeleg 37885 zeigt genau diese Beziehung. Sie ist ein Baustein einer operativen Serie; vollständiges Fortsetzen oder Analysieren einer beliebigen Serie wird nicht behauptet. GS-Hauptoperator Kennen (1857) bleibt für beide Bezüge identisch. Bestehende Karte MA-031 wiederverwendet, keine zusätzliche Karte und keine erneute Zählung von 187061.",
       "shared_object_suggestion": "Derselbe erste Summand, eins mehr im zweiten Summanden – die Summe wächst um eins.",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind nutzt ein bekanntes Additionsergebnis, um das Ergebnis der Nachbaraufgabe mit um eins größerem zweiten Summanden im Zahlenraum bis 100 abzuleiten.",
-          "criterion": "Der erste Summand bleibt gleich. Der zweite Summand und die Summe wachsen jeweils um eins; das neue Ergebnis wird aus dem bekannten Ergebnis abgeleitet. Alle Ausgangszahlen, Summanden sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "goal": "Das Kind erkennt und beschreibt bis 100 den Zusammenhang zwischen einer bekannten Addition und der Nachbaraufgabe mit um eins größerem zweiten Summanden und leitet deren Ergebnis daraus ab.",
+          "criterion": "Der erste Summand bleibt gleich. Die beschriebene Veränderung betrifft den zweiten Summanden und die Summe: Beide wachsen jeweils um eins. Das neue Ergebnis wird aus dem bekannten Ergebnis abgeleitet. Alle Ausgangszahlen, Summanden sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
           "status": "Didaktische Konkretisierung; begrenzter Ausschnitt."
         },
         {
@@ -3356,12 +3384,13 @@
         "planning_rule": "Nur nichtnegative ganze Zahlen. Ausgangszahlen, sämtliche Summanden und Summen sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch die neue Summe darf 20 nicht überschreiten. Nur Erhöhen des zweiten Summanden um eins; der erste Summand bleibt unverändert."
       },
       "evidence_classification": {
-        "gs": "Verbindliches Strategie-Unterziel unter Kennen; 1857 und1862 sind Kontext, keine vollständige Zieldeckung.",
+        "gs": "Verbindliches Strategie-Unterziel unter Kennen; 1857 und1862 sind Kontext, keine vollständige Zieldeckung. Zusätzlich lokaler Veränderungszusammenhang unter 187072, keine vollständige Serienabdeckung; 187069 bleibt Kontext.",
         "fsp": "Rechenwege/Rechenvorteile bis20 als Zielzeile unter Einblick gewinnen; konkreter Rechenweg aus Bemerkung37885.",
         "fsp_remark_anchor": "page139_37885",
         "context_only_gs_ids": [
           "page912_1857",
-          "page912_1862"
+          "page912_1862",
+          "page912_187069"
         ]
       }
     },
@@ -4052,6 +4081,100 @@
           "Q-MA-page139_37739"
         ],
         "planning_rule": "Nur nichtnegative ganze Zahlen; vorgegebene Richtung und konstante Schrittweite 2 oder 5. Startzahl, sämtliche Folgenglieder und Anzahlen sowie relevante Zwischen- und Endergebnisse bleiben bis 20. Die Fortsetzung endet vor einem Schritt über 20 oder unter 0. Keine wechselnden Regeln, keine automatische Aufgaben-/Materialvorgabe; Naturkontext und vorgegebene Regel erhalten."
+      }
+    },
+    {
+      "id": "MA-040",
+      "subject": "Mathematik",
+      "theme": "Additive Beziehungen in Rechenmauern · FSP-Wahlbereich",
+      "app_area": "MA-page912_1751",
+      "status": "Bedingter Anschluss · FSP-Wahlbereich erforderlich",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Additive Beziehungen im strukturierten Format Zahlenmauer bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Wahlbereich 4: Zahlenzauberei · Rechenmauern als Bemerkungsbeispiel grafischer Darstellungen. Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei.",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zur Addition und Subtraktion (37739) abgeleitet. Der Wahlbereich und die ausgewählte Zielzeile nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung. Stufenbandpassender bedingter Teilanschluss GS 1/2 → FSP 1/2. GS Kennen stammt aus 1857, FSP Anwenden aus 38017. GS nennt Zahlenmauern, FSP Rechenmauern jeweils in der Bemerkung. Der gemeinsame Ausschnitt ist eine ausdrücklich vereinbarte additive Mauerregel. Die konkrete Regel und die Auswahl einer lokalen Beziehung zwischen zwei benachbarten unteren Werten und dem oberen Summenwert sind didaktische Konkretisierungen, kein amtlich wörtlich vorgeschriebener Algorithmus. Rechenquadrate werden nicht ungeprüft mit Zauberquadraten gleichgesetzt. Die Karte belegt nicht sämtliche strukturierten Formate oder deren Gesetzmäßigkeiten. Offen bleiben: Andere strukturierte Formate, Umkehrprobleme, Veränderungen ganzer Mauern, nichtadditive Regeln, der gesamte GS-Musterauftrag und GS-Zahlenraum oberhalb 20. Der FSP-Wahlbereich muss tatsächlich gewählt sein; ohne diese Voraussetzung keine durch diese Karte belegte FSP-Zielzuordnung.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_187069",
+        "page912_187071"
+      ],
+      "fsp_target_ids": [
+        "page139_38017",
+        "page139_38019"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_187069",
+        "Q-MA-page912_187071",
+        "Q-MA-page139_38017",
+        "Q-MA-page139_38019",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zur Addition und Subtraktion (37739) abgeleitet. Der Wahlbereich und die ausgewählte Zielzeile nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung. Stufenbandpassender bedingter Teilanschluss GS 1/2 → FSP 1/2. GS Kennen stammt aus 1857, FSP Anwenden aus 38017. GS nennt Zahlenmauern, FSP Rechenmauern jeweils in der Bemerkung. Der gemeinsame Ausschnitt ist eine ausdrücklich vereinbarte additive Mauerregel. Die konkrete Regel und die Auswahl einer lokalen Beziehung zwischen zwei benachbarten unteren Werten und dem oberen Summenwert sind didaktische Konkretisierungen, kein amtlich wörtlich vorgeschriebener Algorithmus. Rechenquadrate werden nicht ungeprüft mit Zauberquadraten gleichgesetzt. Die Karte belegt nicht sämtliche strukturierten Formate oder deren Gesetzmäßigkeiten. Offen bleiben: Andere strukturierte Formate, Umkehrprobleme, Veränderungen ganzer Mauern, nichtadditive Regeln, der gesamte GS-Musterauftrag und GS-Zahlenraum oberhalb 20. Der FSP-Wahlbereich muss tatsächlich gewählt sein; ohne diese Voraussetzung keine durch diese Karte belegte FSP-Zielzuordnung.",
+      "shared_object_suggestion": "Zwei benachbarte Werte und ihre Summe darüber – dieselbe additive Beziehung verbindet die Felder.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt und beschreibt bis 100 die additive Beziehung zwischen zwei benachbarten unteren Werten und dem darüberliegenden Summenwert einer Zahlenmauer.",
+          "criterion": "Die beschriebene Beziehung passt zur vereinbarten additiven Regel: Der obere Wert ist die Summe der beiden unmittelbar zugeordneten unteren Werte. Alle beteiligten Feldwerte und relevanten Zwischen- und Endergebnisse bleiben nichtnegativ und bis 100.",
+          "status": "Didaktische Konkretisierung des Bemerkungsbeispiels; lokale additive Beziehung, keine vollständige Formatabdeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wendet im gewählten Wahlbereich Zahlenzauberei bis 20 die vereinbarte additive Beziehung zwischen zwei benachbarten unteren Werten und dem darüberliegenden Summenwert einer Rechenmauer an.",
+          "criterion": "Der obere Wert entspricht der Summe der beiden unmittelbar zugeordneten unteren Werte. Alle beteiligten Feldwerte, auch Summen in höheren Reihen, sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegativ und bis 20. Keine zusätzliche selbstständige Herleitung der Mauerregel verlangt.",
+          "status": "Didaktische Konkretisierung des Bemerkungsbeispiels; nur bei gewähltem FSP-Wahlbereich 4. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS 1/2 bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel zur Addition und Subtraktion (37739) abgeleitet. Der Wahlbereich und die ausgewählte Zielzeile nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Bis 20 · didaktisch abgeleitet",
+        "detail": "38017/38019 gehören zum Wahlbereich 4: Zahlenzauberei und nennen keine eigene Obergrenze. Der Rahmen bis 20 wird aus dem übergreifenden Stufenbandziel 37739 zur Addition/Subtraktion abgeleitet. Er ist keine ausdrückliche Grenze der Wahlbereichszeile. Die additive Mauerregel ist eine didaktische Konkretisierung des Bemerkungsformats.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Nur eine ausdrücklich vereinbarte additive Regel mit nichtnegativen ganzzahligen Feldwerten. Sämtliche unteren und oberen Werte sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch bei mehreren Reihen darf keine entstehende Summe 20 überschreiten. Keine automatische Vorgabe einer konkreten Mauer, Aufgabe, Lernhandlung oder eines Hilfsmittels."
+      },
+      "evidence_classification": {
+        "gs": "Strukturierte Aufgabenformate 187071 unter Musterziel 187069 und Kennen 1857; Zahlenmauer ist Bemerkungsbeispiel, additive Regel didaktisch eingegrenzt.",
+        "fsp": "Entdecken/Lösen grafischer Aufgaben 38019 unter Anwenden 38017 im Wahlbereich 4; Rechenmauern sind Bemerkungsbeispiel. Keine Umdeutung zum Pflichtbereich.",
+        "fsp_remark_anchor": "page139_38019",
+        "context_only_gs_ids": [
+          "page912_1857",
+          "page912_187069"
+        ]
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_37750",
+        "label": "Wahlbereich 4: Zahlenzauberei",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei."
       }
     }
   ]

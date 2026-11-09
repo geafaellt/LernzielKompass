@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-027",
+  "last_batch": "MA-028",
   "complete": false,
   "counts": {
-    "cards": 39,
+    "cards": 40,
     "cross_band": 7
   },
   "source_plans": {
@@ -1495,10 +1495,62 @@
       "version": "2026",
       "target": "Zahlenfolgen",
       "remarks": "bildlich, sprachlich und symbolisch Bildungsregeln ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
+    },
+    "page912_187071": {
+      "id": "page912_187071",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187071",
+      "version": "2026",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern, Zauberquadrate, Zahlenketten, Rechentreppen, Rechendreiecke Gesetzmäßigkeiten erkennen ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
+    },
+    "page912_187072": {
+      "id": "page912_187072",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187072",
+      "version": "2026",
+      "target": "Muster und Strukturen in operativen Aufgabenserien",
+      "remarks": "Entdeckerpäckchen, Mittel zum Forschen und Fach­begriffe verwenden ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
+    },
+    "page139_38017": {
+      "id": "page139_38017",
+      "level": 1,
+      "parent_target_id": "page139_38017",
+      "target": "Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "remarks": "⇒ informatische Bildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "Anwenden",
+      "version": "2019"
+    },
+    "page139_38019": {
+      "id": "page139_38019",
+      "level": 2,
+      "parent_target_id": "page139_38017",
+      "target": "Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "remarks": "Rechenblumen, -dominos, -mauern, -quadrate Nutzen verschiedener Kontrollverfahren, Lösungsbild, -wort, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
     }
   },
-  "next_id": "page912_187071",
-  "next_step": "GS 1/2 strukturierte Aufgabenformate (187071) und operative Aufgabenserien (187072) gegen beide FSP-Bänder prüfen; FSP-Wahlbereich Zahlenzauberei (38017/38019) und konkrete Rechenbeziehungen getrennt von allgemeinem Mustererkennen beurteilen. Danach Fachbegriffe (187073). Zahlenfolgen 187070 in MA-027 nur gleichschrittig zugeordnet; 187069 bleibt Kontext ohne vollständige Abdeckung. MA-020 und MA-039 nicht als neue Prüfung derselben Zählzeile zählen. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen.",
+  "next_id": "page912_187073",
+  "next_step": "GS 1/2 Fachbegriffe (187073) einzeln gegen beide FSP-Bänder prüfen. Inhaltliche Operations-/Musterbezüge sind keine automatische Fachwortabdeckung. 187071 ist nur über MA-040 mit gewähltem FSP-Wahlbereich 4 begrenzt zugeordnet; 187072 nur für den lokalen Nachbarübergang auf bestehender MA-031. Keine erneute Zählung früherer Zeilen/Karten; sieben Anschlussfragen und alle Restumfänge erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1570,7 +1622,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_027.json",
+  "last_review_file": "review_batch_028.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1779,6 +1831,16 @@
       "gs_id": "page912_187070",
       "scope": "Andere oder wechselnde Bildungsregeln, vollständiges selbstständiges Erkennen/Beschreiben von Regeln auf FSP-Seite, alle bildlichen/sprachlichen/symbolischen Darstellungsbezüge und der GS-Zahlenraum oberhalb 20. Strukturierte Aufgabenformate (187071) und operative Aufgabenserien (187072) bleiben getrennte Prüfpunkte.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187071",
+      "scope": "Andere strukturierte Formate, Umkehrprobleme, Veränderungen ganzer Mauern, nichtadditive Regeln, der gesamte GS-Musterauftrag und GS-Zahlenraum oberhalb 20. Der FSP-Wahlbereich muss tatsächlich gewählt sein; ohne diese Voraussetzung keine durch diese Karte belegte FSP-Zielzuordnung.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187072",
+      "scope": "Erkennen/Beschreiben/Fortsetzen vollständiger operativer Serien, andere Änderungsrichtungen, wechselnde Regeln, Subtraktionsserien, Fachwortverwendung und GS-Zahlenraum oberhalb 20. Der lokale Nachbarübergang ist keine vollständige Abdeckung der Musterzeile.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1795,7 +1857,7 @@
       "page912_1857"
     ],
     "rows": 67,
-    "note": "Weiterhin 67 inventarisierte Zeilen. MA-027: Zahlenfolgen 187070 teilweise zugeordnet (MA-039); 187069 nur übergeordneter Kontext, keine zweite Inhaltsdeckung. 39 Karten, sieben stufenübergreifend. Keine neue Inventur und keine erneute Zählung der alten Zählzeile 1844; Fortsetzung 187071.",
+    "note": "Weiterhin 67 inventarisierte Zeilen. MA-028: 187071/187072 jeweils begrenzt zugeordnet; eine neue Karte MA-040, bestehende MA-031 wiederverwendet. Keine vollständigen Zeilenabschlüsse; Fortsetzung 187073. 40 Karten, sieben stufenübergreifend. Keine Doppelzählung von 187061 oder Kontextzeilen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-027
+# Mathematik-Abgleich · MA-028
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Neununddreißig Karten dokumentieren begrenzte Anschlüsse. Zweiunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Vierzig Karten dokumentieren begrenzte Anschlüsse. Dreiunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei strukturierten Aufgabenformaten (page912_187071) und operativen Aufgabenserien (187072), danach Fachbegriffe (187073). Zahlenfolgen 187070 sind nur gleichschrittig geprüft; 187069 bleibt Kontext ohne vollständige Musterabdeckung. Sieben Anschlussfragen und dokumentierte Restumfänge bleiben offen. [Prüfpaket MA-027](review_batch_027.json), [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Fachbegriffen (page912_187073). Strukturierte Formate und operative Serien sind nur in den begrenzten Ausschnitten von [MA-028](review_batch_028.json) zugeordnet; insbesondere FSP-Wahlbereichsvoraussetzung beachten. Sieben Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -352,3 +352,12 @@ MA-039 verbindet den GS-Musterauftrag unter Kennen (1857, 187069/187070) mit dem
 MA-020 bleibt für Zählhandlungen unter dem anderen GS-Hauptoperator Beherrschen erhalten; keine erneute Zählung von 1844. FSP3/4 sowie geometrische Muster, Rechenwege und Wahlbereiche wurden als Gegenbezüge geprüft. Strukturierte Aufgabenformate und operative Serien bleiben eigene Prüfpunkte. Alle 38 bisherigen Karten bleiben unverändert. Eine neue teilweise geprüfte Inhaltszeile (187070), eine Kontextprüfung (187069), kein vollständiger Zeilenabschluss. 39 Karten (32 stufenbandpassend, sieben stufenübergreifend), 122 Quellenlinks/120 Karten-Zielanker plus zwei Kontextquellen, weiterhin 67 Auditzeilen und sieben Anschlussfragen. Keine Aufgaben, Lernhandlungen oder Hilfsmittel ergänzt.
 
 Veröffentlicht auf main mit App-Commit `e58f6996ca474e92405a58ce5b386e9230722721`; [Pages-Lauf 42505192428](https://github.com/geafaellt/LernzielKompass/actions/runs/42505192428) erfolgreich. Ausgelieferte App 1.341 bytegleich (SHA-256 `d7f9c888eac79e810a0cea209f8d05122d7e62caf59bd18eba9ce2f0d3adff7c`). Daten-, Zahlenraum- und Erhaltungsprüfungen bestanden; alle 39 Mathematikkarten lokal und öffentlich geprüft, einklappbare Hinweise/Quellen aller 352 Karten lokal geprüft. Der erste öffentliche Browsertest brach beim Warten auf Schaltflächenstabilität ab; die vollständige Wiederholung mit Kartenprotokoll bestand ohne erzwungene Klicks oder ausgelassene Prüfungen. Der Abbruch ist im Prüfpaket dokumentiert.
+
+
+## MA-028 · Strukturierte Formate und operative Nachbarmuster · App 1.342 · 09.11.2026
+
+MA-040 verbindet die in beiden Bemerkungsspalten benannten Zahlen-/Rechenmauern, didaktisch begrenzt auf eine vereinbarte additive Beziehung. FSP-Anwenden stammt aus 38017; der Wahlbereich 4 Zahlenzauberei muss gewählt sein. Diese Voraussetzung steht im FSP-Anker, im Zahlenraumfeld und dessen Planungsgrenze sowie im Hinweis. Bis 20 ist aus dem Stufenbandziel 37739 abgeleitet, nicht in der Wahlbereichszeile ausdrücklich festgelegt. Auch Summen höherer Reihen müssen im Rahmen bleiben. Keine konkrete Mauer, Aufgabe, Lernhandlung oder Hilfsmittel vorgeschlagen.
+
+MA-031 wird für 187072 wiederverwendet: nur der lokale Nachbarübergang mit unverändertem ersten Summanden und um eins wachsendem zweiten Summanden/Ergebnis. GS-Kennen bleibt für beide Bezüge identisch. Das GS-Feinziel benennt nun zusätzlich Erkennen/Beschreiben dieses Zusammenhangs; FSP-Feinziel und ausdrückliche Grenze bis 20 bleiben unverändert. Keine neue Karte für denselben Zusammenhang, keine erneute Zählung von 187061, keine Behauptung vollständiger Serienabdeckung.
+
+Zwei weitere GS-Zeilen teilweise geprüft, keine vollständig abgeschlossen. 40 Karten (33 stufenbandpassend, sieben stufenübergreifend), 126 Quellenlinks/124 Karten-Zielanker plus zwei Kontextquellen, weiterhin 67 Auditzeilen, sieben Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Alle übrigen 38 Karten und Fachbestände unverändert. Fortsetzung 187073; Quellen, Voraussetzungen und Restumfänge im Prüfpaket.

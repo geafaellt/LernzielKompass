@@ -51,6 +51,23 @@ def check_fsp_scope(card):
         if scope['status'] == 'unspecified':
             assert 'festgelegten Zahlenraum' in fsp_goal['goal'] and 'festgelegten Zahlenraum' in fsp_goal['criterion'], cid
 
+def check_fsp_elective_requirement(card):
+    """An elective FSP source must keep its prerequisite visible in planning."""
+    cid = card['id']
+    parent = anchors[card['fsp_target_ids'][0]]
+    area = areas[parent['area_id']]
+    requirement = card.get('fsp_elective_requirement')
+    if area['title'].startswith('Wahlbereich'):
+        assert requirement and requirement['required'] is True, (cid, 'elective prerequisite missing')
+        assert requirement['area_id'] == area['id'] and requirement['label'] == area['title'], cid
+        notice = requirement['notice']
+        assert notice and area['title'] in notice, cid
+        for text in [card['fsp_anchor'], card['app_review_message'], card['fsp_scope']['summary'], card['fsp_scope']['planning_rule']]:
+            assert notice in text, (cid, 'elective prerequisite not visible')
+    else:
+        assert not requirement, (cid, 'elective prerequisite has no elective source')
+
+
 def check_additional_gs_groups(card):
     """Reuse one card for another GS row without merging distinct target hierarchies."""
     cid = card['id']
@@ -115,6 +132,7 @@ for card in cards:
     assert card["shared_object_suggestion"].strip().casefold() != card["theme"].strip().casefold(), (card["id"], "shared object must not merely repeat the card title")
     card_id = card['id']
     check_fsp_scope(card)
+    check_fsp_elective_requirement(card)
     assert re.fullmatch(r'MA-\d{3}', card_id) and card['subject'] == 'Mathematik'
     assert not {'task_suggestions', 'aid_suggestions'} & card.keys(), card_id
     assert [g['track'] for g in card['fine_goals']] == ['Grundschule', 'FSP Lernen'], card_id

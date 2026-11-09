@@ -61,3 +61,21 @@ for c in range_cases:
 for c in cards.values():
     validate_range(c)
 print('PASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.')
+
+# Elective evidence must not silently become an unconditional planning target.
+validate_elective = checks['check_fsp_elective_requirement']
+elective_cases = []
+c = copy.deepcopy(cards['MA-040']); del c['fsp_elective_requirement']; elective_cases.append(c)
+c = copy.deepcopy(cards['MA-040']); c['fsp_elective_requirement']['required'] = False; elective_cases.append(c)
+c = copy.deepcopy(cards['MA-040']); c['fsp_scope']['planning_rule'] = 'Nur bis 20.'; elective_cases.append(c)
+c = copy.deepcopy(cards['MA-040']); c['fsp_elective_requirement']['area_id'] = 'MA-page139_37744'; elective_cases.append(c)
+for c in elective_cases:
+    try:
+        validate_elective(c)
+    except (AssertionError, KeyError):
+        pass
+    else:
+        raise AssertionError('Invalid elective prerequisite accepted: ' + c['id'])
+for c in cards.values():
+    validate_elective(c)
+print('PASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.')

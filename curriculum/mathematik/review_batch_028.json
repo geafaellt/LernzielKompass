@@ -1,0 +1,423 @@
+{
+  "id": "MA-028",
+  "date": "2026-11-09",
+  "base_commit": "e61d6e4a478f6deba7750128e8213c3f25788ea7",
+  "scope": "Strukturierte Formate und lokale operative Nachbarmuster",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1857",
+      "level": 1,
+      "parent_target_id": "page912_1857",
+      "target": "Kennen der Addition und Subtraktion im Zahlenraum bis 100",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1857",
+      "grade": "1/2",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page912_187069",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187069",
+      "grade": "1/2",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page912_187071",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern, Zauberquadrate, Zahlenketten, Rechentreppen, Rechendreiecke Gesetzmäßigkeiten erkennen ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187071",
+      "grade": "1/2",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page912_187072",
+      "level": 3,
+      "parent_target_id": "page912_1857",
+      "target": "Muster und Strukturen in operativen Aufgabenserien",
+      "remarks": "Entdeckerpäckchen, Mittel zum Forschen und Fach­begriffe verwenden ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187072",
+      "grade": "1/2",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_38017",
+      "level": 1,
+      "parent_target_id": "page139_38017",
+      "target": "Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "remarks": "⇒ informatische Bildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017",
+      "grade": "1/2",
+      "parent_operator": "Anwenden",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38019",
+      "level": 2,
+      "parent_target_id": "page139_38017",
+      "target": "Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "remarks": "Rechenblumen, -dominos, -mauern, -quadrate Nutzen verschiedener Kontrollverfahren, Lösungsbild, -wort, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "grade": "1/2",
+      "parent_operator": "Anwenden",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38035",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Prüfen, ob das Problem rechnerisch lösbar ist",
+      "remarks": "Scherzaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38035",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38037",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Skizze",
+      "remarks": "Strichliste, Bündelung, Schritte an der Geraden, 8 + 3 + 5 – 2 = 14",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38037",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "grade": "3/4",
+      "parent_operator": "Übertragen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35475",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Aufgaben des Einspluseins im Zahlenraum bis 20",
+      "remarks": "Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter, Kettenaufgaben gedächtnismäßiges Beherrschen der Aufgaben mit Überschreiten des Zehners",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475",
+      "grade": "3/4",
+      "parent_operator": "Übertragen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "grade": "3/4",
+      "parent_operator": "Übertragen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "parent_operator": "Übertragen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "new_cards": [
+    "MA-040"
+  ],
+  "updated_cards": [
+    "MA-031"
+  ],
+  "existing_cards_rechecked": [
+    "MA-015",
+    "MA-031",
+    "MA-033",
+    "MA-034",
+    "MA-035",
+    "MA-039"
+  ],
+  "existing_card_decisions": "MA-031 bekommt bei unverändertem FSP-Feinziel und Zahlenraum einen begrenzten zusätzlichen GS-Musterbezug mit gleichem Hauptoperator. MA-015 Teil-Ganzes, MA-033 Tauschbeziehung, MA-034 Umkehr, MA-035 Familie und MA-039 Zahlenfolge bleiben unverändert; diese Gegenstände werden nicht pauschal als vollständige Format-/Serienabdeckung gezählt.",
+  "decisions": [
+    {
+      "gs_id": "page912_187071",
+      "status": "partially_reviewed",
+      "card": "MA-040",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_38017",
+        "page139_38019",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_38037"
+      ],
+      "cross_band_candidates": [
+        "page139_35439",
+        "page139_35442",
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "decision": "GS Kennen stammt aus 1857, FSP Anwenden aus 38017. GS nennt Zahlenmauern, FSP Rechenmauern jeweils in der Bemerkung. Der gemeinsame Ausschnitt ist eine ausdrücklich vereinbarte additive Mauerregel. Die konkrete Regel und die Auswahl einer lokalen Beziehung zwischen zwei benachbarten unteren Werten und dem oberen Summenwert sind didaktische Konkretisierungen, kein amtlich wörtlich vorgeschriebener Algorithmus. Rechenquadrate werden nicht ungeprüft mit Zauberquadraten gleichgesetzt. Die Karte belegt nicht sämtliche strukturierten Formate oder deren Gesetzmäßigkeiten.",
+      "candidate_review": "FSP 1/2 Pflichtbereich 37885 nennt konkrete Rechenbeziehungen, aber nicht den gesamten Format-/Musterauftrag. Der Wahlbereich 38017/38019 belegt grafische Formate einschließlich Rechenmauern in der Bemerkung; seine Auswahl bleibt Voraussetzung. FSP 3/4: 35475 nennt Rechengitter/Kettenaufgaben als Bemerkungen, 35485 additive Rechenwege, 35571–35580 Knobelstrategien im Wahlbereich. Daraus wird keine pauschale Deckung aller GS-Formate oder Serien abgeleitet. Multiplikative Nachbarbeispiele 35442 werden nicht als additive Musterbelege verwendet. Die engeren stufenbandpassenden Belege werden bevorzugt.",
+      "operators": {
+        "gs": "Kennen (1857)",
+        "fsp": "Anwenden (38017)"
+      },
+      "elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_37750",
+        "label": "Wahlbereich 4: Zahlenzauberei",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei."
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_didactic_max": 20,
+        "fsp_target_row_max": null,
+        "context_source": "page139_37739"
+      },
+      "prerequisites": "FSP-Wahlbereich 4 gewählt; eine additive Mauerregel ausdrücklich vereinbart; Beziehung zweier Summanden und ihrer Summe zugänglich.",
+      "uncertainty": "Die Formatbezeichnungen stehen in Bemerkungen; die lokale additive Regel wird als didaktische Konkretisierung gewählt, nicht als wörtliches Lehrplanzitat oder universelle Definition aller Mauern.",
+      "remaining": "Andere strukturierte Formate, Umkehrprobleme, Veränderungen ganzer Mauern, nichtadditive Regeln, der gesamte GS-Musterauftrag und GS-Zahlenraum oberhalb 20. Der FSP-Wahlbereich muss tatsächlich gewählt sein; ohne diese Voraussetzung keine durch diese Karte belegte FSP-Zielzuordnung.",
+      "planning_limit": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Nur eine ausdrücklich vereinbarte additive Regel mit nichtnegativen ganzzahligen Feldwerten. Sämtliche unteren und oberen Werte sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch bei mehreren Reihen darf keine entstehende Summe 20 überschreiten. Keine automatische Vorgabe einer konkreten Mauer, Aufgabe, Lernhandlung oder eines Hilfsmittels."
+    },
+    {
+      "gs_id": "page912_187072",
+      "status": "partially_reviewed_reused_card",
+      "card": "MA-031",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_38017",
+        "page139_38019",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_38037"
+      ],
+      "cross_band_candidates": [
+        "page139_35439",
+        "page139_35442",
+        "page139_35470",
+        "page139_35475",
+        "page139_35479",
+        "page139_35485",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "decision": "MA-028-Prüfung: GS 187072 wird zusätzlich nur für den lokalen Übergang zwischen zwei benachbarten Additionen zugeordnet: erster Summand unverändert, zweiter Summand und Summe jeweils um eins größer. Der FSP-Bemerkungsbeleg 37885 zeigt genau diese Beziehung. Sie ist ein Baustein einer operativen Serie; vollständiges Fortsetzen oder Analysieren einer beliebigen Serie wird nicht behauptet. GS-Hauptoperator Kennen (1857) bleibt für beide Bezüge identisch. Bestehende Karte MA-031 wiederverwendet, keine zusätzliche Karte und keine erneute Zählung von 187061.",
+      "candidate_review": "FSP 1/2 Pflichtbereich 37885 nennt konkrete Rechenbeziehungen, aber nicht den gesamten Format-/Musterauftrag. Der Wahlbereich 38017/38019 belegt grafische Formate einschließlich Rechenmauern in der Bemerkung; seine Auswahl bleibt Voraussetzung. FSP 3/4: 35475 nennt Rechengitter/Kettenaufgaben als Bemerkungen, 35485 additive Rechenwege, 35571–35580 Knobelstrategien im Wahlbereich. Daraus wird keine pauschale Deckung aller GS-Formate oder Serien abgeleitet. Multiplikative Nachbarbeispiele 35442 werden nicht als additive Musterbelege verwendet. Die engeren stufenbandpassenden Belege werden bevorzugt.",
+      "operators": {
+        "gs": "Kennen (1857)",
+        "fsp": "Einblick gewinnen (37851)"
+      },
+      "number_range": {
+        "gs_max": 100,
+        "fsp_explicit_max": 20,
+        "fsp_source": "page139_37885"
+      },
+      "prerequisites": "Bekanntes Additionsergebnis; nur zweiter Summand wächst um eins, erster Summand bleibt gleich.",
+      "uncertainty": "Der Quellenbeleg zeigt einen lokalen Nachbarübergang, keine beliebige lange Serie. Nur dieser Baustein wird zugeordnet; keine allgemeine Serienkompetenz behauptet.",
+      "remaining": "Erkennen/Beschreiben/Fortsetzen vollständiger operativer Serien, andere Änderungsrichtungen, wechselnde Regeln, Subtraktionsserien, Fachwortverwendung und GS-Zahlenraum oberhalb 20. Der lokale Nachbarübergang ist keine vollständige Abdeckung der Musterzeile.",
+      "planning_limit": "Nur nichtnegative ganze Zahlen. Ausgangszahlen, sämtliche Summanden und Summen sowie relevante Zwischen- und Endergebnisse bleiben bis 20; auch die neue Summe darf 20 nicht überschreiten. Nur Erhöhen des zweiten Summanden um eins; der erste Summand bleibt unverändert."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "newly_completed_rows": 0,
+    "new_cards": 1,
+    "reused_cards": 1,
+    "cards": 40,
+    "cross_band_cards": 7,
+    "source_links": 126,
+    "target_anchors": 124,
+    "audit_rows": 67,
+    "open_connection_questions": 7,
+    "documented_no_direct_connection_rows": 4
+  },
+  "continuation": "GS 1/2 Fachbegriffe (187073) einzeln gegen beide FSP-Bänder prüfen. Inhaltliche Operations-/Musterbezüge sind keine automatische Fachwortabdeckung. 187071 ist nur über MA-040 mit gewähltem FSP-Wahlbereich 4 begrenzt zugeordnet; 187072 nur für den lokalen Nachbarübergang auf bestehender MA-031. Keine erneute Zählung früherer Zeilen/Karten; sieben Anschlussfragen und alle Restumfänge erhalten.",
+  "tests": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
+    "elective_regression": "passed: missing, disabled, hidden or wrongly sourced elective prerequisites rejected; requirement visible through scope summary/planning rule/FSP anchor/review notice",
+    "preservation": "passed:38 prior cards unchanged; MA-031 retains FSP goal/criterion/scope and gains bounded GS evidence/recognition goal; other subject/title/shared-object/information/feedback payloads unchanged; exactly2 audit rows and no recount of187061",
+    "finite_scope_check": "passed all946 admissible three-level additive structures over nonnegative integers with top at most20; both middle sums and all field values remain within20",
+    "browser_local": "passed all40 mathematics cards: scope visible in cards/goals/output, source links, goal adoption, empty tasks/aids, unchanged drafts, subject isolation and mobile; passed disclosure checks for all353 cards,40 duplicate warnings removed",
+    "browser_live": "pending",
+    "browser_evidence_note": "A preceding browser invocation had no retained completion output; only the fully logged repeat is counted as evidence."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.342"
+  }
+}
