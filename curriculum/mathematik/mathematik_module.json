@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.1",
+  "version": "MA-2026-11-09.2",
   "checked_on": "2026-11-09",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -865,6 +865,18 @@
       "id": "Q-MA-page139_38019",
       "title": "FSP Mathematik 1/2 · Wahlbereich 4: Zahlenzauberei · Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187073",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Verwenden der Fachbegriffe: Addition, plus, addieren, Summe, Summand, Subtraktion, minus, subtrahieren, Differenz, Minuend, Subtrahend, Tauschaufgabe, Umkehraufgabe, Zahlenfolge, Aufgabenfamilie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187073",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37927",
+      "title": "FSP Mathematik 1/2 · Lernbereich 2: Die Welt um mich herum · Rechnen mit Geldbeträgen in Sachsituationen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37927",
       "version": "2019"
     }
   ],
@@ -4175,6 +4187,93 @@
         "area_id": "MA-page139_37750",
         "label": "Wahlbereich 4: Zahlenzauberei",
         "notice": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei."
+      }
+    },
+    {
+      "id": "MA-041",
+      "subject": "Mathematik",
+      "theme": "Summe als Fachwort im Geldkontext",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · FSP-Differenzierungshinweis",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Verwenden des Fachbegriffs Summe, ausgewählt aus der Fachwortliste unter Addition/Subtraktion bis 100",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Rechnen mit Geldbeträgen in Sachsituationen. FSP-Bemerkung zur Differenzierung: Begriff Summe im Geldkontext; keine allgemeine Fachwortliste.",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. FSP-Bemerkung zur Differenzierung: Begriff Summe im Geldkontext; keine allgemeine Fachwortliste. Hinweis zum Zahlenraum: GS bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel 37739 abgeleitet. Nur ganze Geldbeträge in derselben Einheit Euro oder Cent. Die FSP-Zielzeile 37927 nennt keine eigene Obergrenze; 20 Euro bzw. 20 Cent sind keine wörtlichen Lehrplangrenzen. Keine vollständige GS-Zieldeckung. Der Begriff Summe ist in der FSP-Bemerkung zu 37927 ausdrücklich als Differenzierung beim Rechnen mit Geldbeträgen genannt. Die Karte konkretisiert diesen Hinweis didaktisch als Begriffszugang zum Ergebnis einer Addition in einer Geldsachsituation. GS-Kennen stammt aus 1857, FSP-Einblick gewinnen aus 37913. GS verwendet das Fachwort; FSP erschließt seine Bedeutung mit sprachlicher Unterstützung. Der Differenzierungshinweis wird nicht zu einer für alle verbindlichen gleichwertigen Fachwortanforderung erweitert. Offen bleiben: Die übrigen 14 Fachwörter der GS-Zeile, selbstständiges flexibles Verwenden der gesamten Fachwortliste, andere Sachkontexte und GS-Zahlenraum oberhalb 20. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_1857",
+        "page912_187073"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37927"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1857",
+        "Q-MA-page912_187073",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37927",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "FSP-Bemerkung zur Differenzierung: Begriff Summe im Geldkontext; keine allgemeine Fachwortliste. Hinweis zum Zahlenraum: GS bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel 37739 abgeleitet. Nur ganze Geldbeträge in derselben Einheit Euro oder Cent. Die FSP-Zielzeile 37927 nennt keine eigene Obergrenze; 20 Euro bzw. 20 Cent sind keine wörtlichen Lehrplangrenzen. Keine vollständige GS-Zieldeckung. Der Begriff Summe ist in der FSP-Bemerkung zu 37927 ausdrücklich als Differenzierung beim Rechnen mit Geldbeträgen genannt. Die Karte konkretisiert diesen Hinweis didaktisch als Begriffszugang zum Ergebnis einer Addition in einer Geldsachsituation. GS-Kennen stammt aus 1857, FSP-Einblick gewinnen aus 37913. GS verwendet das Fachwort; FSP erschließt seine Bedeutung mit sprachlicher Unterstützung. Der Differenzierungshinweis wird nicht zu einer für alle verbindlichen gleichwertigen Fachwortanforderung erweitert. Offen bleiben: Die übrigen 14 Fachwörter der GS-Zeile, selbstständiges flexibles Verwenden der gesamten Fachwortliste, andere Sachkontexte und GS-Zahlenraum oberhalb 20. Keine vollständige GS-Zieldeckung.",
+      "shared_object_suggestion": "Einzelne Geldbeträge ergeben zusammen einen Gesamtbetrag – dieses Additionsergebnis heißt Summe.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bezeichnet das Ergebnis einer Addition ganzer Geldbeträge in derselben Einheit bis 100 als Summe.",
+          "criterion": "Das Fachwort Summe bezieht sich auf das Additionsergebnis, nicht auf einen einzelnen Ausgangsbetrag. Alle Einzelbeträge sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegativ und bis 100 Euro oder bis 100 Cent; Einheiten werden nicht gemischt oder umgerechnet.",
+          "status": "Didaktische Konkretisierung; nur ein Fachwort der GS-Liste in einem ausgewählten Sachkontext."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt mit sprachlicher Unterstützung den Gesamtbetrag einer Addition ganzer Geldbeträge bis 20 Euro oder bis 20 Cent als Summe.",
+          "criterion": "Die Zuordnung des Begriffs Summe zum Additionsergebnis stimmt. Alle Einzelbeträge, der Gesamtbetrag sowie relevanten Zwischen- und Endergebnisse bleiben nichtnegativ, ganzzahlig und bis 20 in derselben Einheit. Keine gemischten Einheiten, Kommaschreibweise oder Umrechnung; selbstständige Verwendung der übrigen Fachwörter wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung des FSP-Differenzierungshinweises; Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 100,
+        "fsp_max": 20,
+        "gs_source_id": "page912_1857",
+        "fsp_source_id": "page139_37739",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS bis 100; FSP-Feinziel bis 20, didaktisch aus dem übergreifenden Ziel 37739 abgeleitet. Nur ganze Geldbeträge in derselben Einheit Euro oder Cent. Die FSP-Zielzeile 37927 nennt keine eigene Obergrenze; 20 Euro bzw. 20 Cent sind keine wörtlichen Lehrplangrenzen. Keine vollständige GS-Zieldeckung.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 Euro oder bis 20 Cent · didaktisch abgeleitet · FSP-Differenzierung: Summe",
+        "detail": "37927 enthält den Begriff Summe als Differenzierungshinweis beim Rechnen mit Geldbeträgen. Eine eigene Obergrenze fehlt. Der Rahmen bis 20 wird aus dem übergreifenden Stufenbandziel 37739 zur Addition/Subtraktion abgeleitet. Die Auswahl ganzer Beträge in derselben Einheit ist didaktisch; Euro/Cent sind durch 37921 belegt.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur nichtnegative ganze Geldbeträge bis 20 in derselben Einheit Euro oder Cent. Sämtliche Einzelbeträge und relevante Zwischen- und Endergebnisse einschließlich des Gesamtbetrags bleiben bis 20. Keine gemischten Einheiten, Kommaschreibweisen oder Umrechnungen. Ein Eurobetrag wird nicht zusätzlich als Centzahl geprüft. Begriffszugang als ausgewählte FSP-Differenzierung; keine automatische fachliche Freigabe eigener Entwürfe."
+      },
+      "evidence_classification": {
+        "gs": "Summe steht in der Unterzielzeile 187073; Hauptoperator Kennen aus 1857. Geldkontext als didaktische Auswahl.",
+        "fsp": "Begriff Summe steht ausdrücklich als Differenzierung in der Bemerkung zu 37927, nicht als eigenständige Hauptzielzeile. Hauptoperator Einblick gewinnen aus 37913; Einheiten aus 37921.",
+        "fsp_remark_anchor": "page139_37927",
+        "context_only_gs_ids": [
+          "page912_1857"
+        ]
       }
     }
   ]

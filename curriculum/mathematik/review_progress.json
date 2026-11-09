@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-028",
+  "last_batch": "MA-029",
   "complete": false,
   "counts": {
-    "cards": 40,
+    "cards": 41,
     "cross_band": 7
   },
   "source_plans": {
@@ -1547,10 +1547,36 @@
       "area": "Wahlbereich 4: Zahlenzauberei",
       "operator": "",
       "version": "2019"
+    },
+    "page912_187073": {
+      "id": "page912_187073",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1857",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187073",
+      "version": "2026",
+      "target": "Verwenden der Fachbegriffe: Addition, plus, addieren, Summe, Summand, Subtraktion, minus, subtrahieren, Differenz, Minuend, Subtrahend, Tauschaufgabe, Umkehraufgabe, Zahlenfolge, Aufgabenfamilie",
+      "remarks": ""
+    },
+    "page139_37927": {
+      "id": "page139_37927",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_37913",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37927",
+      "version": "2019",
+      "target": "Rechnen mit Geldbeträgen in Sachsituationen",
+      "remarks": "Differenzierung: Begriff Summe"
     }
   },
-  "next_id": "page912_187073",
-  "next_step": "GS 1/2 Fachbegriffe (187073) einzeln gegen beide FSP-Bänder prüfen. Inhaltliche Operations-/Musterbezüge sind keine automatische Fachwortabdeckung. 187071 ist nur über MA-040 mit gewähltem FSP-Wahlbereich 4 begrenzt zugeordnet; 187072 nur für den lokalen Nachbarübergang auf bestehender MA-031. Keine erneute Zählung früherer Zeilen/Karten; sieben Anschlussfragen und alle Restumfänge erhalten.",
+  "next_id": "page912_1867",
+  "next_step": "GS 1/2 Beherrschen der Grundaufgaben der Addition und Subtraktion (1867) mit Unterzeilen 55442/55444 bereits offen inventarisiert, nun einzeln gegen beide FSP-Bänder prüfen. Gleiche Rechengegenstände unter GS-Kennen (1857) nicht automatisch auf Beherrschen übertragen. Fachwortzeile 187073 nur über Summe im Geldkontext (MA-041) begrenzt zugeordnet; übrige Fachwörter und acht Anschlussfragen offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1622,7 +1648,7 @@
       "decision": "FSP1/2-Mengenstruktur und Zehner-Einer-Zahlstruktur sind verwandte Inhalte. Für den spezifischen GS-Hunderterfeldbezug ist FSP3/4 35468 mit ausdrücklicher Bemerkung Hunderterfeld/Bündelung der engere Beleg. Kein allgemeiner Ausschluss wegen eines kleineren Zahlenraums."
     }
   },
-  "last_review_file": "review_batch_028.json",
+  "last_review_file": "review_batch_029.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -1689,6 +1715,21 @@
         "page139_35485"
       ],
       "follow_up": "Prüfen, ob der ausdrückliche Verdoppelbeleg einen didaktisch begrenzten additiven Strategiezugang trägt; tatsächliche Hauptoperatoren und Verteilungskontext erhalten. MA-011 nicht ungeprüft mit anderem GS-Hauptoperator wiederverwenden oder doppelt zählen."
+    },
+    {
+      "gs_id": "page912_187073",
+      "scope": "Verwendung der übrigen 14 Fachwörter: Addition, plus, addieren, Summand, Subtraktion, minus, subtrahieren, Differenz, Minuend, Subtrahend, Tauschaufgabe, Umkehraufgabe, Zahlenfolge, Aufgabenfamilie.",
+      "status": "offen",
+      "reason": "FSP nennt Recheninhalte, Zeichen, Umkehrbeziehungen und übergreifendes Fachwortverständnis. Diese Belege tragen nicht ohne weitere Konkretisierung die selbstständige Verwendung jedes GS-Fachworts. Der ausdrückliche Differenzierungshinweis Summe im Geldkontext bleibt getrennt. Kein pauschaler Nichtanschluss und kein Ausschluss wegen des Zahlenraums.",
+      "candidate_ids": [
+        "page139_37863",
+        "page139_37866",
+        "page139_37885",
+        "page139_35440",
+        "page139_35479",
+        "page139_35485",
+        "page139_35415"
+      ]
     }
   ],
   "remaining_scopes": [
@@ -1841,6 +1882,11 @@
       "gs_id": "page912_187072",
       "scope": "Erkennen/Beschreiben/Fortsetzen vollständiger operativer Serien, andere Änderungsrichtungen, wechselnde Regeln, Subtraktionsserien, Fachwortverwendung und GS-Zahlenraum oberhalb 20. Der lokale Nachbarübergang ist keine vollständige Abdeckung der Musterzeile.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187073",
+      "scope": "Die übrigen 14 Fachwörter der GS-Zeile, selbstständiges flexibles Verwenden der gesamten Fachwortliste, andere Sachkontexte und GS-Zahlenraum oberhalb 20. Keine vollständige GS-Zieldeckung.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -1854,10 +1900,11 @@
       "page912_1833",
       "page912_1842",
       "page912_1852",
-      "page912_1857"
+      "page912_1857",
+      "page912_1867"
     ],
-    "rows": 67,
-    "note": "Weiterhin 67 inventarisierte Zeilen. MA-028: 187071/187072 jeweils begrenzt zugeordnet; eine neue Karte MA-040, bestehende MA-031 wiederverwendet. Keine vollständigen Zeilenabschlüsse; Fortsetzung 187073. 40 Karten, sieben stufenübergreifend. Keine Doppelzählung von 187061 oder Kontextzeilen.",
+    "rows": 70,
+    "note": "70 inventarisierte Zeilen: drei offene Zeilen des nächsten Blocks neu aufgenommen, fachlich noch nicht geprüft. MA-029: 187073 teilweise geprüft, eine neue Karte MA-041 zum Begriff Summe im Geldkontext. Keine vollständigen Zeilenabschlüsse. 41 Karten, sieben stufenübergreifend; acht Anschlussfragen. Fortsetzung 1867/55442/55444, nur inventarisiert. Keine erneute Zählung vorhandener Operations-/Musterzeilen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

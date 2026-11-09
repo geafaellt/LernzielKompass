@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-028
+# Mathematik-Abgleich · MA-029
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Vierzig Karten dokumentieren begrenzte Anschlüsse. Dreiunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einundvierzig Karten dokumentieren begrenzte Anschlüsse. Vierunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025 und MA-026 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Fachbegriffen (page912_187073). Strukturierte Formate und operative Serien sind nur in den begrenzten Ausschnitten von [MA-028](review_batch_028.json) zugeordnet; insbesondere FSP-Wahlbereichsvoraussetzung beachten. Sieben Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung beim Grundaufgabenblock (page912_1867, Unterzeilen 55442/55444; nur inventarisiert). [MA-029](review_batch_029.json) ordnet nur den Fachbegriff Summe im Geldkontext zu. Acht Anschlussfragen und alle Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -363,3 +363,10 @@ MA-031 wird für 187072 wiederverwendet: nur der lokale Nachbarübergang mit unv
 Zwei weitere GS-Zeilen teilweise geprüft, keine vollständig abgeschlossen. 40 Karten (33 stufenbandpassend, sieben stufenübergreifend), 126 Quellenlinks/124 Karten-Zielanker plus zwei Kontextquellen, weiterhin 67 Auditzeilen, sieben Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Alle übrigen 38 Karten und Fachbestände unverändert. Fortsetzung 187073; Quellen, Voraussetzungen und Restumfänge im Prüfpaket.
 
 Veröffentlicht auf main mit App-Commit `6c61b32bb60c277f2a9c5014e703d9a03ae58d88`; [Pages-Lauf 42578818983](https://github.com/geafaellt/LernzielKompass/actions/runs/42578818983) erfolgreich. Ausgelieferte App 1.342 bytegleich (SHA-256 `00eddba560813d137427df0b10dfc8590db990880a4f8a7c766f676849b3ed5c`). Daten-, Zahlenraum-, Wahlbereichs- und Erhaltungsprüfungen bestanden; alle 40 Mathematikkarten lokal und öffentlich im Browser geprüft, einklappbare Hinweise/Quellen aller 353 Karten lokal geprüft. Eine frühere Browserausführung lieferte keinen aufbewahrten Abschlussnachweis; nur die vollständig protokollierte Wiederholung wird als Nachweis gezählt. Fortsetzung 187073; sieben Anschlussfragen und alle Restumfänge bleiben offen.
+
+
+## MA-029 · Fachbegriff Summe im Geldkontext · App 1.343 · 09.11.2026
+
+MA-041 verbindet das GS-Verwenden des Fachworts Summe (187073, Kennen aus 1857) mit dem ausdrücklichen FSP-Differenzierungshinweis im Geldkontext (37927, Einblick gewinnen aus 37913). Der unterstützte Begriffszugang ist eine didaktische Konkretisierung, keine allgemeine gleichwertige Fachwortanforderung. FSP bis 20 ist aus dem Stufenbandziel 37739 abgeleitet, nicht in der Geldzeile festgelegt. Alle Einzelbeträge und relevanten Zwischen-/Endergebnisse bleiben innerhalb derselben Einheit Euro oder Cent im Rahmen; keine gemischten Einheiten, Kommaschreibweisen oder Umrechnungen.
+
+Beide FSP-Bänder, übergreifende Sprachziele und bestehende Inhaltskarten geprüft. Die übrigen 14 Fachwörter bleiben ausdrücklich offen; Operations-/Symbolbelege werden nicht mit eigenständiger Wortverwendung gleichgesetzt. Alle 40 bisherigen Karten unverändert. Eine weitere GS-Zeile teilweise geprüft, keine vollständig abgeschlossen. 41 Karten (34 stufenbandpassend, sieben stufenübergreifend), 128 Quellenlinks/126 Karten-Zielanker plus zwei Kontextquellen, 70 Auditzeilen (drei neu inventarisierte, noch ungeprüfte Zeilen des folgenden Grundaufgabenblocks), acht Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Keine Aufgaben, Lernhandlungen oder Hilfsmittel ergänzt. Fortsetzung 1867/55442/55444; Nachweise im Prüfpaket.
