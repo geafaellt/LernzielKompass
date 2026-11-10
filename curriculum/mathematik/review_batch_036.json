@@ -1,0 +1,469 @@
+{
+  "id": "MA-036",
+  "date": "2026-11-10",
+  "base_commit": "d60bd4a5c0dd94115a6a9b1dfa8e05d3afa1de1d",
+  "scope": "Multiplikative Vierergruppen: Tauschaufgabe, Umkehraufgaben und Familienzusammenhang",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1881",
+      "level": 1,
+      "parent_target_id": "page912_1881",
+      "target": "Kennen der Multiplikation und Division",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1881",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_1884",
+      "level": 2,
+      "parent_target_id": "page912_1881",
+      "target": "Lösen aller Multiplikations- und Divisionsaufgaben im Zahlenraum bis 100 durch Nutzen von Strategien",
+      "remarks": "sinntragendes und flexibles Rechnen Lösungswege aufgabenbezogen begründet auswählen, ausprobieren und reflektieren Gewohnheit zur Selbstkontrolle",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1884",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_187078",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "target": "Tauschaufgaben",
+      "remarks": "7 · 8 = 56 ⇒ 8 · 7 = 56",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187078",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_187079",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "target": "Umkehraufgaben",
+      "remarks": "7 · 8 = 56 ⇒ 56 : 8 = 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187079",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_187081",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "target": "Aufgabenfamilien",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187081",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page139_37950",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zählen in Schritten",
+      "remarks": "Differenzierung: 2er-, 5er-, evtl. auch 3er-Schritte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37950",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35435",
+      "level": 1,
+      "parent_target_id": "page139_35435",
+      "target": "Einblick gewinnen in gerechtes Verteilen",
+      "remarks": "inhaltliches Verständnis von Multiplikation und Division durch Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35435",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35438",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "target": "Vervielfachen und Teilen",
+      "remarks": "Rollenspiel, Quadrat-, Punktfelder Faltarbeiten mit Kreis, Dreieck, Quadrat, Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35438",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35440",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Multiplikation als Addition gleicher Summanden",
+      "remarks": "additive Handlungen: 2 + 2 + 2 = 6 ⇒ 3 · 2 = 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35440",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35441",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Beziehung zwischen Multiplikation und Division",
+      "remarks": "Gruppierungen, Paarbildung, Bündelung Vergegenständlichen und Versprachlichen der Rechenoperationen multiplikative Handlungen durch Verteilen rückgängig machen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35441",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35443",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Grundaufgaben des kleinen Einmaleins",
+      "remarks": "Divisions- und Multiplikationsgleichungen der jeweiligen Umkehroperation zuordnen Term, Gleichung, Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35443",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35582",
+      "level": 1,
+      "parent_target_id": "page139_35582",
+      "target": "Anwenden von Lösungsstrategien beim Berechnen von Sachverhalten aus der Tierwelt",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen Zahlenmaterial zu Lebensweise, Alter, Nachwuchs, Aufzucht, Futter sammeln ➔ DE - HKS, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35582",
+      "grade": "3/4",
+      "parent_operator": "Anwenden"
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "new_cards": [
+    "MA-049"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-034",
+    "MA-035",
+    "MA-038",
+    "MA-043",
+    "MA-045",
+    "MA-047",
+    "MA-048"
+  ],
+  "existing_card_decisions": "Alle48 bisherigen Karten unverändert. MA-034/035/038/043 sind additive Umkehr-/Familien-/Kontrollbeziehungen; keine automatische Übertragung auf Multiplikation. MA-045 betrifft gerechtes Verteilen, MA-047 Kernprodukte und MA-048 Nachbarprodukte. Die neue Karte bündelt drei ausdrücklich zusammengehörige GS-Zeilen ohne drei nahezu gleiche Karten anzulegen. Die offene Sachfrage Aufteilen/Resten bleibt erhalten.",
+  "decisions": [
+    {
+      "gs_id": "page912_187078",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-049"
+      ],
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_38021"
+      ],
+      "cross_band_candidates": [
+        "page139_35435",
+        "page139_35438",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441",
+        "page139_35442",
+        "page139_35443",
+        "page139_35470",
+        "page139_35485",
+        "page139_35504",
+        "page139_35571",
+        "page139_35582"
+      ],
+      "decision": "GS187078,187079 und187081 nennen Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien unter1884/Kennen1881. FSP35441 nennt die Beziehung zwischen Multiplikation und Division unter Kennen35439. Die Bemerkung35442 zeigt ausdrücklich eine Vierergruppe mit zwei vertauschten Multiplikationen und zwei zugehörigen Divisionen sowie das Nutzen des Vertauschens. Eine Karte bündelt die gemeinsame Beziehung: Aus einer bekannten Multiplikation werden Tauschaufgabe und beide restfreien Umkehraufgaben abgeleitet. Die Auswahl ungleicher Faktoren von2 bis10 ist didaktisch, keine zusätzliche amtliche Einschränkung.",
+      "candidate_review": "FSP 1/2: Vertauschen und Umkehraufgaben in37885 stehen im Additions-/Subtraktionskontext37863. Sie belegen keine multiplikative Aufgabenfamilie. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber kein hinreichend konkreter Beleg für diese vier Multiplikations-/Divisionsbeziehungen. FSP3/4 nennt in35441 die Beziehung von Multiplikation und Division und in der Bemerkung35442 ausdrücklich Vertauschen, Umkehraufgaben und Vierergruppen. Dieser spezifische Inhalt begründet den stufenübergreifenden Anschluss; nicht allein der größere Zahlenraum. FSP35443 stützt die Grundaufgaben-/Umkehrzuordnung zusätzlich.35438 beschreibt Grundvorstellungen unter anderem Hauptoperator Einblick gewinnen;35440 fortgesetzte Addition.35485 betrifft additive Strategien. Allgemeine bzw. kontextgebundene Strategien35504/35571/35582 werden nicht als zusätzliche uneingeschränkte Familienbelege gezählt.",
+      "operators": {
+        "gs": "Kennen (1881)",
+        "fsp": "Kennen (35439)"
+      },
+      "number_range": {
+        "gs_context_target_max": 100,
+        "gs_context_target_id": "page912_1884",
+        "fsp_target_row_max": null,
+        "fsp_didactic_max": 100,
+        "fsp_context_source": "page139_35415",
+        "didactic_factor_min": 2,
+        "didactic_factor_max": 10,
+        "different_factors": true,
+        "note": "GS bis 100 ausdrücklich im Strategieziel1884. FSP35441/35442 ohne eigene numerische Obergrenze; bis100 aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Die Feinziele wählen zwei verschiedene ganzzahlige Faktoren von2 bis10 und deren Produkt. Alle Zahlen, relevanten Zwischen- und Endergebnisse bleiben bis100. Gleicher ausgewählter Zahlenrahmen bedeutet keine vollständige GS-Zieldeckung."
+      },
+      "prerequisites": "Ein vertrautes korrektes Multiplikationsergebnis mit zwei verschiedenen Faktoren von2 bis10; Bedeutungsbezug der Multiplikation und restfreien Division. Kein Auswendiglernen aller Familien vorausgesetzt.",
+      "uncertainty": "Die Vierergruppe und beide Beziehungen sind ausdrücklich belegt. Faktorenbereich, Verschiedenheit und Ausgangspunkt bekannte Multiplikation sind didaktische Auswahl; Sachvorstellungen der Division und Reste bleiben gesondert offen.",
+      "remaining": "Gleiche Faktoren, Faktoren0 oder1, weitere Faktorbereiche, selbstständige flexible Strategiewahl und vollständige GS-Zieldeckung. Das Vertauschen gilt hier ausschließlich für Faktoren der Multiplikation, nicht für Dividend und Divisor.",
+      "planning_limits": "Didaktischer Ausschnitt: zwei verschiedene ganze Faktoren zwischen 2 und 10; Produkt bis 100. Beide Faktoren, Produkt, Dividenden, Divisoren, Quotienten sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Die beiden Divisionen teilen das Produkt durch jeweils einen der positiven Faktoren ohne Rest. Vier verschiedene Gleichungen einer Familie; keine doppelte Zählung vertauschter Ausgangsprodukte als neue Familie. Keine Division durch null, Null-/Einsfälle, Bruchteile oder Restdivision. Dividend und Divisor werden nicht wie Faktoren vertauscht. Eigene Entwürfe fachlich prüfen."
+    },
+    {
+      "gs_id": "page912_187079",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-049"
+      ],
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_38021"
+      ],
+      "cross_band_candidates": [
+        "page139_35435",
+        "page139_35438",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441",
+        "page139_35442",
+        "page139_35443",
+        "page139_35470",
+        "page139_35485",
+        "page139_35504",
+        "page139_35571",
+        "page139_35582"
+      ],
+      "decision": "GS187078,187079 und187081 nennen Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien unter1884/Kennen1881. FSP35441 nennt die Beziehung zwischen Multiplikation und Division unter Kennen35439. Die Bemerkung35442 zeigt ausdrücklich eine Vierergruppe mit zwei vertauschten Multiplikationen und zwei zugehörigen Divisionen sowie das Nutzen des Vertauschens. Eine Karte bündelt die gemeinsame Beziehung: Aus einer bekannten Multiplikation werden Tauschaufgabe und beide restfreien Umkehraufgaben abgeleitet. Die Auswahl ungleicher Faktoren von2 bis10 ist didaktisch, keine zusätzliche amtliche Einschränkung.",
+      "candidate_review": "FSP 1/2: Vertauschen und Umkehraufgaben in37885 stehen im Additions-/Subtraktionskontext37863. Sie belegen keine multiplikative Aufgabenfamilie. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber kein hinreichend konkreter Beleg für diese vier Multiplikations-/Divisionsbeziehungen. FSP3/4 nennt in35441 die Beziehung von Multiplikation und Division und in der Bemerkung35442 ausdrücklich Vertauschen, Umkehraufgaben und Vierergruppen. Dieser spezifische Inhalt begründet den stufenübergreifenden Anschluss; nicht allein der größere Zahlenraum. FSP35443 stützt die Grundaufgaben-/Umkehrzuordnung zusätzlich.35438 beschreibt Grundvorstellungen unter anderem Hauptoperator Einblick gewinnen;35440 fortgesetzte Addition.35485 betrifft additive Strategien. Allgemeine bzw. kontextgebundene Strategien35504/35571/35582 werden nicht als zusätzliche uneingeschränkte Familienbelege gezählt.",
+      "operators": {
+        "gs": "Kennen (1881)",
+        "fsp": "Kennen (35439)"
+      },
+      "number_range": {
+        "gs_context_target_max": 100,
+        "gs_context_target_id": "page912_1884",
+        "fsp_target_row_max": null,
+        "fsp_didactic_max": 100,
+        "fsp_context_source": "page139_35415",
+        "didactic_factor_min": 2,
+        "didactic_factor_max": 10,
+        "different_factors": true,
+        "note": "GS bis 100 ausdrücklich im Strategieziel1884. FSP35441/35442 ohne eigene numerische Obergrenze; bis100 aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Die Feinziele wählen zwei verschiedene ganzzahlige Faktoren von2 bis10 und deren Produkt. Alle Zahlen, relevanten Zwischen- und Endergebnisse bleiben bis100. Gleicher ausgewählter Zahlenrahmen bedeutet keine vollständige GS-Zieldeckung."
+      },
+      "prerequisites": "Ein vertrautes korrektes Multiplikationsergebnis mit zwei verschiedenen Faktoren von2 bis10; Bedeutungsbezug der Multiplikation und restfreien Division. Kein Auswendiglernen aller Familien vorausgesetzt.",
+      "uncertainty": "Die Vierergruppe und beide Beziehungen sind ausdrücklich belegt. Faktorenbereich, Verschiedenheit und Ausgangspunkt bekannte Multiplikation sind didaktische Auswahl; Sachvorstellungen der Division und Reste bleiben gesondert offen.",
+      "remaining": "Ableitung aus einer zunächst bekannten Division, andere Faktorbereiche, Null-/Einsfälle, Division mit Rest und die beiden sachlichen Divisionsvorstellungen. Die formale Umkehrbeziehung schließt die offene Frage zu Aufteilen/Resten aus187075 nicht ab.",
+      "planning_limits": "Didaktischer Ausschnitt: zwei verschiedene ganze Faktoren zwischen 2 und 10; Produkt bis 100. Beide Faktoren, Produkt, Dividenden, Divisoren, Quotienten sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Die beiden Divisionen teilen das Produkt durch jeweils einen der positiven Faktoren ohne Rest. Vier verschiedene Gleichungen einer Familie; keine doppelte Zählung vertauschter Ausgangsprodukte als neue Familie. Keine Division durch null, Null-/Einsfälle, Bruchteile oder Restdivision. Dividend und Divisor werden nicht wie Faktoren vertauscht. Eigene Entwürfe fachlich prüfen."
+    },
+    {
+      "gs_id": "page912_187081",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-049"
+      ],
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_38021"
+      ],
+      "cross_band_candidates": [
+        "page139_35435",
+        "page139_35438",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441",
+        "page139_35442",
+        "page139_35443",
+        "page139_35470",
+        "page139_35485",
+        "page139_35504",
+        "page139_35571",
+        "page139_35582"
+      ],
+      "decision": "GS187078,187079 und187081 nennen Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien unter1884/Kennen1881. FSP35441 nennt die Beziehung zwischen Multiplikation und Division unter Kennen35439. Die Bemerkung35442 zeigt ausdrücklich eine Vierergruppe mit zwei vertauschten Multiplikationen und zwei zugehörigen Divisionen sowie das Nutzen des Vertauschens. Eine Karte bündelt die gemeinsame Beziehung: Aus einer bekannten Multiplikation werden Tauschaufgabe und beide restfreien Umkehraufgaben abgeleitet. Die Auswahl ungleicher Faktoren von2 bis10 ist didaktisch, keine zusätzliche amtliche Einschränkung.",
+      "candidate_review": "FSP 1/2: Vertauschen und Umkehraufgaben in37885 stehen im Additions-/Subtraktionskontext37863. Sie belegen keine multiplikative Aufgabenfamilie. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber kein hinreichend konkreter Beleg für diese vier Multiplikations-/Divisionsbeziehungen. FSP3/4 nennt in35441 die Beziehung von Multiplikation und Division und in der Bemerkung35442 ausdrücklich Vertauschen, Umkehraufgaben und Vierergruppen. Dieser spezifische Inhalt begründet den stufenübergreifenden Anschluss; nicht allein der größere Zahlenraum. FSP35443 stützt die Grundaufgaben-/Umkehrzuordnung zusätzlich.35438 beschreibt Grundvorstellungen unter anderem Hauptoperator Einblick gewinnen;35440 fortgesetzte Addition.35485 betrifft additive Strategien. Allgemeine bzw. kontextgebundene Strategien35504/35571/35582 werden nicht als zusätzliche uneingeschränkte Familienbelege gezählt.",
+      "operators": {
+        "gs": "Kennen (1881)",
+        "fsp": "Kennen (35439)"
+      },
+      "number_range": {
+        "gs_context_target_max": 100,
+        "gs_context_target_id": "page912_1884",
+        "fsp_target_row_max": null,
+        "fsp_didactic_max": 100,
+        "fsp_context_source": "page139_35415",
+        "didactic_factor_min": 2,
+        "didactic_factor_max": 10,
+        "different_factors": true,
+        "note": "GS bis 100 ausdrücklich im Strategieziel1884. FSP35441/35442 ohne eigene numerische Obergrenze; bis100 aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Die Feinziele wählen zwei verschiedene ganzzahlige Faktoren von2 bis10 und deren Produkt. Alle Zahlen, relevanten Zwischen- und Endergebnisse bleiben bis100. Gleicher ausgewählter Zahlenrahmen bedeutet keine vollständige GS-Zieldeckung."
+      },
+      "prerequisites": "Ein vertrautes korrektes Multiplikationsergebnis mit zwei verschiedenen Faktoren von2 bis10; Bedeutungsbezug der Multiplikation und restfreien Division. Kein Auswendiglernen aller Familien vorausgesetzt.",
+      "uncertainty": "Die Vierergruppe und beide Beziehungen sind ausdrücklich belegt. Faktorenbereich, Verschiedenheit und Ausgangspunkt bekannte Multiplikation sind didaktische Auswahl; Sachvorstellungen der Division und Reste bleiben gesondert offen.",
+      "remaining": "Familien mit gleichen Faktoren, Null-/Einsfälle, andere Faktorbereiche, selbstständiges Erschließen aus beliebigen bekannten Familiengliedern und vollständige flexible Strategiewahl. Es wird kein vollständiger Abschluss des Strategieziels1884 behauptet.",
+      "planning_limits": "Didaktischer Ausschnitt: zwei verschiedene ganze Faktoren zwischen 2 und 10; Produkt bis 100. Beide Faktoren, Produkt, Dividenden, Divisoren, Quotienten sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Die beiden Divisionen teilen das Produkt durch jeweils einen der positiven Faktoren ohne Rest. Vier verschiedene Gleichungen einer Familie; keine doppelte Zählung vertauschter Ausgangsprodukte als neue Familie. Keine Division durch null, Null-/Einsfälle, Bruchteile oder Restdivision. Dividend und Divisor werden nicht wie Faktoren vertauscht. Eigene Entwürfe fachlich prüfen."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 3,
+    "context_rows_reused": 2,
+    "newly_completed_rows": 0,
+    "new_cards": 1,
+    "cards": 49,
+    "cross_band_cards": 13,
+    "source_links": 147,
+    "target_anchors": 145,
+    "audit_rows": 86,
+    "open_connection_questions": 9,
+    "documented_no_direct_connection_rows": 4
+  },
+  "continuation": "GS1/2 Verdoppeln und Halbieren als multiplikative Strategie187082 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach gegensinniges/gleichsinniges Verändern187083.187078/187079/187081 sind als gemeinsame Vierergruppe auf MA-049 teilweise geprüft;187080 bereits MA-035. Keine dieser Zeilen erneut als neue Zeile zählen. Neun Anschlussfragen einschließlich Aufteilen/Resten und alle Restumfänge erhalten.",
+  "tests": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
+    "preservation": "passed all48 prior cards,143 prior sources,9 questions and nonmath app payloads unchanged;3 target+2 context audit rows updated; index/dist identical",
+    "scope_check": "passed all72 ordered unequal factor combinations2..10, representing36 unique unordered families without duplicate family count; multiplication commutes, both inverse divisions exact, all relevant values<=100",
+    "browser_local": "passed complete rerun of all49 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; disclosure checks passed all362 cards",
+    "browser_initial_failure": "First mathematics run timed out at unchanged MA-028 while scrolling to visible/enabled/stable #applyFSP. Unchanged complete runner repeated successfully; no assertions skipped. No claim the first run passed.",
+    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.350"
+  },
+  "trigger_date": "2026-11-09"
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-09.8",
-  "checked_on": "2026-11-09",
+  "version": "MA-2026-11-10.1",
+  "checked_on": "2026-11-10",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -968,6 +968,30 @@
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Nachbaraufgaben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187080",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187078",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Tauschaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187078",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187079",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Umkehraufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187079",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187081",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Aufgabenfamilien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187081",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35441",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Beziehung zwischen Multiplikation und Division",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35441",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -4894,6 +4918,89 @@
       "evidence_classification": {
         "gs": "1887 und187080 sind Unterziele unter1884 mit ausdrücklich bis100 und Hauptoperator Kennen1881. Die Bemerkung zu1887 zeigt denselben positiven Nachbarweg. 1881/1884 bleiben Kontext.",
         "fsp": "Multiplikativer Nachbarübergang ausdrücklich in Bemerkung35442 unter Kennen35439. Gleichheit der beiden Ausgangsfaktoren ist didaktisch gewählt; kein ausdrückliches FSP-Ziel Quadratzahlen.",
+        "context_only_gs_ids": [
+          "page912_1881",
+          "page912_1884"
+        ]
+      }
+    },
+    {
+      "id": "MA-049",
+      "subject": "Mathematik",
+      "theme": "Multiplikative Aufgabenfamilien: Tausch- und Umkehrbeziehungen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien bis 100 unter Kennen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Beziehung von Multiplikation und Division sowie Vierergruppen unter Kennen von Rechenhandlungen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Gleiche Hauptoperatoren bedeuten keine vollständige inhaltliche Deckung. Stufenübergreifend GS1/2 → FSP3/4. GS187078,187079 und187081 nennen Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien unter1884/Kennen1881. FSP35441 nennt die Beziehung zwischen Multiplikation und Division unter Kennen35439. Die Bemerkung35442 zeigt ausdrücklich eine Vierergruppe mit zwei vertauschten Multiplikationen und zwei zugehörigen Divisionen sowie das Nutzen des Vertauschens. Eine Karte bündelt die gemeinsame Beziehung: Aus einer bekannten Multiplikation werden Tauschaufgabe und beide restfreien Umkehraufgaben abgeleitet. Die Auswahl ungleicher Faktoren von2 bis10 ist didaktisch, keine zusätzliche amtliche Einschränkung. GS bis 100 ausdrücklich im Strategieziel1884. FSP35441/35442 ohne eigene numerische Obergrenze; bis100 aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Die Feinziele wählen zwei verschiedene ganzzahlige Faktoren von2 bis10 und deren Produkt. Alle Zahlen, relevanten Zwischen- und Endergebnisse bleiben bis100. Gleicher ausgewählter Zahlenrahmen bedeutet keine vollständige GS-Zieldeckung. Offen: Gleiche Faktoren, Faktoren0 oder1, weitere Faktorbereiche, selbstständige flexible Strategiewahl und vollständige GS-Zieldeckung. Das Vertauschen gilt hier ausschließlich für Faktoren der Multiplikation, nicht für Dividend und Divisor. Ableitung aus einer zunächst bekannten Division, andere Faktorbereiche, Null-/Einsfälle, Division mit Rest und die beiden sachlichen Divisionsvorstellungen. Die formale Umkehrbeziehung schließt die offene Frage zu Aufteilen/Resten aus187075 nicht ab. Familien mit gleichen Faktoren, Null-/Einsfälle, andere Faktorbereiche, selbstständiges Erschließen aus beliebigen bekannten Familiengliedern und vollständige flexible Strategiewahl. Es wird kein vollständiger Abschluss des Strategieziels1884 behauptet.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_1884",
+        "page912_187078",
+        "page912_187079",
+        "page912_187081"
+      ],
+      "fsp_target_ids": [
+        "page139_35439",
+        "page139_35441",
+        "page139_35442"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_1884",
+        "Q-MA-page912_187078",
+        "Q-MA-page912_187079",
+        "Q-MA-page912_187081",
+        "Q-MA-page139_35439",
+        "Q-MA-page139_35441",
+        "Q-MA-page139_35442",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS187078,187079 und187081 nennen Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien unter1884/Kennen1881. FSP35441 nennt die Beziehung zwischen Multiplikation und Division unter Kennen35439. Die Bemerkung35442 zeigt ausdrücklich eine Vierergruppe mit zwei vertauschten Multiplikationen und zwei zugehörigen Divisionen sowie das Nutzen des Vertauschens. Eine Karte bündelt die gemeinsame Beziehung: Aus einer bekannten Multiplikation werden Tauschaufgabe und beide restfreien Umkehraufgaben abgeleitet. Die Auswahl ungleicher Faktoren von2 bis10 ist didaktisch, keine zusätzliche amtliche Einschränkung. GS bis 100 ausdrücklich im Strategieziel1884. FSP35441/35442 ohne eigene numerische Obergrenze; bis100 aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Die Feinziele wählen zwei verschiedene ganzzahlige Faktoren von2 bis10 und deren Produkt. Alle Zahlen, relevanten Zwischen- und Endergebnisse bleiben bis100. Gleicher ausgewählter Zahlenrahmen bedeutet keine vollständige GS-Zieldeckung. Offen: Gleiche Faktoren, Faktoren0 oder1, weitere Faktorbereiche, selbstständige flexible Strategiewahl und vollständige GS-Zieldeckung. Das Vertauschen gilt hier ausschließlich für Faktoren der Multiplikation, nicht für Dividend und Divisor. Ableitung aus einer zunächst bekannten Division, andere Faktorbereiche, Null-/Einsfälle, Division mit Rest und die beiden sachlichen Divisionsvorstellungen. Die formale Umkehrbeziehung schließt die offene Frage zu Aufteilen/Resten aus187075 nicht ab. Familien mit gleichen Faktoren, Null-/Einsfälle, andere Faktorbereiche, selbstständiges Erschließen aus beliebigen bekannten Familiengliedern und vollständige flexible Strategiewahl. Es wird kein vollständiger Abschluss des Strategieziels1884 behauptet.",
+      "shared_object_suggestion": "Zwei Faktoren und ihr gemeinsames Produkt: vier zusammengehörige Beziehungen beim Multiplizieren und Teilen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind leitet bis 100 aus einer bekannten Multiplikation die Tauschaufgabe und beide zugehörigen Divisionsaufgaben ab und erläutert den Familienzusammenhang.",
+          "criterion": "Die beiden verschiedenen Faktoren zwischen 2 und 10 ergeben in beiden Reihenfolgen dasselbe Produkt; das Produkt geteilt durch jeweils einen Faktor ergibt den anderen. Alle vier Beziehungen sind richtig; alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Auswahl ungleicher Faktoren von2 bis10; GS-Obergrenze100 ausdrücklich in1884."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind nutzt bis 100 eine bekannte Multiplikation, um die Tauschaufgabe und beide restfreien Umkehraufgaben als zusammengehörige Vierergruppe abzuleiten.",
+          "criterion": "Die vertauschten Faktoren ergeben dasselbe Produkt. In beiden Divisionen ist dieses Produkt der Dividend und einer der Faktoren der Divisor; der Quotient ist jeweils der andere Faktor. Die zwei verschiedenen Faktoren liegen zwischen 2 und 10. Alle beteiligten Zahlen und relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung der ausdrücklich in der Bemerkung belegten Vierergruppe; Zahlenrahmen aus übergreifendem Ziel abgeleitet. Keine vollständige Sachdeutung aller Divisionsvorstellungen.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "FSP35441 belegt die Beziehung von Multiplikation und Division; die Bemerkung35442 konkretisiert Vierergruppen und Vertauschen. Keine eigene numerische Obergrenze. Bis100 wird didaktisch aus Bandziel35415 abgeleitet; GS bis100 ausdrücklich in1884. Die zusätzliche Auswahl ungleicher Faktoren von2 bis10 grenzt die Feinziele ein.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Didaktischer Ausschnitt: zwei verschiedene ganze Faktoren zwischen 2 und 10; Produkt bis 100. Beide Faktoren, Produkt, Dividenden, Divisoren, Quotienten sowie relevante Zwischen- und Endergebnisse bleiben bis 100. Die beiden Divisionen teilen das Produkt durch jeweils einen der positiven Faktoren ohne Rest. Vier verschiedene Gleichungen einer Familie; keine doppelte Zählung vertauschter Ausgangsprodukte als neue Familie. Keine Division durch null, Null-/Einsfälle, Bruchteile oder Restdivision. Dividend und Divisor werden nicht wie Faktoren vertauscht. Eigene Entwürfe fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187078/187079/187081 sind Unterziele unter1884 mit ausdrücklich bis100 und Hauptoperator Kennen1881. 1881/1884 bleiben Kontext.",
+        "fsp": "Beziehung Multiplikation/Division als Unterziel35441; Vierergruppen, Umkehraufgaben und Vertauschen in Bemerkung35442, gemeinsam unter Kennen35439. Auswahl ungleicher Faktoren von2 bis10 didaktisch.",
         "context_only_gs_ids": [
           "page912_1881",
           "page912_1884"

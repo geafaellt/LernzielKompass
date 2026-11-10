@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-035
+# Mathematik-Abgleich · MA-036
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Achtundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047 und MA-048 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Neunundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048 und MA-049 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Tauschaufgaben187078, danach Umkehraufgaben187079. [MA-035](review_batch_035.json) prüft1887 und187080 gemeinsam teilweise über MA-048.187080 später nicht erneut als neue Zeile zählen. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Verdoppeln/Halbieren als multiplikativer Strategie187082, danach187083. [MA-036](review_batch_036.json) prüft187078/187079/187081 gemeinsam teilweise über MA-049.187080 bleibt aus MA-035 geprüft. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -434,3 +434,14 @@ GS bis100 ausdrücklich in1884; FSP bis100 aus Bandziel35415 didaktisch abgeleit
 Alle47 bisherigen Karten unverändert. Zwei teilweise geprüfte Inhaltszeilen mit einer neuen Karte; wiederverwendete Kontextzeilen nicht erneut gezählt. 48 Karten (36 stufenbandpassend, zwölf stufenübergreifend),143 Quellenlinks/141 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung187078/187079;187080 bereits teilweise geprüft. Nachweise im Prüfpaket.
 
 Daten-, Zahlenraum-, Bestandsschutz- und Browserprüfungen bestanden: alle48 Mathematikkarten und Hinweise/Quellen aller361 Karten. Alle neun zulässigen Übergänge bleiben mit Zwischen- und Endergebnissen bis100; Ausgangsfaktor10 ausgeschlossen. Aufgaben/Hilfsmittel leer und eigene Entwürfe erhalten. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. Nachprüfung der früheren Statusabweichung: GitHub-Lauf42674263970 nennt einen internen Serverfehler (Korrelationskennung im Prüfpaket); keine Behauptung, das Plattformproblem sei bereits behoben. App1.349 auf main veröffentlicht (Commit `0ad31b7367c5c9b32b40d8d98310663297860a80`). [Pages-Lauf 42687092388](https://github.com/geafaellt/LernzielKompass/actions/runs/42687092388) vollständig erfolgreich. Öffentliche HTML-Datei bytegleich zum geprüften Stand (SHA-256 `e44de74b2e3a617ccc7e0ea7da0b53521dc31b1a948a113225f6d675a43d0907`); Live-Browserprüfung aller48 Mathematikkarten bestanden. Die frühere Plattformabweichung ist für diesen neuen Lauf nicht aufgetreten. Details im [Prüfpaket MA-035](review_batch_035.json).
+
+
+## MA-036 · Multiplikative Aufgabenfamilien · App 1.350 · 10.11.2026
+
+MA-049 bündelt die drei GS-Zeilen187078/187079/187081: Tauschaufgaben, Umkehraufgaben und Aufgabenfamilien unter Kennen1881/Strategieziel1884. FSP3/4 belegt die Multiplikations-/Divisionsbeziehung in35441 und ausdrücklich Vierergruppen, Umkehraufgaben und Vertauschen in der Bemerkung35442 unter Kennen35439. FSP1/2-Kandidaten beziehen sich auf additive Beziehungen oder allgemeine Voraussetzungen und werden nicht gleichgesetzt.
+
+GS bis100 ausdrücklich in1884; FSP bis100 didaktisch aus Bandziel35415. Der ausgewählte Ausschnitt beginnt bei einer bekannten Multiplikation mit zwei verschiedenen Faktoren zwischen2 und10. Produkt und sämtliche Divisionswerte sowie relevante Zwischen-/Endergebnisse bis100; Divisionen restfrei. Null-/Einsfälle, gleiche Faktoren, andere Ausgangspunkte und vollständige Strategiewahl bleiben offen. Die sachliche Frage zu Aufteilen/Resten wird durch formale Gleichungsbeziehungen nicht abgeschlossen. Aufgaben/Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Alle48 bisherigen Karten unverändert. Drei teilweise geprüfte Inhaltszeilen, eine gemeinsame neue Karte; Kontextzeilen nicht erneut gezählt. 49 Karten (36 stufenbandpassend, dreizehn stufenübergreifend),147 Quellenlinks/145 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung187082/187083; Nachweise im Prüfpaket.
+
+Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. 72 geordnete Faktorkombinationen bilden36 verschiedene Familien; beide Divisionen restfrei, sämtliche Werte bis100. Hinweise/Quellen aller362 Karten im Browser geprüft. Erster Mathematiklauf brach beim Scrollen zu einem Übernahmebutton der unveränderten MA-028 ab; unveränderter vollständiger Wiederholungslauf aller49 Karten bestanden. Keine Assertions ausgelassen. Eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. Veröffentlichung und Live-Nachweis folgen im Prüfpaket.

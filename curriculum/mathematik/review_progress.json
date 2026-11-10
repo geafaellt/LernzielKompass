@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-035",
+  "last_batch": "MA-036",
   "complete": false,
   "counts": {
-    "cards": 48,
-    "cross_band": 12
+    "cards": 49,
+    "cross_band": 13
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1768,10 +1768,62 @@
       "version": "2026",
       "target": "Nachbaraufgaben",
       "remarks": ""
+    },
+    "page912_187078": {
+      "id": "page912_187078",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187078",
+      "version": "2026",
+      "target": "Tauschaufgaben",
+      "remarks": "7 · 8 = 56 ⇒ 8 · 7 = 56"
+    },
+    "page912_187079": {
+      "id": "page912_187079",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187079",
+      "version": "2026",
+      "target": "Umkehraufgaben",
+      "remarks": "7 · 8 = 56 ⇒ 56 : 8 = 7"
+    },
+    "page912_187081": {
+      "id": "page912_187081",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187081",
+      "version": "2026",
+      "target": "Aufgabenfamilien",
+      "remarks": ""
+    },
+    "page139_35441": {
+      "id": "page139_35441",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35441",
+      "version": "2019",
+      "target": "Beziehung zwischen Multiplikation und Division",
+      "remarks": "Gruppierungen, Paarbildung, Bündelung Vergegenständlichen und Versprachlichen der Rechenoperationen multiplikative Handlungen durch Verteilen rückgängig machen"
     }
   },
-  "next_id": "page912_187078",
-  "next_step": "GS1/2 Tauschaufgaben187078 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach Umkehraufgaben187079. Quadratzahlen1887 und die fachlich verbundene Nachbarzeile187080 sind über MA-048 nur für den positiven Nachbarweg aus einem bekannten Produkt mit gleichen Faktoren teilweise geprüft.187080 später nicht erneut als neue Zeile zählen. Neun Anschlussfragen und alle Restumfänge erhalten.",
+  "next_id": "page912_187082",
+  "next_step": "GS1/2 Verdoppeln und Halbieren als multiplikative Strategie187082 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach gegensinniges/gleichsinniges Verändern187083.187078/187079/187081 sind als gemeinsame Vierergruppe auf MA-049 teilweise geprüft;187080 bereits MA-035. Keine dieser Zeilen erneut als neue Zeile zählen. Neun Anschlussfragen einschließlich Aufteilen/Resten und alle Restumfänge erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1914,9 +1966,21 @@
         "page139_38021"
       ],
       "decision": "FSP 1/2: Nachbaraufgaben in37885 beziehen sich auf Addition/Subtraktion (37863), nicht auf benachbarte Produkte. Schrittzählen37950/37952 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, sichern diesen spezifischen multiplikativen Weg aber nicht. Rechenquadrate38019 sind grafische Aufgabenformate, keine Quadratzahlenstrategie. Der konkrete multiplikative Nachbarbezug in FSP3/4 35442 begründet den stufenübergreifenden Anschluss; der kleinere Zahlenraum in FSP1/2 allein wäre kein Ausschlussgrund."
+    },
+    "MA-049": {
+      "same_band_candidate_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_38021"
+      ],
+      "decision": "FSP 1/2: Vertauschen und Umkehraufgaben in37885 stehen im Additions-/Subtraktionskontext37863. Sie belegen keine multiplikative Aufgabenfamilie. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber kein hinreichend konkreter Beleg für diese vier Multiplikations-/Divisionsbeziehungen. FSP3/4 nennt in35441 die Beziehung von Multiplikation und Division und in der Bemerkung35442 ausdrücklich Vertauschen, Umkehraufgaben und Vierergruppen. Dieser spezifische Inhalt begründet den stufenübergreifenden Anschluss; nicht allein der größere Zahlenraum."
     }
   },
-  "last_review_file": "review_batch_035.json",
+  "last_review_file": "review_batch_036.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2208,6 +2272,21 @@
       "gs_id": "page912_187080",
       "scope": "Andere Ausgangsprodukte, Verringerung oder Änderung des zweiten Faktors, andere Änderungsweiten, Nullfälle, Division sowie selbstständige flexible Wahl und Kombination von Strategien. Die allgemeine GS-Nachbaraufgabenzeile bleibt nur teilweise abgedeckt.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187078",
+      "scope": "Gleiche Faktoren, Faktoren0 oder1, weitere Faktorbereiche, selbstständige flexible Strategiewahl und vollständige GS-Zieldeckung. Das Vertauschen gilt hier ausschließlich für Faktoren der Multiplikation, nicht für Dividend und Divisor.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187079",
+      "scope": "Ableitung aus einer zunächst bekannten Division, andere Faktorbereiche, Null-/Einsfälle, Division mit Rest und die beiden sachlichen Divisionsvorstellungen. Die formale Umkehrbeziehung schließt die offene Frage zu Aufteilen/Resten aus187075 nicht ab.",
+      "status": "offen"
+    },
+    {
+      "gs_id": "page912_187081",
+      "scope": "Familien mit gleichen Faktoren, Null-/Einsfälle, andere Faktorbereiche, selbstständiges Erschließen aus beliebigen bekannten Familiengliedern und vollständige flexible Strategiewahl. Es wird kein vollständiger Abschluss des Strategieziels1884 behauptet.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2226,7 +2305,7 @@
       "page912_1881"
     ],
     "rows": 86,
-    "note": "Weiterhin86 inventarisierte Zeilen. MA-035 prüft1887 und die fachlich verbundene Nachbarzeile187080 teilweise über eine gemeinsame Karte.1881/1884 wiederverwendet und nicht erneut gezählt. 48 Karten, davon12 stufenübergreifend; neun Anschlussfragen. Fortsetzung187078, danach187079;187080 nicht erneut als neue Zeile zählen. Keine vollständige Zieldeckung.",
+    "note": "Weiterhin86 inventarisierte Zeilen. MA-036 prüft187078/187079/187081 gemeinsam teilweise über MA-049;1881/1884 wiederverwendet und nicht erneut gezählt. 49 Karten, davon13 stufenübergreifend; neun Anschlussfragen. Fortsetzung187082. Keine vollständige Zieldeckung;187080 bleibt aus MA-035 unverändert.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
