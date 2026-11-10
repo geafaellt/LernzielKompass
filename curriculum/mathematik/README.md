@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-041
+# Mathematik-Abgleich · MA-042
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Vernetzungsstrategien187089. [MA-041](review_batch_041.json) ergänzt MA-051 für Kernaufgaben2,5,10 unter GS-Beherrschen.51 Karten, elf Anschlussfragen und alle bisherigen Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei mathematisch bearbeitbaren Fragen187090 unter Einblick gewinnen1911. [MA-042](review_batch_042.json) ergänzt187089 als Umkehrverknüpfung auf MA-051.51 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -492,3 +492,12 @@ Drei Zeilen187087–187089 nur für die Fortsetzung inventarisiert:89 Auditzeile
 Bis100 auf GS-Seite didaktisch gewählt, auf FSP-Seite aus Bandziel35415 abgeleitet. Beide Zielzeilen ohne eigene numerische Obergrenze. Sämtliche Zwischen- und Endwerte bleiben im Rahmen; keine Restdivision oder Null-/Negativfälle. Kein zusätzlicher automatisierter Gedächtnisabruf auf FSP-Seite. Bestehende50 Karten unverändert; neuer GS-Beherrschensauftrag wird nicht mit bisherigen Kennen-Karten gleichgesetzt. Kein vollständiger Abschluss der GS-Zeile oder des Hauptziels.
 
 51 Karten (36 stufenbandpassend,15 stufenübergreifend),152 Quellenverknüpfungen/150 kartengebundene Zielanker plus zwei Kontextquellen;89 Inventarzeilen, elf Anschlussfragen und fünf dokumentierte Zeilen ohne hinreichenden direkten Anschluss. Fortsetzung187089; keine bisherige offene Frage geschlossen. Alle Daten-/Zahlenraumprüfungen bestanden;30 ausgewählte Kernfaktorkombinationen ergeben Produkte bis100 und restfreie Rückdivisionen. Vollständiger lokaler51-Karten-Browsertest und aufklappbare Hinweise/Quellen aller364 Karten bestanden. Alle50 bisherigen Karten, eigene Entwürfe und andere Fächer erhalten; Aufgaben-/Hilfsmittelfelder leer. App1.353 auf main veröffentlicht (eae5ca12475abf77b6779bd81df61f0f3acdf20b). [Pages-Lauf42839463389](https://github.com/geafaellt/LernzielKompass/actions/runs/42839463389) erfolgreich; die Bereitstellung benötigte rund fünfeinhalb Minuten. Ausgelieferte App bytegleich, SHA-256 3bf8f48be31038c6bbe17f77df67fc22e34266a6dbb424c5197dd9a3134658f0. Öffentliche Prüfung der neuen MA-051 in beiden GS-Jahrgängen bestanden: Quellen, Grenzen auf Karte/Zielen/Output, Ziel-/Kriterienübernahme, leere Aufgaben-/Hilfsmittelfelder und erhaltene Entwürfe; ergänzende Fachwechsel-, Neulade- und Mobilprüfungen bestanden. Vollständiger51-Karten-Test lokal, öffentlich gezielter Test der neuen Karte. Ältere öffentliche Volltest-Zeitüberschreitungen aus MA-036 werden nicht nachträglich als bestanden gewertet.
+
+
+## MA-042 · App1.354 · 10.11.2026
+
+[Prüfpaket042](review_batch_042.json) ergänzt187089 auf vorhandener MA-051: Eine bekannte Kernmultiplikation trägt die zugehörige Division durch2,5 oder10. GS-Beherrschen187087 und FSP-Kennen35439 bleiben getrennt. Beziehungsziel35441 und Umkehrzuordnung in der Bemerkung35443 stützen den ausgewählten Vernetzungsweg. FSP1/2-Kandidaten bleiben im additiven bzw. allgemeinen Strategiekontext. Kein neuer mathematischer Gegenstand und keine zusätzliche Karte.
+
+Feinziele/Kriterien und Geltungsbereich benennen die Richtung ausdrücklich. Bestehende Faktorwahl und Grenze bis100 einschließlich Zwischen-/Endwerte bleiben bestehen; GS-Grenze didaktisch gewählt, FSP-Grenze aus Bandziel35415 abgeleitet. Weitere Strategien, Umkehrrichtung, vollständige Familien und freie Strategiewahl bleiben offen.187088 nicht erneut gezählt. Alle übrigen50 Karten unverändert.
+
+51 Karten (36 stufenbandpassend,15 stufenübergreifend),153 Quellen/151 Zielanker plus zwei Kontextquellen;92 inventarisierte Zeilen, elf Anschlussfragen.1911/187090/187091 nur inventarisiert, nicht fachlich abgeschlossen. Fortsetzung187090. Daten-/Geltungsbereichsprüfungen und Bestandsschutz bestanden. Alle30 ausgewählten Umkehrverknüpfungen halten die bestehende Grenze100 ein. Vollständiger lokaler51-Karten-Browsertest und Hinweise/Quellen aller364 Karten bestanden; eigene Entwürfe erhalten, Aufgaben-/Hilfsmittelfelder leer. Veröffentlichung und öffentliche Prüfung noch ausstehend.

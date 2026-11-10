@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-10.4",
+  "version": "MA-2026-11-10.5",
   "checked_on": "2026-11-10",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1022,6 +1022,12 @@
       "title": "FSP Lernen Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Grundaufgaben des kleinen Einmaleins",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35443",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187089",
+      "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Nutzen von Strategien zur Vernetzung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187089",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -5116,22 +5122,24 @@
     {
       "id": "MA-051",
       "subject": "Mathematik",
-      "theme": "Mal- und Teilaufgaben mit 2, 5 und 10",
+      "theme": "Mal- und Teilaufgaben mit 2, 5 und 10 verknüpfen",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
-      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich2: Zahl und Operation · Lösen von Multiplikations- und Divisionsaufgaben mit2,5,10 unter Beherrschen der Kernaufgaben",
-      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich1: Einer braucht den anderen · Grundaufgaben des kleinen Einmaleins unter Kennen von Rechenhandlungen",
+      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich2: Zahl und Operation · Lösen von Multiplikations- und Divisionsaufgaben mit2,5,10 unter Beherrschen der Kernaufgaben; zusätzlich Umkehrbeziehung als Vernetzungsstrategie187089",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich1: Einer braucht den anderen · Grundaufgaben des kleinen Einmaleins unter Kennen von Rechenhandlungen; Beziehung zwischen Multiplikation und Division",
       "gs_operator": "Beherrschen",
       "fsp_operator": "Kennen",
-      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenübergreifend GS1/2 → FSP3/4. GS-Hauptoperator Beherrschen aus187087; FSP-Hauptoperator Kennen aus35439. Die FSP-Zielzeile35443 nennt Grundaufgaben des kleinen Einmaleins; die Bemerkung ordnet Multiplikations-/Divisionsgleichungen einander zu. Kernaufgaben2,5,10 stehen in der Bemerkung35442. Kein ausdrücklicher FSP-Auftrag zum automatisierten Gedächtnisabruf wird hinzugefügt. GS187087/187088 nennen keine eigene Obergrenze; bis 100 wird für das GS-Feinziel didaktisch gewählt. FSP35443 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Der Ausschnitt umfasst einen Faktor 2,5 oder10, einen weiteren Faktor 1 bis 10 und die zugehörige Division durch 2,5 oder10. Alle Ausgangszahlen und relevanten Zwischen-/Endergebnisse bleiben bis 100. Keine vollständige GS-Zieldeckung. Offen: Nullfälle, weitere Faktorbereiche, andere Divisoren als2,5,10, vollständige Sicherheit und Breite des GS-Beherrschens sowie Vernetzungsstrategien187089. Keine automatische Deckung von Sachvorstellungen, Restdivision oder Fachwortverwendung187086. Der übergeordnete Kernaufgabenblock ist nicht vollständig abgeschlossen.",
+      "operator_relation": "GS: Beherrschen · FSP: Kennen. Stufenübergreifend GS1/2 → FSP3/4. GS-Hauptoperator Beherrschen aus187087; FSP-Hauptoperator Kennen aus35439. Die FSP-Zielzeile35443 nennt Grundaufgaben des kleinen Einmaleins; die Bemerkung ordnet Multiplikations-/Divisionsgleichungen einander zu. Kernaufgaben2,5,10 stehen in der Bemerkung35442. Kein ausdrücklicher FSP-Auftrag zum automatisierten Gedächtnisabruf wird hinzugefügt. GS187087/187088 nennen keine eigene Obergrenze; bis 100 wird für das GS-Feinziel didaktisch gewählt. FSP35443 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Der Ausschnitt umfasst einen Faktor 2,5 oder10, einen weiteren Faktor 1 bis 10 und die zugehörige Division durch 2,5 oder10. Alle Ausgangszahlen und relevanten Zwischen-/Endergebnisse bleiben bis 100. Keine vollständige GS-Zieldeckung. Offen: Nullfälle, weitere Faktorbereiche, andere Divisoren als2,5,10 sowie vollständige Sicherheit und Breite des GS-Beherrschens. Keine automatische Deckung von Sachvorstellungen, Restdivision oder Fachwortverwendung187086. Andere Vernetzungsstrategien, die Ableitung einer Multiplikation aus einer bekannten Division, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie weitere Faktor-/Divisorbereiche. Die Umkehrverknüpfung im gewählten Kernaufgabenausschnitt ist keine vollständige Deckung von187089 oder des GS-Beherrschens. MA-042:187089 ergänzt die Umkehrverknüpfung auf derselben Karte. Die GS-Zeile nennt Strategien zur Vernetzung ohne einzelne Verfahren; die Auswahl einer bekannten Multiplikation und ihrer Division durch den Kernfaktor ist didaktisch. FSP-Beleg: Beziehung35441 und Zuordnung zur Umkehroperation in Bemerkung35443 unter Kennen35439.187088 wird nicht erneut gezählt; GS-Beherrschen bleibt von FSP-Kennen unterschieden.",
       "gs_target_ids": [
         "page912_187087",
-        "page912_187088"
+        "page912_187088",
+        "page912_187089"
       ],
       "fsp_target_ids": [
         "page139_35439",
         "page139_35442",
-        "page139_35443"
+        "page139_35443",
+        "page139_35441"
       ],
       "source_ids": [
         "Q-MA-page912_187087",
@@ -5139,7 +5147,9 @@
         "Q-MA-page139_35439",
         "Q-MA-page139_35442",
         "Q-MA-page139_35443",
-        "Q-MA-page139_35415"
+        "Q-MA-page139_35415",
+        "Q-MA-page912_187089",
+        "Q-MA-page139_35441"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -5150,20 +5160,20 @@
         "relation": "cross-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS-Hauptoperator Beherrschen aus187087; FSP-Hauptoperator Kennen aus35439. Die FSP-Zielzeile35443 nennt Grundaufgaben des kleinen Einmaleins; die Bemerkung ordnet Multiplikations-/Divisionsgleichungen einander zu. Kernaufgaben2,5,10 stehen in der Bemerkung35442. Kein ausdrücklicher FSP-Auftrag zum automatisierten Gedächtnisabruf wird hinzugefügt. GS187087/187088 nennen keine eigene Obergrenze; bis 100 wird für das GS-Feinziel didaktisch gewählt. FSP35443 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Der Ausschnitt umfasst einen Faktor 2,5 oder10, einen weiteren Faktor 1 bis 10 und die zugehörige Division durch 2,5 oder10. Alle Ausgangszahlen und relevanten Zwischen-/Endergebnisse bleiben bis 100. Keine vollständige GS-Zieldeckung. Offen: Nullfälle, weitere Faktorbereiche, andere Divisoren als2,5,10, vollständige Sicherheit und Breite des GS-Beherrschens sowie Vernetzungsstrategien187089. Keine automatische Deckung von Sachvorstellungen, Restdivision oder Fachwortverwendung187086. Der übergeordnete Kernaufgabenblock ist nicht vollständig abgeschlossen.",
+      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS-Hauptoperator Beherrschen aus187087; FSP-Hauptoperator Kennen aus35439. Die FSP-Zielzeile35443 nennt Grundaufgaben des kleinen Einmaleins; die Bemerkung ordnet Multiplikations-/Divisionsgleichungen einander zu. Kernaufgaben2,5,10 stehen in der Bemerkung35442. Kein ausdrücklicher FSP-Auftrag zum automatisierten Gedächtnisabruf wird hinzugefügt. GS187087/187088 nennen keine eigene Obergrenze; bis 100 wird für das GS-Feinziel didaktisch gewählt. FSP35443 ebenfalls ohne eigene numerische Obergrenze; bis 100 wird aus dem übergreifenden Operationsziel35415 didaktisch abgeleitet. Der Ausschnitt umfasst einen Faktor 2,5 oder10, einen weiteren Faktor 1 bis 10 und die zugehörige Division durch 2,5 oder10. Alle Ausgangszahlen und relevanten Zwischen-/Endergebnisse bleiben bis 100. Keine vollständige GS-Zieldeckung. Offen: Nullfälle, weitere Faktorbereiche, andere Divisoren als2,5,10 sowie vollständige Sicherheit und Breite des GS-Beherrschens. Keine automatische Deckung von Sachvorstellungen, Restdivision oder Fachwortverwendung187086. Andere Vernetzungsstrategien, die Ableitung einer Multiplikation aus einer bekannten Division, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie weitere Faktor-/Divisorbereiche. Die Umkehrverknüpfung im gewählten Kernaufgabenausschnitt ist keine vollständige Deckung von187089 oder des GS-Beherrschens. MA-042:187089 ergänzt die Umkehrverknüpfung auf derselben Karte. Die GS-Zeile nennt Strategien zur Vernetzung ohne einzelne Verfahren; die Auswahl einer bekannten Multiplikation und ihrer Division durch den Kernfaktor ist didaktisch. FSP-Beleg: Beziehung35441 und Zuordnung zur Umkehroperation in Bemerkung35443 unter Kennen35439.187088 wird nicht erneut gezählt; GS-Beherrschen bleibt von FSP-Kennen unterschieden.",
       "shared_object_suggestion": "Malnehmen und rückgängig machen: Zahlbeziehungen der Zweier-, Fünfer- und Zehnerreihe.",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind gibt die Ergebnisse von Multiplikationen mit einem Faktor 2, 5 oder 10 und der zugehörigen Division durch diese Zahl bis 100 sicher und selbstständig an.",
-          "criterion": "Der zweite Faktor liegt zwischen 1 und 10. Produkt und zugehöriger Quotient stimmen und werden sicher verfügbar; die Division durch den ausgewählten Faktor 2, 5 oder 10 ergibt den anderen Faktor ohne Rest. Alle Ausgangszahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
-          "status": "Didaktische Konkretisierung des GS-Beherrschens; Faktorenwahl und Grenze bis100 sind hier ausgewählt, keine eigene amtliche Obergrenze dieser GS-Zeile."
+          "goal": "Das Kind gibt Ergebnisse von Mal- und Teilaufgaben mit 2, 5 und 10 bis 100 sicher und selbstständig an und nutzt eine bekannte Multiplikation, um das Ergebnis der zugehörigen Division durch den Kernfaktor abzuleiten.",
+          "criterion": "Ein Ausgangsfaktor ist 2, 5 oder 10, der andere liegt zwischen 1 und 10. Produkt und Quotient stimmen. Bei der Ableitung wird das bekannte Produkt zum Dividenden, der Kernfaktor zum Divisor und der andere Faktor zum Ergebnis; die Verknüpfung wird sicher und selbstständig genutzt. Alle Ausgangszahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "status": "Didaktische Konkretisierung des GS-Beherrschens: Kernaufgabenausschnitt und eine ausgewählte Vernetzungsrichtung. Bis100 didaktisch gewählt, keine eigene Obergrenze in187088/187089."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind bestimmt bis 100 Ergebnisse von Multiplikationen mit einem Faktor 2, 5 oder 10 und ordnet ihnen die passende Division durch diese Zahl mit ihrem Ergebnis zu.",
-          "criterion": "Der andere Faktor ist eine ganze Zahl von 1 bis 10. Das Produkt stimmt; geteilt durch den ausgewählten Faktor 2, 5 oder 10 ergibt es ohne Rest den anderen Faktor. Alle Ausgangszahlen und relevanten Zwischen- und Endergebnisse bleiben bis 100. Automatisierter Gedächtnisabruf wird nicht zusätzlich vorausgesetzt.",
-          "status": "Didaktische Auswahl innerhalb der Grundaufgaben und der in der Bemerkung genannten Zuordnung zur Umkehroperation; Hauptoperator bleibt Kennen. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "goal": "Das Kind bestimmt bis 100 Ergebnisse von Multiplikationen mit einem Faktor 2, 5 oder 10 und nutzt eine bekannte Multiplikation, um die zugehörige Division durch diesen Faktor mit ihrem Ergebnis abzuleiten.",
+          "criterion": "Der andere Faktor ist eine ganze Zahl von 1 bis 10. Das bekannte Produkt wird zum Dividenden, der ausgewählte Faktor 2, 5 oder 10 zum Divisor und der andere Faktor zum Quotienten; die Division geht ohne Rest auf. Produkt und Quotient stimmen. Alle Ausgangszahlen sowie relevanten Zwischen- und Endergebnisse bleiben bis 100. Automatisierter Gedächtnisabruf und freie Auswahl zwischen mehreren Strategien werden nicht zusätzlich vorausgesetzt.",
+          "status": "Didaktische Konkretisierung von Beziehung35441 und Zuordnung zur Umkehroperation35443; eine Ableitungsrichtung innerhalb des vorhandenen Kernaufgabenausschnitts. Hauptoperator Kennen; Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
           "scope_status": "derived",
           "range_max": 100
         }
@@ -5174,16 +5184,16 @@
       "fsp_scope": {
         "status": "derived",
         "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
-        "detail": "35443 nennt Grundaufgaben des kleinen Einmaleins ohne eigene Obergrenze;35442 nennt2,5,10 als Kernaufgaben in der Bemerkung. Bis100 wird aus Bandziel35415 didaktisch abgeleitet. Ein weiterer Faktor1 bis10 und Division nur durch2,5,10 begrenzen den gewählten Ausschnitt. GS187087/187088 ohne eigene Obergrenze; dort ebenfalls didaktisch bis100.",
+        "detail": "35443 nennt Grundaufgaben des kleinen Einmaleins ohne eigene Obergrenze;35442 nennt2,5,10 als Kernaufgaben in der Bemerkung. Bis100 wird aus Bandziel35415 didaktisch abgeleitet. Ein weiterer Faktor1 bis10 und Division nur durch2,5,10 begrenzen den gewählten Ausschnitt. GS187087/187088 ohne eigene Obergrenze; dort ebenfalls didaktisch bis100. MA-042: Der Vernetzungsbezug verwendet dieselben Zahlen; keine Erweiterung der Grenze oder der zulässigen Divisoren.",
         "max_value": 100,
         "source_ids": [
           "Q-MA-page139_35415"
         ],
-        "planning_rule": "Didaktischer Ausschnitt: Ein Faktor ist 2,5 oder10, der andere eine ganze Zahl von 1 bis 10. Das Produkt bleibt bis 100. Die zugehörige Division teilt genau dieses Produkt durch den ausgewählten Faktor 2,5 oder10 und ergibt ohne Rest den anderen Faktor. Beide Ausgangsfaktoren, Produkt/Dividend, Divisor, Quotient und sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100. Keine Null-/Negativfälle, Bruchteile, Restdivision oder größeren Zwischenwerte. Kein automatisierter Gedächtnisabruf auf FSP-Seite vorausgesetzt; konkrete Aufgaben, Wege und Hilfsmittel bleiben Lehrkraftentscheidung. Eigene Entwürfe fachlich prüfen."
+        "planning_rule": "Didaktischer Ausschnitt: Ein Faktor ist 2,5 oder10, der andere eine ganze Zahl von 1 bis 10. Das Produkt bleibt bis 100. Die zugehörige Division teilt genau dieses Produkt durch den ausgewählten Faktor 2,5 oder10 und ergibt ohne Rest den anderen Faktor. Beide Ausgangsfaktoren, Produkt/Dividend, Divisor, Quotient und sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100. Keine Null-/Negativfälle, Bruchteile, Restdivision oder größeren Zwischenwerte. Kein automatisierter Gedächtnisabruf auf FSP-Seite vorausgesetzt; konkrete Aufgaben, Wege und Hilfsmittel bleiben Lehrkraftentscheidung. Eigene Entwürfe fachlich prüfen. Vernetzungsrichtung: bekannte Multiplikation → Division durch den Kernfaktor2,5,10. Das bekannte Produkt liefert den Dividenden; der andere Faktor ist das restfreie Ergebnis. Keine freie Strategiewahl oder vollständige Vierergruppe vorausgesetzt."
       },
       "evidence_classification": {
-        "gs": "187088 ist Unterziel unter Beherrschen187087; Arithmetische Basisfakten stehen in der Bemerkung des Hauptziels. Keine eigene numerische Obergrenze. 187087 bleibt Kontext der Kartenabdeckung.",
-        "fsp": "35443 ist Unterziel unter Kennen35439; Zuordnung von Multiplikations-/Divisionsgleichungen in seiner Bemerkung. Kernaufgaben2,5,10 als ergänzender Bemerkungsbeleg35442. Keine Übernahme des additiven Gedächtnisauftrags37869.",
+        "gs": "187088 ist Unterziel unter Beherrschen187087; Arithmetische Basisfakten stehen in der Bemerkung des Hauptziels. Keine eigene numerische Obergrenze. 187087 bleibt Kontext der Kartenabdeckung. MA-042:187089 unter demselben Beherrschen187087 ergänzt; Umkehrstrategie ist didaktisch ausgewählt.187088 nicht erneut gezählt.",
+        "fsp": "35443 ist Unterziel unter Kennen35439; Zuordnung von Multiplikations-/Divisionsgleichungen in seiner Bemerkung. Kernaufgaben2,5,10 als ergänzender Bemerkungsbeleg35442. Keine Übernahme des additiven Gedächtnisauftrags37869. MA-042:35441 als verbindlicher Beziehungsbeleg ergänzt; der konkrete Ableitungsweg wird durch die Umkehrzuordnung35443 gestützt.",
         "context_only_gs_ids": [
           "page912_187087"
         ]

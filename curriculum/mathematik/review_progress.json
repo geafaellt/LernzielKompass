@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-041",
+  "last_batch": "MA-042",
   "complete": false,
   "counts": {
     "cards": 51,
@@ -1885,10 +1885,23 @@
       "version": "2019",
       "target": "Grundaufgaben des kleinen Einmaleins",
       "remarks": "Divisions- und Multiplikationsgleichungen der jeweiligen Umkehroperation zuordnen Term, Gleichung, Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter"
+    },
+    "page912_187089": {
+      "id": "page912_187089",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_187087",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187089",
+      "version": "2026",
+      "target": "Nutzen von Strategien zur Vernetzung",
+      "remarks": ""
     }
   },
-  "next_id": "page912_187089",
-  "next_step": "GS1/2 Nutzen von Strategien zur Vernetzung187089 unter Beherrschen187087 gegen beide FSP-Bänder prüfen.187088 auf MA-051 für Malaufgaben mit Faktor2/5/10 und zugehörige Division durch diese Zahl teilweise geprüft; sonstige Restumfänge erhalten.51 Karten, elf Anschlussfragen; vorhandene Kennen-Karten nicht mit dem neuen Beherrschensauftrag gleichsetzen.",
+  "next_id": "page912_187090",
+  "next_step": "GS1/2 Stellen mathematisch bearbeitbarer Fragen187090 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Modellieren187091.187089 auf MA-051 nur für die Umkehrverknüpfung bekannte Multiplikation → Division durch2/5/10 teilweise geprüft.51 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten;187088 nicht erneut zählen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2069,10 +2082,11 @@
         "page139_37950",
         "page139_38021"
       ],
-      "decision": "FSP1/2: Die Grundaufgaben bis10 in37869 gehören zur Addition/Subtraktion37863 unter Einblick gewinnen37851. Schrittzählen37950 nennt2er-/5er-Schritte, belegt aber noch keine Mal-/Teilgrundaufgaben. Allgemeine Rechenvorteile37885 sowie Sach-/Knobelstrategien37896/38021 sind Vorläufer, kein hinreichend bestimmter multiplikativer Kernaufgabenauftrag. FSP3/4:35443 benennt Grundaufgaben des kleinen Einmaleins und die Bemerkung verknüpft Divisions- und Multiplikationsgleichungen.35442 benennt die Folgen2,5,10 als Kernaufgaben. Dieser positive Inhalt begründet den stufenübergreifenden Anschluss, nicht allein der kleinere Zahlenraum in1/2. Grundvorstellungen35435/35437/35438 behalten Einblick gewinnen; Teilbarkeitsregel35444 und Ergebniskontrolle35447 sind verwandte, aber andere Ziele."
+      "decision": "FSP1/2: Die Grundaufgaben bis10 in37869 gehören zur Addition/Subtraktion37863 unter Einblick gewinnen37851. Schrittzählen37950 nennt2er-/5er-Schritte, belegt aber noch keine Mal-/Teilgrundaufgaben. Allgemeine Rechenvorteile37885 sowie Sach-/Knobelstrategien37896/38021 sind Vorläufer, kein hinreichend bestimmter multiplikativer Kernaufgabenauftrag. FSP3/4:35443 benennt Grundaufgaben des kleinen Einmaleins und die Bemerkung verknüpft Divisions- und Multiplikationsgleichungen.35442 benennt die Folgen2,5,10 als Kernaufgaben. Dieser positive Inhalt begründet den stufenübergreifenden Anschluss, nicht allein der kleinere Zahlenraum in1/2. Grundvorstellungen35435/35437/35438 behalten Einblick gewinnen; Teilbarkeitsregel35444 und Ergebniskontrolle35447 sind verwandte, aber andere Ziele.",
+      "network_follow_up": "FSP1/2:37885/37889 nennen Umkehrbeziehungen im additiven Kontext37863;37869 betrifft additive Grundaufgaben bis10. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber keine hinreichend bestimmte multiplikative Vernetzung. FSP3/4:35441 nennt die Beziehung von Multiplikation und Division,35442 Umkehraufgaben und Kernaufgaben2,5,10 in der Bemerkung,35443 die Zuordnung von Multiplikations-/Divisionsgleichungen. Dieser Inhalt begründet den stufenübergreifenden Teilanschluss, nicht allein der größere Zahlenraum.35435/35437/35438 betreffen Grundvorstellungen unter Einblick gewinnen;35447 den gesonderten Kontrollzweck;35485 bleibt additiv unter Übertragen35470."
     }
   },
-  "last_review_file": "review_batch_041.json",
+  "last_review_file": "review_batch_042.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2438,6 +2452,12 @@
     {
       "gs_id": "page912_187088",
       "scope": "Nullfälle, weitere Faktorbereiche, andere Divisoren als2,5,10, vollständige Sicherheit und Breite des GS-Beherrschens sowie Vernetzungsstrategien187089. Keine automatische Deckung von Sachvorstellungen, Restdivision oder Fachwortverwendung187086. Der übergeordnete Kernaufgabenblock ist nicht vollständig abgeschlossen.",
+      "status": "offen",
+      "follow_up": "MA-042:187089 für eine Umkehrverknüpfung auf bestehender MA-051 teilweise geprüft. Kein Abschluss weiterer Restumfänge und keine erneute Zählung von187088."
+    },
+    {
+      "gs_id": "page912_187089",
+      "scope": "Andere Vernetzungsstrategien, die Ableitung einer Multiplikation aus einer bekannten Division, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie weitere Faktor-/Divisorbereiche. Die Umkehrverknüpfung im gewählten Kernaufgabenausschnitt ist keine vollständige Deckung von187089 oder des GS-Beherrschens.",
       "status": "offen"
     }
   ],
@@ -2456,10 +2476,11 @@
       "page912_1857",
       "page912_1867",
       "page912_1881",
-      "page912_187087"
+      "page912_187087",
+      "page912_1911"
     ],
-    "rows": 89,
-    "note": "89 inventarisierte Zeilen,51 Karten (15 stufenübergreifend). MA-041 prüft187088 teilweise;187087 bleibt Hauptzielkontext. Fortsetzung187089. Elf Anschlussfragen und alle bisherigen Restumfänge erhalten.",
+    "rows": 92,
+    "note": "92 inventarisierte Zeilen,51 Karten (15 stufenübergreifend). MA-042 ergänzt187089 teilweise auf bestehender MA-051.1911/187090/187091 nur für die Fortsetzung inventarisiert. Elf Anschlussfragen und alle Restumfänge erhalten; Fortsetzung187090.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
