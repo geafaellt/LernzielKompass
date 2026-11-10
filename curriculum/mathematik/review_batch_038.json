@@ -684,8 +684,17 @@
     "browser": "not repeated:no app/UI change. MA-037 full49 local and targeted public MA-047 evidence applies to unchanged app bytes. No new public full-run success claimed; MA-036 public full-run timeouts remain unresolved historical evidence."
   },
   "publication": {
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.351",
-    "app_changed": false
+    "app_changed": false,
+    "commit": "38e940c0b213a0e27301ff0259f85b1edef1ea86",
+    "pages_run": 42791680371,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42791680371",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "38cdd5fb783345759b401a875a602264b033007361bc3f92468c2745052a90ac",
+    "verified_date": "2026-11-10",
+    "browser": "not repeated: audit only; no new browser claim"
   }
 }
