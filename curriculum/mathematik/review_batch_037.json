@@ -359,10 +359,21 @@
     "preservation": "passed: only MA-047 updated;48 other cards,147 prior sources,9 prior questions and nonmath app payloads unchanged;1 target+2 context audit updates; index/dist identical",
     "scope_check": "passed all20 selected doubling configurations: first core factor2 or5, second factor1..10, input product<=50, doubled first factor4 or10, doubled product<=100; existing general core-product limits preserved",
     "browser_local": "passed full49-card mathematics run and disclosure checks for all362 cards; scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile",
-    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed."
+    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed.",
+    "browser_live_targeted": "passed public MA-047 in both GS grades1/2: source links, scopes on card/goals/output, updated goal/criterion adoption, empty tasks/aids, preserved teacher text; existing follow-on draft, subject-isolation, reload and mobile checks retained. Temporary test copy limits per-card iteration to changed MA-047; normal clicks and assertions unchanged.",
+    "browser_live_scope": "Full49-card public run not repeated in MA-037. Full49-card local run passed; public HTML byte-identical. Previous MA-036 public full-run timeouts remain historical unresolved evidence, not retroactively marked passed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.351"
+    "status": "published_verified_targeted_live",
+    "app_version": "1.351",
+    "app_commit": "1b31ae0aada7e02dd34286f367f015ea82292e00",
+    "pages_run": 42754103237,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42754103237",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "38cdd5fb783345759b401a875a602264b033007361bc3f92468c2745052a90ac",
+    "verified_date": "2026-11-10",
+    "browser_scope": "all49 locally; changed MA-047 targeted publicly, with additional existing draft/isolation/mobile checks"
   }
 }
