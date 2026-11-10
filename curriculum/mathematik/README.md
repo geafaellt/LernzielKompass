@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-040
+# Mathematik-Abgleich · MA-041
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Fünfzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049 und MA-050 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einundfünfzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050 und MA-051 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Kernaufgaben187088 unter Beherrschen187087. [MA-040](review_batch_040.json) prüft die23 Fachbegriffe187086 anhand beider FSP-Bänder; die konkrete sprachliche Zuordnung bleibt elfte Anschlussfrage.50 Karten unverändert. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Vernetzungsstrategien187089. [MA-041](review_batch_041.json) ergänzt MA-051 für Kernaufgaben2,5,10 unter GS-Beherrschen.51 Karten, elf Anschlussfragen und alle bisherigen Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -483,3 +483,12 @@ Beide Feinziele bis100 didaktisch eingegrenzt, einschließlich sämtlicher Zwisc
 Keine neue Karte, keine Änderung an Feinzielen, Kriterien oder Zahlenraumgrenzen. Sprachziele ohne eigene Zahlengrenze erhalten keine erfundene Obergrenze; die übergreifenden Operationsrahmen20/100 begrenzen keinen Wortschatz. Alle50 Karten,149 Quellenverknüpfungen und147 kartengebundenen Zielanker unverändert. Nun elf Anschlussfragen, fünf dokumentierte Zeilen ohne hinreichenden direkten Anschluss; diese Liste wurde nicht erweitert.
 
 Drei Zeilen187087–187089 nur für die Fortsetzung inventarisiert:89 Auditzeilen sind nicht89 abgeschlossene Prüfungen. Nächster fachlicher Prüfpunkt187088 unter Beherrschen187087, danach187089. App1.352 unverändert. Daten-/Geltungsbereichsprüfungen und Bestandsschutz bestanden. Eine veraltete Inventar-Kurznotiz aus MA-037 wurde berichtigt. Mathematikmodul und beide HTML-Dateien bleiben bytegleich mit App1.352; kein neuer Browsertest bei unveränderter App. Auf main veröffentlicht (2b5a84d27cebeca6c558157b71ce349664aa5695). [Pages-Lauf42800321751](https://github.com/geafaellt/LernzielKompass/actions/runs/42800321751) erfolgreich. Ausgelieferte App1.352 bytegleich mit dem geprüften Stand, SHA-256 dbef8faa5cb159cc47f80857883b6576006deaa2e04476e3093e87a4976179da.
+
+
+## MA-041 · App1.353 · 10.11.2026
+
+[Prüfpaket041](review_batch_041.json) ergänzt MA-051 für Malaufgaben mit einem Faktor2,5,10 und einem weiteren Faktor1 bis10 sowie die zugehörige Division durch2,5,10. GS187088 unter Beherrschen187087; FSP35443 unter Kennen35439, Kernaufgabenbezug als Bemerkung35442. FSP1/2-Grundaufgaben sind additiv; Schrittzählen allein ersetzt keinen Mal-/Teilgrundaufgabenauftrag. Stufenübergreifender Anschluss GS1/2 → FSP3/4.
+
+Bis100 auf GS-Seite didaktisch gewählt, auf FSP-Seite aus Bandziel35415 abgeleitet. Beide Zielzeilen ohne eigene numerische Obergrenze. Sämtliche Zwischen- und Endwerte bleiben im Rahmen; keine Restdivision oder Null-/Negativfälle. Kein zusätzlicher automatisierter Gedächtnisabruf auf FSP-Seite. Bestehende50 Karten unverändert; neuer GS-Beherrschensauftrag wird nicht mit bisherigen Kennen-Karten gleichgesetzt. Kein vollständiger Abschluss der GS-Zeile oder des Hauptziels.
+
+51 Karten (36 stufenbandpassend,15 stufenübergreifend),152 Quellenverknüpfungen/150 kartengebundene Zielanker plus zwei Kontextquellen;89 Inventarzeilen, elf Anschlussfragen und fünf dokumentierte Zeilen ohne hinreichenden direkten Anschluss. Fortsetzung187089; keine bisherige offene Frage geschlossen. Alle Daten-/Zahlenraumprüfungen bestanden;30 ausgewählte Kernfaktorkombinationen ergeben Produkte bis100 und restfreie Rückdivisionen. Vollständiger lokaler51-Karten-Browsertest und aufklappbare Hinweise/Quellen aller364 Karten bestanden. Alle50 bisherigen Karten, eigene Entwürfe und andere Fächer erhalten; Aufgaben-/Hilfsmittelfelder leer. Veröffentlichung und öffentliche Prüfung noch ausstehend.

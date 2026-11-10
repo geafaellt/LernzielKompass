@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-040",
+  "last_batch": "MA-041",
   "complete": false,
   "counts": {
-    "cards": 50,
-    "cross_band": 14
+    "cards": 51,
+    "cross_band": 15
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1846,10 +1846,49 @@
       "version": "2026",
       "target": "Probieren, Begründen und Bewerten von unterschiedlichen Lösungswegen",
       "remarks": "mathematische Aussagen hinterfragen auf Korrektheit prüfen Begründungen formulieren und nachvollziehen ⇒ Kommunikationsfähigkeit"
+    },
+    "page912_187087": {
+      "id": "page912_187087",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_187087",
+      "operator": "Beherrschen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187087",
+      "version": "2026",
+      "target": "Beherrschen der Kernaufgaben der Multiplikation und Division",
+      "remarks": "Arithmetische Basisfakten"
+    },
+    "page912_187088": {
+      "id": "page912_187088",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_187087",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187088",
+      "version": "2026",
+      "target": "Lösen von Multiplikations- und Divisionsaufgaben mit 2, 5 und 10",
+      "remarks": "Lern- und Übungssoftware ⇒ Medienbildung"
+    },
+    "page139_35443": {
+      "id": "page139_35443",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35443",
+      "version": "2019",
+      "target": "Grundaufgaben des kleinen Einmaleins",
+      "remarks": "Divisions- und Multiplikationsgleichungen der jeweiligen Umkehroperation zuordnen Term, Gleichung, Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter"
     }
   },
-  "next_id": "page912_187088",
-  "next_step": "GS1/2 Kernaufgaben der Multiplikation und Division187088 unter Beherrschen187087 gegen beide FSP-Bänder prüfen; danach Vernetzungsstrategien187089.187086 ist quellengeprüft, die konkrete sprachliche Zuordnung der23 Begriffe bleibt als elfte Anschlussfrage offen.50 Karten und alle bisherigen Restumfänge erhalten; Inhalt und Fachwortverwendung nicht gleichsetzen.",
+  "next_id": "page912_187089",
+  "next_step": "GS1/2 Nutzen von Strategien zur Vernetzung187089 unter Beherrschen187087 gegen beide FSP-Bänder prüfen.187088 auf MA-051 für Malaufgaben mit Faktor2/5/10 und zugehörige Division durch diese Zahl teilweise geprüft; sonstige Restumfänge erhalten.51 Karten, elf Anschlussfragen; vorhandene Kennen-Karten nicht mit dem neuen Beherrschensauftrag gleichsetzen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2018,9 +2057,22 @@
         "page139_38022"
       ],
       "decision": "FSP1/2: Rechenwege37885 stehen im additiven Kontext37863 unter Einblick gewinnen37851. Sachwege37908/37911 und Knobelstrategien38021/38022 liefern allgemeine Nachbarbezüge, jedoch keinen hinreichend bestimmten Auftrag zum Erproben und Werten multiplikativer Wege. FSP3/4:35442 nennt im multiplikativen Kontext unter Kennen35439 verschiedene Lösungswege und in der Bemerkung Finden, Ausprobieren und Werten. Dieser positive Inhaltsbeleg begründet die stufenübergreifende Wahl, nicht allein der kleinere Zahlenraum in1/2.35485 bleibt additiv unter Übertragen35470;35447 kontrolliert Divisionsresultate,35510 Sachlösungen. Wahlbereiche35571/35582 mit Probieren/Beschreiben bzw. Reflexion35593 werden nicht als allgemeine Pflichtziele ausgegeben."
+    },
+    "MA-051": {
+      "same_band_candidate_ids": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869",
+        "page139_37885",
+        "page139_37896",
+        "page139_37931",
+        "page139_37950",
+        "page139_38021"
+      ],
+      "decision": "FSP1/2: Die Grundaufgaben bis10 in37869 gehören zur Addition/Subtraktion37863 unter Einblick gewinnen37851. Schrittzählen37950 nennt2er-/5er-Schritte, belegt aber noch keine Mal-/Teilgrundaufgaben. Allgemeine Rechenvorteile37885 sowie Sach-/Knobelstrategien37896/38021 sind Vorläufer, kein hinreichend bestimmter multiplikativer Kernaufgabenauftrag. FSP3/4:35443 benennt Grundaufgaben des kleinen Einmaleins und die Bemerkung verknüpft Divisions- und Multiplikationsgleichungen.35442 benennt die Folgen2,5,10 als Kernaufgaben. Dieser positive Inhalt begründet den stufenübergreifenden Anschluss, nicht allein der kleinere Zahlenraum in1/2. Grundvorstellungen35435/35437/35438 behalten Einblick gewinnen; Teilbarkeitsregel35444 und Ergebniskontrolle35447 sind verwandte, aber andere Ziele."
     }
   },
-  "last_review_file": "review_batch_040.json",
+  "last_review_file": "review_batch_041.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2382,6 +2434,11 @@
       "scope": "Sprachlicher Teilanschluss für die23 Begriffe aus187086 anhand der dokumentierten positiven Gegenbezüge konkret festlegen; insbesondere Verstehen von Fachbegriffen35415 und Versprachlichen35441 gegenüber selbstständigem GS-Verwenden abgrenzen. Vollständige GS-Fachwortverwendung bleibt unbestätigt. Bereits geprüfte Recheninhalte und die gesonderten additiven Sprachfragen187073/1837 bleiben unverändert.",
       "status": "offen",
       "review_file": "review_batch_040.json"
+    },
+    {
+      "gs_id": "page912_187088",
+      "scope": "Nullfälle, weitere Faktorbereiche, andere Divisoren als2,5,10, vollständige Sicherheit und Breite des GS-Beherrschens sowie Vernetzungsstrategien187089. Keine automatische Deckung von Sachvorstellungen, Restdivision oder Fachwortverwendung187086. Der übergeordnete Kernaufgabenblock ist nicht vollständig abgeschlossen.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2402,7 +2459,7 @@
       "page912_187087"
     ],
     "rows": 89,
-    "note": "89 inventarisierte Zeilen,50 Karten (14 stufenübergreifend). MA-040 prüft die23 Begriffe187086 quellenbezogen; sprachlicher Teilanschluss bleibt elfte Anschlussfrage.187087–187089 nur inventarisiert, nicht fachlich abgeschlossen. Fortsetzung187088. Alte Inventar-Kurznotiz aus MA-037 berichtigt; Karten- und Zielankerzählungen unverändert.",
+    "note": "89 inventarisierte Zeilen,51 Karten (15 stufenübergreifend). MA-041 prüft187088 teilweise;187087 bleibt Hauptzielkontext. Fortsetzung187089. Elf Anschlussfragen und alle bisherigen Restumfänge erhalten.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
