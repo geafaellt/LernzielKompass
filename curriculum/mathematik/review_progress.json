@@ -1901,7 +1901,7 @@
     }
   },
   "next_id": "page912_187090",
-  "next_step": "GS1/2 Stellen mathematisch bearbeitbarer Fragen187090 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Modellieren187091.187089 auf MA-051 nur für die Umkehrverknüpfung bekannte Multiplikation → Division durch2/5/10 teilweise geprüft.51 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten;187088 nicht erneut zählen.",
+  "next_step": "Zuerst ausstehende Pages-Veröffentlichung von App1.354 prüfen: erster Lauf42841736581 nach Synchronisierungszeitlimit abgebrochen, Wiederholung zuletzt queued; Live zuletzt1.353. Neue Appbytes und MA-051 öffentlich prüfen, Nachweis ergänzen. Danach: GS1/2 Stellen mathematisch bearbeitbarer Fragen187090 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Modellieren187091.187089 auf MA-051 nur für die Umkehrverknüpfung bekannte Multiplikation → Division durch2/5/10 teilweise geprüft.51 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten;187088 nicht erneut zählen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2534,5 +2534,18 @@
       "MA-004"
     ],
     "note": "Drei didaktische Zahlenrahmen aus Bandzielen abgeleitet, keine neu entdeckten ausdrücklichen Obergrenzen. Längenvergleich bleibt ohne belegte numerische Höchstgrenze. Keine neue GS-Zielzeile als geprüft gezählt."
+  },
+  "publication_recheck": {
+    "batch": "MA-042",
+    "status": "required_before_next_curriculum_package",
+    "app_version": "1.354",
+    "commit": "36f5b012480946d013a0ea3d1c3cb222596fb858",
+    "pages_run": 42841736581,
+    "required_checks": [
+      "Pages run including retry and any later evidence-commit deployment",
+      "actual live HTML equals target SHA256 ee66b1dccfab16db55ac772ec0750df41ce36119da0afc9d8f988e6f7f5addd1",
+      "targeted live browser check MA-051 in GS grades1/2;source/scope/goal adoption/draft preservation/mobile"
+    ],
+    "last_observed_live_version": "1.353"
   }
 }
