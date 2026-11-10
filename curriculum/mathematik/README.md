@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-037
+# Mathematik-Abgleich · MA-038
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei gegensinnigem/gleichsinnigem Verändern187083. [MA-037](review_batch_037.json) ergänzt187082 nur für Verdoppeln auf bestehender MA-047. Halbieren bleibt eigene offene Anschlussfrage; zehn Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Probieren, Begründen und Bewerten unterschiedlicher Lösungswege187084. [MA-038](review_batch_038.json) prüft187083 ohne hinreichend belegten direkten Anschluss.49 Karten, zehn Anschlussfragen und alle bisherigen Restumfänge bleiben erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -456,3 +456,12 @@ GS bis100 ausdrücklich in1884; FSP bis100 didaktisch aus35415. Ausgangsprodukt 
 Eine weitere teilweise geprüfte Inhaltszeile,49 Karten (36 stufenbandpassend,13 stufenübergreifend),148 Quellenlinks/146 Zielanker plus zwei Kontextquellen,86 Auditzeilen. Alle übrigen48 Karten und neun bisherigen Anschlussfragen unverändert; nun zehn Fragen. Fortsetzung187083.
 
 Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. Alle20 ausgewählten Verdoppelkonfigurationen halten Ausgangsprodukt50 und Ergebnis100 ein. Vollständiger lokaler Mathematik-Browsertest aller49 Karten und Hinweise/Quellen aller362 Karten bestanden; eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Scrollanimation im Testbrowser deaktiviert, nicht bewertet. App1.351 auf main veröffentlicht (Commit `1b31ae0aada7e02dd34286f367f015ea82292e00`). [Pages-Lauf 42754103237](https://github.com/geafaellt/LernzielKompass/actions/runs/42754103237) erfolgreich. Öffentliche HTML-Datei bytegleich zum geprüften Stand (SHA-256 `38cdd5fb783345759b401a875a602264b033007361bc3f92468c2745052a90ac`). Gezielte öffentliche Prüfung der geänderten MA-047 in beiden GS-Jahrgängen bestanden: Quellen, Zahlenraum auf Karte/Zielen/Output, aktualisierte Ziel-/Kriterienübernahme, leere Aufgaben-/Hilfsmittelfelder und erhaltene Entwürfe; ergänzende Fachwechsel-/Mobilprüfungen bestanden. Vollständiger49-Karten-Lauf lokal bestanden, öffentlich in diesem Lauf nicht wiederholt. Frühere Live-Zeitlimits aus MA-036 bleiben dokumentiert und werden nicht rückwirkend als bestanden gewertet. Details im [Prüfpaket MA-037](review_batch_037.json).
+
+
+## MA-038 · Audit ohne App-Änderung · 10.11.2026
+
+[Prüfpaket038](review_batch_038.json) prüft gegensinniges und gleichsinniges Verändern187083 unter1884/Kennen1881 gegen beide FSP-Bänder. Der GS-Beleg zeigt das Halbieren eines Faktors und Verdoppeln des anderen bei gleichem Produkt. FSP-Mengenverdopplung, Kernaufgaben, Tausch-/Umkehr- und Nachbarbeziehungen sind fachlich verwandt; die abgestimmte Änderung beider Operanden ist damit nicht hinreichend belegt. Keine Ablehnung allein wegen kleinerer Zahlenräume und kein generelles Urteil gegen didaktische Anschlussfähigkeit.
+
+MA-011, MA-044 und MA-047 bis MA-049 wurden abgegrenzt; alle49 Karten samt FSP-Geltungsbereichen, Feinzielen und Kriterien bleiben unverändert. Ein weiterer Unterpunkt einzeln entschieden, keine vollständige GS-Zieldeckung.86 inventarisierte Auditzeilen sind nicht86 abgeschlossene Prüfungen.148 Quellenverknüpfungen,146 kartengebundene Zielanker, zehn offene Anschlussfragen und nun fünf dokumentierte Zeilen ohne hinreichend belegten direkten Anschluss. Nächster Prüfpunkt187084; Halbierungsfrage187082 bleibt offen. App1.351 unverändert.
+
+Bestanden: Deutsch-/Mathematikprüfung, Pages-Aufbereitung, FSP-Geltungsbereichsregression und Lerngegenstandsprüfung. Mathematikmodul und beide HTML-Dateien sind bytegleich mit App1.351; nur eine Auditzeile geändert. Keine neue Browserprüfung bei unveränderter App. MA-037 dokumentiert vollständige lokale und gezielte öffentliche Browserprüfung; ältere öffentliche Volltest-Zeitüberschreitungen werden nicht nachträglich als bestanden gewertet. Veröffentlichung noch ausstehend.
