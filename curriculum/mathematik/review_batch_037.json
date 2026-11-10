@@ -1,0 +1,368 @@
+{
+  "id": "MA-037",
+  "date": "2026-11-10",
+  "base_commit": "ffcdda5f8401ebe946fbbd0bd2a66187a85ae245",
+  "scope": "Verdoppeln als Spezialisierung des bestehenden Kernproduktanschlusses; Halbieren gesondert offen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1881",
+      "level": 1,
+      "parent_target_id": "page912_1881",
+      "target": "Kennen der Multiplikation und Division",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1881",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_1884",
+      "level": 2,
+      "parent_target_id": "page912_1881",
+      "target": "Lösen aller Multiplikations- und Divisionsaufgaben im Zahlenraum bis 100 durch Nutzen von Strategien",
+      "remarks": "sinntragendes und flexibles Rechnen Lösungswege aufgabenbezogen begründet auswählen, ausprobieren und reflektieren Gewohnheit zur Selbstkontrolle",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1884",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_1885",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "target": "Kernaufgaben der 2, 5 und 10",
+      "remarks": "7 · 8 = 5 · 8 + 2 · 8 8 · 9 = 10 · 9 - 2 · 9",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1885",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page912_187082",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "target": "Verdoppeln und Halbieren",
+      "remarks": "4 · 9 = 2 · 9 + 2 · 9",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187082",
+      "grade": "1/2",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37869",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "gedächtnismäßiges Verfügen über die Grundaufgaben bis 10",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37869",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page139_37950",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zählen in Schritten",
+      "remarks": "Differenzierung: 2er-, 5er-, evtl. auch 3er-Schritte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37950",
+      "grade": "1/2",
+      "parent_operator": "Beherrschen"
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35435",
+      "level": 1,
+      "parent_target_id": "page139_35435",
+      "target": "Einblick gewinnen in gerechtes Verteilen",
+      "remarks": "inhaltliches Verständnis von Multiplikation und Division durch Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35435",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35437",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "target": "Verdoppeln und Halbieren",
+      "remarks": "Darstellen durch konkrete Handlung, Zeichnung und Skizze Mengenbilder, Domino",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35437",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35438",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "target": "Vervielfachen und Teilen",
+      "remarks": "Rollenspiel, Quadrat-, Punktfelder Faltarbeiten mit Kreis, Dreieck, Quadrat, Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35438",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35440",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Multiplikation als Addition gleicher Summanden",
+      "remarks": "additive Handlungen: 2 + 2 + 2 = 6 ⇒ 3 · 2 = 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35440",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35441",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Beziehung zwischen Multiplikation und Division",
+      "remarks": "Gruppierungen, Paarbildung, Bündelung Vergegenständlichen und Versprachlichen der Rechenoperationen multiplikative Handlungen durch Verteilen rückgängig machen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35441",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35443",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Grundaufgaben des kleinen Einmaleins",
+      "remarks": "Divisions- und Multiplikationsgleichungen der jeweiligen Umkehroperation zuordnen Term, Gleichung, Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35443",
+      "grade": "3/4",
+      "parent_operator": "Kennen"
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "parent_operator": "Übertragen"
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "new_cards": [],
+  "updated_cards": [
+    "MA-047"
+  ],
+  "existing_cards_rechecked": [
+    "MA-011",
+    "MA-044",
+    "MA-047",
+    "MA-049"
+  ],
+  "existing_card_decisions": "MA-047 enthält bereits die Addition zweier gleicher Kernprodukte; fachlich passender Anschluss wird mit demselben GS-Hauptoperator erweitert. MA-011 unter Beherrschen und MA-044 als Grundvorstellungsanschluss bleiben unverändert. MA-049 formale Umkehrfamilien sichern nicht automatisch die Halbierungsstrategie. Alle übrigen48 Karten unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187082",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-047"
+      ],
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37869",
+        "page139_37885",
+        "page139_37931",
+        "page139_37950",
+        "page139_37896",
+        "page139_38021"
+      ],
+      "cross_band_candidates": [
+        "page139_35432",
+        "page139_35434",
+        "page139_35435",
+        "page139_35437",
+        "page139_35438",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441",
+        "page139_35442",
+        "page139_35443",
+        "page139_35470",
+        "page139_35485"
+      ],
+      "decision": "GS187082 nennt Verdoppeln und Halbieren als Strategie unter1884/Kennen1881; seine Bemerkung zeigt die Addition zweier gleicher Kernprodukte mit erstem Faktor2. MA-047 enthält bereits die Summe zweier Kernprodukte der2,5,10 bei gleichem zweiten Faktor. Die Fälle zweimal2 bzw. zweimal5 tragen einen begrenzten Verdoppelanschluss. FSP35442 nennt Kernaufgaben der2,5,10 als Bemerkung zum Entdecken/Nutzen verschiedener Lösungswege unter Kennen35439. Der Verdoppelweg ist die didaktische Spezialisierung dieses bereits belegten Kernaufgabenanschlusses, kein neuer FSP-Hauptoperator. Keine zusätzliche Karte und keine erneute Zählung von1885.",
+      "candidate_review": "FSP1/2: Grundaufgaben und Rechenvorteile37869/37885 stehen im additiven Kontext37863; Schrittzählen37950 und allgemeine Strategien37896/38021 belegen noch keine entsprechende multiplikative Produktableitung. FSP3/4 liefert den spezifischen Kernaufgabenbezug35442. Der kleinere Zahlenraum in1/2 ist nicht alleiniger Ausschlussgrund. Verdoppeln/Halbieren35437 ist positiv belegt, steht aber unter Einblick gewinnen in gerechtes Verteilen35435; dieser Operator und Kontext werden nicht mit Kennen35439 vermischt. Geometrisches Halbieren35434 hat einen anderen Gegenstand.35440 gleiche Summanden und35441/35443 Umkehrbeziehungen sind positive mathematische Nachbarbelege, keine automatische vollständige Halbierungsstrategie.35485 bleibt additiv.",
+      "operators": {
+        "gs": "Kennen (1881)",
+        "fsp": "Kennen (35439)"
+      },
+      "number_range": {
+        "gs_context_target_max": 100,
+        "gs_context_target_id": "page912_1884",
+        "fsp_target_row_max": null,
+        "fsp_didactic_max": 100,
+        "fsp_context_source": "page139_35415",
+        "doubling_input_product_max": 50,
+        "doubling_first_factors": [
+          2,
+          5
+        ],
+        "second_factor_min": 1,
+        "second_factor_max": 10,
+        "note": "GS bis100 ausdrücklich in1884. FSP bis100 aus übergreifendem Operationsziel35415 didaktisch abgeleitet, keine eigene Obergrenze in35442. Der zusätzliche Verdoppel-Ausschnitt verwendet ein Kernprodukt mit erstem Faktor2 oder5 und zweitem Faktor1 bis10 zweimal. Ausgangsprodukt höchstens50, verdoppelter erster Faktor4 oder10; sämtliche Zwischen-/Endergebnisse bis100. Keine vollständige GS-Zieldeckung."
+      },
+      "prerequisites": "Ein bekanntes korrektes Kernprodukt der2 oder5; zweites identisches Kernprodukt und Zusammenhang von Verdoppeln und Addition gleicher Werte.",
+      "uncertainty": "FSP-Kernaufgabenbezug wird didaktisch auf zwei gleiche Kernprodukte spezialisiert. Halbieren als Ableitungsstrategie ist gegenüber dem vorhandenen Mengen-/Grundvorstellungsbeleg noch gesondert zu entscheiden.",
+      "remaining": "Halbieren als Strategie zum Ableiten eines Produkts, Verdoppeln anderer Ausgangsprodukte, Änderung des zweiten Faktors, Division, Nullfälle und vollständige flexible Strategiewahl. Der positive FSP-Grundvorstellungsbeleg35437 bleibt erhalten, sichert aber noch nicht die gesamte Strategiezeile. Die additive Verdoppel-Anschlussfrage187057 bleibt gesondert offen.",
+      "planning_limits": "Didaktischer Ausschnitt: positive ganzzahlige Faktoren bis 10. Zwei bekannte Kernprodukte mit erstem Faktor aus 2, 5 und 10 und demselben zweiten Faktor von 1 bis 10 werden addiert oder als positive Differenz verbunden. Auch die Summe bzw. Differenz der ersten Faktoren muss zwischen 1 und 10 liegen. Beide Kernprodukte, der abgeleitete Faktor, das Zielprodukt und alle relevanten Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenprodukt oberhalb 100 auch dann, wenn das Endergebnis kleiner wäre. Keine Null-/Negativfälle, Division oder Bruchteile. Eigene Entwürfe fachlich prüfen. Für den zusätzlichen GS-Verdoppelbezug187082: zweimal dasselbe Kernprodukt mit erstem Faktor2 oder5 und zweitem Faktor1 bis10. Ausgangsprodukt höchstens50 und verdoppeltes Produkt bis100; kein Halbierschritt eingeschlossen."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "context_rows_reused": 2,
+    "newly_completed_rows": 0,
+    "new_cards": 0,
+    "updated_cards": 1,
+    "cards": 49,
+    "cross_band_cards": 13,
+    "source_links": 148,
+    "target_anchors": 146,
+    "audit_rows": 86,
+    "open_connection_questions": 10,
+    "documented_no_direct_connection_rows": 4
+  },
+  "continuation": "GS1/2 gegensinniges und gleichsinniges Verändern187083 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen.187082 ist auf MA-047 nur über Verdoppeln bekannter Kernprodukte der2/5 teilweise zugeordnet; Halbieren als multiplikative Strategie bleibt eigene offene Anschlussfrage. Bestehende Karten und zehn Anschlussfragen sowie alle Restumfänge erhalten;1885 nicht erneut zählen.",
+  "tests": {
+    "data_checks": "passed update-mathematik, check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope, check-learning-objects",
+    "preservation": "passed: only MA-047 updated;48 other cards,147 prior sources,9 prior questions and nonmath app payloads unchanged;1 target+2 context audit updates; index/dist identical",
+    "scope_check": "passed all20 selected doubling configurations: first core factor2 or5, second factor1..10, input product<=50, doubled first factor4 or10, doubled product<=100; existing general core-product limits preserved",
+    "browser_local": "passed full49-card mathematics run and disclosure checks for all362 cards; scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile",
+    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.351"
+  }
+}

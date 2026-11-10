@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-10.1",
+  "version": "MA-2026-11-10.2",
   "checked_on": "2026-11-10",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -992,6 +992,12 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen · Beziehung zwischen Multiplikation und Division",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35441",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187082",
+      "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Verdoppeln und Halbieren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187082",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -4774,15 +4780,16 @@
       "theme": "Produkte aus Kernaufgaben der 2, 5 und 10 ableiten",
       "app_area": "MA-page912_1751",
       "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Kernaufgaben der 2, 5 und 10 als Strategien bis 100 unter Kennen der Multiplikation und Division",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Kernaufgaben der 2, 5 und 10 als Strategien bis 100 unter Kennen der Multiplikation und Division · zusätzlicher Teilanschluss: Verdoppeln über zwei gleiche Kernprodukte (187082)",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Kernaufgaben der 2, 5 und 10 als Bemerkung zu Entdecken/Nutzen von Lösungswegen unter Kennen von Rechenhandlungen",
       "gs_operator": "Kennen",
       "fsp_operator": "Kennen",
-      "operator_relation": "GS: Kennen · FSP: Kennen. Gleiche Hauptoperatoren bedeuten keine vollständige inhaltliche Deckung. Stufenübergreifend GS1/2 → FSP3/4. GS1885 nennt Kernaufgaben der 2, 5 und 10 unter dem Strategieziel1884 und Hauptoperator Kennen1881. Die GS-Bemerkung zeigt additive und subtraktive Produktableitungen. FSP35442 nennt Entdecken und Nutzen verschiedener Lösungswege unter Kennen35439; die Kernaufgaben der 2, 5 und 10 stehen ausdrücklich in der Bemerkung. Die Karte konkretisiert daraus die Ableitung eines Produkts aus Summe oder positiver Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. Der konkrete Weg ist didaktische Auswahl, kein wörtlicher FSP-Algorithmus und kein eigener Hauptoperator. GS bis 100 ausdrücklich im Unterziel1884;1885 steht darunter. FSP35442 ohne eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Trotz gleichen ausgewählten Zahlenrahmens keine vollständige GS-Zieldeckung: Die Karte umfasst nur einen ausgewählten multiplikativen Ableitungsweg, nicht alle Aufgaben, Verfahren oder die Division. Offen: Division und Umkehrbeziehungen, Ableitungen mit mehr als zwei Kernprodukten, Nullfälle, weitere Faktorbereiche, andere Strategien sowie selbstständige flexible Wahl und Bewertung verschiedener Wege. Der Gesamtanspruch des GS-Strategieziels1884 bleibt unvollständig abgedeckt; Quadratzahlen1887 und folgende Strategiezeilen werden gesondert geprüft.",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Gleiche Hauptoperatoren bedeuten keine vollständige inhaltliche Deckung. Stufenübergreifend GS1/2 → FSP3/4. GS1885 nennt Kernaufgaben der 2, 5 und 10 unter dem Strategieziel1884 und Hauptoperator Kennen1881. Die GS-Bemerkung zeigt additive und subtraktive Produktableitungen. FSP35442 nennt Entdecken und Nutzen verschiedener Lösungswege unter Kennen35439; die Kernaufgaben der 2, 5 und 10 stehen ausdrücklich in der Bemerkung. Die Karte konkretisiert daraus die Ableitung eines Produkts aus Summe oder positiver Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. Der konkrete Weg ist didaktische Auswahl, kein wörtlicher FSP-Algorithmus und kein eigener Hauptoperator. GS bis 100 ausdrücklich im Unterziel1884;1885 steht darunter. FSP35442 ohne eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Trotz gleichen ausgewählten Zahlenrahmens keine vollständige GS-Zieldeckung: Die Karte umfasst nur einen ausgewählten multiplikativen Ableitungsweg, nicht alle Aufgaben, Verfahren oder die Division. MA-037 ergänzt GS187082 ausschließlich für Verdoppeln als zweimal dasselbe Kernprodukt der2 oder5, bei unverändertem zweitem Faktor1 bis10. Ausgangsprodukt höchstens50, verdoppeltes Produkt bis100. Halbieren und die vollständige GS-Zielzeile bleiben offen. Diese Spezialisierung ist didaktisch; FSP35442 benennt Kernaufgaben, keinen gesonderten Verdoppeloperator. Offen bleiben andere Kernproduktwege, die vollständige GS-Zieldeckung und Halbieren als Strategie zum Ableiten eines Produkts, Verdoppeln anderer Ausgangsprodukte, Änderung des zweiten Faktors, Division, Nullfälle und vollständige flexible Strategiewahl. Der positive FSP-Grundvorstellungsbeleg35437 bleibt erhalten, sichert aber noch nicht die gesamte Strategiezeile. Die additive Verdoppel-Anschlussfrage187057 bleibt gesondert offen.",
       "gs_target_ids": [
         "page912_1881",
         "page912_1884",
-        "page912_1885"
+        "page912_1885",
+        "page912_187082"
       ],
       "fsp_target_ids": [
         "page139_35439",
@@ -4794,7 +4801,8 @@
         "Q-MA-page912_1885",
         "Q-MA-page139_35439",
         "Q-MA-page139_35442",
-        "Q-MA-page139_35415"
+        "Q-MA-page139_35415",
+        "Q-MA-page912_187082"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -4805,19 +4813,19 @@
         "relation": "cross-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS1885 nennt Kernaufgaben der 2, 5 und 10 unter dem Strategieziel1884 und Hauptoperator Kennen1881. Die GS-Bemerkung zeigt additive und subtraktive Produktableitungen. FSP35442 nennt Entdecken und Nutzen verschiedener Lösungswege unter Kennen35439; die Kernaufgaben der 2, 5 und 10 stehen ausdrücklich in der Bemerkung. Die Karte konkretisiert daraus die Ableitung eines Produkts aus Summe oder positiver Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. Der konkrete Weg ist didaktische Auswahl, kein wörtlicher FSP-Algorithmus und kein eigener Hauptoperator. GS bis 100 ausdrücklich im Unterziel1884;1885 steht darunter. FSP35442 ohne eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Trotz gleichen ausgewählten Zahlenrahmens keine vollständige GS-Zieldeckung: Die Karte umfasst nur einen ausgewählten multiplikativen Ableitungsweg, nicht alle Aufgaben, Verfahren oder die Division. Offen: Division und Umkehrbeziehungen, Ableitungen mit mehr als zwei Kernprodukten, Nullfälle, weitere Faktorbereiche, andere Strategien sowie selbstständige flexible Wahl und Bewertung verschiedener Wege. Der Gesamtanspruch des GS-Strategieziels1884 bleibt unvollständig abgedeckt; Quadratzahlen1887 und folgende Strategiezeilen werden gesondert geprüft.",
+      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. GS1885 nennt Kernaufgaben der 2, 5 und 10 unter dem Strategieziel1884 und Hauptoperator Kennen1881. Die GS-Bemerkung zeigt additive und subtraktive Produktableitungen. FSP35442 nennt Entdecken und Nutzen verschiedener Lösungswege unter Kennen35439; die Kernaufgaben der 2, 5 und 10 stehen ausdrücklich in der Bemerkung. Die Karte konkretisiert daraus die Ableitung eines Produkts aus Summe oder positiver Differenz zweier bekannter Kernprodukte mit demselben zweiten Faktor. Der konkrete Weg ist didaktische Auswahl, kein wörtlicher FSP-Algorithmus und kein eigener Hauptoperator. GS bis 100 ausdrücklich im Unterziel1884;1885 steht darunter. FSP35442 ohne eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Trotz gleichen ausgewählten Zahlenrahmens keine vollständige GS-Zieldeckung: Die Karte umfasst nur einen ausgewählten multiplikativen Ableitungsweg, nicht alle Aufgaben, Verfahren oder die Division. MA-037 ergänzt GS187082 ausschließlich für Verdoppeln als zweimal dasselbe Kernprodukt der2 oder5, bei unverändertem zweitem Faktor1 bis10. Ausgangsprodukt höchstens50, verdoppeltes Produkt bis100. Halbieren und die vollständige GS-Zielzeile bleiben offen. Diese Spezialisierung ist didaktisch; FSP35442 benennt Kernaufgaben, keinen gesonderten Verdoppeloperator. Offen bleiben andere Kernproduktwege, die vollständige GS-Zieldeckung und Halbieren als Strategie zum Ableiten eines Produkts, Verdoppeln anderer Ausgangsprodukte, Änderung des zweiten Faktors, Division, Nullfälle und vollständige flexible Strategiewahl. Der positive FSP-Grundvorstellungsbeleg35437 bleibt erhalten, sichert aber noch nicht die gesamte Strategiezeile. Die additive Verdoppel-Anschlussfrage187057 bleibt gesondert offen.",
       "shared_object_suggestion": "Bekannte Produkte als Bausteine: Gleich große Gruppen lassen sich zusammenfassen oder voneinander abziehen.",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind leitet ein Produkt bis 100 aus der Summe oder positiven Differenz zweier bekannter Kernprodukte der 2, 5 oder 10 mit demselben zweiten Faktor ab und erläutert den Zusammenhang.",
-          "criterion": "Die Zerlegung des ersten Faktors passt zu den beiden Kernprodukten; deren Summe oder positive Differenz entspricht dem gesuchten Produkt. Alle Faktoren liegen zwischen 1 und 10, alle Kernprodukte sowie relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "goal": "Das Kind leitet ein Produkt bis 100 aus der Summe oder positiven Differenz zweier bekannter Kernprodukte der 2, 5 oder 10 mit demselben zweiten Faktor ab und erläutert den Zusammenhang. Der zusätzliche Verdoppel-Ausschnitt verwendet zweimal dasselbe Kernprodukt der 2 oder 5.",
+          "criterion": "Die Zerlegung des ersten Faktors passt zu den beiden Kernprodukten; deren Summe oder positive Differenz entspricht dem gesuchten Produkt. Alle Faktoren liegen zwischen 1 und 10, alle Kernprodukte sowie relevanten Zwischen- und Endergebnisse bleiben bis 100. Im Verdoppel-Ausschnitt bleibt der zweite Faktor gleich; das Ausgangsprodukt ist höchstens 50 und seine Verdopplung bleibt bis 100. Der erste Faktor wird von 2 auf 4 oder von 5 auf 10 verdoppelt.",
           "status": "Didaktische Konkretisierung eines Strategieausschnitts; GS-Grenze bis 100 ausdrücklich in1884."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind nutzt bis 100 zwei bekannte Kernprodukte der 2, 5 oder 10 mit demselben zweiten Faktor, um ein Produkt durch Addieren oder Bilden einer positiven Differenz abzuleiten.",
-          "criterion": "Die Verbindung der ersten Faktoren und die entsprechende Verbindung der Kernprodukte stimmen überein; das abgeleitete Produkt ist richtig. Alle Faktoren liegen zwischen 1 und 10, beide Kernprodukte sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100.",
+          "goal": "Das Kind nutzt bis 100 zwei bekannte Kernprodukte der 2, 5 oder 10 mit demselben zweiten Faktor, um ein Produkt durch Addieren oder Bilden einer positiven Differenz abzuleiten. Der zusätzliche Verdoppel-Ausschnitt verwendet zweimal dasselbe Kernprodukt der 2 oder 5.",
+          "criterion": "Die Verbindung der ersten Faktoren und die entsprechende Verbindung der Kernprodukte stimmen überein; das abgeleitete Produkt ist richtig. Alle Faktoren liegen zwischen 1 und 10, beide Kernprodukte sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100. Im Verdoppel-Ausschnitt bleibt der zweite Faktor gleich; das Ausgangsprodukt ist höchstens 50 und seine Verdopplung bleibt bis 100. Der erste Faktor wird von 2 auf 4 oder von 5 auf 10 verdoppelt.",
           "status": "Didaktische Konkretisierung aus dem Kernaufgabenbezug der Bemerkung35442; kein vollständiger Anspruch verschiedener Lösungswege. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
           "scope_status": "derived",
           "range_max": 100
@@ -4829,16 +4837,16 @@
       "fsp_scope": {
         "status": "derived",
         "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
-        "detail": "FSP35442 nennt verschiedene Lösungswege unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung, ohne eigene Obergrenze. Bis100 wird didaktisch aus Bandziel35415 zu Operationsvorstellungen abgeleitet. GS nennt bis 100 ausdrücklich in1884. Die Auswahl zweier positiver Kernprodukte mit Faktoren bis 10 begrenzt die Feinziele zusätzlich.",
+        "detail": "FSP35442 nennt verschiedene Lösungswege unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung, ohne eigene Obergrenze. Bis100 wird didaktisch aus Bandziel35415 zu Operationsvorstellungen abgeleitet. GS nennt bis 100 ausdrücklich in1884. Die Auswahl zweier positiver Kernprodukte mit Faktoren bis 10 begrenzt die Feinziele zusätzlich. Der Verdoppel-Ausschnitt187082 spezialisiert die Summe zweier Kernprodukte didaktisch auf zwei gleiche Produkte; keine neue ausdrückliche FSP-Zahlengrenze.",
         "max_value": 100,
         "source_ids": [
           "Q-MA-page139_35415"
         ],
-        "planning_rule": "Didaktischer Ausschnitt: positive ganzzahlige Faktoren bis 10. Zwei bekannte Kernprodukte mit erstem Faktor aus 2, 5 und 10 und demselben zweiten Faktor von 1 bis 10 werden addiert oder als positive Differenz verbunden. Auch die Summe bzw. Differenz der ersten Faktoren muss zwischen 1 und 10 liegen. Beide Kernprodukte, der abgeleitete Faktor, das Zielprodukt und alle relevanten Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenprodukt oberhalb 100 auch dann, wenn das Endergebnis kleiner wäre. Keine Null-/Negativfälle, Division oder Bruchteile. Eigene Entwürfe fachlich prüfen."
+        "planning_rule": "Didaktischer Ausschnitt: positive ganzzahlige Faktoren bis 10. Zwei bekannte Kernprodukte mit erstem Faktor aus 2, 5 und 10 und demselben zweiten Faktor von 1 bis 10 werden addiert oder als positive Differenz verbunden. Auch die Summe bzw. Differenz der ersten Faktoren muss zwischen 1 und 10 liegen. Beide Kernprodukte, der abgeleitete Faktor, das Zielprodukt und alle relevanten Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenprodukt oberhalb 100 auch dann, wenn das Endergebnis kleiner wäre. Keine Null-/Negativfälle, Division oder Bruchteile. Eigene Entwürfe fachlich prüfen. Für den zusätzlichen GS-Verdoppelbezug187082: zweimal dasselbe Kernprodukt mit erstem Faktor2 oder5 und zweitem Faktor1 bis10. Ausgangsprodukt höchstens50 und verdoppeltes Produkt bis100; kein Halbierschritt eingeschlossen."
       },
       "evidence_classification": {
-        "gs": "1885 ist Unterziel unter dem Strategieziel1884 mit ausdrücklichem Zahlenraum bis 100 und Hauptoperator Kennen1881. Summe/Differenz von Kernprodukten in GS-Bemerkung;1881/1884 nur Kontext der Kartenabdeckung.",
-        "fsp": "35442 ist Unterziel unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung. Die konkrete additive/subtraktive Ableitung zweier Kernprodukte ist didaktische Konkretisierung.",
+        "gs": "1885 ist Unterziel unter dem Strategieziel1884 mit ausdrücklichem Zahlenraum bis 100 und Hauptoperator Kennen1881. Summe/Differenz von Kernprodukten in GS-Bemerkung;1881/1884 nur Kontext der Kartenabdeckung. MA-037:187082 teilweise für den in seiner Bemerkung gezeigten Verdoppelweg ergänzt;1885 wird nicht erneut gezählt.",
+        "fsp": "35442 ist Unterziel unter Kennen35439; Kernaufgaben der 2, 5 und 10 stehen in der Bemerkung. Die konkrete additive/subtraktive Ableitung zweier Kernprodukte ist didaktische Konkretisierung. Addition zweier gleicher Kernprodukte als didaktische Verdoppelspezialisierung; kein behaupteter ausdrücklicher FSP-Strategieoperator Verdoppeln/Halbieren.",
         "context_only_gs_ids": [
           "page912_1881",
           "page912_1884"

@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-036",
+  "last_batch": "MA-037",
   "complete": false,
   "counts": {
     "cards": 49,
@@ -1820,10 +1820,23 @@
       "version": "2019",
       "target": "Beziehung zwischen Multiplikation und Division",
       "remarks": "Gruppierungen, Paarbildung, Bündelung Vergegenständlichen und Versprachlichen der Rechenoperationen multiplikative Handlungen durch Verteilen rückgängig machen"
+    },
+    "page912_187082": {
+      "id": "page912_187082",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 3,
+      "parent_target_id": "page912_1881",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187082",
+      "version": "2026",
+      "target": "Verdoppeln und Halbieren",
+      "remarks": "4 · 9 = 2 · 9 + 2 · 9"
     }
   },
-  "next_id": "page912_187082",
-  "next_step": "GS1/2 Verdoppeln und Halbieren als multiplikative Strategie187082 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen, danach gegensinniges/gleichsinniges Verändern187083.187078/187079/187081 sind als gemeinsame Vierergruppe auf MA-049 teilweise geprüft;187080 bereits MA-035. Keine dieser Zeilen erneut als neue Zeile zählen. Neun Anschlussfragen einschließlich Aufteilen/Resten und alle Restumfänge erhalten.",
+  "next_id": "page912_187083",
+  "next_step": "GS1/2 gegensinniges und gleichsinniges Verändern187083 unter1884/Kennen1881 gegen beide FSP-Bänder prüfen.187082 ist auf MA-047 nur über Verdoppeln bekannter Kernprodukte der2/5 teilweise zugeordnet; Halbieren als multiplikative Strategie bleibt eigene offene Anschlussfrage. Bestehende Karten und zehn Anschlussfragen sowie alle Restumfänge erhalten;1885 nicht erneut zählen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -1950,7 +1963,8 @@
         "page139_37952",
         "page139_38021"
       ],
-      "decision": "FSP 1/2: Rechenvorteile bis 20 (37885) gehören zum Additions-/Subtraktionskontext 37863; die Grundaufgaben bis 10 in37869 sind keine Multiplikationskernaufgaben. Schrittzählen in2er-/5er-Schritten (37950) ist ein verwandter Vorläufer, belegt aber noch keine Produktableitung mit Kernaufgaben der2,5,10. Allgemeine Sach-/Knobelstrategien (37896/38021) benennen diesen spezifischen Weg nicht. FSP3/4 nennt in35442 Kernaufgaben der2,5,10 ausdrücklich als Bemerkung zum Entdecken/Nutzen von Lösungswegen. Der Inhalt, nicht allein ein größerer Zahlenraum, begründet den stufenübergreifenden Anschluss. Kein pauschaler Nichtanschluss für mathematische Strategien in FSP1/2."
+      "decision": "FSP 1/2: Rechenvorteile bis 20 (37885) gehören zum Additions-/Subtraktionskontext 37863; die Grundaufgaben bis 10 in37869 sind keine Multiplikationskernaufgaben. Schrittzählen in2er-/5er-Schritten (37950) ist ein verwandter Vorläufer, belegt aber noch keine Produktableitung mit Kernaufgaben der2,5,10. Allgemeine Sach-/Knobelstrategien (37896/38021) benennen diesen spezifischen Weg nicht. FSP3/4 nennt in35442 Kernaufgaben der2,5,10 ausdrücklich als Bemerkung zum Entdecken/Nutzen von Lösungswegen. Der Inhalt, nicht allein ein größerer Zahlenraum, begründet den stufenübergreifenden Anschluss. Kein pauschaler Nichtanschluss für mathematische Strategien in FSP1/2.",
+      "doubling_follow_up": "FSP1/2: Grundaufgaben und Rechenvorteile37869/37885 stehen im additiven Kontext37863; Schrittzählen37950 und allgemeine Strategien37896/38021 belegen noch keine entsprechende multiplikative Produktableitung. FSP3/4 liefert den spezifischen Kernaufgabenbezug35442. Der kleinere Zahlenraum in1/2 ist nicht alleiniger Ausschlussgrund. Verdoppeln/Halbieren35437 ist positiv belegt, steht aber unter Einblick gewinnen in gerechtes Verteilen35435; dieser Operator und Kontext werden nicht mit Kennen35439 vermischt."
     },
     "MA-048": {
       "same_band_candidate_ids": [
@@ -1980,7 +1994,7 @@
       "decision": "FSP 1/2: Vertauschen und Umkehraufgaben in37885 stehen im Additions-/Subtraktionskontext37863. Sie belegen keine multiplikative Aufgabenfamilie. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber kein hinreichend konkreter Beleg für diese vier Multiplikations-/Divisionsbeziehungen. FSP3/4 nennt in35441 die Beziehung von Multiplikation und Division und in der Bemerkung35442 ausdrücklich Vertauschen, Umkehraufgaben und Vierergruppen. Dieser spezifische Inhalt begründet den stufenübergreifenden Anschluss; nicht allein der größere Zahlenraum."
     }
   },
-  "last_review_file": "review_batch_036.json",
+  "last_review_file": "review_batch_037.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2072,6 +2086,20 @@
         "page139_35435",
         "page139_35438",
         "page139_35441",
+        "page139_35443"
+      ]
+    },
+    {
+      "gs_id": "page912_187082",
+      "scope": "Halbieren als multiplikative Strategie zum Ableiten eines Produkts.",
+      "status": "offen",
+      "reason": "FSP35437 belegt Halbieren unter Einblick gewinnen in gerechtes Verteilen;35441/35442/35443 belegen Beziehungen und Rechenwege unter Kennen. Ob der Grundvorstellungsbeleg einen gesonderten begrenzten Halbierungs-Strategieanschluss trägt, bleibt zu klären. Keine pauschale Nichtanschlussentscheidung und kein Ausschluss wegen Zahlenraum.",
+      "candidate_ids": [
+        "page139_35435",
+        "page139_35437",
+        "page139_35439",
+        "page139_35441",
+        "page139_35442",
         "page139_35443"
       ]
     }
@@ -2287,6 +2315,11 @@
       "gs_id": "page912_187081",
       "scope": "Familien mit gleichen Faktoren, Null-/Einsfälle, andere Faktorbereiche, selbstständiges Erschließen aus beliebigen bekannten Familiengliedern und vollständige flexible Strategiewahl. Es wird kein vollständiger Abschluss des Strategieziels1884 behauptet.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187082",
+      "scope": "Halbieren als Strategie zum Ableiten eines Produkts, Verdoppeln anderer Ausgangsprodukte, Änderung des zweiten Faktors, Division, Nullfälle und vollständige flexible Strategiewahl. Der positive FSP-Grundvorstellungsbeleg35437 bleibt erhalten, sichert aber noch nicht die gesamte Strategiezeile. Die additive Verdoppel-Anschlussfrage187057 bleibt gesondert offen.",
+      "status": "offen"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2305,7 +2338,7 @@
       "page912_1881"
     ],
     "rows": 86,
-    "note": "Weiterhin86 inventarisierte Zeilen. MA-036 prüft187078/187079/187081 gemeinsam teilweise über MA-049;1881/1884 wiederverwendet und nicht erneut gezählt. 49 Karten, davon13 stufenübergreifend; neun Anschlussfragen. Fortsetzung187082. Keine vollständige Zieldeckung;187080 bleibt aus MA-035 unverändert.",
+    "note": "Weiterhin86 inventarisierte Zeilen und49 Karten (13 stufenübergreifend). MA-037 ergänzt eine teilweise geprüfte GS-Zeile187082 auf bestehender MA-047;1885 und Kontext1881/1884 nicht erneut gezählt. Zehn Anschlussfragen einschließlich Halbieren als multiplikativer Strategie. Fortsetzung187083.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

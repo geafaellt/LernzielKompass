@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-036
+# Mathematik-Abgleich · MA-037
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Verdoppeln/Halbieren als multiplikativer Strategie187082, danach187083. [MA-036](review_batch_036.json) prüft187078/187079/187081 gemeinsam teilweise über MA-049.187080 bleibt aus MA-035 geprüft. Neun Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei gegensinnigem/gleichsinnigem Verändern187083. [MA-037](review_batch_037.json) ergänzt187082 nur für Verdoppeln auf bestehender MA-047. Halbieren bleibt eigene offene Anschlussfrage; zehn Anschlussfragen und alle Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -445,3 +445,14 @@ GS bis100 ausdrücklich in1884; FSP bis100 didaktisch aus Bandziel35415. Der aus
 Alle48 bisherigen Karten unverändert. Drei teilweise geprüfte Inhaltszeilen, eine gemeinsame neue Karte; Kontextzeilen nicht erneut gezählt. 49 Karten (36 stufenbandpassend, dreizehn stufenübergreifend),147 Quellenlinks/145 Karten-Zielanker plus zwei Kontextquellen; weiterhin86 Auditzeilen. Neun Anschlussfragen und vier Entscheidungen ohne hinreichend belegten direkten Anschluss. Fortsetzung187082/187083; Nachweise im Prüfpaket.
 
 Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. 72 geordnete Faktorkombinationen bilden36 verschiedene Familien; beide Divisionen restfrei, sämtliche Werte bis100. Hinweise/Quellen aller362 Karten im Browser geprüft. Erster Mathematiklauf brach beim Scrollen zu einem Übernahmebutton der unveränderten MA-028 ab; unveränderter vollständiger Wiederholungslauf aller49 Karten bestanden. Keine Assertions ausgelassen. Eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Testbrowser ohne Scrollanimation; Animation selbst nicht bewertet. App1.350 auf main veröffentlicht (Commit `c135ae433c9ef76713d9c8b5c340e04d7ea18a75`). [Pages-Lauf 42735574633](https://github.com/geafaellt/LernzielKompass/actions/runs/42735574633) erfolgreich. Öffentliche HTML-Datei bytegleich (SHA-256 `3dfca89645b3badac3b3439e5d4bb9276e78f05bd64394f55eb64b34aadb2768`). Gezielte öffentliche Prüfung von MA-049 in beiden GS-Jahrgängen bestanden, einschließlich Ziele/Zahlenraum/Output, Quellen, leerer Aufgaben-/Hilfsmittelfelder, erhaltener Entwürfe und ergänzender Fachwechsel-/Mobilprüfungen. **Keine vollständige öffentliche Browserfreigabe:** Drei Gesamtläufe brachen bei Scroll-/Klickaktionen mit Zeitlimit ab; auch ein zusätzlicher Test ohne programmgesteuerte Scrollanimation beseitigte das Problem nicht. Ursache nicht abschließend geklärt. Lokal ist der vollständige49-Karten-Wiederholungslauf bestanden. Details und begrenzter Live-Prüfumfang im [Prüfpaket MA-036](review_batch_036.json).
+
+
+## MA-037 · Verdoppeln über gleiche Kernprodukte · App 1.351 · 10.11.2026
+
+GS187082 wird teilweise auf bestehender MA-047 ergänzt: zweimal dasselbe Kernprodukt der2 oder5, zweiter Faktor1 bis10. Der FSP-Kernaufgabenbezug35442 unter Kennen35439 trägt diese didaktische Spezialisierung. Keine neue Karte und keine erneute Zählung von1885. MA-011 und MA-044 behalten ihren eigenen Operatoren-/Grundvorstellungskontext.
+
+GS bis100 ausdrücklich in1884; FSP bis100 didaktisch aus35415. Ausgangsprodukt beim Verdoppeln höchstens50, Ergebnis bis100; alle Zwischenwerte im Rahmen. Der übrige bestehende Kernproduktweg bleibt erhalten. Halbieren als multiplikative Strategie ist als neue Anschlussfrage offen; der positive FSP-Halbierungsbeleg35437 wird weder verworfen noch ungeprüft als vollständiger Strategieanschluss eingesetzt. Keine Aufgaben/Hilfsmittel vorgeschlagen.
+
+Eine weitere teilweise geprüfte Inhaltszeile,49 Karten (36 stufenbandpassend,13 stufenübergreifend),148 Quellenlinks/146 Zielanker plus zwei Kontextquellen,86 Auditzeilen. Alle übrigen48 Karten und neun bisherigen Anschlussfragen unverändert; nun zehn Fragen. Fortsetzung187083.
+
+Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. Alle20 ausgewählten Verdoppelkonfigurationen halten Ausgangsprodukt50 und Ergebnis100 ein. Vollständiger lokaler Mathematik-Browsertest aller49 Karten und Hinweise/Quellen aller362 Karten bestanden; eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Scrollanimation im Testbrowser deaktiviert, nicht bewertet. Veröffentlichung und gezielte Live-Prüfung folgen im Prüfpaket.
