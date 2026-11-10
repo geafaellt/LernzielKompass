@@ -459,11 +459,22 @@
     "scope_check": "passed all72 ordered unequal factor combinations2..10, representing36 unique unordered families without duplicate family count; multiplication commutes, both inverse divisions exact, all relevant values<=100",
     "browser_local": "passed complete rerun of all49 mathematics cards: scopes in cards/goals/output, source links, goal/shared-object adoption, empty tasks/aids, preserved drafts, subject isolation and mobile; disclosure checks passed all362 cards",
     "browser_initial_failure": "First mathematics run timed out at unchanged MA-028 while scrolling to visible/enabled/stable #applyFSP. Unchanged complete runner repeated successfully; no assertions skipped. No claim the first run passed.",
-    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed."
+    "browser_environment": "Temporary Chromium runner disables smooth scrolling, GPU, CalculateNativeWinOcclusion and background throttling; initial page brought to front. Original scripts, normal clicks and assertions unchanged. Functional checks; scrolling animation itself not assessed. For public attempt3 and the focused test, page initialization also overrides window.scrollTo options to instant in the test page only; production app unchanged. This did not resolve the full-run timeout. Focused report explicitly names its limited scope.",
+    "browser_live_full": "NOT PASSED: three complete public runs aborted by60s Playwright timeouts. Attempt1 at unchanged MA-004 #next during scrolling; attempt2 at unchanged MA-028 #prev during scrolling; attempt3 (programmatic scroll made instant in test environment) at MA-049 #next while performing click. Cause not conclusively established. No claim of a successful full public run.",
+    "browser_live_targeted": "PASSED: focused public MA-049 checks in both GS grades1/2, scope on card/goals/output, all source links, shared-object/goal/criterion adoption, empty tasks/aids, preserved drafts; original follow-on draft/isolation/reload/mobile checks also retained. Temporary copy limits the per-card loop to MA-049; not a full49-card public test."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.350"
+    "status": "published_byte_verified_targeted_live_passed_full_live_incomplete",
+    "app_version": "1.350",
+    "app_commit": "c135ae433c9ef76713d9c8b5c340e04d7ea18a75",
+    "pages_run": 42735574633,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42735574633",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "3dfca89645b3badac3b3439e5d4bb9276e78f05bd64394f55eb64b34aadb2768",
+    "verified_date": "2026-11-10",
+    "limitation": "All49 cards passed locally on rerun; public MA-049 focused check passed; full public49-card check remains incomplete due repeated click/scroll timeouts."
   },
   "trigger_date": "2026-11-09"
 }
