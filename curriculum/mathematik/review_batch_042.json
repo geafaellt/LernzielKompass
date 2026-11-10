@@ -355,7 +355,7 @@
     "open_connection_questions": 11,
     "documented_no_direct_connection_rows": 5
   },
-  "continuation": "Zuerst ausstehende Pages-Veröffentlichung von App1.354 prüfen: erster Lauf42841736581 nach Synchronisierungszeitlimit abgebrochen, Wiederholung zuletzt queued; Live zuletzt1.353. Neue Appbytes und MA-051 öffentlich prüfen, Nachweis ergänzen. Danach: GS1/2 Stellen mathematisch bearbeitbarer Fragen187090 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Modellieren187091.187089 auf MA-051 nur für die Umkehrverknüpfung bekannte Multiplikation → Division durch2/5/10 teilweise geprüft.51 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten;187088 nicht erneut zählen.",
+  "continuation": "Veröffentlichungsnachprüfung in MA-043 erfolgreich abgeschlossen; anschließend187090 prüfen, danach187091. Historische Fehlversuche stehen im Veröffentlichungsnachweis.",
   "tests": {
     "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
     "preservation": "passed:only MA-051 changed;50 other cards,152 prior sources,11 questions and nonmath app code/data unchanged;187088 not recounted;1 target+1 context audit update plus3 inventory-only rows;index/dist identical",
@@ -363,10 +363,10 @@
     "browser_local": "passed full51-card run:scopes in card/goals/output,source links,goal/shared-object adoption,empty task/aid fields,retained drafts,subject isolation,reload,mobile",
     "browser_disclosures": "passed all364 cards:collapsed source and boundary evidence,operator help,keyboard,drafts,mobile320/390",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front. Original assertions and ordinary clicks unchanged. Scroll animation itself not assessed.",
-    "browser_live": "not run for1.354:public site still serves1.353;targeted MA-051 live check remains required after deployment. Full51-card local run and364-card disclosures passed."
+    "browser_live": "passed targeted MA-051 in GS grades1/2 with source/scope/goal adoption, empty task/aid fields, teacher-draft preservation, subject isolation, reload and mobile; full51-card live run not repeated"
   },
   "publication": {
-    "status": "main_published_pages_timeout_retry_queued",
+    "status": "verified_after_later_evidence_commit_deployment",
     "app_version": "1.354",
     "app_commit": "36f5b012480946d013a0ea3d1c3cb222596fb858",
     "pages_run": 42841736581,
@@ -390,6 +390,19 @@
     "live_byte_identical_to_target": false,
     "live_sha256": "3bf8f48be31038c6bbe17f77df67fc22e34266a6dbb424c5197dd9a3134658f0",
     "target_sha256": "ee66b1dccfab16db55ac772ec0750df41ce36119da0afc9d8f988e6f7f5addd1",
-    "required_follow_up": "First verify Pages deployment and actual app1.354 bytes,then targeted public MA-051 browser test before marking publication verified. Source changes are on main;public1.354 is not verified."
+    "required_follow_up": "Resolved by recovery record; original failure and retry observations retained as history.",
+    "recovery": {
+      "checked_on": "2026-11-10",
+      "status": "verified",
+      "deployment_commit": "4ac792eb48633f0ced98ce98f5655aeecda2efbb",
+      "pages_run": 42887376050,
+      "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42887376050",
+      "pages_conclusion": "success",
+      "live_app_version": "1.354",
+      "live_byte_identical_to_target": true,
+      "live_sha256": "ee66b1dccfab16db55ac772ec0750df41ce36119da0afc9d8f988e6f7f5addd1",
+      "browser_live": "passed targeted MA-051 in GS grades1/2 with source/scope/goal adoption, empty task/aid fields, teacher-draft preservation, subject isolation, reload and mobile; full51-card live run not repeated",
+      "history": "First deployment timed out; requested retry was last observed queued. The later evidence-commit deployment published the same tested app bytes successfully."
+    }
   }
 }

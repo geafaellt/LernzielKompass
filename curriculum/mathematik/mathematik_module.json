@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-10.5",
+  "version": "MA-2026-11-10.6",
   "checked_on": "2026-11-10",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1027,6 +1027,18 @@
       "id": "Q-MA-page912_187089",
       "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Nutzen von Strategien zur Vernetzung",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187089",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1911",
+      "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Einblick gewinnen in das Analysieren und Mathematisieren von Texten und Spielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1911",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187090",
+      "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Stellen von Fragen, die mit mathematischen Mitteln bearbeitet werden können",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187090",
       "version": "2026"
     }
   ],
@@ -5196,6 +5208,83 @@
         "fsp": "35443 ist Unterziel unter Kennen35439; Zuordnung von Multiplikations-/Divisionsgleichungen in seiner Bemerkung. Kernaufgaben2,5,10 als ergänzender Bemerkungsbeleg35442. Keine Übernahme des additiven Gedächtnisauftrags37869. MA-042:35441 als verbindlicher Beziehungsbeleg ergänzt; der konkrete Ableitungsweg wird durch die Umkehrzuordnung35443 gestützt.",
         "context_only_gs_ids": [
           "page912_187087"
+        ]
+      }
+    },
+    {
+      "id": "MA-052",
+      "subject": "Mathematik",
+      "theme": "Mathematische Fragen zu einer Gesamtanzahl",
+      "app_area": "MA-page912_1751",
+      "status": "Vorbereitender Teilanschluss · Fragen stellen und erkennen · FSP-Beleg aus Bemerkung",
+      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich2: Zahl und Operation · Stellen mathematisch bearbeitbarer Fragen unter Einblick gewinnen in das Analysieren und Mathematisieren von Texten und Spielen; Ausschnitt Gesamtanzahl",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.1/2 · Lernbereich2: Die Welt um mich herum · Herausfinden wesentlicher Angaben und Rechenoperation unter Einblick gewinnen in Sachaufgabenstrategien; Erkennen einer Frage als Bemerkungsbeleg",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Einblick gewinnen. Stufenbandpassender vorbereitender Teilanschluss: GS1/2 stellt eine Frage zur gesuchten Gesamtanzahl; FSP1/2 erkennt die entsprechende Frage und die dafür wesentlichen Angaben. Beide Hauptoperatoren lauten Einblick gewinnen (GS1911, FSP37896). Erkennen einer Frage steht in der FSP-Bemerkung zu37898, nicht als eigener Zieloperator. Die FSP-Zielzeile betrifft wesentliche Angaben und Rechenoperation. Die Eingrenzung auf zwei zusammengehörige, überschneidungsfreie Teilanzahlen und deren Gesamtanzahl ist didaktisch. Die Zielzeilen nennen keine eigene Zahlenraumobergrenze: FSP bis 20 wird aus dem übergreifenden Bandziel37739 abgeleitet; für das GS-Feinziel wird ebenfalls bis 20 gewählt. Diese Auswahl ist keine amtliche GS-Höchstgrenze. Keine vollständige GS-Zieldeckung; Fragenstellen wird dem FSP1/2-Beleg nicht zugeschrieben. Weitere Fragearten und Rechenoperationen, Spiele, über- und unterbestimmte sowie unrealistische Situationen, selbstständiges Entwickeln mehrerer Fragestellungen und die vollständige GS-Zieldeckung. FSP1/2-Erkennen einer Frage ist kein Nachweis selbstständigen Fragenstellens. Der weiterführende positive FSP3/4-Bezug35505/35508 bleibt als mögliche Erweiterung dokumentiert; Modellieren187091 folgt gesondert.",
+      "gs_target_ids": [
+        "page912_1911",
+        "page912_187090"
+      ],
+      "fsp_target_ids": [
+        "page139_37896",
+        "page139_37898"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1911",
+        "Q-MA-page912_187090",
+        "Q-MA-page139_37896",
+        "Q-MA-page139_37898",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender vorbereitender Teilanschluss: GS1/2 stellt eine Frage zur gesuchten Gesamtanzahl; FSP1/2 erkennt die entsprechende Frage und die dafür wesentlichen Angaben. Beide Hauptoperatoren lauten Einblick gewinnen (GS1911, FSP37896). Erkennen einer Frage steht in der FSP-Bemerkung zu37898, nicht als eigener Zieloperator. Die FSP-Zielzeile betrifft wesentliche Angaben und Rechenoperation. Die Eingrenzung auf zwei zusammengehörige, überschneidungsfreie Teilanzahlen und deren Gesamtanzahl ist didaktisch. Die Zielzeilen nennen keine eigene Zahlenraumobergrenze: FSP bis 20 wird aus dem übergreifenden Bandziel37739 abgeleitet; für das GS-Feinziel wird ebenfalls bis 20 gewählt. Diese Auswahl ist keine amtliche GS-Höchstgrenze. Keine vollständige GS-Zieldeckung; Fragenstellen wird dem FSP1/2-Beleg nicht zugeschrieben. Weitere Fragearten und Rechenoperationen, Spiele, über- und unterbestimmte sowie unrealistische Situationen, selbstständiges Entwickeln mehrerer Fragestellungen und die vollständige GS-Zieldeckung. FSP1/2-Erkennen einer Frage ist kein Nachweis selbstständigen Fragenstellens. Der weiterführende positive FSP3/4-Bezug35505/35508 bleibt als mögliche Erweiterung dokumentiert; Modellieren187091 folgt gesondert.",
+      "shared_object_suggestion": "Was bekannt ist und was gesucht wird: Teilanzahlen und Gesamtanzahl in einer Sachsituation.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind formuliert zu einer überschaubaren Sachsituation eine mathematisch bearbeitbare Frage nach der Gesamtanzahl zweier zusammengehöriger Teilmengen im didaktisch gewählten Zahlenraum bis 20.",
+          "criterion": "Die Frage bezeichnet die gesuchte Gesamtanzahl und ist durch Addition der beiden vorhandenen Teilanzahlen beantwortbar. Die Teilmengen sind gleichartig und überschneidungsfrei; beide Angaben, die gesuchte Summe sowie relevante Zwischen- und Endergebnisse bleiben bis 20. Verwendet werden nur nichtnegative ganze Anzahlen.",
+          "status": "Didaktische Konkretisierung von Einblick gewinnen; eine additive Frageart. Bis20 gewählt, keine eigene Obergrenze der GS-Zielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt in einer überschaubaren Sachsituation eine vorliegende Frage nach der Gesamtanzahl zweier Teilmengen und benennt die dafür wesentlichen Teilanzahlen sowie die passende Rechenoperation im Zahlenraum bis 20.",
+          "criterion": "Die erkannte Frage bezieht sich auf die Gesamtanzahl; die beiden relevanten Teilanzahlen und Addition als passende Rechenoperation sind zutreffend zugeordnet. Beide Teilanzahlen, die gesuchte Summe sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 20; nur nichtnegative ganze Anzahlen gleichartiger, überschneidungsfreier Teilmengen. Eigenständiges Fragenformulieren und vollständiges Ausrechnen werden nicht zusätzlich vorausgesetzt.",
+          "status": "Didaktische Konkretisierung von37898 mit Bemerkungsbeleg Erkennen einer Frage; Hauptoperator Einblick gewinnen. Zahlenrahmen aus übergreifendem Bandziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "37896/37898 nennen keine eigene numerische Obergrenze. Bandziel37739 nennt Vorstellungen und Addition/Subtraktion bis20. Die additive Gesamtanzahlfrage wird didaktisch darauf begrenzt. GS1911/187090 ebenfalls ohne eigene Obergrenze; das GS-Feinziel verwendet denselben gewählten Rahmen bis20, ohne den GS-Lehrplan darauf zu beschränken.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Didaktische Planungsgrenze: zwei nichtnegative ganze Teilanzahlen gleichartiger Objekte und ihre Gesamtanzahl bis 20; Teilmengen überschneiden sich nicht. Beide Angaben, die gesuchte Summe sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 20, auch wenn das Ergebnis im Feinziel nicht ausgerechnet werden muss. Keine Subtraktions-, Multiplikations- oder Divisionsfrage, keine Einheitenumrechnung und keine größeren Zwischenwerte. Der Zahlenrahmen begrenzt den mathematischen Sachverhalt, nicht Wortzahl oder Sprachleistung. Lehrkräfte bestimmen konkrete Situation, Fragen, Aufgaben und Hilfsmittel; eigene Entwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187090 ist verbindliches Unterziel unter Einblick gewinnen1911; Alltagsthemen und über-/unterbestimmte bzw. unrealistische Aufgaben stehen in der Bemerkung.1911 ist nur Hauptzielkontext.",
+        "fsp": "37898 ist verbindliches Unterziel unter Einblick gewinnen37896. Erkennen einer Frage steht in der Bemerkung37898. Frage zur Gesamtanzahl und sprachliche Konkretisierung sind didaktisch ausgewählt; kein ausdrücklicher FSP1/2-Auftrag zum selbstständigen Stellen einer Frage.",
+        "fsp_remark_anchors": [
+          "page139_37898"
+        ],
+        "context_only_gs_ids": [
+          "page912_1911"
         ]
       }
     }

@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-042
+# Mathematik-Abgleich · MA-043
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einundfünfzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050 und MA-051 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Zweiundfünfzig Karten dokumentieren begrenzte Anschlüsse. Siebenunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050 und MA-051 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,9 +15,9 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-**Vor der fachlichen Fortsetzung: Veröffentlichung von App1.354 und öffentliche MA-051-Prüfung nachholen. Pages ist nach Zeitlimit abgebrochen; Wiederholung zuletzt in Warteschlange, öffentlich noch1.353.**
+App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei mathematisch bearbeitbaren Fragen187090 unter Einblick gewinnen1911. [MA-042](review_batch_042.json) ergänzt187089 als Umkehrverknüpfung auf MA-051.51 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung beim Modellieren187091 unter Einblick gewinnen1911. [MA-043](review_batch_043.json) ergänzt MA-052 zum Stellen bzw. Erkennen einer Gesamtanzahlfrage.52 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -503,3 +503,14 @@ Bis100 auf GS-Seite didaktisch gewählt, auf FSP-Seite aus Bandziel35415 abgelei
 Feinziele/Kriterien und Geltungsbereich benennen die Richtung ausdrücklich. Bestehende Faktorwahl und Grenze bis100 einschließlich Zwischen-/Endwerte bleiben bestehen; GS-Grenze didaktisch gewählt, FSP-Grenze aus Bandziel35415 abgeleitet. Weitere Strategien, Umkehrrichtung, vollständige Familien und freie Strategiewahl bleiben offen.187088 nicht erneut gezählt. Alle übrigen50 Karten unverändert.
 
 51 Karten (36 stufenbandpassend,15 stufenübergreifend),153 Quellen/151 Zielanker plus zwei Kontextquellen;92 inventarisierte Zeilen, elf Anschlussfragen.1911/187090/187091 nur inventarisiert, nicht fachlich abgeschlossen. Fortsetzung187090. Daten-/Geltungsbereichsprüfungen und Bestandsschutz bestanden. Alle30 ausgewählten Umkehrverknüpfungen halten die bestehende Grenze100 ein. Vollständiger lokaler51-Karten-Browsertest und Hinweise/Quellen aller364 Karten bestanden; eigene Entwürfe erhalten, Aufgaben-/Hilfsmittelfelder leer. Änderungen auf main gesichert (36f5b012480946d013a0ea3d1c3cb222596fb858). [Pages-Lauf42841736581](https://github.com/geafaellt/LernzielKompass/actions/runs/42841736581) scheiterte beim Synchronisieren nach zehn Minuten; Aufbau erfolgreich. Wiederholung angenommen, am10.11.2026 um15:58UTC weiterhin queued. Öffentlich zuletzt App1.353, SHA-256 3bf8f48be31038c6bbe17f77df67fc22e34266a6dbb424c5197dd9a3134658f0. App1.354 und die öffentliche MA-051-Prüfung sind noch nicht bestätigt. Erster Fortsetzungsschritt: Veröffentlichung reparieren/prüfen und öffentliche Browserprüfung nachholen; erst danach187090. Details im Prüfpaket.
+
+
+## MA-043 · App 1.355 · 10.11.2026
+
+Die Veröffentlichung von App1.354 wurde über den erfolgreichen [Pages-Lauf42887376050](https://github.com/geafaellt/LernzielKompass/actions/runs/42887376050) nachgeprüft: Live-Datei bytegleich, gezielte öffentliche MA-051-Prüfung in beiden GS-Jahrgängen bestanden. Der vollständige51-Karten-Durchlauf wurde öffentlich nicht wiederholt. Frühere Fehlversuche bleiben im MA-042-Nachweis erhalten.
+
+MA-052 verbindet das GS-Fragenstellen187090 mit dem FSP1/2-Erkennen einer Frage und wesentlicher Angaben37898. Gemeinsamer Gegenstand sind bekannte Teilanzahlen und die gesuchte Gesamtanzahl; beide Hauptoperatoren sind Einblick gewinnen. Erkennen ist ein Bemerkungsbeleg und wird nicht als selbstständiges Fragenstellen ausgegeben. FSP3/4-Fragenbezüge35505/35508 sind ausdrücklich positiv dokumentiert; der passende1/2-Vorläufer wird für diesen differenzierten Ausschnitt bevorzugt. MA-029 bleibt als anderer Gegenstand unter GS-Kennen unverändert.
+
+FSP bis20 ist didaktisch aus dem Bandziel37739 abgeleitet; GS bis20 ebenfalls didaktisch gewählt, keine amtliche Zielzeilenobergrenze. Beide Teilanzahlen, gesuchte Summe und relevante Zwischen-/Endwerte sind begrenzt. Keine konkreten Aufgaben oder Hilfsmittel werden vorgegeben. Rest: andere Fragearten/Operationen, Spiele und unvollständige oder unrealistische Situationen sowie vollständige GS-Zieldeckung.52 Karten (37 passend,15 stufenübergreifend),155 Quellen,153 Zielanker;92 Inventurzeilen bleiben92, eine davon jetzt teilweise geprüft. Elf Anschlussfragen unverändert. Fortsetzung187091.
+
+Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle52 Mathematikkarten lokal im Browser geprüft; ergänzende Quellen-/Hinweisprüfung über alle365 Karten bestanden. Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Entwürfe und mobile Ansichten bestätigt. Veröffentlichung und öffentliche Prüfung von MA-052 stehen noch aus.

@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-042",
+  "last_batch": "MA-043",
   "complete": false,
   "counts": {
-    "cards": 51,
+    "cards": 52,
     "cross_band": 15
   },
   "source_plans": {
@@ -1898,10 +1898,36 @@
       "version": "2026",
       "target": "Nutzen von Strategien zur Vernetzung",
       "remarks": ""
+    },
+    "page912_1911": {
+      "id": "page912_1911",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 1,
+      "parent_target_id": "page912_1911",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1911",
+      "version": "2026",
+      "target": "Einblick gewinnen in das Analysieren und Mathe­matisieren von Texten und Spielen",
+      "remarks": "⇒ Methodenkompetenz"
+    },
+    "page912_187090": {
+      "id": "page912_187090",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1911",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187090",
+      "version": "2026",
+      "target": "Stellen von Fragen, die mit mathemati­schen Mitteln bearbeitet werden können",
+      "remarks": "lebensweltlichen Bezug herstellen Wetter, Verkehr, Schule, Gesundheit überbestimmte, unterbestimmte und unrealistische Aufgaben"
     }
   },
-  "next_id": "page912_187090",
-  "next_step": "Zuerst ausstehende Pages-Veröffentlichung von App1.354 prüfen: erster Lauf42841736581 nach Synchronisierungszeitlimit abgebrochen, Wiederholung zuletzt queued; Live zuletzt1.353. Neue Appbytes und MA-051 öffentlich prüfen, Nachweis ergänzen. Danach: GS1/2 Stellen mathematisch bearbeitbarer Fragen187090 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Modellieren187091.187089 auf MA-051 nur für die Umkehrverknüpfung bekannte Multiplikation → Division durch2/5/10 teilweise geprüft.51 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten;187088 nicht erneut zählen.",
+  "next_id": "page912_187091",
+  "next_step": "GS1/2 Modellieren187091 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. Bestehende MA-029 (Bildsituation → Gleichung unter GS-Kennen1857) auf Wiederverwendbarkeit prüfen, dabei unterschiedliche Hauptoperatoren nicht vermischen. MA-052 begrenzt187090 auf Stellen gegenüber Erkennen einer Gesamtanzahlfrage, FSP didaktisch bis20.52 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten. Veröffentlichung1.354 nachgeprüft; MA-043-Veröffentlichungsnachweis beachten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2086,7 +2112,7 @@
       "network_follow_up": "FSP1/2:37885/37889 nennen Umkehrbeziehungen im additiven Kontext37863;37869 betrifft additive Grundaufgaben bis10. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber keine hinreichend bestimmte multiplikative Vernetzung. FSP3/4:35441 nennt die Beziehung von Multiplikation und Division,35442 Umkehraufgaben und Kernaufgaben2,5,10 in der Bemerkung,35443 die Zuordnung von Multiplikations-/Divisionsgleichungen. Dieser Inhalt begründet den stufenübergreifenden Teilanschluss, nicht allein der größere Zahlenraum.35435/35437/35438 betreffen Grundvorstellungen unter Einblick gewinnen;35447 den gesonderten Kontrollzweck;35485 bleibt additiv unter Übertragen35470."
     }
   },
-  "last_review_file": "review_batch_042.json",
+  "last_review_file": "review_batch_043.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2459,6 +2485,12 @@
       "gs_id": "page912_187089",
       "scope": "Andere Vernetzungsstrategien, die Ableitung einer Multiplikation aus einer bekannten Division, vollständige Aufgabenfamilien, freie Auswahl und Kombination von Strategien sowie weitere Faktor-/Divisorbereiche. Die Umkehrverknüpfung im gewählten Kernaufgabenausschnitt ist keine vollständige Deckung von187089 oder des GS-Beherrschens.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187090",
+      "scope": "Weitere Fragearten und Rechenoperationen, Spiele, über- und unterbestimmte sowie unrealistische Situationen, selbstständiges Entwickeln mehrerer Fragestellungen und die vollständige GS-Zieldeckung. FSP1/2-Erkennen einer Frage ist kein Nachweis selbstständigen Fragenstellens. Der weiterführende positive FSP3/4-Bezug35505/35508 bleibt als mögliche Erweiterung dokumentiert; Modellieren187091 folgt gesondert.",
+      "status": "offen",
+      "review_file": "review_batch_043.json"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2480,7 +2512,7 @@
       "page912_1911"
     ],
     "rows": 92,
-    "note": "92 inventarisierte Zeilen,51 Karten (15 stufenübergreifend). MA-042 ergänzt187089 teilweise auf bestehender MA-051.1911/187090/187091 nur für die Fortsetzung inventarisiert. Elf Anschlussfragen und alle Restumfänge erhalten; Fortsetzung187090.",
+    "note": "92 inventarisierte Zeilen,52 Karten (15 stufenübergreifend). MA-043 prüft187090 teilweise mit neuer MA-052;1911 bleibt Hauptzielkontext,187091 offen. Keine neue Inventurzeile. Elf Anschlussfragen und alle Restumfänge erhalten.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2537,7 +2569,7 @@
   },
   "publication_recheck": {
     "batch": "MA-042",
-    "status": "required_before_next_curriculum_package",
+    "status": "resolved",
     "app_version": "1.354",
     "commit": "36f5b012480946d013a0ea3d1c3cb222596fb858",
     "pages_run": 42841736581,
@@ -2546,6 +2578,20 @@
       "actual live HTML equals target SHA256 ee66b1dccfab16db55ac772ec0750df41ce36119da0afc9d8f988e6f7f5addd1",
       "targeted live browser check MA-051 in GS grades1/2;source/scope/goal adoption/draft preservation/mobile"
     ],
-    "last_observed_live_version": "1.353"
+    "last_observed_live_version": "1.353",
+    "resolved_in_batch": "MA-043",
+    "recovery": {
+      "checked_on": "2026-11-10",
+      "status": "verified",
+      "deployment_commit": "4ac792eb48633f0ced98ce98f5655aeecda2efbb",
+      "pages_run": 42887376050,
+      "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42887376050",
+      "pages_conclusion": "success",
+      "live_app_version": "1.354",
+      "live_byte_identical_to_target": true,
+      "live_sha256": "ee66b1dccfab16db55ac772ec0750df41ce36119da0afc9d8f988e6f7f5addd1",
+      "browser_live": "passed targeted MA-051 in GS grades1/2 with source/scope/goal adoption, empty task/aid fields, teacher-draft preservation, subject isolation, reload and mobile; full51-card live run not repeated",
+      "history": "First deployment timed out; requested retry was last observed queued. The later evidence-commit deployment published the same tested app bytes successfully."
+    }
   }
 }
