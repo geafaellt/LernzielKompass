@@ -840,9 +840,18 @@
     "browser": "not repeated:audit-only changes;MA-039 full50 local and targeted public MA-050 browser evidence remains for byte-identical app1.352. No new browser pass claimed."
   },
   "publication": {
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.352",
-    "app_changed": false
+    "app_changed": false,
+    "commit": "2b5a84d27cebeca6c558157b71ce349664aa5695",
+    "pages_run": 42800321751,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42800321751",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "dbef8faa5cb159cc47f80857883b6576006deaa2e04476e3093e87a4976179da",
+    "verified_date": "2026-11-10",
+    "browser": "not repeated:audit only;no new browser claim"
   },
   "audit_maintenance": "Veraltete inventory_scope-Kurznotiz aus MA-037 berichtigt:50 Karten/14 stufenübergreifend,89 Inventarzeilen und Fortsetzung187088. Keine zusätzliche Karten- oder Fachprüfungszählung."
 }
