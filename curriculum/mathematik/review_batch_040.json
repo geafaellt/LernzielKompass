@@ -1,0 +1,848 @@
+{
+  "id": "MA-040",
+  "date": "2026-11-10",
+  "base_commit": "269c9f469a7bfde6d344efcad037a09c65b5bab2",
+  "scope": "23 multiplikative Fachbegriffe187086: positive Gegenbezüge und offene sprachliche Anschlussfrage",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1881",
+      "level": 1,
+      "parent_target_id": "page912_1881",
+      "target": "Kennen der Multiplikation und Division",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1881",
+      "grade": "1/2",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page912_187086",
+      "level": 2,
+      "parent_target_id": "page912_1881",
+      "target": "Verwenden der Fachbegriffe: Multiplikation, mal, multiplizieren, Vielfaches, vervielfachen, Produkt, Faktor, Quadratzahl, Division, geteilt durch, dividieren, Teiler, teilen, Dividend, Divisor, Quotient, verdoppeln, halbieren, Tauschaufgabe, Umkehraufgabe, Aufgabenfamilie, Nachbaraufgabe, Kernaufgabe",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187086",
+      "grade": "1/2",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35435",
+      "level": 1,
+      "parent_target_id": "page139_35435",
+      "target": "Einblick gewinnen in gerechtes Verteilen",
+      "remarks": "inhaltliches Verständnis von Multiplikation und Division durch Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35435",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35437",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "target": "Verdoppeln und Halbieren",
+      "remarks": "Darstellen durch konkrete Handlung, Zeichnung und Skizze Mengenbilder, Domino",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35437",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35438",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "target": "Vervielfachen und Teilen",
+      "remarks": "Rollenspiel, Quadrat-, Punktfelder Faltarbeiten mit Kreis, Dreieck, Quadrat, Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35438",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35440",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Multiplikation als Addition gleicher Summanden",
+      "remarks": "additive Handlungen: 2 + 2 + 2 = 6 ⇒ 3 · 2 = 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35440",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35441",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Beziehung zwischen Multiplikation und Division",
+      "remarks": "Gruppierungen, Paarbildung, Bündelung Vergegenständlichen und Versprachlichen der Rechenoperationen multiplikative Handlungen durch Verteilen rückgängig machen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35441",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35443",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Grundaufgaben des kleinen Einmaleins",
+      "remarks": "Divisions- und Multiplikationsgleichungen der jeweiligen Umkehroperation zuordnen Term, Gleichung, Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35443",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35444",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Teilbarkeitsregel der 2, 5 und 10",
+      "remarks": "gerade, ungerade Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35444",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "grade": "3/4",
+      "parent_operator": "Übertragen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "parent_operator": "Übertragen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35510",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Rückschau auf den gesamten Lösungsweg und Formulieren der Antwort",
+      "remarks": "Vergleichen mit Erfahrungswerten Prüfen des Lösungsansatzes Prüfen des Ergebnisses durch bekannte Kontrollverfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35510",
+      "grade": "3/4",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "grade": "3/4",
+      "parent_operator": "Kennen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37866",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Verwenden der Zeichen +, – und = in Gleichungen",
+      "remarks": "Addition/Subtraktion mit und ohne Platzhalter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37866",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37889",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37889",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37908",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Probieren verschiedener Lösungswege",
+      "remarks": "Skizze, Tabelle, Term oder Gleichung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_37911",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Prüfen und Formulieren des Ergebnisses",
+      "remarks": "Kontrollverfahren und Antwort vorwiegend mündlich, Taschenrechner als Kontrollinstrumen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37911",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": false
+    },
+    {
+      "id": "page139_38017",
+      "level": 1,
+      "parent_target_id": "page139_38017",
+      "target": "Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "remarks": "⇒ informatische Bildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017",
+      "grade": "1/2",
+      "parent_operator": "Anwenden",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38019",
+      "level": 2,
+      "parent_target_id": "page139_38017",
+      "target": "Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "remarks": "Rechenblumen, -dominos, -mauern, -quadrate Nutzen verschiedener Kontrollverfahren, Lösungsbild, -wort, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "grade": "1/2",
+      "parent_operator": "Anwenden",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": true
+    },
+    {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "grade": "1/2",
+      "parent_operator": "Einblick gewinnen",
+      "is_elective": true
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "source_method": "Frische amtliche Ziel-/Bemerkungsspalten beider FSP-Bänder und Bandziele geprüft. Wortsuche nur zur Kandidatensuche; Singular/Plural, verwandte Inhalte und ausdrückliches Versprachlichen gesondert bewertet. Kein negativer Befund aus bloßem Nichtvorkommen.",
+  "new_cards": [],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-011",
+    "MA-041",
+    "MA-044",
+    "MA-047",
+    "MA-048",
+    "MA-049",
+    "MA-050"
+  ],
+  "existing_card_review": {
+    "MA-011": "Doppelte/halbe Anzahlen sind Inhalt, keine vollständige Begriffsverwendung der neuen Liste.",
+    "MA-041": "Ausdrücklicher Differenzierungshinweis Summe im Geldkontext trägt einen begrenzten additiven Begriffszugang; keine Übertragung dieser Sonderquelle auf multiplikative Fachwörter.",
+    "MA-044": "Operationsvorstellungen unter Einblick gewinnen, kein automatisch gleichwertiger Sprachauftrag.",
+    "MA-047": "Kernaufgaben und Verdopplung sind didaktische Rechenwege; keine automatische Fachwortverwendung.",
+    "MA-048": "Quadratprodukt ist didaktisch ausgewählt; Fachwort Quadratzahl ausdrücklich nicht vorausgesetzt.",
+    "MA-049": "Tausch-/Umkehrfamilien als Inhaltsanschluss, nicht automatisch selbstständiger Gebrauch der Bezeichnungen.",
+    "MA-050": "Erproben und Werten von Wegen ist kein vollständiger Fachwortauftrag. Alle50 Karten bleiben unverändert."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187086",
+      "status": "source_reviewed_language_connection_open",
+      "cards": [],
+      "gs_operator": "Kennen (1881)",
+      "same_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37866",
+        "page139_37885",
+        "page139_37889",
+        "page139_37896",
+        "page139_37908",
+        "page139_37911",
+        "page139_38017",
+        "page139_38019",
+        "page139_38021",
+        "page139_38022"
+      ],
+      "cross_band_candidates": [
+        "page139_35432",
+        "page139_35434",
+        "page139_35435",
+        "page139_35437",
+        "page139_35438",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441",
+        "page139_35442",
+        "page139_35443",
+        "page139_35444",
+        "page139_35470",
+        "page139_35485",
+        "page139_35504",
+        "page139_35510",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "decision": "GS187086 fordert das Verwenden von23 Fachbegriffen unter Kennen1881. FSP3/4 verbindet Recheninhalte mit ausdrücklich genanntem Versprachlichen35441 und übergreifendem Fachwortverständnis35415. Diese positiven Gegenbezüge rechtfertigen eine gezielte sprachliche Anschlussprüfung, aber noch keine pauschale Gleichsetzung der gesamten Liste mit vorhandenen Inhaltskarten. Für jeden Begriff müssen Bedeutung, Verstehen/Verwenden und geeigneter Zielzeilen-/Operatorbezug konkret abgegrenzt werden. Kein Nichtanschluss allein wegen fehlender Wörter, Karten oder kleinerer Zahlenräume.",
+      "term_review": [
+        {
+          "term": "Multiplikation",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Operationen sind benannt;35441 fordert in der Bemerkung ausdrücklich Versprachlichen der Rechenoperationen. Das ist ein positiver Sprachbezug, mehr als bloßes Wortvorkommen. Welche der sechs GS-Bezeichnungen im konkreten Sprachanschluss verwendet werden und wie sich das zum übergreifenden Verstehen von Fachbegriffen verhält, ist noch zu konkretisieren. Keine Gleichsetzung sämtlicher Synonyme und grammatischer Formen."
+        },
+        {
+          "term": "mal",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Operationen sind benannt;35441 fordert in der Bemerkung ausdrücklich Versprachlichen der Rechenoperationen. Das ist ein positiver Sprachbezug, mehr als bloßes Wortvorkommen. Welche der sechs GS-Bezeichnungen im konkreten Sprachanschluss verwendet werden und wie sich das zum übergreifenden Verstehen von Fachbegriffen verhält, ist noch zu konkretisieren. Keine Gleichsetzung sämtlicher Synonyme und grammatischer Formen."
+        },
+        {
+          "term": "multiplizieren",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Operationen sind benannt;35441 fordert in der Bemerkung ausdrücklich Versprachlichen der Rechenoperationen. Das ist ein positiver Sprachbezug, mehr als bloßes Wortvorkommen. Welche der sechs GS-Bezeichnungen im konkreten Sprachanschluss verwendet werden und wie sich das zum übergreifenden Verstehen von Fachbegriffen verhält, ist noch zu konkretisieren. Keine Gleichsetzung sämtlicher Synonyme und grammatischer Formen."
+        },
+        {
+          "term": "Vielfaches",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35437",
+            "page139_35438"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Tätigkeiten Vervielfachen/Teilen und Verdoppeln/Halbieren sind ausdrücklich als Inhalte unter Einblick gewinnen in gerechtes Verteilen belegt. Der symbolisch-sprachliche Kontext35435 ist positiv. Die Verwendung der einzelnen Verben und des Substantivs Vielfaches ist nicht automatisch mit dem Ausführen/Verstehen der Operation gleichzusetzen. Geometrisches Halbieren35434 gehört zu Kennen35432 und bleibt getrennt."
+        },
+        {
+          "term": "vervielfachen",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35437",
+            "page139_35438"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Tätigkeiten Vervielfachen/Teilen und Verdoppeln/Halbieren sind ausdrücklich als Inhalte unter Einblick gewinnen in gerechtes Verteilen belegt. Der symbolisch-sprachliche Kontext35435 ist positiv. Die Verwendung der einzelnen Verben und des Substantivs Vielfaches ist nicht automatisch mit dem Ausführen/Verstehen der Operation gleichzusetzen. Geometrisches Halbieren35434 gehört zu Kennen35432 und bleibt getrennt."
+        },
+        {
+          "term": "Produkt",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443",
+            "page139_35444"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Grundoperationen, Umkehrbeziehungen und Teilbarkeit stellen mathematische Gegenbezüge bereit. Aus den Rollen der Zahlen oder dem Wort Teilbarkeitsregel folgt keine ausdrücklich bestimmte Verwendung aller sechs Rollenbezeichnungen. Übergreifendes FSP3/4-Fachwortverständnis bleibt ein positiver Prüfauftrag, kein erfundener Zeilenoperator."
+        },
+        {
+          "term": "Faktor",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443",
+            "page139_35444"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Grundoperationen, Umkehrbeziehungen und Teilbarkeit stellen mathematische Gegenbezüge bereit. Aus den Rollen der Zahlen oder dem Wort Teilbarkeitsregel folgt keine ausdrücklich bestimmte Verwendung aller sechs Rollenbezeichnungen. Übergreifendes FSP3/4-Fachwortverständnis bleibt ein positiver Prüfauftrag, kein erfundener Zeilenoperator."
+        },
+        {
+          "term": "Quadratzahl",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35443",
+            "page139_38017",
+            "page139_38019"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Das kleine Einmaleins enthält Produkte gleicher Faktoren; MA-048 wählt ein solches Ausgangsprodukt didaktisch. Ein eigenständiger Fachwortauftrag Quadratzahl ist dadurch nicht belegt. Rechenquadrate38019 sind grafische Aufgabenformen unter Anwenden38017 und kein Beleg für diesen Begriff. Keine pauschale Negativentscheidung aus fehlendem Wortlaut."
+        },
+        {
+          "term": "Division",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Operationen sind benannt;35441 fordert in der Bemerkung ausdrücklich Versprachlichen der Rechenoperationen. Das ist ein positiver Sprachbezug, mehr als bloßes Wortvorkommen. Welche der sechs GS-Bezeichnungen im konkreten Sprachanschluss verwendet werden und wie sich das zum übergreifenden Verstehen von Fachbegriffen verhält, ist noch zu konkretisieren. Keine Gleichsetzung sämtlicher Synonyme und grammatischer Formen."
+        },
+        {
+          "term": "geteilt durch",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Operationen sind benannt;35441 fordert in der Bemerkung ausdrücklich Versprachlichen der Rechenoperationen. Das ist ein positiver Sprachbezug, mehr als bloßes Wortvorkommen. Welche der sechs GS-Bezeichnungen im konkreten Sprachanschluss verwendet werden und wie sich das zum übergreifenden Verstehen von Fachbegriffen verhält, ist noch zu konkretisieren. Keine Gleichsetzung sämtlicher Synonyme und grammatischer Formen."
+        },
+        {
+          "term": "dividieren",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Operationen sind benannt;35441 fordert in der Bemerkung ausdrücklich Versprachlichen der Rechenoperationen. Das ist ein positiver Sprachbezug, mehr als bloßes Wortvorkommen. Welche der sechs GS-Bezeichnungen im konkreten Sprachanschluss verwendet werden und wie sich das zum übergreifenden Verstehen von Fachbegriffen verhält, ist noch zu konkretisieren. Keine Gleichsetzung sämtlicher Synonyme und grammatischer Formen."
+        },
+        {
+          "term": "Teiler",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443",
+            "page139_35444"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Grundoperationen, Umkehrbeziehungen und Teilbarkeit stellen mathematische Gegenbezüge bereit. Aus den Rollen der Zahlen oder dem Wort Teilbarkeitsregel folgt keine ausdrücklich bestimmte Verwendung aller sechs Rollenbezeichnungen. Übergreifendes FSP3/4-Fachwortverständnis bleibt ein positiver Prüfauftrag, kein erfundener Zeilenoperator."
+        },
+        {
+          "term": "teilen",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35437",
+            "page139_35438"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Tätigkeiten Vervielfachen/Teilen und Verdoppeln/Halbieren sind ausdrücklich als Inhalte unter Einblick gewinnen in gerechtes Verteilen belegt. Der symbolisch-sprachliche Kontext35435 ist positiv. Die Verwendung der einzelnen Verben und des Substantivs Vielfaches ist nicht automatisch mit dem Ausführen/Verstehen der Operation gleichzusetzen. Geometrisches Halbieren35434 gehört zu Kennen35432 und bleibt getrennt."
+        },
+        {
+          "term": "Dividend",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443",
+            "page139_35444"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Grundoperationen, Umkehrbeziehungen und Teilbarkeit stellen mathematische Gegenbezüge bereit. Aus den Rollen der Zahlen oder dem Wort Teilbarkeitsregel folgt keine ausdrücklich bestimmte Verwendung aller sechs Rollenbezeichnungen. Übergreifendes FSP3/4-Fachwortverständnis bleibt ein positiver Prüfauftrag, kein erfundener Zeilenoperator."
+        },
+        {
+          "term": "Divisor",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443",
+            "page139_35444"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Grundoperationen, Umkehrbeziehungen und Teilbarkeit stellen mathematische Gegenbezüge bereit. Aus den Rollen der Zahlen oder dem Wort Teilbarkeitsregel folgt keine ausdrücklich bestimmte Verwendung aller sechs Rollenbezeichnungen. Übergreifendes FSP3/4-Fachwortverständnis bleibt ein positiver Prüfauftrag, kein erfundener Zeilenoperator."
+        },
+        {
+          "term": "Quotient",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35440",
+            "page139_35441",
+            "page139_35443",
+            "page139_35444"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Grundoperationen, Umkehrbeziehungen und Teilbarkeit stellen mathematische Gegenbezüge bereit. Aus den Rollen der Zahlen oder dem Wort Teilbarkeitsregel folgt keine ausdrücklich bestimmte Verwendung aller sechs Rollenbezeichnungen. Übergreifendes FSP3/4-Fachwortverständnis bleibt ein positiver Prüfauftrag, kein erfundener Zeilenoperator."
+        },
+        {
+          "term": "verdoppeln",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35437",
+            "page139_35438"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Tätigkeiten Vervielfachen/Teilen und Verdoppeln/Halbieren sind ausdrücklich als Inhalte unter Einblick gewinnen in gerechtes Verteilen belegt. Der symbolisch-sprachliche Kontext35435 ist positiv. Die Verwendung der einzelnen Verben und des Substantivs Vielfaches ist nicht automatisch mit dem Ausführen/Verstehen der Operation gleichzusetzen. Geometrisches Halbieren35434 gehört zu Kennen35432 und bleibt getrennt."
+        },
+        {
+          "term": "halbieren",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35435",
+            "page139_35437",
+            "page139_35438"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Die Tätigkeiten Vervielfachen/Teilen und Verdoppeln/Halbieren sind ausdrücklich als Inhalte unter Einblick gewinnen in gerechtes Verteilen belegt. Der symbolisch-sprachliche Kontext35435 ist positiv. Die Verwendung der einzelnen Verben und des Substantivs Vielfaches ist nicht automatisch mit dem Ausführen/Verstehen der Operation gleichzusetzen. Geometrisches Halbieren35434 gehört zu Kennen35432 und bleibt getrennt."
+        },
+        {
+          "term": "Tauschaufgabe",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35441",
+            "page139_35442",
+            "page139_37851",
+            "page139_37863",
+            "page139_37885",
+            "page139_35470",
+            "page139_35485"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Multiplikatives Vertauschen, Umkehraufgaben, Vierergruppen, Nachbaraufgaben und Kernaufgaben sind im FSP3/4-Kontext35442 positiv belegt. Die Singularformen der GS-Liste werden bei der Suche nicht gegen Pluralformen ausgespielt. FSP1/2 37885 und FSP3/4 35485 betreffen additive Wege. Bestehende Inhaltskarten sichern noch nicht eigenständig den Gebrauch der fünf Benennungen im multiplikativen Sprachziel."
+        },
+        {
+          "term": "Umkehraufgabe",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35441",
+            "page139_35442",
+            "page139_37851",
+            "page139_37863",
+            "page139_37885",
+            "page139_35470",
+            "page139_35485"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Multiplikatives Vertauschen, Umkehraufgaben, Vierergruppen, Nachbaraufgaben und Kernaufgaben sind im FSP3/4-Kontext35442 positiv belegt. Die Singularformen der GS-Liste werden bei der Suche nicht gegen Pluralformen ausgespielt. FSP1/2 37885 und FSP3/4 35485 betreffen additive Wege. Bestehende Inhaltskarten sichern noch nicht eigenständig den Gebrauch der fünf Benennungen im multiplikativen Sprachziel."
+        },
+        {
+          "term": "Aufgabenfamilie",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35441",
+            "page139_35442",
+            "page139_37851",
+            "page139_37863",
+            "page139_37885",
+            "page139_35470",
+            "page139_35485"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Multiplikatives Vertauschen, Umkehraufgaben, Vierergruppen, Nachbaraufgaben und Kernaufgaben sind im FSP3/4-Kontext35442 positiv belegt. Die Singularformen der GS-Liste werden bei der Suche nicht gegen Pluralformen ausgespielt. FSP1/2 37885 und FSP3/4 35485 betreffen additive Wege. Bestehende Inhaltskarten sichern noch nicht eigenständig den Gebrauch der fünf Benennungen im multiplikativen Sprachziel."
+        },
+        {
+          "term": "Nachbaraufgabe",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35441",
+            "page139_35442",
+            "page139_37851",
+            "page139_37863",
+            "page139_37885",
+            "page139_35470",
+            "page139_35485"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Multiplikatives Vertauschen, Umkehraufgaben, Vierergruppen, Nachbaraufgaben und Kernaufgaben sind im FSP3/4-Kontext35442 positiv belegt. Die Singularformen der GS-Liste werden bei der Suche nicht gegen Pluralformen ausgespielt. FSP1/2 37885 und FSP3/4 35485 betreffen additive Wege. Bestehende Inhaltskarten sichern noch nicht eigenständig den Gebrauch der fünf Benennungen im multiplikativen Sprachziel."
+        },
+        {
+          "term": "Kernaufgabe",
+          "status": "open_language_connection",
+          "candidate_ids": [
+            "page139_35439",
+            "page139_35441",
+            "page139_35442",
+            "page139_37851",
+            "page139_37863",
+            "page139_37885",
+            "page139_35470",
+            "page139_35485"
+          ],
+          "context_id": "page139_35415",
+          "finding": "Multiplikatives Vertauschen, Umkehraufgaben, Vierergruppen, Nachbaraufgaben und Kernaufgaben sind im FSP3/4-Kontext35442 positiv belegt. Die Singularformen der GS-Liste werden bei der Suche nicht gegen Pluralformen ausgespielt. FSP1/2 37885 und FSP3/4 35485 betreffen additive Wege. Bestehende Inhaltskarten sichern noch nicht eigenständig den Gebrauch der fünf Benennungen im multiplikativen Sprachziel."
+        }
+      ],
+      "candidate_review": "FSP1/2 belegt additive Operationen/Zeichen37863/37866 und Rechenwege37885, Sachwege37908/37911 sowie allgemeine Knobelstrategien. Übergreifendes Sprachziel37739 nennt unterstütztes umgangssprachliches Erklären. FSP3/4 liefert spezifische multiplikative Inhalte35435–35444, ausdrückliches Versprachlichen35441 und übergreifendes Fachwortverständnis35415. Wahlbereiche und additive Kontexte bleiben getrennt. Die positive Sprachstelle35441 wird ausdrücklich erhalten, nicht als bloßes Wortvorkommen abgetan.",
+      "operators": "GS Kennen1881. FSP je nach ausgewähltem künftigen Anschluss: Einblick gewinnen35435 oder Kennen35439; andere geprüfte Kontexte behalten ihre Elternoperatoren. Übergreifendes Fachwortverständnis35415 liefert keinen eigenen Zielzeilenoperator.",
+      "number_range": {
+        "gs_target_row_max": null,
+        "fsp_target_row_max": null,
+        "fsp_1_2_context_max": 20,
+        "fsp_3_4_context_max": 100,
+        "context_ids": [
+          "page139_37739",
+          "page139_35415"
+        ],
+        "note": "Sprachziel selbst ohne numerische Obergrenze. Operationsrahmen20/100 sind übergreifend und nicht die Reichweite eines Wortschatzes. Keine neue Zahlengrenze festgelegt, keine Karte oder Feinzieländerung. Bei späterer numerischer Konkretisierung Grenzen für alle Zwischen-/Endwerte ausweisen."
+      },
+      "prerequisites": "Zugängliche Bedeutungen der ausgewählten Operationen/Beziehungen; sprachliche Voraussetzungen sowie Verstehen, Benennen und selbstständiges Verwenden getrennt feststellen.",
+      "uncertainty": "Ob und in welchem Ausschnitt35441 zusammen mit35415 eine konkrete sprachliche Karte trägt, bleibt zu entscheiden. Keine Behauptung eines grundsätzlichen Nichtanschlusses.",
+      "remaining": "Sprachlicher Teilanschluss für die23 Begriffe aus187086 anhand der dokumentierten positiven Gegenbezüge konkret festlegen; insbesondere Verstehen von Fachbegriffen35415 und Versprachlichen35441 gegenüber selbstständigem GS-Verwenden abgrenzen. Vollständige GS-Fachwortverwendung bleibt unbestätigt. Bereits geprüfte Recheninhalte und die gesonderten additiven Sprachfragen187073/1837 bleiben unverändert."
+    }
+  ],
+  "inventory_only_rows": [
+    {
+      "id": "page912_187087",
+      "level": 1,
+      "parent_target_id": "page912_187087",
+      "target": "Beherrschen der Kernaufgaben der Multiplikation und Division",
+      "remarks": "Arithmetische Basisfakten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187087",
+      "grade": "1/2",
+      "area": "Lernbereich2: Zahl und Operation",
+      "review_status": "not_reviewed_inventory_only"
+    },
+    {
+      "id": "page912_187088",
+      "level": 2,
+      "parent_target_id": "page912_187087",
+      "target": "Lösen von Multiplikations- und Divisionsaufgaben mit 2, 5 und 10",
+      "remarks": "Lern- und Übungssoftware ⇒ Medienbildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187088",
+      "grade": "1/2",
+      "area": "Lernbereich2: Zahl und Operation",
+      "review_status": "not_reviewed_inventory_only"
+    },
+    {
+      "id": "page912_187089",
+      "level": 2,
+      "parent_target_id": "page912_187087",
+      "target": "Nutzen von Strategien zur Vernetzung",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187089",
+      "grade": "1/2",
+      "area": "Lernbereich2: Zahl und Operation",
+      "review_status": "not_reviewed_inventory_only"
+    }
+  ],
+  "counts": {
+    "new_source_reviewed_rows": 1,
+    "newly_completed_rows": 0,
+    "new_card_covered_rows": 0,
+    "new_open_connection_questions": 1,
+    "new_inventory_only_rows": 3,
+    "new_cards": 0,
+    "updated_cards": 0,
+    "cards": 50,
+    "cross_band_cards": 14,
+    "source_links": 149,
+    "target_anchors": 147,
+    "audit_rows": 89,
+    "open_connection_questions": 11,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 Kernaufgaben der Multiplikation und Division187088 unter Beherrschen187087 gegen beide FSP-Bänder prüfen; danach Vernetzungsstrategien187089.187086 ist quellengeprüft, die konkrete sprachliche Zuordnung der23 Begriffe bleibt als elfte Anschlussfrage offen.50 Karten und alle bisherigen Restumfänge erhalten; Inhalt und Fachwortverwendung nicht gleichsetzen.",
+  "tests": {
+    "data_checks": "passed check-deutsch, prepare-pages, check-mathematik, test-mathematik-scope",
+    "source_review": "passed fresh official HTML,34 target/remark excerpts,2 freshly verified context excerpts;all23 unique GS terms assigned positive candidates and explicit uncertainty;plural forms and mathematical meaning considered",
+    "preservation": "passed:all50 cards,entire mathematics module,both HTML files and nonmath app content unchanged;all10 prior questions and prior remaining scopes preserved;only187086 audit status updated plus3 explicitly unreviewed inventory rows",
+    "counts": "inventory_scope stale MA-037 note corrected;89 inventory rows are not89 completed reviews;149 sources and147 card-bound anchors unchanged;no added no-direct classification",
+    "update_mathematik": "not required:no module/app change",
+    "browser": "not repeated:audit-only changes;MA-039 full50 local and targeted public MA-050 browser evidence remains for byte-identical app1.352. No new browser pass claimed."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.352",
+    "app_changed": false
+  },
+  "audit_maintenance": "Veraltete inventory_scope-Kurznotiz aus MA-037 berichtigt:50 Karten/14 stufenübergreifend,89 Inventarzeilen und Fortsetzung187088. Keine zusätzliche Karten- oder Fachprüfungszählung."
+}

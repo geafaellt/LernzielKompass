@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-039
+# Mathematik-Abgleich · MA-040
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Fachwortliste187086. [MA-039](review_batch_039.json) ergänzt MA-050 für unterschiedliche multiplikative Rechenwege.50 Karten, zehn Anschlussfragen und alle Restumfänge bleiben erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Kernaufgaben187088 unter Beherrschen187087. [MA-040](review_batch_040.json) prüft die23 Fachbegriffe187086 anhand beider FSP-Bänder; die konkrete sprachliche Zuordnung bleibt elfte Anschlussfrage.50 Karten unverändert. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -474,3 +474,12 @@ Bestanden: Deutsch-/Mathematikprüfung, Pages-Aufbereitung, FSP-Geltungsbereichs
 Beide Feinziele bis100 didaktisch eingegrenzt, einschließlich sämtlicher Zwischen- und Endwerte. GS187084 enthält keine eigene Obergrenze;1884 ist eine benachbarte Zielzeile. FSP-Rahmen aus Bandziel35415 abgeleitet. Positive Ausgangsfaktoren2 bis10 und zwei Wege sind didaktisch ausgewählt; konkrete Wege, Aufgaben und Hilfsmittel werden nicht vorgegeben. Keine vollständige GS-Zieldeckung; Division, freie Strategiewahl und umfassende Begründung/Bewertung bleiben offen.
 
 50 Karten (36 stufenbandpassend,14 stufenübergreifend),149 Quellen/147 Zielanker plus zwei Kontextquellen;86 inventarisierte Auditzeilen, zehn Anschlussfragen und fünf dokumentierte Zeilen ohne hinreichenden direkten Anschluss. Alle49 vorhandenen Karten unverändert. Fortsetzung187086. Bestanden: alle Daten-/Geltungsbereichsprüfungen, vollständiger lokaler Browsertest aller50 Mathematikkarten und aufklappbare Hinweise/Quellen aller363 Karten. Anfangs fehlende Leerzeichen bei der Zahlenraumangabe korrigiert; endgültigen Stand erneut geprüft.49 bisherige Karten und alle übrigen App-Daten unverändert. App1.352 auf main veröffentlicht (4dae8deefe168bcd5c0ae0fcd59ebe646aaac718), [Pages-Lauf42792783323](https://github.com/geafaellt/LernzielKompass/actions/runs/42792783323) erfolgreich. Ausgelieferte App bytegleich, SHA-256 dbef8faa5cb159cc47f80857883b6576006deaa2e04476e3093e87a4976179da. Öffentliche MA-050-Prüfung in beiden GS-Jahrgängen bestanden: Quellen, Grenzen auf Karte/Zielen/Output, Ziel-/Kriterienübernahme, leere Aufgaben-/Hilfsmittelfelder und erhaltene Entwürfe; ergänzende Fachwechsel-, Neulade- und Mobilprüfungen bestanden. Vollständiger50-Karten-Test lokal; öffentlich gezielter Test der neuen Karte. Ältere öffentliche Volltest-Zeitüberschreitungen aus MA-036 werden nicht nachträglich als bestanden gewertet.
+
+
+## MA-040 · Audit ohne App-Änderung · 10.11.2026
+
+[Prüfpaket040](review_batch_040.json) dokumentiert für alle23 Begriffe aus187086 die FSP-Gegenbezüge. Wichtig ist der ausdrücklich positive Sprachbezug Versprachlichen der Rechenoperationen35441, ergänzt durch übergreifendes Fachwortverständnis35415. Recheninhalt, Zeichen, Verstehen und selbstständiges Verwenden werden getrennt. Die konkrete sprachliche Zuordnung bleibt offen; dies ist weder vollständige Zeilenprüfung mit Abschluss noch ein pauschaler Nichtanschluss. Singular-/Pluralformen wurden nicht als inhaltlicher Unterschied gewertet.
+
+Keine neue Karte, keine Änderung an Feinzielen, Kriterien oder Zahlenraumgrenzen. Sprachziele ohne eigene Zahlengrenze erhalten keine erfundene Obergrenze; die übergreifenden Operationsrahmen20/100 begrenzen keinen Wortschatz. Alle50 Karten,149 Quellenverknüpfungen und147 kartengebundenen Zielanker unverändert. Nun elf Anschlussfragen, fünf dokumentierte Zeilen ohne hinreichenden direkten Anschluss; diese Liste wurde nicht erweitert.
+
+Drei Zeilen187087–187089 nur für die Fortsetzung inventarisiert:89 Auditzeilen sind nicht89 abgeschlossene Prüfungen. Nächster fachlicher Prüfpunkt187088 unter Beherrschen187087, danach187089. App1.352 unverändert. Daten-/Geltungsbereichsprüfungen und Bestandsschutz bestanden. Eine veraltete Inventar-Kurznotiz aus MA-037 wurde berichtigt. Mathematikmodul und beide HTML-Dateien bleiben bytegleich mit App1.352; kein neuer Browsertest bei unveränderter App. Veröffentlichung noch ausstehend.

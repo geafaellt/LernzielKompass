@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-039",
+  "last_batch": "MA-040",
   "complete": false,
   "counts": {
     "cards": 50,
@@ -1848,8 +1848,8 @@
       "remarks": "mathematische Aussagen hinterfragen auf Korrektheit prüfen Begründungen formulieren und nachvollziehen ⇒ Kommunikationsfähigkeit"
     }
   },
-  "next_id": "page912_187086",
-  "next_step": "GS1/2 Fachwortliste187086 unter Kennen1881 gegen beide FSP-Bänder prüfen; tatsächliche Sprachziele von bloßem Fachwortvorkommen in Bemerkungen trennen.187084 über MA-050 begrenzt geprüft.50 Karten, zehn Anschlussfragen und alle Restumfänge erhalten; kein Abschluss des übergeordneten Multiplikations-/Divisionsblocks.",
+  "next_id": "page912_187088",
+  "next_step": "GS1/2 Kernaufgaben der Multiplikation und Division187088 unter Beherrschen187087 gegen beide FSP-Bänder prüfen; danach Vernetzungsstrategien187089.187086 ist quellengeprüft, die konkrete sprachliche Zuordnung der23 Begriffe bleibt als elfte Anschlussfrage offen.50 Karten und alle bisherigen Restumfänge erhalten; Inhalt und Fachwortverwendung nicht gleichsetzen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2020,7 +2020,7 @@
       "decision": "FSP1/2: Rechenwege37885 stehen im additiven Kontext37863 unter Einblick gewinnen37851. Sachwege37908/37911 und Knobelstrategien38021/38022 liefern allgemeine Nachbarbezüge, jedoch keinen hinreichend bestimmten Auftrag zum Erproben und Werten multiplikativer Wege. FSP3/4:35442 nennt im multiplikativen Kontext unter Kennen35439 verschiedene Lösungswege und in der Bemerkung Finden, Ausprobieren und Werten. Dieser positive Inhaltsbeleg begründet die stufenübergreifende Wahl, nicht allein der kleinere Zahlenraum in1/2.35485 bleibt additiv unter Übertragen35470;35447 kontrolliert Divisionsresultate,35510 Sachlösungen. Wahlbereiche35571/35582 mit Probieren/Beschreiben bzw. Reflexion35593 werden nicht als allgemeine Pflichtziele ausgegeben."
     }
   },
-  "last_review_file": "review_batch_039.json",
+  "last_review_file": "review_batch_040.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2128,6 +2128,25 @@
         "page139_35442",
         "page139_35443"
       ]
+    },
+    {
+      "gs_id": "page912_187086",
+      "scope": "Sprachliche Zuordnung der23 Fachbegriffe: Multiplikation, mal, multiplizieren, Vielfaches, vervielfachen, Produkt, Faktor, Quadratzahl, Division, geteilt durch, dividieren, Teiler, teilen, Dividend, Divisor, Quotient, verdoppeln, halbieren, Tauschaufgabe, Umkehraufgabe, Aufgabenfamilie, Nachbaraufgabe, Kernaufgabe.",
+      "status": "offen",
+      "reason": "GS187086 fordert das Verwenden von23 Fachbegriffen unter Kennen1881. FSP3/4 verbindet Recheninhalte mit ausdrücklich genanntem Versprachlichen35441 und übergreifendem Fachwortverständnis35415. Diese positiven Gegenbezüge rechtfertigen eine gezielte sprachliche Anschlussprüfung, aber noch keine pauschale Gleichsetzung der gesamten Liste mit vorhandenen Inhaltskarten. Für jeden Begriff müssen Bedeutung, Verstehen/Verwenden und geeigneter Zielzeilen-/Operatorbezug konkret abgegrenzt werden. Kein Nichtanschluss allein wegen fehlender Wörter, Karten oder kleinerer Zahlenräume.",
+      "candidate_ids": [
+        "page139_35435",
+        "page139_35437",
+        "page139_35438",
+        "page139_35439",
+        "page139_35440",
+        "page139_35441",
+        "page139_35442",
+        "page139_35443",
+        "page139_35444",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_040.json"
     }
   ],
   "remaining_scopes": [
@@ -2357,6 +2376,12 @@
       "gs_id": "page912_187084",
       "scope": "Division, freie Auswahl aus einem größeren Strategiebestand, vollständiges Begründen und kritisches Bewerten eigener und fremder Wege sowie die vollständige GS-Zieldeckung. Zwei ausgewählte Wege zur Multiplikation sind ein didaktischer Ausschnitt; keine automatische Deckung der speziellen Strategien oder der Fachwortliste187086.",
       "status": "offen"
+    },
+    {
+      "gs_id": "page912_187086",
+      "scope": "Sprachlicher Teilanschluss für die23 Begriffe aus187086 anhand der dokumentierten positiven Gegenbezüge konkret festlegen; insbesondere Verstehen von Fachbegriffen35415 und Versprachlichen35441 gegenüber selbstständigem GS-Verwenden abgrenzen. Vollständige GS-Fachwortverwendung bleibt unbestätigt. Bereits geprüfte Recheninhalte und die gesonderten additiven Sprachfragen187073/1837 bleiben unverändert.",
+      "status": "offen",
+      "review_file": "review_batch_040.json"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2373,10 +2398,11 @@
       "page912_1852",
       "page912_1857",
       "page912_1867",
-      "page912_1881"
+      "page912_1881",
+      "page912_187087"
     ],
-    "rows": 86,
-    "note": "Weiterhin86 inventarisierte Zeilen und49 Karten (13 stufenübergreifend). MA-037 ergänzt eine teilweise geprüfte GS-Zeile187082 auf bestehender MA-047;1885 und Kontext1881/1884 nicht erneut gezählt. Zehn Anschlussfragen einschließlich Halbieren als multiplikativer Strategie. Fortsetzung187083.",
+    "rows": 89,
+    "note": "89 inventarisierte Zeilen,50 Karten (14 stufenübergreifend). MA-040 prüft die23 Begriffe187086 quellenbezogen; sprachlicher Teilanschluss bleibt elfte Anschlussfrage.187087–187089 nur inventarisiert, nicht fachlich abgeschlossen. Fortsetzung187088. Alte Inventar-Kurznotiz aus MA-037 berichtigt; Karten- und Zielankerzählungen unverändert.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
