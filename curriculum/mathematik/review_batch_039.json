@@ -355,10 +355,20 @@
     "browser_local": "passed full50-card run on final app; scopes in card/goals/output,source links,goal/shared-object adoption,empty task/aid fields,teacher drafts,subject isolation,reload,mobile",
     "browser_disclosures": "passed all363 cards:collapsed source and boundary evidence,operator help,keyboard,drafts,mobile320/390",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling; initial page brought to front. Original assertions and ordinary clicks unchanged. Scroll animation itself not evaluated.",
-    "browser_live": "pending"
+    "browser_live": "passed targeted MA-050 in both GS grades1/2, including source links,scope in cards/goals/output,goal/criterion adoption,empty task/aid fields and retained teacher drafts; follow-on subject isolation,reload,mobile checks preserved. Temporary test copy limits per-card loop to new MA-050; original clicks/assertions unchanged.",
+    "browser_live_scope": "Full50-card local run passed; public per-card run targeted MA-050, full50 public run not repeated. MA-036 public full-run timeouts remain historical unresolved evidence, not retroactively marked passed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.352"
+    "status": "published_verified_targeted_live",
+    "app_version": "1.352",
+    "app_commit": "4dae8deefe168bcd5c0ae0fcd59ebe646aaac718",
+    "pages_run": 42792783323,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42792783323",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_identical": true,
+    "live_sha256": "dbef8faa5cb159cc47f80857883b6576006deaa2e04476e3093e87a4976179da",
+    "verified_date": "2026-11-10",
+    "browser_scope": "all50 locally; new MA-050 targeted publicly with follow-on draft/isolation/mobile checks"
   }
 }
