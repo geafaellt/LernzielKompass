@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-038
+# Mathematik-Abgleich · MA-039
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Neunundvierzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048 und MA-049 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Fünfzig Karten dokumentieren begrenzte Anschlüsse. Sechsunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049 und MA-050 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -15,7 +15,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 [Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
-Fortsetzung bei Probieren, Begründen und Bewerten unterschiedlicher Lösungswege187084. [MA-038](review_batch_038.json) prüft187083 ohne hinreichend belegten direkten Anschluss.49 Karten, zehn Anschlussfragen und alle bisherigen Restumfänge bleiben erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Fachwortliste187086. [MA-039](review_batch_039.json) ergänzt MA-050 für unterschiedliche multiplikative Rechenwege.50 Karten, zehn Anschlussfragen und alle Restumfänge bleiben erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -465,3 +465,12 @@ Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. Alle20 ausgewählten
 MA-011, MA-044 und MA-047 bis MA-049 wurden abgegrenzt; alle49 Karten samt FSP-Geltungsbereichen, Feinzielen und Kriterien bleiben unverändert. Ein weiterer Unterpunkt einzeln entschieden, keine vollständige GS-Zieldeckung.86 inventarisierte Auditzeilen sind nicht86 abgeschlossene Prüfungen.148 Quellenverknüpfungen,146 kartengebundene Zielanker, zehn offene Anschlussfragen und nun fünf dokumentierte Zeilen ohne hinreichend belegten direkten Anschluss. Nächster Prüfpunkt187084; Halbierungsfrage187082 bleibt offen. App1.351 unverändert.
 
 Bestanden: Deutsch-/Mathematikprüfung, Pages-Aufbereitung, FSP-Geltungsbereichsregression und Lerngegenstandsprüfung. Mathematikmodul und beide HTML-Dateien sind bytegleich mit App1.351; nur eine Auditzeile geändert. Keine neue Browserprüfung bei unveränderter App. MA-037 dokumentiert vollständige lokale und gezielte öffentliche Browserprüfung; ältere öffentliche Volltest-Zeitüberschreitungen werden nicht nachträglich als bestanden gewertet. Auf main veröffentlicht: `38e940c0b213a0e27301ff0259f85b1edef1ea86`. [Pages-Lauf42791680371](https://github.com/geafaellt/LernzielKompass/actions/runs/42791680371) erfolgreich. Tatsächlich ausgelieferte App bytegleich mit beiden lokalen HTML-Dateien, SHA-256 `38cdd5fb783345759b401a875a602264b033007361bc3f92468c2745052a90ac`. App1.351 unverändert.
+
+
+## MA-039 · App1.352 · 10.11.2026
+
+[Prüfpaket039](review_batch_039.json) ergänzt MA-050: zwei unterschiedliche Wege zu derselben Multiplikation erproben und ihre rechnerische Stimmigkeit beurteilen. Beleg: GS187084 unter Kennen1881; FSP35442 unter Kennen35439 mit Finden/Ausprobieren/Werten in der Bemerkung. Stufenübergreifend GS1/2 → FSP3/4; additive und allgemeine Strategiebezüge in FSP1/2 geprüft.
+
+Beide Feinziele bis100 didaktisch eingegrenzt, einschließlich sämtlicher Zwischen- und Endwerte. GS187084 enthält keine eigene Obergrenze;1884 ist eine benachbarte Zielzeile. FSP-Rahmen aus Bandziel35415 abgeleitet. Positive Ausgangsfaktoren2 bis10 und zwei Wege sind didaktisch ausgewählt; konkrete Wege, Aufgaben und Hilfsmittel werden nicht vorgegeben. Keine vollständige GS-Zieldeckung; Division, freie Strategiewahl und umfassende Begründung/Bewertung bleiben offen.
+
+50 Karten (36 stufenbandpassend,14 stufenübergreifend),149 Quellen/147 Zielanker plus zwei Kontextquellen;86 inventarisierte Auditzeilen, zehn Anschlussfragen und fünf dokumentierte Zeilen ohne hinreichenden direkten Anschluss. Alle49 vorhandenen Karten unverändert. Fortsetzung187086. Bestanden: alle Daten-/Geltungsbereichsprüfungen, vollständiger lokaler Browsertest aller50 Mathematikkarten und aufklappbare Hinweise/Quellen aller363 Karten. Anfangs fehlende Leerzeichen bei der Zahlenraumangabe korrigiert; endgültigen Stand erneut geprüft.49 bisherige Karten und alle übrigen App-Daten unverändert. Veröffentlichung und öffentliche Prüfung noch ausstehend.

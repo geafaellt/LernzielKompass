@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-10.2",
+  "version": "MA-2026-11-10.3",
   "checked_on": "2026-11-10",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -997,6 +997,12 @@
       "id": "Q-MA-page912_187082",
       "title": "GS Mathematik 1/2 · Lernbereich 2: Zahl und Operation · Verdoppeln und Halbieren",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187082",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187084",
+      "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Probieren, Begründen und Bewerten von unterschiedlichen Lösungswegen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187084",
       "version": "2026"
     }
   ],
@@ -5012,6 +5018,80 @@
         "context_only_gs_ids": [
           "page912_1881",
           "page912_1884"
+        ]
+      }
+    },
+    {
+      "id": "MA-050",
+      "subject": "Mathematik",
+      "theme": "Unterschiedliche multiplikative Rechenwege prüfen",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 2: Zahl und Operation · Probieren, Begründen und Bewerten unterschiedlicher Lösungswege unter Kennen der Multiplikation und Division",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Entdecken und Nutzen verschiedener multiplikativer Lösungswege unter Kennen von Rechenhandlungen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenübergreifender Teilanschluss GS1/2 → FSP3/4. Hauptoperatoren: GS Kennen 1881 und FSP Kennen 35439. GS187084 ist ein eigenes Unterziel neben1884; die dortige ausdrückliche Grenze100 wird nicht als eigene Grenze von 187084 ausgegeben. Für das GS-Feinziel wird bis 100 didaktisch gewählt. FSP35442 nennt keine eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Zwei unterschiedliche Wege zu derselben Multiplikation und positive ganze Faktoren von 2 bis 10 sind didaktische Eingrenzungen. Finden, Ausprobieren und Werten stehen in der FSP-Bemerkung 35442, nicht als zusätzliche Hauptoperatoren. Werten wird hier auf die rechnerische Stimmigkeit und das gemeinsame Ergebnis beschränkt. Keine vollständige GS-Zieldeckung. Offen: Division, freie Auswahl aus einem größeren Strategiebestand, vollständiges Begründen und kritisches Bewerten eigener und fremder Wege sowie die vollständige GS-Zieldeckung. Zwei ausgewählte Wege zur Multiplikation sind ein didaktischer Ausschnitt; keine automatische Deckung der speziellen Strategien oder der Fachwortliste187086.",
+      "gs_target_ids": [
+        "page912_1881",
+        "page912_187084"
+      ],
+      "fsp_target_ids": [
+        "page139_35439",
+        "page139_35442"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1881",
+        "Q-MA-page912_187084",
+        "Q-MA-page139_35439",
+        "Q-MA-page139_35442",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS1/2 → FSP3/4. Hauptoperatoren: GS Kennen 1881 und FSP Kennen 35439. GS187084 ist ein eigenes Unterziel neben1884; die dortige ausdrückliche Grenze100 wird nicht als eigene Grenze von 187084 ausgegeben. Für das GS-Feinziel wird bis 100 didaktisch gewählt. FSP35442 nennt keine eigene Obergrenze; bis 100 wird didaktisch aus dem übergreifenden Operationsziel35415 abgeleitet. Zwei unterschiedliche Wege zu derselben Multiplikation und positive ganze Faktoren von 2 bis 10 sind didaktische Eingrenzungen. Finden, Ausprobieren und Werten stehen in der FSP-Bemerkung 35442, nicht als zusätzliche Hauptoperatoren. Werten wird hier auf die rechnerische Stimmigkeit und das gemeinsame Ergebnis beschränkt. Keine vollständige GS-Zieldeckung. Offen: Division, freie Auswahl aus einem größeren Strategiebestand, vollständiges Begründen und kritisches Bewerten eigener und fremder Wege sowie die vollständige GS-Zieldeckung. Zwei ausgewählte Wege zur Multiplikation sind ein didaktischer Ausschnitt; keine automatische Deckung der speziellen Strategien oder der Fachwortliste187086.",
+      "shared_object_suggestion": "Dasselbe Produkt auf unterschiedlichen Wegen: der Zusammenhang zwischen zwei Faktoren und ihrem Ergebnis.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erprobt bis 100 zwei unterschiedliche Rechenwege für dieselbe Multiplikation, begründet deren Zusammenhang und beurteilt ihre rechnerische Stimmigkeit.",
+          "criterion": "Beide Wege beziehen sich auf dieselben Ausgangsfaktoren von 2 bis 10 und führen zum gleichen richtigen Produkt. Die Begründung erklärt, warum die Rechenschritte zur Ausgangsmultiplikation passen. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 100.",
+          "status": "Didaktische Konkretisierung; bis 100 für dieses Unterziel didaktisch gewählt, keine eigene ausdrückliche Obergrenze in187084."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erprobt bis 100 zwei unterschiedliche Rechenwege für dieselbe Multiplikation und beurteilt, ob beide rechnerisch stimmen und zum gleichen Produkt führen.",
+          "criterion": "Zwei rechnerisch unterschiedliche Wege passen zu denselben Ausgangsfaktoren von 2 bis 10 und ergeben das gleiche richtige Produkt; das Kind erkennt die Übereinstimmung und beurteilt die Stimmigkeit der Schritte. Bloßes Wiederholen zählt nicht als zweiter Weg. Alle beteiligten Zahlen sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 100.",
+          "status": "Didaktische Konkretisierung des Findens, Ausprobierens und Wertens aus der Bemerkung 35442; zwei Wege sind keine amtliche Anzahlvorgabe. Zahlenrahmen aus übergreifendem Ziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "35442 unter Kennen 35439 enthält keine eigene Obergrenze. Der Operationsrahmen bis 100 stammt aus Bandziel 35415. Zwei Wege zu derselben Multiplikation mit Ausgangsfaktoren2 bis 10 sind zusätzlich didaktisch ausgewählt; Wege mit Zwischenwerten oberhalb100 gehören nicht zum Feinziel.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Didaktischer Ausschnitt: dieselbe Multiplikation mit zwei positiven ganzen Ausgangsfaktoren von 2 bis 10. Beide Rechenwege verwenden nur nichtnegative ganze Zahlen bis 100. Alle Ausgangszahlen, Teilprodukte, Summanden, Differenzen, übrigen relevanten Zwischenwerte und das gemeinsame Endergebnis bleiben bis 100. Kein Weg mit Zwischenwerten über100 trotz kleinerem Endergebnis. Division, Bruchteile und negative Zwischenwerte sind ausgeschlossen. Die konkreten Wege legt die Lehrkraft fest; keine automatische Vorgabe. Eigene Entwürfe fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187084 ist Unterziel unter Kennen 1881, neben1884. Die Karte konkretisiert das Erproben, begrenzte Begründen und Prüfen der rechnerischen Stimmigkeit; keine vollständige Bewertungskompetenz.",
+        "fsp": "35442 ist Unterziel unter Kennen 35439; Finden, Ausprobieren und Werten in der Bemerkung. Zahl der Wege, Faktorenwahl und konkreter Bewertungsaspekt sind didaktisch; keine zusätzlichen Hauptoperatoren.",
+        "context_only_gs_ids": [
+          "page912_1881"
         ]
       }
     }
