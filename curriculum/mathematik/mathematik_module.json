@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.4",
+  "version": "MA-2026-11-11.5",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1081,6 +1081,42 @@
       "id": "Q-MA-page139_38022",
       "title": "FSP Lernen Mathematik1/2 · Wahlbereich 4: Zahlenzauberei · Lösen durch Probieren und Probehandeln",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1916",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1916",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1918",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1918",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35491",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35491",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35492",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35492",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35493",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35493",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35494",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35494",
       "version": "2019"
     }
   ],
@@ -5584,6 +5620,91 @@
         "area_id": "MA-page139_37750",
         "label": "Wahlbereich 4: Zahlenzauberei",
         "notice": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei."
+      }
+    },
+    {
+      "id": "MA-056",
+      "subject": "Mathematik",
+      "theme": "Geldbeträge mit zwei Einheiten und Kommaschreibweise",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · stufenübergreifend · Betragsrahmen noch festzulegen",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Geldbeträge mit zwei Einheiten (1916) und in Kommaschreibweise (1918) unter Kennen (1912)",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Notieren von Geldbeträgen (35492), Beziehung Euro/Cent (35493) und Kommaschreibweise (35494) unter Übertragen (35491)",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Kennen · FSP: Übertragen. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: denselben Geldwert mit Euro und Cent sowie in Kommaschreibweise darstellen. GS: Kennen aus 1912; FSP: Übertragen aus 35491. Die sprachliche Euro-Cent-Angabe ist in der Bemerkung zu 35494 belegt, Kommaschreibweise in dessen Zieltext. FSP 1/2 bietet Einheiten und Geldhandlungen, aber keinen ebenso konkreten Beleg für diesen Darstellungswechsel. Keine vollständige GS-Zieldeckung; Stellenwerttafel, Wechseln, Rechnen und allgemeine Dezimalzahlen bleiben außerhalb der Karte. Beide ausgewählten Zielzeilen nennen keine eigene Betragsobergrenze. Der Betragsrahmen ist vor der Nutzung festzulegen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_1913",
+        "page912_1915",
+        "page912_1916",
+        "page912_1918"
+      ],
+      "fsp_target_ids": [
+        "page139_35491",
+        "page139_35492",
+        "page139_35493",
+        "page139_35494"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_1913",
+        "Q-MA-page912_1915",
+        "Q-MA-page912_1916",
+        "Q-MA-page912_1918",
+        "Q-MA-page139_35491",
+        "Q-MA-page139_35492",
+        "Q-MA-page139_35493",
+        "Q-MA-page139_35494"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: denselben Geldwert mit Euro und Cent sowie in Kommaschreibweise darstellen. GS: Kennen aus 1912; FSP: Übertragen aus 35491. Die sprachliche Euro-Cent-Angabe ist in der Bemerkung zu 35494 belegt, Kommaschreibweise in dessen Zieltext. FSP 1/2 bietet Einheiten und Geldhandlungen, aber keinen ebenso konkreten Beleg für diesen Darstellungswechsel. Keine vollständige GS-Zieldeckung; Stellenwerttafel, Wechseln, Rechnen und allgemeine Dezimalzahlen bleiben außerhalb der Karte. Beide ausgewählten Zielzeilen nennen keine eigene Betragsobergrenze. Der Betragsrahmen ist vor der Nutzung festzulegen.",
+      "shared_object_suggestion": "Ein Geldwert in zwei Schreibweisen: Euro und Cent getrennt angegeben oder gemeinsam als Eurobetrag mit Komma.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt im vorab festgelegten Betragsrahmen einen Geldbetrag mit Euro- und Centangabe und die entsprechende Euro-Kommaschreibweise als denselben Wert.",
+          "criterion": "Euroanteil und Centanteil entsprechen einander in beiden Schreibweisen; die zwei Nachkommastellen bilden den Centanteil einschließlich nötiger Nullen ab. Alle Angaben bleiben im festgelegten Betragsrahmen. Rechnen mit Geld und Umrechnen in einen Gesamtcentbetrag werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung eines Darstellungszusammenhangs unter Kennen; keine vollständige Abdeckung von 1913/1916/1918."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind überträgt im vorab festgelegten Zahlenraum einen vertrauten Geldbetrag aus der Euro-Cent-Angabe in die wertgleiche Euro-Kommaschreibweise und zurück.",
+          "criterion": "In beiden Schreibweisen bleibt der Geldwert gleich; Euroanteil, Centanteil, Einheiten und zwei Nachkommastellen einschließlich nötiger Nullen stimmen. Der Centanteil ist kleiner als ein Euro. Alle verwendeten Beträge und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Ein Gesamtcentbetrag, weitere Rechnungen oder Überträge werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung aus Notieren, Euro-Cent-Beziehung und Kommaschreibweise; Betragsrahmen vor Verwendung fachlich festlegen.",
+          "scope_status": "unspecified"
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Euro-Cent-Schreibweisen · Betragsrahmen noch festzulegen",
+        "detail": "Die Zielzeilen 35491–35494 nennen keine eigene numerische Höchstgrenze des Geldbetrags. Die Bemerkung zu 35492 nennt Operieren mit Münzen und Scheinen im Zahlenraum bis 100; sie legt keine eindeutige Höchstgrenze von 100 Euro oder 100 Cent für diesen Schreibweisenwechsel fest. Auch die GS-Zeilen 1916/1918 nennen keine eigene Obergrenze. Aus der belegten Beziehung 1 Euro = 100 Cent wird die normale Euro-Cent-Darstellung mit einem Centanteil kleiner als einem Euro und zwei Nachkommastellen didaktisch konkretisiert. Dies ist eine Einheiten-/Schreibregel, keine Betragsobergrenze.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35492",
+          "Q-MA-page139_35493",
+          "Q-MA-page139_35494"
+        ],
+        "planning_rule": "Vor Nutzung den Zahlen- und Betragsrahmen anhand der Lernvoraussetzungen festlegen; die Karte setzt keine unbelegte Euro- oder Centobergrenze. Nur nichtnegative Geldbeträge in normaler Euro-Cent-Darstellung mit Centanteil kleiner als einem Euro und Euro-Kommaschreibweise mit zwei Nachkommastellen. Alle Beträge und relevanten Zwischen-/Endwerte müssen im festgelegten Rahmen bleiben. Nur wertgleicher Schreibweisenwechsel; kein Gesamtcentbetrag, Rechnen, Wechselgeld oder Übertrag. Eigene Entwürfe müssen fachlich geprüft werden; ihre Freitexte sind nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "1916/1918 sind Unterpunkte der Geldbetragsdarstellung1913 unter Kennen1912;1915 benennt Euro und Cent.1912 bleibt Hauptzielkontext.",
+        "fsp": "35492 nennt Notieren,35493 die Einheitenbeziehung und35494 die Kommaschreibweise unter Übertragen35491. Die Formulierung mit beiden Einheiten steht in der Bemerkung zu35494. Der beidseitige Schreibweisenwechsel und die Normalform sind didaktische Konkretisierungen dieses Zusammenhangs, keine zusätzlich erfundenen Zieloperatoren.",
+        "fsp_remark_anchors": [
+          "page139_35492",
+          "page139_35494"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
+        ]
       }
     }
   ]

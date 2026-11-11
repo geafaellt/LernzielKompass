@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-047
+# Mathematik-Abgleich · MA-048
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Fünfundfünfzig Karten dokumentieren begrenzte Anschlüsse. Neununddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051 und MA-054 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Sechsundfünfzig Karten dokumentieren begrenzte Anschlüsse. Neununddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054 und MA-056 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Geldbeträgen mit zwei Einheiten1916. [MA-047](review_batch_047.json) präzisiert die bestehende MA-003 für Vergleich und Ordnung ganzer Beträge in derselben Einheit.55 Karten und elf Anschlussfragen; weitere Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Stützpunktvorstellungen zu Geldbeträgen1921. [MA-048](review_batch_048.json) ergänzt MA-056 für Euro-Cent-/Kommaschreibweise; der Betragsrahmen ist vorab festzulegen.56 Karten und zwölf Anschlussfragen, einschließlich Geld-Stellenwerttafel1917; weitere Restumfänge offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -552,3 +552,12 @@ Die vorhandene MA-003 wurde für1913/1915 gegen beide FSP-Bänder erneut geprüf
 Feinziele und Kriterien benennen nun auch Ordnen, Gleichheit und Einheitenerhalt. Bis20 Euro oder20 Cent bleibt didaktisch aus Zahlaufbau37739 und der Bemerkung „Zahlenraum beachten“37926 abgeleitet. Die Zielzeilen selbst nennen keine Obergrenze. Alle Beträge und relevanten Zwischen-/Endwerte halten den gewählten Rahmen ein; keine gemischten Einheiten, Umrechnungen oder Dezimalbeträge. Auch das GS-Feinziel wählt einen engen Rahmen bis20, ohne dies als amtliche GS-Höchstgrenze auszugeben. Erfassen/Darstellen in weiteren Formen und weitere Geldinhalte bleiben offen. Fortsetzung1916, danach1917/1918.
 
 55 Karten (39 passend,16 stufenübergreifend),162 Quellen,160 Zielanker,105 Inventurzeilen und elf Anschlussfragen unverändert. Daten-, Geltungsbereichs- und Bestandserhaltungsprüfungen bestanden. Alle55 Mathematikkarten in sieben frischen Browsergruppen mit unveränderten Prüfaussagen erfolgreich geprüft; alle368 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Kein ununterbrochener55-Karten-Durchlauf behauptet; die in MA-044 dokumentierten Langzeitlimits werden durch getrennte Sitzungen berücksichtigt. Übernahme der Ziele, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Veröffentlicht mit Commit92b413b5a3493d318fe8a3f637ef1a65e179f644 und erfolgreichem [Pages-Lauf42999286994](https://github.com/geafaellt/LernzielKompass/actions/runs/42999286994). App1.359 ist live bytegleich zum geprüften Stand (SHA2569bf9227ec5efa60156ddc99699947e247961bc10a0cf61982874d133db671213). Gezielte öffentliche MA-003-Prüfung in beiden GS-Jahrgängen einschließlich genauer Ziel-/Kriterienübernahme, sichtbarer FSP-Grenzen, Quellenlinks, Entwurfserhalt, Fachwechsel, Neuladen und mobiler Ansicht bestanden. Kein vollständiger55-Karten-Livedurchlauf behauptet.
+
+
+## MA-048 · App 1.360 · 11.11.2026
+
+MA-056 verbindet GS1/2 Geldbeträge mit zwei Einheiten1916 und Kommaschreibweise1918 mit FSP3/4 Notieren35492, Euro-Cent-Beziehung35493 und Kommaschreibweise35494 unter Übertragen35491. GS bleibt Kennen1912. Die Formulierung mit beiden Einheiten steht in der FSP-Bemerkung35494; der wertgleiche Wechsel beider Schreibweisen ist didaktisch konkretisiert. Der stufenübergreifende Anschluss ist spezifischer als allgemeine FSP1/2-Einheiten-/Geldhandlungen; ein kleinerer Zahlenraum ist nicht der Ausschlussgrund.
+
+Die Betragsobergrenze bleibt ausdrücklich noch festzulegen. „Bis100“ in der Bemerkung35492 zum Operieren mit Münzen/Scheinen wird nicht unbelegt zu100Euro oder100Cent für die Notation umgedeutet. Einheitenbeziehung, normaler Centanteil kleiner als einEuro und zwei Nachkommastellen sind getrennt von einer Gesamtbetragsgrenze. Feinziele und Kriterien verlangen den vorher festgelegten Rahmen einschließlich relevanter Zwischen-/Endwerte; kein Rechnen, kein Gesamtcentbetrag und kein Übertrag. Eigene Entwürfe bleiben prüfpflichtig.
+
+Die Geld-Stellenwerttafel1917 bleibt eine Anschlussfrage mit positiven Gegenbezügen aus beiden FSP-Bändern. Die bestehenden Zahlenstrukturkarten MA-024/MA-025 decken sie nicht automatisch ab. Alle55 bisherigen Karten einschließlich MA-003/MA-041 unverändert.56 Karten (39 passend,17 stufenübergreifend),168 Quellen,166 Zielanker und105 Inventurzeilen. Zwei neue Teilprüfungen1916/1918;1913/1915 erhalten weitere Referenzen ohne neue Erstzählung. Zwölf Anschlussfragen und fünf dokumentierte Nichtanschlüsse; Fortsetzung1921. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle56 Mathematikkarten in sieben frischen Browsergruppen erfolgreich geprüft; alle369 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle tatsächlichen Testläufe bestanden im ersten Versuch. Ein anfänglicher Verbindungsfehler der automatischen Freigabe verhinderte zunächst den Browserstart; der erneute freigegebene Start gelang. Kein ununterbrochener56-Karten-Lauf behauptet. Ziel-/Kriterienübernahme, sichtbare Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Veröffentlichung und öffentliche Prüfung noch ausstehend.

@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-047",
+  "last_batch": "MA-048",
   "complete": false,
   "counts": {
-    "cards": 55,
-    "cross_band": 16
+    "cards": 56,
+    "cross_band": 17
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2027,10 +2027,88 @@
       "area": "Wahlbereich 4: Zahlenzauberei",
       "operator": "",
       "version": "2019"
+    },
+    "page912_1916": {
+      "id": "page912_1916",
+      "level": 3,
+      "parent_target_id": "page912_1912",
+      "target": "mit zwei Einheiten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1916",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_1918": {
+      "id": "page912_1918",
+      "level": 3,
+      "parent_target_id": "page912_1912",
+      "target": "in Kommaschreibweise",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1918",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_35491": {
+      "id": "page139_35491",
+      "level": 1,
+      "parent_target_id": "page139_35491",
+      "target": "Übertragen von Mengen- und Zahlvorstellungen auf den Umgang mit Geld",
+      "remarks": "Realobjekte, bildliche und symbolische Darstellungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35491",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": "Übertragen",
+      "version": "2019"
+    },
+    "page139_35492": {
+      "id": "page139_35492",
+      "level": 2,
+      "parent_target_id": "page139_35491",
+      "target": "Darstellen, Ordnen, Wechseln, Herausgeben und Notieren von Geldbeträgen",
+      "remarks": "Münzen und Scheine unterschiedlich bündeln Operieren mit Münzen und Scheinen im Zahlenraum bis 100 Einkauf planen und üben, Preisvergleiche, Taschengeld, Sparen szenisches Gestalten Differenzierung: Formulierungshilfen geben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35492",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
+    },
+    "page139_35493": {
+      "id": "page139_35493",
+      "level": 3,
+      "parent_target_id": "page139_35491",
+      "target": "Beziehung: 1 Euro = 100 Cent",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35493",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
+    },
+    "page139_35494": {
+      "id": "page139_35494",
+      "level": 3,
+      "parent_target_id": "page139_35491",
+      "target": "Kommaschreibweise bei Geldbeträgen",
+      "remarks": "verschiedene sprachliche Formulierungen: fünf Euro und zwanzig Cent; fünf Euro zwanzig; fünf Euro, zwanzig Cent",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35494",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_1916",
-  "next_step": "GS1/2 Geldbeträge mit zwei Einheiten1916 unter Kennen1912 als nächsten offenen Ausschnitt gegen beide FSP-Bänder prüfen; anschließend Stellenwerttafel1917 und Kommaschreibweise1918. Bestehende MA-003 deckt nur ganze Beträge bis20 in jeweils derselben Einheit ab. Positive FSP3/4-Kandidaten35491–35494 berücksichtigen; keine neue Vollabdeckung aus der Kartenexistenz ableiten.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten. App1.359 veröffentlicht und live geprüft; Nachweise in MA-047.",
+  "next_id": "page912_1921",
+  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Geldbeträgen1921 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-003 (Vergleich/Ordnung in einer Einheit) und MA-056 (Euro-Cent-/Kommaschreibweise, Betragsrahmen vorab festlegen) erhalten. Geld-Stellenwerttafel1917 bleibt eine der zwölf offenen Anschlussfragen. Wechseln187110, Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113 folgen gesondert.56 Karten; keine Vollabdeckung des Geldblocks.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2226,9 +2304,20 @@
         "page139_38000"
       ],
       "decision": "FSP1/2: Rechengeschichten in Bemerkung37859 dienen dem Bilden von Vereinigungs-/Differenzmengen;37896/37898 erschließen vorhandene Sachaufgaben und nennen Umformulieren, Hinterfragen und Erkennen einer Frage.37908 probiert Lösungswege,37911 formuliert Ergebnisse. Märchenbezug38000 überträgt einen Sachverhalt in Symbolik. Diese positiven Vorläufer belegen die umgekehrte Richtung einer vorgegebenen Rechenaufgabe zu einer selbst gebildeten Sachaufgabe nicht hinreichend konkret. FSP3/4:35505 nennt im Pflichtbereich das Variieren mathematischer Sachverhalte und in der Bemerkung ausdrücklich selbstständiges Bilden von Sachaufgaben sowie veränderte Sachverhalte bei gleichem Zahlenmaterial. Der spezifische Inhalt, nicht allein ein größerer Zahlenraum, begründet die Stufenüberschreitung.35586 belegt Selbstbilden ebenfalls, gehört aber zum Wahlbereich Zahlen in der Tierwelt unter Anwenden35582 und wird nicht als allgemeines Pflichtziel verwendet."
+    },
+    "MA-056": {
+      "same_band_candidate_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926",
+        "page139_37927",
+        "page139_37851",
+        "page139_37871"
+      ],
+      "decision": "FSP1/2 nennt Euro/Cent und Geldhandlungen; die Zehner-Einer-Stellenwerttafel betrifft zweistellige ganze Zahlen. Für die gemeinsame Darstellung eines Geldwerts mit beiden Einheiten und in Kommaschreibweise ist FSP3/4 35492–35494 unter Übertragen35491 der spezifischere positive Beleg. Die Entscheidung folgt dem Inhalt und der Schreibweise, nicht einem kleineren FSP1/2-Zahlenraum. Kein pauschaler Nichtanschluss für Geld in1/2."
     }
   },
-  "last_review_file": "review_batch_047.json",
+  "last_review_file": "review_batch_048.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2355,6 +2444,26 @@
         "page139_35415"
       ],
       "review_file": "review_batch_040.json"
+    },
+    {
+      "gs_id": "page912_1917",
+      "scope": "Geldbeträge in der Stellenwerttafel; Analogie 100 Einer = 1 Hunderter in der GS-Bemerkung.",
+      "status": "offen",
+      "reason": "Positive Gegenbezüge: FSP1/2-Zehner/Einer-Struktur mit Stellenwerttafel37871 sowie Einheiten37921 und Geldhandlungen37926; FSP3/4-dekadischer Zahlenaufbau/Stellentafel35468 und Geldbeziehung35493 mit Kommaschreibweise35494. Die Zahlenstrukturziele betreffen ganze Zahlen, das Geldziel einen gesonderten Übertragen-Zusammenhang. Eine fachlich tragfähige Verknüpfung zur konkreten Euro-/Cent-Stellenwerttafel einschließlich Cent-Zehnern, Nullen, Einheiten und zulässigem Betragsrahmen ist noch einzeln zu klären. Keine automatische Gleichsetzung der Zehn-zu-eins-Stellenbeziehung mit der Hundert-zu-eins-Einheitenbeziehung. Kein Nichtanschluss allein wegen fehlendem identischen Wortlaut; bestehende MA-024/MA-025 sind Vorbezüge, keine bereits geprüfte Geldtafelkarte.",
+      "candidate_ids": [
+        "page139_37851",
+        "page139_37871",
+        "page139_37913",
+        "page139_37921",
+        "page139_37926",
+        "page139_35461",
+        "page139_35468",
+        "page139_35491",
+        "page139_35492",
+        "page139_35493",
+        "page139_35494"
+      ],
+      "review_file": "review_batch_048.json"
     }
   ],
   "remaining_scopes": [
@@ -2628,15 +2737,39 @@
     },
     {
       "gs_id": "page912_1913",
-      "scope": "Erfassen und Darstellen von Geldbeträgen in weiteren Formen, Münz-/Scheinzusammensetzungen und andere Beträge außerhalb des gewählten Rahmens. FSP37926 (Legen/Zählen) und35492 (Darstellen) sind positive weiter zu prüfende Kandidaten, keine begründeten Nichtanschlüsse. Gemischte Einheiten, Wechseln und Rechnen werden in den jeweiligen Geschwisterzeilen gesondert geprüft.",
+      "scope": "Erfassen/Darstellen in weiteren Formen, Münz-/Scheinzusammensetzungen, Vergleich/Ordnung gemischter Beträge sowie andere Geldhandlungen bleiben offen. MA-003 deckt Vergleich/Ordnung innerhalb einer Einheit ab; MA-056 ergänzt ausschließlich den wertgleichen Schreibweisenwechsel Euro-Cent ↔ Euro-Kommaschreibweise im festgelegten Betragsrahmen.",
       "status": "offen",
-      "review": "MA-047"
+      "review": "MA-048",
+      "review_history": [
+        {
+          "batch": "MA-047",
+          "scope": "Erfassen und Darstellen von Geldbeträgen in weiteren Formen, Münz-/Scheinzusammensetzungen und andere Beträge außerhalb des gewählten Rahmens. FSP37926 (Legen/Zählen) und35492 (Darstellen) sind positive weiter zu prüfende Kandidaten, keine begründeten Nichtanschlüsse. Gemischte Einheiten, Wechseln und Rechnen werden in den jeweiligen Geschwisterzeilen gesondert geprüft."
+        }
+      ]
     },
     {
       "gs_id": "page912_1915",
-      "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen und Scheinen und Beziehung zwischen den Einheiten. Der Ausschnitt in MA-003 umfasst nur Einheitenerhalt beim Vergleichen/Ordnen ganzer Beträge bis20 Euro oder20 Cent. Gemischte Einheiten1916, Stellenwerttafel1917 und Kommaschreibweise1918 werden separat geprüft; keine doppelte Vollabdeckungszählung.",
+      "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen/Scheinen sowie Rechnen, Wechseln und Gesamtcent-Umrechnung bleiben offen. MA-003 deckt Einheitenerhalt bei Vergleich/Ordnung ab; MA-056 ergänzt die Euro-Cent-Beziehung nur als Grundlage des wertgleichen Schreibweisenwechsels. Stellenwerttafel1917 bleibt Anschlussfrage.",
       "status": "offen",
-      "review": "MA-047"
+      "review": "MA-048",
+      "review_history": [
+        {
+          "batch": "MA-047",
+          "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen und Scheinen und Beziehung zwischen den Einheiten. Der Ausschnitt in MA-003 umfasst nur Einheitenerhalt beim Vergleichen/Ordnen ganzer Beträge bis20 Euro oder20 Cent. Gemischte Einheiten1916, Stellenwerttafel1917 und Kommaschreibweise1918 werden separat geprüft; keine doppelte Vollabdeckungszählung."
+        }
+      ]
+    },
+    {
+      "gs_id": "page912_1916",
+      "scope": "Weitere Formen des Erfassens, Vergleichens, Ordnens und Darstellens von Beträgen mit zwei Einheiten, Münz-/Scheinzusammensetzungen und nicht normalisierte Centanteile; Wechseln, Umrechnen in Gesamtcent und Rechnen bleiben gesondert. MA-056 deckt nur den wertgleichen Schreibweisenwechsel im vorab festgelegten Betragsrahmen ab.",
+      "status": "offen",
+      "review": "MA-048"
+    },
+    {
+      "gs_id": "page912_1918",
+      "scope": "Weitere Verwendung der Kommaschreibweise beim Vergleichen, Ordnen und Rechnen mit Geld, variable Dezimalstellen und allgemeine Dezimalzahlen. MA-056 deckt nur den wertgleichen Wechsel mit normaler Euro-Cent-Angabe und zwei Nachkommastellen ab; keine vollständige GS-Zieldeckung.",
+      "status": "offen",
+      "review": "MA-048"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2659,7 +2792,7 @@
       "page912_1912"
     ],
     "rows": 105,
-    "note": "105 inventarisierte Zeilen,55 Karten (16 stufenübergreifend). MA-047 prüft die bereits MA-003 zugeordneten1913/1915 erneut und präzisiert ihre Ausschnitte. Keine neue Karte, keine zusätzliche Inventurzeile und keine neue Erstzuordnung gezählt.1912 bleibt Kontext; weitere Geldblockzeilen offen. Elf Anschlussfragen und alle früheren Restumfänge erhalten; Fortsetzung1916.",
+    "note": "105 inventarisierte Zeilen,56 Karten (17 stufenübergreifend). MA-048 prüft1916/1918 teilweise in einer neuen KarteMA-056;1913/1915 erhalten weitere begrenzte Referenzen ohne neue Erstzählung.1917 wird als offene Anschlussfrage dokumentiert;1912 bleibt Kontext. Zwölf Anschlussfragen, keine neue Nichtanschlussentscheidung; Fortsetzung1921.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2712,7 +2845,16 @@
     "remaining_unspecified_cards": [
       "MA-004"
     ],
-    "note": "Drei didaktische Zahlenrahmen aus Bandzielen abgeleitet, keine neu entdeckten ausdrücklichen Obergrenzen. Längenvergleich bleibt ohne belegte numerische Höchstgrenze. Keine neue GS-Zielzeile als geprüft gezählt."
+    "note": "Drei didaktische Zahlenrahmen aus Bandzielen abgeleitet, keine neu entdeckten ausdrücklichen Obergrenzen. Längenvergleich bleibt ohne belegte numerische Höchstgrenze. Keine neue GS-Zielzeile als geprüft gezählt.",
+    "follow_up": {
+      "batch": "MA-048",
+      "new_card_scope": "MA-056: notation and units evidenced; monetary upper bound not unambiguously evidenced,choose before use.",
+      "current_unspecified_cards": [
+        "MA-004",
+        "MA-056"
+      ],
+      "note": "MA-010 historical review retained. Missing upper bounds are not replaced by invented amounts."
+    }
   },
   "publication_recheck": {
     "batch": "MA-045",
@@ -2732,12 +2874,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-047",
-    "status": "verified",
-    "app_version": "1.359",
-    "app_commit": "92b413b5a3493d318fe8a3f637ef1a65e179f644",
-    "pages_run": 42999286994,
-    "live_sha256": "9bf9227ec5efa60156ddc99699947e247961bc10a0cf61982874d133db671213",
-    "browser": "targeted MA-003 live passed;all55 local in7 subsets"
+    "batch": "MA-048",
+    "status": "pending",
+    "app_version": "1.360",
+    "previous_verified_version": "1.359"
   }
 }
