@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-050",
+  "last_batch": "MA-051",
   "complete": false,
   "counts": {
-    "cards": 58,
-    "cross_band": 17
+    "cards": 59,
+    "cross_band": 18
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2131,10 +2131,23 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187111": {
+      "id": "page912_187111",
+      "level": 2,
+      "parent_target_id": "page912_1912",
+      "target": "Wählen von passenden Einheiten und Umrechnen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187111",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187111",
-  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187111 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-058 deckt nur wertgleiches Wechseln ganzer Beträge innerhalb derselben Einheit bis20 ab; dies ist keine Euro-Cent-Umrechnung. MA-056 betrifft lediglich Schreibweisenwechsel ohne Gesamtcentbetrag. Anschließend Sachrechnen187112 und Fachbegriffe187113.58 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; keine Vollabdeckung des Geldblocks. App1.362 veröffentlicht und live geprüft; Nachweise in MA-050.",
+  "next_id": "page912_187112",
+  "next_step": "GS1/2 Sachaufgaben mit einfacher Struktur und Rechnen mit Geldwerten187112 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende Geldkarten erhalten: MA-058 wechselt nur innerhalb derselben Einheit; MA-056 betrifft Schreibweisen ohne Gesamtcentbetrag; MA-059 nur1Euro↔100Cent. Anschließend Fachbegriffe187113.59 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; Einheitenwahl und allgemeine Umrechnung bleiben Rest von187111.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2341,9 +2354,17 @@
         "page139_37871"
       ],
       "decision": "FSP1/2 nennt Euro/Cent und Geldhandlungen; die Zehner-Einer-Stellenwerttafel betrifft zweistellige ganze Zahlen. Für die gemeinsame Darstellung eines Geldwerts mit beiden Einheiten und in Kommaschreibweise ist FSP3/4 35492–35494 unter Übertragen35491 der spezifischere positive Beleg. Die Entscheidung folgt dem Inhalt und der Schreibweise, nicht einem kleineren FSP1/2-Zahlenraum. Kein pauschaler Nichtanschluss für Geld in1/2."
+    },
+    "MA-059": {
+      "same_band_candidate_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926"
+      ],
+      "decision": "FSP1/2 benennt Euro/Cent und Wechseln von Geldbeträgen. Das sind positive Vorbezüge, jedoch kein ebenso konkreter Zielbeleg für die ausgewählte Hundert-zu-eins-Einheitenbeziehung. Diese ist in FSP3/4 35493 ausdrücklich genannt. Die Auswahl beruht auf der spezifischen Zielaussage, nicht allein auf dem didaktischen20-Rahmen früherer Karten. Kein pauschaler Ausschluss von Einheitenwahl oder Geldwechseln in1/2."
     }
   },
-  "last_review_file": "review_batch_050.json",
+  "last_review_file": "review_batch_051.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2779,9 +2800,9 @@
     },
     {
       "gs_id": "page912_1915",
-      "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, Rechnen, Wechseln zwischen den Einheiten und Gesamtcent-Umrechnung bleiben offen. MA-003 betrifft Einheitenerhalt bei Vergleich/Ordnung, MA-056 den Schreibweisenwechsel. MA-058 ergänzt unter187110 nur wertgleiches Wechseln innerhalb einer Einheit; keine zusätzliche Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage.",
+      "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, Rechnen, Wechseln zwischen den Einheiten und Gesamtcent-Umrechnung weiterer Beträge bleiben offen. MA-003 betrifft Vergleich/Ordnung,MA-056 Schreibweisen,MA-058 Wechseln innerhalb einer Einheit. MA-059 prüft unter187111 nur die Beziehung1Euro↔100Cent; keine zusätzliche Zuordnung oder Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage.",
       "status": "offen",
-      "review": "MA-050",
+      "review": "MA-051",
       "review_history": [
         {
           "batch": "MA-047",
@@ -2790,6 +2811,10 @@
         {
           "batch": "MA-048",
           "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen/Scheinen sowie Rechnen, Wechseln und Gesamtcent-Umrechnung bleiben offen. MA-003 deckt Einheitenerhalt bei Vergleich/Ordnung ab; MA-056 ergänzt die Euro-Cent-Beziehung nur als Grundlage des wertgleichen Schreibweisenwechsels. Stellenwerttafel1917 bleibt Anschlussfrage."
+        },
+        {
+          "batch": "MA-050",
+          "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, Rechnen, Wechseln zwischen den Einheiten und Gesamtcent-Umrechnung bleiben offen. MA-003 betrifft Einheitenerhalt bei Vergleich/Ordnung, MA-056 den Schreibweisenwechsel. MA-058 ergänzt unter187110 nur wertgleiches Wechseln innerhalb einer Einheit; keine zusätzliche Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage."
         }
       ]
     },
@@ -2816,6 +2841,12 @@
       "scope": "Wechseln zwischen Euro und Cent sowie gemischten Einheiten, weitere Betragsbereiche und flexible Verallgemeinerung des Wechselprinzips. Der ausgewählte Wechsel innerhalb derselben Einheit bis20 ist nur Teilabdeckung. Wechselgeld/Herausgeben mit Kaufpreisbezug und Einheitenumrechnung sind eigene Ausschnitte; die bloße Erhaltung des Geldwerts belegt sie nicht. Eine vollständige Ermittlung aller Stückelungen wird nicht abgedeckt.",
       "status": "offen",
       "review": "MA-050"
+    },
+    {
+      "gs_id": "page912_187111",
+      "scope": "Selbstständiges Wählen der zweckmäßigen Einheit Euro oder Cent, Umrechnen weiterer ganzer und gemischter Geldbeträge, Umrechnungen mit Kommaschreibweise, flexible Verallgemeinerung der Einheitenbeziehung und Einbindung in Sachsituationen. MA-059 belegt nur 1 Euro ↔ 100 Cent als elementaren Zusammenhang; allgemeine Umrechnungsverfahren und ihre Zahlen-/Betragsgrenzen bleiben gesondert zu klären. FSP1/2-Einheitenverwendung37921 und Geldwechseln37926 sowie FSP3/4-Geldkontext35492–35494 bleiben positive weiterführende Kandidaten, keine pauschalen Nichtanschlüsse.",
+      "status": "offen",
+      "review": "MA-051"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2838,7 +2869,7 @@
       "page912_1912"
     ],
     "rows": 105,
-    "note": "105 inventarisierte Zeilen,58 Karten (17 stufenübergreifend). MA-050 prüft187110 teilweise in MA-058;1912 bleibt Kontext. Keine neue Inventurzeile, Anschlussfrage oder Nichtanschlussentscheidung. Resthinweise1913/1915 aktualisiert, historische Texte erhalten, keine zusätzliche Zeilen-/Kartenzuordnung. Fortsetzung187111.",
+    "note": "105 inventarisierte Zeilen,59 Karten (18 stufenübergreifend). MA-051 prüft187111 teilweise durch die konkrete Einheitenbeziehung in MA-059;1912 bleibt Kontext. Keine neue Inventurzeile, Anschlussfrage oder Nichtanschlussentscheidung. Resthinweis1915 aktualisiert, historischer Text erhalten; keine zusätzliche Zuordnung. Fortsetzung187112.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2920,12 +2951,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-050",
-    "status": "verified",
-    "app_version": "1.362",
-    "app_commit": "561dcb1c4e563f2a85f7fc2287fcf5acdd0dc22f",
-    "pages_run": 43074588149,
-    "live_sha256": "5bbd9090737bac1def9ec24e1c634b71216128d1d49590d3b3c0d6cd104ab6db",
-    "browser": "targeted MA-058 live passed;all58 local in8 subsets"
+    "batch": "MA-051",
+    "status": "pending",
+    "app_version": "1.363",
+    "previous_verified_version": "1.362"
   }
 }

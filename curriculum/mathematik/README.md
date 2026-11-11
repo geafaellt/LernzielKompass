@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-050
+# Mathematik-Abgleich · MA-051
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Achtundfünfzig Karten dokumentieren begrenzte Anschlüsse. Einundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054 und MA-056 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Neunundfünfzig Karten dokumentieren begrenzte Anschlüsse. Einundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056 und MA-059 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Einheitenwahl und Umrechnen187111. [MA-050](review_batch_050.json) ergänzt MA-058 für wertgleiches Wechseln in anderer Stückelung innerhalb derselben Einheit.58 Karten und zwölf Anschlussfragen; weitere Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Sachaufgaben und Rechnen mit Geldwerten187112. [MA-051](review_batch_051.json) ergänzt MA-059 für die konkrete Einheitenbeziehung1Euro=100Cent.59 Karten und zwölf Anschlussfragen; Einheitenwahl und allgemeine Umrechnung bleiben als Rest von187111 offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -579,3 +579,12 @@ MA-058 verbindet GS187110 mit FSP1/2 Wechseln37926 unter Einblick gewinnen37913.
 Bis20 Euro oder20 Cent wird didaktisch aus Zahlaufbau37739 und Zahlenraumhinweis37926 abgeleitet. Die ausgewählten Geldzielzeilen nennen keine eigene Obergrenze. Ganze positive Ausgangsbeträge und gültige Stückelungen in jeweils derselben Einheit; alle Teil-, Gesamt-, Zwischen- und Endwerte bleiben im Rahmen. Keine gemischten Einheiten, Gesamtcent-Umrechnung, Kommaschreibweise, Wechselgeld oder Kaufpreis-Abzüge. Umrechnen187111 folgt gesondert. Vollständige GS-Zieldeckung und routiniertes Wechseln aller Beträge werden nicht behauptet.
 
 58 Karten (41 passend,17 stufenübergreifend),170 Quellen,168 Zielanker,105 Inventurzeilen und zwölf Anschlussfragen. Eine neue Teilprüfung187110; keine neue Inventur, Anschlussfrage oder Nichtanschlussentscheidung. Alle57 bestehenden Karten erhalten; Resthinweise1913/1915 aktualisiert, historische Texte bewahrt, keine zusätzliche Zuordnung. Fortsetzung187111. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle58 Mathematikkarten in acht frischen Browsergruppen erfolgreich geprüft; alle371 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Kein ununterbrochener58-Karten-Gesamtlauf behauptet; frühere Langzeitprobleme bleiben in den älteren Prüfpaketen dokumentiert. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Mobile Nachprüfung an MA-018, nicht an jeder Karte einzeln. Veröffentlicht mit Commit561dcb1c4e563f2a85f7fc2287fcf5acdd0dc22f und erfolgreichem [Pages-Lauf43074588149](https://github.com/geafaellt/LernzielKompass/actions/runs/43074588149). App1.362 ist live bytegleich zum geprüften Stand (SHA2565bbd9090737bac1def9ec24e1c634b71216128d1d49590d3b3c0d6cd104ab6db). Gezielte öffentliche MA-058-Prüfung in beiden GS-Jahrgängen einschließlich genauer Ziel-/Kriterienübernahme, sichtbarem didaktisch abgeleitetem Betragsrahmen und Hinweis auf dieselbe Einheit, Quellenlinks, Entwurfserhalt, Fachwechsel, Neuladen und mobiler Ansicht bestanden. Kein vollständiger58-Karten-Livedurchlauf behauptet.
+
+
+## MA-051 · App 1.363 · 11.11.2026
+
+MA-059 verbindet den elementaren Umrechnungszusammenhang aus GS187111 mit der ausdrücklichen FSP3/4-Einheitenbeziehung35493:1Euro=100Cent. GS bleibt Kennen1912, FSP Übertragen35491. Der stufenübergreifende Beleg ist spezifischer als die allgemeinen positiven FSP1/2-Ziele zu Einheiten und Wechseln; der kleinere Zahlenraum ist nicht das Ausschlussargument. MA-056 bleibt beim Schreibweisenwechsel,MA-058 beim Wechseln innerhalb einer Einheit.
+
+Der Geltungsbereich ist fachspezifisch: nur die ausdrücklich belegte Beziehung und ihre Rückrichtung. Weder1Euro noch100Cent oder100Euro wird als allgemeine Geldobergrenze ausgegeben. Feinziele und Kriterien bleiben bei diesem Geldwert in zwei Einheiten und verlangen keine weiteren Beträge oder Zwischenrechnungen. Einheitenwahl, allgemeines Umrechnen, gemischte Angaben, Kommaschreibweise und Sachsituationen bleiben offen. Konkrete Aufgaben und Hilfsmittel werden nicht vorgegeben.
+
+59 Karten (41 passend,18 stufenübergreifend),171 Quellen,169 Zielanker,105 Inventurzeilen und zwölf Anschlussfragen. Eine neue Teilprüfung187111; keine neue Inventur, Anschlussfrage oder Nichtanschlussentscheidung. Alle58 bestehenden Karten erhalten; Resthinweis1915 präzisiert und historischer Text bewahrt, keine zusätzliche Zuordnung. Fortsetzung187112. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle59 Mathematikkarten in acht frischen Browsergruppen erfolgreich geprüft; alle372 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Kein ununterbrochener59-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-059 direkt bei320px und390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlichung und öffentliche Prüfung noch ausstehend.

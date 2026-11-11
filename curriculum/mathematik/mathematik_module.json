@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.7",
+  "version": "MA-2026-11-11.8",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1129,6 +1129,12 @@
       "id": "Q-MA-page912_187110",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187110",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187111",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187111",
       "version": "2026"
     }
   ],
@@ -5873,6 +5879,81 @@
         "fsp": "37926 nennt Wechseln ausdrücklich im Unterzieltext unter Einblick gewinnen37913; es ist hier kein bloßer Differenzierungshinweis. Der Preisabschätzungs-Hinweis derselben Bemerkung gehört nicht zu dieser Karte. Euro/Cent stehen in37921; Zahlenraum beachten ist Bemerkung, bis20 übergreifendes Zahlaufbauziel37739. Wertgleichheit und Auswahl derselben Einheit sind didaktische Konkretisierungen.",
         "fsp_remark_anchors": [
           "page139_37926"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
+        ]
+      }
+    },
+    {
+      "id": "MA-059",
+      "subject": "Mathematik",
+      "theme": "Die Einheitenbeziehung zwischen Euro und Cent",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · stufenübergreifend · konkrete Einheitenbeziehung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Wählen von passenden Einheiten und Umrechnen (187111) unter Kennen (1912); nur elementare Euro-Cent-Beziehung",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Beziehung 1 Euro = 100 Cent (35493) im Geldbetragsziel (35492) unter Übertragen (35491)",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Kennen · FSP: Übertragen. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: die ausdrücklich belegte Einheitenbeziehung 1 Euro = 100 Cent in beiden Richtungen verwenden. GS bleibt Kennen aus 1912; FSP Übertragen aus 35491. FSP 35493 ist der konkrete Zielbeleg, kein bloßes Zahlenbeispiel aus einer Bemerkung. Die beiden Zahlen mit ihren Einheiten bezeichnen denselben Geldwert; sie sind keine allgemeine Zahlenraum- oder Betragsobergrenze. GS 187111 wird nur im elementaren Umrechnungszusammenhang erfasst. Selbstständige Wahl einer passenden Einheit, weitere Beträge, gemischte Angaben und allgemeine Umrechnungsverfahren bleiben offen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_187111"
+      ],
+      "fsp_target_ids": [
+        "page139_35491",
+        "page139_35492",
+        "page139_35493"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_187111",
+        "Q-MA-page139_35491",
+        "Q-MA-page139_35492",
+        "Q-MA-page139_35493"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: die ausdrücklich belegte Einheitenbeziehung 1 Euro = 100 Cent in beiden Richtungen verwenden. GS bleibt Kennen aus 1912; FSP Übertragen aus 35491. FSP 35493 ist der konkrete Zielbeleg, kein bloßes Zahlenbeispiel aus einer Bemerkung. Die beiden Zahlen mit ihren Einheiten bezeichnen denselben Geldwert; sie sind keine allgemeine Zahlenraum- oder Betragsobergrenze. GS 187111 wird nur im elementaren Umrechnungszusammenhang erfasst. Selbstständige Wahl einer passenden Einheit, weitere Beträge, gemischte Angaben und allgemeine Umrechnungsverfahren bleiben offen.",
+      "shared_object_suggestion": "Ein Geldwert, zwei Einheiten: Ein Euro und hundert Cent sind gleich viel wert.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind gibt den Geldwert von 1 Euro als 100 Cent und den Geldwert von 100 Cent als 1 Euro an.",
+          "criterion": "Zahl und Einheit sind in beiden Richtungen richtig verbunden; der Geldwert bleibt gleich. Der Nachweis bezieht sich ausschließlich auf die Einheitenbeziehung 1 Euro = 100 Cent. Weitere Beträge, Zwischenrechnungen oder die selbstständige Auswahl einer passenden Einheit werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung eines elementaren Umrechnungszusammenhangs unter Kennen; keine vollständige Abdeckung von Einheitenwahl und Umrechnen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind ordnet 1 Euro und 100 Cent einander als denselben Geldwert zu und verwendet die Einheitenbeziehung in beiden Richtungen.",
+          "criterion": "1 Euro wird wertgleich als 100 Cent und 100 Cent als 1 Euro angegeben; die Einheit wird jeweils richtig mitgenannt. Gegenstand und Ergebnisse bleiben auf diesen ausdrücklich belegten Geldwert in den beiden Einheiten begrenzt. Zusätzliche Zwischenrechnungen, andere Beträge, gemischte Angaben und Wechselgeld sind nicht Bestandteil des Feinziels.",
+          "status": "Didaktische Konkretisierung der ausdrücklich belegten Einheitenbeziehung35493 unter Übertragen35491; kein allgemeines Umrechnungsverfahren.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: 1 Euro = 100 Cent · keine allgemeine Betragsobergrenze",
+        "detail": "FSP 35493 nennt die Beziehung 1 Euro = 100 Cent ausdrücklich. Die Karte begrenzt ihren Gegenstand auf diese Beziehung und ihre Umkehrung; sie behauptet weder eine Höchstgrenze von 1 Euro noch einen allgemeinen Zahlenraum bis 100 oder einen Betrag bis 100 Euro. Die Bemerkung zu 35492 nennt Operieren mit Münzen und Scheinen im Zahlenraum bis 100, ohne daraus eine einheitlich bestimmte Geldobergrenze für allgemeine Umrechnungen festzulegen. GS 187111 nennt keine eigene Obergrenze.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35493",
+          "Q-MA-page139_35492"
+        ],
+        "planning_rule": "Nur die belegte Wertgleichheit 1 Euro = 100 Cent und die Rückrichtung 100 Cent = 1 Euro zugrunde legen. Zahl und Einheit immer zusammen behandeln. Der gemeinsame Gegenstand und die Ergebnisse bleiben auf diesen Geldwert in zwei Einheiten begrenzt; keine zusätzlichen Zwischenrechnungen oder weiteren Beträge ergänzen. Daraus weder eine allgemeine Betragsobergrenze noch ein Verfahren für beliebige Euro-/Centbeträge ableiten. Gemischte Angaben, Kommaschreibweisen, Einheitenwahl nach Zweckmäßigkeit, Wechselgeld und Kaufpreisrechnungen gehören nicht zu diesem Feinziel. Erweiterungen in eigenen Entwürfen benötigen eine gesonderte fachliche Prüfung."
+      },
+      "evidence_classification": {
+        "gs": "187111 ist Unterziel unter Kennen1912; es enthält Einheitenwahl und Umrechnen. Die Karte wählt ausschließlich den elementaren Euro-Cent-Umrechnungszusammenhang.1912 bleibt Hauptzielkontext.",
+        "fsp": "35493 ist ein ausdrücklicher Zielunterpunkt des Geldbetragsziels35492 unter Übertragen35491. Die konkrete Einheitenbeziehung ist kein Bemerkungsbeispiel und keine Zahlenraumgrenze. Die beidseitige Zuordnung ist didaktische Konkretisierung ihrer Wertgleichheit; keine zusätzliche Zielzeile mit eigenem Operator.",
+        "fsp_remark_anchors": [
+          "page139_35492"
         ],
         "context_only_gs_ids": [
           "page912_1912"
