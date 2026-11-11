@@ -2134,7 +2134,7 @@
     }
   },
   "next_id": "page912_187111",
-  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187111 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-058 deckt nur wertgleiches Wechseln ganzer Beträge innerhalb derselben Einheit bis20 ab; dies ist keine Euro-Cent-Umrechnung. MA-056 betrifft lediglich Schreibweisenwechsel ohne Gesamtcentbetrag. Anschließend Sachrechnen187112 und Fachbegriffe187113.58 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; keine Vollabdeckung des Geldblocks.",
+  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187111 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-058 deckt nur wertgleiches Wechseln ganzer Beträge innerhalb derselben Einheit bis20 ab; dies ist keine Euro-Cent-Umrechnung. MA-056 betrifft lediglich Schreibweisenwechsel ohne Gesamtcentbetrag. Anschließend Sachrechnen187112 und Fachbegriffe187113.58 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; keine Vollabdeckung des Geldblocks. App1.362 veröffentlicht und live geprüft; Nachweise in MA-050.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2921,8 +2921,11 @@
   },
   "latest_publication": {
     "batch": "MA-050",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.362",
-    "previous_verified_version": "1.361"
+    "app_commit": "561dcb1c4e563f2a85f7fc2287fcf5acdd0dc22f",
+    "pages_run": 43074588149,
+    "live_sha256": "5bbd9090737bac1def9ec24e1c634b71216128d1d49590d3b3c0d6cd104ab6db",
+    "browser": "targeted MA-058 live passed;all58 local in8 subsets"
   }
 }

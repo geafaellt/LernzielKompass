@@ -236,12 +236,27 @@
     "browser_long_session_limit": "No uninterrupted58-card run claimed;fresh-browser subsets address previously documented long-session timeouts. No timeout observed this batch.",
     "browser_disclosures": "passed all371 cards:collapsed source/evidence disclosures,operator help,keyboard,drafts,mobile320/390.",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
-    "browser_live": "pending targeted MA-058 in both GS grades"
+    "browser_live": "passed targeted MA-058 in both GS grades with exact goal/criterion adoption,source links,visible derived20per-unit scope and planning rule,empty task/aid fields,preserved teacher drafts,subject isolation,reload,mobile. Full58-card public run not repeated;all58 locally covered in8 fresh-browser subsets. Mobile follow-up uses existing MA-018 at390px,not a separate mobile visit of every card."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.362",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "5bbd9090737bac1def9ec24e1c634b71216128d1d49590d3b3c0d6cd104ab6db"
+    "target_sha256": "5bbd9090737bac1def9ec24e1c634b71216128d1d49590d3b3c0d6cd104ab6db",
+    "app_commit": "561dcb1c4e563f2a85f7fc2287fcf5acdd0dc22f",
+    "pages_run": 43074588149,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43074588149",
+    "pages_conclusion": "success",
+    "live_app_version": "1.362",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "5bbd9090737bac1def9ec24e1c634b71216128d1d49590d3b3c0d6cd104ab6db",
+    "verified_at": "2026-11-11T20:07:49.650887+00:00",
+    "initial_live_fetch": {
+      "status": "partial_transfer_timeout",
+      "curl_exit": 28,
+      "received_bytes": 694702,
+      "expected_bytes": 4906297,
+      "resolution": "Fresh full download succeeded and matched target byte-for-byte;targeted public browser test passed."
+    }
   }
 }
