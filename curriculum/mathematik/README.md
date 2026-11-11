@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-043
+# Mathematik-Abgleich · MA-044
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Zweiundfünfzig Karten dokumentieren begrenzte Anschlüsse. Siebenunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050 und MA-051 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Dreiundfünfzig Karten dokumentieren begrenzte Anschlüsse. Achtunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050 und MA-051 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beim Modellieren187091 unter Einblick gewinnen1911. [MA-043](review_batch_043.json) ergänzt MA-052 zum Stellen bzw. Erkennen einer Gesamtanzahlfrage.52 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung beim Erfinden von Sachaufgaben187092, danach Muster und Strategien in Spielen187093. [MA-044](review_batch_044.json) ergänzt MA-053 zum additiven Skizzenmodell.53 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -514,3 +514,14 @@ MA-052 verbindet das GS-Fragenstellen187090 mit dem FSP1/2-Erkennen einer Frage 
 FSP bis20 ist didaktisch aus dem Bandziel37739 abgeleitet; GS bis20 ebenfalls didaktisch gewählt, keine amtliche Zielzeilenobergrenze. Beide Teilanzahlen, gesuchte Summe und relevante Zwischen-/Endwerte sind begrenzt. Keine konkreten Aufgaben oder Hilfsmittel werden vorgegeben. Rest: andere Fragearten/Operationen, Spiele und unvollständige oder unrealistische Situationen sowie vollständige GS-Zieldeckung.52 Karten (37 passend,15 stufenübergreifend),155 Quellen,153 Zielanker;92 Inventurzeilen bleiben92, eine davon jetzt teilweise geprüft. Elf Anschlussfragen unverändert. Fortsetzung187091.
 
 Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle52 Mathematikkarten lokal im Browser geprüft; ergänzende Quellen-/Hinweisprüfung über alle365 Karten bestanden. Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Entwürfe und mobile Ansichten bestätigt. Veröffentlicht mit Commit8f30d947639d913de5d8b93ff6d2498d844cd85a und erfolgreichem [Pages-Lauf42913481303](https://github.com/geafaellt/LernzielKompass/actions/runs/42913481303). App1.355 ist live bytegleich zum geprüften Stand (SHA2568045760c036698512bb5c8e6fc6c08bb099c1a7b032d931c43277758ec8cfcf4). Gezielte öffentliche MA-052-Prüfung in beiden GS-Jahrgängen einschließlich Entwurfserhalt, Fachwechsel, Neuladen und mobiler Ansicht bestanden. Der erste Versuch brach beim Neuladen mit net::ERR_NETWORK_CHANGED ab; unveränderte vollständige Wiederholung erfolgreich. Kein vollständiger52-Karten-Livedurchlauf behauptet.
+
+
+## MA-044 · App 1.356 · 11.11.2026
+
+MA-053 ergänzt den stufenbandpassenden Skizzenausschnitt aus GS187091. FSP37908 nennt die Skizze in der Bemerkung zum Probieren verschiedener Lösungswege;37898 begründet den Bezug auf wesentliche Angaben und Rechenoperation. Beide Hauptoperatoren sind Einblick gewinnen. FSP3/4-Skizzieren35509 ist ein positiver weiterführender Kandidat, der passende1/2-Beleg wird bevorzugt. Die Darstellung muss Teile und Ganzes mathematisch verbinden, nicht nur die Situation illustrieren.
+
+MA-029 bleibt unverändert: anderer Gegenstand Bildsituation → Gleichung unter GS-Kennen1857. MA-052 betrifft das Fragenstellen/-erkennen. Ihre Zeilen werden nicht erneut gezählt. Die neue Karte nimmt keine vollständige Deckung des Modellierens oder sämtlicher FSP-Lösungswege vorweg. Tabellen, Terme, Gleichungen, andere Operationen und funktionale Beziehungen bleiben offen.
+
+GS bis20 ist didaktisch gewählt; FSP bis20 aus übergreifendem Bandziel37739 abgeleitet. Die Zielzeilen haben keine eigene Höchstzahl. Beide Teilanzahlen, Gesamtanzahl, dargestellte Werte sowie relevante Zwischen-/Endwerte bleiben bis20. Aufgaben, Zeichenstil und Hilfsmittel bleiben Lehrkraftentscheidung.53 Karten (38 passend,15 stufenübergreifend),156 Quellen und154 Zielanker.94 Inventurzeilen:187092/187093 neu, aber ungeprüft. Elf Anschlussfragen erhalten. Fortsetzung187092.
+
+Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle53 Mathematikkarten mit unveränderten Prüfaussagen in sieben getrennten Browsergruppen erfolgreich geprüft; außerdem gezielte MA-053-Prüfung und Hinweis-/Quellenprüfung aller366 Karten bestanden. Drei lange Gesamtdurchläufe brachen an unterschiedlichen vorhandenen Karten mit Zeitlimits ab; deren Ursache ist nicht abschließend geklärt. Kein erfolgreicher ununterbrochener Gesamtdurchlauf behauptet. Die frischen Browsersitzungen prüfen dieselben Karten, Zielübernahme, Grenzen, Quellen, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht. Veröffentlichung und öffentliche MA-053-Prüfung stehen noch aus.

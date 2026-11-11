@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-043",
+  "last_batch": "MA-044",
   "complete": false,
   "counts": {
-    "cards": 52,
+    "cards": 53,
     "cross_band": 15
   },
   "source_plans": {
@@ -1924,10 +1924,23 @@
       "version": "2026",
       "target": "Stellen von Fragen, die mit mathemati­schen Mitteln bearbeitet werden können",
       "remarks": "lebensweltlichen Bezug herstellen Wetter, Verkehr, Schule, Gesundheit überbestimmte, unterbestimmte und unrealistische Aufgaben"
+    },
+    "page912_187091": {
+      "id": "page912_187091",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "level": 2,
+      "parent_target_id": "page912_1911",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187091",
+      "version": "2026",
+      "target": "Modellieren unter Nutzung von Skizzen, Tabellen, Termen, Gleichungen",
+      "remarks": "Lösen von Gleichungen durch Probieren einfache, alltagsnahe funktionale Beziehungen in Sachsituationen beschreiben Menge-Preis; Halbieren-Verdoppeln ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang ➔ LB Größen und Messen"
     }
   },
-  "next_id": "page912_187091",
-  "next_step": "GS1/2 Modellieren187091 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. Bestehende MA-029 (Bildsituation → Gleichung unter GS-Kennen1857) auf Wiederverwendbarkeit prüfen, dabei unterschiedliche Hauptoperatoren nicht vermischen. MA-052 begrenzt187090 auf Stellen gegenüber Erkennen einer Gesamtanzahlfrage, FSP didaktisch bis20.52 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten. Veröffentlichung1.354 nachgeprüft; MA-043-Veröffentlichungsnachweis beachten.",
+  "next_id": "page912_187092",
+  "next_step": "GS1/2 Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben187092 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Muster und Strategien in Spielen187093. MA-053 prüft187091 nur für ein additives Skizzenmodell, FSP didaktisch bis20. MA-029 mit anderem GS-Hauptoperator Kennen und Gegenstand Bildsituation → Gleichung bleibt unverändert.53 Karten, elf Anschlussfragen und alle Restumfänge erhalten; Veröffentlichung MA-044 nachweisen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2112,7 +2125,7 @@
       "network_follow_up": "FSP1/2:37885/37889 nennen Umkehrbeziehungen im additiven Kontext37863;37869 betrifft additive Grundaufgaben bis10. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber keine hinreichend bestimmte multiplikative Vernetzung. FSP3/4:35441 nennt die Beziehung von Multiplikation und Division,35442 Umkehraufgaben und Kernaufgaben2,5,10 in der Bemerkung,35443 die Zuordnung von Multiplikations-/Divisionsgleichungen. Dieser Inhalt begründet den stufenübergreifenden Teilanschluss, nicht allein der größere Zahlenraum.35435/35437/35438 betreffen Grundvorstellungen unter Einblick gewinnen;35447 den gesonderten Kontrollzweck;35485 bleibt additiv unter Übertragen35470."
     }
   },
-  "last_review_file": "review_batch_043.json",
+  "last_review_file": "review_batch_044.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2491,6 +2504,12 @@
       "scope": "Weitere Fragearten und Rechenoperationen, Spiele, über- und unterbestimmte sowie unrealistische Situationen, selbstständiges Entwickeln mehrerer Fragestellungen und die vollständige GS-Zieldeckung. FSP1/2-Erkennen einer Frage ist kein Nachweis selbstständigen Fragenstellens. Der weiterführende positive FSP3/4-Bezug35505/35508 bleibt als mögliche Erweiterung dokumentiert; Modellieren187091 folgt gesondert.",
       "status": "offen",
       "review_file": "review_batch_043.json"
+    },
+    {
+      "gs_id": "page912_187091",
+      "scope": "Tabellen, Terme und Gleichungen als Modelle; weitere Rechenoperationen, Darstellungswechsel und selbstständige Auswahl zwischen Modellen; funktionale Beziehungen wie Menge–Preis und Halbieren–Verdoppeln sowie Gleichungslösen durch Probieren aus der GS-Bemerkung. Vollständige GS-Zieldeckung und das gesamte FSP-Probieren verschiedener Lösungswege werden nicht behauptet.",
+      "status": "offen",
+      "review_file": "review_batch_044.json"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2511,8 +2530,8 @@
       "page912_187087",
       "page912_1911"
     ],
-    "rows": 92,
-    "note": "92 inventarisierte Zeilen,52 Karten (15 stufenübergreifend). MA-043 prüft187090 teilweise mit neuer MA-052;1911 bleibt Hauptzielkontext,187091 offen. Keine neue Inventurzeile. Elf Anschlussfragen und alle Restumfänge erhalten.",
+    "rows": 94,
+    "note": "94 inventarisierte Zeilen,53 Karten (15 stufenübergreifend). MA-044 prüft187091 teilweise;1911 bleibt Hauptzielkontext.187092/187093 neu ausschließlich zur Fortsetzung inventarisiert und ungeprüft. Elf Anschlussfragen und alle Restumfänge erhalten.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

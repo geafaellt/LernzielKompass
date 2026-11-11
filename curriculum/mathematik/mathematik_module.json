@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-10.6",
-  "checked_on": "2026-11-10",
+  "version": "MA-2026-11-11.1",
+  "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1039,6 +1039,12 @@
       "id": "Q-MA-page912_187090",
       "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Stellen von Fragen, die mit mathematischen Mitteln bearbeitet werden können",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187090",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187091",
+      "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Modellieren unter Nutzung von Skizzen, Tabellen, Termen, Gleichungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187091",
       "version": "2026"
     }
   ],
@@ -5282,6 +5288,85 @@
         "fsp": "37898 ist verbindliches Unterziel unter Einblick gewinnen37896. Erkennen einer Frage steht in der Bemerkung37898. Frage zur Gesamtanzahl und sprachliche Konkretisierung sind didaktisch ausgewählt; kein ausdrücklicher FSP1/2-Auftrag zum selbstständigen Stellen einer Frage.",
         "fsp_remark_anchors": [
           "page139_37898"
+        ],
+        "context_only_gs_ids": [
+          "page912_1911"
+        ]
+      }
+    },
+    {
+      "id": "MA-053",
+      "subject": "Mathematik",
+      "theme": "Teil und Ganzes als mathematisches Skizzenmodell",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter Anschluss · Skizze als Modell · FSP-Beleg aus Bemerkung",
+      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich2: Zahl und Operation · Modellieren unter Nutzung von Skizzen, Tabellen, Termen, Gleichungen unter Einblick gewinnen1911; Ausschnitt additive Skizze",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.1/2 · Lernbereich2: Die Welt um mich herum · Sachaufgabenstrategien unter Einblick gewinnen37896; wesentliche Angaben37898 und Skizze als Bemerkungsbeleg zum Probieren verschiedener Lösungswege37908",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS1/2 → FSP1/2. Beide Hauptoperatoren lauten Einblick gewinnen: GS1911 und FSP37896. GS187091 nennt Skizzen als Modellierungsform. FSP37908 nennt Probieren verschiedener Lösungswege; Skizze steht in dessen Bemerkung und wird nicht zum eigenen Zieloperator erhoben. Die Darstellung einer additiven Teil-Ganzes-Beziehung in einer Skizze ist eine didaktische Auswahl. FSP37898 stützt den Bezug auf wesentliche Angaben und Rechenoperation. Die Zielzeilen nennen keine eigene numerische Obergrenze: FSP bis 20 wird didaktisch aus Bandziel37739 abgeleitet; GS bis 20 ist für dieses Feinziel ebenfalls didaktisch gewählt, keine amtliche GS-Höchstgrenze. Der Anschluss deckt das GS-Ziel nicht vollständig. Tabellen, Terme und Gleichungen als Modelle; weitere Rechenoperationen, Darstellungswechsel und selbstständige Auswahl zwischen Modellen; funktionale Beziehungen wie Menge–Preis und Halbieren–Verdoppeln sowie Gleichungslösen durch Probieren aus der GS-Bemerkung. Vollständige GS-Zieldeckung und das gesamte FSP-Probieren verschiedener Lösungswege werden nicht behauptet.",
+      "gs_target_ids": [
+        "page912_1911",
+        "page912_187091"
+      ],
+      "fsp_target_ids": [
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1911",
+        "Q-MA-page912_187091",
+        "Q-MA-page139_37896",
+        "Q-MA-page139_37898",
+        "Q-MA-page139_37908",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS1/2 → FSP1/2. Beide Hauptoperatoren lauten Einblick gewinnen: GS1911 und FSP37896. GS187091 nennt Skizzen als Modellierungsform. FSP37908 nennt Probieren verschiedener Lösungswege; Skizze steht in dessen Bemerkung und wird nicht zum eigenen Zieloperator erhoben. Die Darstellung einer additiven Teil-Ganzes-Beziehung in einer Skizze ist eine didaktische Auswahl. FSP37898 stützt den Bezug auf wesentliche Angaben und Rechenoperation. Die Zielzeilen nennen keine eigene numerische Obergrenze: FSP bis 20 wird didaktisch aus Bandziel37739 abgeleitet; GS bis 20 ist für dieses Feinziel ebenfalls didaktisch gewählt, keine amtliche GS-Höchstgrenze. Der Anschluss deckt das GS-Ziel nicht vollständig. Tabellen, Terme und Gleichungen als Modelle; weitere Rechenoperationen, Darstellungswechsel und selbstständige Auswahl zwischen Modellen; funktionale Beziehungen wie Menge–Preis und Halbieren–Verdoppeln sowie Gleichungslösen durch Probieren aus der GS-Bemerkung. Vollständige GS-Zieldeckung und das gesamte FSP-Probieren verschiedener Lösungswege werden nicht behauptet.",
+      "shared_object_suggestion": "Zwei Teile bilden ein Ganzes: Anzahlen und ihre Beziehung in einer vereinfachten Darstellung.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bildet die additive Teil-Ganzes-Beziehung einer überschaubaren Sachsituation in einer Skizze ab und ordnet die dargestellten Teilanzahlen und die Gesamtanzahl der Situation zu; der gewählte Zahlenraum reicht bis 20.",
+          "criterion": "Die Skizze zeigt die beiden gleichartigen, überschneidungsfreien Teilmengen als Teile eines Ganzen; dargestellte Anzahlen und ihre Zuordnung stimmen mit der Sachsituation überein. Beide Teilanzahlen, die Gesamtanzahl und relevante Zwischen- und Endergebnisse bleiben bis 20. Nur nichtnegative ganze Anzahlen; eine rein illustrative Zeichnung ohne erkennbare Mengenbeziehung genügt nicht.",
+          "status": "Didaktische Konkretisierung von Einblick gewinnen1911; ein additiver Skizzenausschnitt. Bis20 didaktisch gewählt, keine eigene Obergrenze von187091."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt eine bereits geklärte additive Beziehung zwischen zwei Teilanzahlen und ihrer Gesamtanzahl in einer einfachen Skizze passend dar, im Zahlenraum bis 20.",
+          "criterion": "Die beiden vorab geklärten Teilanzahlen und ihre Zusammengehörigkeit zur Gesamtanzahl sind in der Skizze erkennbar und zutreffend zugeordnet. Beide Teilanzahlen, die Gesamtanzahl sowie alle dargestellten Werte und relevanten Zwischen- und Endergebnisse bleiben bis 20; nur nichtnegative ganze Anzahlen gleichartiger, überschneidungsfreier Teilmengen. Eigenständige Wahl zwischen mehreren Lösungswegen und Maßstabstreue werden nicht zusätzlich vorausgesetzt.",
+          "status": "Didaktische Konkretisierung eines ausgewählten Skizzenwegs aus Bemerkung37908 unter Einblick gewinnen37896. Kein Nachweis des gesamten Probierens verschiedener Lösungswege. Zahlenrahmen aus Bandziel37739 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "Die Sachaufgabenziele37896/37898/37908 nennen keine eigene numerische Obergrenze. Bandziel37739 benennt Mengen-/Operationsvorstellungen und Addition/Subtraktion bis20. Der additive Skizzenausschnitt wird didaktisch darauf begrenzt. GS1911/187091 ebenfalls ohne eigene Obergrenze; GS bis20 ist hier eine didaktische Auswahl, keine Begrenzung des gesamten Lehrplanziels.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Zwei nichtnegative ganze Teilanzahlen gleichartiger, überschneidungsfreier Mengen und ihre Gesamtanzahl bis 20. Beide Teilanzahlen, die Gesamtanzahl sowie alle dargestellten Werte und relevanten Zwischen- und Endergebnisse bleiben bis 20. Die Summe darf die Grenze nicht überschreiten. Die Skizze muss den Zusammenhang zwischen Teilen und Ganzem erkennbar machen; bloßes Dekorieren oder unsystematisches Abbilden ist kein Nachweis dieses Feinziels. Keine Einheitenumrechnung und keine Erweiterung auf andere Rechenoperationen. Maßstab, Zeichenstil und konkrete Aufgaben oder Hilfsmittel werden nicht vorgegeben; Lehrkraftentwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187091 ist verbindliches Unterziel unter Einblick gewinnen1911; Skizzen stehen im Zieltext. Gleichungslösen durch Probieren und funktionale Beziehungen stehen in der Bemerkung und bleiben hier offen.1911 ist nur Hauptzielkontext.",
+        "fsp": "37898 und37908 sind Unterziele unter Einblick gewinnen37896. Skizze ist Bemerkung zu37908. Ein additiver Skizzenweg ist didaktisch ausgewählt; die gesamte Mehrzahl verschiedener Lösungswege wird dadurch nicht abgedeckt.",
+        "fsp_remark_anchors": [
+          "page139_37908"
         ],
         "context_only_gs_ids": [
           "page912_1911"
