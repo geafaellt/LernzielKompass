@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-049",
+  "last_batch": "MA-050",
   "complete": false,
   "counts": {
-    "cards": 57,
+    "cards": 58,
     "cross_band": 17
   },
   "source_plans": {
@@ -2118,10 +2118,23 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187110": {
+      "id": "page912_187110",
+      "level": 2,
+      "parent_target_id": "page912_1912",
+      "target": "Wechseln von Geld als grundlegendes Prinzip",
+      "remarks": "Analogie zum Kardinalzahlbegriff ➔ LB Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187110",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187110",
-  "next_step": "GS1/2 Wechseln von Geld als grundlegendes Prinzip187110 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende MA-003,MA-041,MA-056 undMA-057 mit ihren getrennten Inhalts- und Zahlenraumgrenzen erhalten. Anschließend Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113.57 Karten und zwölf offene Anschlussfragen; der Rest von1921 und alle bisherigen Restumfänge bleiben offen. App1.361 veröffentlicht und live geprüft; Nachweise in MA-049.",
+  "next_id": "page912_187111",
+  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187111 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-058 deckt nur wertgleiches Wechseln ganzer Beträge innerhalb derselben Einheit bis20 ab; dies ist keine Euro-Cent-Umrechnung. MA-056 betrifft lediglich Schreibweisenwechsel ohne Gesamtcentbetrag. Anschließend Sachrechnen187112 und Fachbegriffe187113.58 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; keine Vollabdeckung des Geldblocks.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2330,7 +2343,7 @@
       "decision": "FSP1/2 nennt Euro/Cent und Geldhandlungen; die Zehner-Einer-Stellenwerttafel betrifft zweistellige ganze Zahlen. Für die gemeinsame Darstellung eines Geldwerts mit beiden Einheiten und in Kommaschreibweise ist FSP3/4 35492–35494 unter Übertragen35491 der spezifischere positive Beleg. Die Entscheidung folgt dem Inhalt und der Schreibweise, nicht einem kleineren FSP1/2-Zahlenraum. Kein pauschaler Nichtanschluss für Geld in1/2."
     }
   },
-  "last_review_file": "review_batch_049.json",
+  "last_review_file": "review_batch_050.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2750,25 +2763,33 @@
     },
     {
       "gs_id": "page912_1913",
-      "scope": "Erfassen/Darstellen in weiteren Formen, Münz-/Scheinzusammensetzungen, Vergleich/Ordnung gemischter Beträge sowie andere Geldhandlungen bleiben offen. MA-003 deckt Vergleich/Ordnung innerhalb einer Einheit ab; MA-056 ergänzt ausschließlich den wertgleichen Schreibweisenwechsel Euro-Cent ↔ Euro-Kommaschreibweise im festgelegten Betragsrahmen.",
+      "scope": "Erfassen/Darstellen in weiteren Formen, Münz-/Scheinzusammensetzungen außerhalb der ausgewählten Anschlüsse und Vergleich/Ordnung gemischter Beträge bleiben offen. MA-003 betrifft Vergleich/Ordnung in einer Einheit, MA-056 den Schreibweisenwechsel. MA-058 prüft das wertgleiche Wechseln innerhalb derselben Einheit gesondert unter187110; keine zusätzliche Zuordnung oder Vollabdeckung von1913.",
       "status": "offen",
-      "review": "MA-048",
+      "review": "MA-050",
       "review_history": [
         {
           "batch": "MA-047",
           "scope": "Erfassen und Darstellen von Geldbeträgen in weiteren Formen, Münz-/Scheinzusammensetzungen und andere Beträge außerhalb des gewählten Rahmens. FSP37926 (Legen/Zählen) und35492 (Darstellen) sind positive weiter zu prüfende Kandidaten, keine begründeten Nichtanschlüsse. Gemischte Einheiten, Wechseln und Rechnen werden in den jeweiligen Geschwisterzeilen gesondert geprüft."
+        },
+        {
+          "batch": "MA-048",
+          "scope": "Erfassen/Darstellen in weiteren Formen, Münz-/Scheinzusammensetzungen, Vergleich/Ordnung gemischter Beträge sowie andere Geldhandlungen bleiben offen. MA-003 deckt Vergleich/Ordnung innerhalb einer Einheit ab; MA-056 ergänzt ausschließlich den wertgleichen Schreibweisenwechsel Euro-Cent ↔ Euro-Kommaschreibweise im festgelegten Betragsrahmen."
         }
       ]
     },
     {
       "gs_id": "page912_1915",
-      "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen/Scheinen sowie Rechnen, Wechseln und Gesamtcent-Umrechnung bleiben offen. MA-003 deckt Einheitenerhalt bei Vergleich/Ordnung ab; MA-056 ergänzt die Euro-Cent-Beziehung nur als Grundlage des wertgleichen Schreibweisenwechsels. Stellenwerttafel1917 bleibt Anschlussfrage.",
+      "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, Rechnen, Wechseln zwischen den Einheiten und Gesamtcent-Umrechnung bleiben offen. MA-003 betrifft Einheitenerhalt bei Vergleich/Ordnung, MA-056 den Schreibweisenwechsel. MA-058 ergänzt unter187110 nur wertgleiches Wechseln innerhalb einer Einheit; keine zusätzliche Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage.",
       "status": "offen",
-      "review": "MA-048",
+      "review": "MA-050",
       "review_history": [
         {
           "batch": "MA-047",
           "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen und Scheinen und Beziehung zwischen den Einheiten. Der Ausschnitt in MA-003 umfasst nur Einheitenerhalt beim Vergleichen/Ordnen ganzer Beträge bis20 Euro oder20 Cent. Gemischte Einheiten1916, Stellenwerttafel1917 und Kommaschreibweise1918 werden separat geprüft; keine doppelte Vollabdeckungszählung."
+        },
+        {
+          "batch": "MA-048",
+          "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen/Scheinen sowie Rechnen, Wechseln und Gesamtcent-Umrechnung bleiben offen. MA-003 deckt Einheitenerhalt bei Vergleich/Ordnung ab; MA-056 ergänzt die Euro-Cent-Beziehung nur als Grundlage des wertgleichen Schreibweisenwechsels. Stellenwerttafel1917 bleibt Anschlussfrage."
         }
       ]
     },
@@ -2789,6 +2810,12 @@
       "scope": "Münzen und Scheine als typische Repräsentanten, Beziehungen zwischen Preisen verschiedener Waren, Aufbau und Verwendung mehrerer Preisstützpunkte und Preisintervalle, weitere Einheiten/Betragsbereiche sowie längerfristiger Aufbau verfügbaren Stützpunktwissens. MA-057 deckt nur eine ungefähre Preisvorstellung zu einer vertrauten Ware und das ausgewählte FSP-Preisabschätzen ab. Eine plausible einzelne Schätzung beweist nicht die gesamte GS-Stützpunktkompetenz. Preisvergleiche und Überschlagsrechnen bleiben eigene Ausschnitte.",
       "status": "offen",
       "review": "MA-049"
+    },
+    {
+      "gs_id": "page912_187110",
+      "scope": "Wechseln zwischen Euro und Cent sowie gemischten Einheiten, weitere Betragsbereiche und flexible Verallgemeinerung des Wechselprinzips. Der ausgewählte Wechsel innerhalb derselben Einheit bis20 ist nur Teilabdeckung. Wechselgeld/Herausgeben mit Kaufpreisbezug und Einheitenumrechnung sind eigene Ausschnitte; die bloße Erhaltung des Geldwerts belegt sie nicht. Eine vollständige Ermittlung aller Stückelungen wird nicht abgedeckt.",
+      "status": "offen",
+      "review": "MA-050"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2811,7 +2838,7 @@
       "page912_1912"
     ],
     "rows": 105,
-    "note": "105 inventarisierte Zeilen,57 Karten (17 stufenübergreifend). MA-049 prüft1921 teilweise mit einer neuen KarteMA-057 für Preisvorstellungen/Preisabschätzen als FSP-Differenzierung.1912 bleibt Kontext. Keine zusätzliche Inventurzeile, keine neue Anschlussfrage und kein neuer Nichtanschluss. Zwölf Anschlussfragen; Fortsetzung187110.",
+    "note": "105 inventarisierte Zeilen,58 Karten (17 stufenübergreifend). MA-050 prüft187110 teilweise in MA-058;1912 bleibt Kontext. Keine neue Inventurzeile, Anschlussfrage oder Nichtanschlussentscheidung. Resthinweise1913/1915 aktualisiert, historische Texte erhalten, keine zusätzliche Zeilen-/Kartenzuordnung. Fortsetzung187111.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2893,12 +2920,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-049",
-    "status": "verified",
-    "app_version": "1.361",
-    "app_commit": "a6427772c57e3d6909a0ec7416a1c2414578bc7e",
-    "pages_run": 43073269580,
-    "live_sha256": "670af99789701e7fb0f18136f492a7020499f3279d4ecd4808c1d069cc712004",
-    "browser": "targeted MA-057 live passed;all57 local in8 subsets"
+    "batch": "MA-050",
+    "status": "pending",
+    "app_version": "1.362",
+    "previous_verified_version": "1.361"
   }
 }

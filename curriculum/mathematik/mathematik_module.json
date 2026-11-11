@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.6",
+  "version": "MA-2026-11-11.7",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1123,6 +1123,12 @@
       "id": "Q-MA-page912_1921",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1921",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187110",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187110",
       "version": "2026"
     }
   ],
@@ -5785,6 +5791,86 @@
       "evidence_classification": {
         "gs": "1921 ist Unterziel unter Kennen1912. Warenpreise, Beziehungen und Intervalle sind Bemerkungsbelege; die Karte wählt nur eine vertraute Ware und eine ungefähre Preisvorstellung.1912 bleibt Hauptzielkontext.",
         "fsp": "Abschätzen von Preisen ist ein Differenzierungshinweis in der Bemerkung37926 unter Einblick gewinnen37913.37921 belegt Euro. Zahlenraum beachten steht ebenfalls in der Bemerkung; bis20 stammt aus übergreifendem Zahlaufbau37739. Der Warenbezug, ganze Eurobeträge und die Plausibilitätsbewertung anhand eines vorab geprüften Preisbereichs sind didaktische Konkretisierungen, keine weiteren amtlichen Zieloperatoren.",
+        "fsp_remark_anchors": [
+          "page139_37926"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
+        ]
+      }
+    },
+    {
+      "id": "MA-058",
+      "subject": "Mathematik",
+      "theme": "Geld wertgleich in anderer Stückelung wechseln",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Wechseln von Geld als grundlegendes Prinzip (187110) unter Kennen (1912)",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Wechseln von Geldbeträgen (37926), Einheiten Euro/Cent (37921) unter Einblick gewinnen (37913)",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: einen Geldbetrag bei unverändertem Gesamtwert anders stückeln. Wechseln steht in beiden Unterzieltexten; die Hauptoperatoren bleiben GS Kennen (1912) und FSP Einblick gewinnen (37913). Der Ausschnitt verwendet jeweils nur Euro oder nur Cent. Bis 20 in der gewählten Einheit ist eine didaktisch aus dem FSP-Zahlaufbauziel abgeleitete Grenze, keine wörtliche Geldzielobergrenze. Auch die GS-Zielzeile nennt keine eigene Obergrenze; das GS-Feinziel wählt denselben engen Rahmen. Gemischte Einheiten, Euro-Cent-Umrechnung, Wechselgeld und vollständige GS-Zieldeckung sind nicht eingeschlossen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_187110"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_187110",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37926",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: einen Geldbetrag bei unverändertem Gesamtwert anders stückeln. Wechseln steht in beiden Unterzieltexten; die Hauptoperatoren bleiben GS Kennen (1912) und FSP Einblick gewinnen (37913). Der Ausschnitt verwendet jeweils nur Euro oder nur Cent. Bis 20 in der gewählten Einheit ist eine didaktisch aus dem FSP-Zahlaufbauziel abgeleitete Grenze, keine wörtliche Geldzielobergrenze. Auch die GS-Zielzeile nennt keine eigene Obergrenze; das GS-Feinziel wählt denselben engen Rahmen. Gemischte Einheiten, Euro-Cent-Umrechnung, Wechselgeld und vollständige GS-Zieldeckung sind nicht eingeschlossen.",
+      "shared_object_suggestion": "Andere Stückelung, gleicher Geldwert: Der Gesamtbetrag bleibt beim Wechseln erhalten.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind gibt einen Geldbetrag bis 20 Euro oder bis 20 Cent in einer anderen wertgleichen Stückelung derselben Einheit an und erkennt den unveränderten Gesamtwert.",
+          "criterion": "Die Stückelung verändert sich, der Gesamtwert bleibt gleich. Die Wertgleichheit richtet sich nach den Geldwerten, nicht allein nach der Anzahl der Stücke. Einzelwerte, Gesamtbeträge sowie relevante Zwischen- und Endwerte sind ganze Werte bis 20 in derselben Einheit. Der Zahlenrahmen ist didaktisch gewählt und keine ausdrückliche GS-Geldgrenze.",
+          "status": "Didaktische Konkretisierung des Wechselprinzips unter Kennen; Wertinvarianz ist der ausgewählte Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wechselt einen Geldbetrag bis 20 Euro oder bis 20 Cent in eine andere wertgleiche Stückelung innerhalb derselben Einheit.",
+          "criterion": "Beide Stückelungen haben denselben Gesamtwert; die verwendeten Stückelungswerte sind gültig und die Einheit bleibt erhalten. Einzelwerte, Teilbeträge, Gesamtbeträge sowie relevante Zwischen- und Endwerte bleiben nichtnegative ganze Werte bis 20 in derselben Einheit. Gemischte Einheiten, Umrechnungen und Wechselgeld werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung des Unterziels Wechseln; Zahlenraum aus dem übergreifenden Zahlaufbauziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 Euro oder bis 20 Cent · wertgleich wechseln · didaktisch abgeleitet",
+        "detail": "Die Geldzielzeile 37926 nennt Wechseln; ihre Bemerkung verlangt, den Zahlenraum zu beachten. Bis 20 stammt aus dem übergreifenden FSP1/2-Zahlaufbauziel 37739. Für diese Karte wird daraus ein Rahmen ganzer Geldbeträge bis 20 in jeweils derselben Einheit Euro oder Cent abgeleitet. Weder die FSP-Geldzielzeile noch GS 187110 nennt eine eigene numerische Obergrenze. Die Auswahl gleicher Einheiten begrenzt den Anschluss und ersetzt keine Prüfung der Euro-Cent-Umrechnung.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37926",
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur positive Geldbeträge bis 20 in einer gewählten Einheit wertgleich anders stückeln; Euro und Cent getrennt behandeln. Gültige Stückelungswerte voraussetzen. Einzelwerte, Teilbeträge, Gesamtwerte sowie relevante Zwischen- und Endwerte bleiben nichtnegative ganze Werte bis 20 derselben Einheit. Den Eurobetrag nicht zusätzlich als Gesamtcentzahl berechnen. Kein Mischen der Einheiten, keine Kommaschreibweise, kein Wechselgeld und kein Kaufpreis-Abzug. Anzahl der Stücke und Geldwert unterscheiden; keine vollständige Aufzählung aller Wechselmöglichkeiten verlangen. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung. Eigene Entwürfe benötigen fachliche Prüfung."
+      },
+      "evidence_classification": {
+        "gs": "187110 nennt Wechseln im Zieltext unter Kennen1912. Die Analogie zum Kardinalzahlbegriff steht in der Bemerkung; die Karte konkretisiert den unveränderten Geldwert, nicht eine unveränderte Anzahl von Geldstücken.1912 bleibt Hauptzielkontext.",
+        "fsp": "37926 nennt Wechseln ausdrücklich im Unterzieltext unter Einblick gewinnen37913; es ist hier kein bloßer Differenzierungshinweis. Der Preisabschätzungs-Hinweis derselben Bemerkung gehört nicht zu dieser Karte. Euro/Cent stehen in37921; Zahlenraum beachten ist Bemerkung, bis20 übergreifendes Zahlaufbauziel37739. Wertgleichheit und Auswahl derselben Einheit sind didaktische Konkretisierungen.",
         "fsp_remark_anchors": [
           "page139_37926"
         ],
