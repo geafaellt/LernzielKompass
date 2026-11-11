@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-045",
+  "last_batch": "MA-046",
   "complete": false,
   "counts": {
-    "cards": 54,
+    "cards": 55,
     "cross_band": 16
   },
   "source_plans": {
@@ -1976,10 +1976,49 @@
       "area": "Lernbereich 3: Natur entdecken und erleben",
       "operator": "",
       "version": "2019"
+    },
+    "page912_187093": {
+      "id": "page912_187093",
+      "level": 2,
+      "parent_target_id": "page912_1911",
+      "target": "Beschreiben von Mustern und Strategien in Spielen",
+      "remarks": "Nim-Spiel, Würfelspiele ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang ⇒ Sozialkompetenz ➔ LB Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187093",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "",
+      "version": "2026"
+    },
+    "page139_38021": {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "Einblick gewinnen",
+      "version": "2019"
+    },
+    "page139_38022": {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
     }
   },
-  "next_id": "page912_187093",
-  "next_step": "GS1/2 Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. MA-054 prüft187092 nur für Addition → selbst gebildete Sachaufgabe im Naturkontext, stufenübergreifend FSP3/4, didaktisch bis100.54 Karten, elf Anschlussfragen und alle Restumfänge erhalten; App1.357 veröffentlicht und live geprüft; Nachweise in MA-045.",
+  "next_id": "page912_1913",
+  "next_step": "GS1/2 Geldbeträge1913 mit Unterpunkt Euro und Cent1915 unter Kennen1912 einzeln gegen beide FSP-Bänder prüfen; bestehende MA-003 einschließlich ihrer FSP-Grenze bis20 Euro oder20 Cent erneut prüfen, Rest von Erfassen/Darstellen abgrenzen. Der Geldblock wurde in MA-046 nur inventarisiert, nicht neu fachlich geprüft. MA-055 prüft187093 ausschließlich als geometrischen Probierweg bei gewähltem FSP1/2-Wahlbereich4.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten; Veröffentlichung MA-046 nachweisen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2177,7 +2216,7 @@
       "decision": "FSP1/2: Rechengeschichten in Bemerkung37859 dienen dem Bilden von Vereinigungs-/Differenzmengen;37896/37898 erschließen vorhandene Sachaufgaben und nennen Umformulieren, Hinterfragen und Erkennen einer Frage.37908 probiert Lösungswege,37911 formuliert Ergebnisse. Märchenbezug38000 überträgt einen Sachverhalt in Symbolik. Diese positiven Vorläufer belegen die umgekehrte Richtung einer vorgegebenen Rechenaufgabe zu einer selbst gebildeten Sachaufgabe nicht hinreichend konkret. FSP3/4:35505 nennt im Pflichtbereich das Variieren mathematischer Sachverhalte und in der Bemerkung ausdrücklich selbstständiges Bilden von Sachaufgaben sowie veränderte Sachverhalte bei gleichem Zahlenmaterial. Der spezifische Inhalt, nicht allein ein größerer Zahlenraum, begründet die Stufenüberschreitung.35586 belegt Selbstbilden ebenfalls, gehört aber zum Wahlbereich Zahlen in der Tierwelt unter Anwenden35582 und wird nicht als allgemeines Pflichtziel verwendet."
     }
   },
-  "last_review_file": "review_batch_045.json",
+  "last_review_file": "review_batch_046.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2568,6 +2607,12 @@
       "scope": "Andere Rechenoperationen, mehrschrittige Sachaufgaben, Sachkontexte außerhalb des gewählten Naturbezugs, Nullfälle, wechselnde Fragestellungen und die vollständige GS-Zieldeckung. Das gesamte Variieren von Sachverhalten35505 wird mit einer gebildeten Sachaufgabe nicht abgedeckt. Die Rückrichtung Sachverhalt → Rechenaufgabe bleibt ein anderer Gegenstand.",
       "status": "offen",
       "review_file": "review_batch_045.json"
+    },
+    {
+      "gs_id": "page912_187093",
+      "scope": "Muster in Spielen, arithmetische und zufallsabhängige Spielstrategien, Gewinnstrategien und ihre Verallgemeinerung, optimale Spielzüge sowie selbstständiges Beschreiben und Begründen umfassender Strategien. Der gewählte geometrische Probierweg deckt187093 und das gesamte FSP-Knobelziel nicht vollständig ab. Ein erfolgreiches Spielen oder bloßes Wiedergeben einer Spielregel genügt nicht als Nachweis des gewählten Beschreibungsziels.",
+      "status": "offen",
+      "review_file": "review_batch_046.json"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2586,10 +2631,11 @@
       "page912_1867",
       "page912_1881",
       "page912_187087",
-      "page912_1911"
+      "page912_1911",
+      "page912_1912"
     ],
-    "rows": 94,
-    "note": "94 inventarisierte Zeilen,54 Karten (16 stufenübergreifend). MA-045 prüft187092 teilweise;1911 bleibt Hauptzielkontext,187093 offen. Keine neue Inventurzeile. Elf Anschlussfragen und alle Restumfänge erhalten.",
+    "rows": 105,
+    "note": "105 inventarisierte Zeilen,55 Karten (16 stufenübergreifend). MA-046 prüft187093 teilweise;1911 bleibt Kontext. Elf Geldblockzeilen neu nur inventarisiert, davon1913/1915 mit bestehendem MA-003-Teilbezug, ohne erneute fachliche Zählung. Elf Anschlussfragen und alle Restumfänge erhalten; Fortsetzung1913/1915.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

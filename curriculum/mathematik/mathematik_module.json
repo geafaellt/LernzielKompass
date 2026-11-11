@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.2",
+  "version": "MA-2026-11-11.3",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1063,6 +1063,24 @@
       "id": "Q-MA-page139_35505",
       "title": "FSP Lernen Mathematik3/4 · Lernbereich 3: Natur entdecken und erleben · Variieren von Sachverhalten zu mathematischen Inhalten",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35505",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187093",
+      "title": "GS Mathematik1/2 · Lernbereich 2: Zahl und Operation · Beschreiben von Mustern und Strategien in Spielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187093",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_38021",
+      "title": "FSP Lernen Mathematik1/2 · Wahlbereich 4: Zahlenzauberei · Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_38022",
+      "title": "FSP Lernen Mathematik1/2 · Wahlbereich 4: Zahlenzauberei · Lösen durch Probieren und Probehandeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
       "version": "2019"
     }
   ],
@@ -5466,6 +5484,90 @@
         "context_only_gs_ids": [
           "page912_1911"
         ]
+      }
+    },
+    {
+      "id": "MA-055",
+      "subject": "Mathematik",
+      "theme": "Einen geometrischen Probierweg beschreiben · FSP-Wahlbereich",
+      "app_area": "MA-page912_1751",
+      "status": "Bedingter Anschluss · FSP-Wahlbereich erforderlich · nichtnumerischer Ausschnitt",
+      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich2: Zahl und Operation · Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911; Ausschnitt eigener geometrischer Probierweg",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.1/2 · Wahlbereich4: Zahlenzauberei · Probieren und Probehandeln38022 unter Einblick gewinnen38021; sprachliches Begleiten und unterstütztes Erklären aus übergreifendem Ziel37739. Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei.",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Einblick gewinnen. Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Stufenbandpassender bedingter Teilanschluss GS1/2 → FSP1/2. GS-Hauptoperator Einblick gewinnen stammt aus1911; FSP-Hauptoperator Einblick gewinnen aus38021. GS187093 nennt Beschreiben von Mustern und Strategien in Spielen. FSP38022 nennt Lösen durch Probieren und Probehandeln; Tangram ist eine Bemerkung, digitale Lernspiele stehen in der Bemerkung38021. Der geometrische Knobelspielausschnitt ist didaktisch ausgewählt. Das sprachliche Begleiten und unterstützte Erklären eigener geometrischer Lösungswege wird aus dem übergreifenden FSP-Sprachziel37739 konkretisiert; es ist kein eigener Beschreibungsoperator der Zeile38022. Beide ausgewählten Zielzeilen nennen keine numerische Obergrenze. Der gewählte Gegenstand ist nichtnumerisch; die Zahlgrenze20 aus den arithmetischen Bandzielen wird ihm nicht zugeschrieben. Keine vollständige GS-Zieldeckung. Muster in Spielen, arithmetische und zufallsabhängige Spielstrategien, Gewinnstrategien und ihre Verallgemeinerung, optimale Spielzüge sowie selbstständiges Beschreiben und Begründen umfassender Strategien. Der gewählte geometrische Probierweg deckt187093 und das gesamte FSP-Knobelziel nicht vollständig ab. Ein erfolgreiches Spielen oder bloßes Wiedergeben einer Spielregel genügt nicht als Nachweis des gewählten Beschreibungsziels.",
+      "gs_target_ids": [
+        "page912_1911",
+        "page912_187093"
+      ],
+      "fsp_target_ids": [
+        "page139_38021",
+        "page139_38022"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1911",
+        "Q-MA-page912_187093",
+        "Q-MA-page139_38021",
+        "Q-MA-page139_38022",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Stufenbandpassender bedingter Teilanschluss GS1/2 → FSP1/2. GS-Hauptoperator Einblick gewinnen stammt aus1911; FSP-Hauptoperator Einblick gewinnen aus38021. GS187093 nennt Beschreiben von Mustern und Strategien in Spielen. FSP38022 nennt Lösen durch Probieren und Probehandeln; Tangram ist eine Bemerkung, digitale Lernspiele stehen in der Bemerkung38021. Der geometrische Knobelspielausschnitt ist didaktisch ausgewählt. Das sprachliche Begleiten und unterstützte Erklären eigener geometrischer Lösungswege wird aus dem übergreifenden FSP-Sprachziel37739 konkretisiert; es ist kein eigener Beschreibungsoperator der Zeile38022. Beide ausgewählten Zielzeilen nennen keine numerische Obergrenze. Der gewählte Gegenstand ist nichtnumerisch; die Zahlgrenze20 aus den arithmetischen Bandzielen wird ihm nicht zugeschrieben. Keine vollständige GS-Zieldeckung. Muster in Spielen, arithmetische und zufallsabhängige Spielstrategien, Gewinnstrategien und ihre Verallgemeinerung, optimale Spielzüge sowie selbstständiges Beschreiben und Begründen umfassender Strategien. Der gewählte geometrische Probierweg deckt187093 und das gesamte FSP-Knobelziel nicht vollständig ab. Ein erfolgreiches Spielen oder bloßes Wiedergeben einer Spielregel genügt nicht als Nachweis des gewählten Beschreibungsziels.",
+      "shared_object_suggestion": "Eine Anordnung, ihr Ziel und erprobte Veränderungen: der Weg zur passenden Form.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind beschreibt das probeweise Verändern und Überprüfen einer geometrischen Anordnung als eigenen Lösungsweg in einem Knobelspiel.",
+          "criterion": "Die Beschreibung macht die Ausgangsanordnung, eine erprobte Veränderung und deren Bezug zur angestrebten Form nachvollziehbar. Es wird erkennbar, woran die Passung überprüft wurde; eine allgemeingültige Gewinnstrategie oder numerische Berechnung wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung von Einblick gewinnen1911 und Beschreiben187093; geometrischer Probierweg statt vollständiger Abdeckung von Spielmustern und Strategien."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind begleitet im gewählten Wahlbereich Zahlenzauberei seinen eigenen Probierweg in einem geometrischen Knobelspiel sprachlich und erklärt mit Unterstützung eine erprobte Veränderung der Anordnung.",
+          "criterion": "Die sprachliche Darstellung passt zur tatsächlich erprobten Veränderung und macht mit Unterstützung deren Bezug zur angestrebten Form verständlich. Rechnen, Messen, eine bestimmte Teilezahl oder eine selbstständig verallgemeinerte Gewinnstrategie werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung: Probieren38022 unter Einblick gewinnen38021, Sprachbegleitung und unterstütztes Erklären aus übergreifendem Ziel37739. Nur bei gewähltem FSP-Wahlbereich4.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Geometrischer Probierweg · kein numerischer Zahlenraum maßgeblich",
+        "detail": "GS187093 und FSP38021/38022 nennen keine eigene numerische Obergrenze.38022 betrifft Probieren/Probehandeln, mit Tangram als Bemerkungsbeleg für den geometrischen Ausschnitt. Das übergreifende Ziel37739 trägt die sprachliche Begleitung und das unterstützte Erklären geometrischer Lösungswege; sein arithmetischer Zahlenraum bis20 wird nicht auf diesen nichtnumerischen Gegenstand übertragen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_38022",
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei. Gegenstand sind geometrische Anordnung, Zielbezug und ein eigener Probierweg; im FSP sprachlich begleitet und mit Unterstützung erklärt. Die hinterlegten Feinziele verlangen weder Rechnen noch Messen oder eine bestimmte Teilezahl. Es gibt dafür keine belegte numerische Höchstgrenze;20 wird nicht aus dem arithmetischen Bandziel übertragen. Keine optimale oder allgemeingültige Gewinnstrategie voraussetzen. Konkretes Spiel, Anordnung, Spielregeln, Aufgaben und Hilfsmittel bleiben Lehrkraftentscheidung. Eigene Lehrkraftentwürfe müssen hinsichtlich zusätzlicher Zahlen-, Mess- oder Strategieanforderungen gesondert geprüft werden."
+      },
+      "evidence_classification": {
+        "gs": "187093 ist Unterziel unter Einblick gewinnen1911; Nim-/Würfelspiele sind Beispiele in der Bemerkung und werden nicht als vorgeschriebene Aufgaben übernommen.1911 bleibt Hauptzielkontext.",
+        "fsp": "38022 ist Unterziel unter Einblick gewinnen38021 im Wahlbereich4. Tangram und digitale Lernspiele sind Bemerkungsbelege. Unterstütztes sprachliches Erklären stammt ausschließlich aus dem übergreifenden Ziel37739, nicht aus einem erfundenen Operator der Zielzeile. Geometrischer Spielbezug und ausgewählter Probierweg sind didaktisch.",
+        "fsp_remark_anchors": [
+          "page139_38021",
+          "page139_38022"
+        ],
+        "context_only_gs_ids": [
+          "page912_1911"
+        ]
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_37750",
+        "label": "Wahlbereich 4: Zahlenzauberei",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 4: Zahlenzauberei."
       }
     }
   ]

@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-045
+# Mathematik-Abgleich · MA-046
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Vierundfünfzig Karten dokumentieren begrenzte Anschlüsse. Achtunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051 und MA-054 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Fünfundfünfzig Karten dokumentieren begrenzte Anschlüsse. Neununddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051 und MA-054 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Mustern und Strategien in Spielen187093. [MA-045](review_batch_045.json) ergänzt MA-054 zum Bilden einer Sachaufgabe aus einer Addition.54 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Geldbeträgen1913/1915 unter Kennen1912 einschließlich bestehender MA-003. [MA-046](review_batch_046.json) ergänzt MA-055 zum geometrischen Probierweg bei gewähltem FSP-Wahlbereich4.55 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -534,3 +534,12 @@ MA-054 verbindet GS187092 mit dem selbstständigen Sachaufgabenbilden aus der FS
 MA-029,MA-052 undMA-053 bleiben unverändert: andere Übersetzungsrichtungen bzw. Gegenstände. Kein erneutes Zählen ihrer Zeilen. GS bis100 ist didaktisch gewählt; FSP bis100 aus Bandziel35415 abgeleitet. Keine eigene Obergrenze der ausgewählten Zielzeilen. Alle Anzahlen, Summe und relevante Zwischen-/Endwerte sind begrenzt. Es werden keine fertigen Sachaufgaben oder Hilfsmittel in die Planung eingefügt. Andere Operationen, mehrschrittige Aufgaben, Nullfälle, weitere Kontexte und vollständige Zieldeckung bleiben offen.
 
 54 Karten (38 passend,16 stufenübergreifend),159 Quellen und157 Zielanker;94 Inventurzeilen bleiben94. Elf Anschlussfragen erhalten. Fortsetzung187093. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle54 Mathematikkarten in sieben frischen Browsergruppen mit unveränderten Prüfaussagen erfolgreich geprüft, alle367 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Wegen der in MA-044 dokumentierten Zeitlimits langer Sitzungen wurde kein ununterbrochener Gesamtdurchlauf behauptet. Zielübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, erhaltene Entwürfe, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Auf main gesichert mit Commit f02815eefb0c7b5e038a8dbde7eb296926aeae25. Zunächst war kein neuer Pages-Lauf beobachtbar und live noch1.356; diese Zwischenbeobachtung bleibt im Prüfpaket erhalten. Inzwischen veröffentlichte der nachfolgende Nachweiscommit e5ddd6f488e5af6567c3eb694f2739f4a4b3b47c dieselben App-Dateien erfolgreich über [Pages-Lauf42981483143](https://github.com/geafaellt/LernzielKompass/actions/runs/42981483143). App1.357 ist live bytegleich zum geprüften Stand (SHA256880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930). Gezielte öffentliche MA-054-Prüfung in beiden GS-Jahrgängen einschließlich Ziel-/Gegenstandsübernahme, Grenzen, Entwurfserhalt, Fachwechsel, Neuladen und mobiler Ansicht bestanden. Kein vollständiger54-Karten-Livedurchlauf behauptet.
+
+
+## MA-046 · App 1.358 · 11.11.2026
+
+MA-055 begrenzt GS187093 auf das sprachliche Darstellen eines geometrischen Probierwegs in einem Knobelspiel. FSP1/2:38022 nennt Probieren und Probehandeln unter Einblick gewinnen38021; der geometrische Bezug stammt aus der Bemerkung. Sprachbegleitung und unterstütztes Erklären sind eine didaktische Konkretisierung des übergreifenden Sprachziels37739. Kein Beschreibungsoperator wird der Unterzielzeile zugeschrieben. Der Anschluss gilt nur bei gewähltem FSP-Wahlbereich4 Zahlenzauberei; dies steht auf Karte, bei den Zielen und im Planungsoutput. Der positive FSP3/4-Beschreibungsbeleg35580 bleibt als weiterführender Kandidat dokumentiert.
+
+Der Ausschnitt ist nichtnumerisch. Weder eine Höchstzahl von Teilen noch ein Zahlenraum20 wird erfunden; Rechnen und Messen gehören nicht zu den hinterlegten Feinzielen. Allgemeine Muster, arithmetische bzw. zufallsabhängige Strategien und Gewinnstrategien bleiben offen. Bestehende54 Karten unverändert.55 Karten (39 passend,16 stufenübergreifend),162 Quellen,160 Zielanker.
+
+Elf Geldblockzeilen wurden ausschließlich für die Fortsetzung inventarisiert:105 Inventurzeilen insgesamt, keine zusätzliche fachliche Prüfung dieser elf Zeilen. Vorhandene MA-003-Bezüge an1913/1915 bleiben erhalten; ihre erneute Einzelprüfung samt Restumfang und Zahlenraumgrenze folgt als Nächstes. Elf Anschlussfragen unverändert. Daten-, Geltungsbereichs- und Bestandserhaltungsprüfungen bestanden. Alle55 Mathematikkarten in sieben frischen Browsergruppen mit unveränderten Prüfaussagen erfolgreich geprüft, alle368 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Kein ununterbrochener Gesamtdurchlauf behauptet; die in MA-044 dokumentierten Langzeitlimits werden durch getrennte Sitzungen berücksichtigt. Zielübernahme, Wahlbereichshinweis, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Veröffentlichung und öffentliche MA-055-Prüfung stehen noch aus.
