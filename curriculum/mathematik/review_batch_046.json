@@ -430,7 +430,7 @@
     "open_connection_questions": 11,
     "documented_no_direct_connection_rows": 5
   },
-  "continuation": "GS1/2 Geldbeträge1913 mit Unterpunkt Euro und Cent1915 unter Kennen1912 einzeln gegen beide FSP-Bänder prüfen; bestehende MA-003 einschließlich ihrer FSP-Grenze bis20 Euro oder20 Cent erneut prüfen, Rest von Erfassen/Darstellen abgrenzen. Der Geldblock wurde in MA-046 nur inventarisiert, nicht neu fachlich geprüft. MA-055 prüft187093 ausschließlich als geometrischen Probierweg bei gewähltem FSP1/2-Wahlbereich4.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten; Veröffentlichung MA-046 nachweisen.",
+  "continuation": "GS1/2 Geldbeträge1913 mit Unterpunkt Euro und Cent1915 unter Kennen1912 einzeln gegen beide FSP-Bänder prüfen; bestehende MA-003 einschließlich ihrer FSP-Grenze bis20 Euro oder20 Cent erneut prüfen, Rest von Erfassen/Darstellen abgrenzen. Der Geldblock wurde in MA-046 nur inventarisiert, nicht neu fachlich geprüft. MA-055 prüft187093 ausschließlich als geometrischen Probierweg bei gewähltem FSP1/2-Wahlbereich4.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten; App1.358 veröffentlicht und live geprüft; Nachweise in MA-046.",
   "tests": {
     "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
     "preservation": "passed all54 prior cards,159 prior sources,all prior anchors,11 questions,cross-band reviews and prior remaining scopes unchanged;nonmath app code/data unchanged except version;index/dist identical. Only1911/187093 existing audit rows updated.11 money rows are inventory-only,with existing MA-003 references preserved at1913/1915;no new review count for money.",
@@ -439,12 +439,20 @@
     "browser_long_session_limit": "No uninterrupted55-card run attempted; MA-044 documented long-session timeouts. This batch uses the successful fresh-browser subset method,not an uninterrupted full-run claim.",
     "browser_disclosures": "passed all368 cards:collapsed evidence/source disclosures,operator help,keyboard,drafts,mobile320/390",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
-    "browser_live": "pending deployment;targeted public MA-055 check required;full55-card live run not planned."
+    "browser_live": "passed targeted MA-055 in both GS grades with source/scope/goal adoption,elective notice through scope/planning text,empty task/aid fields,preserved teacher drafts,subject isolation,reload,mobile. Full55-card public run not repeated;all55 locally covered in7 fresh-browser subsets."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.358",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "74f01a7997b4317f8b2a2a414a9d9dde4e12b2b47a9f6fbe0f6bc30638307603"
+    "target_sha256": "74f01a7997b4317f8b2a2a414a9d9dde4e12b2b47a9f6fbe0f6bc30638307603",
+    "app_commit": "671b58fd0c33ff20713cfb65a81759faa239785e",
+    "pages_run": 42996907715,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42996907715",
+    "pages_conclusion": "success",
+    "live_app_version": "1.358",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "74f01a7997b4317f8b2a2a414a9d9dde4e12b2b47a9f6fbe0f6bc30638307603",
+    "verified_at": "2026-11-11T09:41:21.191120+00:00"
   }
 }

@@ -2018,7 +2018,7 @@
     }
   },
   "next_id": "page912_1913",
-  "next_step": "GS1/2 Geldbeträge1913 mit Unterpunkt Euro und Cent1915 unter Kennen1912 einzeln gegen beide FSP-Bänder prüfen; bestehende MA-003 einschließlich ihrer FSP-Grenze bis20 Euro oder20 Cent erneut prüfen, Rest von Erfassen/Darstellen abgrenzen. Der Geldblock wurde in MA-046 nur inventarisiert, nicht neu fachlich geprüft. MA-055 prüft187093 ausschließlich als geometrischen Probierweg bei gewähltem FSP1/2-Wahlbereich4.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten; Veröffentlichung MA-046 nachweisen.",
+  "next_step": "GS1/2 Geldbeträge1913 mit Unterpunkt Euro und Cent1915 unter Kennen1912 einzeln gegen beide FSP-Bänder prüfen; bestehende MA-003 einschließlich ihrer FSP-Grenze bis20 Euro oder20 Cent erneut prüfen, Rest von Erfassen/Darstellen abgrenzen. Der Geldblock wurde in MA-046 nur inventarisiert, nicht neu fachlich geprüft. MA-055 prüft187093 ausschließlich als geometrischen Probierweg bei gewähltem FSP1/2-Wahlbereich4.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten; App1.358 veröffentlicht und live geprüft; Nachweise in MA-046.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2708,13 +2708,12 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-045",
+    "batch": "MA-046",
     "status": "verified",
-    "app_version": "1.357",
-    "app_commit": "f02815eefb0c7b5e038a8dbde7eb296926aeae25",
-    "deployment_commit": "e5ddd6f488e5af6567c3eb694f2739f4a4b3b47c",
-    "pages_run": 42981483143,
-    "live_sha256": "880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930",
-    "browser": "targeted MA-054 live passed;all54 local in7 subsets"
+    "app_version": "1.358",
+    "app_commit": "671b58fd0c33ff20713cfb65a81759faa239785e",
+    "pages_run": 42996907715,
+    "live_sha256": "74f01a7997b4317f8b2a2a414a9d9dde4e12b2b47a9f6fbe0f6bc30638307603",
+    "browser": "targeted MA-055 live passed;all55 local in7 subsets"
   }
 }
