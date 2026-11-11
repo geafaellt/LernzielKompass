@@ -1979,7 +1979,7 @@
     }
   },
   "next_id": "page912_187093",
-  "next_step": "Zuerst Veröffentlichung von App1.357 und öffentliche MA-054-Prüfung nachweisen; bislang kein Pages-Lauf für den App-Commit beobachtet und live noch1.356. Danach: GS1/2 Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. MA-054 prüft187092 nur für Addition → selbst gebildete Sachaufgabe im Naturkontext, stufenübergreifend FSP3/4, didaktisch bis100.54 Karten, elf Anschlussfragen und alle Restumfänge erhalten; Veröffentlichung MA-045 nachweisen.",
+  "next_step": "GS1/2 Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. MA-054 prüft187092 nur für Addition → selbst gebildete Sachaufgabe im Naturkontext, stufenübergreifend FSP3/4, didaktisch bis100.54 Karten, elf Anschlussfragen und alle Restumfänge erhalten; App1.357 veröffentlicht und live geprüft; Nachweise in MA-045.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2646,7 +2646,7 @@
   },
   "publication_recheck": {
     "batch": "MA-045",
-    "status": "required_before_next_curriculum_package",
+    "status": "resolved",
     "app_version": "1.357",
     "commit": "f02815eefb0c7b5e038a8dbde7eb296926aeae25",
     "required_checks": [
@@ -2654,15 +2654,21 @@
       "actual live byte match SHA256880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930",
       "targeted public MA-054 in both GS grades including source/scope/goals/drafts/mobile"
     ],
-    "last_observed_live_version": "1.356"
+    "last_observed_live_version": "1.356",
+    "resolved_in_batch": "MA-045",
+    "resolved_by_pages_run": 42981483143,
+    "live_app_version": "1.357",
+    "live_byte_identical_to_target": true,
+    "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-044",
+    "batch": "MA-045",
     "status": "verified",
-    "app_version": "1.356",
-    "commit": "c4df5f25b2d22bc5c967fa015fe2fb827337ca42",
-    "pages_run": 42979881815,
-    "live_sha256": "9f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4",
-    "browser": "targeted MA-053 live passed;all53 local in7 subsets;long uninterrupted runs timed out,see batch"
+    "app_version": "1.357",
+    "app_commit": "f02815eefb0c7b5e038a8dbde7eb296926aeae25",
+    "deployment_commit": "e5ddd6f488e5af6567c3eb694f2739f4a4b3b47c",
+    "pages_run": 42981483143,
+    "live_sha256": "880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930",
+    "browser": "targeted MA-054 live passed;all54 local in7 subsets"
   }
 }

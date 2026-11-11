@@ -255,7 +255,7 @@
     "open_connection_questions": 11,
     "documented_no_direct_connection_rows": 5
   },
-  "continuation": "Zuerst Veröffentlichung von App1.357 und öffentliche MA-054-Prüfung nachweisen; bislang kein Pages-Lauf für den App-Commit beobachtet und live noch1.356. Danach: GS1/2 Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. MA-054 prüft187092 nur für Addition → selbst gebildete Sachaufgabe im Naturkontext, stufenübergreifend FSP3/4, didaktisch bis100.54 Karten, elf Anschlussfragen und alle Restumfänge erhalten; Veröffentlichung MA-045 nachweisen.",
+  "continuation": "GS1/2 Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. MA-054 prüft187092 nur für Addition → selbst gebildete Sachaufgabe im Naturkontext, stufenübergreifend FSP3/4, didaktisch bis100.54 Karten, elf Anschlussfragen und alle Restumfänge erhalten; App1.357 veröffentlicht und live geprüft; Nachweise in MA-045.",
   "tests": {
     "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
     "preservation": "passed all53 prior cards,156 prior sources,all prior anchors,11 questions and prior remaining scopes unchanged;nonmath app code/data unchanged except version;index/dist identical. Only1911/187092 audit rows updated;94 inventory rows remain94.",
@@ -264,20 +264,36 @@
     "browser_long_session_limit": "No uninterrupted54-card run attempted; MA-044 documented repeated timeouts of long sessions. This batch uses the previously successful fresh-browser subset method and does not claim an uninterrupted full run.",
     "browser_disclosures": "passed all367 cards:collapsed evidence/source disclosures,operator help,keyboard,drafts,mobile320/390",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Original ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
-    "browser_live": "pending deployment;targeted public MA-054 check required;full54-card live run not planned."
+    "browser_live": "passed targeted MA-054 in both GS grades including source/scope/goal adoption,empty task/aid fields,retained teacher drafts,subject isolation,reload and mobile. Full54-card public run not repeated;all54 locally covered in7 fresh-browser subsets."
   },
   "publication": {
-    "status": "main_published_pages_run_not_yet_observed",
+    "status": "verified_after_evidence_commit_deployment",
     "app_version": "1.357",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
     "target_sha256": "880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930",
     "app_commit": "f02815eefb0c7b5e038a8dbde7eb296926aeae25",
-    "pages_run": null,
-    "checked_at": "2026-11-11T07:42:38.741386+00:00",
-    "live_app_version": "1.356",
-    "live_byte_identical_to_target": false,
-    "live_sha256": "9f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4",
-    "observation": "Filtered Actions query for app commit returned0 runs. Latest successful observed deployment42981040361 belongs to preceding proof commit f7e351aecb71cdabb2e84b2b247815fa2052c40e. No deployment failure or root cause inferred.",
-    "required_follow_up": "Verify deployment of1.357, compare actual live bytes, run targeted public MA-054 check."
+    "pages_run": 42981483143,
+    "live_app_version": "1.357",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930",
+    "required_follow_up": "Resolved:successful deployment,actual byte match and targeted public MA-054 test confirmed.",
+    "deployment_commit": "e5ddd6f488e5af6567c3eb694f2739f4a4b3b47c",
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42981483143",
+    "pages_conclusion": "success",
+    "verified_at": "2026-11-11T07:44:08.721113+00:00",
+    "initial_pending_observation": {
+      "status": "main_published_pages_run_not_yet_observed",
+      "app_version": "1.357",
+      "live_url": "https://geafaellt.github.io/LernzielKompass/",
+      "target_sha256": "880a43905f14fcce845b791a1bf1b90026198a74558c89e35d26b263ee282930",
+      "app_commit": "f02815eefb0c7b5e038a8dbde7eb296926aeae25",
+      "pages_run": null,
+      "checked_at": "2026-11-11T07:42:38.741386+00:00",
+      "live_app_version": "1.356",
+      "live_byte_identical_to_target": false,
+      "live_sha256": "9f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4",
+      "observation": "Filtered Actions query for app commit returned0 runs. Latest successful observed deployment42981040361 belongs to preceding proof commit f7e351aecb71cdabb2e84b2b247815fa2052c40e. No deployment failure or root cause inferred.",
+      "required_follow_up": "Verify deployment of1.357, compare actual live bytes, run targeted public MA-054 check."
+    }
   }
 }
