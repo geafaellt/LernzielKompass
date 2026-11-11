@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-046
+# Mathematik-Abgleich · MA-047
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Geldbeträgen1913/1915 unter Kennen1912 einschließlich bestehender MA-003. [MA-046](review_batch_046.json) ergänzt MA-055 zum geometrischen Probierweg bei gewähltem FSP-Wahlbereich4.55 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Geldbeträgen mit zwei Einheiten1916. [MA-047](review_batch_047.json) präzisiert die bestehende MA-003 für Vergleich und Ordnung ganzer Beträge in derselben Einheit.55 Karten und elf Anschlussfragen; weitere Restumfänge bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -543,3 +543,12 @@ MA-055 begrenzt GS187093 auf das sprachliche Darstellen eines geometrischen Prob
 Der Ausschnitt ist nichtnumerisch. Weder eine Höchstzahl von Teilen noch ein Zahlenraum20 wird erfunden; Rechnen und Messen gehören nicht zu den hinterlegten Feinzielen. Allgemeine Muster, arithmetische bzw. zufallsabhängige Strategien und Gewinnstrategien bleiben offen. Bestehende54 Karten unverändert.55 Karten (39 passend,16 stufenübergreifend),162 Quellen,160 Zielanker.
 
 Elf Geldblockzeilen wurden ausschließlich für die Fortsetzung inventarisiert:105 Inventurzeilen insgesamt, keine zusätzliche fachliche Prüfung dieser elf Zeilen. Vorhandene MA-003-Bezüge an1913/1915 bleiben erhalten; ihre erneute Einzelprüfung samt Restumfang und Zahlenraumgrenze folgt als Nächstes. Elf Anschlussfragen unverändert. Daten-, Geltungsbereichs- und Bestandserhaltungsprüfungen bestanden. Alle55 Mathematikkarten in sieben frischen Browsergruppen mit unveränderten Prüfaussagen erfolgreich geprüft, alle368 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Kein ununterbrochener Gesamtdurchlauf behauptet; die in MA-044 dokumentierten Langzeitlimits werden durch getrennte Sitzungen berücksichtigt. Zielübernahme, Wahlbereichshinweis, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Veröffentlicht mit Commit671b58fd0c33ff20713cfb65a81759faa239785e und erfolgreichem [Pages-Lauf42996907715](https://github.com/geafaellt/LernzielKompass/actions/runs/42996907715). App1.358 ist live bytegleich zum geprüften Stand (SHA25674f01a7997b4317f8b2a2a414a9d9dde4e12b2b47a9f6fbe0f6bc30638307603). Gezielte öffentliche MA-055-Prüfung in beiden GS-Jahrgängen mit Wahlbereichshinweis, Geltungsbereich, Ziel-/Gegenstandsübernahme, erhaltenen Entwürfen, Fachwechsel, Neuladen und mobiler Ansicht bestanden. Kein vollständiger55-Karten-Livedurchlauf behauptet.
+
+
+## MA-047 · App 1.359 · 11.11.2026
+
+Die vorhandene MA-003 wurde für1913/1915 gegen beide FSP-Bänder erneut geprüft. FSP1/2 nennt Vergleich und Ordnung ausdrücklich in37926, Euro/Cent in37921 unter Einblick gewinnen37913. Der stufenpassende Anschluss bleibt erhalten. FSP3/4 liefert weiterführende Geldbezüge35491–35495 sowie Preisvergleiche im Wahlbereich1; sie sind keine Voraussetzung für den bereits belegten engen Anschluss. Keine neue Karte und keine doppelte Erstzuordnung.
+
+Feinziele und Kriterien benennen nun auch Ordnen, Gleichheit und Einheitenerhalt. Bis20 Euro oder20 Cent bleibt didaktisch aus Zahlaufbau37739 und der Bemerkung „Zahlenraum beachten“37926 abgeleitet. Die Zielzeilen selbst nennen keine Obergrenze. Alle Beträge und relevanten Zwischen-/Endwerte halten den gewählten Rahmen ein; keine gemischten Einheiten, Umrechnungen oder Dezimalbeträge. Auch das GS-Feinziel wählt einen engen Rahmen bis20, ohne dies als amtliche GS-Höchstgrenze auszugeben. Erfassen/Darstellen in weiteren Formen und weitere Geldinhalte bleiben offen. Fortsetzung1916, danach1917/1918.
+
+55 Karten (39 passend,16 stufenübergreifend),162 Quellen,160 Zielanker,105 Inventurzeilen und elf Anschlussfragen unverändert. Daten-, Geltungsbereichs- und Bestandserhaltungsprüfungen bestanden. Alle55 Mathematikkarten in sieben frischen Browsergruppen mit unveränderten Prüfaussagen erfolgreich geprüft; alle368 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Kein ununterbrochener55-Karten-Durchlauf behauptet; die in MA-044 dokumentierten Langzeitlimits werden durch getrennte Sitzungen berücksichtigt. Übernahme der Ziele, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Veröffentlichung und öffentliche Prüfung noch ausstehend.

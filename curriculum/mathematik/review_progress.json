@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-046",
+  "last_batch": "MA-047",
   "complete": false,
   "counts": {
     "cards": 55,
@@ -264,7 +264,9 @@
       "parent_target_id": "page912_1912",
       "operator": "Kennen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1912",
-      "version": "2026"
+      "version": "2026",
+      "target": "Kennen des Umgangs mit der Größe Geld in Alltagssituationen",
+      "remarks": ""
     },
     "page912_1913": {
       "id": "page912_1913",
@@ -275,7 +277,9 @@
       "parent_target_id": "page912_1912",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1913",
-      "version": "2026"
+      "version": "2026",
+      "target": "Erfassen, Vergleichen, Ordnen und Darstellen von Geldbeträgen",
+      "remarks": ""
     },
     "page912_1915": {
       "id": "page912_1915",
@@ -286,7 +290,9 @@
       "parent_target_id": "page912_1912",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1915",
-      "version": "2026"
+      "version": "2026",
+      "target": "Euro und Cent",
+      "remarks": ""
     },
     "page139_37913": {
       "id": "page139_37913",
@@ -297,7 +303,9 @@
       "parent_target_id": "page139_37913",
       "operator": "Einblick gewinnen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37913",
-      "version": "2019"
+      "version": "2019",
+      "target": "Einblick gewinnen in den Wert des Geldes",
+      "remarks": "Kaufmannsladen, Essen- und Milchgeld, Märkte Taschengeld, Sparen Vergleich: billig – teuer, arm – reich szenisches Spiel ⇒ Werteorientierung ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung"
     },
     "page139_37921": {
       "id": "page139_37921",
@@ -308,7 +316,9 @@
       "parent_target_id": "page139_37913",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37921",
-      "version": "2019"
+      "version": "2019",
+      "target": "Verwenden der Einheiten: Cent, Euro (€)",
+      "remarks": "Gültigkeitsbereich der Währung"
     },
     "page139_37926": {
       "id": "page139_37926",
@@ -319,7 +329,9 @@
       "parent_target_id": "page139_37913",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37926",
-      "version": "2019"
+      "version": "2019",
+      "target": "Legen, Zählen, Vergleichen, Ordnen, Wechseln von Geldbeträgen",
+      "remarks": "Zahlenraum beachten Differenzierung: Abschätzen von Preisen"
     },
     "page912_1922": {
       "id": "page912_1922",
@@ -2017,8 +2029,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_1913",
-  "next_step": "GS1/2 Geldbeträge1913 mit Unterpunkt Euro und Cent1915 unter Kennen1912 einzeln gegen beide FSP-Bänder prüfen; bestehende MA-003 einschließlich ihrer FSP-Grenze bis20 Euro oder20 Cent erneut prüfen, Rest von Erfassen/Darstellen abgrenzen. Der Geldblock wurde in MA-046 nur inventarisiert, nicht neu fachlich geprüft. MA-055 prüft187093 ausschließlich als geometrischen Probierweg bei gewähltem FSP1/2-Wahlbereich4.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten; App1.358 veröffentlicht und live geprüft; Nachweise in MA-046.",
+  "next_id": "page912_1916",
+  "next_step": "GS1/2 Geldbeträge mit zwei Einheiten1916 unter Kennen1912 als nächsten offenen Ausschnitt gegen beide FSP-Bänder prüfen; anschließend Stellenwerttafel1917 und Kommaschreibweise1918. Bestehende MA-003 deckt nur ganze Beträge bis20 in jeweils derselben Einheit ab. Positive FSP3/4-Kandidaten35491–35494 berücksichtigen; keine neue Vollabdeckung aus der Kartenexistenz ableiten.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2216,7 +2228,7 @@
       "decision": "FSP1/2: Rechengeschichten in Bemerkung37859 dienen dem Bilden von Vereinigungs-/Differenzmengen;37896/37898 erschließen vorhandene Sachaufgaben und nennen Umformulieren, Hinterfragen und Erkennen einer Frage.37908 probiert Lösungswege,37911 formuliert Ergebnisse. Märchenbezug38000 überträgt einen Sachverhalt in Symbolik. Diese positiven Vorläufer belegen die umgekehrte Richtung einer vorgegebenen Rechenaufgabe zu einer selbst gebildeten Sachaufgabe nicht hinreichend konkret. FSP3/4:35505 nennt im Pflichtbereich das Variieren mathematischer Sachverhalte und in der Bemerkung ausdrücklich selbstständiges Bilden von Sachaufgaben sowie veränderte Sachverhalte bei gleichem Zahlenmaterial. Der spezifische Inhalt, nicht allein ein größerer Zahlenraum, begründet die Stufenüberschreitung.35586 belegt Selbstbilden ebenfalls, gehört aber zum Wahlbereich Zahlen in der Tierwelt unter Anwenden35582 und wird nicht als allgemeines Pflichtziel verwendet."
     }
   },
-  "last_review_file": "review_batch_046.json",
+  "last_review_file": "review_batch_047.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2613,6 +2625,18 @@
       "scope": "Muster in Spielen, arithmetische und zufallsabhängige Spielstrategien, Gewinnstrategien und ihre Verallgemeinerung, optimale Spielzüge sowie selbstständiges Beschreiben und Begründen umfassender Strategien. Der gewählte geometrische Probierweg deckt187093 und das gesamte FSP-Knobelziel nicht vollständig ab. Ein erfolgreiches Spielen oder bloßes Wiedergeben einer Spielregel genügt nicht als Nachweis des gewählten Beschreibungsziels.",
       "status": "offen",
       "review_file": "review_batch_046.json"
+    },
+    {
+      "gs_id": "page912_1913",
+      "scope": "Erfassen und Darstellen von Geldbeträgen in weiteren Formen, Münz-/Scheinzusammensetzungen und andere Beträge außerhalb des gewählten Rahmens. FSP37926 (Legen/Zählen) und35492 (Darstellen) sind positive weiter zu prüfende Kandidaten, keine begründeten Nichtanschlüsse. Gemischte Einheiten, Wechseln und Rechnen werden in den jeweiligen Geschwisterzeilen gesondert geprüft.",
+      "status": "offen",
+      "review": "MA-047"
+    },
+    {
+      "gs_id": "page912_1915",
+      "scope": "Weitere Verwendung von Euro/Cent, Erkennen von Münzen und Scheinen und Beziehung zwischen den Einheiten. Der Ausschnitt in MA-003 umfasst nur Einheitenerhalt beim Vergleichen/Ordnen ganzer Beträge bis20 Euro oder20 Cent. Gemischte Einheiten1916, Stellenwerttafel1917 und Kommaschreibweise1918 werden separat geprüft; keine doppelte Vollabdeckungszählung.",
+      "status": "offen",
+      "review": "MA-047"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2635,7 +2659,7 @@
       "page912_1912"
     ],
     "rows": 105,
-    "note": "105 inventarisierte Zeilen,55 Karten (16 stufenübergreifend). MA-046 prüft187093 teilweise;1911 bleibt Kontext. Elf Geldblockzeilen neu nur inventarisiert, davon1913/1915 mit bestehendem MA-003-Teilbezug, ohne erneute fachliche Zählung. Elf Anschlussfragen und alle Restumfänge erhalten; Fortsetzung1913/1915.",
+    "note": "105 inventarisierte Zeilen,55 Karten (16 stufenübergreifend). MA-047 prüft die bereits MA-003 zugeordneten1913/1915 erneut und präzisiert ihre Ausschnitte. Keine neue Karte, keine zusätzliche Inventurzeile und keine neue Erstzuordnung gezählt.1912 bleibt Kontext; weitere Geldblockzeilen offen. Elf Anschlussfragen und alle früheren Restumfänge erhalten; Fortsetzung1916.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2708,12 +2732,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-046",
-    "status": "verified",
-    "app_version": "1.358",
-    "app_commit": "671b58fd0c33ff20713cfb65a81759faa239785e",
-    "pages_run": 42996907715,
-    "live_sha256": "74f01a7997b4317f8b2a2a414a9d9dde4e12b2b47a9f6fbe0f6bc30638307603",
-    "browser": "targeted MA-055 live passed;all55 local in7 subsets"
+    "batch": "MA-047",
+    "status": "pending",
+    "app_version": "1.359",
+    "previous_verified_version": "1.358"
   }
 }

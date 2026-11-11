@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.3",
+  "version": "MA-2026-11-11.4",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1219,7 +1219,7 @@
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Geldbeträge vergleichen und ordnen, Einheiten Euro und Cent verwenden",
       "gs_operator": "Kennen",
       "fsp_operator": "Einblick gewinnen",
-      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Der Ausschnitt umfasst Vergleiche innerhalb derselben Einheit. Gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen mit Geldbeträgen werden hier nicht abgeglichen.",
+      "operator_relation": "GS: Kennen (1912) · FSP: Einblick gewinnen (37913). Vergleichen und Ordnen sind Inhalte der Unterziele, keine neuen Operatoren. Der Anschluss umfasst ganze Geldbeträge in jeweils derselben Einheit: Euro oder Cent.",
       "gs_target_ids": [
         "page912_1912",
         "page912_1913",
@@ -1248,18 +1248,18 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Der Ausschnitt umfasst Vergleiche innerhalb derselben Einheit. Gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen mit Geldbeträgen werden hier nicht abgeglichen.",
+      "app_review_message": "Teilanschluss: ganze Geldbeträge innerhalb derselben Einheit vergleichen und ordnen. FSP-Planungsgrenze bis 20 Euro oder bis 20 Cent didaktisch abgeleitet; die ausgewählten GS- und FSP-Zielzeilen nennen keine eigene Obergrenze. Die GS-Feinziele wählen hier ebenfalls bis 20, ohne dies als GS-Lehrplangrenze auszugeben. Erfassen und Darstellen in weiteren Formen, gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen sind nicht abgedeckt.",
       "shared_object_suggestion": "Mehr, weniger oder gleich viel Geld – Geldbeträge in derselben Einheit: Euro oder Cent.",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind ordnet Geldbeträge, die in derselben Einheit angegeben sind.",
-          "criterion": "Die Reihenfolge entspricht dem Wert der Geldbeträge."
+          "goal": "Das Kind vergleicht und ordnet ganze Geldbeträge bis 20 Euro oder bis 20 Cent innerhalb derselben Einheit.",
+          "criterion": "Die Vergleiche und die Reihenfolge stimmen; gleiche Geldwerte werden als gleich erkannt und Euro bzw. Cent bleibt erhalten. Alle Beträge liegen im didaktisch gewählten Rahmen bis 20 derselben Einheit. Dies ist keine ausdrückliche GS-Lehrplangrenze."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind unterscheidet größere und kleinere ganze Geldbeträge bis 20 Euro oder bis 20 Cent innerhalb derselben Einheit.",
-          "criterion": "Der Vergleich stimmt; beide Beträge sind ganze Werte bis 20 in derselben Einheit. Es werden keine gemischten Einheiten oder Umrechnungen verlangt.",
+          "goal": "Das Kind erkennt größere, kleinere und gleiche ganze Geldbeträge bis 20 Euro oder bis 20 Cent und ordnet sie innerhalb derselben Einheit.",
+          "criterion": "Vergleiche und Reihenfolge entsprechen den Geldwerten; gleiche Beträge werden als gleich erkannt. Die Einheit bleibt erhalten. Alle Beträge und relevanten Zwischen- und Endwerte sind nichtnegative ganze Werte bis 20 in derselben Einheit. Gemischte Einheiten, Umrechnungen und Kommaschreibweise sind ausgeschlossen.",
           "scope_status": "derived",
           "status": "Didaktische Konkretisierung; die Zahlenraumgrenze ist aus dem übergreifenden Ziel abgeleitet.",
           "range_max": 20
@@ -1268,13 +1268,13 @@
       "fsp_scope": {
         "status": "derived",
         "summary": "Bis 20 Euro oder bis 20 Cent · didaktisch abgeleitet",
-        "detail": "Das übergreifende FSP1/2-Ziel nennt Zahlaufbau bis 20. Beim Umgang mit Geld verlangt die Bemerkung ausdrücklich, den Zahlenraum zu beachten. Daraus wird für diese Karte ein Vergleich ganzer Beträge bis 20 in derselben Einheit abgeleitet. Die Zielzeile selbst nennt weder 20 Euro noch 20 Cent als feste Lehrplangrenze.",
+        "detail": "Die FSP-Zielzeilen37913/37921/37926 nennen keine eigene Obergrenze. Die Bemerkung zu37926 fordert „Zahlenraum beachten“; das übergreifende Ziel37739 nennt Zahlaufbau bis 20. Daraus wird für Vergleichen und Ordnen ganzer Beträge bis 20 in derselben Einheit eine didaktische Planungsgrenze abgeleitet. Weder 20 Euro noch 20 Cent ist eine wörtliche Lehrplangrenze. Auch die ausgewählten GS-Zielzeilen1912/1913/1915 nennen keine eigene Obergrenze; der Ausschnitt deckt das GS-Ziel nicht vollständig.",
         "max_value": 20,
         "source_ids": [
           "Q-MA-page139_37926",
           "Q-MA-page139_37739"
         ],
-        "planning_rule": "Nur ganze Beträge bis 20 in der gewählten Einheit vergleichen; Euro und Cent nicht mischen oder umrechnen. Der Betrag in Euro wird hier nicht zusätzlich als Centzahl bewertet."
+        "planning_rule": "Nur nichtnegative ganze Beträge bis 20 in der jeweils gewählten Einheit vergleichen und ordnen; Euro und Cent getrennt behandeln. Alle verwendeten Beträge sowie relevante Zwischen- und Endwerte halten diese Grenze ein. Keine gemischten Einheiten, Umrechnungen oder Kommaschreibweise. Ein Eurobetrag wird hier nicht zusätzlich als Centzahl bewertet. Keine zusätzlichen Rechnungen verlangen."
       },
       "context_source_ids": [
         "Q-MA-page139_37739"
@@ -1286,6 +1286,22 @@
         "reference_pages": [
           9,
           12
+        ],
+        "follow_up": {
+          "batch": "MA-047",
+          "decision": "derived_confirmed",
+          "target_limit_explicit": false,
+          "source_check": "Amtliches HTML erneut geprüft; kein neuer PDF-Abgleich behauptet. Ordnen, Gleichheit, Einheitenerhalt und relevante Zwischen-/Endwerte in Feinzielen und Kriterien präzisiert."
+        }
+      },
+      "evidence_classification": {
+        "gs": "1913 ist Unterziel unter Kennen1912;1915 konkretisiert es mit Euro und Cent.1912 ist Hauptzielkontext, keine vollständig abgedeckte Zielzeile. Die numerische Obergrenze der GS-Zielzeilen ist nicht angegeben.",
+        "fsp": "37921 (Einheiten) und37926 (u.a. Vergleichen/Ordnen) sind Unterziele unter Einblick gewinnen37913. „Zahlenraum beachten“ steht in der Bemerkung zu37926. Bis20 stammt aus dem übergreifenden Zahlaufbauziel37739; die Grenze für ganze Beträge je Einheit ist didaktisch abgeleitet.",
+        "fsp_remark_anchors": [
+          "page139_37926"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
         ]
       }
     },
