@@ -2147,7 +2147,7 @@
     }
   },
   "next_id": "page912_187112",
-  "next_step": "GS1/2 Sachaufgaben mit einfacher Struktur und Rechnen mit Geldwerten187112 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende Geldkarten erhalten: MA-058 wechselt nur innerhalb derselben Einheit; MA-056 betrifft Schreibweisen ohne Gesamtcentbetrag; MA-059 nur1Euro↔100Cent. Anschließend Fachbegriffe187113.59 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; Einheitenwahl und allgemeine Umrechnung bleiben Rest von187111.",
+  "next_step": "GS1/2 Sachaufgaben mit einfacher Struktur und Rechnen mit Geldwerten187112 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende Geldkarten erhalten: MA-058 wechselt nur innerhalb derselben Einheit; MA-056 betrifft Schreibweisen ohne Gesamtcentbetrag; MA-059 nur1Euro↔100Cent. Anschließend Fachbegriffe187113.59 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten; Einheitenwahl und allgemeine Umrechnung bleiben Rest von187111. App1.363 veröffentlicht und live geprüft; Nachweise in MA-051.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2952,8 +2952,11 @@
   },
   "latest_publication": {
     "batch": "MA-051",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.363",
-    "previous_verified_version": "1.362"
+    "app_commit": "e77588ec98daf56dcb46ab428d4d2a44bd0cb8b9",
+    "pages_run": 43094709355,
+    "live_sha256": "d7c0df74bce0615c14a34b406d3fee747c9dde6a0e282f17fcd75d8ffbc39cd1",
+    "browser": "targeted MA-059 live in both GS grades and mobile320/390 passed;all59 local in8 subsets"
   }
 }

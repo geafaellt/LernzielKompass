@@ -206,12 +206,20 @@
     "browser_long_session_limit": "No uninterrupted59-card run claimed;fresh-browser subsets address previously documented long-session timeouts. No timeout observed this batch.",
     "browser_disclosures": "passed all372 cards:collapsed source/evidence disclosures,operator help,keyboard,drafts,mobile320/390.",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
-    "browser_live": "pending targeted MA-059 in both GS grades and direct mobile320/390 scope checks"
+    "browser_live": "passed targeted MA-059 in both GS grades:exact goal/criterion adoption,source links,visible domain-specific scope and planning rule,empty task/aid fields,preserved teacher drafts,subject isolation,reload. Additional direct MA-059 card/scope and goal/scope checks at320px and390px without horizontal overflow passed. Full59-card public run not repeated;all59 locally covered in8 fresh-browser subsets."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.363",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "d7c0df74bce0615c14a34b406d3fee747c9dde6a0e282f17fcd75d8ffbc39cd1"
+    "target_sha256": "d7c0df74bce0615c14a34b406d3fee747c9dde6a0e282f17fcd75d8ffbc39cd1",
+    "app_commit": "e77588ec98daf56dcb46ab428d4d2a44bd0cb8b9",
+    "pages_run": 43094709355,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43094709355",
+    "pages_conclusion": "success",
+    "live_app_version": "1.363",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "d7c0df74bce0615c14a34b406d3fee747c9dde6a0e282f17fcd75d8ffbc39cd1",
+    "verified_at": "2026-11-11T20:16:42.112482+00:00"
   }
 }
