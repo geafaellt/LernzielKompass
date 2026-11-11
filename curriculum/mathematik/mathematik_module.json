@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.5",
+  "version": "MA-2026-11-11.6",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1118,6 +1118,12 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35494",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1921",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1921",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -5701,6 +5707,86 @@
         "fsp_remark_anchors": [
           "page139_35492",
           "page139_35494"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
+        ]
+      }
+    },
+    {
+      "id": "MA-057",
+      "subject": "Mathematik",
+      "theme": "Preisvorstellungen zu vertrauten Waren · FSP-Differenzierung",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · FSP-Differenzierung · Zahlenraum didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Stützpunktvorstellungen zu Geldbeträgen (1921) unter Kennen (1912); Warenpreise als Bemerkungsbeleg",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Einblick gewinnen in den Wert des Geldes (37913), Euro (37921); Abschätzen von Preisen als Differenzierung in der Bemerkung zu 37926",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: ungefähre Preisvorstellungen zu vertrauten Waren. GS 1921 nennt Stützpunktvorstellungen; Warenpreise und Preisintervalle stehen in der Bemerkung. Das Abschätzen von Preisen steht in FSP 37926 ausdrücklich als Differenzierungshinweis, nicht als eigenständiger Hauptoperator. GS bleibt Kennen aus 1912, FSP Einblick gewinnen aus 37913. Der gewählte Rahmen bis 20 Euro ist didaktisch aus dem FSP-Zahlaufbauziel abgeleitet; die Geldzielzeilen nennen keine eigene Obergrenze. Das GS-Feinziel wählt denselben engen Rahmen. Keine vollständige GS-Zieldeckung: Münzen und Scheine als Repräsentanten, weitere Preisbeziehungen und allgemeines Stützpunktwissen bleiben offen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_1921"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_1921",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37926",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: ungefähre Preisvorstellungen zu vertrauten Waren. GS 1921 nennt Stützpunktvorstellungen; Warenpreise und Preisintervalle stehen in der Bemerkung. Das Abschätzen von Preisen steht in FSP 37926 ausdrücklich als Differenzierungshinweis, nicht als eigenständiger Hauptoperator. GS bleibt Kennen aus 1912, FSP Einblick gewinnen aus 37913. Der gewählte Rahmen bis 20 Euro ist didaktisch aus dem FSP-Zahlaufbauziel abgeleitet; die Geldzielzeilen nennen keine eigene Obergrenze. Das GS-Feinziel wählt denselben engen Rahmen. Keine vollständige GS-Zieldeckung: Münzen und Scheine als Repräsentanten, weitere Preisbeziehungen und allgemeines Stützpunktwissen bleiben offen.",
+      "shared_object_suggestion": "Eine vertraute Ware und ihr ungefährer Geldwert: Preisvorstellungen in Euro.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind nennt zu einer vertrauten Ware eine ungefähre Preisvorstellung in ganzen Euro bis 20 Euro.",
+          "criterion": "Die Preisvorstellung bezieht sich auf die benannte Ware und ist als ungefährer Eurobetrag erkennbar. Sie passt zum vorab fachlich geprüften plausiblen Preisbereich. Referenzwerte, Bereichsgrenzen und genannte Beträge bleiben nichtnegative ganze Eurobeträge bis 20 Euro. Der Rahmen ist didaktisch gewählt; eine allgemeine GS-Betragsobergrenze wird nicht behauptet.",
+          "status": "Didaktische Konkretisierung von Stützpunktvorstellungen unter Kennen; Warenpreise sind der ausgewählte Bemerkungsbezug."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind schätzt im ausgewählten FSP-Differenzierungsbereich den Preis einer vertrauten Ware als ungefähren ganzen Eurobetrag bis 20 Euro.",
+          "criterion": "Die Schätzung ist als ungefährer Eurobetrag erkennbar und passt zum vorab fachlich geprüften plausiblen Preisbereich der Ware. Referenzwerte, Bereichsgrenzen, Schätzwerte sowie relevante Zwischen- und Endwerte bleiben nichtnegative ganze Eurobeträge bis 20 Euro. Es wird kein exakter Ladenpreis, keine Preisrechnung und keine Umrechnung verlangt.",
+          "status": "Didaktische Konkretisierung des Differenzierungshinweises Abschätzen von Preisen; Grenze aus übergreifendem Zahlaufbauziel abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 Euro · didaktisch abgeleitet · FSP-Differenzierung: Preise abschätzen",
+        "detail": "FSP 37926 nennt „Zahlenraum beachten“ und „Differenzierung: Abschätzen von Preisen“ in der Bemerkung. Die Geldzielzeilen selbst nennen keine Obergrenze. Aus Zahlaufbau bis 20 im übergreifenden Ziel 37739 wird für diese Karte ein enger Rahmen ganzer Eurobeträge bis 20 Euro abgeleitet. Auch GS 1921 nennt keine allgemeine Höchstgrenze: Das dortige Buchpreisintervall ist nur ein Beispiel, keine verbindliche Obergrenze und keine aktuelle allgemeingültige Preisangabe.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37926",
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Nur im ausgewählten FSP-Differenzierungsbereich Preise abschätzen. Vertraute Waren und fachlich geprüfte plausible Preisbereiche voraussetzen; die Lehrkraft legt diese passend zum Kontext fest. Referenzwerte, Bereichsgrenzen, Schätzwerte und relevante Zwischen-/Endwerte bleiben nichtnegative ganze Eurobeträge bis 20 Euro. Ungefähre Preisvorstellungen bewerten, keinen exakten Ladenpreis verlangen. Euro nicht zusätzlich in Cent umrechnen; keine gemischten Einheiten, Preisrechnung oder feste allgemeine Schätztoleranz ergänzen. Es werden keine Waren, Preise, Aufgaben oder Hilfsmittel automatisch vorgegeben. Eigene Entwürfe bleiben fachlich prüfpflichtig."
+      },
+      "evidence_classification": {
+        "gs": "1921 ist Unterziel unter Kennen1912. Warenpreise, Beziehungen und Intervalle sind Bemerkungsbelege; die Karte wählt nur eine vertraute Ware und eine ungefähre Preisvorstellung.1912 bleibt Hauptzielkontext.",
+        "fsp": "Abschätzen von Preisen ist ein Differenzierungshinweis in der Bemerkung37926 unter Einblick gewinnen37913.37921 belegt Euro. Zahlenraum beachten steht ebenfalls in der Bemerkung; bis20 stammt aus übergreifendem Zahlaufbau37739. Der Warenbezug, ganze Eurobeträge und die Plausibilitätsbewertung anhand eines vorab geprüften Preisbereichs sind didaktische Konkretisierungen, keine weiteren amtlichen Zieloperatoren.",
+        "fsp_remark_anchors": [
+          "page139_37926"
         ],
         "context_only_gs_ids": [
           "page912_1912"

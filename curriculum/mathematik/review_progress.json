@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-048",
+  "last_batch": "MA-049",
   "complete": false,
   "counts": {
-    "cards": 56,
+    "cards": 57,
     "cross_band": 17
   },
   "source_plans": {
@@ -2105,10 +2105,23 @@
       "area": "Lernbereich 2: Die Welt um mich herum",
       "operator": null,
       "version": "2019"
+    },
+    "page912_1921": {
+      "id": "page912_1921",
+      "level": 2,
+      "parent_target_id": "page912_1912",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Geldbeträgen",
+      "remarks": "typische Repräsentanten: Münzen und Scheine, Preise von Waren Beziehungen zwischen Preisen verschiedener Waren Intervalle zu Repräsentanten: Ein Buch kostet 10 Euro bis 20 Euro.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1921",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_1921",
-  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Geldbeträgen1921 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-003 (Vergleich/Ordnung in einer Einheit) und MA-056 (Euro-Cent-/Kommaschreibweise, Betragsrahmen vorab festlegen) erhalten. Geld-Stellenwerttafel1917 bleibt eine der zwölf offenen Anschlussfragen. Wechseln187110, Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113 folgen gesondert.56 Karten; keine Vollabdeckung des Geldblocks. App1.360 veröffentlicht und live geprüft; Nachweise in MA-048.",
+  "next_id": "page912_187110",
+  "next_step": "GS1/2 Wechseln von Geld als grundlegendes Prinzip187110 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende MA-003,MA-041,MA-056 undMA-057 mit ihren getrennten Inhalts- und Zahlenraumgrenzen erhalten. Anschließend Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113.57 Karten und zwölf offene Anschlussfragen; der Rest von1921 und alle bisherigen Restumfänge bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2317,7 +2330,7 @@
       "decision": "FSP1/2 nennt Euro/Cent und Geldhandlungen; die Zehner-Einer-Stellenwerttafel betrifft zweistellige ganze Zahlen. Für die gemeinsame Darstellung eines Geldwerts mit beiden Einheiten und in Kommaschreibweise ist FSP3/4 35492–35494 unter Übertragen35491 der spezifischere positive Beleg. Die Entscheidung folgt dem Inhalt und der Schreibweise, nicht einem kleineren FSP1/2-Zahlenraum. Kein pauschaler Nichtanschluss für Geld in1/2."
     }
   },
-  "last_review_file": "review_batch_048.json",
+  "last_review_file": "review_batch_049.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2770,6 +2783,12 @@
       "scope": "Weitere Verwendung der Kommaschreibweise beim Vergleichen, Ordnen und Rechnen mit Geld, variable Dezimalstellen und allgemeine Dezimalzahlen. MA-056 deckt nur den wertgleichen Wechsel mit normaler Euro-Cent-Angabe und zwei Nachkommastellen ab; keine vollständige GS-Zieldeckung.",
       "status": "offen",
       "review": "MA-048"
+    },
+    {
+      "gs_id": "page912_1921",
+      "scope": "Münzen und Scheine als typische Repräsentanten, Beziehungen zwischen Preisen verschiedener Waren, Aufbau und Verwendung mehrerer Preisstützpunkte und Preisintervalle, weitere Einheiten/Betragsbereiche sowie längerfristiger Aufbau verfügbaren Stützpunktwissens. MA-057 deckt nur eine ungefähre Preisvorstellung zu einer vertrauten Ware und das ausgewählte FSP-Preisabschätzen ab. Eine plausible einzelne Schätzung beweist nicht die gesamte GS-Stützpunktkompetenz. Preisvergleiche und Überschlagsrechnen bleiben eigene Ausschnitte.",
+      "status": "offen",
+      "review": "MA-049"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2792,7 +2811,7 @@
       "page912_1912"
     ],
     "rows": 105,
-    "note": "105 inventarisierte Zeilen,56 Karten (17 stufenübergreifend). MA-048 prüft1916/1918 teilweise in einer neuen KarteMA-056;1913/1915 erhalten weitere begrenzte Referenzen ohne neue Erstzählung.1917 wird als offene Anschlussfrage dokumentiert;1912 bleibt Kontext. Zwölf Anschlussfragen, keine neue Nichtanschlussentscheidung; Fortsetzung1921.",
+    "note": "105 inventarisierte Zeilen,57 Karten (17 stufenübergreifend). MA-049 prüft1921 teilweise mit einer neuen KarteMA-057 für Preisvorstellungen/Preisabschätzen als FSP-Differenzierung.1912 bleibt Kontext. Keine zusätzliche Inventurzeile, keine neue Anschlussfrage und kein neuer Nichtanschluss. Zwölf Anschlussfragen; Fortsetzung187110.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2874,12 +2893,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-048",
-    "status": "verified",
-    "app_version": "1.360",
-    "app_commit": "272adec6866013d230babe2b3ee0c780e817236c",
-    "pages_run": 43045067529,
-    "live_sha256": "3ade406f19b55a91e3b8c0322f154bad372ab068085615d446204e9f5a929f68",
-    "browser": "targeted MA-056 live passed;all56 local in7 subsets"
+    "batch": "MA-049",
+    "status": "pending",
+    "app_version": "1.361",
+    "previous_verified_version": "1.360"
   }
 }
