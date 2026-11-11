@@ -222,19 +222,27 @@
     "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
     "preservation": "passed:all56 prior cards,168 prior sources,166 prior anchors,12 questions,cross-band decisions and all previous remaining scopes unchanged;nonmath app code/data unchanged except version;root/dist identical. Only1912/1921 audit rows changed;105 rows retained.",
     "scope": "MA-057 derived20Euro from stage-goal37739 plus remark37926;no explicit monetary target-row maximum invented. References,plausible price-interval boundaries,estimates and relevant intermediate/end values constrained. Whole Euro estimates only;no total-cent conversion or price arithmetic. GS chooses same narrow didactic frame. GS book-price example is not treated as a ceiling or current universal price.",
-    "browser_local": "passed all57 cards in8 disjoint fresh-browser subsets using original check-mathematik-browser assertions with only per-card loop filtered. All grade/area counts,source/scope/goal and criterion adoption,empty task/aid fields,draft preservation,subject isolation,reload and mobile assertions retained.",
+    "browser_local": "passed all57 cards in8 disjoint fresh-browser subsets using original check-mathematik-browser assertions with only per-card loop filtered. All grade/area counts,source/scope/goal and criterion adoption,empty task/aid fields,draft preservation,subject isolation,reload and mobile assertions retained. Mobile follow-up at390px uses MA-018;not all57 cards individually on mobile.",
     "browser_retry": "First actual subset1 reached mobile follow-up after all subset cards but timed out at check-mathematik-shard.cjs:123 while scrolling #next into view (60000ms;visible/enabled/stable). Runner eventually ended with null exit. Original failure preserved below. Same complete subset sequence retried with unchanged assertions in fresh browsers;all8 passed. No functional assertion failure observed.",
     "browser_initial_failure": "Checking MA-001\nChecking MA-002\nChecking MA-008\nChecking MA-003\nChecking MA-004\nChecking MA-001\nChecking MA-002\nChecking MA-008\nChecking MA-003\nChecking MA-004\nChecking MA-005\nChecking MA-006\nChecking MA-007\nChecking MA-007\nChecking MA-018\nlocator.click: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#next')\u001b[22m\n\u001b[2m    - locator resolved to <button id=\"next\" type=\"button\">Weiter →</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m    - element is visible, enabled and stable\u001b[22m\n\u001b[2m    - scrolling into view if needed\u001b[22m\n\n    at /private/tmp/lzk-ma049/scripts/check-mathematik-shard.cjs:123:31 {\n  log: [\n    \"  - waiting for locator('#next')\",\n    '    - locator resolved to <button id=\"next\" type=\"button\">Weiter →</button>',\n    '  - attempting click action',\n    '    - waiting for element to be visible, enabled and stable',\n    '    - element is visible, enabled and stable',\n    '    - scrolling into view if needed'\n  ],\n  name: 'TimeoutError'\n}\n",
     "browser_long_session_limit": "No uninterrupted57-card run claimed. MA-044 long-session timeouts and this batch scroll timeout remain documented.",
     "browser_disclosures": "passed all370 cards:collapsed source/evidence disclosures,operator help,keyboard,drafts,mobile320/390.",
     "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
     "browser_start_incident": "Initial automatic approval review returned technical Bad Request before executing the browser command. Same authorized command resubmitted through approval and started successfully;no bypass.",
-    "browser_live": "pending targeted MA-057 in both GS grades"
+    "browser_live": "passed targeted MA-057 in both GS grades with exact goal/criterion adoption,source links,visible derived20Euro scope and planning rule,empty task/aid fields,preserved teacher drafts,subject isolation,reload,mobile. Full57-card public run not repeated;all57 locally covered in8 fresh-browser subsets. Mobile follow-up uses existing MA-018 at390px,not a separate mobile visit of every card."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.361",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "670af99789701e7fb0f18136f492a7020499f3279d4ecd4808c1d069cc712004"
+    "target_sha256": "670af99789701e7fb0f18136f492a7020499f3279d4ecd4808c1d069cc712004",
+    "app_commit": "a6427772c57e3d6909a0ec7416a1c2414578bc7e",
+    "pages_run": 43073269580,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43073269580",
+    "pages_conclusion": "success",
+    "live_app_version": "1.361",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "670af99789701e7fb0f18136f492a7020499f3279d4ecd4808c1d069cc712004",
+    "verified_at": "2026-11-11T18:00:19.540584+00:00"
   }
 }

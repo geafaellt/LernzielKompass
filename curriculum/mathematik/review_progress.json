@@ -2121,7 +2121,7 @@
     }
   },
   "next_id": "page912_187110",
-  "next_step": "GS1/2 Wechseln von Geld als grundlegendes Prinzip187110 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende MA-003,MA-041,MA-056 undMA-057 mit ihren getrennten Inhalts- und Zahlenraumgrenzen erhalten. Anschließend Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113.57 Karten und zwölf offene Anschlussfragen; der Rest von1921 und alle bisherigen Restumfänge bleiben offen.",
+  "next_step": "GS1/2 Wechseln von Geld als grundlegendes Prinzip187110 unter Kennen1912 gegen beide FSP-Bänder prüfen. Bestehende MA-003,MA-041,MA-056 undMA-057 mit ihren getrennten Inhalts- und Zahlenraumgrenzen erhalten. Anschließend Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113.57 Karten und zwölf offene Anschlussfragen; der Rest von1921 und alle bisherigen Restumfänge bleiben offen. App1.361 veröffentlicht und live geprüft; Nachweise in MA-049.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2894,8 +2894,11 @@
   },
   "latest_publication": {
     "batch": "MA-049",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.361",
-    "previous_verified_version": "1.360"
+    "app_commit": "a6427772c57e3d6909a0ec7416a1c2414578bc7e",
+    "pages_run": 43073269580,
+    "live_sha256": "670af99789701e7fb0f18136f492a7020499f3279d4ecd4808c1d069cc712004",
+    "browser": "targeted MA-057 live passed;all57 local in8 subsets"
   }
 }
