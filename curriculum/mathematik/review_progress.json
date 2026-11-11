@@ -2030,7 +2030,7 @@
     }
   },
   "next_id": "page912_1916",
-  "next_step": "GS1/2 Geldbeträge mit zwei Einheiten1916 unter Kennen1912 als nächsten offenen Ausschnitt gegen beide FSP-Bänder prüfen; anschließend Stellenwerttafel1917 und Kommaschreibweise1918. Bestehende MA-003 deckt nur ganze Beträge bis20 in jeweils derselben Einheit ab. Positive FSP3/4-Kandidaten35491–35494 berücksichtigen; keine neue Vollabdeckung aus der Kartenexistenz ableiten.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten.",
+  "next_step": "GS1/2 Geldbeträge mit zwei Einheiten1916 unter Kennen1912 als nächsten offenen Ausschnitt gegen beide FSP-Bänder prüfen; anschließend Stellenwerttafel1917 und Kommaschreibweise1918. Bestehende MA-003 deckt nur ganze Beträge bis20 in jeweils derselben Einheit ab. Positive FSP3/4-Kandidaten35491–35494 berücksichtigen; keine neue Vollabdeckung aus der Kartenexistenz ableiten.55 Karten, elf Anschlussfragen und sämtliche Restumfänge erhalten. App1.359 veröffentlicht und live geprüft; Nachweise in MA-047.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2733,8 +2733,11 @@
   },
   "latest_publication": {
     "batch": "MA-047",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.359",
-    "previous_verified_version": "1.358"
+    "app_commit": "92b413b5a3493d318fe8a3f637ef1a65e179f644",
+    "pages_run": 42999286994,
+    "live_sha256": "9bf9227ec5efa60156ddc99699947e247961bc10a0cf61982874d133db671213",
+    "browser": "targeted MA-003 live passed;all55 local in7 subsets"
   }
 }
