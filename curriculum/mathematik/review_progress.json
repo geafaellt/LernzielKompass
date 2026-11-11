@@ -2108,7 +2108,7 @@
     }
   },
   "next_id": "page912_1921",
-  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Geldbeträgen1921 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-003 (Vergleich/Ordnung in einer Einheit) und MA-056 (Euro-Cent-/Kommaschreibweise, Betragsrahmen vorab festlegen) erhalten. Geld-Stellenwerttafel1917 bleibt eine der zwölf offenen Anschlussfragen. Wechseln187110, Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113 folgen gesondert.56 Karten; keine Vollabdeckung des Geldblocks.",
+  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Geldbeträgen1921 unter Kennen1912 gegen beide FSP-Bänder prüfen. MA-003 (Vergleich/Ordnung in einer Einheit) und MA-056 (Euro-Cent-/Kommaschreibweise, Betragsrahmen vorab festlegen) erhalten. Geld-Stellenwerttafel1917 bleibt eine der zwölf offenen Anschlussfragen. Wechseln187110, Einheitenwahl/Umrechnen187111, Sachrechnen187112 und Fachbegriffe187113 folgen gesondert.56 Karten; keine Vollabdeckung des Geldblocks. App1.360 veröffentlicht und live geprüft; Nachweise in MA-048.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2875,8 +2875,11 @@
   },
   "latest_publication": {
     "batch": "MA-048",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.360",
-    "previous_verified_version": "1.359"
+    "app_commit": "272adec6866013d230babe2b3ee0c780e817236c",
+    "pages_run": 43045067529,
+    "live_sha256": "3ade406f19b55a91e3b8c0322f154bad372ab068085615d446204e9f5a929f68",
+    "browser": "targeted MA-056 live passed;all56 local in7 subsets"
   }
 }
