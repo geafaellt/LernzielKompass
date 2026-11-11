@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-044",
+  "last_batch": "MA-045",
   "complete": false,
   "counts": {
-    "cards": 53,
-    "cross_band": 15
+    "cards": 54,
+    "cross_band": 16
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -1937,10 +1937,49 @@
       "version": "2026",
       "target": "Modellieren unter Nutzung von Skizzen, Tabellen, Termen, Gleichungen",
       "remarks": "Lösen von Gleichungen durch Probieren einfache, alltagsnahe funktionale Beziehungen in Sachsituationen beschreiben Menge-Preis; Halbieren-Verdoppeln ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang ➔ LB Größen und Messen"
+    },
+    "page912_187092": {
+      "id": "page912_187092",
+      "level": 2,
+      "parent_target_id": "page912_1911",
+      "target": "Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187092",
+      "grade": "1/2",
+      "area_id": "MA-page912_1751",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "",
+      "version": "2026"
+    },
+    "page139_35504": {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "operator": "Einblick gewinnen",
+      "version": "2019"
+    },
+    "page139_35505": {
+      "id": "page139_35505",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Variieren von Sachverhalten zu mathematischen Inhalten",
+      "remarks": "unterschiedliche Fragestellungen finden mit gleichem Zahlenmaterial die Sachverhalte verändern selbstständig Sachaufgaben bilden ⇒ Förderung kognitiver Fähigkeiten ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35505",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "operator": "",
+      "version": "2019"
     }
   },
-  "next_id": "page912_187092",
-  "next_step": "GS1/2 Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben187092 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Muster und Strategien in Spielen187093. MA-053 prüft187091 nur für ein additives Skizzenmodell, FSP didaktisch bis20. MA-029 mit anderem GS-Hauptoperator Kennen und Gegenstand Bildsituation → Gleichung bleibt unverändert.53 Karten, elf Anschlussfragen und alle Restumfänge erhalten; App1.356 veröffentlicht und live geprüft; Nachweise und Grenzen in MA-044.",
+  "next_id": "page912_187093",
+  "next_step": "GS1/2 Beschreiben von Mustern und Strategien in Spielen187093 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen. MA-054 prüft187092 nur für Addition → selbst gebildete Sachaufgabe im Naturkontext, stufenübergreifend FSP3/4, didaktisch bis100.54 Karten, elf Anschlussfragen und alle Restumfänge erhalten; Veröffentlichung MA-045 nachweisen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2123,9 +2162,22 @@
       ],
       "decision": "FSP1/2: Die Grundaufgaben bis10 in37869 gehören zur Addition/Subtraktion37863 unter Einblick gewinnen37851. Schrittzählen37950 nennt2er-/5er-Schritte, belegt aber noch keine Mal-/Teilgrundaufgaben. Allgemeine Rechenvorteile37885 sowie Sach-/Knobelstrategien37896/38021 sind Vorläufer, kein hinreichend bestimmter multiplikativer Kernaufgabenauftrag. FSP3/4:35443 benennt Grundaufgaben des kleinen Einmaleins und die Bemerkung verknüpft Divisions- und Multiplikationsgleichungen.35442 benennt die Folgen2,5,10 als Kernaufgaben. Dieser positive Inhalt begründet den stufenübergreifenden Anschluss, nicht allein der kleinere Zahlenraum in1/2. Grundvorstellungen35435/35437/35438 behalten Einblick gewinnen; Teilbarkeitsregel35444 und Ergebniskontrolle35447 sind verwandte, aber andere Ziele.",
       "network_follow_up": "FSP1/2:37885/37889 nennen Umkehrbeziehungen im additiven Kontext37863;37869 betrifft additive Grundaufgaben bis10. Schrittzählen37950 und allgemeine Sach-/Knobelstrategien37896/38021 sind verwandte Voraussetzungen, aber keine hinreichend bestimmte multiplikative Vernetzung. FSP3/4:35441 nennt die Beziehung von Multiplikation und Division,35442 Umkehraufgaben und Kernaufgaben2,5,10 in der Bemerkung,35443 die Zuordnung von Multiplikations-/Divisionsgleichungen. Dieser Inhalt begründet den stufenübergreifenden Teilanschluss, nicht allein der größere Zahlenraum.35435/35437/35438 betreffen Grundvorstellungen unter Einblick gewinnen;35447 den gesonderten Kontrollzweck;35485 bleibt additiv unter Übertragen35470."
+    },
+    "MA-054": {
+      "same_band_candidate_ids": [
+        "page139_37851",
+        "page139_37859",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908",
+        "page139_37911",
+        "page139_37997",
+        "page139_38000"
+      ],
+      "decision": "FSP1/2: Rechengeschichten in Bemerkung37859 dienen dem Bilden von Vereinigungs-/Differenzmengen;37896/37898 erschließen vorhandene Sachaufgaben und nennen Umformulieren, Hinterfragen und Erkennen einer Frage.37908 probiert Lösungswege,37911 formuliert Ergebnisse. Märchenbezug38000 überträgt einen Sachverhalt in Symbolik. Diese positiven Vorläufer belegen die umgekehrte Richtung einer vorgegebenen Rechenaufgabe zu einer selbst gebildeten Sachaufgabe nicht hinreichend konkret. FSP3/4:35505 nennt im Pflichtbereich das Variieren mathematischer Sachverhalte und in der Bemerkung ausdrücklich selbstständiges Bilden von Sachaufgaben sowie veränderte Sachverhalte bei gleichem Zahlenmaterial. Der spezifische Inhalt, nicht allein ein größerer Zahlenraum, begründet die Stufenüberschreitung.35586 belegt Selbstbilden ebenfalls, gehört aber zum Wahlbereich Zahlen in der Tierwelt unter Anwenden35582 und wird nicht als allgemeines Pflichtziel verwendet."
     }
   },
-  "last_review_file": "review_batch_044.json",
+  "last_review_file": "review_batch_045.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2510,6 +2562,12 @@
       "scope": "Tabellen, Terme und Gleichungen als Modelle; weitere Rechenoperationen, Darstellungswechsel und selbstständige Auswahl zwischen Modellen; funktionale Beziehungen wie Menge–Preis und Halbieren–Verdoppeln sowie Gleichungslösen durch Probieren aus der GS-Bemerkung. Vollständige GS-Zieldeckung und das gesamte FSP-Probieren verschiedener Lösungswege werden nicht behauptet.",
       "status": "offen",
       "review_file": "review_batch_044.json"
+    },
+    {
+      "gs_id": "page912_187092",
+      "scope": "Andere Rechenoperationen, mehrschrittige Sachaufgaben, Sachkontexte außerhalb des gewählten Naturbezugs, Nullfälle, wechselnde Fragestellungen und die vollständige GS-Zieldeckung. Das gesamte Variieren von Sachverhalten35505 wird mit einer gebildeten Sachaufgabe nicht abgedeckt. Die Rückrichtung Sachverhalt → Rechenaufgabe bleibt ein anderer Gegenstand.",
+      "status": "offen",
+      "review_file": "review_batch_045.json"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2531,7 +2589,7 @@
       "page912_1911"
     ],
     "rows": 94,
-    "note": "94 inventarisierte Zeilen,53 Karten (15 stufenübergreifend). MA-044 prüft187091 teilweise;1911 bleibt Hauptzielkontext.187092/187093 neu ausschließlich zur Fortsetzung inventarisiert und ungeprüft. Elf Anschlussfragen und alle Restumfänge erhalten.",
+    "note": "94 inventarisierte Zeilen,54 Karten (16 stufenübergreifend). MA-045 prüft187092 teilweise;1911 bleibt Hauptzielkontext,187093 offen. Keine neue Inventurzeile. Elf Anschlussfragen und alle Restumfänge erhalten.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.1",
+  "version": "MA-2026-11-11.2",
   "checked_on": "2026-11-11",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1046,6 +1046,24 @@
       "title": "GS Mathematik1/2 · Lernbereich2: Zahl und Operation · Modellieren unter Nutzung von Skizzen, Tabellen, Termen, Gleichungen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187091",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187092",
+      "title": "GS Mathematik1/2 · Lernbereich 2: Zahl und Operation · Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187092",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35504",
+      "title": "FSP Lernen Mathematik3/4 · Lernbereich 3: Natur entdecken und erleben · Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35505",
+      "title": "FSP Lernen Mathematik3/4 · Lernbereich 3: Natur entdecken und erleben · Variieren von Sachverhalten zu mathematischen Inhalten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35505",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -5367,6 +5385,83 @@
         "fsp": "37898 und37908 sind Unterziele unter Einblick gewinnen37896. Skizze ist Bemerkung zu37908. Ein additiver Skizzenweg ist didaktisch ausgewählt; die gesamte Mehrzahl verschiedener Lösungswege wird dadurch nicht abgedeckt.",
         "fsp_remark_anchors": [
           "page139_37908"
+        ],
+        "context_only_gs_ids": [
+          "page912_1911"
+        ]
+      }
+    },
+    {
+      "id": "MA-054",
+      "subject": "Mathematik",
+      "theme": "Von einer Addition zur eigenen Sachaufgabe",
+      "app_area": "MA-page912_1751",
+      "status": "Begrenzter stufenübergreifender Anschluss · FSP-Selbstbilden als Bemerkungsbeleg",
+      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich2: Zahl und Operation · Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben187092 unter Einblick gewinnen1911; Ausschnitt Addition im Naturkontext",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich3: Natur entdecken und erleben · Variieren von Sachverhalten35505 unter Einblick gewinnen35504; selbstständiges Bilden von Sachaufgaben als Bemerkungsbeleg",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Einblick gewinnen. Stufenübergreifend GS1/2 → FSP3/4. Beide Hauptoperatoren lauten Einblick gewinnen (GS1911, FSP35504). GS187092 nennt Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben im Zieltext. FSP35505 nennt Variieren von Sachverhalten zu mathematischen Inhalten; selbstständig Sachaufgaben bilden und mit gleichem Zahlenmaterial Sachverhalte verändern stehen in der Bemerkung. Die Vorgabe einer Addition zweier positiver ganzer Anzahlen und einer Gesamtanzahlfrage im Naturkontext ist eine didaktische Konkretisierung dieser Belege. Die Zielzeilen nennen keine eigene numerische Obergrenze. FSP bis 100 wird didaktisch aus dem übergreifenden Bandziel35415 abgeleitet; GS bis 100 ist hier ebenfalls didaktisch gewählt, keine amtliche Obergrenze von187092. Keine vollständige GS-Zieldeckung. Andere Rechenoperationen, mehrschrittige Sachaufgaben, Sachkontexte außerhalb des gewählten Naturbezugs, Nullfälle, wechselnde Fragestellungen und die vollständige GS-Zieldeckung. Das gesamte Variieren von Sachverhalten35505 wird mit einer gebildeten Sachaufgabe nicht abgedeckt. Die Rückrichtung Sachverhalt → Rechenaufgabe bleibt ein anderer Gegenstand.",
+      "gs_target_ids": [
+        "page912_1911",
+        "page912_187092"
+      ],
+      "fsp_target_ids": [
+        "page139_35504",
+        "page139_35505"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1911",
+        "Q-MA-page912_187092",
+        "Q-MA-page139_35504",
+        "Q-MA-page139_35505",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifend GS1/2 → FSP3/4. Beide Hauptoperatoren lauten Einblick gewinnen (GS1911, FSP35504). GS187092 nennt Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben im Zieltext. FSP35505 nennt Variieren von Sachverhalten zu mathematischen Inhalten; selbstständig Sachaufgaben bilden und mit gleichem Zahlenmaterial Sachverhalte verändern stehen in der Bemerkung. Die Vorgabe einer Addition zweier positiver ganzer Anzahlen und einer Gesamtanzahlfrage im Naturkontext ist eine didaktische Konkretisierung dieser Belege. Die Zielzeilen nennen keine eigene numerische Obergrenze. FSP bis 100 wird didaktisch aus dem übergreifenden Bandziel35415 abgeleitet; GS bis 100 ist hier ebenfalls didaktisch gewählt, keine amtliche Obergrenze von187092. Keine vollständige GS-Zieldeckung. Andere Rechenoperationen, mehrschrittige Sachaufgaben, Sachkontexte außerhalb des gewählten Naturbezugs, Nullfälle, wechselnde Fragestellungen und die vollständige GS-Zieldeckung. Das gesamte Variieren von Sachverhalten35505 wird mit einer gebildeten Sachaufgabe nicht abgedeckt. Die Rückrichtung Sachverhalt → Rechenaufgabe bleibt ein anderer Gegenstand.",
+      "shared_object_suggestion": "Zwei Teilanzahlen und ein gesuchtes Ganzes: dieselbe additive Beziehung als Rechnung und als Natursituation.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erfindet zu einer vorgegebenen Addition zweier positiver ganzer Anzahlen eine passende Sachaufgabe im Naturkontext mit einer Frage nach der Gesamtanzahl, im didaktisch gewählten Zahlenraum bis 100.",
+          "criterion": "Beide Summanden erhalten eine stimmige Bedeutung als gleichartige, überschneidungsfreie Teilanzahlen. Die Frage betrifft deren Gesamtanzahl und ist durch genau die vorgegebene Addition beantwortbar. Alle Angaben, die gesuchte Summe sowie relevanten Zwischen- und Endergebnisse bleiben bis 100; keine zusätzlichen Rechenschritte.",
+          "status": "Didaktische Konkretisierung von Einblick gewinnen1911: eine additive Rechenaufgabe und ein Naturkontext. Bis100 didaktisch gewählt; keine eigene Obergrenze von187092."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bildet selbstständig zu einer vorgegebenen Addition zweier positiver ganzer Anzahlen eine passende Sachaufgabe im Naturkontext mit einer Frage nach der Gesamtanzahl, im Zahlenraum bis 100.",
+          "criterion": "Der gebildete Sachverhalt verknüpft die beiden vorgegebenen Summanden als gleichartige, überschneidungsfreie Teilanzahlen. Die Frage richtet sich auf die Gesamtanzahl und passt zu genau dieser Addition. Alle verwendeten Anzahlen, die gesuchte Summe sowie sämtlichen relevanten Zwischen- und Endergebnisse bleiben bis 100; keine zusätzlichen Rechenschritte. Die mathematische Stimmigkeit ist maßgeblich, nicht eine bestimmte Textlänge oder fehlerfreie Rechtschreibung.",
+          "status": "Didaktische Konkretisierung des Selbstbildens aus Bemerkung35505 unter Einblick gewinnen35504; Vorgabe einer Addition ist didaktisch ausgewählt. Zahlenrahmen aus Bandziel35415 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "FSP35504/35505 nennen keine eigene numerische Obergrenze. Bandziel35415 benennt die Grundrechenoperationen bis100. Der additive Naturkontext wird didaktisch darauf begrenzt. GS1911/187092 ebenfalls ohne eigene Höchstzahl; GS bis100 ist hier eine didaktische Auswahl, keine amtliche Zielzeilengrenze.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Didaktischer Ausschnitt: eine Addition zweier positiver ganzer Teilanzahlen gleichartiger, überschneidungsfreier Mengen im Naturkontext, deren Summe bis 100 reicht. Beide Summanden, sämtliche in der Sachaufgabe verwendeten Anzahlen, die gesuchte Gesamtanzahl und alle relevanten Zwischen- und Endergebnisse bleiben bis 100. Die Frage muss mit genau der vorgegebenen Addition beantwortbar sein; keine andere Rechenoperation oder zusätzliche Rechenschritte. Keine Nullfälle, Bruchteile oder Einheitenumrechnung. Konkrete Zahlen, Naturbezug, Aufgabenstellung, Darstellungsform und Hilfsmittel bestimmt die Lehrkraft. Das Feinziel bezeichnet die Kompetenz des Sachaufgabenbildens; die App liefert keine fertige Sachaufgabe. Eigene Lehrkraftentwürfe bleiben gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187092 ist verbindliches Unterziel unter Einblick gewinnen1911;1911 ist nur Hauptzielkontext.",
+        "fsp": "35505 ist verbindliches Unterziel unter Einblick gewinnen35504. Selbstständig Sachaufgaben bilden und gleicher Zahlenbestand stehen in der Bemerkung35505. Ein vorgegebener additiver Term wird didaktisch ausgewählt; keine Behauptung eines wörtlichen FSP-Auftrags zu jeder vorgegebenen Rechenaufgabe. Pflichtbereich Natur entdecken und erleben, kein Wahlbereich.",
+        "fsp_remark_anchors": [
+          "page139_35505"
         ],
         "context_only_gs_ids": [
           "page912_1911"

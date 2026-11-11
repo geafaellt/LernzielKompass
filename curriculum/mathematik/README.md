@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-044
+# Mathematik-Abgleich · MA-045
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Dreiundfünfzig Karten dokumentieren begrenzte Anschlüsse. Achtunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050 und MA-051 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Vierundfünfzig Karten dokumentieren begrenzte Anschlüsse. Achtunddreißig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051 und MA-054 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 App1.354 wurde inzwischen veröffentlicht und bytegenau geprüft; die öffentliche MA-051-Prüfung ist bestanden. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beim Erfinden von Sachaufgaben187092, danach Muster und Strategien in Spielen187093. [MA-044](review_batch_044.json) ergänzt MA-053 zum additiven Skizzenmodell.53 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Mustern und Strategien in Spielen187093. [MA-045](review_batch_045.json) ergänzt MA-054 zum Bilden einer Sachaufgabe aus einer Addition.54 Karten und elf Anschlussfragen; übrige Restumfänge erhalten. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -525,3 +525,12 @@ MA-029 bleibt unverändert: anderer Gegenstand Bildsituation → Gleichung unter
 GS bis20 ist didaktisch gewählt; FSP bis20 aus übergreifendem Bandziel37739 abgeleitet. Die Zielzeilen haben keine eigene Höchstzahl. Beide Teilanzahlen, Gesamtanzahl, dargestellte Werte sowie relevante Zwischen-/Endwerte bleiben bis20. Aufgaben, Zeichenstil und Hilfsmittel bleiben Lehrkraftentscheidung.53 Karten (38 passend,15 stufenübergreifend),156 Quellen und154 Zielanker.94 Inventurzeilen:187092/187093 neu, aber ungeprüft. Elf Anschlussfragen erhalten. Fortsetzung187092.
 
 Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle53 Mathematikkarten mit unveränderten Prüfaussagen in sieben getrennten Browsergruppen erfolgreich geprüft; außerdem gezielte MA-053-Prüfung und Hinweis-/Quellenprüfung aller366 Karten bestanden. Drei lange Gesamtdurchläufe brachen an unterschiedlichen vorhandenen Karten mit Zeitlimits ab; deren Ursache ist nicht abschließend geklärt. Kein erfolgreicher ununterbrochener Gesamtdurchlauf behauptet. Die frischen Browsersitzungen prüfen dieselben Karten, Zielübernahme, Grenzen, Quellen, Entwurfserhalt, Fachwechsel, Neuladen und mobile Ansicht. Veröffentlicht mit Commit c4df5f25b2d22bc5c967fa015fe2fb827337ca42 und erfolgreichem [Pages-Lauf42979881815](https://github.com/geafaellt/LernzielKompass/actions/runs/42979881815). App1.356 ist live bytegleich zum geprüften Stand (SHA2569f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4). Die gezielte öffentliche Prüfung von MA-053 in GS1 und2 einschließlich Ziel-/Gegenstandsübernahme, Grenzen, Entwurfserhalt, Fachwechsel, Neuladen und mobiler Ansicht ist bestanden. Kein vollständiger53-Karten-Livedurchlauf behauptet.
+
+
+## MA-045 · App 1.357 · 11.11.2026
+
+MA-054 verbindet GS187092 mit dem selbstständigen Sachaufgabenbilden aus der FSP3/4-Bemerkung35505 unter Einblick gewinnen35504. Beide Hauptoperatoren sind Einblick gewinnen. Die Karte begrenzt den Anschluss auf eine vorgegebene Addition zweier positiver ganzer Teilanzahlen und eine Gesamtanzahlfrage im Naturkontext des FSP-Lernbereichs3. Diese konkrete Richtung und Auswahl sind didaktisch. FSP1/2-Rechengeschichten, Umformulieren und das Erschließen vorhandener Sachaufgaben sind positive Vorläufer, belegen aber nicht hinreichend die umgekehrte Erzeugungsrichtung. Der zusätzliche Selbstbildungsbeleg35586 liegt im Wahlbereich Tierwelt und wird nicht zum allgemeinen Pflichtziel umgedeutet.
+
+MA-029,MA-052 undMA-053 bleiben unverändert: andere Übersetzungsrichtungen bzw. Gegenstände. Kein erneutes Zählen ihrer Zeilen. GS bis100 ist didaktisch gewählt; FSP bis100 aus Bandziel35415 abgeleitet. Keine eigene Obergrenze der ausgewählten Zielzeilen. Alle Anzahlen, Summe und relevante Zwischen-/Endwerte sind begrenzt. Es werden keine fertigen Sachaufgaben oder Hilfsmittel in die Planung eingefügt. Andere Operationen, mehrschrittige Aufgaben, Nullfälle, weitere Kontexte und vollständige Zieldeckung bleiben offen.
+
+54 Karten (38 passend,16 stufenübergreifend),159 Quellen und157 Zielanker;94 Inventurzeilen bleiben94. Elf Anschlussfragen erhalten. Fortsetzung187093. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle54 Mathematikkarten in sieben frischen Browsergruppen mit unveränderten Prüfaussagen erfolgreich geprüft, alle367 Karten in der Quellen-/Hinweisprüfung bestätigt. Alle Gruppen bestanden im ersten Versuch. Wegen der in MA-044 dokumentierten Zeitlimits langer Sitzungen wurde kein ununterbrochener Gesamtdurchlauf behauptet. Zielübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, erhaltene Entwürfe, Fachwechsel, Neuladen und mobile Ansicht bestätigt. Veröffentlichung und öffentliche MA-054-Prüfung stehen noch aus.
