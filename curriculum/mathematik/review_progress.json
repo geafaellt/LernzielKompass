@@ -2593,5 +2593,14 @@
       "browser_live": "passed targeted MA-051 in GS grades1/2 with source/scope/goal adoption, empty task/aid fields, teacher-draft preservation, subject isolation, reload and mobile; full51-card live run not repeated",
       "history": "First deployment timed out; requested retry was last observed queued. The later evidence-commit deployment published the same tested app bytes successfully."
     }
+  },
+  "latest_publication": {
+    "batch": "MA-043",
+    "status": "verified",
+    "app_version": "1.355",
+    "commit": "8f30d947639d913de5d8b93ff6d2498d844cd85a",
+    "pages_run": 42913481303,
+    "live_sha256": "8045760c036698512bb5c8e6fc6c08bb099c1a7b032d931c43277758ec8cfcf4",
+    "browser": "targeted MA-052 passed after network-error retry;full52 local run passed"
   }
 }
