@@ -243,7 +243,7 @@
     "open_connection_questions": 11,
     "documented_no_direct_connection_rows": 5
   },
-  "continuation": "GS1/2 Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben187092 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Muster und Strategien in Spielen187093. MA-053 prüft187091 nur für ein additives Skizzenmodell, FSP didaktisch bis20. MA-029 mit anderem GS-Hauptoperator Kennen und Gegenstand Bildsituation → Gleichung bleibt unverändert.53 Karten, elf Anschlussfragen und alle Restumfänge erhalten; Veröffentlichung MA-044 nachweisen.",
+  "continuation": "GS1/2 Erfinden von Sachaufgaben zu vorgegebenen Rechenaufgaben187092 unter Einblick gewinnen1911 gegen beide FSP-Bänder prüfen; danach Muster und Strategien in Spielen187093. MA-053 prüft187091 nur für ein additives Skizzenmodell, FSP didaktisch bis20. MA-029 mit anderem GS-Hauptoperator Kennen und Gegenstand Bildsituation → Gleichung bleibt unverändert.53 Karten, elf Anschlussfragen und alle Restumfänge erhalten; App1.356 veröffentlicht und live geprüft; Nachweise und Grenzen in MA-044.",
   "tests": {
     "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
     "preservation": "passed all52 prior cards,155 prior sources,all prior target anchors,11 questions and prior remaining scopes unchanged;nonmath app code/data unchanged except version/date;index/dist identical. Only1911/187091 existing audit rows updated;187092/187093 added as inventory-only,not reviewed.",
@@ -252,12 +252,20 @@
     "browser_long_session_limit": "Three uninterrupted full-run attempts did not complete: first scrolling #next at MA-022; second scrolling #prev at MA-002; third (1280x1600 and disabled threaded scrolling) waiting for #goalGS at MA-013 in second GS grade. No successful uninterrupted53-card run claimed. The same cards/assertions all passed in fresh-browser subsets; underlying long-session timing cause not conclusively established.",
     "browser_disclosures": "passed all366 cards:collapsed source and boundary evidence,operator help,keyboard,drafts,mobile320/390",
     "browser_environment": "Final successful subsets use temporary Chromium wrapper disabling smooth scrolling,GPU,native window occlusion and background throttling; initial page brought to front; default viewport. Ordinary clicks and original assertions unchanged. No force-click or skipped failing assertion. Scroll animation itself not assessed.",
-    "browser_live": "pending deployment;targeted public MA-053 check required;full53-card public run not planned."
+    "browser_live": "passed targeted MA-053 in both GS grades with existing follow-on checks:source/scope/goal adoption,empty task/aid fields,preserved teacher drafts,subject isolation,reload,mobile. Full53-card public run not repeated; all53 covered locally in7 fresh-browser subsets."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.356",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "9f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4"
+    "target_sha256": "9f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4",
+    "app_commit": "c4df5f25b2d22bc5c967fa015fe2fb827337ca42",
+    "pages_run": 42979881815,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/42979881815",
+    "pages_conclusion": "success",
+    "live_app_version": "1.356",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "9f4a18967b1fad8f6006d95efdc6aac77375ca7c883db0de9d931f02b9b427e4",
+    "verified_at": "2026-11-11T07:31:14.671135+00:00"
   }
 }
