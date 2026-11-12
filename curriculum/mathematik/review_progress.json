@@ -2250,7 +2250,7 @@
     }
   },
   "next_id": "page912_1924",
-  "next_step": "GS1/2 sachadäquates Messen von Längen mit Lineal und Maßband1924 gegen beide FSP-Bänder prüfen,danach Stützpunktvorstellungen187118. Bestehende MA-004 (Vergleich/Ordnung) undMA-062 (Meter-Kommanotation ohne Umwandlung) nicht als Messhandlung doppelt zählen. Gemischte Längenangaben187116 bleiben neue Anschlussfrage mit positiven3/4-Gegenbezügen.62 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden.",
+  "next_step": "GS1/2 sachadäquates Messen von Längen mit Lineal und Maßband1924 gegen beide FSP-Bänder prüfen,danach Stützpunktvorstellungen187118. Bestehende MA-004 (Vergleich/Ordnung) undMA-062 (Meter-Kommanotation ohne Umwandlung) nicht als Messhandlung doppelt zählen. Gemischte Längenangaben187116 bleiben neue Anschlussfrage mit positiven3/4-Gegenbezügen.62 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden. App 1.367 veröffentlicht und live geprüft; Nachweise in MA-055.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3157,8 +3157,11 @@
   },
   "latest_publication": {
     "batch": "MA-055",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.367",
-    "previous_verified_version": "1.366"
+    "app_commit": "532e3f9cc5192bc755aeda321212c7c6bb9bb300",
+    "pages_run": 43192184814,
+    "live_sha256": "37a40aedf06cd43932618aad6cb1bbffd06784defdbdba18dc70349ffb566bc6",
+    "browser": "targeted MA-062 live in both GS grades and mobile320/390 passed;all62 local in8 subsets"
   }
 }
