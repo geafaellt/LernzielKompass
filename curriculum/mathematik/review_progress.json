@@ -2315,7 +2315,7 @@
     }
   },
   "next_id": "page912_187120",
-  "next_step": "GS1/2 passende Längeneinheiten wählen und in benachbarte Einheiten umrechnen187120 gegen beide FSP-Bänder prüfen, danach Sachsituationen mit Längen187121. Einheitenbeziehung1m=100cm von allgemeinen Umrechnungsverfahren und dem Hinweis keine Umwandlung35518 trennen. MA-066 belegt nur erste Meter-Schätzerfahrungen, keine Umrechnung.66 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; gemischte Angaben187116 und die Restumfänge bleiben offen.",
+  "next_step": "GS1/2 passende Längeneinheiten wählen und in benachbarte Einheiten umrechnen187120 gegen beide FSP-Bänder prüfen, danach Sachsituationen mit Längen187121. Einheitenbeziehung1m=100cm von allgemeinen Umrechnungsverfahren und dem Hinweis keine Umwandlung35518 trennen. MA-066 belegt nur erste Meter-Schätzerfahrungen, keine Umrechnung.66 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; gemischte Angaben187116 und die Restumfänge bleiben offen. App 1.370 veröffentlicht und live geprüft; Nachweise in MA-058.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3288,8 +3288,11 @@
   },
   "latest_publication": {
     "batch": "MA-058",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.370",
-    "previous_verified_version": "1.369"
+    "app_commit": "5966a55245f30d174b025cf38fad179564f45291",
+    "pages_run": 43220251168,
+    "live_sha256": "a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1",
+    "browser": "targeted MA-066 live in both GS grades and mobile320/390 passed;all66 local in9 subsets"
   }
 }
