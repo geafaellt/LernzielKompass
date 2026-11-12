@@ -2160,7 +2160,7 @@
     }
   },
   "next_id": "page912_187113",
-  "next_step": "GS1/2 Geld-Fachbegriffe187113 unter Kennen1912 gegen beide FSP-Bänder prüfen: Euro/Cent sowie teurer/billiger/kostet mehr/kostet weniger. Vorhandene MA-003,MA-041 und MA-056–060 inhaltlich abgrenzen; Geldhandlungen nicht automatisch als eigenständigen Sprachbeleg zählen.60 Karten, zwölf Anschlussfragen und sämtliche Restumfänge erhalten.187112 bleibt insbesondere für Subtraktion, Menge-Preis-Beziehungen und weitere Geldrechnungen offen.",
+  "next_step": "GS1/2 Geld-Fachbegriffe187113 unter Kennen1912 gegen beide FSP-Bänder prüfen: Euro/Cent sowie teurer/billiger/kostet mehr/kostet weniger. Vorhandene MA-003,MA-041 und MA-056–060 inhaltlich abgrenzen; Geldhandlungen nicht automatisch als eigenständigen Sprachbeleg zählen.60 Karten, zwölf Anschlussfragen und sämtliche Restumfänge erhalten.187112 bleibt insbesondere für Subtraktion, Menge-Preis-Beziehungen und weitere Geldrechnungen offen. App1.364 veröffentlicht und live geprüft; Nachweise in MA-052.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2975,8 +2975,11 @@
   },
   "latest_publication": {
     "batch": "MA-052",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.364",
-    "previous_verified_version": "1.363"
+    "app_commit": "f59c707c8328b5033cdaf12135f326f54fcfd5f9",
+    "pages_run": 43170364731,
+    "live_sha256": "cc1d85ca91844423a7b7d1dba578d79f8fae39cc8577e4339039834f497fed2a",
+    "browser": "targeted MA-060 live in both GS grades and mobile320/390 passed;all60 local in8 subsets"
   }
 }
