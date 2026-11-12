@@ -2198,7 +2198,7 @@
     }
   },
   "next_id": "page912_187116",
-  "next_step": "GS1/2 Längenangaben mit zwei Einheiten187116 gegen beide FSP-Bänder prüfen, danach Kommaschreibweise187117. Bestehende MA-004 bleibt beim Vergleich/Ordnen von Meterangaben in einer Einheit mit vorab festgelegtem Zahlenbereich und vertrauter Darstellungsform. Positive3/4-Bezüge35514/35515/35518 einschließlich Verhältnis1m=100cm und Bemerkung keine Umwandlung genau trennen. Zentimeter,Millimeter,Dezimeter und weitere Restumfänge187114 bleiben offen.61 Karten, zwölf Anschlussfragen und117 Inventurzeilen erhalten; keine unbelegte1m-/20m-Grenze.",
+  "next_step": "GS1/2 Längenangaben mit zwei Einheiten187116 gegen beide FSP-Bänder prüfen, danach Kommaschreibweise187117. Bestehende MA-004 bleibt beim Vergleich/Ordnen von Meterangaben in einer Einheit mit vorab festgelegtem Zahlenbereich und vertrauter Darstellungsform. Positive3/4-Bezüge35514/35515/35518 einschließlich Verhältnis1m=100cm und Bemerkung keine Umwandlung genau trennen. Zentimeter,Millimeter,Dezimeter und weitere Restumfänge187114 bleiben offen.61 Karten, zwölf Anschlussfragen und117 Inventurzeilen erhalten; keine unbelegte1m-/20m-Grenze. App1.366 veröffentlicht und live geprüft; Nachweise in MA-054.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3052,8 +3052,11 @@
   },
   "latest_publication": {
     "batch": "MA-054",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.366",
-    "previous_verified_version": "1.365"
+    "app_commit": "74f81d9f82bab40d0591b7c8e36270c1c635c92c",
+    "pages_run": 43178827820,
+    "live_sha256": "426e381e9164318bdb567343f9a9cd77da24a8ef5e103323aed299a42053eedf",
+    "browser": "targeted MA-004 live in both GS grades and mobile320/390 passed;all61 local in8 subsets"
   }
 }
