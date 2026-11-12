@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-053",
+  "last_batch": "MA-054",
   "complete": false,
   "counts": {
     "cards": 61,
@@ -342,7 +342,9 @@
       "parent_target_id": "page912_1922",
       "operator": "Kennen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1922",
-      "version": "2026"
+      "version": "2026",
+      "target": "Kennen des Umgangs mit der Größe Länge in Alltagssituationen",
+      "remarks": ""
     },
     "page912_1923": {
       "id": "page912_1923",
@@ -353,7 +355,9 @@
       "parent_target_id": "page912_1922",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1923",
-      "version": "2026"
+      "version": "2026",
+      "target": "Erfassen, Vergleichen, Ordnen und Darstellen von Längen",
+      "remarks": "direktes und indirektes Vergleichen"
     },
     "page912_187114": {
       "id": "page912_187114",
@@ -364,7 +368,9 @@
       "parent_target_id": "page912_1922",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187114",
-      "version": "2026"
+      "version": "2026",
+      "target": "Millimeter, Zentimeter, Dezimeter, Meter",
+      "remarks": "die Hälfte, ½, durch Faltaktivität klären"
     },
     "page139_37961": {
       "id": "page139_37961",
@@ -375,7 +381,9 @@
       "parent_target_id": "page139_37961",
       "operator": "Kennen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961",
-      "version": "2019"
+      "version": "2019",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": ""
     },
     "page139_37967": {
       "id": "page139_37967",
@@ -386,7 +394,9 @@
       "parent_target_id": "page139_37961",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967",
-      "version": "2019"
+      "version": "2019",
+      "target": "Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Experimentieren mit körpereigenen und willkürlichen Einheiten mit Schritt-, Seil-, Stocklänge länger, kürzer, gleich lang Längen mit Meterangabe erste Erfahrungen im Schätzen ⇒ Sprachförderung"
     },
     "page139_37974": {
       "id": "page139_37974",
@@ -397,7 +407,9 @@
       "parent_target_id": "page139_37961",
       "operator": "",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974",
-      "version": "2019"
+      "version": "2019",
+      "target": "Maßeinheit Meter (m)",
+      "remarks": "Größenvorstellungen typische Repräsentanten (Tafellineal) Handhabung eines Maßbandes"
     },
     "page912_2068": {
       "id": "page912_2068",
@@ -2170,10 +2182,23 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187115": {
+      "id": "page912_187115",
+      "level": 3,
+      "parent_target_id": "page912_1922",
+      "target": "mit einer Einheit",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187115",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_1923",
-  "next_step": "GS1/2 Längenblock1922: bestehende MA-004 und Zeilen1923/187114 gegen beide FSP-Bänder erneut prüfen, anschließend187115. Hauptoperator Kennen und Naturkontext des FSP1/2 erhalten. Keine unbelegte Obergrenze von20m oder Beschränkung auf ganze Meter; Planungsbereich und relevante Zwischen-/Endwerte gesondert klären. Die zwölf Längenblockzeilen wurden in MA-053 nur inventarisiert, nicht neu fachlich freigegeben.61 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten;187113 bleibt nur teilweise gedeckt. App1.365 veröffentlicht und live geprüft; Nachweise in MA-053.",
+  "next_id": "page912_187116",
+  "next_step": "GS1/2 Längenangaben mit zwei Einheiten187116 gegen beide FSP-Bänder prüfen, danach Kommaschreibweise187117. Bestehende MA-004 bleibt beim Vergleich/Ordnen von Meterangaben in einer Einheit mit vorab festgelegtem Zahlenbereich und vertrauter Darstellungsform. Positive3/4-Bezüge35514/35515/35518 einschließlich Verhältnis1m=100cm und Bemerkung keine Umwandlung genau trennen. Zentimeter,Millimeter,Dezimeter und weitere Restumfänge187114 bleiben offen.61 Karten, zwölf Anschlussfragen und117 Inventurzeilen erhalten; keine unbelegte1m-/20m-Grenze.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2390,7 +2415,7 @@
       "decision": "FSP1/2 benennt Euro/Cent und Wechseln von Geldbeträgen. Das sind positive Vorbezüge, jedoch kein ebenso konkreter Zielbeleg für die ausgewählte Hundert-zu-eins-Einheitenbeziehung. Diese ist in FSP3/4 35493 ausdrücklich genannt. Die Auswahl beruht auf der spezifischen Zielaussage, nicht allein auf dem didaktischen20-Rahmen früherer Karten. Kein pauschaler Ausschluss von Einheitenwahl oder Geldwechseln in1/2."
     }
   },
-  "last_review_file": "review_batch_053.json",
+  "last_review_file": "review_batch_054.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2893,6 +2918,24 @@
       "scope": "Selbstständiger flexibler Gebrauch aller vier Preisvergleichsformulierungen, ihre sichere wechselseitige Umformulierung und Verwendung in wechselnden Bezugsrichtungen; Schreiben/Zuordnen der Kürzel € und ct und weitere Verwendung der Einheitenwörter außerhalb des begrenzten Vergleichs. MA-003 erfasst Euro/Cent-Benennung,MA-061 einen relationalen sprachlichen Preisvergleich mit unterstütztem FSP-Verstehen. Keine Vollabdeckung der Sprachliste, gemischter Beträge oder Preis-/Qualitätsbewertung. FSP3/4-Formulierungshilfen35492, sprachliche Geldnotation35494 und Preisvergleiche35556 bleiben positive weitere Kandidaten.",
       "status": "offen",
       "review": "MA-053"
+    },
+    {
+      "gs_id": "page912_1923",
+      "scope": "Erfassen und Darstellen von Längen in weiteren Formen; eigenständiges Messen und Schätzen, systematische direkte/indirekte Vergleichsverfahren sowie Erweiterungen des gewählten Zahlen- und Darstellungsbereichs. MA-004 prüft nur Vergleich/Ordnung von Meterangaben im Naturkontext. FSP1/2-Körpermaße37777 und Messen37967 sowie FSP3/4-Längenermittlung35511/35514 sind positive weiterführende Bezüge, keine pauschalen Nichtanschlüsse.",
+      "status": "offen",
+      "review": "MA-054"
+    },
+    {
+      "gs_id": "page912_187114",
+      "scope": "Millimeter, Zentimeter und Dezimeter sowie Halbierungs-/Bruchaspekt aus der GS-Bemerkung bleiben außerhalb von MA-004. FSP3/4-Zentimeter35515 und Zeichnen/Messen in ganzen cm35516 sind konkrete positive Kandidaten, unter eigenem Übertragen35511 gesondert zu prüfen. Einheitenbeziehung1m=100cm und Meter-Kommaschreibweise35518 sind keine numerische Höchstgrenze und keine automatische FSP1/2-Erweiterung. Die Karte belegt nur Meter, keine vollständige Vierer-Einheitenliste.",
+      "status": "offen",
+      "review": "MA-054"
+    },
+    {
+      "gs_id": "page912_187115",
+      "scope": "Angaben mit anderen Einheiten, weitere Darstellungen und eigenständige Auswahl einer Einheit. MA-004 deckt nur Vergleichen/Ordnen von Meterangaben in einem zuvor festgelegten Zahlen- und Darstellungsbereich. Ganze Meter sind keine wörtliche Zielgrenze; Bruch-/Kommaangaben werden dadurch nicht pauschal freigegeben. Angaben mit zwei Einheiten187116 und Kommaschreibweise187117 folgen gesondert.",
+      "status": "offen",
+      "review": "MA-054"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2916,7 +2959,7 @@
       "page912_1922"
     ],
     "rows": 117,
-    "note": "117 inventarisierte Zeilen,61 Karten (18 stufenübergreifend). MA-053 prüft187113 teilweise: Einheitenbenennung in bestehender MA-003, sprachlicher Preisvergleich neuMA-061. Zwölf Zeilen des Längenblocks1922 nur inventarisiert, darunter vorhandene MA-004-Bezüge1923/187114 ohne erneute fachliche Freigabe. Keine neue Anschlussfrage oder Nichtanschlussentscheidung. Fortsetzung1923.",
+    "note": "117 inventarisierte Zeilen,61 Karten (18 stufenübergreifend). MA-054 prüft bestehende MA-004 zu1923/187114 erneut und ordnet187115 als neuen begrenzten Ausschnitt derselben Karte zu. Keine neue Karte oder Inventurzeile; Hauptziel1922 bleibt Kontext. Keine neue Anschlussfrage oder Nichtanschlussentscheidung. Fortsetzung187116.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2978,6 +3021,16 @@
         "MA-056"
       ],
       "note": "MA-010 historical review retained. Missing upper bounds are not replaced by invented amounts."
+    },
+    "follow_up_length": {
+      "batch": "MA-054",
+      "card": "MA-004",
+      "status": "unspecified_confirmed",
+      "current_unspecified_cards": [
+        "MA-004",
+        "MA-056"
+      ],
+      "note": "Historische MA-010/MA-048-Nachweise bewahrt. MA-004 verlangt vorab bestimmten Zahlen-/Darstellungsbereich einschließlich relevanter Zwischen-/Endwerte. Keine erfundene Höchstlänge."
     }
   },
   "publication_recheck": {
@@ -2998,12 +3051,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-053",
-    "status": "verified",
-    "app_version": "1.365",
-    "app_commit": "90a6c1bb252fbaba784cc29a202236629d072b3e",
-    "pages_run": 43171983308,
-    "live_sha256": "96fb92ad8da65371d747fcaefc90ef968a2b55ce70df8d968511b0eb2c2886c4",
-    "browser": "targeted MA-003/MA-061 live in both GS grades and mobile320/390 passed;all61 local in8 subsets"
+    "batch": "MA-054",
+    "status": "pending",
+    "app_version": "1.366",
+    "previous_verified_version": "1.365"
   }
 }
