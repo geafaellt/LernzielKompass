@@ -1,0 +1,223 @@
+{
+  "id": "MA-058",
+  "date": "2026-11-12",
+  "base_commit": "25261ef9eb6faf6ded3759e5468996a651783be0",
+  "scope": "GS1/2 Schätzen187119: erste Meter-Schätzerfahrungen in FSP1/2 und weiterführendes Schätzen in FSP3/4 unterscheiden",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1922",
+      "level": 1,
+      "parent_target_id": "page912_1922",
+      "target": "Kennen des Umgangs mit der Größe Länge in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1922",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187119",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Schätzen von Längen",
+      "remarks": "Stützpunktvorstellungen nutzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187119",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37967",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Experimentieren mit körpereigenen und willkürlichen Einheiten mit Schritt-, Seil-, Stocklänge länger, kürzer, gleich lang Längen mit Meterangabe erste Erfahrungen im Schätzen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37974",
+      "level": 3,
+      "parent_target_id": "page139_37961",
+      "target": "Maßeinheit Meter (m)",
+      "remarks": "Größenvorstellungen typische Repräsentanten (Tafellineal) Handhabung eines Maßbandes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35514",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Schätzen, Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Schaffen von Größenvorstellungen Experimentieren mit Körpermaßen, Stock- und Bandlänge Meter- und Zentimeterangabe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35515",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Einheit Zentimeter (cm), Beziehung: 1 m = 100 cm",
+      "remarks": "typische Repräsentanten: Daumenbreite, Fingerspanne, Schrittlänge, Armlänge, Handspanne sachgerechte Handhabung von Messgeräten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515",
+      "grade": "3/4"
+    },
+    {
+      "id": "page912_187118",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Längen",
+      "remarks": "typische Repräsentanten: Daumenbreite, Schrittlänge, Türbreite",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187118",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187120",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Wählen von passenden Einheiten und Umrechnen in benachbarte Maßeinheiten",
+      "remarks": "entscheiden können, welche die größere Einheit ist veränderte Zahlenwerte bei gleich bleibenden Strecken erkennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187120",
+      "grade": "1/2"
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "context_verification": "Bandzieltexte37739/35415 frisch geprüft und unverändert. Allgemeine Zahlenräume20/100 sind keine Längenobergrenzen. Beide FSP-Längenblöcke liegen im LB3. Ziel- und Bemerkungsspalten getrennt; amtliches HTML geprüft, kein neuer PDF-Abgleich behauptet.187118 ist Vorwissen,187120 nur Fortsetzungskontext.",
+  "new_cards": [
+    "MA-066"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-004",
+    "MA-062",
+    "MA-063",
+    "MA-064",
+    "MA-065"
+  ],
+  "existing_card_review": "Alle65 vorhandenen Karten unverändert. MA-065 prüft nur eine Meterreferenz; Referenzwissen belegt noch keine Schätzkompetenz. MA-063/064 sind Messanschlüsse und setzen keine neue Messhandlung in MA-066 voraus. Vergleich und Notation bleiben getrennt. Die neue Karte wird nur187119 zugeordnet;1922 nur Hauptzielkontext. Keine erneute Zählung bestehender FSP-Anker.",
+  "decisions": [
+    {
+      "gs_id": "page912_187119",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-066"
+      ],
+      "same_band_candidates": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "cross_band_candidates": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: erste Schätzerfahrungen mit Längen in Metern im Naturkontext. GS 187119 nennt Schätzen im Unterziel, die Bemerkung verweist auf Stützpunktvorstellungen. FSP 37967 nennt erste Erfahrungen im Schätzen in der Bemerkung zum Mess-, Vergleichs- und Ordnungsziel; die Einheit Meter steht in 37974. Beide Hauptoperatoren bleiben Kennen (GS 1922, FSP 37961). Aus der Bemerkung wird kein eigenständiger Operator Einblick gewinnen und keine routinierte Schätzleistung abgeleitet. Der Bezug auf eine bekannte, geklärte Referenzlänge ist didaktisch konkretisiert. Keine feste Trefferquote oder zulässige Abweichung ist amtlich vorgegeben. Zahlenbereich, vertraute Darstellungsform und angemessene Schätzgenauigkeit sind vorher festzulegen. Keine numerische Höchstlänge belegt. Messen, Umrechnen, Runden und Längenrechnen werden nicht mitverlangt. MA-065 bleibt beim Aufbau einer Referenzvorstellung. Keine vollständige GS-Zieldeckung.",
+      "candidate_review": "FSP1/2 nennt erste Erfahrungen im Schätzen ausdrücklich in Bemerkung37967 und Meter im Ziel37974. Für den bewusst anfänglichen Meter-Ausschnitt wird der stufenbandpassende Anschluss bevorzugt. FSP3/4 nennt Schätzen in Ziel35514 unter Übertragen35511; das ist ein stärkerer eigenständiger Zielbezug und bleibt für den weiterführenden Rest einschließlich Zentimeter positiv dokumentiert. Er wird nicht als vollständig gleichbedeutend zur1/2-Bemerkung behandelt und nicht allein wegen eines anderen Zahlenraums verworfen.",
+      "operators": {
+        "gs": "Kennen1922",
+        "fsp_selected": "Kennen37961",
+        "fsp_cross_band": "Übertragen35511"
+      },
+      "number_range": {
+        "gs_target_row_max": null,
+        "fsp_target_row_max": null,
+        "fsp_scope_status": "unspecified",
+        "max_value": null,
+        "note": "Zahlenbereich und vertraute Darstellungsform vorab bestimmen. Alle Referenz-, Schätz- und relevanten Zwischen-/Endwerte darin halten. Einheiten- oder Bandzahlen sind keine Höchstlängen. Keine amtliche Toleranz oder Trefferquote."
+      },
+      "prerequisites": "Bekannte fachlich geklärte Referenzlänge, vertraute Meterangaben und Unterscheidung ungefähr/exakt. Der Genauigkeitsrahmen ist didaktisch und muss zu ersten Erfahrungen passen; keine routinierte Präzisionsleistung verlangen. Konkrete Aufgaben, Gegenstände und Hilfsmittel bleiben Lehrkraftentscheidung.",
+      "uncertainty": "Die Schätzformulierung ist FSP1/2-Bemerkung, kein eigener Zieloperator. Die Quelle legt weder konkrete Zahlengrenzen noch einen Schätzfehler fest. Das Kriterium Plausibilität erfordert eine fachliche Einzelfallprüfung und ist keine automatische Validierung beliebigen Freitexts.",
+      "remaining": "Schätzen mit weiteren Längeneinheiten, mehreren oder selbstständig ausgewählten Stützpunkten, flexibler Strategiewahl und differenzierter Genauigkeit; selbstständige Überprüfung oder Weiterentwicklung einer Schätzung durch Messung. MA-066 erfasst nur erste Meter-Schätzerfahrungen in einem vorher festgelegten Zahlen-/Darstellungs- und Genauigkeitsrahmen. FSP3/4-Schätzen35514 unter Übertragen35511 mit Meter-/Zentimeterangabe sowie Repräsentanten35515 sind positive weiterführende Bezüge, keine begründeten Nichtanschlüsse. Keine vollständige GS-Zieldeckung, kein automatischer Mess-, Umrechnungs- oder Rechenanschluss."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "new_open_connection_questions": 0,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 66,
+    "cross_band_cards": 20,
+    "source_links": 183,
+    "target_anchors": 181,
+    "audit_rows": 117,
+    "open_connection_questions": 13,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 passende Längeneinheiten wählen und in benachbarte Einheiten umrechnen187120 gegen beide FSP-Bänder prüfen, danach Sachsituationen mit Längen187121. Einheitenbeziehung1m=100cm von allgemeinen Umrechnungsverfahren und dem Hinweis keine Umwandlung35518 trennen. MA-066 belegt nur erste Meter-Schätzerfahrungen, keine Umrechnung.66 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; gemischte Angaben187116 und die Restumfänge bleiben offen.",
+  "tests": {
+    "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 65,
+      "old_sources_unchanged": 182,
+      "old_anchors_unchanged": 180,
+      "previous_questions_unchanged": 13,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 117,
+      "changed_audit_ids": [
+        "page912_1922",
+        "page912_187119"
+      ],
+      "new_source_rows_match_fresh_official_html": true,
+      "nonmath_unchanged": true,
+      "root_dist_identical": true,
+      "html_sha256": "a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1",
+      "html_blob_sha": "3dde27f3253cfd65ff64784c4a5921aee39bfa4c"
+    },
+    "scope": "MA-066: unspecified, max_value null, no range_max. Initial estimation in metres only; remark evidence distinct from target/operator. All nonnegative reference, estimate and relevant intermediate/final values remain in the previously determined number range. Representation and appropriate accuracy chosen beforehand, no invented official tolerance, success rate or maximum length. No added measurement, conversion, rounding or calculation demand. Previous scopes and regression checks preserved.",
+    "browser_local": "passed all66 cards in9 disjoint fresh-browser subsets using original check-mathematik-browser assertions with only per-card loop filtered. Full grade/area counts,source/scope/goal/criterion adoption,empty task/aid fields,draft preservation,subject isolation,reload and mobile follow-up retained. All9 passed on first attempt. Generic mobile follow-up uses MA-018.",
+    "browser_changed_card_mobile": "passed targeted MA-066 in both GS grades,then direct scope/card and scope/goals visibility with no horizontal overflow at320px and390px. Original assertions retained.",
+    "browser_long_session_limit": "No uninterrupted66-card run claimed;fresh-browser subsets address previously documented long-session timeouts.",
+    "browser_disclosures": "passed all379 cards:collapsed source/evidence disclosures,operator help,keyboard,drafts,mobile320/390.",
+    "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
+    "browser_live": "pending targeted MA-066 in both GS grades and direct mobile320/390 checks"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.370",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "target_sha256": "a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1"
+  }
+}

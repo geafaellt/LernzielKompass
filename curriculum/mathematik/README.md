@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-057
+# Mathematik-Abgleich · MA-058
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Fünfundsechzig Karten dokumentieren begrenzte Anschlüsse. Fünfundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Sechsundsechzig Karten dokumentieren begrenzte Anschlüsse. Sechsundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beim Schätzen187119, danach Einheitenwahl/Umrechnen187120. [MA-057](review_batch_057.json) ergänzt die begrenzte Meterreferenz MA-065 unter187118.65 Karten,13 Anschlussfragen und117 Inventurzeilen; gemischte Längenangaben187116 bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Einheitenwahl/Umrechnen187120, danach Längen-Sachsituationen187121. [MA-058](review_batch_058.json) ergänzt erste Meter-Schätzerfahrungen MA-066 unter187119.66 Karten,13 Anschlussfragen und117 Inventurzeilen; gemischte Längenangaben187116 bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -642,3 +642,12 @@ MA-065 verbindet GS-Stützpunktwissen187118 mit der Größenvorstellung eines Me
 Ein Meter ist die Bezugsgröße und keine Höchstlänge. Fachlicher Geltungsbereich statt erfundener Zahlenraumgrenze: Nur die bekannte, vorab geklärte Referenz; exakte und ungefähre Zuordnung unterscheiden. Keine universellen Normwerte aus Körper- oder Gegenstandsbeispielen ableiten. Weitere Mess-, Schätz-, Umrechnungs- oder Rechenergebnisse werden nicht verlangt. Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung.
 
 Alle64 vorhandenen Karten, offenen Fragen und bisherigen Resttexte unverändert.65 Karten (45 stufenbandpassend,20 stufenübergreifend),182 Quellen,180 Zielanker,117 Inventurzeilen,13 Anschlussfragen und fünf Nichtanschlussentscheidungen. Eine neue Teilprüfung, keine Vollabdeckung von187118. Weitere Einheiten/Referenzen und ihre flexible Nutzung bleiben offen. Fortsetzung187119. Daten-, Geltungsbereichs- und Bestandserhaltungsprüfungen bestanden. Alle 65 Mathematikkarten in neun frischen Browsergruppen erfolgreich geprüft; alle 378 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 65-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-065 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlicht mit Commit 463c84bed3e110d7cfa20b27022f329bb06d56e2 und erfolgreichem [Pages-Lauf 43207401450](https://github.com/geafaellt/LernzielKompass/actions/runs/43207401450). App 1.369 ist live bytegleich zum geprüften Stand (SHA256 42cf9b1eee44efc3a9e691d6e0f9643351de0a2430193102a8055d63fb969ff8). Öffentliche Prüfung von MA-065 in beiden GS-Jahrgängen einschließlich Ziel-/Kriterienübernahme, Quellen, fachlichem Referenz-Geltungsbereich, Entwurfserhalt, Fachwechsel und Neuladen bestanden; zusätzlich direkt bei 320px und 390px an Karte und Zielen ohne horizontalen Überlauf geprüft. Kein vollständiger 65-Karten-Livedurchlauf behauptet.
+
+
+## MA-058 · App 1.370 · 12.11.2026
+
+MA-066 verbindet GS-Schätzen187119 mit ersten Schätzerfahrungen in FSP1/2. Beide Hauptoperatoren bleiben Kennen. Erste Erfahrungen im Schätzen stehen in FSP-Bemerkung37967, Meter im Ziel37974; daraus wird kein zusätzlicher Einblick-Operator. Referenzbezug und Plausibilitätskriterien sind didaktische Konkretisierungen. Der stärkere3/4-Zielbezug Schätzen35514 unter Übertragen35511 bleibt als positiver weiterführender Kandidat erhalten.
+
+Keine Höchstlänge, feste Fehlertoleranz oder Trefferquote belegt. Zahlenbereich, vertraute Darstellungsform und angemessenen Genauigkeitsrahmen vorher festlegen; alle Referenz-/Schätz- und relevanten Zwischen-/Endwerte darin halten. Ungefähre Angabe nicht als exakten Messwert behandeln. Keine zusätzliche Messung, Umrechnung, Rundung oder Längenrechnung. Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Alle65 bisherigen Karten, offenen Fragen und Resttexte unverändert.66 Karten (46 stufenbandpassend,20 stufenübergreifend),183 Quellen,181 Zielanker,117 Inventurzeilen,13 Anschlussfragen und fünf Nichtanschlussentscheidungen. Eine neue Teilprüfung, keine Vollabdeckung von187119. Weitere Einheiten, Strategien und selbstständige Schätzüberprüfung bleiben offen. Fortsetzung187120. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 66 Mathematikkarten in neun frischen Browsergruppen erfolgreich geprüft; alle 379 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 66-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-066 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlichung und öffentliche Prüfung noch ausstehend.

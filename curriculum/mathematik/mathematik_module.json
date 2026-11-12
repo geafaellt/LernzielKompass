@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.6",
+  "version": "MA-2026-11-12.7",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1201,6 +1201,12 @@
       "id": "Q-MA-page912_187118",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187118",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187119",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187119",
       "version": "2026"
     }
   ],
@@ -6515,6 +6521,82 @@
         "gs": "187118 ist Unterziel unter Kennen 1922. Typische Repräsentanten stehen in der GS-Bemerkung; kein fester Normwert ist daraus abzulesen. 1922 dient nur als Hauptzielkontext.",
         "fsp": "37974 nennt die Einheit Meter. Größenvorstellungen und typische Repräsentanten einschließlich Tafellineal stehen in der Bemerkung. 37967 ist der übergeordnete Längen-Unterzielkontext unter Kennen 37961; sein Mess-/Vergleichsanteil wird hier nicht erneut als Kompetenz beansprucht. Der Bezug zur bekannten Meterreferenz ist didaktisch konkretisiert; Quelle und Konkretisierung bleiben getrennt.",
         "fsp_remark_anchors": [
+          "page139_37974"
+        ],
+        "context_only_gs_ids": [
+          "page912_1922"
+        ]
+      }
+    },
+    {
+      "id": "MA-066",
+      "subject": "Mathematik",
+      "theme": "Erste Längenschätzungen in Metern",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · erste Schätzerfahrungen · Meter",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Schätzen von Längen 187119 unter Kennen 1922; Stützpunktvorstellungen in der Bemerkung",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · erste Erfahrungen im Schätzen in Bemerkung 37967, Meter 37974 unter Kennen 37961",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: erste Schätzerfahrungen mit Längen in Metern im Naturkontext. GS 187119 nennt Schätzen im Unterziel, die Bemerkung verweist auf Stützpunktvorstellungen. FSP 37967 nennt erste Erfahrungen im Schätzen in der Bemerkung zum Mess-, Vergleichs- und Ordnungsziel; die Einheit Meter steht in 37974. Beide Hauptoperatoren bleiben Kennen (GS 1922, FSP 37961). Aus der Bemerkung wird kein eigenständiger Operator Einblick gewinnen und keine routinierte Schätzleistung abgeleitet. Der Bezug auf eine bekannte, geklärte Referenzlänge ist didaktisch konkretisiert. Keine feste Trefferquote oder zulässige Abweichung ist amtlich vorgegeben. Zahlenbereich, vertraute Darstellungsform und angemessene Schätzgenauigkeit sind vorher festzulegen. Keine numerische Höchstlänge belegt. Messen, Umrechnen, Runden und Längenrechnen werden nicht mitverlangt. MA-065 bleibt beim Aufbau einer Referenzvorstellung. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_187119"
+      ],
+      "fsp_target_ids": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_187119",
+        "Q-MA-page139_37961",
+        "Q-MA-page139_37967",
+        "Q-MA-page139_37974"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: erste Schätzerfahrungen mit Längen in Metern im Naturkontext. GS 187119 nennt Schätzen im Unterziel, die Bemerkung verweist auf Stützpunktvorstellungen. FSP 37967 nennt erste Erfahrungen im Schätzen in der Bemerkung zum Mess-, Vergleichs- und Ordnungsziel; die Einheit Meter steht in 37974. Beide Hauptoperatoren bleiben Kennen (GS 1922, FSP 37961). Aus der Bemerkung wird kein eigenständiger Operator Einblick gewinnen und keine routinierte Schätzleistung abgeleitet. Der Bezug auf eine bekannte, geklärte Referenzlänge ist didaktisch konkretisiert. Keine feste Trefferquote oder zulässige Abweichung ist amtlich vorgegeben. Zahlenbereich, vertraute Darstellungsform und angemessene Schätzgenauigkeit sind vorher festzulegen. Keine numerische Höchstlänge belegt. Messen, Umrechnen, Runden und Längenrechnen werden nicht mitverlangt. MA-065 bleibt beim Aufbau einer Referenzvorstellung. Keine vollständige GS-Zieldeckung.",
+      "shared_object_suggestion": "Die ungefähre Länge in Metern und ihr Bezug zu einer vertrauten Länge.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind schätzt eine Länge in Metern unter Bezug auf eine bekannte, fachlich geklärte Referenzlänge im vorab festgelegten Zahlenraum und in einer vertrauten Darstellungsform.",
+          "criterion": "Die Meterangabe ist als ungefähr erkennbar und mit der gesuchten Länge sowie dem Referenzbezug im vorher festgelegten Genauigkeitsrahmen vereinbar. Schätzwert und Einheit passen zusammen; die Schätzung wird nicht als exakter Messwert ausgegeben. Alle nichtnegativen Referenz-, Schätz- und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Zusätzliche Messung, Umrechnung, Rundung oder Längenrechnung wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung von Schätzen 187119 unter Kennen 1922. Zahlenbereich und Genauigkeitsrahmen sind Lehrkraftfestlegungen, keine amtlichen Grenzen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind äußert eine erste ungefähre Längenangabe in Metern in einem vertrauten Naturzusammenhang, mit Bezug auf eine bekannte Referenzlänge und im vorab festgelegten Zahlenraum.",
+          "criterion": "Die ungefähre Meterangabe bezieht sich auf die gesuchte Länge und ist mit der bekannten Referenz im vorher festgelegten Genauigkeitsrahmen vereinbar. Ihr Schätzcharakter bleibt erkennbar; ein exakter Messwert oder eine ausführliche Begründung wird nicht verlangt. Sämtliche nichtnegativen Referenz-, Schätz- und relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum und in der vereinbarten vertrauten Darstellungsform. Zusätzliche Mess-, Umrechnungs-, Rundungs- oder Rechenleistungen werden nicht vorausgesetzt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung der ersten Schätzerfahrungen aus Bemerkung 37967 unter Kennen 37961; keine routinierte Schätzleistung oder amtliche Fehlertoleranz behauptet."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Erste Schätzerfahrungen in Metern · Zahlenbereich und Genauigkeit vorab festlegen",
+        "detail": "Die Bemerkung 37967 nennt erste Erfahrungen im Schätzen und Meterangaben; 37974 nennt die Einheit Meter. Es gibt weder eine numerische Höchstlänge noch eine feste Genauigkeit oder Trefferquote. Auch GS 1922/187119 nennen keine eigene Obergrenze. Eine bekannte Referenzlänge ist keine Höchstlänge; der allgemeine Zahlaufbau bis 20 begründet keine Mess- oder Schätzgrenze von 20 m.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37967",
+          "Q-MA-page139_37974"
+        ],
+        "planning_rule": "Vor Verwendung Zahlenbereich, vertraute Darstellungsform und einen zu den Lernvoraussetzungen passenden Genauigkeitsrahmen festlegen. Alle nichtnegativen Referenz- und Schätzwerte sowie relevante Zwischen- und Endwerte müssen darin bleiben. Nur erste ungefähre Meterangaben im Naturkontext mit bekanntem, fachlich geklärtem Referenzbezug auswählen; die Schätzung als ungefähr kennzeichnen und nicht als exakten Messwert behandeln. Keine universellen Normwerte für Körper- oder Gegenstandsmaße und keine feste amtliche Abweichung oder Trefferquote erfinden. Weder 1 m noch 20 m ist eine belegte Höchstlänge. Keine automatische Freigabe beliebiger Bruch-/Kommawerte, keine zusätzliche Messung, Umrechnung, Rundung oder Längenrechnung. Konkrete Aufgaben, Lernhandlungen, Gegenstände und Hilfsmittel entscheidet die Lehrkraft; eigene Entwürfe gesondert fachlich prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187119 ist Schätz-Unterziel unter Kennen 1922. Stützpunktvorstellungen nutzen steht in der Bemerkung. 1922 ist Hauptzielkontext;187118 wird durch diese Karte nicht nochmals als abgedeckt gezählt.",
+        "fsp": "Erste Erfahrungen im Schätzen stehen in Bemerkung 37967, nicht als eigenes Unterziel oder neuer Hauptoperator.37967 ist ein Längen-Unterziel unter Kennen37961;37974 legt Meter als Einheit fest und nennt Größenvorstellungen in der Bemerkung. Referenzbezug und Plausibilitätskriterien sind didaktische Konkretisierungen. Mess-/Vergleichskompetenz wird nicht erneut mitbehauptet.",
+        "fsp_remark_anchors": [
+          "page139_37967",
           "page139_37974"
         ],
         "context_only_gs_ids": [
