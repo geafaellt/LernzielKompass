@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.5",
+  "version": "MA-2026-11-12.6",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1196,6 +1196,12 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187118",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187118",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -6436,6 +6442,80 @@
         "fsp_remark_anchors": [
           "page139_35515",
           "page139_35516"
+        ],
+        "context_only_gs_ids": [
+          "page912_1922"
+        ]
+      }
+    },
+    {
+      "id": "MA-065",
+      "subject": "Mathematik",
+      "theme": "Eine Vorstellung von einem Meter entwickeln",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Meter als Referenzlänge",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Stützpunktvorstellungen und Stützpunktwissen 187118 unter Kennen 1922; ausgewählt wird eine Meterreferenz",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Einheit Meter 37974 unter Kennen 37961; Größenvorstellungen und typische Repräsentanten in der Bemerkung 37974",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: eine bekannte, fachlich geklärte Referenzlänge mit der Größenvorstellung eines Meters verbinden. Beide Hauptoperatoren lauten Kennen (GS 1922, FSP 37961). GS 187118 nennt Stützpunktvorstellungen als Unterziel. Im FSP steht Meter im Unterziel 37974; Größenvorstellungen und typische Repräsentanten stehen in dessen Bemerkung. Der konkrete Referenzbezug ist eine didaktische Konkretisierung dieser Kombination, kein zusätzlich wörtlich formuliertes FSP-Ziel. Die Quellenbeispiele werden nicht als vorgeschriebene Gegenstände oder Hilfsmittel übernommen. Ein Meter ist hier die Bezugsgröße, keine allgemeine Höchstlänge. Körpermaße und Gegenstandsbeispiele haben keinen automatisch festen Normwert. Selbstständiges Messen, allgemeines Schätzen, Umrechnen und Rechnen sind nicht mitabgedeckt. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_187118"
+      ],
+      "fsp_target_ids": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_187118",
+        "Q-MA-page139_37961",
+        "Q-MA-page139_37967",
+        "Q-MA-page139_37974"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: eine bekannte, fachlich geklärte Referenzlänge mit der Größenvorstellung eines Meters verbinden. Beide Hauptoperatoren lauten Kennen (GS 1922, FSP 37961). GS 187118 nennt Stützpunktvorstellungen als Unterziel. Im FSP steht Meter im Unterziel 37974; Größenvorstellungen und typische Repräsentanten stehen in dessen Bemerkung. Der konkrete Referenzbezug ist eine didaktische Konkretisierung dieser Kombination, kein zusätzlich wörtlich formuliertes FSP-Ziel. Die Quellenbeispiele werden nicht als vorgeschriebene Gegenstände oder Hilfsmittel übernommen. Ein Meter ist hier die Bezugsgröße, keine allgemeine Höchstlänge. Körpermaße und Gegenstandsbeispiele haben keinen automatisch festen Normwert. Selbstständiges Messen, allgemeines Schätzen, Umrechnen und Rechnen sind nicht mitabgedeckt. Keine vollständige GS-Zieldeckung.",
+      "shared_object_suggestion": "Wie lang ein Meter ist: eine bekannte Länge als Orientierung.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verbindet die Größenvorstellung eines Meters mit einer bekannten, fachlich geklärten Referenzlänge.",
+          "criterion": "Der bekannten Referenzlänge wird zutreffend die Größenangabe ein Meter zugeordnet. Ist die Referenz nur annähernd einen Meter lang, wird die Zuordnung ausdrücklich als ungefähr gekennzeichnet. Die Aussage bezieht sich auf die Länge; aus der Benennung eines Gegenstands oder Körpermaßes wird kein allgemeingültiger exakter Wert abgeleitet. Zusätzliche Mess-, Schätz- oder Rechenleistungen werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung von Stützpunktwissen 187118 unter Kennen 1922; nur Meterreferenz, keine vollständige Abdeckung der GS-Beispiele oder aller Längeneinheiten."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verbindet im Naturkontext die Größenvorstellung eines Meters mit einer bekannten, fachlich geklärten Referenzlänge.",
+          "criterion": "Die bekannte Referenzlänge wird zutreffend mit ein Meter verbunden; eine lediglich annähernde Übereinstimmung wird ausdrücklich als ungefähr gekennzeichnet. Die Größenangabe beschreibt eine Länge. Es wird keinem beliebigen Körpermaß oder Gegenstand allein aufgrund seines Namens ein fester Normwert zugeschrieben. Weitere Zahlenwerte, Mess-, Schätz- oder Rechenergebnisse sind nicht Teil dieses Feinziels.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung aus Einheit Meter im Ziel 37974 und Größenvorstellungen/Repräsentanten in dessen Bemerkung unter Kennen 37961. Keine eigenständige zusätzliche amtliche Zielzeile."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Meter als Referenzlänge · fachlich geklärter Bezug · keine Zahlenraumobergrenze",
+        "detail": "Die Einheit Meter ist in 37974 ausdrücklich genannt; Größenvorstellungen und typische Repräsentanten stehen in der Bemerkung. Die Auswahl einer bekannten Meterreferenz ist didaktisch konkretisiert. Ein Meter beschreibt die Bezugsgröße, keine Höchstlänge und keinen Rechenraum bis 1. Weder GS 187118 noch die FSP-Zeilen legen eine numerische Obergrenze für allgemeine Längen fest. Die Beispiele belegen keine universellen exakten Körper- oder Gegenstandsmaße.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37974"
+        ],
+        "planning_rule": "Nur die Zuordnung einer vorab fachlich geklärten bekannten Referenzlänge zur Größenvorstellung eines Meters verwenden. Exakte und ungefähre Referenzen unterscheiden; ungefähre Bezüge ausdrücklich so kennzeichnen. Keine beliebige Daumen-, Schritt-, Tür- oder andere Gegenstandslänge ungeprüft mit einem festen Normwert gleichsetzen. Ein Meter ist die Bezugsgröße und keine Obergrenze. In diesem qualitativen Ausschnitt werden keine weiteren Zahlenwerte, Zwischen- oder Endergebnisse aus Messung, Schätzung oder Rechnung verlangt. Zusätzliche Zahlen- und Längenbereiche müssen gesondert fachlich festgelegt werden. Den Naturkontext erhalten. Konkrete Referenz, Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft; eigene Entwürfe sind nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187118 ist Unterziel unter Kennen 1922. Typische Repräsentanten stehen in der GS-Bemerkung; kein fester Normwert ist daraus abzulesen. 1922 dient nur als Hauptzielkontext.",
+        "fsp": "37974 nennt die Einheit Meter. Größenvorstellungen und typische Repräsentanten einschließlich Tafellineal stehen in der Bemerkung. 37967 ist der übergeordnete Längen-Unterzielkontext unter Kennen 37961; sein Mess-/Vergleichsanteil wird hier nicht erneut als Kompetenz beansprucht. Der Bezug zur bekannten Meterreferenz ist didaktisch konkretisiert; Quelle und Konkretisierung bleiben getrennt.",
+        "fsp_remark_anchors": [
+          "page139_37974"
         ],
         "context_only_gs_ids": [
           "page912_1922"

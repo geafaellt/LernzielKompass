@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-056",
+  "last_batch": "MA-057",
   "complete": false,
   "counts": {
-    "cards": 64,
+    "cards": 65,
     "cross_band": 20
   },
   "source_plans": {
@@ -2286,10 +2286,23 @@
       "area": "Lernbereich 3: Natur entdecken und erleben",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187118": {
+      "id": "page912_187118",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Längen",
+      "remarks": "typische Repräsentanten: Daumenbreite, Schrittlänge, Türbreite",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187118",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187118",
-  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Längen187118 gegen beide FSP-Bänder prüfen, danach Schätzen187119. Bestehende MA-004, MA-062 und neue MA-063/064 trennen Vergleich, Kommanotation und Messausschnitte; nicht doppelt zählen. Gemischte Längenangaben187116 bleiben Anschlussfrage.64 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden. App 1.368 veröffentlicht und live geprüft; Nachweise in MA-056.",
+  "next_id": "page912_187119",
+  "next_step": "GS1/2 Schätzen von Längen187119 gegen beide FSP-Bänder prüfen, danach passende Einheiten und Umrechnen187120. MA-065 erfasst nur eine bekannte Meterreferenz; daraus keine allgemeine Schätzkompetenz ableiten. Bestehende MA-004/062/063/064 trennen Vergleich, Notation und Messen.65 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten. Gemischte Angaben187116 bleiben offen; keine Normwerte für Körpermaße und keine Längenobergrenzen erfinden.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2522,7 +2535,7 @@
       "decision": "FSP1/2-Messen in Metern ist belegt und als MA-063 bevorzugt. Für den eigenständigen Ausschnitt punktbegrenzte Strecken in ganzen Zentimetern ist35516 unter Übertragen35511 der ausdrückliche3/4-Beleg. Kein Ausschluss allein wegen kleinerem Zahlenraum. Nicht das gesamte GS-Messziel wird stufenübergreifend zugeordnet."
     }
   },
-  "last_review_file": "review_batch_056.json",
+  "last_review_file": "review_batch_057.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3087,6 +3100,12 @@
       "scope": "Sachadäquate Auswahl und flexibler Gebrauch beider GS-Messinstrumente über die ausgewählten Ausschnitte hinaus; Messen mit Millimeter-/Dezimeterangaben und anderen Messwertdarstellungen, nichtganzzahlige Zentimeterlängen sowie höhere oder noch nicht vertraute Messgenauigkeit. MA-063 belegt Messen in Metern im Naturkontext, MA-064 Messen punktbegrenzter Strecken in ganzen cm im Umweltbezug. Zeichnen, Schätzen, Stützpunktwissen, allgemeines Umrechnen und Längenrechnen sind keine automatische Folge der Messanschlüsse. Keine vollständige GS-Zieldeckung.",
       "status": "offen",
       "review": "MA-056"
+    },
+    {
+      "gs_id": "page912_187118",
+      "scope": "Weitere Stützpunktvorstellungen und gesichertes Wissen zu Zentimeter, Dezimeter und Millimeter, mehrere Referenzlängen sowie flexible Verwendung von Referenzen beim Schätzen. Individuelle Körpermaße und andere Repräsentanten mit ihren tatsächlich geklärten Werten bleiben gesondert zu prüfen; die Quellenbeispiele sind keine universellen Normmaße. MA-065 erfasst nur die bekannte Meterreferenz. FSP1/2-Körpermaße37777 und FSP3/4-Größenvorstellungen35514/Repräsentanten35515 sind positive weiterführende Kandidaten, keine begründeten Nichtanschlüsse. Messen und Schätzen bleiben getrennte Zielausschnitte.",
+      "status": "offen",
+      "review": "MA-057"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3110,7 +3129,7 @@
       "page912_1922"
     ],
     "rows": 117,
-    "note": "117 inventarisierte Zeilen,64 Karten (20 stufenübergreifend). MA-056 prüft1924 teilweise durch MA-063/064: eine GS-Zeile, zwei getrennte fachliche Ausschnitte.1922 nur Kontext. Keine neue Inventurzeile;13 Anschlussfragen und fünf Nichtanschlussentscheidungen bleiben erhalten. Fortsetzung187118.",
+    "note": "117 inventarisierte Zeilen,65 Karten (20 stufenübergreifend). MA-057 prüft187118 teilweise durch MA-065: Meterreferenz aus Ziel und Bemerkung fachlich begrenzt.1922 nur Kontext. Keine neue Inventurzeile;13 Anschlussfragen und fünf Nichtanschlussentscheidungen unverändert. Fortsetzung187119.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3209,6 +3228,12 @@
         "MA-064"
       ],
       "note": "Keine numerische Höchstlänge belegt. MA-063: Meter mit vorab geklärter Darstellungsform/Genauigkeit. MA-064: ganze cm und Punktbegrenzung ausdrücklich belegt. Alle relevanten Werte müssen im festgelegten Zahlenbereich liegen; historische Scope-Prüfungen bewahrt."
+    },
+    "follow_up_reference_length": {
+      "batch": "MA-057",
+      "card": "MA-065",
+      "status": "domain_specific",
+      "note": "Qualitativer Referenzbezug auf einen Meter, didaktisch konkretisiert. Ein Meter ist keine Obergrenze. Keine weiteren numerischen Zwischen-/Endergebnisse im gespeicherten Feinziel. Exakte/ungefähre Referenzen unterscheiden; Körper-/Gegenstandsbeispiele nicht als Normwerte ausgeben. Frühere unbestimmte Längengrenzen unverändert."
     }
   },
   "publication_recheck": {
@@ -3229,12 +3254,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-056",
-    "status": "verified",
-    "app_version": "1.368",
-    "app_commit": "1d267ec3fd4b7596d628189fc2a800c35a39a210",
-    "pages_run": 43198399995,
-    "live_sha256": "ea879a52188f00abddd755264c21b1e5792590e0910b92ca074ff9670c6f96ea",
-    "browser": "targeted MA-063/064 live in both GS grades and mobile320/390 passed;all64 local in8 subsets"
+    "batch": "MA-057",
+    "status": "pending",
+    "app_version": "1.369",
+    "previous_verified_version": "1.368"
   }
 }
