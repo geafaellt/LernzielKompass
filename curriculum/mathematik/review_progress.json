@@ -2173,7 +2173,7 @@
     }
   },
   "next_id": "page912_1923",
-  "next_step": "GS1/2 Längenblock1922: bestehende MA-004 und Zeilen1923/187114 gegen beide FSP-Bänder erneut prüfen, anschließend187115. Hauptoperator Kennen und Naturkontext des FSP1/2 erhalten. Keine unbelegte Obergrenze von20m oder Beschränkung auf ganze Meter; Planungsbereich und relevante Zwischen-/Endwerte gesondert klären. Die zwölf Längenblockzeilen wurden in MA-053 nur inventarisiert, nicht neu fachlich freigegeben.61 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten;187113 bleibt nur teilweise gedeckt.",
+  "next_step": "GS1/2 Längenblock1922: bestehende MA-004 und Zeilen1923/187114 gegen beide FSP-Bänder erneut prüfen, anschließend187115. Hauptoperator Kennen und Naturkontext des FSP1/2 erhalten. Keine unbelegte Obergrenze von20m oder Beschränkung auf ganze Meter; Planungsbereich und relevante Zwischen-/Endwerte gesondert klären. Die zwölf Längenblockzeilen wurden in MA-053 nur inventarisiert, nicht neu fachlich freigegeben.61 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten;187113 bleibt nur teilweise gedeckt. App1.365 veröffentlicht und live geprüft; Nachweise in MA-053.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2999,8 +2999,11 @@
   },
   "latest_publication": {
     "batch": "MA-053",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.365",
-    "previous_verified_version": "1.364"
+    "app_commit": "90a6c1bb252fbaba784cc29a202236629d072b3e",
+    "pages_run": 43171983308,
+    "live_sha256": "96fb92ad8da65371d747fcaefc90ef968a2b55ce70df8d968511b0eb2c2886c4",
+    "browser": "targeted MA-003/MA-061 live in both GS grades and mobile320/390 passed;all61 local in8 subsets"
   }
 }
