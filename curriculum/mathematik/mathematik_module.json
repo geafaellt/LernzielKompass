@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-11.8",
-  "checked_on": "2026-11-11",
+  "version": "MA-2026-11-12.1",
+  "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1135,6 +1135,12 @@
       "id": "Q-MA-page912_187111",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187111",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187112",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187112",
       "version": "2026"
     }
   ],
@@ -5954,6 +5960,87 @@
         "fsp": "35493 ist ein ausdrücklicher Zielunterpunkt des Geldbetragsziels35492 unter Übertragen35491. Die konkrete Einheitenbeziehung ist kein Bemerkungsbeispiel und keine Zahlenraumgrenze. Die beidseitige Zuordnung ist didaktische Konkretisierung ihrer Wertgleichheit; keine zusätzliche Zielzeile mit eigenem Operator.",
         "fsp_remark_anchors": [
           "page139_35492"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
+        ]
+      }
+    },
+    {
+      "id": "MA-060",
+      "subject": "Mathematik",
+      "theme": "Gesamtbetrag in einer einfachen Geldsachsituation",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · additive Geldsachsituation · gleiche Einheit",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Sachaufgaben mit einfacher Struktur und Rechnen mit Geldwerten187112 unter Kennen1912; Ausschnitt Gesamtbetrag aus zwei Beträgen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Rechnen mit Geldbeträgen in Sachsituationen37927 und Einheiten37921 unter Einblick gewinnen37913",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: den Gesamtbetrag zweier Geldbeträge derselben Einheit in einer einfachen Sachsituation ermitteln. GS-Kennen stammt aus1912, FSP-Einblick gewinnen aus37913. Rechnen mit Geldbeträgen ist in37927 Zieltext; nur das Fachwort Summe ist dort ein Differenzierungshinweis. Die Karte verlangt diesen zusätzlichen Fachwortnachweis nicht. Der additive Ausschnitt mit zwei Beträgen ist didaktisch gewählt. Beide Geldzielzeilen nennen keine eigene Obergrenze. Für FSP werden ganze Beträge bis20 Euro oder bis20 Cent einschließlich aller Zwischen- und Endergebnisse aus dem übergreifenden Operationsziel37739 abgeleitet. Das GS-Feinziel verwendet ebenfalls den gewählten Rahmen bis20; dies ist keine amtliche GS-Höchstgrenze. Keine vollständige GS-Zieldeckung. Andere Rechenarten, Menge-Preis-Beziehungen, gemischte Einheiten, Kommaschreibweise und Umrechnungen bleiben offen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_187112"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37927"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_187112",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37927",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: den Gesamtbetrag zweier Geldbeträge derselben Einheit in einer einfachen Sachsituation ermitteln. GS-Kennen stammt aus1912, FSP-Einblick gewinnen aus37913. Rechnen mit Geldbeträgen ist in37927 Zieltext; nur das Fachwort Summe ist dort ein Differenzierungshinweis. Die Karte verlangt diesen zusätzlichen Fachwortnachweis nicht. Der additive Ausschnitt mit zwei Beträgen ist didaktisch gewählt. Beide Geldzielzeilen nennen keine eigene Obergrenze. Für FSP werden ganze Beträge bis20 Euro oder bis20 Cent einschließlich aller Zwischen- und Endergebnisse aus dem übergreifenden Operationsziel37739 abgeleitet. Das GS-Feinziel verwendet ebenfalls den gewählten Rahmen bis20; dies ist keine amtliche GS-Höchstgrenze. Keine vollständige GS-Zieldeckung. Andere Rechenarten, Menge-Preis-Beziehungen, gemischte Einheiten, Kommaschreibweise und Umrechnungen bleiben offen.",
+      "shared_object_suggestion": "Zwei Geldbeträge gehören zusammen: Ihr Gesamtwert beantwortet die Frage nach dem Betrag insgesamt.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt in einer einfachen Geldsachsituation den Zusammenhang zweier Teilbeträge mit dem gesuchten Gesamtbetrag und ermittelt diesen durch Addition; beide Angaben sind ganze Beträge derselben Einheit Euro oder Cent im didaktisch gewählten Rahmen bis 20.",
+          "criterion": "Beide relevanten Beträge und ihre additive Beziehung sind zutreffend erkannt. Der errechnete Gesamtbetrag beantwortet die Frage mit passender Einheit. Einzelbeträge, Gesamtbetrag sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben nichtnegativ, ganzzahlig und bis 20 in derselben Einheit. Es gibt keine gemischten Einheiten, Umrechnung oder Kommaschreibweise.",
+          "status": "Didaktische Konkretisierung unter Kennen1912; eine additive Sachstruktur. Bis20 ist eine Auswahl für dieses Feinziel, keine eigene Obergrenze der GS-Geldzielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind ermittelt mit bedarfsgerechter Unterstützung den Gesamtbetrag aus zwei ganzen Geldbeträgen derselben Einheit in einer einfachen, in ihrem additiven Zusammenhang bereits geklärten Sachsituation bis 20 Euro oder bis 20 Cent.",
+          "criterion": "Die beiden Teilbeträge werden passend zusammengefasst; Gesamtbetrag und Einheit stimmen mit der geklärten Sachsituation überein. Beide Ausgangsbeträge, der Gesamtbetrag sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben nichtnegativ, ganzzahlig und bis 20 in derselben Einheit. Keine gemischten Einheiten, Umrechnung oder Kommaschreibweise. Eigenständige Auswahl zwischen mehreren Rechenoperationen und das Fachwort Summe werden nicht zusätzlich vorausgesetzt.",
+          "status": "Didaktische Konkretisierung des Zieltexts37927 unter Einblick gewinnen37913. Additiver Ausschnitt und unterstützter Zugang; Zahlenrahmen aus übergreifendem Operationsziel37739 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 Euro oder bis 20 Cent · ganze Beträge derselben Einheit · didaktisch abgeleitet",
+        "detail": "37927 nennt Rechnen mit Geldbeträgen in Sachsituationen ohne eigene Obergrenze.37739 belegt Addition und Subtraktion bis20 im übergreifenden Stufenbandziel. Daraus wird für diesen additiven Ausschnitt der Rahmen bis20 in jeweils einer Einheit didaktisch abgeleitet; Euro/Cent sind durch37921 belegt. Weder20 Euro noch20 Cent sind wörtliche Grenzen der Geldzielzeile. GS1912/187112 ebenfalls ohne eigene Obergrenze; das GS-Feinziel wählt denselben Rahmen, ohne den Lehrplan darauf zu begrenzen.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739",
+          "Q-MA-page139_37921",
+          "Q-MA-page139_37927"
+        ],
+        "planning_rule": "Nur zwei nichtnegative ganze Geldbeträge in derselben Einheit Euro oder Cent und ihr Gesamtbetrag bis 20. Beide Einzelbeträge, die Summe sowie alle relevanten Zwischen- und Endergebnisse müssen bis 20 bleiben; zwei zulässige Einzelbeträge allein genügen nicht. Die Einheit bleibt erhalten. Eurobeträge werden nicht zusätzlich in Cent umgerechnet. Keine gemischten Angaben, Kommaschreibweisen, Wechselgeldberechnung, Multiplikation oder mehrschrittige Rechnung. Der additive Sachzusammenhang ist für das FSP-Feinziel bereits geklärt; Art und Umfang der Unterstützung bestimmt die Lehrkraft. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel werden nicht vorgegeben. Eigene Entwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187112 ist Unterziel unter Kennen1912. Menge-Preis-Beziehung steht in der Bemerkung und ist durch den gewählten additiven Ausschnitt nicht automatisch abgedeckt.1912 bleibt Hauptzielkontext.",
+        "fsp": "Rechnen mit Geldbeträgen in Sachsituationen steht im verbindlichen Unterziel37927 unter Einblick gewinnen37913. Differenzierung: Begriff Summe steht nur in der Bemerkung37927 und ist Gegenstand der bestehenden MA-041. Die Eingrenzung auf zwei Teilbeträge und eine bereits geklärte additive Beziehung ist didaktische Konkretisierung, keine eigene Zielzeile oder eigener Operator.",
+        "fsp_remark_anchors": [
+          "page139_37927"
         ],
         "context_only_gs_ids": [
           "page912_1912"
