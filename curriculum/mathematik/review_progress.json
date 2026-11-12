@@ -2354,7 +2354,7 @@
     }
   },
   "next_id": "page912_187124",
-  "next_step": "GS1/2 Zeitblock187123 beginnen: zunächst Uhren und Kalender als Zeitmesser187124 gegen beide FSP-Bänder prüfen.16 Zeilen des Zeitblocks sind nur inventarisiert und noch nicht fachlich geprüft;keine neue Zieldeckung. Bestehende Zeitkarten einschließlich MA-006 (GS3,minutengenau) hinsichtlich ihres tatsächlichen Stufen-/Inhaltsbezugs berücksichtigen.67 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Längen-Restumfänge einschließlich gemischter Angaben187116,Einheitenwahl/Umrechnen187120 und vollständiger Begriffsliste187122 bleiben offen.",
+  "next_step": "GS1/2 Zeitblock187123 beginnen: zunächst Uhren und Kalender als Zeitmesser187124 gegen beide FSP-Bänder prüfen.16 Zeilen des Zeitblocks sind nur inventarisiert und noch nicht fachlich geprüft;keine neue Zieldeckung. Bestehende Zeitkarten einschließlich MA-006 (GS3,minutengenau) hinsichtlich ihres tatsächlichen Stufen-/Inhaltsbezugs berücksichtigen.67 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Längen-Restumfänge einschließlich gemischter Angaben187116,Einheitenwahl/Umrechnen187120 und vollständiger Begriffsliste187122 bleiben offen. App 1.372 veröffentlicht und live geprüft; Nachweise in MA-061.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3375,9 +3375,12 @@
   },
   "latest_publication": {
     "batch": "MA-061",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.372",
-    "previous_verified_version": "1.371"
+    "app_commit": "817d334d836e8e54959ddf72203084b78a0f9602",
+    "pages_run": 43269918448,
+    "live_sha256": "acdd31b44383335c5e5924ad31882f7cb3ff2807e1b301c172584e876898b98a",
+    "browser": "targeted MA-004 live in both GS grades and mobile320/390 passed;all67 local in9 subsets"
   },
   "latest_audit_publication": {
     "batch": "MA-059",
