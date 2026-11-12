@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.4",
+  "version": "MA-2026-11-12.5",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1177,6 +1177,24 @@
       "id": "Q-MA-page139_35518",
       "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35518",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_1924",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1924",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35515",
+      "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35516",
+      "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516",
       "version": "2019"
     }
   ],
@@ -6267,6 +6285,160 @@
         "context_only_gs_ids": [
           "page912_1922",
           "page912_1923"
+        ]
+      }
+    },
+    {
+      "id": "MA-063",
+      "subject": "Mathematik",
+      "theme": "Längen in Metern messen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Meter · Zahlenbereich vorab festlegen",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · sachadäquates Messen 1924 unter Kennen 1922; ausgewählter Meter-Ausschnitt",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Messen 37967 und Meter 37974 unter Kennen 37961; Maßband in Bemerkung 37974",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen im Naturkontext in Metern messen. GS-Kennen stammt aus 1922, FSP-Kennen aus 37961; Messen steht im Unterziel 37967 und Meter im Unterziel 37974. GS 1924 nennt Lineal und Maßband im Zieltext. Die Handhabung eines Maßbandes steht im FSP in der Bemerkung 37974; das Tafellineal ist dort ein Repräsentantenbeispiel. Daraus wird keine vollständige FSP-Zielforderung für beide GS-Messinstrumente abgeleitet. Die Quellen nennen keine numerische Höchstlänge und keine Beschränkung auf ganze Meter. Zahlenbereich, vertraute Darstellungsform und erreichbare Messgenauigkeit sind vorab zu klären. Kein automatischer Anschluss für beliebige Bruch-/Kommawerte, zusätzliche Einheiten, Umrechnen oder Längenrechnen. MA-004 bleibt beim Vergleich, MA-062 bei der Kommanotation. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_1924"
+      ],
+      "fsp_target_ids": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_1924",
+        "Q-MA-page139_37961",
+        "Q-MA-page139_37967",
+        "Q-MA-page139_37974"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen im Naturkontext in Metern messen. GS-Kennen stammt aus 1922, FSP-Kennen aus 37961; Messen steht im Unterziel 37967 und Meter im Unterziel 37974. GS 1924 nennt Lineal und Maßband im Zieltext. Die Handhabung eines Maßbandes steht im FSP in der Bemerkung 37974; das Tafellineal ist dort ein Repräsentantenbeispiel. Daraus wird keine vollständige FSP-Zielforderung für beide GS-Messinstrumente abgeleitet. Die Quellen nennen keine numerische Höchstlänge und keine Beschränkung auf ganze Meter. Zahlenbereich, vertraute Darstellungsform und erreichbare Messgenauigkeit sind vorab zu klären. Kein automatischer Anschluss für beliebige Bruch-/Kommawerte, zusätzliche Einheiten, Umrechnen oder Längenrechnen. MA-004 bleibt beim Vergleich, MA-062 bei der Kommanotation. Keine vollständige GS-Zieldeckung.",
+      "shared_object_suggestion": "Eine Länge in der Natur und ihr Maß in Metern.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt eine Länge durch Messen und gibt das Ergebnis in Metern im vorab festgelegten Zahlenraum und in einer vertrauten Darstellungsform an.",
+          "criterion": "Messbeginn und Messende beziehen sich auf dieselbe gesuchte Länge. Der Messwert entspricht innerhalb der vorher geklärten Messgenauigkeit der Länge; Zahl und Einheit Meter sind richtig zugeordnet. Alle nichtnegativen Messwerte und relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum und in der vereinbarten Darstellungsform. Umrechnungen, Runden und Längenrechnungen werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Messen 1924 unter Kennen 1922; ausgewählter Meter-Ausschnitt. Keine vollständige Instrumenten- oder Einheitenabdeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bestimmt eine Länge im Naturkontext durch Messen und gibt das Ergebnis in Metern im vorab festgelegten Zahlenraum und in einer vertrauten Darstellungsform an.",
+          "criterion": "Messbeginn und Messende passen zur gesuchten Länge. Messwert und Einheit Meter beschreiben diese Länge innerhalb der zuvor geklärten Messgenauigkeit. Sämtliche nichtnegativen Messwerte und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum; die vertraute Darstellungsform bleibt erhalten. Es werden keine zusätzlichen Einheiten, Umrechnungen, Rundungen oder Längenrechnungen verlangt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung des Messanteils 37967 mit Meter 37974 unter Kennen 37961; keine amtlich festgelegte Messgenauigkeit oder Höchstlänge behauptet."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Messen in Metern · Zahlenbereich und Darstellungsform vorab festlegen",
+        "detail": "37967 nennt Messen, 37974 die Einheit Meter. Maßband und Repräsentant stehen in der Bemerkung 37974. Weder eine numerische Höchstlänge noch eine Beschränkung auf ganze Meter ist belegt. Auch GS 1922/1924 nennen keine eigene Obergrenze. Der übergreifende Zahlaufbau bis 20 ist keine verbindliche Höchstlänge von 20 m. Messgenauigkeit und vertraute Darstellungsform sind didaktisch festzulegen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37967",
+          "Q-MA-page139_37974"
+        ],
+        "planning_rule": "Vor Verwendung Zahlenbereich, vertraute Darstellungsform und erreichbare Messgenauigkeit festlegen. Alle nichtnegativen Längen- und Messwerte einschließlich relevanter Zwischen- und Endwerte müssen innerhalb dieses Bereichs liegen. Nur Meter als Ergebniseinheit und den belegten Naturkontext verwenden. Keine automatische Freigabe beliebiger Bruch- oder Kommawerte; die Bedeutung der Einteilung und Messwertdarstellung muss geklärt sein. Keine zusätzlichen Einheiten, Umrechnungen, Rundungen oder Längenrechnungen ergänzen. 1 m und 20 m sind keine belegten Obergrenzen; ganze Meter sind keine ausdrückliche Zielbeschränkung. Konkrete Messgegenstände, Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft. Eigene Entwürfe gesondert prüfen."
+      },
+      "evidence_classification": {
+        "gs": "1924 ist Mess-Unterziel unter Kennen 1922. Lineal und Maßband stehen im Zieltext; ausgewählt wird der Meter-Messausschnitt. 1922 dient nur als Hauptzielkontext.",
+        "fsp": "Messen steht im Unterziel 37967, Meter im Unterziel 37974 unter Kennen 37961. Maßband-Handhabung und Tafellineal-Repräsentant stehen in der Bemerkung 37974. Die Karte erfasst den Messanteil; Vergleichen/Ordnen bleibt MA-004. Messbeginn/-ende, Darstellungsform und Genauigkeit sind didaktische Konkretisierungen.",
+        "fsp_remark_anchors": [
+          "page139_37967",
+          "page139_37974"
+        ],
+        "context_only_gs_ids": [
+          "page912_1922"
+        ]
+      }
+    },
+    {
+      "id": "MA-064",
+      "subject": "Mathematik",
+      "theme": "Strecken in ganzen Zentimetern messen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · stufenübergreifend · ganze Zentimeter",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · sachadäquates Messen 1924 unter Kennen 1922; ausgewählter Zentimeter-Ausschnitt",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 3: Natur entdecken und erleben · Messen von Strecken in ganzen cm, Punktbegrenzung 35516 unter Übertragen 35511; Längenkontext 35514 und Zentimeter 35515",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Kennen · FSP: Übertragen. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: durch Punkte begrenzte Strecken in ganzen Zentimetern messen. GS-Kennen stammt aus 1922, FSP-Übertragen aus 35511. Ganze Zentimeter und Punktbegrenzung stehen ausdrücklich im FSP-Unterziel 35516; ausgewählt wird dessen Messanteil, nicht das Zeichnen. Lineal steht in der Bemerkung 35516, sachgerechte Handhabung von Messgeräten in der Bemerkung 35515; diese Hinweise werden nicht zu eigenen Hauptoperatoren. FSP 1/2 belegt Messen in Metern und bleibt der bevorzugte Anschluss dafür; ein ausdrücklicher Zentimeterbeleg fehlt in den geprüften 1/2-Zeilen. Der konkrete Einheiten-/Streckenbeleg entscheidet, nicht der kleinere Zahlenraum. Keine numerische Höchstlänge belegt: Zahlenbereich vorab festlegen. 1 m = 100 cm ist eine Einheitenbeziehung, keine Obergrenze. Keine Dezimalzentimeter, Rundung, Umrechnung oder Längenrechnung in diesem Ausschnitt. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_1924"
+      ],
+      "fsp_target_ids": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35516"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_1924",
+        "Q-MA-page139_35511",
+        "Q-MA-page139_35514",
+        "Q-MA-page139_35515",
+        "Q-MA-page139_35516"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: durch Punkte begrenzte Strecken in ganzen Zentimetern messen. GS-Kennen stammt aus 1922, FSP-Übertragen aus 35511. Ganze Zentimeter und Punktbegrenzung stehen ausdrücklich im FSP-Unterziel 35516; ausgewählt wird dessen Messanteil, nicht das Zeichnen. Lineal steht in der Bemerkung 35516, sachgerechte Handhabung von Messgeräten in der Bemerkung 35515; diese Hinweise werden nicht zu eigenen Hauptoperatoren. FSP 1/2 belegt Messen in Metern und bleibt der bevorzugte Anschluss dafür; ein ausdrücklicher Zentimeterbeleg fehlt in den geprüften 1/2-Zeilen. Der konkrete Einheiten-/Streckenbeleg entscheidet, nicht der kleinere Zahlenraum. Keine numerische Höchstlänge belegt: Zahlenbereich vorab festlegen. 1 m = 100 cm ist eine Einheitenbeziehung, keine Obergrenze. Keine Dezimalzentimeter, Rundung, Umrechnung oder Längenrechnung in diesem Ausschnitt. Keine vollständige GS-Zieldeckung.",
+      "shared_object_suggestion": "Die Länge zwischen zwei Punkten und ihr Maß in Zentimetern.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt die Länge einer durch zwei Punkte begrenzten Strecke durch Messen und gibt sie in ganzen Zentimetern im vorab festgelegten Zahlenraum an.",
+          "criterion": "Messbeginn und Messende stimmen mit den begrenzenden Punkten überein. Messwert und Einheit Zentimeter beschreiben die Strecke korrekt. Alle nichtnegativen Messwerte und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Der gewählte Ausschnitt ist in ganzen Zentimetern ohne Runden darstellbar; keine Umrechnung oder Längenrechnung wird verlangt.",
+          "status": "Didaktische Konkretisierung von Messen 1924 unter Kennen 1922; ganze Zentimeter und Punktbegrenzung grenzen den gemeinsamen Ausschnitt ein, nicht das gesamte GS-Messziel."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bestimmt im Umweltbezug die Länge einer durch zwei Punkte begrenzten Strecke durch Messen und gibt sie in ganzen Zentimetern im vorab festgelegten Zahlenraum an.",
+          "criterion": "Die Messung bezieht sich auf die Strecke zwischen den beiden Punkten. Messwert und Einheit Zentimeter stimmen mit ihrer Länge überein. Alle nichtnegativen Messwerte und relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Es werden nur in ganzen Zentimetern darstellbare Längen vorausgesetzt; Dezimalwerte, Runden, Umrechnungen und Längenrechnungen werden nicht verlangt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung des Messanteils aus 35516 unter Übertragen 35511. Ganze cm und Punktbegrenzung sind ausdrücklich belegt; eine numerische Obergrenze nicht. Zeichnen bleibt außerhalb dieses Ausschnitts."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Ganze Zentimeter · durch Punkte begrenzte Strecken · Zahlenbereich vorab festlegen",
+        "detail": "35516 legt ganze cm und Punktbegrenzung ausdrücklich fest, aber keine größte Strecke. 35515 nennt Zentimeter und 1 m = 100 cm; diese Einheitenbeziehung ist keine Höchstlänge von 100 cm. Der allgemeine Bandrahmen bis 100 ist ebenfalls keine ausdrückliche Messgrenze. GS 1922/1924 nennen keine numerische Obergrenze. Der Messanteil wird von Zeichnen, Meter-Kommanotation und Umrechnen getrennt.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35515",
+          "Q-MA-page139_35516"
+        ],
+        "planning_rule": "Vor Verwendung einen zu den Lernvoraussetzungen passenden Zahlenbereich festlegen. Alle nichtnegativen Längen- und Messwerte sowie relevante Zwischen- und Endwerte müssen darin bleiben. Nur durch Punkte begrenzte Strecken mit in ganzen Zentimetern darstellbarer Länge in den ausgewählten Messausschnitt aufnehmen; weder Dezimalzentimeter noch Rundung voraussetzen. Der Umweltbezug des Hauptziels bleibt erhalten. Keine zusätzliche Zeichenanforderung, Umrechnung oder Längenrechnung ergänzen. 1 m = 100 cm begründet keine Obergrenze von 100 cm. Konkrete Aufgaben, Lernhandlungen, Messgegenstände und Hilfsmittel bestimmt die Lehrkraft; eigene Entwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "1924 nennt Messen mit Lineal und Maßband unter Kennen 1922. Ganze Zentimeter und Punktbegrenzung sind die Auswahl des gemeinsamen Ausschnitts. 1922 bleibt Hauptzielkontext.",
+        "fsp": "35516 nennt Zeichnen und Messen von Strecken in ganzen cm sowie Punktbegrenzung; ausgewählt wird Messen. Hauptoperator Übertragen stammt aus 35511. 35514 liefert den Längenkontext, 35515 die Einheit. Lineal in Bemerkung 35516 und Gerätehandhabung in Bemerkung 35515 bleiben Hinweise; kein eigener Operator oder automatisch befülltes Hilfsmittelfeld.",
+        "fsp_remark_anchors": [
+          "page139_35515",
+          "page139_35516"
+        ],
+        "context_only_gs_ids": [
+          "page912_1922"
         ]
       }
     }

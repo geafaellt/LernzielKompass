@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-055
+# Mathematik-Abgleich · MA-056
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Zweiundsechzig Karten dokumentieren begrenzte Anschlüsse. Dreiundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059 und MA-062 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Vierundsechzig Karten dokumentieren begrenzte Anschlüsse. Vierundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beim sachadäquaten Messen1924. [MA-055](review_batch_055.json) ergänzt MA-062 für Meter-Kommaschreibweise mit zwei Dezimalstellen ohne Umwandlung.62 Karten,13 Anschlussfragen und117 Inventurzeilen; gemischte Längenangaben187116 bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Stützpunktvorstellungen187118, danach Schätzen187119. [MA-056](review_batch_056.json) ergänzt zwei getrennte Messausschnitte unter1924: Meter in FSP1/2 und ganze Zentimeter in FSP3/4.64 Karten,13 Anschlussfragen und117 Inventurzeilen; gemischte Längenangaben187116 bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -624,3 +624,12 @@ MA-062 verbindet GS187117 mit FSP3/4-Meter-Kommaschreibweise35518. GS bleibt Ken
 Keine größte Länge belegt:Zahlenbereich vorab festlegen und alle relevanten Werte darin halten. Beispiele und Einheitenrelation sind keine Obergrenzen. Keine gemischten Meter-Zentimeter-Angaben,Gesamtzentimeter-Umrechnung,Rundung oder Längenrechnung in den Feinzielen.187116 bleibt eine neue Anschlussfrage;die Quellen haben positive Gegenbezüge,aber belegen gemischte Notation noch nicht eindeutig. Kein pauschaler Nichtanschluss und kein globales Umwandlungsverbot behauptet.
 
 62 Karten (43 passend,19 stufenübergreifend),178 Quellen,176 Zielanker,117 Inventurzeilen und13 Anschlussfragen. Eine neue Teilprüfung und eine neue Anschlussfrage;alle61 bestehenden Karten unverändert. Keine neue Inventur oder Nichtanschlussentscheidung. Resttexte1923/187115 aktualisiert,historische Texte bewahrt,keine zusätzliche Zuordnung. Fortsetzung1924. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 62 Mathematikkarten in acht frischen Browsergruppen erfolgreich geprüft; alle 375 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 62-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-062 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlicht mit Commit 532e3f9cc5192bc755aeda321212c7c6bb9bb300 und erfolgreichem [Pages-Lauf 43192184814](https://github.com/geafaellt/LernzielKompass/actions/runs/43192184814). App 1.367 ist live bytegleich zum geprüften Stand (SHA256 37a40aedf06cd43932618aad6cb1bbffd06784defdbdba18dc70349ffb566bc6). Öffentliche MA-062-Prüfung in beiden GS-Jahrgängen einschließlich Ziel-/Kriterienübernahme, Quellen, vorab festzulegendem Zahlenbereich, Entwurfserhalt, Fachwechsel und Neuladen bestanden; zusätzlich MA-062 direkt bei 320px und 390px an Karte und Zielen ohne horizontalen Überlauf geprüft. Kein vollständiger 62-Karten-Livedurchlauf behauptet.
+
+
+## MA-056 · App 1.368 · 12.11.2026
+
+MA-063 verbindet GS1924 mit Messen in Metern in FSP1/2. Beide Hauptoperatoren bleiben Kennen. MA-064 ergänzt den ausdrücklich belegten3/4-Ausschnitt: Messen punktbegrenzter Strecken in ganzen Zentimetern unter Übertragen35511. Zwei Karten, eine neue GS-Zeilenteilprüfung. Der stufenbandpassende Meteranschluss hat Vorrang; die zusätzliche Zentimeterkarte beruht auf einem anderen konkreten Zielausschnitt.
+
+Keine numerische Höchstlänge belegt: Zahlenbereich vorher bestimmen. Meter-Darstellungsform und Messgenauigkeit didaktisch klären; ganze Zentimeter und Punktbegrenzung sind dagegen ausdrücklicher FSP-Zieltext. Die Einheitenbeziehung1m=100cm ist keine Obergrenze. Keine Umrechnung, Rundung, Zeichenanforderung oder Längenrechnung in den neuen Feinzielen. Aufgaben, Lernhandlungen und Hilfsmittelfelder bleiben Lehrkraftentscheidung. Lineal/Maßband werden nur als fachlicher Quellenbezug eingeordnet.
+
+Alle62 bisherigen Karten unverändert; MA-004 und MA-062 bleiben Vergleich bzw. Kommanotation.64 Karten (44 stufenbandpassend,20 stufenübergreifend),181 Quellen,179 Zielanker,117 Inventurzeilen,13 Anschlussfragen und fünf Nichtanschlussentscheidungen. Keine Vollabdeckung von1924: weitere Einheiten, Messwertdarstellungen, Instrumentengebrauch und Genauigkeit bleiben offen. Resttext1923 mit Historie aktualisiert, keine zusätzliche Zuordnung. Fortsetzung187118. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 64 Mathematikkarten in acht frischen Browsergruppen erfolgreich geprüft; alle 377 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 64-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-063 und MA-064 jeweils direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlichung und öffentliche Prüfung noch ausstehend.

@@ -1,0 +1,253 @@
+{
+  "id": "MA-056",
+  "date": "2026-11-12",
+  "base_commit": "d77cd37aa4348d670374b08a9531b0cbe3755b29",
+  "scope": "GS1/2 Messen1924: Meter in FSP1/2 und punktbegrenzte Strecken in ganzen cm in FSP3/4 getrennt prüfen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "42baa1609397a08c80538212e464ee2f34a79610efc58ef71084eec7ecfbadd5",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1922",
+      "level": 1,
+      "parent_target_id": "page912_1922",
+      "target": "Kennen des Umgangs mit der Größe Länge in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1922",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_1924",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "sachadäquates Messen von Längen mit den Messinstrumenten Lineal und Maßband",
+      "remarks": "➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1924",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37967",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Experimentieren mit körpereigenen und willkürlichen Einheiten mit Schritt-, Seil-, Stocklänge länger, kürzer, gleich lang Längen mit Meterangabe erste Erfahrungen im Schätzen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37974",
+      "level": 3,
+      "parent_target_id": "page139_37961",
+      "target": "Maßeinheit Meter (m)",
+      "remarks": "Größenvorstellungen typische Repräsentanten (Tafellineal) Handhabung eines Maßbandes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35514",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Schätzen, Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Schaffen von Größenvorstellungen Experimentieren mit Körpermaßen, Stock- und Bandlänge Meter- und Zentimeterangabe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35515",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Einheit Zentimeter (cm), Beziehung: 1 m = 100 cm",
+      "remarks": "typische Repräsentanten: Daumenbreite, Fingerspanne, Schrittlänge, Armlänge, Handspanne sachgerechte Handhabung von Messgeräten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35516",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Zeichnen und Messen von Strecken in ganzen cm, Begrenzung durch Punkte",
+      "remarks": "Zeichen in Gitternetzlinie und mit Lineal ➔ WE, Kl. 3/4, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516",
+      "grade": "3/4"
+    },
+    {
+      "id": "page912_187118",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Längen",
+      "remarks": "typische Repräsentanten: Daumenbreite, Schrittlänge, Türbreite",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187118",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187119",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Schätzen von Längen",
+      "remarks": "Stützpunktvorstellungen nutzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187119",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37976",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Rechnen mit Längen in Sachsituationen",
+      "remarks": "Bezug zur Alltags- und Umwelterfahrung ⇒ Bildung für nachhaltige Entwicklung ➔ LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37976",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_35518",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Kommaschreibweise der Einheit Meter mit zwei Dezimalstellen",
+      "remarks": "2,50 m; 2,05 m verschiedene Schreib- und Sprechweisen keine Umwandlung Körpergrößen der Mitschüler, Ergebnisse von Weitsprung, -wurf",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35518",
+      "grade": "3/4"
+    }
+  ],
+  "context_excerpts": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739"
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "overarching_stage_goals_not_target_operator",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben.",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415"
+    }
+  ],
+  "context_verification": "Bandzieltexte37739/35415 frisch geprüft und unverändert. Zahlenräume20/100 sind keine verbindlichen Höchstlängen. FSP-Längenblöcke jeweils LB3 Natur entdecken und erleben. Ziel- und Bemerkungsspalten getrennt; amtliches HTML geprüft, kein neuer PDF-Abgleich behauptet.187118/187119 nur Fortsetzungskontext, keine neue Prüfung dieser Zeilen.",
+  "new_cards": [
+    "MA-063",
+    "MA-064"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-004",
+    "MA-062"
+  ],
+  "existing_card_review": "MA-004 bleibt Vergleich/Ordnung, MA-062 bleibt Meter-Kommanotation; beide belegen nicht selbst die Messung. Alle62 vorhandenen Karten unverändert.1922 nur Hauptzielkontext. Zwei neue fachliche Ausschnitte gehören zur selben GS-Zeile1924; nur eine neue Zeilenteilprüfung. Keine automatische Übertragung der Messkompetenz auf Umrechnen, Rechnen oder beliebige Notation.",
+  "decisions": [
+    {
+      "gs_id": "page912_1924",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-063",
+        "MA-064"
+      ],
+      "same_band_candidates": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "cross_band_candidates": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35516"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen im Naturkontext in Metern messen. GS-Kennen stammt aus 1922, FSP-Kennen aus 37961; Messen steht im Unterziel 37967 und Meter im Unterziel 37974. GS 1924 nennt Lineal und Maßband im Zieltext. Die Handhabung eines Maßbandes steht im FSP in der Bemerkung 37974; das Tafellineal ist dort ein Repräsentantenbeispiel. Daraus wird keine vollständige FSP-Zielforderung für beide GS-Messinstrumente abgeleitet. Die Quellen nennen keine numerische Höchstlänge und keine Beschränkung auf ganze Meter. Zahlenbereich, vertraute Darstellungsform und erreichbare Messgenauigkeit sind vorab zu klären. Kein automatischer Anschluss für beliebige Bruch-/Kommawerte, zusätzliche Einheiten, Umrechnen oder Längenrechnen. MA-004 bleibt beim Vergleich, MA-062 bei der Kommanotation. Keine vollständige GS-Zieldeckung. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: durch Punkte begrenzte Strecken in ganzen Zentimetern messen. GS-Kennen stammt aus 1922, FSP-Übertragen aus 35511. Ganze Zentimeter und Punktbegrenzung stehen ausdrücklich im FSP-Unterziel 35516; ausgewählt wird dessen Messanteil, nicht das Zeichnen. Lineal steht in der Bemerkung 35516, sachgerechte Handhabung von Messgeräten in der Bemerkung 35515; diese Hinweise werden nicht zu eigenen Hauptoperatoren. FSP 1/2 belegt Messen in Metern und bleibt der bevorzugte Anschluss dafür; ein ausdrücklicher Zentimeterbeleg fehlt in den geprüften 1/2-Zeilen. Der konkrete Einheiten-/Streckenbeleg entscheidet, nicht der kleinere Zahlenraum. Keine numerische Höchstlänge belegt: Zahlenbereich vorab festlegen. 1 m = 100 cm ist eine Einheitenbeziehung, keine Obergrenze. Keine Dezimalzentimeter, Rundung, Umrechnung oder Längenrechnung in diesem Ausschnitt. Keine vollständige GS-Zieldeckung.",
+      "operators": {
+        "gs": "Kennen1922",
+        "fsp_same_band": "Kennen37961",
+        "fsp_cross_band": "Übertragen35511"
+      },
+      "same_band_preference": "MA-063 übernimmt den belegten Meter-Messausschnitt in1/2. MA-064 ergänzt den getrennten Zentimeter-/Strecken-Ausschnitt3/4; keine doppelte Meterkarte unter höherem Band.",
+      "number_range": {
+        "gs_target_row_max": null,
+        "fsp_target_row_max": null,
+        "fsp_scope_status": "unspecified",
+        "max_value": null,
+        "MA-063": "Meter, vertraute Darstellungsform/Genauigkeit vorab klären. Keine ausdrückliche Beschränkung auf ganze Meter.",
+        "MA-064": "Ganze Zentimeter, Punktbegrenzung ausdrücklich aus35516. Keine Höchstlänge aus1m=100cm oder Bandrahmen ableiten."
+      },
+      "prerequisites": "Bedeutung von Länge, Einheit, Skalenbezug und gewählter Messwertdarstellung zuvor klären. Zahlenbereich und erreichbare Genauigkeit festlegen. Ganze Zentimeter sind eine echte Zielvorgabe für MA-064, keine Rundungsanweisung. Aufgaben, Gegenstände und Hilfsmittel entscheidet die Lehrkraft.",
+      "uncertainty": "Quellen nennen keine numerische Höchstlänge. FSP1/2-Maßband steht in Bemerkung; Tafellineal ist Repräsentant und belegt nicht allein den gesamten GS-Linealgebrauch. Die didaktischen Kriterien sind kein wörtlicher Lehrplan und bilden nicht sämtliche Anforderungen der Hauptziele ab.",
+      "remaining": "Sachadäquate Auswahl und flexibler Gebrauch beider GS-Messinstrumente über die ausgewählten Ausschnitte hinaus; Messen mit Millimeter-/Dezimeterangaben und anderen Messwertdarstellungen, nichtganzzahlige Zentimeterlängen sowie höhere oder noch nicht vertraute Messgenauigkeit. MA-063 belegt Messen in Metern im Naturkontext, MA-064 Messen punktbegrenzter Strecken in ganzen cm im Umweltbezug. Zeichnen, Schätzen, Stützpunktwissen, allgemeines Umrechnen und Längenrechnen sind keine automatische Folge der Messanschlüsse. Keine vollständige GS-Zieldeckung."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "new_open_connection_questions": 0,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 2,
+    "updated_cards": 0,
+    "cards": 64,
+    "cross_band_cards": 20,
+    "source_links": 181,
+    "target_anchors": 179,
+    "audit_rows": 117,
+    "open_connection_questions": 13,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Längen187118 gegen beide FSP-Bänder prüfen, danach Schätzen187119. Bestehende MA-004, MA-062 und neue MA-063/064 trennen Vergleich, Kommanotation und Messausschnitte; nicht doppelt zählen. Gemischte Längenangaben187116 bleiben Anschlussfrage.64 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden.",
+  "tests": {
+    "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 62,
+      "old_sources_unchanged": 178,
+      "old_anchors_unchanged": 176,
+      "previous_questions_unchanged": 13,
+      "audit_rows": 117,
+      "changed_audit_ids": [
+        "page912_1922",
+        "page912_1924"
+      ],
+      "remainder_history_preserved": [
+        "page912_1923"
+      ],
+      "new_source_rows_match_fresh_official_html": true,
+      "nonmath_unchanged": true,
+      "root_dist_identical": true,
+      "html_sha256": "ea879a52188f00abddd755264c21b1e5792590e0910b92ca074ff9670c6f96ea",
+      "html_blob_sha": "9ea6d0040780ca9c45d9dd87a774f1acc86755ad"
+    },
+    "scope": "MA-063/064: unspecified, max_value null, no range_max. No numerical length maximum invented. All nonnegative values and relevant intermediate/final values must stay in the previously determined range. MA-063: metre notation and attainable accuracy determined beforehand, no automatic arbitrary fraction/decimal allowance. MA-064: whole centimetres and point boundaries explicitly sourced, no rounding or additional drawing requirement. Neither card adds conversion or length arithmetic. Scope regression checks passed.",
+    "browser_local": "passed all64 cards in8 disjoint fresh-browser subsets using original check-mathematik-browser assertions with only per-card loop filtered. Full grade/area counts,source/scope/goal/criterion adoption,empty task/aid fields,draft preservation,subject isolation,reload and mobile follow-up retained. All8 passed on first attempt. Generic mobile follow-up uses MA-018.",
+    "browser_changed_card_mobile": "passed targeted MA-063 and MA-064 separately in both GS grades,then direct scope/card and scope/goals visibility with no horizontal overflow at320px and390px. Original assertions retained.",
+    "browser_long_session_limit": "No uninterrupted64-card run claimed;fresh-browser subsets address previously documented long-session timeouts.",
+    "browser_disclosures": "passed all377 cards:collapsed source/evidence disclosures,operator help,keyboard,drafts,mobile320/390.",
+    "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
+    "browser_live": "pending targeted MA-063/064 in both GS grades and direct mobile320/390 checks"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.368",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "target_sha256": "ea879a52188f00abddd755264c21b1e5792590e0910b92ca074ff9670c6f96ea"
+  }
+}

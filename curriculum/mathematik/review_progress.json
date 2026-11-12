@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-055",
+  "last_batch": "MA-056",
   "complete": false,
   "counts": {
-    "cards": 62,
-    "cross_band": 19
+    "cards": 64,
+    "cross_band": 20
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2247,10 +2247,49 @@
       "area": "Lernbereich 3: Natur entdecken und erleben",
       "operator": null,
       "version": "2019"
+    },
+    "page912_1924": {
+      "id": "page912_1924",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "sachadäquates Messen von Längen mit den Messinstrumenten Lineal und Maßband",
+      "remarks": "➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1924",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_35515": {
+      "id": "page139_35515",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Einheit Zentimeter (cm), Beziehung: 1 m = 100 cm",
+      "remarks": "typische Repräsentanten: Daumenbreite, Fingerspanne, Schrittlänge, Armlänge, Handspanne sachgerechte Handhabung von Messgeräten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "operator": null,
+      "version": "2019"
+    },
+    "page139_35516": {
+      "id": "page139_35516",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Zeichnen und Messen von Strecken in ganzen cm, Begrenzung durch Punkte",
+      "remarks": "Zeichen in Gitternetzlinie und mit Lineal ➔ WE, Kl. 3/4, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_1924",
-  "next_step": "GS1/2 sachadäquates Messen von Längen mit Lineal und Maßband1924 gegen beide FSP-Bänder prüfen,danach Stützpunktvorstellungen187118. Bestehende MA-004 (Vergleich/Ordnung) undMA-062 (Meter-Kommanotation ohne Umwandlung) nicht als Messhandlung doppelt zählen. Gemischte Längenangaben187116 bleiben neue Anschlussfrage mit positiven3/4-Gegenbezügen.62 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden. App 1.367 veröffentlicht und live geprüft; Nachweise in MA-055.",
+  "next_id": "page912_187118",
+  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Längen187118 gegen beide FSP-Bänder prüfen, danach Schätzen187119. Bestehende MA-004, MA-062 und neue MA-063/064 trennen Vergleich, Kommanotation und Messausschnitte; nicht doppelt zählen. Gemischte Längenangaben187116 bleiben Anschlussfrage.64 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2473,9 +2512,17 @@
         "page139_37974"
       ],
       "decision": "FSP1/2 belegt Meterangaben,aber keine ausdrückliche Kommaschreibweise mit zwei Dezimalstellen. FSP3/4 nennt diese konkret in35518 unter Übertragen35511. Der spezifische Notationsbeleg entscheidet,nicht der kleinere Zahlenraum.1/2 bleibt positiver Vorbezug; keine pauschale fehlende Anschlussfähigkeit."
+    },
+    "MA-064": {
+      "same_band_candidate_ids": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "decision": "FSP1/2-Messen in Metern ist belegt und als MA-063 bevorzugt. Für den eigenständigen Ausschnitt punktbegrenzte Strecken in ganzen Zentimetern ist35516 unter Übertragen35511 der ausdrückliche3/4-Beleg. Kein Ausschluss allein wegen kleinerem Zahlenraum. Nicht das gesamte GS-Messziel wird stufenübergreifend zugeordnet."
     }
   },
-  "last_review_file": "review_batch_055.json",
+  "last_review_file": "review_batch_056.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2997,13 +3044,17 @@
     },
     {
       "gs_id": "page912_1923",
-      "scope": "Erfassen und Darstellen von Längen in weiteren Formen,eigenständiges Messen/Schätzen,direkte/indirekte Vergleichsverfahren sowie weitere Zahlen- und Darstellungsbereiche. MA-004 bleibt beim Vergleich/Ordnen von Meterangaben. MA-062 prüft unter187117 nur Lesen/Notieren von Meter-Kommaangaben mit zwei Dezimalstellen; keine zusätzliche Kartenreferenz oder Erstzählung von1923. Bisherige positive Kandidaten bleiben erhalten.",
+      "scope": "Erfassen und Darstellen von Längen in weiteren Formen, direkte/indirekte Vergleichsverfahren sowie weitere Zahlen- und Darstellungsbereiche. MA-004 bleibt beim Vergleich/Ordnen von Meterangaben. MA-062 ist unter187117 nur der Meter-Kommanotation zugeordnet. Messen wird gesondert unter1924 durch MA-063/064 teilweise geprüft; keine zusätzliche Zuordnung oder Erstzählung von1923. Bisherige positive Kandidaten bleiben erhalten; eine generelle Freigabe beliebiger Messwerte oder Darstellungen folgt daraus nicht.",
       "status": "offen",
-      "review": "MA-055",
+      "review": "MA-056",
       "review_history": [
         {
           "batch": "MA-054",
           "scope": "Erfassen und Darstellen von Längen in weiteren Formen; eigenständiges Messen und Schätzen, systematische direkte/indirekte Vergleichsverfahren sowie Erweiterungen des gewählten Zahlen- und Darstellungsbereichs. MA-004 prüft nur Vergleich/Ordnung von Meterangaben im Naturkontext. FSP1/2-Körpermaße37777 und Messen37967 sowie FSP3/4-Längenermittlung35511/35514 sind positive weiterführende Bezüge, keine pauschalen Nichtanschlüsse."
+        },
+        {
+          "batch": "MA-055",
+          "scope": "Erfassen und Darstellen von Längen in weiteren Formen,eigenständiges Messen/Schätzen,direkte/indirekte Vergleichsverfahren sowie weitere Zahlen- und Darstellungsbereiche. MA-004 bleibt beim Vergleich/Ordnen von Meterangaben. MA-062 prüft unter187117 nur Lesen/Notieren von Meter-Kommaangaben mit zwei Dezimalstellen; keine zusätzliche Kartenreferenz oder Erstzählung von1923. Bisherige positive Kandidaten bleiben erhalten."
         }
       ]
     },
@@ -3030,6 +3081,12 @@
       "scope": "Kommaschreibweise weiterer Längeneinheiten und anderer Stellenzahlen,sicheres Vergleichen/Ordnen in dieser Notation,selbstständiges Ermitteln der zugrundeliegenden Messwerte sowie flexible Wahl einer Darstellungsform. MA-062 deckt nur Lesen/Notieren bereits geklärter Meterangaben mit zwei Dezimalstellen innerhalb eines zuvor festgelegten Zahlenbereichs. Gemischte Angaben187116 bleiben Anschlussfrage; Umrechnen187120 und Längenrechnen187121 sind gesonderte Zielzeilen. Keine vollständige GS-Zieldeckung.",
       "status": "offen",
       "review": "MA-055"
+    },
+    {
+      "gs_id": "page912_1924",
+      "scope": "Sachadäquate Auswahl und flexibler Gebrauch beider GS-Messinstrumente über die ausgewählten Ausschnitte hinaus; Messen mit Millimeter-/Dezimeterangaben und anderen Messwertdarstellungen, nichtganzzahlige Zentimeterlängen sowie höhere oder noch nicht vertraute Messgenauigkeit. MA-063 belegt Messen in Metern im Naturkontext, MA-064 Messen punktbegrenzter Strecken in ganzen cm im Umweltbezug. Zeichnen, Schätzen, Stützpunktwissen, allgemeines Umrechnen und Längenrechnen sind keine automatische Folge der Messanschlüsse. Keine vollständige GS-Zieldeckung.",
+      "status": "offen",
+      "review": "MA-056"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3053,7 +3110,7 @@
       "page912_1922"
     ],
     "rows": 117,
-    "note": "117 inventarisierte Zeilen,62 Karten (19 stufenübergreifend). MA-055 prüft187117 teilweise durch MA-062;187116 bleibt begründete offene Anschlussfrage,kein Nichtanschluss.1922/1923 nur Kontext für neue Karte. Keine neue Inventurzeile;13 Anschlussfragen und fünf Nichtanschlussentscheidungen. Fortsetzung1924.",
+    "note": "117 inventarisierte Zeilen,64 Karten (20 stufenübergreifend). MA-056 prüft1924 teilweise durch MA-063/064: eine GS-Zeile, zwei getrennte fachliche Ausschnitte.1922 nur Kontext. Keine neue Inventurzeile;13 Anschlussfragen und fünf Nichtanschlussentscheidungen bleiben erhalten. Fortsetzung187118.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3136,6 +3193,22 @@
         "MA-062"
       ],
       "note": "Zwei Dezimalstellen und keine Umwandlung belegt,keine numerische Höchstlänge. Historische Scope-Prüfungen bewahrt."
+    },
+    "follow_up_measurement": {
+      "batch": "MA-056",
+      "cards": [
+        "MA-063",
+        "MA-064"
+      ],
+      "status": "unspecified",
+      "current_unspecified_cards": [
+        "MA-004",
+        "MA-056",
+        "MA-062",
+        "MA-063",
+        "MA-064"
+      ],
+      "note": "Keine numerische Höchstlänge belegt. MA-063: Meter mit vorab geklärter Darstellungsform/Genauigkeit. MA-064: ganze cm und Punktbegrenzung ausdrücklich belegt. Alle relevanten Werte müssen im festgelegten Zahlenbereich liegen; historische Scope-Prüfungen bewahrt."
     }
   },
   "publication_recheck": {
@@ -3156,12 +3229,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-055",
-    "status": "verified",
-    "app_version": "1.367",
-    "app_commit": "532e3f9cc5192bc755aeda321212c7c6bb9bb300",
-    "pages_run": 43192184814,
-    "live_sha256": "37a40aedf06cd43932618aad6cb1bbffd06784defdbdba18dc70349ffb566bc6",
-    "browser": "targeted MA-062 live in both GS grades and mobile320/390 passed;all62 local in8 subsets"
+    "batch": "MA-056",
+    "status": "pending",
+    "app_version": "1.368",
+    "previous_verified_version": "1.367"
   }
 }
