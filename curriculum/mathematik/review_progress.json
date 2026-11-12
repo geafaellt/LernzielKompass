@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-052",
+  "last_batch": "MA-053",
   "complete": false,
   "counts": {
-    "cards": 60,
+    "cards": 61,
     "cross_band": 18
   },
   "source_plans": {
@@ -2157,10 +2157,23 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187113": {
+      "id": "page912_187113",
+      "level": 2,
+      "parent_target_id": "page912_1912",
+      "target": "Verwenden der Fachbegriffe: Euro (€), Cent (ct), „… ist teurer als …“, „… ist billiger als …“, „… kostet mehr als …“, „… kostet weniger als …“",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187113",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187113",
-  "next_step": "GS1/2 Geld-Fachbegriffe187113 unter Kennen1912 gegen beide FSP-Bänder prüfen: Euro/Cent sowie teurer/billiger/kostet mehr/kostet weniger. Vorhandene MA-003,MA-041 und MA-056–060 inhaltlich abgrenzen; Geldhandlungen nicht automatisch als eigenständigen Sprachbeleg zählen.60 Karten, zwölf Anschlussfragen und sämtliche Restumfänge erhalten.187112 bleibt insbesondere für Subtraktion, Menge-Preis-Beziehungen und weitere Geldrechnungen offen. App1.364 veröffentlicht und live geprüft; Nachweise in MA-052.",
+  "next_id": "page912_1923",
+  "next_step": "GS1/2 Längenblock1922: bestehende MA-004 und Zeilen1923/187114 gegen beide FSP-Bänder erneut prüfen, anschließend187115. Hauptoperator Kennen und Naturkontext des FSP1/2 erhalten. Keine unbelegte Obergrenze von20m oder Beschränkung auf ganze Meter; Planungsbereich und relevante Zwischen-/Endwerte gesondert klären. Die zwölf Längenblockzeilen wurden in MA-053 nur inventarisiert, nicht neu fachlich freigegeben.61 Karten, zwölf Anschlussfragen und bisherige Restumfänge erhalten;187113 bleibt nur teilweise gedeckt.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2377,7 +2390,7 @@
       "decision": "FSP1/2 benennt Euro/Cent und Wechseln von Geldbeträgen. Das sind positive Vorbezüge, jedoch kein ebenso konkreter Zielbeleg für die ausgewählte Hundert-zu-eins-Einheitenbeziehung. Diese ist in FSP3/4 35493 ausdrücklich genannt. Die Auswahl beruht auf der spezifischen Zielaussage, nicht allein auf dem didaktischen20-Rahmen früherer Karten. Kein pauschaler Ausschluss von Einheitenwahl oder Geldwechseln in1/2."
     }
   },
-  "last_review_file": "review_batch_052.json",
+  "last_review_file": "review_batch_053.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2813,9 +2826,9 @@
     },
     {
       "gs_id": "page912_1915",
-      "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, andere Geldrechnungen, Wechseln zwischen Einheiten und Gesamtcent-Umrechnung weiterer Beträge bleiben offen. MA-003 betrifft Vergleich/Ordnung,MA-056 Schreibweisen,MA-058 Wechseln innerhalb einer Einheit,MA-059 nur1Euro↔100Cent. MA-060 prüft unter187112 eine additive Geldsachsituation in derselben Einheit; keine zusätzliche Zuordnung oder Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage.",
+      "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, andere Geldrechnungen, Wechseln zwischen Einheiten und Gesamtcent-Umrechnung weiterer Beträge bleiben offen. MA-003 betrifft Vergleich/Ordnung,MA-056 Schreibweisen,MA-058 Wechseln innerhalb einer Einheit,MA-059 nur1Euro↔100Cent. MA-060 prüft unter187112 eine additive Geldsachsituation in derselben Einheit; keine zusätzliche Zuordnung oder Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage. MA-053 präzisiert in MA-003 das Benennen der verwendeten Einheit Euro/Cent im Vergleich; weitere Einheitenverwendung und Kürzel bleiben offen. Keine neue Erstzählung von1915.",
       "status": "offen",
-      "review": "MA-052",
+      "review": "MA-053",
       "review_history": [
         {
           "batch": "MA-047",
@@ -2832,6 +2845,10 @@
         {
           "batch": "MA-051",
           "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, Rechnen, Wechseln zwischen den Einheiten und Gesamtcent-Umrechnung weiterer Beträge bleiben offen. MA-003 betrifft Vergleich/Ordnung,MA-056 Schreibweisen,MA-058 Wechseln innerhalb einer Einheit. MA-059 prüft unter187111 nur die Beziehung1Euro↔100Cent; keine zusätzliche Zuordnung oder Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage."
+        },
+        {
+          "batch": "MA-052",
+          "scope": "Weitere Verwendung von Euro/Cent, umfassendes Erkennen von Münzen/Scheinen, andere Geldrechnungen, Wechseln zwischen Einheiten und Gesamtcent-Umrechnung weiterer Beträge bleiben offen. MA-003 betrifft Vergleich/Ordnung,MA-056 Schreibweisen,MA-058 Wechseln innerhalb einer Einheit,MA-059 nur1Euro↔100Cent. MA-060 prüft unter187112 eine additive Geldsachsituation in derselben Einheit; keine zusätzliche Zuordnung oder Erstzählung von1915. Stellenwerttafel1917 bleibt Anschlussfrage."
         }
       ]
     },
@@ -2870,6 +2887,12 @@
       "scope": "Subtraktive Sachstrukturen einschließlich Wechselgeld, weitere Rechenarten und mehrschrittige Sachaufgaben; die Menge-Preis-Beziehung aus der GS-Bemerkung, insbesondere Anzahl gleicher Waren mal Einzelpreis. Gemischte Euro-/Centbeträge, Kommaschreibweise, Umrechnungen und Erweiterungen des Betragsrahmens. MA-060 erfasst nur einen Gesamtbetrag aus zwei ganzen Beträgen derselben Einheit bis20, didaktisch ausgewählt; eigenständige Auswahl zwischen Operationen im FSP-Zugang nicht behauptet. FSP1/2-Sachaufgabenstrategien37896–37908 und FSP3/4-Geldrechnen35495 sind positive weiterführende Bezüge, keine pauschalen Nichtanschlüsse.",
       "status": "offen",
       "review": "MA-052"
+    },
+    {
+      "gs_id": "page912_187113",
+      "scope": "Selbstständiger flexibler Gebrauch aller vier Preisvergleichsformulierungen, ihre sichere wechselseitige Umformulierung und Verwendung in wechselnden Bezugsrichtungen; Schreiben/Zuordnen der Kürzel € und ct und weitere Verwendung der Einheitenwörter außerhalb des begrenzten Vergleichs. MA-003 erfasst Euro/Cent-Benennung,MA-061 einen relationalen sprachlichen Preisvergleich mit unterstütztem FSP-Verstehen. Keine Vollabdeckung der Sprachliste, gemischter Beträge oder Preis-/Qualitätsbewertung. FSP3/4-Formulierungshilfen35492, sprachliche Geldnotation35494 und Preisvergleiche35556 bleiben positive weitere Kandidaten.",
+      "status": "offen",
+      "review": "MA-053"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -2889,10 +2912,11 @@
       "page912_1881",
       "page912_187087",
       "page912_1911",
-      "page912_1912"
+      "page912_1912",
+      "page912_1922"
     ],
-    "rows": 105,
-    "note": "105 inventarisierte Zeilen,60 Karten (18 stufenübergreifend). MA-052 prüft187112 teilweise durch die additive Geldsachsituation in MA-060;1912 bleibt Kontext. Keine neue Inventurzeile, Anschlussfrage oder Nichtanschlussentscheidung. Resthinweis1915 aktualisiert, historischer Text erhalten; keine zusätzliche Zuordnung. Fortsetzung187113.",
+    "rows": 117,
+    "note": "117 inventarisierte Zeilen,61 Karten (18 stufenübergreifend). MA-053 prüft187113 teilweise: Einheitenbenennung in bestehender MA-003, sprachlicher Preisvergleich neuMA-061. Zwölf Zeilen des Längenblocks1922 nur inventarisiert, darunter vorhandene MA-004-Bezüge1923/187114 ohne erneute fachliche Freigabe. Keine neue Anschlussfrage oder Nichtanschlussentscheidung. Fortsetzung1923.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -2974,12 +2998,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-052",
-    "status": "verified",
-    "app_version": "1.364",
-    "app_commit": "f59c707c8328b5033cdaf12135f326f54fcfd5f9",
-    "pages_run": 43170364731,
-    "live_sha256": "cc1d85ca91844423a7b7d1dba578d79f8fae39cc8577e4339039834f497fed2a",
-    "browser": "targeted MA-060 live in both GS grades and mobile320/390 passed;all60 local in8 subsets"
+    "batch": "MA-053",
+    "status": "pending",
+    "app_version": "1.365",
+    "previous_verified_version": "1.364"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.1",
+  "version": "MA-2026-11-12.2",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1142,6 +1142,12 @@
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187112",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187113",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187113",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -1275,15 +1281,16 @@
       "theme": "Geldbeträge in Euro und Cent",
       "app_area": "MA-page912_1753",
       "status": "Begrenzter Anschluss · Zahlenraum didaktisch abgeleitet",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Geldbeträge in Euro oder Cent vergleichen und ordnen",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Geldbeträge in Euro oder Cent vergleichen und ordnen; Euro/Cent aus Fachwortzeile187113 im Vergleich benennen",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Geldbeträge vergleichen und ordnen, Einheiten Euro und Cent verwenden",
       "gs_operator": "Kennen",
       "fsp_operator": "Einblick gewinnen",
-      "operator_relation": "GS: Kennen (1912) · FSP: Einblick gewinnen (37913). Vergleichen und Ordnen sind Inhalte der Unterziele, keine neuen Operatoren. Der Anschluss umfasst ganze Geldbeträge in jeweils derselben Einheit: Euro oder Cent.",
+      "operator_relation": "GS: Kennen (1912) · FSP: Einblick gewinnen (37913). Vergleichen und Ordnen sind Inhalte der Unterziele, keine neuen Operatoren. Der Anschluss umfasst ganze Geldbeträge in jeweils derselben Einheit: Euro oder Cent. MA-053: Zusätzlich wird aus187113 ausschließlich das Benennen der verwendeten Einheit Euro oder Cent im bestehenden Geldvergleich geprüft. FSP37921 nennt das Verwenden dieser Einheiten ausdrücklich. Schreiben der Kürzel und Preisvergleichssprache sind dadurch nicht vollständig abgedeckt; MA-061 prüft gesondert einen sprachlichen Preisvergleich.",
       "gs_target_ids": [
         "page912_1912",
         "page912_1913",
-        "page912_1915"
+        "page912_1915",
+        "page912_187113"
       ],
       "fsp_target_ids": [
         "page139_37913",
@@ -1297,7 +1304,8 @@
         "Q-MA-page139_37913",
         "Q-MA-page139_37921",
         "Q-MA-page139_37926",
-        "Q-MA-page139_37739"
+        "Q-MA-page139_37739",
+        "Q-MA-page912_187113"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1308,18 +1316,18 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Teilanschluss: ganze Geldbeträge innerhalb derselben Einheit vergleichen und ordnen. FSP-Planungsgrenze bis 20 Euro oder bis 20 Cent didaktisch abgeleitet; die ausgewählten GS- und FSP-Zielzeilen nennen keine eigene Obergrenze. Die GS-Feinziele wählen hier ebenfalls bis 20, ohne dies als GS-Lehrplangrenze auszugeben. Erfassen und Darstellen in weiteren Formen, gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen sind nicht abgedeckt.",
+      "app_review_message": "Teilanschluss: ganze Geldbeträge innerhalb derselben Einheit vergleichen und ordnen. FSP-Planungsgrenze bis 20 Euro oder bis 20 Cent didaktisch abgeleitet; die ausgewählten GS- und FSP-Zielzeilen nennen keine eigene Obergrenze. Die GS-Feinziele wählen hier ebenfalls bis 20, ohne dies als GS-Lehrplangrenze auszugeben. Erfassen und Darstellen in weiteren Formen, gemischte Einheiten, Kommaschreibweise, Wechseln und Rechnen sind nicht abgedeckt. MA-053: Zusätzlich wird aus187113 ausschließlich das Benennen der verwendeten Einheit Euro oder Cent im bestehenden Geldvergleich geprüft. FSP37921 nennt das Verwenden dieser Einheiten ausdrücklich. Schreiben der Kürzel und Preisvergleichssprache sind dadurch nicht vollständig abgedeckt; MA-061 prüft gesondert einen sprachlichen Preisvergleich.",
       "shared_object_suggestion": "Mehr, weniger oder gleich viel Geld – Geldbeträge in derselben Einheit: Euro oder Cent.",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind vergleicht und ordnet ganze Geldbeträge bis 20 Euro oder bis 20 Cent innerhalb derselben Einheit.",
-          "criterion": "Die Vergleiche und die Reihenfolge stimmen; gleiche Geldwerte werden als gleich erkannt und Euro bzw. Cent bleibt erhalten. Alle Beträge liegen im didaktisch gewählten Rahmen bis 20 derselben Einheit. Dies ist keine ausdrückliche GS-Lehrplangrenze."
+          "goal": "Das Kind vergleicht und ordnet ganze Geldbeträge bis 20 Euro oder bis 20 Cent innerhalb derselben Einheit. Es benennt dabei die jeweils verwendete Einheit als Euro oder Cent.",
+          "criterion": "Die Vergleiche und die Reihenfolge stimmen; gleiche Geldwerte werden als gleich erkannt und Euro bzw. Cent bleibt erhalten. Alle Beträge liegen im didaktisch gewählten Rahmen bis 20 derselben Einheit. Dies ist keine ausdrückliche GS-Lehrplangrenze. Die verwendete Einheit wird passend als Euro oder Cent benannt; bloßes Vergleichen der Zahl ohne Einheit genügt nicht."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind erkennt größere, kleinere und gleiche ganze Geldbeträge bis 20 Euro oder bis 20 Cent und ordnet sie innerhalb derselben Einheit.",
-          "criterion": "Vergleiche und Reihenfolge entsprechen den Geldwerten; gleiche Beträge werden als gleich erkannt. Die Einheit bleibt erhalten. Alle Beträge und relevanten Zwischen- und Endwerte sind nichtnegative ganze Werte bis 20 in derselben Einheit. Gemischte Einheiten, Umrechnungen und Kommaschreibweise sind ausgeschlossen.",
+          "goal": "Das Kind erkennt größere, kleinere und gleiche ganze Geldbeträge bis 20 Euro oder bis 20 Cent und ordnet sie innerhalb derselben Einheit. Es benennt dabei die jeweils verwendete Einheit als Euro oder Cent.",
+          "criterion": "Vergleiche und Reihenfolge entsprechen den Geldwerten; gleiche Beträge werden als gleich erkannt. Die Einheit bleibt erhalten. Alle Beträge und relevanten Zwischen- und Endwerte sind nichtnegative ganze Werte bis 20 in derselben Einheit. Gemischte Einheiten, Umrechnungen und Kommaschreibweise sind ausgeschlossen. Die verwendete Einheit wird passend als Euro oder Cent benannt; bloßes Vergleichen der Zahl ohne Einheit genügt nicht.",
           "scope_status": "derived",
           "status": "Didaktische Konkretisierung; die Zahlenraumgrenze ist aus dem übergreifenden Ziel abgeleitet.",
           "range_max": 20
@@ -1352,10 +1360,16 @@
           "decision": "derived_confirmed",
           "target_limit_explicit": false,
           "source_check": "Amtliches HTML erneut geprüft; kein neuer PDF-Abgleich behauptet. Ordnen, Gleichheit, Einheitenerhalt und relevante Zwischen-/Endwerte in Feinzielen und Kriterien präzisiert."
+        },
+        "follow_up_language": {
+          "batch": "MA-053",
+          "decision": "derived_confirmed",
+          "source": "37921 ausdrücklich Verwenden der Einheiten Cent/Euro;187113 Fachbegriffe",
+          "note": "Benennung als didaktische Konkretisierung der Einheitenverwendung; unveränderter20-Rahmen einschließlich Zwischen-/Endwerte. Keine Schreibkürzelprüfung."
         }
       },
       "evidence_classification": {
-        "gs": "1913 ist Unterziel unter Kennen1912;1915 konkretisiert es mit Euro und Cent.1912 ist Hauptzielkontext, keine vollständig abgedeckte Zielzeile. Die numerische Obergrenze der GS-Zielzeilen ist nicht angegeben.",
+        "gs": "1913 ist Unterziel unter Kennen1912;1915 konkretisiert es mit Euro und Cent.1912 ist Hauptzielkontext, keine vollständig abgedeckte Zielzeile. Die numerische Obergrenze der GS-Zielzeilen ist nicht angegeben.187113 wird nur für die Benennung Euro/Cent im Vergleich ergänzt; dieselbe Karte, keine neue Karte für die Einheitenwörter.",
         "fsp": "37921 (Einheiten) und37926 (u.a. Vergleichen/Ordnen) sind Unterziele unter Einblick gewinnen37913. „Zahlenraum beachten“ steht in der Bemerkung zu37926. Bis20 stammt aus dem übergreifenden Zahlaufbauziel37739; die Grenze für ganze Beträge je Einheit ist didaktisch abgeleitet.",
         "fsp_remark_anchors": [
           "page139_37926"
@@ -6041,6 +6055,88 @@
         "fsp": "Rechnen mit Geldbeträgen in Sachsituationen steht im verbindlichen Unterziel37927 unter Einblick gewinnen37913. Differenzierung: Begriff Summe steht nur in der Bemerkung37927 und ist Gegenstand der bestehenden MA-041. Die Eingrenzung auf zwei Teilbeträge und eine bereits geklärte additive Beziehung ist didaktische Konkretisierung, keine eigene Zielzeile oder eigener Operator.",
         "fsp_remark_anchors": [
           "page139_37927"
+        ],
+        "context_only_gs_ids": [
+          "page912_1912"
+        ]
+      }
+    },
+    {
+      "id": "MA-061",
+      "subject": "Mathematik",
+      "theme": "Preisvergleich sprachlich verstehen und ausdrücken",
+      "app_area": "MA-page912_1753",
+      "status": "Sprachlicher Teilanschluss · FSP-Bemerkungsbeleg · didaktische Konkretisierung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Preisvergleichsformulierungen aus187113 unter Kennen1912",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Vergleich billig–teuer als Bemerkung37913; Geldbeträge vergleichen37926 und Einheiten37921 unter Einblick gewinnen37913",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender sprachlicher Teilanschluss GS 1/2 → FSP 1/2. GS187113 fordert Preisvergleichsformulierungen unter Kennen1912. FSP nennt Vergleich: billig–teuer in der Bemerkung37913 unter Einblick gewinnen;37926 belegt Vergleichen von Geldbeträgen. Die relative Bedeutung teurer/billiger bzw. kostet mehr/weniger wird daraus für zwei konkret verglichene Preise didaktisch erschlossen. Diese vier Formulierungen stehen nicht wörtlich als FSP-Zielliste im Lehrplan. GS formuliert einen Preisvergleich; FSP versteht mit sprachlicher Unterstützung eine entsprechende Vergleichsaussage. Keine pauschale Bewertung einer Ware als billig oder teuer und kein Vergleich von Personen als arm/reich. Ganze Preise derselben Einheit bis20 Euro oder bis20 Cent werden aus Zahlaufbau37739 und Zahlenraumhinweis37926 didaktisch abgeleitet; keine eigene Geldobergrenze der Zielzeilen. Das GS-Feinziel wählt ebenfalls20. Vollständige selbstständige Verwendung aller GS-Fachbegriffe und Schreibweisen bleibt offen.",
+      "gs_target_ids": [
+        "page912_1912",
+        "page912_187113"
+      ],
+      "fsp_target_ids": [
+        "page139_37913",
+        "page139_37921",
+        "page139_37926"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1912",
+        "Q-MA-page912_187113",
+        "Q-MA-page139_37913",
+        "Q-MA-page139_37921",
+        "Q-MA-page139_37926",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender sprachlicher Teilanschluss GS 1/2 → FSP 1/2. GS187113 fordert Preisvergleichsformulierungen unter Kennen1912. FSP nennt Vergleich: billig–teuer in der Bemerkung37913 unter Einblick gewinnen;37926 belegt Vergleichen von Geldbeträgen. Die relative Bedeutung teurer/billiger bzw. kostet mehr/weniger wird daraus für zwei konkret verglichene Preise didaktisch erschlossen. Diese vier Formulierungen stehen nicht wörtlich als FSP-Zielliste im Lehrplan. GS formuliert einen Preisvergleich; FSP versteht mit sprachlicher Unterstützung eine entsprechende Vergleichsaussage. Keine pauschale Bewertung einer Ware als billig oder teuer und kein Vergleich von Personen als arm/reich. Ganze Preise derselben Einheit bis20 Euro oder bis20 Cent werden aus Zahlaufbau37739 und Zahlenraumhinweis37926 didaktisch abgeleitet; keine eigene Geldobergrenze der Zielzeilen. Das GS-Feinziel wählt ebenfalls20. Vollständige selbstständige Verwendung aller GS-Fachbegriffe und Schreibweisen bleibt offen.",
+      "shared_object_suggestion": "Zwei Preise im Vergleich: Ein höherer Preis bedeutet teurer, ein niedrigerer Preis billiger – jeweils gegenüber dem anderen Angebot.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind beschreibt den Preisunterschied zwischen zwei vergleichbaren Angeboten mit einer passenden Formulierung aus teurer als, billiger als, kostet mehr als oder kostet weniger als; die ganzen Preise liegen in derselben Einheit bis 20 Euro oder bis 20 Cent.",
+          "criterion": "Vergleichsrichtung und Bezugsangebot sind eindeutig und stimmen mit den beiden Preisen überein. Eine passende Formulierung genügt für diesen Ausschnitt; freie Verwendung aller vier Wendungen wird nicht als erreicht gewertet. Beide Preise und alle relevanten Zwischen- und Endwerte liegen bis 20 derselben Einheit; keine Differenzberechnung, gemischten Einheiten oder Umrechnung.",
+          "status": "Didaktische Konkretisierung unter Kennen1912; relativer Preisvergleich mit einer passenden Wendung. Bis20 gewählt, keine amtliche GS-Geldobergrenze."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind versteht mit sprachlicher Unterstützung eine vorliegende Aussage darüber, welches von zwei vergleichbaren Angeboten teurer oder billiger ist beziehungsweise mehr oder weniger kostet, bei ganzen Preisen derselben Einheit bis 20 Euro oder bis 20 Cent.",
+          "criterion": "Die Aussage ist dem Angebot mit dem höheren beziehungsweise niedrigeren Preis zutreffend zugeordnet; das andere Angebot bleibt als Vergleichsbezug erkennbar. Alle Preise und relevanten Zwischen- und Endwerte sind nichtnegative ganze Werte bis 20 in derselben Einheit. Ein unterstütztes Verstehen einer Wendung genügt; eigenständiges Formulieren aller vier Wendungen, Preisunterschied ausrechnen und allgemeine Preisbewertung werden nicht zusätzlich verlangt.",
+          "status": "Didaktische sprachliche Konkretisierung des Bemerkungsbelegs billig–teuer37913 im Geldvergleich37926. Kein wörtlicher FSP-Auftrag zur gesamten GS-Formulierungsliste. Zahlenrahmen aus übergreifendem Ziel37739 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 Euro oder bis 20 Cent · relative Preisbedeutung · didaktisch abgeleitet",
+        "detail": "37913 enthält billig–teuer als Vergleich in der Bemerkung;37926 nennt Geldbeträge vergleichen und fordert in der Bemerkung, den Zahlenraum zu beachten.37739 nennt Zahlaufbau bis20. Der Rahmen ganzer Preise bis20 in einer Einheit ist didaktisch abgeleitet, keine wörtliche Geldobergrenze. Euro/Cent sind in37921 belegt. GS1912/187113 nennen ebenfalls keine eigene Obergrenze; bis20 ist für das GS-Feinziel gewählt.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37913",
+          "Q-MA-page139_37926",
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Zwei unterschiedliche nichtnegative ganze Preise bis 20 in derselben Einheit Euro oder Cent vergleichen. Beide Preise sowie alle relevanten Zwischen- und Endwerte bleiben bis 20; keine Differenzberechnung oder zusätzliche Rechnung verlangen. Vergleichsangebote müssen sich auf dieselbe Bezugsmenge und einen für den reinen Preisvergleich geklärten Sachverhalt beziehen; keine Menge-Preis-Umrechnung, Qualitätsbewertung oder allgemeine Behauptung billig/teuer. Die Vergleichsaussage bezeichnet die Relation zum jeweils anderen Angebot. Bei gleichen Preisen passt keine der hier ausgewählten strikten Vergleichswendungen. Keine gemischten Einheiten oder Kommaschreibweise. Konkrete Angebote, Sprache und Unterstützung prüft die Lehrkraft; eigene Entwürfe werden nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187113 ist eine sprachliche Unterzielzeile unter Kennen1912. Vier Preisvergleichsformulierungen stehen im Zieltext; die Karte wählt einen relationalen Gebrauch, keine vollständige Sprachbeherrschung.1912 bleibt Kontext.",
+        "fsp": "Billig–teuer steht als Vergleich in der Bemerkung des Hauptziels37913;37926 belegt die Geldvergleichshandlung. Die vergleichende Bedeutung mit einem ausdrücklich genannten zweiten Angebot und die Umschreibung kostet mehr/weniger sind didaktische Konkretisierungen. Keine erfundene FSP-Zielzeile mit diesen vier Formulierungen.",
+        "fsp_remark_anchors": [
+          "page139_37913",
+          "page139_37926"
         ],
         "context_only_gs_ids": [
           "page912_1912"
