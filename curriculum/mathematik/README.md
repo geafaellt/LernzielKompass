@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-059
+# Mathematik-Abgleich · MA-060
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Sechsundsechzig Karten dokumentieren begrenzte Anschlüsse. Sechsundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Siebenundsechzig Karten dokumentieren begrenzte Anschlüsse. Siebenundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Längen-Sachsituationen187121, danach Begriffen187122. [MA-059](review_batch_059.json) dokumentiert Einheitenwahl/Umrechnen187120 als offene Anschlussfrage mit positiven FSP-Gegenbezügen.66 Karten,14 Anschlussfragen und117 Inventurzeilen; keine neue App-Version oder Karte. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Längenbegriffen187122. [MA-060](review_batch_060.json) ergänzt MA-067 für additive Längensachsituationen187121 in ganzen Metern mit didaktisch abgeleitetem Rechenrahmen bis20.67 Karten,14 Anschlussfragen und117 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -660,3 +660,12 @@ GS187120 bleibt Anschlussfrage. Einheitenwahl, benachbartes Umrechnen und die Be
 Keine Umwandlung35518 und keine Umwandlungen35519 sind kontextgebundene Bemerkungen; daraus wird kein generelles Umrechnungsverbot abgeleitet. Explizite Umrechnungsziele38165,38389 und38417 wurden unter FSP5/6 verortet und werden nicht in den1–4-Abgleich übernommen. Keine neue Nichtanschlussentscheidung. Bestehende Karten, Feinziele, Kriterien, Quellenanker und App1.370 bleiben unverändert.
 
 66 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen. Eine neue Anschlussfrage, keine neue Teildeckung oder Karte. Vor dem Gesamtabgleichsabschluss muss187120 nochmals geklärt werden. Fortsetzung187121. Deutsch-, Mathematik- und Zahlenraumprüfungen bestanden. Alle Karten, Kriterien und Geltungsbereiche unverändert; nur fünf Audit-/Dokumentationsdateien geändert. App-Dateien und Modul bytegleich zu App1.370. Keine neue Browserprüfung oder App-Erstellung nötig; bestehende MA-058-Nachweise bleiben erhalten. Audit mit Commit 7161e8af94a275ddb3e7a09f3391139ad40753f9 veröffentlicht; [Pages-Lauf 43226912929](https://github.com/geafaellt/LernzielKompass/actions/runs/43226912929) erfolgreich. Die tatsächlich ausgelieferte App1.370 ist bytegleich zum unveränderten Prüfstand (SHA256 a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1). Keine neue Browserprüfung behauptet; MA-058-Nachweise bleiben gültig für den unveränderten App-Stand.
+
+
+## MA-060 · App 1.371 · 12.11.2026
+
+MA-067 verbindet GS187121 mit dem ausdrücklichen FSP1/2-Ziel Rechnen mit Längen37976. Beide Hauptoperatoren bleiben Kennen1922/37961. Zwei additive Teilstrecken und ihre Gesamtlänge in ganzen Metern sind didaktisch konkretisiert. FSP3/4-Rechnen35520 unter Übertragen35511 ist als positiver weiterführender Kandidat geprüft; der passende1/2-Anschluss hat Vorrang.
+
+Keine numerische Höchstlänge in den Längenzielzeilen. Für dieses Rechenfeinziel ist der Rahmen bis20 aus dem übergreifenden FSP-Operationsziel37739 abgeleitet und ausdrücklich als didaktisch markiert. Auch Gesamtlänge und relevante Zwischen-/Endwerte müssen darin bleiben. Das GS-Feinziel wählt denselben Rahmen,ohne den GS-Lehrplan darauf zu begrenzen. Keine Übertragung der20 auf vorhandene Mess-,Vergleichs- oder Schätzkarten. Keine zusätzliche Messung,Umrechnung oder Kommaschreibweise. Aufgaben,Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Alle66 vorhandenen Karten,offenen Fragen und bisherigen Resttexte unverändert.67 Karten (47 stufenbandpassend,20 stufenübergreifend),185 Quellen,183 Zielanker,117 Inventurzeilen,14 Anschlussfragen und fünf Nichtanschlussentscheidungen. Eine neue Teilprüfung,keine Vollabdeckung von187121. Weitere Sachstrukturen,Rechenarten,Einheiten und selbstständige Sacherschließung bleiben offen. Fortsetzung187122. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 67 Mathematikkarten in neun frischen Browsergruppen erfolgreich geprüft; alle 380 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 66-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-067 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlichung und öffentliche Prüfung noch ausstehend.

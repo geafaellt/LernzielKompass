@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.7",
+  "version": "MA-2026-11-12.8",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1208,6 +1208,18 @@
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187119",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187121",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187121",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37976",
+      "title": "FSP Lernen Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37976",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -6598,6 +6610,87 @@
         "fsp_remark_anchors": [
           "page139_37967",
           "page139_37974"
+        ],
+        "context_only_gs_ids": [
+          "page912_1922"
+        ]
+      }
+    },
+    {
+      "id": "MA-067",
+      "subject": "Mathematik",
+      "theme": "Gesamtlänge aus zwei Teilstrecken",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · additive Längensachsituation · Meter",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · einfache Sachaufgaben und Rechnen mit Längen 187121 unter Kennen 1922",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Rechnen mit Längen in Sachsituationen 37976, Meter 37974 unter Kennen 37961",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: die Gesamtlänge aus zwei Teilstrecken in Metern in einer einfachen Sachsituation ermitteln. Rechnen mit Längen steht auf beiden Seiten im Unterziel (GS 187121, FSP 37976); die Hauptoperatoren bleiben Kennen (1922/37961). Der FSP-Bezug zur Alltags- und Umwelterfahrung steht in der Bemerkung. Die additive Teil-Ganzes-Struktur, zwei ganze Meterangaben und der Rahmen bis 20 sind didaktische Konkretisierungen. Die Längenzielzeilen nennen keine eigene numerische Obergrenze. Für das FSP-Feinziel wird der Rechenrahmen aus dem übergreifenden Additions-/Subtraktionsziel bis 20 (37739) abgeleitet, einschließlich aller Zwischen- und Endergebnisse. Dies ist keine amtliche Höchstlänge von 20 m. Das GS-Feinziel verwendet denselben gewählten Rahmen, ohne das GS-Lehrplanziel darauf zu begrenzen. Keine vollständige GS-Zieldeckung. Andere Sachstrukturen, Rechenarten, Einheiten, Umrechnungen und Kommaschreibweisen bleiben außerhalb dieser Karte.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_187121"
+      ],
+      "fsp_target_ids": [
+        "page139_37961",
+        "page139_37974",
+        "page139_37976"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_187121",
+        "Q-MA-page139_37961",
+        "Q-MA-page139_37974",
+        "Q-MA-page139_37976",
+        "Q-MA-page139_37739"
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: die Gesamtlänge aus zwei Teilstrecken in Metern in einer einfachen Sachsituation ermitteln. Rechnen mit Längen steht auf beiden Seiten im Unterziel (GS 187121, FSP 37976); die Hauptoperatoren bleiben Kennen (1922/37961). Der FSP-Bezug zur Alltags- und Umwelterfahrung steht in der Bemerkung. Die additive Teil-Ganzes-Struktur, zwei ganze Meterangaben und der Rahmen bis 20 sind didaktische Konkretisierungen. Die Längenzielzeilen nennen keine eigene numerische Obergrenze. Für das FSP-Feinziel wird der Rechenrahmen aus dem übergreifenden Additions-/Subtraktionsziel bis 20 (37739) abgeleitet, einschließlich aller Zwischen- und Endergebnisse. Dies ist keine amtliche Höchstlänge von 20 m. Das GS-Feinziel verwendet denselben gewählten Rahmen, ohne das GS-Lehrplanziel darauf zu begrenzen. Keine vollständige GS-Zieldeckung. Andere Sachstrukturen, Rechenarten, Einheiten, Umrechnungen und Kommaschreibweisen bleiben außerhalb dieser Karte.",
+      "shared_object_suggestion": "Zwei Teilstrecken und ihre gemeinsame Gesamtlänge.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt in einer einfachen Längensachsituation die additive Beziehung zweier Teilstrecken und ermittelt ihre Gesamtlänge; die Angaben sind ganze Meterwerte im didaktisch gewählten Rahmen bis 20.",
+          "criterion": "Die zwei relevanten Teilstrecken und ihre additive Beziehung sind zutreffend erkannt. Die errechnete Gesamtlänge beantwortet die Frage mit der Einheit Meter. Beide Ausgangswerte, die Gesamtlänge sowie alle relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Meterwerte bis 20. Eine Umrechnung, zusätzliche Messung oder Kommaschreibweise wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung des Unterziels 187121 unter Kennen 1922. Additive Teil-Ganzes-Struktur und Rahmen bis 20 sind für dieses Feinziel gewählt, keine amtliche GS-Längenobergrenze."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt in einer vertrauten, gemeinsam erschlossenen Längensachsituation den Zusammenhang zweier Teilstrecken mit ihrer Gesamtlänge und ermittelt diese durch Addition ganzer Meterwerte bis 20.",
+          "criterion": "Beide Teilstrecken sind der geklärten Situation zutreffend zugeordnet; Addition, Gesamtlänge und Einheit Meter stimmen überein. Alle Ausgangswerte sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben nichtnegativ, ganzzahlig und bis 20 in Metern. Die Gesamtlänge darf 20 auch dann nicht überschreiten, wenn beide Teilwerte einzeln darunter liegen. Umrechnung, zusätzliche Messung und Kommaschreibweise sind nicht Bestandteil dieses Feinziels.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Konkretisierung von Rechnen mit Längen 37976 unter Kennen 37961. Gemeinsam erschlossener Sachbezug; additive Teil-Ganzes-Struktur und ganze Meterwerte didaktisch gewählt. Rechenrahmen bis 20 aus übergreifendem Ziel 37739 abgeleitet, keine wörtliche Höchstlänge."
+        }
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Ganze Meterwerte bis 20 einschließlich Gesamtlänge · didaktisch abgeleiteter Rechenrahmen",
+        "detail": "37976 nennt Rechnen mit Längen in Sachsituationen ohne numerische Obergrenze; 37974 belegt Meter. Das übergreifende Stufenbandziel 37739 nennt Addition und Subtraktion bis 20. Für diesen additiven Ausschnitt wird daraus ein Rahmen für ganze Meterwerte bis 20 einschließlich aller Ergebnisse abgeleitet. Eine allgemeine Höchstlänge von 20 m steht nicht im Lehrplan. Auch GS 1922/187121 nennt keine eigene Obergrenze; der GS-Feinzielrahmen bis 20 ist eine didaktische Auswahl.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739",
+          "Q-MA-page139_37974",
+          "Q-MA-page139_37976"
+        ],
+        "planning_rule": "Nur zwei nichtnegative ganze Meterwerte und ihre additive Gesamtlänge im abgeleiteten Rahmen bis 20 verwenden. Beide Teilwerte, Gesamtlänge und sämtliche relevanten Zwischen- und Endergebnisse müssen darin bleiben; zulässige Einzelwerte allein reichen nicht aus. Ganze Meterwerte und die additive Sachstruktur sind didaktische Eingrenzungen, keine ausschließlichen Vorgaben der Längenzielzeile. Ein gemeinsamer, fachlich geklärter Sachbezug muss vorliegen. Keine wechselnden oder gemischten Einheiten, Kommaschreibweise, Umrechnung, mehrschrittige Rechnung oder zusätzliche Messung in diesem Feinziel. Der Rahmen gilt nur für diese Rechenkonkretisierung und ändert keine Mess-, Vergleichs- oder Schätzkarte. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Entwürfe gesondert prüfen; Freitext ist nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "187121 ist verbindliches Unterziel unter Kennen 1922; der Verweis auf Zahl und Operation steht in der Bemerkung. 1922 bleibt Hauptzielkontext. Additive Teil-Ganzes-Struktur, zwei Teilstrecken und ganze Meterwerte sind didaktisch ausgewählt.",
+        "fsp": "37976 ist verbindliches Rechen-Unterziel unter Kennen 37961, keine bloße Bemerkung. Alltags-/Umweltbezug und Verweis auf LB 2 stehen in der Bemerkung. 37974 belegt Meter; 37739 ist übergreifender Zahlenraum- und Sacherschließungskontext und ersetzt den Hauptoperator nicht. Keine neue amtliche Höchstlänge erfunden.",
+        "fsp_remark_anchors": [
+          "page139_37976"
         ],
         "context_only_gs_ids": [
           "page912_1922"

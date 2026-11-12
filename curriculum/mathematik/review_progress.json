@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-059",
+  "last_batch": "MA-060",
   "complete": false,
   "counts": {
-    "cards": 66,
+    "cards": 67,
     "cross_band": 20
   },
   "source_plans": {
@@ -2312,10 +2312,36 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187121": {
+      "id": "page912_187121",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Lösen von Sachaufgaben mit einfacher Struktur und Rechnen mit Längen in Sachsituationen",
+      "remarks": "➔ LB Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187121",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_37976": {
+      "id": "page139_37976",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Rechnen mit Längen in Sachsituationen",
+      "remarks": "Bezug zur Alltags- und Umwelterfahrung ⇒ Bildung für nachhaltige Entwicklung ➔ LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37976",
+      "grade": "1/2",
+      "area_id": "MA-page139_37745",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187121",
-  "next_step": "GS1/2 einfache Längen-Sachsituationen und Rechnen187121 gegen beide FSP-Bänder prüfen, danach Längenbegriffe187122.187120 bleibt neue Anschlussfrage: Einheitenwahl, vorbereitender Größen-/Maßzahlbezug und benachbarte Umrechnungen getrennt abgrenzen; m/cm wegen dm nicht als unmittelbar benachbart ausgeben. FSP35515 bleibt positiver Bezug.66 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.370 unverändert. Audit veröffentlicht; unveränderte App1.370 live bytegleich bestätigt. Nachweise in MA-059.",
+  "next_id": "page912_187122",
+  "next_step": "GS1/2 Längenbegriffe und Vergleichssprache187122 gegen beide FSP-Bänder prüfen; bestehende MA-004 (Vergleich) und MA-063 bis MA-067 berücksichtigen und keine doppelte Inhaltszählung erzeugen. Danach nächsten offenen GS-Zielblock inventarisieren. MA-067 deckt nur additive Längensachsituationen in ganzen Metern mit abgeleitetem Rechenrahmen bis20 einschließlich aller Ergebnisse.67 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten; gemischte Angaben187116,Einheitenwahl/Umrechnen187120 und weitere Restumfänge bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2548,7 +2574,7 @@
       "decision": "FSP1/2-Messen in Metern ist belegt und als MA-063 bevorzugt. Für den eigenständigen Ausschnitt punktbegrenzte Strecken in ganzen Zentimetern ist35516 unter Übertragen35511 der ausdrückliche3/4-Beleg. Kein Ausschluss allein wegen kleinerem Zahlenraum. Nicht das gesamte GS-Messziel wird stufenübergreifend zugeordnet."
     }
   },
-  "last_review_file": "review_batch_059.json",
+  "last_review_file": "review_batch_060.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3145,6 +3171,12 @@
       "scope": "Schätzen mit weiteren Längeneinheiten, mehreren oder selbstständig ausgewählten Stützpunkten, flexibler Strategiewahl und differenzierter Genauigkeit; selbstständige Überprüfung oder Weiterentwicklung einer Schätzung durch Messung. MA-066 erfasst nur erste Meter-Schätzerfahrungen in einem vorher festgelegten Zahlen-/Darstellungs- und Genauigkeitsrahmen. FSP3/4-Schätzen35514 unter Übertragen35511 mit Meter-/Zentimeterangabe sowie Repräsentanten35515 sind positive weiterführende Bezüge, keine begründeten Nichtanschlüsse. Keine vollständige GS-Zieldeckung, kein automatischer Mess-, Umrechnungs- oder Rechenanschluss.",
       "status": "offen",
       "review": "MA-058"
+    },
+    {
+      "gs_id": "page912_187121",
+      "scope": "Weitere einfache Sachstrukturen (unter anderem Rest-/Differenz- und Ergänzungsbezüge), weitere Rechenoperationen, selbstständige umfassende Sacherschließung und Strategiewahl sowie andere Einheiten und Darstellungsformen. MA-067 erfasst nur zwei additive Teilstrecken in ganzen Metern und eine Gesamtlänge bis zum didaktisch abgeleiteten Rechenrahmen 20. Keine vollständige GS-Zieldeckung; der allgemeine GS-Arithmetikrahmen bis 100 wird nicht durch diese Auswahl ersetzt. FSP3/4-Rechnen35520 unter Übertragen35511 und die weiteren Einheiten-/Strategiebezüge sind positive weiterführende Kandidaten. Umrechnen187120 und gemischte Angaben187116 bleiben eigene Anschlussfragen; aus den Notationsbemerkungen35518/35519 wird kein globales Rechenverbot abgeleitet.",
+      "status": "offen",
+      "review": "MA-060"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3168,7 +3200,7 @@
       "page912_1922"
     ],
     "rows": 117,
-    "note": "117 inventarisierte Zeilen,66 Karten (20 stufenübergreifend). MA-059 prüft187120 als offene Anschlussfrage mit positiven Gegenbezügen; keine neue Karte, Teildeckungs- oder Nichtanschlussentscheidung.1922 nur Hauptzielkontext.14 Anschlussfragen und fünf Nichtanschlussentscheidungen. Fortsetzung187121. App1.370 und sämtliche Karten unverändert.",
+    "note": "117 inventarisierte Zeilen,67 Karten (20 stufenübergreifend). MA-060 prüft187121 teilweise durch MA-067: zwei additive Teilstrecken in Metern,Rechenrahmen bis20 didaktisch abgeleitet.1922 nur Kontext. Keine neue Inventurzeile;14 Anschlussfragen und fünf Nichtanschlussentscheidungen unverändert. Fortsetzung187122.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3287,6 +3319,14 @@
         "MA-066"
       ],
       "note": "Keine Höchstlänge, Genauigkeit oder Trefferquote belegt. Zahlen-/Darstellungs- und Genauigkeitsrahmen vorher festlegen; sämtliche Referenz-/Schätz- und relevante Zwischen-/Endwerte darin halten. Historische Scope-Prüfungen unverändert."
+    },
+    "follow_up_length_arithmetic": {
+      "batch": "MA-060",
+      "card": "MA-067",
+      "status": "derived",
+      "max_value": 20,
+      "source": "page139_37739",
+      "note": "Nur Rechenrahmen des additiven Feinziels einschließlich Zwischen-/Endwerten didaktisch bis20; keine amtliche Höchstlänge und keine Übertragung auf Mess-/Schätzkarten. Alle bisherigen66 Karten unverändert."
     }
   },
   "publication_recheck": {
@@ -3307,13 +3347,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-058",
-    "status": "verified",
-    "app_version": "1.370",
-    "app_commit": "5966a55245f30d174b025cf38fad179564f45291",
-    "pages_run": 43220251168,
-    "live_sha256": "a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1",
-    "browser": "targeted MA-066 live in both GS grades and mobile320/390 passed;all66 local in9 subsets"
+    "batch": "MA-060",
+    "status": "pending",
+    "app_version": "1.371",
+    "previous_verified_version": "1.370"
   },
   "latest_audit_publication": {
     "batch": "MA-059",
