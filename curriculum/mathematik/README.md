@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-058
+# Mathematik-Abgleich · MA-059
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Einheitenwahl/Umrechnen187120, danach Längen-Sachsituationen187121. [MA-058](review_batch_058.json) ergänzt erste Meter-Schätzerfahrungen MA-066 unter187119.66 Karten,13 Anschlussfragen und117 Inventurzeilen; gemischte Längenangaben187116 bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Längen-Sachsituationen187121, danach Begriffen187122. [MA-059](review_batch_059.json) dokumentiert Einheitenwahl/Umrechnen187120 als offene Anschlussfrage mit positiven FSP-Gegenbezügen.66 Karten,14 Anschlussfragen und117 Inventurzeilen; keine neue App-Version oder Karte. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -651,3 +651,12 @@ MA-066 verbindet GS-Schätzen187119 mit ersten Schätzerfahrungen in FSP1/2. Bei
 Keine Höchstlänge, feste Fehlertoleranz oder Trefferquote belegt. Zahlenbereich, vertraute Darstellungsform und angemessenen Genauigkeitsrahmen vorher festlegen; alle Referenz-/Schätz- und relevanten Zwischen-/Endwerte darin halten. Ungefähre Angabe nicht als exakten Messwert behandeln. Keine zusätzliche Messung, Umrechnung, Rundung oder Längenrechnung. Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung.
 
 Alle65 bisherigen Karten, offenen Fragen und Resttexte unverändert.66 Karten (46 stufenbandpassend,20 stufenübergreifend),183 Quellen,181 Zielanker,117 Inventurzeilen,13 Anschlussfragen und fünf Nichtanschlussentscheidungen. Eine neue Teilprüfung, keine Vollabdeckung von187119. Weitere Einheiten, Strategien und selbstständige Schätzüberprüfung bleiben offen. Fortsetzung187120. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 66 Mathematikkarten in neun frischen Browsergruppen erfolgreich geprüft; alle 379 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 66-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-066 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlicht mit Commit 5966a55245f30d174b025cf38fad179564f45291 und erfolgreichem [Pages-Lauf 43220251168](https://github.com/geafaellt/LernzielKompass/actions/runs/43220251168). App 1.370 ist live bytegleich zum geprüften Stand (SHA256 a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1). Öffentliche Prüfung von MA-066 in beiden GS-Jahrgängen einschließlich Ziel-/Kriterienübernahme, Quellen, vorab festzulegendem Zahlen-/Darstellungs- und Genauigkeitsrahmen, Entwurfserhalt, Fachwechsel und Neuladen bestanden; zusätzlich direkt bei 320px und 390px an Karte und Zielen ohne horizontalen Überlauf geprüft. Kein vollständiger 66-Karten-Livedurchlauf behauptet.
+
+
+## MA-059 · Audit ohne App-Änderung · 12.11.2026
+
+GS187120 bleibt Anschlussfrage. Einheitenwahl, benachbartes Umrechnen und die Bemerkungsaspekte größere Einheit/gleiche Strecke bei anderer Maßzahl wurden getrennt gegen beide FSP-Bänder geprüft. FSP3/4 nennt1m=100cm ausdrücklich. Dieser positive Gegenbezug ist weder ein allgemeines Umrechnungsverfahren noch eine Höchstlänge. Innerhalb der GS-Einheitenfolge mm,cm,dm,m sind m/cm wegen dm nicht unmittelbar benachbart. Ein vorbereitender Anschluss zur Größeninvarianz/Einheitenbeziehung bleibt gesondert abzugrenzen.
+
+Keine Umwandlung35518 und keine Umwandlungen35519 sind kontextgebundene Bemerkungen; daraus wird kein generelles Umrechnungsverbot abgeleitet. Explizite Umrechnungsziele38165,38389 und38417 wurden unter FSP5/6 verortet und werden nicht in den1–4-Abgleich übernommen. Keine neue Nichtanschlussentscheidung. Bestehende Karten, Feinziele, Kriterien, Quellenanker und App1.370 bleiben unverändert.
+
+66 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen. Eine neue Anschlussfrage, keine neue Teildeckung oder Karte. Vor dem Gesamtabgleichsabschluss muss187120 nochmals geklärt werden. Fortsetzung187121. Deutsch-, Mathematik- und Zahlenraumprüfungen bestanden. Alle Karten, Kriterien und Geltungsbereiche unverändert; nur fünf Audit-/Dokumentationsdateien geändert. App-Dateien und Modul bytegleich zu App1.370. Keine neue Browserprüfung oder App-Erstellung nötig; bestehende MA-058-Nachweise bleiben erhalten. Veröffentlichung und öffentliche Prüfung des unveränderten App-Stands noch ausstehend.
