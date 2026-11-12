@@ -2289,7 +2289,7 @@
     }
   },
   "next_id": "page912_187118",
-  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Längen187118 gegen beide FSP-Bänder prüfen, danach Schätzen187119. Bestehende MA-004, MA-062 und neue MA-063/064 trennen Vergleich, Kommanotation und Messausschnitte; nicht doppelt zählen. Gemischte Längenangaben187116 bleiben Anschlussfrage.64 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden.",
+  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Längen187118 gegen beide FSP-Bänder prüfen, danach Schätzen187119. Bestehende MA-004, MA-062 und neue MA-063/064 trennen Vergleich, Kommanotation und Messausschnitte; nicht doppelt zählen. Gemischte Längenangaben187116 bleiben Anschlussfrage.64 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten; fehlende Längenobergrenzen nicht erfinden. App 1.368 veröffentlicht und live geprüft; Nachweise in MA-056.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3230,8 +3230,11 @@
   },
   "latest_publication": {
     "batch": "MA-056",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.368",
-    "previous_verified_version": "1.367"
+    "app_commit": "1d267ec3fd4b7596d628189fc2a800c35a39a210",
+    "pages_run": 43198399995,
+    "live_sha256": "ea879a52188f00abddd755264c21b1e5792590e0910b92ca074ff9670c6f96ea",
+    "browser": "targeted MA-063/064 live in both GS grades and mobile320/390 passed;all64 local in8 subsets"
   }
 }
