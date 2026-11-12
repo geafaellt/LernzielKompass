@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.3",
+  "version": "MA-2026-11-12.4",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1154,6 +1154,30 @@
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187115",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187117",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187117",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35511",
+      "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35514",
+      "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35518",
+      "title": "FSP Mathematik 3/4 · Lernbereich 3: Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35518",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -6166,6 +6190,83 @@
         ],
         "context_only_gs_ids": [
           "page912_1912"
+        ]
+      }
+    },
+    {
+      "id": "MA-062",
+      "subject": "Mathematik",
+      "theme": "Meterangaben mit zwei Dezimalstellen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · stufenübergreifend · Kommaschreibweise ohne Umwandlung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Darstellen von Längen1923 in Kommaschreibweise187117 unter Kennen1922; Ausschnitt Meter mit zwei Dezimalstellen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 3: Natur entdecken und erleben · Kommaschreibweise der Einheit Meter mit zwei Dezimalstellen35518 im Längenziel35514 unter Übertragen35511",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Kennen · FSP: Übertragen. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Meterangaben in Kommaschreibweise mit zwei Dezimalstellen lesen und notieren. GS-Kennen stammt aus1922,FSP-Übertragen aus35511. Zwei Dezimalstellen stehen ausdrücklich im FSP-Unterziel35518; verschiedene Schreib-/Sprechweisen und keine Umwandlung stehen in dessen Bemerkung. Lesen und Notieren sind die didaktische Konkretisierung dieses Notationsausschnitts. Kein Wechsel zu Meter-plus-Zentimeter-Angaben,keine Gesamtzentimeter-Umrechnung und keine Längenrechnung. Die Beispiele2,50m/2,05m sind keine Höchstlängen; die Zielzeilen nennen keine numerische Obergrenze. Zahlenbereich vorab festlegen,alle relevanten Werte darin halten. FSP1/2-Meterangaben sind ein positiver Vorbezug,belegen aber diese konkrete Dezimalnotation nicht ausdrücklich; der kleinere Zahlenraum ist nicht das Ausschlussargument. Keine vollständige GS-Zieldeckung und keine Freigabe der Angaben mit zwei Einheiten187116.",
+      "gs_target_ids": [
+        "page912_1922",
+        "page912_1923",
+        "page912_187117"
+      ],
+      "fsp_target_ids": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35518"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1922",
+        "Q-MA-page912_1923",
+        "Q-MA-page912_187117",
+        "Q-MA-page139_35511",
+        "Q-MA-page139_35514",
+        "Q-MA-page139_35518"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Meterangaben in Kommaschreibweise mit zwei Dezimalstellen lesen und notieren. GS-Kennen stammt aus1922,FSP-Übertragen aus35511. Zwei Dezimalstellen stehen ausdrücklich im FSP-Unterziel35518; verschiedene Schreib-/Sprechweisen und keine Umwandlung stehen in dessen Bemerkung. Lesen und Notieren sind die didaktische Konkretisierung dieses Notationsausschnitts. Kein Wechsel zu Meter-plus-Zentimeter-Angaben,keine Gesamtzentimeter-Umrechnung und keine Längenrechnung. Die Beispiele2,50m/2,05m sind keine Höchstlängen; die Zielzeilen nennen keine numerische Obergrenze. Zahlenbereich vorab festlegen,alle relevanten Werte darin halten. FSP1/2-Meterangaben sind ein positiver Vorbezug,belegen aber diese konkrete Dezimalnotation nicht ausdrücklich; der kleinere Zahlenraum ist nicht das Ausschlussargument. Keine vollständige GS-Zieldeckung und keine Freigabe der Angaben mit zwei Einheiten187116.",
+      "shared_object_suggestion": "Eine Länge in Metern: Komma und zwei Nachkommastellen gehören zur selben Größenangabe.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind liest und notiert bereits in ihrer Bedeutung geklärte Meterangaben in Kommaschreibweise mit zwei Dezimalstellen im vorab festgelegten Zahlenraum.",
+          "criterion": "Zahlenwert,Komma,beide Nachkommastellen und Einheit Meter bleiben beim Lesen und Notieren erhalten; auch eine Null an einer Nachkommastelle wird richtig berücksichtigt. Alle nichtnegativen Längenangaben und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Keine Umwandlung in zwei Einheiten oder Gesamtzentimeter,keine Rundung und keine Längenrechnung.",
+          "status": "Didaktische Konkretisierung unter Kennen1922; ausgewählte Meter-Kommaschreibweise. Zwei Dezimalstellen grenzen den gemeinsamen Ausschnitt ein,keine vollständige GS-Notationsdeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind liest und notiert bereits in ihrer Bedeutung geklärte Meterangaben mit zwei Dezimalstellen in einem Umweltbezug und im vorab festgelegten Zahlenraum.",
+          "criterion": "Gesprochene und geschriebene Kommazahl bezeichnen dieselbe Länge in Metern. Komma,beide Dezimalstellen,einschließlich vorkommender Nullen,und Einheit bleiben richtig zugeordnet. Sämtliche nichtnegativen Längenangaben und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Einheitenwechsel,gemischte Meter-Zentimeter-Angaben,Runden und Rechnen werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung des Zieltexts35518 mit Bemerkung Schreib-/Sprechweisen und keine Umwandlung unter Übertragen35511. Numerische Obergrenze nicht belegt,vor Verwendung festlegen.",
+          "scope_status": "unspecified"
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Meter mit zwei Dezimalstellen · Zahlenbereich vorab festlegen · keine Umwandlung",
+        "detail": "35518 fordert ausdrücklich zwei Dezimalstellen bei der Einheit Meter,nennt aber keine größte Länge. Die Beispiele2,50m/2,05m in der Bemerkung sind keine Obergrenze. Auch das Verhältnis1m=100cm aus35515 und der allgemeine arithmetische Bandrahmen bis100 sind keine allgemeine Höchstlänge. GS1922/1923/187117 nennen ebenfalls keine eigene Obergrenze. Die fachliche Notationsgrenze ist belegt; der zulässige Zahlenbereich bleibt vorab festzulegen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35518"
+        ],
+        "planning_rule": "Vor Verwendung einen zu Lernvoraussetzungen und Umweltbezug passenden Zahlenbereich festlegen. Alle nichtnegativen Meterangaben und relevanten Zwischen- und Endwerte müssen darin bleiben. Ausschließlich Kommaschreibweise mit zwei Dezimalstellen verwenden; Komma,Stellen und Nullen müssen den Längenwert korrekt wiedergeben. Die Bedeutung der angegebenen Längen und der Schreibweise muss bereits geklärt sein. Der Bemerkung keine Umwandlung entsprechend kein Wechsel in gemischte Meter-Zentimeter-Angaben und keine Umrechnung in Gesamtzentimeter. Keine Rundung,zusätzlichen Dezimalstellen oder Längenrechnungen ergänzen. Zwei Dezimalstellen sind eine Notationsvorgabe,keine Obergrenze von2,50m,20m oder100m. Konkrete Werte,Aufgaben,Lernhandlungen und Hilfsmittel legt die Lehrkraft fest; eigene Entwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187117 ist der ausgewählte Unterpunkt in Kommaschreibweise unter Darstellen1923 und Kennen1922.1922/1923 dienen dieser Karte als Hauptziel-/Darstellungskontext und werden nicht zusätzlich als vollständig abgedeckte Zeilen gezählt.",
+        "fsp": "35518 ist ausdrücklicher Unterzieltext mit zwei Dezimalstellen unter dem Längenziel35514 und Übertragen35511. Schreib-/Sprechweisen,Beispiele und keine Umwandlung sind Bemerkung35518. Lesen/Notieren und Beachtung der Stellen sind didaktische Konkretisierungen,kein neuer Hauptoperator.",
+        "fsp_remark_anchors": [
+          "page139_35518"
+        ],
+        "context_only_gs_ids": [
+          "page912_1922",
+          "page912_1923"
         ]
       }
     }
