@@ -2302,7 +2302,7 @@
     }
   },
   "next_id": "page912_187119",
-  "next_step": "GS1/2 Schätzen von Längen187119 gegen beide FSP-Bänder prüfen, danach passende Einheiten und Umrechnen187120. MA-065 erfasst nur eine bekannte Meterreferenz; daraus keine allgemeine Schätzkompetenz ableiten. Bestehende MA-004/062/063/064 trennen Vergleich, Notation und Messen.65 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten. Gemischte Angaben187116 bleiben offen; keine Normwerte für Körpermaße und keine Längenobergrenzen erfinden.",
+  "next_step": "GS1/2 Schätzen von Längen187119 gegen beide FSP-Bänder prüfen, danach passende Einheiten und Umrechnen187120. MA-065 erfasst nur eine bekannte Meterreferenz; daraus keine allgemeine Schätzkompetenz ableiten. Bestehende MA-004/062/063/064 trennen Vergleich, Notation und Messen.65 Karten,13 Anschlussfragen und117 Inventurzeilen erhalten. Gemischte Angaben187116 bleiben offen; keine Normwerte für Körpermaße und keine Längenobergrenzen erfinden. App 1.369 veröffentlicht und live geprüft; Nachweise in MA-057.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3255,8 +3255,11 @@
   },
   "latest_publication": {
     "batch": "MA-057",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.369",
-    "previous_verified_version": "1.368"
+    "app_commit": "463c84bed3e110d7cfa20b27022f329bb06d56e2",
+    "pages_run": 43207401450,
+    "live_sha256": "42cf9b1eee44efc3a9e691d6e0f9643351de0a2430193102a8055d63fb969ff8",
+    "browser": "targeted MA-065 live in both GS grades and mobile320/390 passed;all65 local in9 subsets"
   }
 }
