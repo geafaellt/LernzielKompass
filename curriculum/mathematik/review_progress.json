@@ -2341,7 +2341,7 @@
     }
   },
   "next_id": "page912_187122",
-  "next_step": "GS1/2 Längenbegriffe und Vergleichssprache187122 gegen beide FSP-Bänder prüfen; bestehende MA-004 (Vergleich) und MA-063 bis MA-067 berücksichtigen und keine doppelte Inhaltszählung erzeugen. Danach nächsten offenen GS-Zielblock inventarisieren. MA-067 deckt nur additive Längensachsituationen in ganzen Metern mit abgeleitetem Rechenrahmen bis20 einschließlich aller Ergebnisse.67 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten; gemischte Angaben187116,Einheitenwahl/Umrechnen187120 und weitere Restumfänge bleiben offen.",
+  "next_step": "GS1/2 Längenbegriffe und Vergleichssprache187122 gegen beide FSP-Bänder prüfen; bestehende MA-004 (Vergleich) und MA-063 bis MA-067 berücksichtigen und keine doppelte Inhaltszählung erzeugen. Danach nächsten offenen GS-Zielblock inventarisieren. MA-067 deckt nur additive Längensachsituationen in ganzen Metern mit abgeleitetem Rechenrahmen bis20 einschließlich aller Ergebnisse.67 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten; gemischte Angaben187116,Einheitenwahl/Umrechnen187120 und weitere Restumfänge bleiben offen. App 1.371 veröffentlicht und live geprüft; Nachweise in MA-060.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3348,9 +3348,12 @@
   },
   "latest_publication": {
     "batch": "MA-060",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.371",
-    "previous_verified_version": "1.370"
+    "app_commit": "a197f3f538c4b24545e64ad82ae152f601290727",
+    "pages_run": 43237101330,
+    "live_sha256": "9a990c41226506356350c15bf17c022f46ad2027608ec9131f0604cd95a10e17",
+    "browser": "targeted MA-067 live in both GS grades and mobile320/390 passed;all67 local in9 subsets"
   },
   "latest_audit_publication": {
     "batch": "MA-059",
