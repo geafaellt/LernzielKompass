@@ -2315,7 +2315,7 @@
     }
   },
   "next_id": "page912_187121",
-  "next_step": "GS1/2 einfache Längen-Sachsituationen und Rechnen187121 gegen beide FSP-Bänder prüfen, danach Längenbegriffe187122.187120 bleibt neue Anschlussfrage: Einheitenwahl, vorbereitender Größen-/Maßzahlbezug und benachbarte Umrechnungen getrennt abgrenzen; m/cm wegen dm nicht als unmittelbar benachbart ausgeben. FSP35515 bleibt positiver Bezug.66 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.370 unverändert.",
+  "next_step": "GS1/2 einfache Längen-Sachsituationen und Rechnen187121 gegen beide FSP-Bänder prüfen, danach Längenbegriffe187122.187120 bleibt neue Anschlussfrage: Einheitenwahl, vorbereitender Größen-/Maßzahlbezug und benachbarte Umrechnungen getrennt abgrenzen; m/cm wegen dm nicht als unmittelbar benachbart ausgeben. FSP35515 bleibt positiver Bezug.66 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.370 unverändert. Audit veröffentlicht; unveränderte App1.370 live bytegleich bestätigt. Nachweise in MA-059.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3317,7 +3317,10 @@
   },
   "latest_audit_publication": {
     "batch": "MA-059",
-    "status": "pending",
-    "app_version_unchanged": "1.370"
+    "status": "verified",
+    "app_version_unchanged": "1.370",
+    "audit_commit": "7161e8af94a275ddb3e7a09f3391139ad40753f9",
+    "pages_run": 43226912929,
+    "live_sha256": "a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1"
   }
 }
