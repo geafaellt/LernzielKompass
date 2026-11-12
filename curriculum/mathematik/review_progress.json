@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-060",
+  "last_batch": "MA-061",
   "complete": false,
   "counts": {
     "cards": 67,
@@ -2338,10 +2338,23 @@
       "area": "Lernbereich 3: Natur entdecken und erleben",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187122": {
+      "id": "page912_187122",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Verwenden der Fachbegriffe: Länge, Millimeter (mm), Zentimeter (cm), Dezimeter (dm), Meter (m), „… ist länger als …“, „… ist kürzer als …“",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187122",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187122",
-  "next_step": "GS1/2 Längenbegriffe und Vergleichssprache187122 gegen beide FSP-Bänder prüfen; bestehende MA-004 (Vergleich) und MA-063 bis MA-067 berücksichtigen und keine doppelte Inhaltszählung erzeugen. Danach nächsten offenen GS-Zielblock inventarisieren. MA-067 deckt nur additive Längensachsituationen in ganzen Metern mit abgeleitetem Rechenrahmen bis20 einschließlich aller Ergebnisse.67 Karten,14 Anschlussfragen,117 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten; gemischte Angaben187116,Einheitenwahl/Umrechnen187120 und weitere Restumfänge bleiben offen. App 1.371 veröffentlicht und live geprüft; Nachweise in MA-060.",
+  "next_id": "page912_187124",
+  "next_step": "GS1/2 Zeitblock187123 beginnen: zunächst Uhren und Kalender als Zeitmesser187124 gegen beide FSP-Bänder prüfen.16 Zeilen des Zeitblocks sind nur inventarisiert und noch nicht fachlich geprüft;keine neue Zieldeckung. Bestehende Zeitkarten einschließlich MA-006 (GS3,minutengenau) hinsichtlich ihres tatsächlichen Stufen-/Inhaltsbezugs berücksichtigen.67 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Längen-Restumfänge einschließlich gemischter Angaben187116,Einheitenwahl/Umrechnen187120 und vollständiger Begriffsliste187122 bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2574,7 +2587,7 @@
       "decision": "FSP1/2-Messen in Metern ist belegt und als MA-063 bevorzugt. Für den eigenständigen Ausschnitt punktbegrenzte Strecken in ganzen Zentimetern ist35516 unter Übertragen35511 der ausdrückliche3/4-Beleg. Kein Ausschluss allein wegen kleinerem Zahlenraum. Nicht das gesamte GS-Messziel wird stufenübergreifend zugeordnet."
     }
   },
-  "last_review_file": "review_batch_060.json",
+  "last_review_file": "review_batch_061.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3177,6 +3190,12 @@
       "scope": "Weitere einfache Sachstrukturen (unter anderem Rest-/Differenz- und Ergänzungsbezüge), weitere Rechenoperationen, selbstständige umfassende Sacherschließung und Strategiewahl sowie andere Einheiten und Darstellungsformen. MA-067 erfasst nur zwei additive Teilstrecken in ganzen Metern und eine Gesamtlänge bis zum didaktisch abgeleiteten Rechenrahmen 20. Keine vollständige GS-Zieldeckung; der allgemeine GS-Arithmetikrahmen bis 100 wird nicht durch diese Auswahl ersetzt. FSP3/4-Rechnen35520 unter Übertragen35511 und die weiteren Einheiten-/Strategiebezüge sind positive weiterführende Kandidaten. Umrechnen187120 und gemischte Angaben187116 bleiben eigene Anschlussfragen; aus den Notationsbemerkungen35518/35519 wird kein globales Rechenverbot abgeleitet.",
       "status": "offen",
       "review": "MA-060"
+    },
+    {
+      "gs_id": "page912_187122",
+      "scope": "Selbstständiger flexibler Gebrauch der gesamten GS-Längenbegriffsliste einschließlich Millimeter(mm),Zentimeter(cm),Dezimeter(dm),aller Kürzel und wechselnder Vergleichsrichtungen außerhalb des Metervergleichs. MA-004 erfasst nur Benennung von Länge/Meter und sachgerechte Vergleichssprache im vorhandenen Metervergleich. Kein zusätzlicher Schreibnachweis aller Kürzel. FSP3/4 nennt Zentimeter(cm)35515 sowie Meter-/Zentimeterangaben35514 und verschiedene Schreib-/Sprechweisen35518 als positive weitere Bezüge; keine Nichtanschlüsse allein wegen fehlender Karte. Bestehende MA-064 zum Messen in ganzen Zentimetern ersetzt keine vollständige Sprachprüfung.",
+      "status": "offen",
+      "review": "MA-061"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3197,10 +3216,11 @@
       "page912_187087",
       "page912_1911",
       "page912_1912",
-      "page912_1922"
+      "page912_1922",
+      "page912_187123"
     ],
-    "rows": 117,
-    "note": "117 inventarisierte Zeilen,67 Karten (20 stufenübergreifend). MA-060 prüft187121 teilweise durch MA-067: zwei additive Teilstrecken in Metern,Rechenrahmen bis20 didaktisch abgeleitet.1922 nur Kontext. Keine neue Inventurzeile;14 Anschlussfragen und fünf Nichtanschlussentscheidungen unverändert. Fortsetzung187122.",
+    "rows": 133,
+    "note": "MA-061:187122 teilweise zur bestehenden MA-004 zugeordnet,keine neue Karte.16 Zeitblockzeilen187123–187139 nur inventarisiert (187129 nicht als Zielzeile vorhanden);133 Zeilen insgesamt.67 Karten,14 Anschlussfragen,fünf Nichtanschlussentscheidungen. Fortsetzung187124.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3327,6 +3347,13 @@
       "max_value": 20,
       "source": "page139_37739",
       "note": "Nur Rechenrahmen des additiven Feinziels einschließlich Zwischen-/Endwerten didaktisch bis20; keine amtliche Höchstlänge und keine Übertragung auf Mess-/Schätzkarten. Alle bisherigen66 Karten unverändert."
+    },
+    "follow_up_length_language": {
+      "batch": "MA-061",
+      "card": "MA-004",
+      "status": "unspecified",
+      "max_value": null,
+      "note": "FSP-Geltungsbereich und alle numerischen Grenzen unverändert. Vergleichssprache/Meterbenennung innerhalb desselben Planungsrahmens;keine Grenze20 aus MA-067 übernommen."
     }
   },
   "publication_recheck": {
@@ -3347,13 +3374,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-060",
-    "status": "verified",
-    "app_version": "1.371",
-    "app_commit": "a197f3f538c4b24545e64ad82ae152f601290727",
-    "pages_run": 43237101330,
-    "live_sha256": "9a990c41226506356350c15bf17c022f46ad2027608ec9131f0604cd95a10e17",
-    "browser": "targeted MA-067 live in both GS grades and mobile320/390 passed;all67 local in9 subsets"
+    "batch": "MA-061",
+    "status": "pending",
+    "app_version": "1.372",
+    "previous_verified_version": "1.371"
   },
   "latest_audit_publication": {
     "batch": "MA-059",

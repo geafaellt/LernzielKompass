@@ -1,0 +1,335 @@
+{
+  "id": "MA-061",
+  "date": "2026-11-12",
+  "base_commit": "d7fca739663213899d8ac847d22c7875123d7186",
+  "scope": "GS1/2 Längenbegriffe187122: Länge/Meter und Vergleichssprache innerhalb bestehender MA-004;nachfolgenden Zeitblock nur inventarisieren",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "9f767ce1cca41ae9fa562350354966249572d03ee95affc44f932e721ec3b36f",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1922",
+      "level": 1,
+      "parent_target_id": "page912_1922",
+      "target": "Kennen des Umgangs mit der Größe Länge in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1922",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187122",
+      "level": 2,
+      "parent_target_id": "page912_1922",
+      "target": "Verwenden der Fachbegriffe: Länge, Millimeter (mm), Zentimeter (cm), Dezimeter (dm), Meter (m), „… ist länger als …“, „… ist kürzer als …“",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187122",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37967",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Experimentieren mit körpereigenen und willkürlichen Einheiten mit Schritt-, Seil-, Stocklänge länger, kürzer, gleich lang Längen mit Meterangabe erste Erfahrungen im Schätzen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37974",
+      "level": 3,
+      "parent_target_id": "page139_37961",
+      "target": "Maßeinheit Meter (m)",
+      "remarks": "Größenvorstellungen typische Repräsentanten (Tafellineal) Handhabung eines Maßbandes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35514",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Schätzen, Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Schaffen von Größenvorstellungen Experimentieren mit Körpermaßen, Stock- und Bandlänge Meter- und Zentimeterangabe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35515",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Einheit Zentimeter (cm), Beziehung: 1 m = 100 cm",
+      "remarks": "typische Repräsentanten: Daumenbreite, Fingerspanne, Schrittlänge, Armlänge, Handspanne sachgerechte Handhabung von Messgeräten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35518",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Kommaschreibweise der Einheit Meter mit zwei Dezimalstellen",
+      "remarks": "2,50 m; 2,05 m verschiedene Schreib- und Sprechweisen keine Umwandlung Körpergrößen der Mitschüler, Ergebnisse von Weitsprung, -wurf",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35518",
+      "grade": "3/4"
+    }
+  ],
+  "source_verification": "Amtliches HTML frisch geprüft;Ziel- und Bemerkungsspalten getrennt. Kein neuer PDF-Abgleich behauptet;historischer Scopebeleg MA-010 bleibt erhalten. Zahlenraumziele werden für die sprachliche Präzisierung nicht als neue Höchstlänge herangezogen.",
+  "new_cards": [],
+  "updated_cards": [
+    "MA-004"
+  ],
+  "existing_cards_rechecked": [
+    "MA-004",
+    "MA-062",
+    "MA-063",
+    "MA-064",
+    "MA-065",
+    "MA-066",
+    "MA-067"
+  ],
+  "existing_card_review": "Eine bestehende Karte präzisiert,66 andere Karten unverändert. MA-004 Vergleich/Ordnung bleibt;Sprachbezug wird darin konkretisiert und durch187122 belegt. Mess-,Schätz-,Referenz-,Notations- und Rechenkarten werden nicht erneut gezählt. MA-067-Rechenrahmen20 wird nicht auf MA-004 übertragen.",
+  "decisions": [
+    {
+      "gs_id": "page912_187122",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-004"
+      ],
+      "same_band_candidates": [
+        "page139_37961",
+        "page139_37967",
+        "page139_37974"
+      ],
+      "cross_band_candidates": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35518"
+      ],
+      "decision": "Länge und Meter sowie sprachlicher Vergleich werden in bestehende MA-004 aufgenommen. FSP1/2-Bemerkung nennt länger,kürzer,gleich lang ausdrücklich;Meter(m) steht im Ziel. Satzrelationen sind didaktisch konkretisiert,keine wörtliche Vollentsprechung aller GS-Satzmuster. Keine neue Karte für denselben Vergleichsgegenstand.",
+      "candidate_review": "FSP1/2 trägt den gewählten Metervergleich einschließlich Vergleichswörtern stufenbandpassend. FSP3/4-Vergleich35514 unter Übertragen35511 und EinheitZentimeter35515 sind positive weiterführende Gegenbezüge;Schreib-/Sprechweisen35518 gehören zur Meter-Kommanotation. Diese Belege begründen keine vollständige Deckung der gesamten GS-Begriffs-/Kürzelliste und werden nicht pauschal verworfen.",
+      "operators": {
+        "gs": "Kennen1922",
+        "fsp_selected": "Kennen37961",
+        "fsp_cross_band": "Übertragen35511",
+        "note": "Verwenden ist Teil des GS-Unterzieltexts,kein neuer Hauptoperator. Sprachförderung und Vergleichswörter der FSP-Bemerkung sind kein eigener Operator."
+      },
+      "number_range": {
+        "gs_target_row_max": null,
+        "fsp_target_row_max": null,
+        "fsp_scope_status": "unspecified",
+        "max_value": null,
+        "note": "Bestehender MA-004-Geltungsbereich unverändert. Lehrkraft legt Zahlenbereich und vertraute Darstellungsform vorher fest;alle relevanten Zwischen-/Endwerte darin. Keine zusätzliche Rechnung oder Messung und keine pauschale20-m-Grenze."
+      },
+      "prerequisites": "Geklärte Meterangaben,vergleichbare Bezugslängen und Verständnis der Vergleichsrichtung. Sprachform wird passend zum fachlichen Verhältnis gewählt;keine eigenständige schriftliche Beherrschung aller Einheitenkürzel zusätzlich vorausgesetzt.",
+      "uncertainty": "FSP-Bemerkung enthält Vergleichswörter,keine vollständigen relationalen Satzmuster. Die Formulierung mit als ist didaktische Konkretisierung. Weitere Begriffe,Kürzel und flexible Sprachverwendung bleiben gesondert zu prüfen.",
+      "remaining": "Selbstständiger flexibler Gebrauch der gesamten GS-Längenbegriffsliste einschließlich Millimeter(mm),Zentimeter(cm),Dezimeter(dm),aller Kürzel und wechselnder Vergleichsrichtungen außerhalb des Metervergleichs. MA-004 erfasst nur Benennung von Länge/Meter und sachgerechte Vergleichssprache im vorhandenen Metervergleich. Kein zusätzlicher Schreibnachweis aller Kürzel. FSP3/4 nennt Zentimeter(cm)35515 sowie Meter-/Zentimeterangaben35514 und verschiedene Schreib-/Sprechweisen35518 als positive weitere Bezüge; keine Nichtanschlüsse allein wegen fehlender Karte. Bestehende MA-064 zum Messen in ganzen Zentimetern ersetzt keine vollständige Sprachprüfung."
+    }
+  ],
+  "inventory_only": [
+    {
+      "id": "page912_187123",
+      "level": 1,
+      "parent_target_id": "page912_187123",
+      "target": "Kennen des Umgangs mit der Größe Zeit in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123"
+    },
+    {
+      "id": "page912_187124",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erkunden von Uhren und Kalendern als Zeitmesser",
+      "remarks": "Zeitdauerbegriff durch das Beobachten und Vergleichen von Vorgängen erfassen analoge und digitale Uhren, Kalender, Jahreskreis ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187124"
+    },
+    {
+      "id": "page912_187125",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erfassen, Vergleichen, Ordnen und Darstellen von Zeitspannen",
+      "remarks": "direktes und indirektes Vergleichen die Hälfte, ½, ein Viertel, ¼, drei Viertel, ¾, durch Faltaktivität klären",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187125"
+    },
+    {
+      "id": "page912_187126",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Minuten und Stunden",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187126"
+    },
+    {
+      "id": "page912_187127",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Tag, Woche, Monat, Jahr",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187127"
+    },
+    {
+      "id": "page912_187128",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erfassen und Darstellen von Zeitpunkten",
+      "remarks": "Schreibung der Uhrzeit nach DIN 5008 12:00 Uhr; 07:30 Uhr; 9 Uhr",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187128"
+    },
+    {
+      "id": "page912_187130",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "5-Minuten-Genauigkeit",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187130"
+    },
+    {
+      "id": "page912_187131",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Ablesen und Angeben des Datums am Kalender",
+      "remarks": "➔ SU, Kl. 1/2, LB 5 ➔ SU, Kl. 1/2, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187131"
+    },
+    {
+      "id": "page912_187132",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "sachadäquates Messen von Zeitspannen mit den Messinstrumenten Uhr und Kalender",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187132"
+    },
+    {
+      "id": "page912_187133",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen",
+      "remarks": "typische Repräsentanten: Stunden an einem Unterrichtstag, Dauer von Tätigkeiten, 5-Minuten-Pause",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187133"
+    },
+    {
+      "id": "page912_187134",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Schätzen von Zeitspannen",
+      "remarks": "Stützpunktvorstellungen nutzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187134"
+    },
+    {
+      "id": "page912_187135",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Wählen von passenden Einheiten und Umrechnen in benachbarte Einheiten",
+      "remarks": "entscheiden können, welche die größere Einheit ist",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187135"
+    },
+    {
+      "id": "page912_187136",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Lösen von Sachaufgaben mit einfacher Struktur und Rechnen mit Zeitspannen in Sachsituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187136"
+    },
+    {
+      "id": "page912_187137",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Anfangs- und Endzeitpunkte sind volle Stunden",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187137"
+    },
+    {
+      "id": "page912_187138",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Anfangs- und Endzeitpunkte liegen innerhalb derselben Stunde",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187138"
+    },
+    {
+      "id": "page912_187139",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Verwenden der Fachbegriffe: Stunde (h), Minute (min), Tag, Woche, Monat, Jahr, Uhr, Kalender, „… dauert kürzer als …“, „… dauert länger als …“",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187139"
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "new_open_connection_questions": 0,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 16,
+    "new_cards": 0,
+    "updated_cards": 1,
+    "cards": 67,
+    "cross_band_cards": 20,
+    "source_links": 186,
+    "target_anchors": 184,
+    "audit_rows": 133,
+    "open_connection_questions": 14,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 Zeitblock187123 beginnen: zunächst Uhren und Kalender als Zeitmesser187124 gegen beide FSP-Bänder prüfen.16 Zeilen des Zeitblocks sind nur inventarisiert und noch nicht fachlich geprüft;keine neue Zieldeckung. Bestehende Zeitkarten einschließlich MA-006 (GS3,minutengenau) hinsichtlich ihres tatsächlichen Stufen-/Inhaltsbezugs berücksichtigen.67 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Längen-Restumfänge einschließlich gemischter Angaben187116,Einheitenwahl/Umrechnen187120 und vollständiger Begriffsliste187122 bleiben offen.",
+  "tests": {
+    "data_checks": "passed update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 66,
+      "changed_card": "MA-004",
+      "changed_card_scope_unchanged": true,
+      "old_sources_unchanged": 185,
+      "old_anchors_unchanged": 183,
+      "previous_questions_unchanged": 14,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 133,
+      "changed_existing_audit_ids": [
+        "page912_1922",
+        "page912_187122"
+      ],
+      "inventory_only_new_rows": 16,
+      "card_source_rows_match_fresh_official_html": true,
+      "nonmath_unchanged": true,
+      "root_dist_identical": true,
+      "html_sha256": "acdd31b44383335c5e5924ad31882f7cb3ff2807e1b301c172584e876898b98a",
+      "html_blob_sha": "f1880387a34926682955a03fc2b7da2d7dc4b038"
+    },
+    "scope": "MA-004: unspecified,max_value null,no range_max. Scope object unchanged. Number range and familiar representation chosen before use;all relevant intermediate/final values stay within it. Added language criteria distinguish correct comparison direction and metre naming;no invented limit20,additional unit,calculation,measurement or full acronym writing requirement.",
+    "browser_local": "passed all67 cards in9 disjoint fresh-browser subsets using original check-mathematik-browser assertions with only per-card loop filtered. Full grade/area counts,source/scope/goal/criterion adoption,empty task/aid fields,draft preservation,subject isolation,reload and mobile follow-up retained. All9 passed on first attempt. Generic mobile follow-up uses MA-018.",
+    "browser_changed_card_mobile": "passed targeted MA-004 in both GS grades,then direct scope/card and scope/goals visibility with no horizontal overflow at320px and390px. Original assertions retained.",
+    "browser_long_session_limit": "No uninterrupted67-card run claimed;fresh-browser subsets address previously documented long-session timeouts.",
+    "browser_disclosures": "passed all380 cards:collapsed source/evidence disclosures,operator help,keyboard,drafts,mobile320/390.",
+    "browser_environment": "Temporary Chromium wrapper disables smooth scrolling,GPU,native window occlusion and background throttling;initial page brought to front,default viewport. Ordinary clicks/assertions unchanged. Scroll animation itself not assessed.",
+    "browser_live": "pending targeted MA-004 in both GS grades and direct mobile320/390 checks"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.372",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "target_sha256": "acdd31b44383335c5e5924ad31882f7cb3ff2807e1b301c172584e876898b98a"
+  }
+}

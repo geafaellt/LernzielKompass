@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.8",
+  "version": "MA-2026-11-12.9",
   "checked_on": "2026-11-12",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1220,6 +1220,12 @@
       "title": "FSP Lernen Mathematik 1/2 · Lernbereich 3: Natur entdecken und erleben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37976",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187122",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187122",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -1457,16 +1463,17 @@
       "theme": "Längen in Metern",
       "app_area": "MA-page912_1753",
       "status": "Begrenzter Anschluss · Meterangaben · Planungsrahmen vorab festlegen",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Vergleichen und Ordnen1923, Meter aus187114 und eine Einheit187115 unter Kennen1922",
-      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Vergleichen und Ordnen37967, Maßeinheit Meter37974 unter Kennen37961; Naturkontext",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Vergleichen und Ordnen1923, Meter aus187114 und eine Einheit187115 unter Kennen1922; Länge/Meter und Vergleichssprache aus187122",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Vergleichen und Ordnen37967, Maßeinheit Meter37974 unter Kennen37961; Naturkontext; länger/kürzer/gleich lang in Bemerkung37967",
       "gs_operator": "Kennen",
       "fsp_operator": "Kennen",
-      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen in Metern vergleichen und ordnen. Beide Hauptoperatoren lauten Kennen (GS1922,FSP37961). Vergleichen/Ordnen steht im FSP-Ziel37967, die Einheit Meter im Unterziel37974; Meterangaben und länger/kürzer/gleich lang stehen in der Bemerkung37967. Der FSP-Naturkontext bleibt erhalten. GS1923 wird nur im Vergleichs-/Ordnungsausschnitt,187114 nur für Meter und187115 nur für diese eine Einheit erfasst. Die gewählten Zielzeilen nennen keine numerische Obergrenze und keine Beschränkung auf ganze Meter. Die Lehrkraft muss Zahlenbereich und vertraute Darstellungsform vorab festlegen; daraus folgt keine automatische Freigabe beliebiger Bruch- oder Kommaangaben. Keine vollständige GS-Zieldeckung. Weitere Einheiten, andere Darstellungen, Messen, Schätzen, Umrechnungen und Längenrechnungen bleiben gesondert zu prüfen.",
+      "operator_relation": "GS: Kennen · FSP: Kennen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen in Metern vergleichen und ordnen. Beide Hauptoperatoren lauten Kennen (GS1922,FSP37961). Vergleichen/Ordnen steht im FSP-Ziel37967, die Einheit Meter im Unterziel37974; Meterangaben und länger/kürzer/gleich lang stehen in der Bemerkung37967. Der FSP-Naturkontext bleibt erhalten. GS1923 wird nur im Vergleichs-/Ordnungsausschnitt,187114 nur für Meter und187115 nur für diese eine Einheit erfasst. Die gewählten Zielzeilen nennen keine numerische Obergrenze und keine Beschränkung auf ganze Meter. Die Lehrkraft muss Zahlenbereich und vertraute Darstellungsform vorab festlegen; daraus folgt keine automatische Freigabe beliebiger Bruch- oder Kommaangaben. Keine vollständige GS-Zieldeckung. Weitere Einheiten, andere Darstellungen, Messen, Schätzen, Umrechnungen und Längenrechnungen bleiben gesondert zu prüfen. MA-061 ergänzt aus GS187122 die Benennung von Länge und Meter sowie den sprachlichen Längenvergleich innerhalb dieses Ausschnitts. FSP37974 nennt Meter (m) im Zieltext; länger, kürzer, gleich lang stehen in Bemerkung37967. Die relationalen Formulierungen mit länger als und kürzer als sind daraus didaktisch konkretisiert, kein wörtliches FSP-Satzzitat. Ein eigenständiger Nachweis aller Fachbegriffe und Kürzel der GS-Liste wird nicht behauptet.",
       "gs_target_ids": [
         "page912_1922",
         "page912_1923",
         "page912_187114",
-        "page912_187115"
+        "page912_187115",
+        "page912_187122"
       ],
       "fsp_target_ids": [
         "page139_37961",
@@ -1480,7 +1487,8 @@
         "Q-MA-page139_37961",
         "Q-MA-page139_37967",
         "Q-MA-page139_37974",
-        "Q-MA-page912_187115"
+        "Q-MA-page912_187115",
+        "Q-MA-page912_187122"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -1491,21 +1499,21 @@
         "relation": "same-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen in Metern vergleichen und ordnen. Beide Hauptoperatoren lauten Kennen (GS1922,FSP37961). Vergleichen/Ordnen steht im FSP-Ziel37967, die Einheit Meter im Unterziel37974; Meterangaben und länger/kürzer/gleich lang stehen in der Bemerkung37967. Der FSP-Naturkontext bleibt erhalten. GS1923 wird nur im Vergleichs-/Ordnungsausschnitt,187114 nur für Meter und187115 nur für diese eine Einheit erfasst. Die gewählten Zielzeilen nennen keine numerische Obergrenze und keine Beschränkung auf ganze Meter. Die Lehrkraft muss Zahlenbereich und vertraute Darstellungsform vorab festlegen; daraus folgt keine automatische Freigabe beliebiger Bruch- oder Kommaangaben. Keine vollständige GS-Zieldeckung. Weitere Einheiten, andere Darstellungen, Messen, Schätzen, Umrechnungen und Längenrechnungen bleiben gesondert zu prüfen.",
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: Längen in Metern vergleichen und ordnen. Beide Hauptoperatoren lauten Kennen (GS1922,FSP37961). Vergleichen/Ordnen steht im FSP-Ziel37967, die Einheit Meter im Unterziel37974; Meterangaben und länger/kürzer/gleich lang stehen in der Bemerkung37967. Der FSP-Naturkontext bleibt erhalten. GS1923 wird nur im Vergleichs-/Ordnungsausschnitt,187114 nur für Meter und187115 nur für diese eine Einheit erfasst. Die gewählten Zielzeilen nennen keine numerische Obergrenze und keine Beschränkung auf ganze Meter. Die Lehrkraft muss Zahlenbereich und vertraute Darstellungsform vorab festlegen; daraus folgt keine automatische Freigabe beliebiger Bruch- oder Kommaangaben. Keine vollständige GS-Zieldeckung. Weitere Einheiten, andere Darstellungen, Messen, Schätzen, Umrechnungen und Längenrechnungen bleiben gesondert zu prüfen. MA-061 ergänzt aus GS187122 die Benennung von Länge und Meter sowie den sprachlichen Längenvergleich innerhalb dieses Ausschnitts. FSP37974 nennt Meter (m) im Zieltext; länger, kürzer, gleich lang stehen in Bemerkung37967. Die relationalen Formulierungen mit länger als und kürzer als sind daraus didaktisch konkretisiert, kein wörtliches FSP-Satzzitat. Ein eigenständiger Nachweis aller Fachbegriffe und Kürzel der GS-Liste wird nicht behauptet.",
       "shared_object_suggestion": "Längen in der Natur: kürzer, länger oder gleich lang bei Angaben in Metern.",
       "fine_goals": [
         {
           "track": "Grundschule",
-          "goal": "Das Kind vergleicht und ordnet in Metern angegebene Längen im vorab festgelegten Zahlenraum und in einer geklärten, vertrauten Darstellungsform.",
-          "criterion": "Länger-, Kürzer- und Gleichlangbeziehungen sowie die Reihenfolge stimmen mit den Längen überein. Die Einheit Meter bleibt erhalten. Alle nichtnegativen Längenangaben und relevanten Zwischen- und Endwerte liegen im vorab festgelegten Zahlenraum; die vereinbarte Darstellungsform bleibt gleich. Zusätzliche Einheiten, Umrechnungen und Rechnungen werden nicht verlangt.",
-          "status": "Didaktische Konkretisierung unter Kennen1922; Vergleich/Ordnung in einer Einheit. Der Planungsbereich ist eine Lehrkraftfestlegung, keine amtliche GS-Obergrenze."
+          "goal": "Das Kind vergleicht und ordnet in Metern angegebene Längen im vorab festgelegten Zahlenraum und in einer geklärten, vertrauten Darstellungsform und beschreibt eine Längenbeziehung mit passenden Vergleichswörtern; die Einheit wird als Meter benannt.",
+          "criterion": "Länger-, Kürzer- und Gleichlangbeziehungen sowie die Reihenfolge stimmen mit den Längen überein. Die Einheit Meter bleibt erhalten. Alle nichtnegativen Längenangaben und relevanten Zwischen- und Endwerte liegen im vorab festgelegten Zahlenraum; die vereinbarte Darstellungsform bleibt gleich. Zusätzliche Einheiten, Umrechnungen und Rechnungen werden nicht verlangt. Die verwendete Vergleichsaussage ordnet die beiden Bezugslängen richtig zu; länger, kürzer oder gleich lang passt zum jeweiligen Verhältnis. Länge wird nicht mit Anzahl verwechselt, die Einheit Meter zutreffend benannt. Ein zusätzlicher selbstständiger Schreibnachweis der Einheitenkürzel und weiterer Einheiten wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung unter Kennen1922; Vergleich/Ordnung in einer Einheit. Der Planungsbereich ist eine Lehrkraftfestlegung, keine amtliche GS-Obergrenze. MA-061: Sprachgebrauch als didaktische Konkretisierung von GS187122 bzw. FSP-Bemerkung37967 und Einheit37974; keine vollständige Fachwortlistenabdeckung."
         },
         {
           "track": "FSP Lernen",
-          "goal": "Das Kind vergleicht und ordnet Längen in Metern im Naturkontext, im vorab festgelegten Zahlenraum und in einer geklärten, vertrauten Darstellungsform.",
-          "criterion": "Länger-, Kürzer- und Gleichlangbeziehungen sowie die Reihenfolge entsprechen den Längen. Die Einheit Meter bleibt erhalten. Sämtliche nichtnegativen Längenangaben und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum und in der vereinbarten Darstellungsform. Es werden keine zusätzlichen Einheiten, Umrechnungen oder Längenrechnungen verlangt.",
+          "goal": "Das Kind vergleicht und ordnet Längen in Metern im Naturkontext, im vorab festgelegten Zahlenraum und in einer geklärten, vertrauten Darstellungsform und beschreibt eine Längenbeziehung mit passenden Vergleichswörtern; die Einheit wird als Meter benannt.",
+          "criterion": "Länger-, Kürzer- und Gleichlangbeziehungen sowie die Reihenfolge entsprechen den Längen. Die Einheit Meter bleibt erhalten. Sämtliche nichtnegativen Längenangaben und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum und in der vereinbarten Darstellungsform. Es werden keine zusätzlichen Einheiten, Umrechnungen oder Längenrechnungen verlangt. Die verwendete Vergleichsaussage ordnet die beiden Bezugslängen richtig zu; länger, kürzer oder gleich lang passt zum jeweiligen Verhältnis. Länge wird nicht mit Anzahl verwechselt, die Einheit Meter zutreffend benannt. Ein zusätzlicher selbstständiger Schreibnachweis der Einheitenkürzel und weiterer Einheiten wird nicht verlangt.",
           "scope_status": "unspecified",
-          "status": "Didaktische Konkretisierung von Vergleichen/Ordnen37967 unter Kennen37961. Keine eigene Obergrenze belegt; Zahlenraum und Darstellungsform vor Verwendung festlegen."
+          "status": "Didaktische Konkretisierung von Vergleichen/Ordnen37967 unter Kennen37961. Keine eigene Obergrenze belegt; Zahlenraum und Darstellungsform vor Verwendung festlegen. MA-061: Sprachgebrauch als didaktische Konkretisierung von GS187122 bzw. FSP-Bemerkung37967 und Einheit37974; keine vollständige Fachwortlistenabdeckung."
         }
       ],
       "fsp_scope": {
@@ -1537,11 +1545,16 @@
           "decision": "no_numeric_limit_evidenced_confirmed",
           "target_limit_explicit": false,
           "source_check": "Amtliches HTML erneut geprüft; MA-010-PDF-Nachweis bleibt historisch, kein neuer PDF-Abgleich behauptet. Ordnen,Gleichheit,Naturkontext und sämtliche relevanten Zwischen-/Endwerte in beiden Planungsspuren präzisiert. Lehrkraft muss Zahlenbereich und vertraute Darstellungsform vorab bestimmen."
+        },
+        "language_follow_up": {
+          "batch": "MA-061",
+          "decision": "scope_preserved_language_clarified",
+          "note": "Numerische Grenze weiterhin nicht belegt. Bestehender Planungsrahmen einschließlich aller relevanten Zwischen-/Endwerte unverändert; keine Übernahme der didaktischen20 aus RechenkarteMA-067. Sprachlicher Ausschnitt fügt keine Messung,Rechnung oder neue Einheit hinzu."
         }
       },
       "evidence_classification": {
-        "gs": "1923 ist Unterziel unter Kennen1922;187114 benennt vier Einheiten, ausgewählt wird nur Meter.187115 konkretisiert Angaben mit einer Einheit.1922 ist Hauptzielkontext. Direkter/indirekter Vergleich steht in der Bemerkung1923; keine bestimmte Vergleichsmethode oder vollständige Methodenabdeckung verlangt.",
-        "fsp": "37967 nennt Messen,Vergleichen,Ordnen als Unterziel unter Kennen37961; ausgewählt sind Vergleich und Ordnung.37974 ist Unterziel zur Einheit Meter. Meterangaben sowie länger/kürzer/gleich lang stehen in der Bemerkung37967; Repräsentant und Maßband in37974 sind Bemerkungskontext, keine numerische Grenze und keine automatisch vorgegebene Lernhandlung.",
+        "gs": "1923 ist Unterziel unter Kennen1922;187114 benennt vier Einheiten, ausgewählt wird nur Meter.187115 konkretisiert Angaben mit einer Einheit.1922 ist Hauptzielkontext. Direkter/indirekter Vergleich steht in der Bemerkung1923; keine bestimmte Vergleichsmethode oder vollständige Methodenabdeckung verlangt. 187122 ist verbindliches Begriffs-Unterziel unter Kennen1922; ausgewählt sind Länge, Meter und die Vergleichsrelationen, nicht die vollständige Einheiten-/Kürzelliste.",
+        "fsp": "37967 nennt Messen,Vergleichen,Ordnen als Unterziel unter Kennen37961; ausgewählt sind Vergleich und Ordnung.37974 ist Unterziel zur Einheit Meter. Meterangaben sowie länger/kürzer/gleich lang stehen in der Bemerkung37967; Repräsentant und Maßband in37974 sind Bemerkungskontext, keine numerische Grenze und keine automatisch vorgegebene Lernhandlung. Sprachliche Vergleichsrelationen aus länger/kürzer/gleich lang werden didaktisch zu Aussagen über zwei Bezugslängen konkretisiert; kein wörtlicher FSP-Nachweis der vollständigen GS-Satzmuster. Benennung von Länge/Meter im vorhandenen Vergleich, kein isolierter Sprach- oder Schreibtest.",
         "fsp_remark_anchors": [
           "page139_37967",
           "page139_37974"
