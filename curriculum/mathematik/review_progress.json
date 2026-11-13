@@ -2380,7 +2380,7 @@
     }
   },
   "next_id": "page912_187125",
-  "next_step": "GS1/2 Zeitspannen187125 mit Unterzeilen Minuten/Stunden187126 und Tag/Woche/Monat/Jahr187127 gegen beide FSP-Bänder prüfen. Zeitpunkte,Kalendertage und Dauern getrennt halten;FSP37989/37994 sowie35547/35552 mit ihren Hauptoperatoren gesondert prüfen. MA-068 belegt nur Deutung einer vertrauten Uhr-/Kalenderangabe,keine Zeitspannenleistung.68 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten;alle bisherigen Restumfänge bleiben offen.",
+  "next_step": "GS1/2 Zeitspannen187125 mit Unterzeilen Minuten/Stunden187126 und Tag/Woche/Monat/Jahr187127 gegen beide FSP-Bänder prüfen. Zeitpunkte,Kalendertage und Dauern getrennt halten;FSP37989/37994 sowie35547/35552 mit ihren Hauptoperatoren gesondert prüfen. MA-068 belegt nur Deutung einer vertrauten Uhr-/Kalenderangabe,keine Zeitspannenleistung.68 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten;alle bisherigen Restumfänge bleiben offen. App 1.373 veröffentlicht und live geprüft; Nachweise in MA-062.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3414,9 +3414,12 @@
   },
   "latest_publication": {
     "batch": "MA-062",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.373",
-    "previous_verified_version": "1.372"
+    "app_commit": "f6e97a2802785f9668a52ad712568aec502cca19",
+    "pages_run": 43379409557,
+    "live_sha256": "ee226e24d9e9f5e86649eecd1d8785f107ca8cfc3396d59732d5774c4b3fb8a4",
+    "browser": "targeted MA-068 live in both GS grades and mobile320/390 passed;all68 local in9 subsets"
   },
   "latest_audit_publication": {
     "batch": "MA-059",
