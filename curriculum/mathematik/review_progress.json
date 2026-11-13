@@ -2445,7 +2445,7 @@
     }
   },
   "next_id": "page912_187127",
-  "next_step": "GS1/2 Zeitspannen in Tag,Woche,Monat,Jahr187127 gegen beide FSP-Bänder prüfen,danach Zeitpunkte187128. MA-069 erfasst Dauer qualitativ;MA-070 vergleicht nur bekannte Ganzstundendauern. Minuten-Rest187126,weitere Vergleichs-/Darstellungsformen187125 und alle bisherigen Anschlussfragen offen halten.70 Karten(49 passend,21 stufenübergreifend),14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten.",
+  "next_step": "GS1/2 Zeitspannen in Tag,Woche,Monat,Jahr187127 gegen beide FSP-Bänder prüfen,danach Zeitpunkte187128. MA-069 erfasst Dauer qualitativ;MA-070 vergleicht nur bekannte Ganzstundendauern. Minuten-Rest187126,weitere Vergleichs-/Darstellungsformen187125 und alle bisherigen Anschlussfragen offen halten.70 Karten(49 passend,21 stufenübergreifend),14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.374 veröffentlicht und live geprüft;Nachweise in MA-063.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3508,9 +3508,12 @@
   },
   "latest_publication": {
     "batch": "MA-063",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.374",
-    "previous_verified_version": "1.373"
+    "app_commit": "cca692c35c37c9d14d5d76f0614d5a75fdbeacdd",
+    "pages_run": 43381186256,
+    "live_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3",
+    "browser": "MA-069/070 live in both GS grades and mobile320/390 passed;all70 local in9 subsets"
   },
   "latest_audit_publication": {
     "batch": "MA-059",
