@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-063
+# Mathematik-Abgleich · MA-064
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Tag/Woche/Monat/Jahr187127. [MA-063](review_batch_063.json) ergänzt qualitative Dauer MA-069 und Vergleich bekannter Ganzstundendauern MA-070.70 Karten,14 Anschlussfragen,133 Inventurzeilen. Minuten und weitere Zeitspannen-Aspekte bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Zeitpunkten187128 und5-Minuten-Genauigkeit187130. [MA-064](review_batch_064.json) dokumentiert187127 als Anschlussfrage mit positiven Gegenbezügen.70 Karten,15 Anschlussfragen,133 Inventurzeilen;App1.374 unverändert. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -696,3 +696,12 @@ MA-069 verbindet das Erfassen einer Dauer mit FSP1/2-Anfang/Ende37994 unter Einb
 Keine Höchstdauer belegt. MA-069 hat einen qualitativen Geltungsbereich;MA-070 verlangt vorher festgelegten Zahlenbereich mit nichtnegativen Ganzstundenwerten und allen relevanten Zwischen-/Endwerten innerhalb dieses Bereichs. Keine Minuten,Bruchstunden,Umrechnungen oder Berechnungen in der Vergleichskarte. Uhrzeiten und Dauern bleiben getrennt. Aufgaben,Lernhandlungen und Hilfsmittel werden nicht vorgeschlagen.
 
 70 Karten(49 passend,21 stufenübergreifend),193 Quellen,191 Zielanker,133 Inventurzeilen,14 Anschlussfragen und fünf Nichtanschlussentscheidungen. Zwei neue Karten,zwei neue GS-Zeilenteilprüfungen187125/187126;keine Vollabdeckung. Alle68 bisherigen Karten und bisherigen Restumfänge/Fragen unverändert. Minuten187126 und weitere Vergleiche/Darstellungen187125 bleiben offen.187127 wurde nur als Fortsetzungskontext gelesen;dort folgt die nächste Einzelprüfung. Daten-,Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle70 Mathematikkarten in neun frischen Browsergruppen geprüft;ein Teil nach Scroll-Zeitlimit in einer bestehenden Karte unverändert erfolgreich wiederholt. Alle383 Karten in der Quellen-/Hinweisprüfung bestätigt. Beide neuen Karten in beiden GS-Jahrgängen und direkt bei320px/390px geprüft:Ziel-/Kriterienübernahme,sichtbare Grenzen,leere Aufgaben-/Hilfsmittelfelder,Entwurfserhalt,Fachwechsel,Neuladen und kein horizontaler Überlauf. Kein ununterbrochener70-Karten-Gesamtlauf behauptet. Veröffentlicht mit Commit cca692c35c37c9d14d5d76f0614d5a75fdbeacdd und erfolgreichem [Pages-Lauf 43381186256](https://github.com/geafaellt/LernzielKompass/actions/runs/43381186256). App1.374 live bytegleich bestätigt(SHA256 a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3). Beide neuen Karten öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger70-Karten-Livedurchlauf behauptet.
+
+
+## MA-064 · Audit ohne App-Änderung · 13.11.2026
+
+GS187127 bleibt Anschlussfrage. Tages-/Wochenablauf37989,Dauer37994,Kalenderdaten37959/35461 sowie3/4-Zeitplanung35539/35545 sind positive Gegenbezüge. Kalenderorientierung und Zeitpunkte werden aber nicht automatisch als Erfassen/Vergleichen/Ordnen/Darstellen von Dauern in Tagen,Wochen,Monaten,Jahren ausgegeben. Schultag ist nicht ein voller Kalendertag,Ferien keine feste Dauer. Ein vorbereitender qualitativer Tag-/Wochenanschluss bleibt ausdrücklich weiter zu prüfen;fehlende Gesamtdeckung ist kein Ausschlussgrund.
+
+Explizites Lesen von Zeitplänen/Kalendern38158 und jahreszeitliche Pläne38437 liegen in5/6;Umrechnen Tag-Woche-Monat-Jahr35697 inKlasse7. Diese Ziele werden nicht in1–4 übernommen. Keine neue Nichtanschlussentscheidung,keine erfundene Zahlenraum- oder Monats-/Jahresgrenze. Alle70 Karten,Feinziele,Kriterien und Geltungsbereiche bleiben unverändert.
+
+70 Karten,15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Eine neue offene Frage,keine neue Karte oder Teildeckung.187127 muss vor Abschluss nochmals geklärt werden. Fortsetzung187128/187130. Deutsch-, Mathematik- und Zahlenraumprüfungen bestanden. Alle Karten, Kriterien und Geltungsbereiche unverändert; nur fünf Audit-/Dokumentationsdateien geändert. App-Dateien und Modul bytegleich zu App1.374. Keine neue Browserprüfung oder App-Erstellung nötig; bestehende MA-063-Nachweise bleiben erhalten. Veröffentlichung und öffentliche Prüfung des unveränderten App-Stands noch ausstehend.

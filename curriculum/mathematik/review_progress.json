@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-063",
+  "last_batch": "MA-064",
   "complete": false,
   "counts": {
     "cards": 70,
@@ -2444,8 +2444,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_187127",
-  "next_step": "GS1/2 Zeitspannen in Tag,Woche,Monat,Jahr187127 gegen beide FSP-Bänder prüfen,danach Zeitpunkte187128. MA-069 erfasst Dauer qualitativ;MA-070 vergleicht nur bekannte Ganzstundendauern. Minuten-Rest187126,weitere Vergleichs-/Darstellungsformen187125 und alle bisherigen Anschlussfragen offen halten.70 Karten(49 passend,21 stufenübergreifend),14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.374 veröffentlicht und live geprüft;Nachweise in MA-063.",
+  "next_id": "page912_187128",
+  "next_step": "GS1/2 Zeitpunkte187128 mit Unterzeile5-Minuten-Genauigkeit187130 gegen beide FSP-Bänder prüfen;danach Kalenderdatum187131.187127 bleibt neue Anschlussfrage:Tag/Woche als qualitativen Dauerbezug getrennt von Monat/Jahr und Kalenderorientierung klären.70 Karten,15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. MA-068 deutet Angaben,MA-069 erfasst Dauer qualitativ,MA-070 vergleicht nur Ganzstundendauern;keine automatische Tages-/Wochendeckung. App1.374 bleibt unverändert.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2687,7 +2687,7 @@
       "decision": "FSP1/2 belegt Dauer/Anfang/Ende und Zeitgefühl;MA-069 integriert den passenden qualitativen Ausschnitt. Für Vergleich numerisch bekannter Zeitspannen in vollen Stunden ist35552 unter Anwenden35539 der ausdrückliche Beleg. Die Stufenüberschreitung folgt der konkreten Vergleichsaussage,nicht allein dem Zahlenraum.1/2-Vergleichsmöglichkeiten bleiben positiv und gesondert zu prüfen."
     }
   },
-  "last_review_file": "review_batch_063.json",
+  "last_review_file": "review_batch_064.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -2870,6 +2870,31 @@
         "page139_35520"
       ],
       "review_file": "review_batch_059.json"
+    },
+    {
+      "gs_id": "page912_187127",
+      "scope": "Zeitspannen in Tag/Woche sowie Monat/Jahr;vorbereitenden qualitativen Teilanschluss von Kalenderorientierung und Dauereinheiten unterscheiden",
+      "status": "offen",
+      "reason": "GS187127 konkretisiert unter187125 das Erfassen,Vergleichen,Ordnen und Darstellen von Zeitspannen in Tag,Woche,Monat,Jahr;keine isolierte Kalenderwortliste. FSP1/2-Tages-/Wochenablauf37989 und Dauer/Anfang/Ende37994 sind positive Gegenbezüge. Sie lassen einen vorbereitenden qualitativen Tag-/Wochenbezug zu,belegen aber noch nicht eindeutig den ausgewählten Umgang mit diesen Einheiten als Dauern. Schultag ist nicht automatisch ein vollständiger Kalendertag;Ferien ist keine feste Anzahl Tage oder Wochen. Kalenderdaten37959 bzw.3/4-Kalender/Zeitangaben35461 sind ebenfalls positiv,jedoch kein automatischer Dauernvergleich. FSP3/4-Zeitplanung35539/35545 und Zeitspannen35552 tragen weitere Bezüge;in vollen Stunden35552 wird nicht ohne Prüfung auf Tage/Wochen/Monate/Jahre ausgeweitet. Die fehlende vollständige Vierer-Liste verhindert keinen möglichen belegten Teilanschluss:Tag/Woche und Monat/Jahr sind getrennt weiter zu prüfen. Keine neue Nichtanschlussentscheidung und kein Ausschluss allein wegen Zahlenraum oder fehlender Karte.",
+      "candidate_ids": [
+        "page139_37931",
+        "page139_37959",
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_35461",
+        "page139_35539",
+        "page139_35545",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552"
+      ],
+      "review_file": "review_batch_064.json",
+      "follow_up_checks": [
+        "Tag/Woche:Kann ein konkreter qualitativer Dauerbezug aus37989/37994 ohne Gleichsetzung von Schultag und Kalendertag begrenzt werden?",
+        "Monat/Jahr:Kalenderdaten37959/35461 von Dauerangaben unterscheiden;keine Einheitenbeziehung allein aus Kalenderbeispiel folgern.",
+        "Vergleichen,Ordnen,Darstellen je Ausschnitt gesondert belegen;fehlende Gesamtdeckung nicht als Ausschluss eines Teilanschlusses werten."
+      ]
     }
   ],
   "remaining_scopes": [
@@ -3338,7 +3363,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen unverändert;MA-063 prüft187125 und187126 jeweils teilweise. Zwei Karten sind zwei verschiedene Ausschnitte:qualitative Dauer und Ganzstundenvergleich.187123 nur Kontext.187127 bleibt nächste ungeprüfte Zielzeile.70 Karten,21 stufenübergreifend,14 Anschlussfragen,fünf Nichtanschlussentscheidungen.",
+    "note": "133 Inventurzeilen unverändert. MA-064 prüft187127 als neue offene Anschlussfrage mit positiven Gegenbezügen;keine neue Zieldeckung/Karte und kein Nichtanschluss.70 Karten,15 Anschlussfragen,fünf Nichtanschlussentscheidungen. Fortsetzung187128/187130;187127 vor Gesamtabgleichsabschluss erneut klären.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
