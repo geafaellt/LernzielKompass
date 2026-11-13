@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-13.3",
+  "version": "MA-2026-11-13.4",
   "checked_on": "2026-11-13",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1286,6 +1286,12 @@
       "title": "FSP Lernen Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37995",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187131",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187131",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -7133,6 +7139,81 @@
         ],
         "context_only_gs_ids": [
           "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-073",
+      "subject": "Mathematik",
+      "theme": "Einen Kalendertag ablesen und angeben",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Kalendertag bei geklärtem Monat und Jahr",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Kalenderdatum187131 unter Zeitpunkte187128 und Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Umweltdaten herausfinden und darstellen37959 unter Beherrschen37931; Kalender in der Bemerkung",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Kennen · FSP: Beherrschen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: einen Kalendertag bei vorab geklärtem Monat und Jahr aus einer vertrauten Kalenderdarstellung ablesen und mit Monatsbezug angeben. GS187131 steht unter Zeitpunkte187128 und Kennen187123. FSP37959 nennt Herausfinden und Darstellen von Umweltdaten unter Beherrschen37931; Kalender ist ein Beispiel in der Bemerkung. Die Eingrenzung auf zugängliche Tageszahlen und Monatsbezeichnung ist didaktisch, keine amtliche Datums- oder Zahlenraumgrenze. MA-068 deutet eine bereits zugängliche Zeitinformation; hier wird die konkrete Kalenderangabe erst entnommen und angegeben. Derselbe FSP-Beleg wird wiederverwendet, nicht als neue FSP-Kompetenz gezählt. Keine vollständige GS-Zieldeckung: selbstständiges Lesen/Schreiben der Jahreszahl, normgerechte Datumsschreibweise, verschiedene Kalender und Kalenderrechnen bleiben gesondert zu prüfen.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187128",
+        "page912_187131"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37959"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187128",
+        "Q-MA-page912_187131",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37959"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: einen Kalendertag bei vorab geklärtem Monat und Jahr aus einer vertrauten Kalenderdarstellung ablesen und mit Monatsbezug angeben. GS187131 steht unter Zeitpunkte187128 und Kennen187123. FSP37959 nennt Herausfinden und Darstellen von Umweltdaten unter Beherrschen37931; Kalender ist ein Beispiel in der Bemerkung. Die Eingrenzung auf zugängliche Tageszahlen und Monatsbezeichnung ist didaktisch, keine amtliche Datums- oder Zahlenraumgrenze. MA-068 deutet eine bereits zugängliche Zeitinformation; hier wird die konkrete Kalenderangabe erst entnommen und angegeben. Derselbe FSP-Beleg wird wiederverwendet, nicht als neue FSP-Kompetenz gezählt. Keine vollständige GS-Zieldeckung: selbstständiges Lesen/Schreiben der Jahreszahl, normgerechte Datumsschreibweise, verschiedene Kalender und Kalenderrechnen bleiben gesondert zu prüfen.",
+      "shared_object_suggestion": "Ein bestimmter Tag im Kalender: Tageszahl und Monat bezeichnen ihn im geklärten Jahr.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind liest bei vorab geklärtem Monat und Jahr einen Kalendertag aus einer vertrauten Kalenderdarstellung ab und gibt ihn mit Monatsbezug an.",
+          "criterion": "Die angegebene Tageszahl stimmt mit dem gemeinten Kalendereintrag überein und wird dem richtigen, bereits geklärten Monat zugeordnet. Tageszahl und Monatsbezeichnung sind dem Kind zugänglich; das Jahr ist als Bezug vorgegeben. Wochentag, Kalenderwoche und Tageszahl werden nicht verwechselt. Selbstständiges Lesen oder Schreiben der Jahreszahl, eine neue Datumsschreibweise und Kalenderrechnen werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung eines begrenzten Ausschnitts von187131 unter Kennen187123; keine vollständige Datumsdeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind entnimmt einer vertrauten Kalenderdarstellung bei geklärtem Monat und Jahr einen Kalendertag und gibt diese Umweltinformation mit Monatsbezug zutreffend an.",
+          "criterion": "Tageszahl und Monatsbezug stimmen mit dem ausgewählten Kalendereintrag überein. Die benötigte Tageszahl und Monatsbezeichnung sind bereits zugänglich; das Jahr bleibt vorgegebener Kontext. Wochentag oder Kalenderwoche werden nicht als Tageszahl ausgegeben. Eine selbstständig gelesene oder geschriebene Jahreszahl, normgerechte Datumsschreibweise, Umrechnung und Kalenderrechnung werden nicht vorausgesetzt; es entstehen keine zusätzlichen numerischen Zwischen- oder Endergebnisse.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des Herausfindens/Darstellens37959 unter Beherrschen37931; Kalender ist Bemerkungsbeispiel. Kein Operatorwechsel zum benachbarten Zeitziel37986."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Kalendertag mit Monatsbezug · Monat und Jahr geklärt · keine Kalenderrechnung",
+        "detail": "37959 nennt Umweltdaten, Kalender steht in der Bemerkung. Für Datumsangaben legt diese Zielzeile keine numerische Obergrenze oder bestimmte Schreibweise fest. Auch GS187131 nennt keine Zahlengrenze. Allgemeine Zahlenräume20/100 sind keine Datumsgrenzen; aus Kalenderstrukturen wird keine amtliche Zahlenraumvorgabe abgeleitet. Die Auswahl zugänglicher Tageszahlen bei vorgegebenem Monat/Jahr ist eine didaktische Eingrenzung.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37959"
+        ],
+        "planning_rule": "Vertraute Kalenderdarstellung, gemeinten Monat und Jahr vorab klären. Nur eine dem Kind zugängliche Tageszahl und bekannte Monatsbezeichnung verlangen; diese müssen zum tatsächlichen Kalendereintrag passen. Tageszahl nicht mit Wochentag oder Kalenderwoche verwechseln. Das Jahr bleibt Kontext und ist keine zusätzliche Leseforderung. Keine feste Monatslänge, erfundene Zahlengrenze, normgerechte Datumsschreibweise oder neue Darstellungsform unterstellen. Keine Tage zählen, Datumsabstände berechnen oder Umrechnungen verlangen; keine zusätzlichen numerischen Zwischen-/Endwerte. Eigene Erweiterungen gesondert prüfen. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187131 ist Unterziel unter Zeitpunkte187128 und Kennen187123. Beide übergeordneten Zeilen dienen hier nur als Kontext. Sachunterrichtsverweise stehen in der Bemerkung; sie sind keine hier geprüften Mathematik-Zielanker.",
+        "fsp": "Herausfinden und Darstellen sind Zielbestandteile37959 unter Beherrschen37931. Kalender steht als Beispiel in der Bemerkung. Tag/Monat bei geklärtem Jahr konkretisieren dieses Beispiel didaktisch; kein wörtliches FSP-Datumsziel behauptet. Der Zeitblock37986 hat einen anderen Hauptoperator.",
+        "fsp_remark_anchors": [
+          "page139_37959"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123",
+          "page912_187128"
         ]
       }
     }

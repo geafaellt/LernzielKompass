@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-065",
+  "last_batch": "MA-066",
   "complete": false,
   "counts": {
-    "cards": 72,
+    "cards": 73,
     "cross_band": 22
   },
   "source_plans": {
@@ -2481,10 +2481,23 @@
       "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187131": {
+      "id": "page912_187131",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Ablesen und Angeben des Datums am Kalender",
+      "remarks": "➔ SU, Kl. 1/2, LB 5 ➔ SU, Kl. 1/2, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187131",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187131",
-  "next_step": "GS1/2 Kalenderdatum187131 gegen beide FSP-Bänder prüfen;danach Stützpunktvorstellungen zu Zeitspannen187133. MA-071 volle Stunden stufengleich,MA-072 Fünf-Minuten-Ablesen stufenübergreifend. Weitere Darstellungen/Einstellen nichtvoller Stunden187128/187130 und15 bisherige Anschlussfragen einschließlich187127 bleiben offen.72 Karten(50 passend,22 stufenübergreifend),133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.375 veröffentlicht und live geprüft;Nachweise in MA-065.",
+  "next_id": "page912_187133",
+  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen187133 gegen beide FSP-Bänder prüfen. MA-073 entnimmt Kalenderdatum nur als Tageszahl/Monatsbezug bei geklärtem Jahr;Jahreszahlen,Schreibweisen und weitere Kalenderorientierung bleiben offen.73 Karten(51 passend,22 stufenübergreifend),15 Anschlussfragen einschließlich187127,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Frühere Restumfänge und Bestandskarten weiter prüfen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2735,7 +2748,7 @@
       "decision": "Volle Stunden werden stufengleich in MA-071 integriert.1/2-Differenzierung halb/viertel/dreiviertel ist positiv, belegt aber nicht das gesamte Fünf-Minuten-Raster.3/4-Ziel35549 ist minutengenau und trägt die didaktische Auswahl aller Fünf-Minuten-Uhrzeiten; nicht wegen eines kleineren Zahlenraums gewählt. MA-006 nutzt denselben FSP-Beleg mit eigenem GS3-Anker."
     }
   },
-  "last_review_file": "review_batch_065.json",
+  "last_review_file": "review_batch_066.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3399,6 +3412,12 @@
       "scope": "Das Ablesen im Fünf-Minuten-Raster ist durch MA-072 begrenzt zugeordnet; MA-071 umfasst nur volle Stunden. Einstellen und weitere Darstellungen nichtvoller Stunden sowie Transfer zwischen Anzeigen und normgerechter Schreibweise bleiben offen. FSP1/2-Differenzierung halb/viertel/dreiviertel37995 bleibt positiver Teilbezug, kein Beleg für sämtliche Fünf-Minuten-Schritte.",
       "status": "offen",
       "review": "MA-065"
+    },
+    {
+      "gs_id": "page912_187131",
+      "scope": "Selbstständiges Lesen/Schreiben der Jahreszahl, normgerechte oder unterschiedliche Datumsschreibweisen, Transfer zwischen Kalenderformen und weitere selbstständige Datumsorientierung bleiben offen. MA-073 entnimmt nur einen Kalendertag mit bekanntem Monatsbezug bei vorgegebenem Jahr; keine vollständige GS-Zieldeckung. Kalenderrechnen ist nicht mitbelegt. FSP3/4-Kalenderkontext35461 bleibt positiver zusätzlicher Bezug, wird hier nicht als Jahreszahlen- oder Vollabdeckungsbeleg verwendet.",
+      "status": "offen",
+      "review": "MA-066"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3423,7 +3442,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen erhalten;MA-065 prüft187128/187130 teilweise mit zwei Karten,187123 nur Kontext. Keine Vollabdeckung,keine neue Frage,kein neuer Nichtanschluss. Fortsetzung187131.",
+    "note": "133 Zeilen erhalten;MA-066 prüft187131 teilweise.187123 und187128 nur Kontext,keine neue Teilprüfungszählung. Ein neuer GS-Anker,keine neuen FSP-Anker. Fortsetzung187133.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3580,6 +3599,13 @@
         "MA-072": "domain_specific"
       },
       "note": "Volle Stunden ausdrücklich;Fünf-Minuten-Raster didaktische Auswahl innerhalb minutengenauen Ziels. Keine20/100-Grenze, Dauerrechnung oder erfundene Höchstdauer;70 Bestandskarten unverändert."
+    },
+    "follow_up_calendar": {
+      "batch": "MA-066",
+      "cards": {
+        "MA-073": "domain_specific"
+      },
+      "note": "Kalendertag bei zugänglicher Tageszahl/Monatsbezeichnung und geklärtem Jahr. Keine20/100-Datumsgrenze, Jahreszahlenforderung oder Kalenderrechnung.72 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3600,13 +3626,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-065",
-    "status": "verified",
-    "app_version": "1.375",
-    "app_commit": "1735965c6710c9b5dfe932356ab071629a17f013",
-    "pages_run": 43396462557,
-    "live_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce",
-    "browser": "MA-071/072 live in both GS grades and mobile320/390 passed;six related cards local"
+    "batch": "MA-066",
+    "status": "pending",
+    "app_version": "1.376",
+    "previous_verified_version": "1.375"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
