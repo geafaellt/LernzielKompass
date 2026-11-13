@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-13.2",
+  "version": "MA-2026-11-13.3",
   "checked_on": "2026-11-13",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1267,6 +1267,24 @@
       "id": "Q-MA-page139_35552",
       "title": "FSP Lernen Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187128",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187128",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187130",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187130",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37995",
+      "title": "FSP Lernen Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37995",
       "version": "2019"
     }
   ],
@@ -6964,6 +6982,154 @@
         "fsp": "Vergleichen ist Zieltext35552 unter Anwenden35539. Volle Stunden ist eine Bemerkungsgrenze und wird sichtbar übernommen. Schätzen,Berechnen und Zeitpunktbestimmung aus derselben Zielzeile sind nicht Teil der Karte.",
         "fsp_remark_anchors": [
           "page139_35552"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-071",
+      "subject": "Mathematik",
+      "theme": "Volle Stunden an der Uhr",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · volle Stunden",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Zeitpunkte187128 mit5-Minuten-Genauigkeit187130 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie · Ablesen und Einstellen voller Stunden37995 unter Einblick gewinnen37986",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: volle Stunden ablesen und einstellen. GS187128/187130 stehen unter Kennen187123; volle Stunden sind nur ein Teil des Fünf-Minuten-Rasters. FSP37995 nennt Ablesen und Einstellen voller Stunden ausdrücklich unter Einblick gewinnen37986. Die Bemerkung nennt verschiedene Uhren sowie 24-Stundeneinteilung und halb/viertel/dreiviertel als Differenzierung; diese Erweiterungen werden nicht als Pflichtumfang der Karte übernommen. Keine vollständige GS-Zieldeckung: übrige Fünf-Minuten-Zeitpunkte, Datum und weitere Darstellungsformen bleiben offen. Der Unterschied betrifft Ablesegenauigkeit und Anforderungen, keinen allgemeinen Rechenzahlenraum.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187128",
+        "page912_187130"
+      ],
+      "fsp_target_ids": [
+        "page139_37986",
+        "page139_37995"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187128",
+        "Q-MA-page912_187130",
+        "Q-MA-page139_37986",
+        "Q-MA-page139_37995"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: volle Stunden ablesen und einstellen. GS187128/187130 stehen unter Kennen187123; volle Stunden sind nur ein Teil des Fünf-Minuten-Rasters. FSP37995 nennt Ablesen und Einstellen voller Stunden ausdrücklich unter Einblick gewinnen37986. Die Bemerkung nennt verschiedene Uhren sowie 24-Stundeneinteilung und halb/viertel/dreiviertel als Differenzierung; diese Erweiterungen werden nicht als Pflichtumfang der Karte übernommen. Keine vollständige GS-Zieldeckung: übrige Fünf-Minuten-Zeitpunkte, Datum und weitere Darstellungsformen bleiben offen. Der Unterschied betrifft Ablesegenauigkeit und Anforderungen, keinen allgemeinen Rechenzahlenraum.",
+      "shared_object_suggestion": "Eine volle Stunde als Zeitpunkt: Uhranzeige und gemeinte Tageszeit gehören zusammen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind liest an einer vertrauten Uhr volle Stunden ab und stellt eine vorgegebene volle Stunde passend ein.",
+          "criterion": "Abgelesene und eingestellte Uhrzeit stimmen mit der vollen Stunde überein. Bei einer analogen Anzeige steht der Minutenzeiger auf12 und der Stundenzeiger auf der gemeinten Stunde. Tageszeit und verwendete Anzeige sind vorher geklärt; keine Zwischenminuten, Umrechnung oder Zeitspannenrechnung.",
+          "status": "Didaktische Konkretisierung eines Teilrasters von187128/187130 unter Kennen187123."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind liest mit bedarfsgerechter Unterstützung volle Stunden an einer vertrauten Uhr ab und stellt eine vorgegebene volle Stunde ein.",
+          "criterion": "Die abgelesene und eingestellte Anzeige entspricht der gemeinten vollen Stunde im geklärten Tageszusammenhang. Bei analoger Anzeige steht der Minutenzeiger auf12 und der Stundenzeiger auf der gemeinten Stunde. Nur volle Stunden und die zuvor geklärte Anzeige werden beurteilt; keine Viertel-, Halb- oder Zwischenminuten, keine zusätzliche 24-Stunden-Umrechnung und keine numerischen Zwischen- oder Endergebnisse durch Rechnung.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung von37995 unter Einblick gewinnen37986; Unterstützung dem einführenden Zugang anpassen."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Volle Stunden · vertraute Uhranzeige · Ablesen und Einstellen",
+        "detail": "Volle Stunden stehen ausdrücklich in Ziel37995. 24-Stundeneinteilung und halb/viertel/dreiviertel stehen als Differenzierung in der Bemerkung und werden hier nicht zusätzlich verlangt. GS187130 umfasst das Fünf-Minuten-Raster; diese Karte deckt nur volle Stunden. Allgemeine Zahlenräume20/100 sind keine Uhrzeitgrenzen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37995"
+        ],
+        "planning_rule": "Vertraute Anzeige und Tageszeit vorher klären. Nur volle Stunden ablesen/einstellen; bei analoger Uhr Minutenzeiger auf12 und passender Stundenzeiger. Zifferblattzahlen sind keine Höchstdauer. Keine zusätzliche 24-Stunden-Umrechnung, Halb-/Viertelstunden oder Fünf-Minuten-Zwischenwerte verlangen. Keine Zeitspannen berechnen; es entstehen keine numerischen Zwischen-/Endwerte. Eigene Erweiterungen gesondert prüfen. Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187128 unter Kennen187123;187130 unter187128. Volle Stunden bilden nur einen Teil des Fünf-Minuten-Rasters. DIN-Schreibweise steht in der Bemerkung187128 und wird nicht automatisch mitgeprüft.187123 nur Kontext.",
+        "fsp": "Ablesen/Einstellen voller Stunden ist Ziel37995 unter Einblick gewinnen37986. Verschiedene Uhren und Differenzierung24-Stundeneinteilung/halb/viertel/dreiviertel sind Bemerkung.",
+        "fsp_remark_anchors": [
+          "page139_37995"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-072",
+      "subject": "Mathematik",
+      "theme": "Uhrzeiten im Fünf-Minuten-Raster",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Fünf-Minuten-Uhrzeiten · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Zeitpunkte187128 mit5-Minuten-Genauigkeit187130 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · minutengenaues Ablesen35549 unter Anwenden35539; eigener Zeitplanungskontext",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Uhrzeiten auf dem Fünf-Minuten-Raster ablesen und für die eigene Zeitplanung deuten. GS-Kennen aus187123 mit187128/187130; FSP-Anwenden aus35539 mit minutengenauem Ablesen35549. Das Fünf-Minuten-Raster ist eine didaktische Auswahl innerhalb des minutengenauen FSP-Ziels und keine amtliche FSP-Begrenzung. FSP1/2 nennt volle Stunden37995; diese werden vorrangig durch MA-071 erfasst. Halb/viertel/dreiviertel stehen dort als Differenzierung, nicht als Beleg für alle Fünf-Minuten-Zeitpunkte. MA-006 nutzt denselben FSP-Beleg für GS3 mit anderem GS-Hauptoperator; keine neue FSP-Kompetenz wird gezählt. Keine vollständige GS-Zieldeckung: selbstständiges Einstellen, normgerechtes Schreiben, weitere Darstellungen und Kalenderdatum werden nicht mitgeprüft.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187128",
+        "page912_187130"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35549"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187128",
+        "Q-MA-page912_187130",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35549"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Uhrzeiten auf dem Fünf-Minuten-Raster ablesen und für die eigene Zeitplanung deuten. GS-Kennen aus187123 mit187128/187130; FSP-Anwenden aus35539 mit minutengenauem Ablesen35549. Das Fünf-Minuten-Raster ist eine didaktische Auswahl innerhalb des minutengenauen FSP-Ziels und keine amtliche FSP-Begrenzung. FSP1/2 nennt volle Stunden37995; diese werden vorrangig durch MA-071 erfasst. Halb/viertel/dreiviertel stehen dort als Differenzierung, nicht als Beleg für alle Fünf-Minuten-Zeitpunkte. MA-006 nutzt denselben FSP-Beleg für GS3 mit anderem GS-Hauptoperator; keine neue FSP-Kompetenz wird gezählt. Keine vollständige GS-Zieldeckung: selbstständiges Einstellen, normgerechtes Schreiben, weitere Darstellungen und Kalenderdatum werden nicht mitgeprüft.",
+      "shared_object_suggestion": "Stunden und Fünf-Minuten-Schritte zeigen, welcher Zeitpunkt im Tagesablauf gemeint ist.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind liest an einer vertrauten Uhr Uhrzeiten auf dem Fünf-Minuten-Raster ab.",
+          "criterion": "Stunde und Minute stimmen mit der Anzeige überein; die Minutenangabe ist00, 05, 10, 15, 20, 25, 30, 35, 40, 45, 50 oder 55. Bei analoger Anzeige wird die mit den Minuten fortschreitende Position des Stundenzeigers berücksichtigt. Keine Rundung anderer Minutenwerte, keine Rechnung und kein selbstständiges Einstellen.",
+          "status": "Didaktische Konkretisierung des Erfassens187128 mit Genauigkeit187130 unter Kennen187123; kein vollständiges Darstellen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind liest im Zusammenhang seiner eigenen Zeitplanung eine Uhrzeit auf dem Fünf-Minuten-Raster ab und deutet den gemeinten Zeitpunkt.",
+          "criterion": "Stunde und Minute stimmen mit der vertrauten Anzeige überein und der Zeitpunkt passt zum geklärten Tageszusammenhang. Die Minutenwerte bleiben00, 05, 10, 15, 20, 25, 30, 35, 40, 45, 50 oder 55; bei analoger Anzeige wird die fortschreitende Stundenzeigerposition berücksichtigt. Eine verwendete 24-Stunden-Angabe wird passend gedeutet. Keine Rundung, Umrechnung, Zeitspannenrechnung oder zusätzlichen numerischen Zwischen-/Endergebnisse; kein Einstellen wird vorausgesetzt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Auswahl des Fünf-Minuten-Rasters innerhalb des minutengenauen Ziels35549 unter Anwenden35539; keine amtliche FSP-Einschränkung auf fünf Minuten."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "FSP-Ziel minutengenau · hier didaktisch auf Fünf-Minuten-Raster begrenzt",
+        "detail": "35549 verlangt minutengenaues Ablesen. Die Bemerkung nennt24-Stunden-Angabe, Analog-/Digitalanzeigen und amtliche/umgangssprachliche Formulierungen. Das Fünf-Minuten-Raster stammt aus GS187130 und ist für diesen gemeinsamen Ausschnitt eine didaktische Eingrenzung des FSP-Ziels. Keine Grenze20/100 und keine Höchstdauer ableiten.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35549"
+        ],
+        "planning_rule": "Vertraute Anzeige und Tageszusammenhang der eigenen Zeitplanung klären. Nur Uhrzeiten mit Minuten00, 05, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55 verwenden; keine beliebigen Minutenwerte runden. Bei analoger Anzeige Stundenzeigerposition mitberücksichtigen. Verwendete24-Stunden-Angaben fachlich korrekt deuten, ohne zusätzliche Umrechnung zu verlangen. Kein Einstellen, keine Zeitspannenrechnung, keine neuen numerischen Zwischen-/Endwerte. Der FSP-Lehrplan selbst bleibt minutengenau; keine vollständige Zieldeckung behaupten. Lehrkraftentwürfe gesondert prüfen; Aufgaben, Lernhandlungen und Hilfsmittel nicht automatisch vorgeben."
+      },
+      "evidence_classification": {
+        "gs": "187128 mit187130 unter Kennen187123. Nur Ablesen als Ausschnitt des Erfassens; Darstellen, DIN-Schreibweise und Datum bleiben gesondert.187123 nur Kontext.",
+        "fsp": "35549 nennt minutengenaues Ablesen unter Anwenden35539.24-Stunden-Angabe und Anzeigen/Formulierungen stehen in der Bemerkung. Fünf-Minuten-Auswahl ist didaktisch und keine amtliche FSP-Grenze. MA-006 behält seinen GS3-Bezug unverändert.",
+        "fsp_remark_anchors": [
+          "page139_35549"
         ],
         "context_only_gs_ids": [
           "page912_187123"

@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-064
+# Mathematik-Abgleich · MA-065
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Siebzig Karten dokumentieren begrenzte Anschlüsse. Neunundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064 und MA-070 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Zweiundsiebzig Karten dokumentieren begrenzte Anschlüsse. Fünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070 und MA-072 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Zeitpunkten187128 und5-Minuten-Genauigkeit187130. [MA-064](review_batch_064.json) dokumentiert187127 als Anschlussfrage mit positiven Gegenbezügen.70 Karten,15 Anschlussfragen,133 Inventurzeilen;App1.374 unverändert. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Kalenderdatum187131. [MA-065](review_batch_065.json) ergänzt MA-071 volle Stunden und MA-072 Fünf-Minuten-Ablesen.72 Karten,15 Anschlussfragen,133 Inventurzeilen;weitere Darstellungen bleiben offen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -705,3 +705,10 @@ GS187127 bleibt Anschlussfrage. Tages-/Wochenablauf37989,Dauer37994,Kalenderdate
 Explizites Lesen von Zeitplänen/Kalendern38158 und jahreszeitliche Pläne38437 liegen in5/6;Umrechnen Tag-Woche-Monat-Jahr35697 inKlasse7. Diese Ziele werden nicht in1–4 übernommen. Keine neue Nichtanschlussentscheidung,keine erfundene Zahlenraum- oder Monats-/Jahresgrenze. Alle70 Karten,Feinziele,Kriterien und Geltungsbereiche bleiben unverändert.
 
 70 Karten,15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Eine neue offene Frage,keine neue Karte oder Teildeckung.187127 muss vor Abschluss nochmals geklärt werden. Fortsetzung187128/187130. Deutsch-, Mathematik- und Zahlenraumprüfungen bestanden. Alle Karten, Kriterien und Geltungsbereiche unverändert; nur fünf Audit-/Dokumentationsdateien geändert. App-Dateien und Modul bytegleich zu App1.374. Keine neue Browserprüfung oder App-Erstellung nötig; bestehende MA-063-Nachweise bleiben erhalten. Audit mit Commit 3ac60ac92bdca0d44613a60995f8b77b9f4ac58a veröffentlicht; [Pages-Lauf 43390517388](https://github.com/geafaellt/LernzielKompass/actions/runs/43390517388) erfolgreich. Die tatsächlich ausgelieferte App1.374 ist bytegleich zum unveränderten Prüfstand (SHA256 a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3). Keine neue Browserprüfung behauptet; MA-063-Nachweise bleiben gültig für den unveränderten App-Stand.
+
+
+## MA-065 · App 1.375 · 13.11.2026
+
+MA-071 verbindet volle Stunden ablesen/einstellen mit FSP1/2-Ziel37995 unter Einblick gewinnen37986.24-Stundeneinteilung und halb/viertel/dreiviertel stehen dort als Differenzierung;keine automatische Übernahme. MA-072 verbindet GS1/2-Fünf-Minuten-Ablesen mit FSP3/4-minutengenauem Ziel35549 unter Anwenden35539 im eigenen Zeitplanungskontext. Das Fünf-Minuten-Raster ist eine didaktische Auswahl,keine amtliche FSP-Grenze. GS-Hauptoperator jeweils Kennen187123. MA-006 bleibt unverändert bei GS3/Beherrschen.
+
+Beide Geltungsbereiche sind fachspezifisch:Uhrzeit,Anzeige und Genauigkeit statt erfundener20/100-Grenzen. Keine Zeitspannenrechnung,Umrechnung oder neuen numerischen Zwischen-/Endwerte. MA-072 verlangt kein Einstellen;übrige Darstellungen,DIN-Schreibweise und Kalenderdatum bleiben offen.70 Bestandskarten einschließlich Feinzielen/Kriterien unverändert.72 Karten(50 passend,22 stufenübergreifend),196 Quellen,194 Zielanker,133 Inventurzeilen,15 Anschlussfragen,fünf Nichtanschlussentscheidungen. Zwei Zeilen teilweise geprüft,keine Vollabdeckung. Daten-,Zahlenraum-,Lerngegenstands- und Bestandserhaltungsprüfungen bestanden. Sechs zusammengehörige Zeitkarten mit den ursprünglichen Browserprüfungen gezielt geprüft;beide neuen Karten in beiden GS-Jahrgängen und bei320px/390px erfolgreich. Ein mobiler Überlauf der Minutenliste wurde durch Leerzeichen behoben und die betroffene Prüfung wiederholt. Ziele/Kriterien/Grenzen,leere Aufgaben-/Hilfsmittelfelder und Lehrkraftentwürfe geprüft. Kein vollständiger72-Karten-Browserlauf behauptet;keine UI-Codeänderung. Veröffentlichung und öffentliche Prüfung noch ausstehend.

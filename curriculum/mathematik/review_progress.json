@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-064",
+  "last_batch": "MA-065",
   "complete": false,
   "counts": {
-    "cards": 70,
-    "cross_band": 21
+    "cards": 72,
+    "cross_band": 22
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2442,10 +2442,49 @@
       "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187128": {
+      "id": "page912_187128",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erfassen und Darstellen von Zeitpunkten",
+      "remarks": "Schreibung der Uhrzeit nach DIN 5008 12:00 Uhr; 07:30 Uhr; 9 Uhr",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187128",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187130": {
+      "id": "page912_187130",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "5-Minuten-Genauigkeit",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187130",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_37995": {
+      "id": "page139_37995",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Ablesen und Einstellen von vollen Stunden an der Uhr",
+      "remarks": "verschiedene Uhren Differenzierung: 24-Stundeneinteilung, umgangssprachlich „halb, viertel, dreiviertel“ ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37995",
+      "grade": "1/2",
+      "area_id": "MA-page139_37746",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187128",
-  "next_step": "GS1/2 Zeitpunkte187128 mit Unterzeile5-Minuten-Genauigkeit187130 gegen beide FSP-Bänder prüfen;danach Kalenderdatum187131.187127 bleibt neue Anschlussfrage:Tag/Woche als qualitativen Dauerbezug getrennt von Monat/Jahr und Kalenderorientierung klären.70 Karten,15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. MA-068 deutet Angaben,MA-069 erfasst Dauer qualitativ,MA-070 vergleicht nur Ganzstundendauern;keine automatische Tages-/Wochendeckung. App1.374 bleibt unverändert. Audit veröffentlicht; unveränderte App1.374 live bytegleich bestätigt. Nachweise in MA-064.",
+  "next_id": "page912_187131",
+  "next_step": "GS1/2 Kalenderdatum187131 gegen beide FSP-Bänder prüfen;danach Stützpunktvorstellungen zu Zeitspannen187133. MA-071 volle Stunden stufengleich,MA-072 Fünf-Minuten-Ablesen stufenübergreifend. Weitere Darstellungen/Einstellen nichtvoller Stunden187128/187130 und15 bisherige Anschlussfragen einschließlich187127 bleiben offen.72 Karten(50 passend,22 stufenübergreifend),133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2685,9 +2724,18 @@
         "page139_37995"
       ],
       "decision": "FSP1/2 belegt Dauer/Anfang/Ende und Zeitgefühl;MA-069 integriert den passenden qualitativen Ausschnitt. Für Vergleich numerisch bekannter Zeitspannen in vollen Stunden ist35552 unter Anwenden35539 der ausdrückliche Beleg. Die Stufenüberschreitung folgt der konkreten Vergleichsaussage,nicht allein dem Zahlenraum.1/2-Vergleichsmöglichkeiten bleiben positiv und gesondert zu prüfen."
+    },
+    "MA-072": {
+      "same_band_candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "decision": "Volle Stunden werden stufengleich in MA-071 integriert.1/2-Differenzierung halb/viertel/dreiviertel ist positiv, belegt aber nicht das gesamte Fünf-Minuten-Raster.3/4-Ziel35549 ist minutengenau und trägt die didaktische Auswahl aller Fünf-Minuten-Uhrzeiten; nicht wegen eines kleineren Zahlenraums gewählt. MA-006 nutzt denselben FSP-Beleg mit eigenem GS3-Anker."
     }
   },
-  "last_review_file": "review_batch_064.json",
+  "last_review_file": "review_batch_065.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3339,6 +3387,18 @@
       "scope": "Minutenangaben und Vergleichen/Ordnen/Darstellen von Minutendauern sowie weitere Stunden-Darstellungen. MA-070 deckt nur bekannte Zeitspannen in vollen Stunden. FSP35547 nennt1h=60min und Messen nach Stunden/Minuten als positiven Gegenbezug;das belegt nicht automatisch sämtliche Dauernvergleiche. Minutengenaues Uhrlesen35549 bleibt Zeitpunktkompetenz und ersetzt keine Minutendauerprüfung.",
       "status": "offen",
       "review": "MA-063"
+    },
+    {
+      "gs_id": "page912_187128",
+      "scope": "Weitere Darstellungen von Zeitpunkten, selbstständiges Einstellen nichtvoller Stunden, DIN-Schreibweise und Kalenderdatum187131 bleiben offen. MA-071 nur Ablesen/Einstellen voller Stunden;MA-072 nur Ablesen im Fünf-Minuten-Raster. Zeitpunkte nicht mit Dauern verwechseln.",
+      "status": "offen",
+      "review": "MA-065"
+    },
+    {
+      "gs_id": "page912_187130",
+      "scope": "Das Ablesen im Fünf-Minuten-Raster ist durch MA-072 begrenzt zugeordnet; MA-071 umfasst nur volle Stunden. Einstellen und weitere Darstellungen nichtvoller Stunden sowie Transfer zwischen Anzeigen und normgerechter Schreibweise bleiben offen. FSP1/2-Differenzierung halb/viertel/dreiviertel37995 bleibt positiver Teilbezug, kein Beleg für sämtliche Fünf-Minuten-Schritte.",
+      "status": "offen",
+      "review": "MA-065"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3363,7 +3423,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Inventurzeilen unverändert. MA-064 prüft187127 als neue offene Anschlussfrage mit positiven Gegenbezügen;keine neue Zieldeckung/Karte und kein Nichtanschluss.70 Karten,15 Anschlussfragen,fünf Nichtanschlussentscheidungen. Fortsetzung187128/187130;187127 vor Gesamtabgleichsabschluss erneut klären.",
+    "note": "133 Zeilen erhalten;MA-065 prüft187128/187130 teilweise mit zwei Karten,187123 nur Kontext. Keine Vollabdeckung,keine neue Frage,kein neuer Nichtanschluss. Fortsetzung187131.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3512,6 +3572,14 @@
         "MA-070": "unspecified"
       },
       "note": "Qualitative Dauer ohne Zahlengrenze;Ganzstundenvergleich mit vorab festzulegendem Bereich einschließlich aller relevanten Zwischen-/Endwerte. Keine Höchstdauer erfunden.68 vorhandene Karten unverändert."
+    },
+    "follow_up_clock_times": {
+      "batch": "MA-065",
+      "cards": {
+        "MA-071": "domain_specific",
+        "MA-072": "domain_specific"
+      },
+      "note": "Volle Stunden ausdrücklich;Fünf-Minuten-Raster didaktische Auswahl innerhalb minutengenauen Ziels. Keine20/100-Grenze, Dauerrechnung oder erfundene Höchstdauer;70 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3532,13 +3600,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-063",
-    "status": "verified",
-    "app_version": "1.374",
-    "app_commit": "cca692c35c37c9d14d5d76f0614d5a75fdbeacdd",
-    "pages_run": 43381186256,
-    "live_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3",
-    "browser": "MA-069/070 live in both GS grades and mobile320/390 passed;all70 local in9 subsets"
+    "batch": "MA-065",
+    "status": "pending",
+    "app_version": "1.375",
+    "previous_verified_version": "1.374"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

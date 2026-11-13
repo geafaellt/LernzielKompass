@@ -1,0 +1,240 @@
+{
+  "id": "MA-065",
+  "date": "2026-11-13",
+  "base_commit": "462c5ac42663b4b65b0637a9d0619205ebc5843d",
+  "scope": "GS1/2 Zeitpunkte187128 und5-Minuten-Genauigkeit187130:volle Stunden und Fünf-Minuten-Ablesen",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "9f767ce1cca41ae9fa562350354966249572d03ee95affc44f932e721ec3b36f",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_187123",
+      "level": 1,
+      "parent_target_id": "page912_187123",
+      "target": "Kennen des Umgangs mit der Größe Zeit in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187128",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erfassen und Darstellen von Zeitpunkten",
+      "remarks": "Schreibung der Uhrzeit nach DIN 5008 12:00 Uhr; 07:30 Uhr; 9 Uhr",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187128",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187130",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "5-Minuten-Genauigkeit",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187130",
+      "grade": "1/2"
+    },
+    {
+      "id": "page912_187131",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Ablesen und Angeben des Datums am Kalender",
+      "remarks": "➔ SU, Kl. 1/2, LB 5 ➔ SU, Kl. 1/2, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187131",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37986",
+      "level": 1,
+      "parent_target_id": "page139_37986",
+      "target": "Einblick gewinnen in den Umgang mit der Zeit in Alltagssituationen",
+      "remarks": "➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37989",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Einteilen der Zeit im Tages- und Wochenablauf",
+      "remarks": "Entwickeln des Gefühls für Zeitspannen Pünktlichkeit, Zeit für sich und für andere Stilleerfahrungen, Zeitbeschränkung Stundenplan, Wochenende, Feiertage ⇒ Wahrnehmungsförderung ➔ DE - HKS, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37994",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Dauer von Ereignissen, deren Anfang und Ende",
+      "remarks": "Zeitspanne, -punkt ermitteln Ferien, Schultag, Unterrichtsstunde",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_37995",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Ablesen und Einstellen von vollen Stunden an der Uhr",
+      "remarks": "verschiedene Uhren Differenzierung: 24-Stundeneinteilung, umgangssprachlich „halb, viertel, dreiviertel“ ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37995",
+      "grade": "1/2"
+    },
+    {
+      "id": "page139_35539",
+      "level": 1,
+      "parent_target_id": "page139_35539",
+      "target": "Anwenden von Zeitvorstellungen auf das Planen der eigenen Zeit",
+      "remarks": "Schul- und Freizeit ⇒ Werteorientierung ➔ ETH, Kl. 3/4, LB 4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35547",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Beziehung: 1 Stunde (h) = 60 Minuten (min)",
+      "remarks": "Messen der Zeit nach Stunden und Minuten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35549",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "minutengenaues Ablesen der Uhr",
+      "remarks": "24-Stunden-Angabe, Analog- und Digitalanzeigen amtliche und umgangssprachliche Formulierungen verwenden ➔ DE - HKS, Kl. 3/4, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35549",
+      "grade": "3/4"
+    },
+    {
+      "id": "page139_35552",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Zeitspannen schätzen, vergleichen und berechnen, Zeitpunkt bestimmen",
+      "remarks": "in vollen Stunden Zeitgefühl weiterentwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "grade": "3/4"
+    }
+  ],
+  "source_verification": "Amtliches HTML frisch geprüft;Ziel,Bemerkung,Hauptoperator und Stufenband getrennt. Kein neuer PDF-Abgleich behauptet.37995 unter37986 in1/2;35549 unter35539 in3/4.187131 nur Fortsetzungskontext.",
+  "new_cards": [
+    "MA-071",
+    "MA-072"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-006",
+    "MA-068",
+    "MA-069",
+    "MA-070"
+  ],
+  "existing_card_review": "Alle70 Bestandskarten unverändert. MA-006 bleibt GS3/minutengenau mit Beherrschen;MA-068 Bedeutung vertrauter Angabe,MA-069 Dauer qualitativ,MA-070 Ganzstundendauernvergleich. Neue GS1/2-Karten sind keine neue FSP-Kompetenzzählung bei35549.",
+  "decisions": [
+    {
+      "gs_id": "page912_187128",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-071",
+        "MA-072"
+      ],
+      "same_band_candidates": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "cross_band_candidates": [
+        "page139_35539",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: volle Stunden ablesen und einstellen. GS187128/187130 stehen unter Kennen187123; volle Stunden sind nur ein Teil des Fünf-Minuten-Rasters. FSP37995 nennt Ablesen und Einstellen voller Stunden ausdrücklich unter Einblick gewinnen37986. Die Bemerkung nennt verschiedene Uhren sowie 24-Stundeneinteilung und halb/viertel/dreiviertel als Differenzierung; diese Erweiterungen werden nicht als Pflichtumfang der Karte übernommen. Keine vollständige GS-Zieldeckung: übrige Fünf-Minuten-Zeitpunkte, Datum und weitere Darstellungsformen bleiben offen. Der Unterschied betrifft Ablesegenauigkeit und Anforderungen, keinen allgemeinen Rechenzahlenraum. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Uhrzeiten auf dem Fünf-Minuten-Raster ablesen und für die eigene Zeitplanung deuten. GS-Kennen aus187123 mit187128/187130; FSP-Anwenden aus35539 mit minutengenauem Ablesen35549. Das Fünf-Minuten-Raster ist eine didaktische Auswahl innerhalb des minutengenauen FSP-Ziels und keine amtliche FSP-Begrenzung. FSP1/2 nennt volle Stunden37995; diese werden vorrangig durch MA-071 erfasst. Halb/viertel/dreiviertel stehen dort als Differenzierung, nicht als Beleg für alle Fünf-Minuten-Zeitpunkte. MA-006 nutzt denselben FSP-Beleg für GS3 mit anderem GS-Hauptoperator; keine neue FSP-Kompetenz wird gezählt. Keine vollständige GS-Zieldeckung: selbstständiges Einstellen, normgerechtes Schreiben, weitere Darstellungen und Kalenderdatum werden nicht mitgeprüft.",
+      "prerequisites": "Vertraute Anzeige und geklärter Tageszusammenhang;fürMA-072 eigener Zeitplanungskontext,Stunden-/Minutenunterscheidung und Orientierung im gewählten Raster. Keine Umrechnung oder Dauerberechnung.",
+      "uncertainty": "Fünf-Minuten-Auswahl ist didaktische Eingrenzung;FSP3/4-Lehrplan bleibt minutengenau.1/2-Differenzierungen sind positive Teilbezüge,keine universelle Fünf-Minuten-Abdeckung. Keine automatische vollständige GS-Darstellungsdeckung.",
+      "remaining": "Weitere Darstellungen von Zeitpunkten, selbstständiges Einstellen nichtvoller Stunden, DIN-Schreibweise und Kalenderdatum187131 bleiben offen. MA-071 nur Ablesen/Einstellen voller Stunden;MA-072 nur Ablesen im Fünf-Minuten-Raster. Zeitpunkte nicht mit Dauern verwechseln."
+    },
+    {
+      "gs_id": "page912_187130",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-071",
+        "MA-072"
+      ],
+      "same_band_candidates": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "cross_band_candidates": [
+        "page139_35539",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: volle Stunden ablesen und einstellen. GS187128/187130 stehen unter Kennen187123; volle Stunden sind nur ein Teil des Fünf-Minuten-Rasters. FSP37995 nennt Ablesen und Einstellen voller Stunden ausdrücklich unter Einblick gewinnen37986. Die Bemerkung nennt verschiedene Uhren sowie 24-Stundeneinteilung und halb/viertel/dreiviertel als Differenzierung; diese Erweiterungen werden nicht als Pflichtumfang der Karte übernommen. Keine vollständige GS-Zieldeckung: übrige Fünf-Minuten-Zeitpunkte, Datum und weitere Darstellungsformen bleiben offen. Der Unterschied betrifft Ablesegenauigkeit und Anforderungen, keinen allgemeinen Rechenzahlenraum. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Uhrzeiten auf dem Fünf-Minuten-Raster ablesen und für die eigene Zeitplanung deuten. GS-Kennen aus187123 mit187128/187130; FSP-Anwenden aus35539 mit minutengenauem Ablesen35549. Das Fünf-Minuten-Raster ist eine didaktische Auswahl innerhalb des minutengenauen FSP-Ziels und keine amtliche FSP-Begrenzung. FSP1/2 nennt volle Stunden37995; diese werden vorrangig durch MA-071 erfasst. Halb/viertel/dreiviertel stehen dort als Differenzierung, nicht als Beleg für alle Fünf-Minuten-Zeitpunkte. MA-006 nutzt denselben FSP-Beleg für GS3 mit anderem GS-Hauptoperator; keine neue FSP-Kompetenz wird gezählt. Keine vollständige GS-Zieldeckung: selbstständiges Einstellen, normgerechtes Schreiben, weitere Darstellungen und Kalenderdatum werden nicht mitgeprüft.",
+      "prerequisites": "Vertraute Anzeige und geklärter Tageszusammenhang;fürMA-072 eigener Zeitplanungskontext,Stunden-/Minutenunterscheidung und Orientierung im gewählten Raster. Keine Umrechnung oder Dauerberechnung.",
+      "uncertainty": "Fünf-Minuten-Auswahl ist didaktische Eingrenzung;FSP3/4-Lehrplan bleibt minutengenau.1/2-Differenzierungen sind positive Teilbezüge,keine universelle Fünf-Minuten-Abdeckung. Keine automatische vollständige GS-Darstellungsdeckung.",
+      "remaining": "Das Ablesen im Fünf-Minuten-Raster ist durch MA-072 begrenzt zugeordnet; MA-071 umfasst nur volle Stunden. Einstellen und weitere Darstellungen nichtvoller Stunden sowie Transfer zwischen Anzeigen und normgerechter Schreibweise bleiben offen. FSP1/2-Differenzierung halb/viertel/dreiviertel37995 bleibt positiver Teilbezug, kein Beleg für sämtliche Fünf-Minuten-Schritte."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "new_open_connection_questions": 0,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 2,
+    "updated_cards": 0,
+    "cards": 72,
+    "cross_band_cards": 22,
+    "source_links": 196,
+    "target_anchors": 194,
+    "audit_rows": 133,
+    "open_connection_questions": 15,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 Kalenderdatum187131 gegen beide FSP-Bänder prüfen;danach Stützpunktvorstellungen zu Zeitspannen187133. MA-071 volle Stunden stufengleich,MA-072 Fünf-Minuten-Ablesen stufenübergreifend. Weitere Darstellungen/Einstellen nichtvoller Stunden187128/187130 und15 bisherige Anschlussfragen einschließlich187127 bleiben offen.72 Karten(50 passend,22 stufenübergreifend),133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten.",
+  "tests": {
+    "status": "passed",
+    "data_checks": "update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects passed",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 70,
+      "old_sources_unchanged": 193,
+      "old_anchors_unchanged": 191,
+      "previous_questions_unchanged": 15,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 133,
+      "changed_audit_ids": [
+        "page912_187123",
+        "page912_187128",
+        "page912_187130"
+      ],
+      "new_unique_fsp_anchors": 1,
+      "nonmath_unchanged_except_version_and_update_date": true,
+      "root_dist_identical": true,
+      "html_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce",
+      "html_blob_sha": "21da5e41cafae9632f9746b7c65ca5864fe2e78d"
+    },
+    "scope": "Both new cards domain_specific, no invented numerical maximum. MA-071 whole hours explicitly in target; MA-072 five-minute selection didactic within minute-accurate FSP target. No duration arithmetic, conversion or added intermediate/final numerical results.",
+    "browser_local": "Original check-mathematik-browser assertions with only card loop filtered to MA-006,MA-068,MA-069,MA-070,MA-071,MA-072 passed; all grade/area counts retained. Exact goal/criterion adoption, scope/source visibility, empty tasks/aids, drafts, subject isolation, reload and mobile follow-up passed. No full72-card run claimed. No UI-code change.",
+    "browser_changed_card_mobile": "MA-071 and MA-072 passed in both GS grades and directly at320px/390px. Initial MA-072 mobile overflow caused by unspaced minute list; spaces added in new card only, data/build/preservation and targeted MA-072 rerun passed. Initial failure log retained locally.",
+    "browser_environment": "Local Chromium via Playwright; fresh targeted sessions, background throttling and smooth scrolling disabled;60s action timeout.",
+    "source_check": "Fresh official HTML with target/remark hierarchy and actual1/2,3/4 headings verified. No fresh PDF verification claimed.",
+    "browser_live": "pending targeted new cards"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.375",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "target_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce"
+  }
+}
