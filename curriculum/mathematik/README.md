@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-061
+# Mathematik-Abgleich · MA-062
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Siebenundsechzig Karten dokumentieren begrenzte Anschlüsse. Siebenundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Achtundsechzig Karten dokumentieren begrenzte Anschlüsse. Achtundvierzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062 und MA-064 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung im Zeitblock187123 bei Uhren/Kalendern187124. [MA-061](review_batch_061.json) präzisiert MA-004 um Länge/Meter und Vergleichssprache aus187122.67 Karten,14 Anschlussfragen,133 Inventurzeilen;16 Zeitzeilen nur inventarisiert. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Zeitspannen187125 und ihren Einheiten187126/187127. [MA-062](review_batch_062.json) ergänzt einen begrenzten GS-Zeitbezug zur Deutung vertrauter Uhr-/Kalenderangaben (MA-068).68 Karten,14 Anschlussfragen,133 Inventurzeilen;keine zusätzliche einzigartige FSP-Kompetenz gezählt. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -678,3 +678,12 @@ Die bestehende MA-004 erfasst nun aus GS187122 die Benennung von Länge/Meter un
 Kein zusätzlicher Nachweis aller Einheitenkürzel. Zahlenraum und Darstellungsform bleiben vorab festzulegen;keine Höchstlänge erfunden und keine20-m-Grenze aus RechenkarteMA-067 übernommen. Alle relevanten Zwischen-/Endwerte bleiben im festgelegten Rahmen. Aufgaben,Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung.
 
 67 Karten (47 passend,20 stufenübergreifend),186 Quellen,184 Zielanker,133 Inventurzeilen,14 Anschlussfragen und fünf Nichtanschlussentscheidungen. Keine neue Karte;eine neue Teilzuordnung zur bestehenden MA-004.66 andere Karten und alle bisherigen Restumfänge/Anschlussfragen unverändert.16 Zeilen des folgenden Zeitblocks nur inventarisiert,keine neue fachliche Deckung. Fortsetzung187124. Vollständige Längenbegriffsliste und weitere Restumfänge bleiben offen. Der Zählwort-Tippfehler im MA-060-Abschnitt wurde auf67 korrigiert. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 67 Mathematikkarten in neun frischen Browsergruppen erfolgreich geprüft; alle 380 Karten in der Quellen-/Hinweisprüfung bestätigt. Kein ununterbrochener 67-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-004 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlicht mit Commit 817d334d836e8e54959ddf72203084b78a0f9602 und erfolgreichem [Pages-Lauf 43269918448](https://github.com/geafaellt/LernzielKompass/actions/runs/43269918448). App 1.372 ist live bytegleich zum geprüften Stand (SHA256 acdd31b44383335c5e5924ad31882f7cb3ff2807e1b301c172584e876898b98a). Öffentliche Prüfung von MA-004 in beiden GS-Jahrgängen einschließlich Ziel-/Kriterienübernahme, Quellen, unverändertem vorab festzulegendem Zahlen-/Darstellungsrahmen einschließlich aller relevanten Zwischen- und Endwerte, Entwurfserhalt, Fachwechsel und Neuladen bestanden; zusätzlich direkt bei 320px und 390px an Karte und Zielen ohne horizontalen Überlauf geprüft. Kein vollständiger 67-Karten-Livedurchlauf behauptet.
+
+
+## MA-062 · App 1.373 · 13.11.2026
+
+MA-068 verbindet GS-Erkunden von Uhren/Kalendern187124 mit einem engen Bedeutungsaspekt: eine bereits sicher zugängliche Zeitangabe deuten. FSP37959 nennt Umweltdaten im Ziel,Uhr/Kalender in der Bemerkung. GS-Kennen187123 und FSP-Beherrschen37931 bleiben getrennt;Einblick37986 aus dem benachbarten Zeitblock wird nicht übertragen. Beide FSP-Bänder geprüft.
+
+Fachspezifischer Geltungsbereich:bekannte Zeitinformation,keine zusätzliche Ablesegenauigkeit,Datumsschreibweise oder Rechnung. Keine erfundene20/100-Uhrzeit-/Datumsgrenze und keine neuen Zwischen-/Endwerte durch Umrechnung. Aufbau/Funktionsweise,verschiedene Anzeigen,Jahreskreis und Zeitdauerbegriff bleiben Restumfang. MA-013 nutzt denselben FSP-Beleg für einen anderen GS-Zielkontext;MA-068 ist keine neue FSP-Kompetenz. MA-006 bleibt minutengenaues Ablesen in GS3. Alle67 vorhandenen Karten unverändert.
+
+68 Karten(48 passend,20 stufenübergreifend),188 Quellen,186 Zielanker,133 Inventurzeilen,14 Anschlussfragen und fünf Nichtanschlussentscheidungen. Eine neue GS-Teilprüfung,keine Vollabdeckung. Fortsetzung187125. Aufgaben,Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung. Daten-, Zahlenraum- und Bestandserhaltungsprüfungen bestanden. Alle 68 Mathematikkarten in neun frischen Browsergruppen erfolgreich geprüft; alle 381 Karten in der Quellen-/Hinweisprüfung bestätigt. Ein Browserteil wurde nach einem Scroll-Zeitlimit in einer bestehenden Karte mit unveränderten Prüfregeln erfolgreich wiederholt. Kein ununterbrochener 68-Karten-Gesamtlauf behauptet. Ziel-/Kriterienübernahme, sichtbare FSP-Grenzen, leere Aufgaben-/Hilfsmittelfelder, Entwurfserhalt, Fachwechsel und Neuladen bestätigt. Zusätzlich MA-068 direkt bei 320px und 390px auf sichtbaren Geltungsbereich an Karte und Zielen sowie ohne horizontalen Überlauf geprüft. Veröffentlichung und öffentliche Prüfung noch ausstehend.

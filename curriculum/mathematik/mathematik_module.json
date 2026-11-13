@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-12.9",
-  "checked_on": "2026-11-12",
+  "version": "MA-2026-11-13.1",
+  "checked_on": "2026-11-13",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1225,6 +1225,18 @@
       "id": "Q-MA-page912_187122",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187122",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187123",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187124",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187124",
       "version": "2026"
     }
   ],
@@ -6707,6 +6719,78 @@
         ],
         "context_only_gs_ids": [
           "page912_1922"
+        ]
+      }
+    },
+    {
+      "id": "MA-068",
+      "subject": "Mathematik",
+      "theme": "Bedeutung einer Zeitangabe auf Uhr oder Kalender",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · vertraute Zeitinformation deuten",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Uhren und Kalender als Zeitmesser erkunden187124 unter Kennen187123; Ausschnitt Bedeutung einer vertrauten Angabe",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Umweltdaten deuten37959 unter Beherrschen37931; Uhr und Kalender in der Bemerkung",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Kennen · FSP: Beherrschen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: die Bedeutung einer vertrauten Angabe auf Uhr oder Kalender als Zeitinformation verstehen. GS187124 nennt das Erkunden von Uhren und Kalendern unter Kennen187123. FSP37959 nennt das Deuten von Umweltdaten im Ziel; Uhr und Kalender stehen in dessen Bemerkung. Der FSP-Hauptoperator ist Beherrschen37931, nicht Einblick gewinnen aus dem benachbarten Zeitziel37986. Die Auswahl einer bereits sicher zugänglichen Zeitangabe und ihre Deutung als Uhrzeit oder Kalendertag sind didaktische Konkretisierungen. Keine vollständige GS-Zieldeckung: Aufbau und Funktionsweise der Zeitmesser, verschiedene Anzeigen, Jahreskreis und Zeitdauerbegriff werden nicht vollständig erfasst. Ablesegenauigkeit, Datumsschreibweise und Zeitspannenrechnung sind keine zusätzlichen Anforderungen. MA-013 nutzt denselben FSP-Beleg für allgemeine Zahlenbedeutungen; diese Karte ist ein eigener GS-Zeitbezug mit anderem GS-Hauptoperator und keine neue FSP-Kompetenz.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187124"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37959"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187124",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37959"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: die Bedeutung einer vertrauten Angabe auf Uhr oder Kalender als Zeitinformation verstehen. GS187124 nennt das Erkunden von Uhren und Kalendern unter Kennen187123. FSP37959 nennt das Deuten von Umweltdaten im Ziel; Uhr und Kalender stehen in dessen Bemerkung. Der FSP-Hauptoperator ist Beherrschen37931, nicht Einblick gewinnen aus dem benachbarten Zeitziel37986. Die Auswahl einer bereits sicher zugänglichen Zeitangabe und ihre Deutung als Uhrzeit oder Kalendertag sind didaktische Konkretisierungen. Keine vollständige GS-Zieldeckung: Aufbau und Funktionsweise der Zeitmesser, verschiedene Anzeigen, Jahreskreis und Zeitdauerbegriff werden nicht vollständig erfasst. Ablesegenauigkeit, Datumsschreibweise und Zeitspannenrechnung sind keine zusätzlichen Anforderungen. MA-013 nutzt denselben FSP-Beleg für allgemeine Zahlenbedeutungen; diese Karte ist ein eigener GS-Zeitbezug mit anderem GS-Hauptoperator und keine neue FSP-Kompetenz.",
+      "shared_object_suggestion": "Eine Uhrzeit oder ein Kalendertag und die zeitliche Information, die damit gemeint ist.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt, welche zeitliche Information eine vertraute, bereits sicher zugängliche Angabe auf einer Uhr oder in einem Kalender enthält.",
+          "criterion": "Die beschriebene Bedeutung passt zur konkreten Angabe: eine Uhrzeit bezeichnet einen Zeitpunkt im Tagesablauf, eine ausgewählte Kalenderangabe einen bestimmten Tag. Die Angabe wird nicht als Anzahl oder Dauer ausgegeben. Eine zusätzliche Ablese-, Schreib-, Umrechnungs- oder Rechenleistung wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung eines engen Ausschnitts von Erkunden187124 unter Kennen187123; keine vollständige Funktions- oder Zeitdauerprüfung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind deutet eine vertraute, bereits sicher zugängliche Angabe auf einer Uhr oder in einem Kalender zutreffend als zeitliche Information im konkreten Umweltzusammenhang.",
+          "criterion": "Die Bedeutung der Angabe wird zutreffend erklärt und ihrem Bezug zugeordnet: Uhrzeit als Zeitpunkt im Tagesablauf oder Kalenderangabe als bestimmter Tag. Zeitpunkt beziehungsweise Kalendertag wird nicht mit Anzahl oder Zeitdauer verwechselt. Nur die vorher geklärte vertraute Angabe und Darstellungsform werden verwendet; zusätzliche Zwischen- oder Endergebnisse durch Rechnung oder Umrechnung entstehen nicht. Eine neue Ablesegenauigkeit oder selbstständige Datumsschreibweise wird nicht verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des Deutens37959 unter Beherrschen37931. Uhr/Kalender sind Bemerkungsbeispiele; Zeitinformation als ausgewählter Ausschnitt, kein zusätzlicher Operator aus37986."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Vertraute Uhr-/Kalenderangabe · Bedeutung deuten · keine zusätzliche Rechnung",
+        "detail": "37959 nennt Deuten von Umweltdaten; Uhr und Kalender stehen in der Bemerkung. Die Zielzeile gibt dafür keine allgemeine numerische Obergrenze oder Ablesegenauigkeit vor. Auch GS187123/187124 legt keine eigene Zahlengrenze fest. Allgemeine Zahlenräume20/100 sind keine Uhrzeit- oder Datumsgrenzen. Volle Stunden37995 und minutengenaues Ablesen35549 gehören zu anderen Zielzeilen und werden nicht mitübernommen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37959"
+        ],
+        "planning_rule": "Eine zeitliche Angabe und Darstellungsform wählen, die dem Kind bereits sicher zugänglich und fachlich geklärt ist. Nur deren Bedeutung als Uhrzeit oder Kalendertag beurteilen. Benötigte Ablesevoraussetzungen vorher prüfen; diese Karte validiert keine unbekannten Anzeigen, neue Genauigkeit oder selbstständige Datumsschreibweise. Keine aus20/100 erfundene Uhrzeit-/Datumsgrenze; auch24 oder60 sind hier keine abgeleiteten Rechenraumgrenzen. Zeitpunkte und Kalendertage nicht mit Dauern verwechseln. Keine zusätzliche Rechnung, Umrechnung oder Erzeugung neuer Zwischen-/Endwerte; falls Lehrkraftentwürfe solche Anforderungen ergänzen, sind diese gesondert zu prüfen. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Freitext ist nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187124 ist Unterziel unter Kennen187123; analoge/digitale Uhren,Kalender,Jahreskreis und Zeitdauerbegriff stehen in der Bemerkung. Die Deutung einer bereits vertrauten Angabe ist ein didaktisch begrenzter Ausschnitt,keine Vollabdeckung des Erkundens.187123 nur Hauptzielkontext.",
+        "fsp": "37959 ist Daten-Unterziel unter Beherrschen37931. Uhr und Kalender sind Bemerkungsbeispiele,keine eigenen Zieloperatoren. Der separate Zeitblock37986 hat Einblick gewinnen;dieser Operator wird nicht auf37959 übertragen. Die Zielzuordnung und der FSP-Beleg von MA-013 bleiben unverändert.",
+        "fsp_remark_anchors": [
+          "page139_37959"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
         ]
       }
     }

@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-061",
+  "last_batch": "MA-062",
   "complete": false,
   "counts": {
-    "cards": 67,
+    "cards": 68,
     "cross_band": 20
   },
   "source_plans": {
@@ -2351,10 +2351,36 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187123": {
+      "id": "page912_187123",
+      "level": 1,
+      "parent_target_id": "page912_187123",
+      "target": "Kennen des Umgangs mit der Größe Zeit in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": "Kennen",
+      "version": "2026"
+    },
+    "page912_187124": {
+      "id": "page912_187124",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erkunden von Uhren und Kalendern als Zeitmesser",
+      "remarks": "Zeitdauerbegriff durch das Beobachten und Vergleichen von Vorgängen erfassen analoge und digitale Uhren, Kalender, Jahreskreis ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187124",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187124",
-  "next_step": "GS1/2 Zeitblock187123 beginnen: zunächst Uhren und Kalender als Zeitmesser187124 gegen beide FSP-Bänder prüfen.16 Zeilen des Zeitblocks sind nur inventarisiert und noch nicht fachlich geprüft;keine neue Zieldeckung. Bestehende Zeitkarten einschließlich MA-006 (GS3,minutengenau) hinsichtlich ihres tatsächlichen Stufen-/Inhaltsbezugs berücksichtigen.67 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Längen-Restumfänge einschließlich gemischter Angaben187116,Einheitenwahl/Umrechnen187120 und vollständiger Begriffsliste187122 bleiben offen. App 1.372 veröffentlicht und live geprüft; Nachweise in MA-061.",
+  "next_id": "page912_187125",
+  "next_step": "GS1/2 Zeitspannen187125 mit Unterzeilen Minuten/Stunden187126 und Tag/Woche/Monat/Jahr187127 gegen beide FSP-Bänder prüfen. Zeitpunkte,Kalendertage und Dauern getrennt halten;FSP37989/37994 sowie35547/35552 mit ihren Hauptoperatoren gesondert prüfen. MA-068 belegt nur Deutung einer vertrauten Uhr-/Kalenderangabe,keine Zeitspannenleistung.68 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten;alle bisherigen Restumfänge bleiben offen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2587,7 +2613,7 @@
       "decision": "FSP1/2-Messen in Metern ist belegt und als MA-063 bevorzugt. Für den eigenständigen Ausschnitt punktbegrenzte Strecken in ganzen Zentimetern ist35516 unter Übertragen35511 der ausdrückliche3/4-Beleg. Kein Ausschluss allein wegen kleinerem Zahlenraum. Nicht das gesamte GS-Messziel wird stufenübergreifend zugeordnet."
     }
   },
-  "last_review_file": "review_batch_061.json",
+  "last_review_file": "review_batch_062.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3196,6 +3222,12 @@
       "scope": "Selbstständiger flexibler Gebrauch der gesamten GS-Längenbegriffsliste einschließlich Millimeter(mm),Zentimeter(cm),Dezimeter(dm),aller Kürzel und wechselnder Vergleichsrichtungen außerhalb des Metervergleichs. MA-004 erfasst nur Benennung von Länge/Meter und sachgerechte Vergleichssprache im vorhandenen Metervergleich. Kein zusätzlicher Schreibnachweis aller Kürzel. FSP3/4 nennt Zentimeter(cm)35515 sowie Meter-/Zentimeterangaben35514 und verschiedene Schreib-/Sprechweisen35518 als positive weitere Bezüge; keine Nichtanschlüsse allein wegen fehlender Karte. Bestehende MA-064 zum Messen in ganzen Zentimetern ersetzt keine vollständige Sprachprüfung.",
       "status": "offen",
       "review": "MA-061"
+    },
+    {
+      "gs_id": "page912_187124",
+      "scope": "Weiteres Erkunden von Aufbau und Funktionsweise von Uhren und Kalendern,Unterschiede analoger/digitaler Anzeigen,Kalenderstrukturen und Jahreskreis sowie Zeitdauerbegriff durch Beobachten/Vergleichen von Vorgängen. MA-068 deckt nur die Bedeutung einer bereits vertrauten Zeitangabe. Ablesen/Einstellen voller Stunden37995 unter Einblick37986 und3/4-minutengenaues Ablesen35549 unter Anwenden35539 sind positive weiterführende Bezüge,keine pauschalen Nichtanschlüsse. Die späteren GS-Zeilen zu Zeitpunkten187128/187130,Datum187131 und Zeitspannen werden dadurch nicht vorweggenommen.",
+      "status": "offen",
+      "review": "MA-062"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3220,7 +3252,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "MA-061:187122 teilweise zur bestehenden MA-004 zugeordnet,keine neue Karte.16 Zeitblockzeilen187123–187139 nur inventarisiert (187129 nicht als Zielzeile vorhanden);133 Zeilen insgesamt.67 Karten,14 Anschlussfragen,fünf Nichtanschlussentscheidungen. Fortsetzung187124.",
+    "note": "133 inventarisierte Zeilen,68 Karten(20 stufenübergreifend).MA-062 prüft187124 teilweise mit MA-068 als eigenständigem GS-Zeitbezug zu bereits verwendetem FSP-Datenbeleg.187123 nur Kontext;keine neue FSP-Kompetenz oder Inventurzeile.14 Anschlussfragen und fünf Nichtanschlussentscheidungen unverändert. Fortsetzung187125.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3354,6 +3386,13 @@
       "status": "unspecified",
       "max_value": null,
       "note": "FSP-Geltungsbereich und alle numerischen Grenzen unverändert. Vergleichssprache/Meterbenennung innerhalb desselben Planungsrahmens;keine Grenze20 aus MA-067 übernommen."
+    },
+    "follow_up_time_information": {
+      "batch": "MA-062",
+      "card": "MA-068",
+      "status": "domain_specific",
+      "max_value": null,
+      "note": "Vertraute Angabe deuten;keine erfundene Uhrzeit-/Datumsgrenze und keine neue Ablese-/Rechenforderung. Bestehende67 Karten und deren Grenzen unverändert."
     }
   },
   "publication_recheck": {
@@ -3374,13 +3413,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-061",
-    "status": "verified",
-    "app_version": "1.372",
-    "app_commit": "817d334d836e8e54959ddf72203084b78a0f9602",
-    "pages_run": 43269918448,
-    "live_sha256": "acdd31b44383335c5e5924ad31882f7cb3ff2807e1b301c172584e876898b98a",
-    "browser": "targeted MA-004 live in both GS grades and mobile320/390 passed;all67 local in9 subsets"
+    "batch": "MA-062",
+    "status": "pending",
+    "app_version": "1.373",
+    "previous_verified_version": "1.372"
   },
   "latest_audit_publication": {
     "batch": "MA-059",
