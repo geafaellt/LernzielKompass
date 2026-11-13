@@ -2445,7 +2445,7 @@
     }
   },
   "next_id": "page912_187128",
-  "next_step": "GS1/2 Zeitpunkte187128 mit Unterzeile5-Minuten-Genauigkeit187130 gegen beide FSP-Bänder prüfen;danach Kalenderdatum187131.187127 bleibt neue Anschlussfrage:Tag/Woche als qualitativen Dauerbezug getrennt von Monat/Jahr und Kalenderorientierung klären.70 Karten,15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. MA-068 deutet Angaben,MA-069 erfasst Dauer qualitativ,MA-070 vergleicht nur Ganzstundendauern;keine automatische Tages-/Wochendeckung. App1.374 bleibt unverändert.",
+  "next_step": "GS1/2 Zeitpunkte187128 mit Unterzeile5-Minuten-Genauigkeit187130 gegen beide FSP-Bänder prüfen;danach Kalenderdatum187131.187127 bleibt neue Anschlussfrage:Tag/Woche als qualitativen Dauerbezug getrennt von Monat/Jahr und Kalenderorientierung klären.70 Karten,15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. MA-068 deutet Angaben,MA-069 erfasst Dauer qualitativ,MA-070 vergleicht nur Ganzstundendauern;keine automatische Tages-/Wochendeckung. App1.374 bleibt unverändert. Audit veröffentlicht; unveränderte App1.374 live bytegleich bestätigt. Nachweise in MA-064.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3541,11 +3541,11 @@
     "browser": "MA-069/070 live in both GS grades and mobile320/390 passed;all70 local in9 subsets"
   },
   "latest_audit_publication": {
-    "batch": "MA-059",
+    "batch": "MA-064",
     "status": "verified",
-    "app_version_unchanged": "1.370",
-    "audit_commit": "7161e8af94a275ddb3e7a09f3391139ad40753f9",
-    "pages_run": 43226912929,
-    "live_sha256": "a2314cffed7c7c5598381c9fe862be61c6c6a5a6391f7a3cc222b622140e89e1"
+    "app_version_unchanged": "1.374",
+    "audit_commit": "3ac60ac92bdca0d44613a60995f8b77b9f4ac58a",
+    "pages_run": 43390517388,
+    "live_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3"
   }
 }

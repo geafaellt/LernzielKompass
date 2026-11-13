@@ -253,13 +253,21 @@
     "browser": "Not rerun: audit-only, no app/UI change. MA-063 local70-card/9-group and targeted public MA-069/MA-070 browser evidence retained without claiming a new run.",
     "build": "update-mathematik and prepare-pages not rerun: no payload/App change. Root/dist byte identity verified.",
     "sources": "Fresh official HTML and row/remark hierarchy verified;5/6 and7 exclusions checked against actual band headings. No fresh PDF check claimed.",
-    "live": "pending byte equality after audit publication"
+    "live": "passed: public App1.374 byte-identical to unchanged local root/dist and previously verified MA-063 app. No new browser run claimed."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "type": "audit_only",
     "app_version_unchanged": "1.374",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "unchanged_app_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3"
+    "unchanged_app_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3",
+    "audit_commit": "3ac60ac92bdca0d44613a60995f8b77b9f4ac58a",
+    "pages_run": 43390517388,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43390517388",
+    "pages_conclusion": "success",
+    "live_app_version": "1.374",
+    "live_byte_identical_to_previous_app": true,
+    "live_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3",
+    "verified_at": "2026-11-13T08:06:38.405030+00:00"
   }
 }
