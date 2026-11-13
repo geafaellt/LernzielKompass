@@ -229,12 +229,20 @@
     "browser_changed_card_mobile": "MA-071 and MA-072 passed in both GS grades and directly at320px/390px. Initial MA-072 mobile overflow caused by unspaced minute list; spaces added in new card only, data/build/preservation and targeted MA-072 rerun passed. Initial failure log retained locally.",
     "browser_environment": "Local Chromium via Playwright; fresh targeted sessions, background throttling and smooth scrolling disabled;60s action timeout.",
     "source_check": "Fresh official HTML with target/remark hierarchy and actual1/2,3/4 headings verified. No fresh PDF verification claimed.",
-    "browser_live": "pending targeted new cards"
+    "browser_live": "passed MA-071 and MA-072 in both GS grades,including exact goal/criterion adoption,source links,visible scope,empty task/aid fields,preserved teacher drafts,subject isolation,reload. Both directly checked at320px/390px for visible card/goal scopes and no horizontal overflow. No full72-card public run claimed; six related cards tested locally and both new cards directly at320px/390px."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.375",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce"
+    "target_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce",
+    "app_commit": "1735965c6710c9b5dfe932356ab071629a17f013",
+    "pages_run": 43396462557,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43396462557",
+    "pages_conclusion": "success",
+    "live_app_version": "1.375",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce",
+    "verified_at": "2026-11-13T08:52:44.625155+00:00"
   }
 }

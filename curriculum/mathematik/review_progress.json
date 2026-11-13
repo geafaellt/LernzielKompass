@@ -2484,7 +2484,7 @@
     }
   },
   "next_id": "page912_187131",
-  "next_step": "GS1/2 Kalenderdatum187131 gegen beide FSP-Bänder prüfen;danach Stützpunktvorstellungen zu Zeitspannen187133. MA-071 volle Stunden stufengleich,MA-072 Fünf-Minuten-Ablesen stufenübergreifend. Weitere Darstellungen/Einstellen nichtvoller Stunden187128/187130 und15 bisherige Anschlussfragen einschließlich187127 bleiben offen.72 Karten(50 passend,22 stufenübergreifend),133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten.",
+  "next_step": "GS1/2 Kalenderdatum187131 gegen beide FSP-Bänder prüfen;danach Stützpunktvorstellungen zu Zeitspannen187133. MA-071 volle Stunden stufengleich,MA-072 Fünf-Minuten-Ablesen stufenübergreifend. Weitere Darstellungen/Einstellen nichtvoller Stunden187128/187130 und15 bisherige Anschlussfragen einschließlich187127 bleiben offen.72 Karten(50 passend,22 stufenübergreifend),133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. App1.375 veröffentlicht und live geprüft;Nachweise in MA-065.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3601,9 +3601,12 @@
   },
   "latest_publication": {
     "batch": "MA-065",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.375",
-    "previous_verified_version": "1.374"
+    "app_commit": "1735965c6710c9b5dfe932356ab071629a17f013",
+    "pages_run": 43396462557,
+    "live_sha256": "129d178bdd34d61bb5762b080fcd478e0770877291ca3605c4c6412673b070ce",
+    "browser": "MA-071/072 live in both GS grades and mobile320/390 passed;six related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
