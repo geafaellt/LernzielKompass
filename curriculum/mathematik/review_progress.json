@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-062",
+  "last_batch": "MA-063",
   "complete": false,
   "counts": {
-    "cards": 68,
-    "cross_band": 20
+    "cards": 70,
+    "cross_band": 21
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2377,10 +2377,75 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187125": {
+      "id": "page912_187125",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Erfassen, Vergleichen, Ordnen und Darstellen von Zeitspannen",
+      "remarks": "direktes und indirektes Vergleichen die Hälfte, ½, ein Viertel, ¼, drei Viertel, ¾, durch Faltaktivität klären",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187125",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187126": {
+      "id": "page912_187126",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Minuten und Stunden",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187126",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_37986": {
+      "id": "page139_37986",
+      "level": 1,
+      "parent_target_id": "page139_37986",
+      "target": "Einblick gewinnen in den Umgang mit der Zeit in Alltagssituationen",
+      "remarks": "➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "grade": "1/2",
+      "area_id": "MA-page139_37746",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "operator": "Einblick gewinnen",
+      "version": "2019"
+    },
+    "page139_37994": {
+      "id": "page139_37994",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Dauer von Ereignissen, deren Anfang und Ende",
+      "remarks": "Zeitspanne, -punkt ermitteln Ferien, Schultag, Unterrichtsstunde",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "grade": "1/2",
+      "area_id": "MA-page139_37746",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "operator": null,
+      "version": "2019"
+    },
+    "page139_35552": {
+      "id": "page139_35552",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Zeitspannen schätzen, vergleichen und berechnen, Zeitpunkt bestimmen",
+      "remarks": "in vollen Stunden Zeitgefühl weiterentwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "grade": "3/4",
+      "area_id": "MA-page139_35419",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187125",
-  "next_step": "GS1/2 Zeitspannen187125 mit Unterzeilen Minuten/Stunden187126 und Tag/Woche/Monat/Jahr187127 gegen beide FSP-Bänder prüfen. Zeitpunkte,Kalendertage und Dauern getrennt halten;FSP37989/37994 sowie35547/35552 mit ihren Hauptoperatoren gesondert prüfen. MA-068 belegt nur Deutung einer vertrauten Uhr-/Kalenderangabe,keine Zeitspannenleistung.68 Karten,14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten;alle bisherigen Restumfänge bleiben offen. App 1.373 veröffentlicht und live geprüft; Nachweise in MA-062.",
+  "next_id": "page912_187127",
+  "next_step": "GS1/2 Zeitspannen in Tag,Woche,Monat,Jahr187127 gegen beide FSP-Bänder prüfen,danach Zeitpunkte187128. MA-069 erfasst Dauer qualitativ;MA-070 vergleicht nur bekannte Ganzstundendauern. Minuten-Rest187126,weitere Vergleichs-/Darstellungsformen187125 und alle bisherigen Anschlussfragen offen halten.70 Karten(49 passend,21 stufenübergreifend),14 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2611,9 +2676,18 @@
         "page139_37974"
       ],
       "decision": "FSP1/2-Messen in Metern ist belegt und als MA-063 bevorzugt. Für den eigenständigen Ausschnitt punktbegrenzte Strecken in ganzen Zentimetern ist35516 unter Übertragen35511 der ausdrückliche3/4-Beleg. Kein Ausschluss allein wegen kleinerem Zahlenraum. Nicht das gesamte GS-Messziel wird stufenübergreifend zugeordnet."
+    },
+    "MA-070": {
+      "same_band_candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "decision": "FSP1/2 belegt Dauer/Anfang/Ende und Zeitgefühl;MA-069 integriert den passenden qualitativen Ausschnitt. Für Vergleich numerisch bekannter Zeitspannen in vollen Stunden ist35552 unter Anwenden35539 der ausdrückliche Beleg. Die Stufenüberschreitung folgt der konkreten Vergleichsaussage,nicht allein dem Zahlenraum.1/2-Vergleichsmöglichkeiten bleiben positiv und gesondert zu prüfen."
     }
   },
-  "last_review_file": "review_batch_062.json",
+  "last_review_file": "review_batch_063.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3228,6 +3302,18 @@
       "scope": "Weiteres Erkunden von Aufbau und Funktionsweise von Uhren und Kalendern,Unterschiede analoger/digitaler Anzeigen,Kalenderstrukturen und Jahreskreis sowie Zeitdauerbegriff durch Beobachten/Vergleichen von Vorgängen. MA-068 deckt nur die Bedeutung einer bereits vertrauten Zeitangabe. Ablesen/Einstellen voller Stunden37995 unter Einblick37986 und3/4-minutengenaues Ablesen35549 unter Anwenden35539 sind positive weiterführende Bezüge,keine pauschalen Nichtanschlüsse. Die späteren GS-Zeilen zu Zeitpunkten187128/187130,Datum187131 und Zeitspannen werden dadurch nicht vorweggenommen.",
       "status": "offen",
       "review": "MA-062"
+    },
+    {
+      "gs_id": "page912_187125",
+      "scope": "Weitere Vergleichs-,Ordnungs- und Darstellungsformen von Zeitspannen,Minuten und andere Einheiten,Bruchanteile sowie selbstständiges Ermitteln der Dauern. MA-069 nur qualitative Dauer zwischen Anfang/Ende;MA-070 nur Vergleich zweier bekannter Ganzstundendauern im eigenen Zeitplanungskontext. Keine vollständige GS-Zieldeckung. FSP1/2-Zeitgefühl37989 und Dauer37994 bleiben positive weitere Bezüge;kein pauschaler Nichtanschluss für andere Dauervergleiche.",
+      "status": "offen",
+      "review": "MA-063"
+    },
+    {
+      "gs_id": "page912_187126",
+      "scope": "Minutenangaben und Vergleichen/Ordnen/Darstellen von Minutendauern sowie weitere Stunden-Darstellungen. MA-070 deckt nur bekannte Zeitspannen in vollen Stunden. FSP35547 nennt1h=60min und Messen nach Stunden/Minuten als positiven Gegenbezug;das belegt nicht automatisch sämtliche Dauernvergleiche. Minutengenaues Uhrlesen35549 bleibt Zeitpunktkompetenz und ersetzt keine Minutendauerprüfung.",
+      "status": "offen",
+      "review": "MA-063"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3252,7 +3338,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 inventarisierte Zeilen,68 Karten(20 stufenübergreifend).MA-062 prüft187124 teilweise mit MA-068 als eigenständigem GS-Zeitbezug zu bereits verwendetem FSP-Datenbeleg.187123 nur Kontext;keine neue FSP-Kompetenz oder Inventurzeile.14 Anschlussfragen und fünf Nichtanschlussentscheidungen unverändert. Fortsetzung187125.",
+    "note": "133 Zeilen unverändert;MA-063 prüft187125 und187126 jeweils teilweise. Zwei Karten sind zwei verschiedene Ausschnitte:qualitative Dauer und Ganzstundenvergleich.187123 nur Kontext.187127 bleibt nächste ungeprüfte Zielzeile.70 Karten,21 stufenübergreifend,14 Anschlussfragen,fünf Nichtanschlussentscheidungen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3393,6 +3479,14 @@
       "status": "domain_specific",
       "max_value": null,
       "note": "Vertraute Angabe deuten;keine erfundene Uhrzeit-/Datumsgrenze und keine neue Ablese-/Rechenforderung. Bestehende67 Karten und deren Grenzen unverändert."
+    },
+    "follow_up_durations": {
+      "batch": "MA-063",
+      "cards": {
+        "MA-069": "domain_specific",
+        "MA-070": "unspecified"
+      },
+      "note": "Qualitative Dauer ohne Zahlengrenze;Ganzstundenvergleich mit vorab festzulegendem Bereich einschließlich aller relevanten Zwischen-/Endwerte. Keine Höchstdauer erfunden.68 vorhandene Karten unverändert."
     }
   },
   "publication_recheck": {
@@ -3413,13 +3507,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-062",
-    "status": "verified",
-    "app_version": "1.373",
-    "app_commit": "f6e97a2802785f9668a52ad712568aec502cca19",
-    "pages_run": 43379409557,
-    "live_sha256": "ee226e24d9e9f5e86649eecd1d8785f107ca8cfc3396d59732d5774c4b3fb8a4",
-    "browser": "targeted MA-068 live in both GS grades and mobile320/390 passed;all68 local in9 subsets"
+    "batch": "MA-063",
+    "status": "pending",
+    "app_version": "1.374",
+    "previous_verified_version": "1.373"
   },
   "latest_audit_publication": {
     "batch": "MA-059",

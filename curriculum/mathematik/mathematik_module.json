@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-13.1",
+  "version": "MA-2026-11-13.2",
   "checked_on": "2026-11-13",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1238,6 +1238,36 @@
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187124",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187125",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187125",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187126",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187126",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37986",
+      "title": "FSP Lernen Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37994",
+      "title": "FSP Lernen Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35552",
+      "title": "FSP Lernen Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -6788,6 +6818,152 @@
         "fsp": "37959 ist Daten-Unterziel unter Beherrschen37931. Uhr und Kalender sind Bemerkungsbeispiele,keine eigenen Zieloperatoren. Der separate Zeitblock37986 hat Einblick gewinnen;dieser Operator wird nicht auf37959 übertragen. Die Zielzuordnung und der FSP-Beleg von MA-013 bleiben unverändert.",
         "fsp_remark_anchors": [
           "page139_37959"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-069",
+      "subject": "Mathematik",
+      "theme": "Die Dauer zwischen Anfang und Ende",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Dauer zwischen Anfang und Ende",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Zeitspannen187125 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie · Dauer, Anfang und Ende37994 unter Einblick gewinnen37986",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: die Dauer eines vertrauten Ereignisses als Zeitspanne zwischen Anfang und Ende erfassen. GS187125 steht unter Kennen187123. FSP37994 nennt Dauer von Ereignissen sowie Anfang und Ende im Ziel unter Einblick gewinnen37986; Ermitteln von Zeitspanne und Zeitpunkt steht in der Bemerkung. Die qualitative Unterscheidung von Beginn, Dauer und Ende ist didaktisch konkretisiert. Kein numerisches Messen, Ablesen oder Berechnen wird verlangt. Keine vollständige GS-Zieldeckung: Vergleichen, Ordnen, vielfältiges Darstellen sowie Einheiten und Bruchanteile bleiben gesonderte Ausschnitte.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187125"
+      ],
+      "fsp_target_ids": [
+        "page139_37986",
+        "page139_37994"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187125",
+        "Q-MA-page139_37986",
+        "Q-MA-page139_37994"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2: die Dauer eines vertrauten Ereignisses als Zeitspanne zwischen Anfang und Ende erfassen. GS187125 steht unter Kennen187123. FSP37994 nennt Dauer von Ereignissen sowie Anfang und Ende im Ziel unter Einblick gewinnen37986; Ermitteln von Zeitspanne und Zeitpunkt steht in der Bemerkung. Die qualitative Unterscheidung von Beginn, Dauer und Ende ist didaktisch konkretisiert. Kein numerisches Messen, Ablesen oder Berechnen wird verlangt. Keine vollständige GS-Zieldeckung: Vergleichen, Ordnen, vielfältiges Darstellen sowie Einheiten und Bruchanteile bleiben gesonderte Ausschnitte.",
+      "shared_object_suggestion": "Ein Ereignis beginnt und endet; die Zeit dazwischen ist seine Dauer.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind unterscheidet bei einem vertrauten Ereignis dessen Anfang und Ende von der Zeitspanne dazwischen.",
+          "criterion": "Anfang und Ende sind dem Ereignis zutreffend zugeordnet; als Dauer wird die dazwischenliegende Zeitspanne bezeichnet und nicht nur einer der beiden Zeitpunkte. Eine numerische Zeitangabe, Messung oder Rechnung wird nicht verlangt.",
+          "status": "Didaktische Konkretisierung des Erfassens von Zeitspannen187125 unter Kennen187123; qualitativer Ausschnitt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt mit bedarfsgerechter Unterstützung bei einem vertrauten Ereignis Anfang und Ende und bezieht dessen Dauer auf die Zeit dazwischen.",
+          "criterion": "Die Zuordnung von Anfang und Ende passt zum vertrauten Ereignis. Die Dauer bezieht sich auf die dazwischenliegende Zeitspanne und nicht ausschließlich auf einen Zeitpunkt. Eine selbstständige Definition, numerische Zeitangabe, Messung oder Rechnung wird nicht vorausgesetzt; neue numerische Zwischen- oder Endergebnisse entstehen nicht.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung von37994 unter Einblick gewinnen37986; Unterstützung dem einführenden Zugang anpassen."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Dauer qualitativ zwischen Anfang und Ende · keine numerische Mess- oder Rechenforderung",
+        "detail": "37994 nennt Dauer von Ereignissen, deren Anfang und Ende. Eine numerische Höchstdauer oder Einheit wird dort nicht festgelegt. Dieser qualitative Ausschnitt braucht keine erfundene Zahlenraumgrenze. Volle Stunden37995 betrifft eine andere Zielzeile zum Uhrlesen und wird hier nicht als Begrenzung übertragen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37994"
+        ],
+        "planning_rule": "Ein vertrautes Ereignis mit fachlich geklärtem Anfang und Ende zugrunde legen. Dauer als Zeitspanne zwischen beiden unterscheiden; keine Zeitpunkte mit Dauern gleichsetzen. Keine zusätzliche Ablese-, Mess-, Vergleichs-, Definitions- oder Rechenleistung verlangen. Es werden keine numerischen Zwischen-/Endwerte erzeugt. Falls eigene Entwürfe Zahlen oder neue Einheiten hinzufügen, diese Anforderungen gesondert prüfen. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187125 ist Unterziel unter Kennen187123. Hier nur Erfassen einer Dauer; Vergleichsverfahren und Bruchanteile aus der Bemerkung nicht automatisch eingeschlossen.187123 nur Kontext.",
+        "fsp": "Dauer,Anfang,Ende stehen in Ziel37994 unter Einblick gewinnen37986. Zeitspanne/-punkt ermitteln steht in der Bemerkung. Qualitative Unterscheidung und Unterstützung sind didaktische Konkretisierungen,kein neuer Hauptoperator.",
+        "fsp_remark_anchors": [
+          "page139_37994"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-070",
+      "subject": "Mathematik",
+      "theme": "Zeitspannen in vollen Stunden vergleichen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Vergleich in vollen Stunden · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Zeitspannen187125 unter Kennen187123; Stunden aus187126",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Zeitspannen vergleichen35552 unter Anwenden35539; volle Stunden in der Bemerkung",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: zwei bereits geklärte Zeitspannen in vollen Stunden vergleichen, im Zusammenhang der eigenen Zeitplanung. GS-Kennen stammt aus187123; FSP-Anwenden aus35539. Vergleichen steht im Ziel35552; in vollen Stunden steht in dessen Bemerkung und begrenzt die Konkretisierung. FSP1/2-Dauer und Zeitgefühl37994/37989 sind positive Vorbezüge;MA-069 erfasst dort den passenden qualitativen Ausschnitt. Der konkrete Stundenvergleich wird durch3/4 ausdrücklich gestützt, nicht allein wegen eines anderen Zahlenraums gewählt. Keine numerische Höchstdauer belegt. Zahlenbereich vorher festlegen; alle Angaben und relevanten Zwischen-/Endwerte darin halten. Keine vollständige GS-Zieldeckung, insbesondere keine Minuten, Bruchstunden, Umrechnungen, Berechnungen oder selbstständige Ermittlung der Dauern.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187125",
+        "page912_187126"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35552"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187125",
+        "Q-MA-page912_187126",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35552"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: zwei bereits geklärte Zeitspannen in vollen Stunden vergleichen, im Zusammenhang der eigenen Zeitplanung. GS-Kennen stammt aus187123; FSP-Anwenden aus35539. Vergleichen steht im Ziel35552; in vollen Stunden steht in dessen Bemerkung und begrenzt die Konkretisierung. FSP1/2-Dauer und Zeitgefühl37994/37989 sind positive Vorbezüge;MA-069 erfasst dort den passenden qualitativen Ausschnitt. Der konkrete Stundenvergleich wird durch3/4 ausdrücklich gestützt, nicht allein wegen eines anderen Zahlenraums gewählt. Keine numerische Höchstdauer belegt. Zahlenbereich vorher festlegen; alle Angaben und relevanten Zwischen-/Endwerte darin halten. Keine vollständige GS-Zieldeckung, insbesondere keine Minuten, Bruchstunden, Umrechnungen, Berechnungen oder selbstständige Ermittlung der Dauern.",
+      "shared_object_suggestion": "Zwei Zeitspannen in vollen Stunden: Welche dauert länger, kürzer oder gleich lang?",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind vergleicht zwei bereits geklärte Zeitspannen in vollen Stunden im vorab festgelegten Zahlenraum.",
+          "criterion": "Die Aussage länger, kürzer oder gleich lang entspricht den beiden Dauern. Beide Angaben werden als Zeitspannen in derselben Einheit Stunde verstanden. Alle nichtnegativen ganzzahligen Stundenwerte und relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Uhrzeitablesen, Messung, Umrechnung und Berechnung werden nicht mitverlangt.",
+          "status": "Didaktische Konkretisierung des Vergleichens187125 mit Stunden aus187126 unter Kennen187123; keine Minuten- oder Bruchstundenabdeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht im Zusammenhang seiner eigenen Zeitplanung zwei bereits geklärte Zeitspannen in vollen Stunden im vorab festgelegten Zahlenraum.",
+          "criterion": "Die Vergleichsaussage länger, kürzer oder gleich lang passt zu den Dauern im geklärten Planungszusammenhang. Die Angaben bleiben Zeitspannen und werden nicht als Uhrzeiten behandelt. Beide nichtnegativen ganzzahligen Stundenwerte sowie alle relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Eine Differenzberechnung, Messung, Umrechnung oder neue Ableseleistung wird nicht verlangt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung des Vergleichens35552 unter Anwenden35539; volle Stunden aus der Bemerkung. Zahlenbereich vorher festlegen,keine amtliche Höchstdauer behaupten."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Volle Stunden · Zahlenbereich vorher festlegen · keine Höchstdauer belegt",
+        "detail": "35552 nennt Vergleichen von Zeitspannen; die Bemerkung begrenzt den Kontext auf volle Stunden. Eine numerische Obergrenze ist nicht angegeben. Auch GS187125/187126 nennt keine eigene Höchstdauer. Allgemeine Zahlenräume20/100 und die Beziehung1h=60min sind keine Höchstdauern für diese Karte.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35552"
+        ],
+        "planning_rule": "Zahlenbereich und vertraute Darstellung der Stundenwerte vor Verwendung festlegen. Zwei bereits geklärte nichtnegative ganzzahlige Stundendauern vergleichen; alle verwendeten Werte und relevanten Zwischen-/Endwerte müssen im festgelegten Bereich bleiben. Eigene Zeitplanung ist der FSP-Kontext. Keine Uhrzeit mit Dauer verwechseln,keine Minuten- oder Bruchstundenangaben übernehmen. Aus zwei Zeitpunkten keine Dauer berechnen und keinen Zeitabstand als Differenz zusätzlich fordern. Keine Messung,Schätzung,Umrechnung oder Uhrzeitablesung mitverlangen. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft;eigene Entwürfe gesondert prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187125 nennt Vergleichen,187126 Minuten und Stunden; ausgewählt ist nur Stundenvergleich.187123 Hauptzielkontext. Bruchanteile und konkrete Vergleichsmethoden stehen in der Bemerkung und werden nicht als mitgedeckt behauptet.",
+        "fsp": "Vergleichen ist Zieltext35552 unter Anwenden35539. Volle Stunden ist eine Bemerkungsgrenze und wird sichtbar übernommen. Schätzen,Berechnen und Zeitpunktbestimmung aus derselben Zielzeile sind nicht Teil der Karte.",
+        "fsp_remark_anchors": [
+          "page139_35552"
         ],
         "context_only_gs_ids": [
           "page912_187123"
