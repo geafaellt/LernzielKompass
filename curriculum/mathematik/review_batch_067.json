@@ -1,0 +1,202 @@
+{
+  "id": "MA-067",
+  "date": "2026-11-14",
+  "base_commit": "033aa5b9095e07b96510474ae123ebb5c12489dc",
+  "scope": "GS1/2 Stützpunktvorstellungen187133:vertraute Unterrichtsdauer als qualitative Vorbereitung",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "bc498e1012117486f69b96e663952c77a17bbdc893cdee958a9c9cf02bd6df78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_187123",
+      "level": 1,
+      "parent_target_id": "page912_187123",
+      "target": "Kennen des Umgangs mit der Größe Zeit in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187133",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen",
+      "remarks": "typische Repräsentanten: Stunden an einem Unterrichtstag, Dauer von Tätigkeiten, 5-Minuten-Pause",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187133",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187135",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Wählen von passenden Einheiten und Umrechnen in benachbarte Einheiten",
+      "remarks": "entscheiden können, welche die größere Einheit ist",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187135",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37986",
+      "level": 1,
+      "parent_target_id": "page139_37986",
+      "target": "Einblick gewinnen in den Umgang mit der Zeit in Alltagssituationen",
+      "remarks": "➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37989",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Einteilen der Zeit im Tages- und Wochenablauf",
+      "remarks": "Entwickeln des Gefühls für Zeitspannen Pünktlichkeit, Zeit für sich und für andere Stilleerfahrungen, Zeitbeschränkung Stundenplan, Wochenende, Feiertage ⇒ Wahrnehmungsförderung ➔ DE - HKS, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37994",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Dauer von Ereignissen, deren Anfang und Ende",
+      "remarks": "Zeitspanne, -punkt ermitteln Ferien, Schultag, Unterrichtsstunde",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_35539",
+      "level": 1,
+      "parent_target_id": "page139_35539",
+      "target": "Anwenden von Zeitvorstellungen auf das Planen der eigenen Zeit",
+      "remarks": "Schul- und Freizeit ⇒ Werteorientierung ➔ ETH, Kl. 3/4, LB 4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35545",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Freizeit und Pflichten",
+      "remarks": "Zeiten, Verabredungen einhalten, sich selbst Zeitpunkte setzen, den Tag einteilen, Reflexion über eigenen Medienkonsum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35545",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35547",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Beziehung: 1 Stunde (h) = 60 Minuten (min)",
+      "remarks": "Messen der Zeit nach Stunden und Minuten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35552",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Zeitspannen schätzen, vergleichen und berechnen, Zeitpunkt bestimmen",
+      "remarks": "in vollen Stunden Zeitgefühl weiterentwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "verified_band_heading": "Klassenstufen 3/4"
+    }
+  ],
+  "source_verification": "Beide amtlichen HTML-Seiten frisch per direktem Abruf gelesen,Ziel-/Bemerkungsspalten und tatsächliche Stufenüberschriften geprüft. Zusätzliches Web-Werkzeug wurde bei FSP139 auf Wartungsseite umgeleitet;dieser Abruf ist kein Quellenbeleg. Der direkte HTML-Abruf enthält die hier dokumentierten Zielzeilen. Kein neuer PDF-Abgleich behauptet.187135 nur Fortsetzungskontext.",
+  "new_cards": [
+    "MA-074"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-069",
+    "MA-070",
+    "MA-071",
+    "MA-072"
+  ],
+  "existing_card_review": "Alle73 Bestandskarten unverändert. MA-069 unterscheidet Anfang/Ende/Dauer;MA-074 ergänzt das Wiedererkennen der vertrauten Dauervorstellung als zeitlichen Bezug. MA-070 vergleicht bekannte Ganzstundendauern und wird nicht als Schätzkarte ausgegeben. MA-071/072 lesen Uhrzeiten,keine Stützpunktdauer.",
+  "decisions": [
+    {
+      "gs_id": "page912_187133",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-074"
+      ],
+      "same_band_candidates": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994"
+      ],
+      "cross_band_candidates": [
+        "page139_35539",
+        "page139_35545",
+        "page139_35547",
+        "page139_35552"
+      ],
+      "decision": "Stufenbandpassender vorbereitender Teilanschluss GS 1/2 → FSP 1/2: die vertraute Dauer einer Unterrichtsstunde als zeitlichen Bezugspunkt wiedererkennen. GS187133 nennt Stützpunktvorstellungen und Stützpunktwissen unter Kennen187123; Dauer von Tätigkeiten und Stunden an einem Unterrichtstag stehen in der Bemerkung. FSP37989 nennt das Einteilen der Zeit im Tages-/Wochenablauf, mit Entwickeln des Gefühls für Zeitspannen in der Bemerkung.37994 ergänzt Ereignisdauer, Anfang und Ende; Unterrichtsstunde ist dort ein Bemerkungsbeispiel. Beide FSP-Zeilen stehen unter Einblick gewinnen37986. Das Wiedererkennen einer zuvor erfahrenen und geklärten Dauer als Bezugspunkt ist eine didaktische, qualitative Konkretisierung. Keine vollständige GS-Zieldeckung: numerisch gesicherte Stützpunkte, weitere Repräsentanten und Schätzen neuer Dauern bleiben offen. Eine Unterrichtsstunde ist nicht automatisch eine Zeitstunde; keine45- oder60-Minuten-Dauer wird pauschal festgelegt.",
+      "candidate_assessment": "1/2-Zeitgefühl37989 und Ereignisdauer37994 tragen einen qualitativen vorbereitenden Bezug,der bevorzugt integriert wird.3/4-Zeitplanung35539/35545 und Schätzen35552 sind positive weitere Anschlüsse. Volle Stunden ist dort Bemerkungsgrenze;keine Minuten-Schätzung daraus ableiten.1h=60min35547 ist Einheitenbeziehung,keine Festlegung der Länge einer Unterrichtsstunde und keine Höchstdauer.",
+      "operators": {
+        "gs": "Kennen187123",
+        "fsp_1_2": "Einblick gewinnen37986",
+        "fsp_3_4": "Anwenden35539"
+      },
+      "prerequisites": "Die konkrete Unterrichtsdauer wurde bereits erfahren und fachlich geklärt. Vertraute Darstellung und bekannter Tagesablauf;Unterstützung bedarfsgerecht. Anfang/Ende und die Zeit dazwischen dürfen nicht verwechselt werden.",
+      "uncertainty": "Wiedererkennen als zeitlicher Bezugspunkt ist didaktische qualitative Vorbereitung;dies belegt weder sämtliche Stützpunktvorstellungen noch numerisches Stützpunktwissen. Unterrichtsstunde ist Bemerkungsbeispiel,keine universelle Zeitdauer.",
+      "number_range": "Keine feste Dauer oder Obergrenze in den ausgewählten Zeilen. Nicht automatisch45 oder60 Minuten einsetzen;GS5-Minuten-Beispiel nicht auf FSP übertragen. Keine numerischen Zwischen-/Endergebnisse.",
+      "remaining": "Numerisch gesicherte Stützpunkte, weitere typische Repräsentanten einschließlich5-Minuten-Pause, Stundenanzahl eines Unterrichtstages und Übertragung auf neue Dauern bleiben offen. MA-074 umfasst nur Wiedererkennen der konkret vertrauten Unterrichtsdauer als qualitative Vorbereitung. FSP3/4-Schätzen35552 mit Bemerkungsgrenze volle Stunden ist ein positiver weiter zu prüfender Anschluss;MA-070 deckt nur Vergleichen bereits bekannter Dauern. Keine pauschale45-/60-Minuten-Dauer und keine vollständige GS-Zieldeckung."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "new_open_connection_questions": 0,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 74,
+    "cross_band_cards": 22,
+    "source_links": 199,
+    "target_anchors": 197,
+    "new_unique_fsp_anchors": 1,
+    "audit_rows": 133,
+    "open_connection_questions": 15,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "Zunächst die bislang übersprungene offene GS1/2-Zeile Messen von Zeitspannen187132 gegen beide FSP-Bänder prüfen;danach Schätzen187134,Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Keine dieser Zeilen wurde in MA-067 fachlich abgeschlossen. MA-074 bereitet Stützpunktvorstellungen187133 qualitativ über vertraute Unterrichtsdauer vor. Quantitatives Stützpunktwissen und3/4-Schätzen35552 bleiben als positiver Rest offen.74 Karten(52 passend,22 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Unterrichtsstunde nicht mit60 Minuten gleichsetzen;alle bisherigen Restumfänge weiter prüfen.",
+  "tests": {
+    "status": "passed",
+    "data_checks": "update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects passed",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 73,
+      "old_sources_unchanged": 197,
+      "old_anchors_unchanged": 195,
+      "previous_questions_unchanged": 15,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 133,
+      "changed_audit_ids": [
+        "page912_187123",
+        "page912_187133"
+      ],
+      "new_unique_fsp_anchors": 1,
+      "nonmath_unchanged_except_version_and_update_date": true,
+      "root_dist_identical": true,
+      "html_sha256": "caffc58c8e02286ccbf89fa7db79d72bb7299664ae78b88fe05800568956c3f5",
+      "html_blob_sha": "3b12a2c86461a264b7dadb8f72387f7f7b55d791"
+    },
+    "scope": "MA-074 domain_specific: familiar event duration as qualitative reference. No invented45/60-minute duration or20/100 limit,no arithmetic,new estimation or numerical intermediate/final results.",
+    "browser_local": "Original check-mathematik-browser assertions with only card loop filtered to MA-069,MA-070,MA-071,MA-072,MA-074 passed; all grade/area counts retained. Goal/criterion adoption,scope/source visibility,empty tasks/aids,drafts,subject isolation,reload and mobile follow-up passed. No full74-card run claimed;no UI-code change.",
+    "browser_changed_card_mobile": "MA-074 passed in both GS grades and directly at320px/390px with visible scopes and no horizontal overflow.",
+    "browser_environment": "Local Chromium via Playwright;fresh sessions,background throttling and smooth scrolling disabled;60s action timeout.",
+    "source_check": "Both direct official HTML files fetched and target/remark hierarchy plus actual stage headings verified. Additional web FSP lookup returned maintenance page and is not counted as evidence. No fresh PDF check claimed.",
+    "browser_live": "pending targeted MA-074"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.377",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "target_sha256": "caffc58c8e02286ccbf89fa7db79d72bb7299664ae78b88fe05800568956c3f5"
+  }
+}

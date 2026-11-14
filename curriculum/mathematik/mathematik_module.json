@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-13.4",
-  "checked_on": "2026-11-13",
+  "version": "MA-2026-11-14.1",
+  "checked_on": "2026-11-14",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1292,6 +1292,18 @@
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187131",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187133",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187133",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37989",
+      "title": "FSP Lernen Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -7214,6 +7226,82 @@
         "context_only_gs_ids": [
           "page912_187123",
           "page912_187128"
+        ]
+      }
+    },
+    {
+      "id": "MA-074",
+      "subject": "Mathematik",
+      "theme": "Vertraute Unterrichtsdauer als zeitlicher Bezugspunkt",
+      "app_area": "MA-page912_1753",
+      "status": "Vorbereitender Teilanschluss · vertraute Dauervorstellung",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Stützpunktvorstellungen zu Zeitspannen187133 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie · Tages-/Wochenablauf37989 und Ereignisdauer37994 unter Einblick gewinnen37986; Zeitgefühl und Unterrichtsstunde in Bemerkungen",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender vorbereitender Teilanschluss GS 1/2 → FSP 1/2: die vertraute Dauer einer Unterrichtsstunde als zeitlichen Bezugspunkt wiedererkennen. GS187133 nennt Stützpunktvorstellungen und Stützpunktwissen unter Kennen187123; Dauer von Tätigkeiten und Stunden an einem Unterrichtstag stehen in der Bemerkung. FSP37989 nennt das Einteilen der Zeit im Tages-/Wochenablauf, mit Entwickeln des Gefühls für Zeitspannen in der Bemerkung.37994 ergänzt Ereignisdauer, Anfang und Ende; Unterrichtsstunde ist dort ein Bemerkungsbeispiel. Beide FSP-Zeilen stehen unter Einblick gewinnen37986. Das Wiedererkennen einer zuvor erfahrenen und geklärten Dauer als Bezugspunkt ist eine didaktische, qualitative Konkretisierung. Keine vollständige GS-Zieldeckung: numerisch gesicherte Stützpunkte, weitere Repräsentanten und Schätzen neuer Dauern bleiben offen. Eine Unterrichtsstunde ist nicht automatisch eine Zeitstunde; keine45- oder60-Minuten-Dauer wird pauschal festgelegt.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187133"
+      ],
+      "fsp_target_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187133",
+        "Q-MA-page139_37986",
+        "Q-MA-page139_37989",
+        "Q-MA-page139_37994"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender vorbereitender Teilanschluss GS 1/2 → FSP 1/2: die vertraute Dauer einer Unterrichtsstunde als zeitlichen Bezugspunkt wiedererkennen. GS187133 nennt Stützpunktvorstellungen und Stützpunktwissen unter Kennen187123; Dauer von Tätigkeiten und Stunden an einem Unterrichtstag stehen in der Bemerkung. FSP37989 nennt das Einteilen der Zeit im Tages-/Wochenablauf, mit Entwickeln des Gefühls für Zeitspannen in der Bemerkung.37994 ergänzt Ereignisdauer, Anfang und Ende; Unterrichtsstunde ist dort ein Bemerkungsbeispiel. Beide FSP-Zeilen stehen unter Einblick gewinnen37986. Das Wiedererkennen einer zuvor erfahrenen und geklärten Dauer als Bezugspunkt ist eine didaktische, qualitative Konkretisierung. Keine vollständige GS-Zieldeckung: numerisch gesicherte Stützpunkte, weitere Repräsentanten und Schätzen neuer Dauern bleiben offen. Eine Unterrichtsstunde ist nicht automatisch eine Zeitstunde; keine45- oder60-Minuten-Dauer wird pauschal festgelegt.",
+      "shared_object_suggestion": "Die vertraute Dauer einer Unterrichtsstunde als Vorstellung davon, wie lange etwas dauert.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt die zuvor erfahrene und geklärte Dauer einer vertrauten Unterrichtsstunde als zeitlichen Bezugspunkt im bekannten Tagesablauf wieder.",
+          "criterion": "Die wiedererkannte Dauervorstellung passt zur konkret geklärten Unterrichtsstunde und bezieht sich auf deren gesamten Zeitraum zwischen Beginn und Ende. Sie wird nicht nur mit der Anfangsuhrzeit oder der Anzahl der Unterrichtsstunden gleichgesetzt. Eine feste Minutenangabe, exakte Reproduktion der Dauer oder Schätzung einer neuen Dauer wird nicht verlangt.",
+          "status": "Didaktische qualitative Konkretisierung eines vorbereitenden Ausschnitts von187133 unter Kennen187123; numerisches Stützpunktwissen nicht vollständig erfasst."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt mit bedarfsgerechter Unterstützung die vertraute Dauer einer zuvor erfahrenen Unterrichtsstunde als zeitliche Orientierung im eigenen bekannten Tagesablauf wieder.",
+          "criterion": "Das Wiedererkennen bezieht sich auf die konkret geklärte, zuvor erfahrene Unterrichtsdauer in einer vertrauten, vorher geklärten Darstellung. Gemeint ist die Zeit zwischen Beginn und Ende, nicht allein ein Zeitpunkt oder eine Stundenanzahl. Der Bezug zur vertrauten Dauer bleibt erkennbar; keine selbstständige Definition, exakte zeitliche Reproduktion, neue Schätzung, Minutenangabe oder Rechnung wird vorausgesetzt. Es entstehen keine numerischen Zwischen- oder Endergebnisse.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische qualitative Konkretisierung von Zeitgefühl37989 und Ereignisdauer37994 unter Einblick gewinnen37986. Unterstützung ist zulässig; kein numerisches Beherrschen oder Transfer auf unbekannte Dauern behauptet."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Vertraute Ereignisdauer qualitativ · keine feste Minutenangabe",
+        "detail": "37989 erläutert Zeitgefühl,37994 Ereignisdauer mit Unterrichtsstunde als Beispiel. Keine feste Dauer der Unterrichtsstunde und keine numerische Höchstdauer sind hier angegeben. GS187133 nennt unterschiedliche Repräsentanten, darunter5-Minuten-Pause; dieses GS-Beispiel wird nicht als FSP-Grenze übernommen. Die volle-Stunden-Bemerkung35552 gehört zu FSP3/4 und begrenzt diese1/2-Karte nicht.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37989",
+          "Q-MA-page139_37994"
+        ],
+        "planning_rule": "Nur die zuvor erfahrene und fachlich geklärte Dauer einer konkreten vertrauten Unterrichtsstunde verwenden; die Lehrkraft klärt deren tatsächlichen zeitlichen Bezug. Keine pauschale45- oder60-Minuten-Dauer,keine20/100-Grenze und keine feste Höchstdauer erfinden. Unterrichtsstunde und Zeitstunde nicht gleichsetzen. Wiedererkennen der bekannten Dauervorstellung mit bedarfsgerechter Unterstützung; keine neue Schätzung, exakte Reproduktion, Messung, Uhrablesung, Umrechnung oder Rechnung hinzufügen. Es entstehen keine numerischen Zwischen-/Endwerte. Numerische Konkretisierungen und andere Repräsentanten gesondert prüfen. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft;Freitext ist nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187133 unter Kennen187123. Repräsentanten stehen in der Bemerkung;ausgewählt ist ein vorbereitender qualitativer Dauervorstellungsbezug,keine vollständige Stützpunktwissensdeckung.187123 nur Kontext.",
+        "fsp": "Einteilen der Zeit37989 und Ereignisdauer37994 stehen unter Einblick gewinnen37986. Zeitgefühl und Unterrichtsstunde sind Bemerkungsbezüge. Wiedererkennen als qualitativer Bezugspunkt ist didaktische Konkretisierung,kein eigenständiger amtlicher Operator.",
+        "fsp_remark_anchors": [
+          "page139_37989",
+          "page139_37994"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
         ]
       }
     }

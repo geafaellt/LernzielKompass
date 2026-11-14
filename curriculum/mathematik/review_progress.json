@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-066",
+  "last_batch": "MA-067",
   "complete": false,
   "counts": {
-    "cards": 73,
+    "cards": 74,
     "cross_band": 22
   },
   "source_plans": {
@@ -2494,10 +2494,36 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187133": {
+      "id": "page912_187133",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Aufbauen von Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen",
+      "remarks": "typische Repräsentanten: Stunden an einem Unterrichtstag, Dauer von Tätigkeiten, 5-Minuten-Pause",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187133",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_37989": {
+      "id": "page139_37989",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Einteilen der Zeit im Tages- und Wochenablauf",
+      "remarks": "Entwickeln des Gefühls für Zeitspannen Pünktlichkeit, Zeit für sich und für andere Stilleerfahrungen, Zeitbeschränkung Stundenplan, Wochenende, Feiertage ⇒ Wahrnehmungsförderung ➔ DE - HKS, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "grade": "1/2",
+      "area_id": "MA-page139_37746",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187133",
-  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen187133 gegen beide FSP-Bänder prüfen. MA-073 entnimmt Kalenderdatum nur als Tageszahl/Monatsbezug bei geklärtem Jahr;Jahreszahlen,Schreibweisen und weitere Kalenderorientierung bleiben offen.73 Karten(51 passend,22 stufenübergreifend),15 Anschlussfragen einschließlich187127,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Frühere Restumfänge und Bestandskarten weiter prüfen. App1.376 veröffentlicht und live geprüft;Nachweise in MA-066.",
+  "next_id": "page912_187132",
+  "next_step": "Zunächst die bislang übersprungene offene GS1/2-Zeile Messen von Zeitspannen187132 gegen beide FSP-Bänder prüfen;danach Schätzen187134,Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Keine dieser Zeilen wurde in MA-067 fachlich abgeschlossen. MA-074 bereitet Stützpunktvorstellungen187133 qualitativ über vertraute Unterrichtsdauer vor. Quantitatives Stützpunktwissen und3/4-Schätzen35552 bleiben als positiver Rest offen.74 Karten(52 passend,22 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Unterrichtsstunde nicht mit60 Minuten gleichsetzen;alle bisherigen Restumfänge weiter prüfen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2748,7 +2774,7 @@
       "decision": "Volle Stunden werden stufengleich in MA-071 integriert.1/2-Differenzierung halb/viertel/dreiviertel ist positiv, belegt aber nicht das gesamte Fünf-Minuten-Raster.3/4-Ziel35549 ist minutengenau und trägt die didaktische Auswahl aller Fünf-Minuten-Uhrzeiten; nicht wegen eines kleineren Zahlenraums gewählt. MA-006 nutzt denselben FSP-Beleg mit eigenem GS3-Anker."
     }
   },
-  "last_review_file": "review_batch_066.json",
+  "last_review_file": "review_batch_067.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3418,6 +3444,12 @@
       "scope": "Selbstständiges Lesen/Schreiben der Jahreszahl, normgerechte oder unterschiedliche Datumsschreibweisen, Transfer zwischen Kalenderformen und weitere selbstständige Datumsorientierung bleiben offen. MA-073 entnimmt nur einen Kalendertag mit bekanntem Monatsbezug bei vorgegebenem Jahr; keine vollständige GS-Zieldeckung. Kalenderrechnen ist nicht mitbelegt. FSP3/4-Kalenderkontext35461 bleibt positiver zusätzlicher Bezug, wird hier nicht als Jahreszahlen- oder Vollabdeckungsbeleg verwendet.",
       "status": "offen",
       "review": "MA-066"
+    },
+    {
+      "gs_id": "page912_187133",
+      "scope": "Numerisch gesicherte Stützpunkte, weitere typische Repräsentanten einschließlich5-Minuten-Pause, Stundenanzahl eines Unterrichtstages und Übertragung auf neue Dauern bleiben offen. MA-074 umfasst nur Wiedererkennen der konkret vertrauten Unterrichtsdauer als qualitative Vorbereitung. FSP3/4-Schätzen35552 mit Bemerkungsgrenze volle Stunden ist ein positiver weiter zu prüfender Anschluss;MA-070 deckt nur Vergleichen bereits bekannter Dauern. Keine pauschale45-/60-Minuten-Dauer und keine vollständige GS-Zieldeckung.",
+      "status": "offen",
+      "review": "MA-067"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3442,7 +3474,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen erhalten;MA-066 prüft187131 teilweise.187123 und187128 nur Kontext,keine neue Teilprüfungszählung. Ein neuer GS-Anker,keine neuen FSP-Anker. Fortsetzung187133.",
+    "note": "133 Zeilen erhalten;MA-067 prüft187133 vorbereitend teilweise.187123 nur Kontext. Ein neuer GS-Anker und ein neuer FSP-Anker. Fortsetzung187132,danach187134.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3606,6 +3638,13 @@
         "MA-073": "domain_specific"
       },
       "note": "Kalendertag bei zugänglicher Tageszahl/Monatsbezeichnung und geklärtem Jahr. Keine20/100-Datumsgrenze, Jahreszahlenforderung oder Kalenderrechnung.72 Bestandskarten unverändert."
+    },
+    "follow_up_time_references": {
+      "batch": "MA-067",
+      "cards": {
+        "MA-074": "domain_specific"
+      },
+      "note": "Vertraute Unterrichtsdauer als qualitative Vorstellung. Keine feste45-/60-Minuten-Dauer,keine20/100-Grenze;keine numerischen Zwischen-/Endwerte.73 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3626,13 +3665,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-066",
-    "status": "verified",
-    "app_version": "1.376",
-    "app_commit": "d6c711497e0003261af5fa4eb2cef8aaf1cdd084",
-    "pages_run": 43449462111,
-    "live_sha256": "91652239db39b41f4ddf389206bb3251eaa78b6ac1dcae26514ea7d2fe2bcacd",
-    "browser": "MA-073 live in both GS grades and mobile320/390 passed;five related cards local"
+    "batch": "MA-067",
+    "status": "pending",
+    "app_version": "1.377",
+    "previous_verified_version": "1.376"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
@@ -3641,5 +3677,9 @@
     "audit_commit": "3ac60ac92bdca0d44613a60995f8b77b9f4ac58a",
     "pages_run": 43390517388,
     "live_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3"
+  },
+  "continuation_correction": {
+    "batch": "MA-067",
+    "reason": "Der bisherige Fortsetzungspunkt187133 übersprang die weiterhin ungeprüfte Zeile187132. Nach Prüfung187133 folgt nun187132,danach187134. Korrektur der Reihenfolge,kein zusätzlicher Prüfungsfortschritt."
   }
 }
