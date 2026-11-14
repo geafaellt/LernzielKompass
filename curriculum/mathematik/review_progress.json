@@ -2497,7 +2497,7 @@
     }
   },
   "next_id": "page912_187133",
-  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen187133 gegen beide FSP-Bänder prüfen. MA-073 entnimmt Kalenderdatum nur als Tageszahl/Monatsbezug bei geklärtem Jahr;Jahreszahlen,Schreibweisen und weitere Kalenderorientierung bleiben offen.73 Karten(51 passend,22 stufenübergreifend),15 Anschlussfragen einschließlich187127,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Frühere Restumfänge und Bestandskarten weiter prüfen.",
+  "next_step": "GS1/2 Stützpunktvorstellungen und Stützpunktwissen zu Zeitspannen187133 gegen beide FSP-Bänder prüfen. MA-073 entnimmt Kalenderdatum nur als Tageszahl/Monatsbezug bei geklärtem Jahr;Jahreszahlen,Schreibweisen und weitere Kalenderorientierung bleiben offen.73 Karten(51 passend,22 stufenübergreifend),15 Anschlussfragen einschließlich187127,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Frühere Restumfänge und Bestandskarten weiter prüfen. App1.376 veröffentlicht und live geprüft;Nachweise in MA-066.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3627,9 +3627,12 @@
   },
   "latest_publication": {
     "batch": "MA-066",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.376",
-    "previous_verified_version": "1.375"
+    "app_commit": "d6c711497e0003261af5fa4eb2cef8aaf1cdd084",
+    "pages_run": 43449462111,
+    "live_sha256": "91652239db39b41f4ddf389206bb3251eaa78b6ac1dcae26514ea7d2fe2bcacd",
+    "browser": "MA-073 live in both GS grades and mobile320/390 passed;five related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
