@@ -196,12 +196,20 @@
     "browser_changed_card_mobile": "MA-075 passed in both GS grades and directly at320px/390px with visible scopes and no horizontal overflow.",
     "browser_environment": "Local Chromium via Playwright;fresh sessions,background throttling and smooth scrolling disabled;60s action timeout.",
     "source_check": "Fresh official HTML of both plans verified with actual stage headings and target/remark hierarchy. No fresh PDF verification claimed.",
-    "browser_live": "pending targeted MA-075"
+    "browser_live": "passed MA-075 in both GS grades,including exact goal/criterion adoption,source links,visible scope,empty task/aid fields,preserved teacher drafts,subject isolation,reload. Directly checked at320px/390px for visible card/goal scopes and no horizontal overflow. No full75-card public run claimed; five related cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.378",
     "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "target_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b"
+    "target_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b",
+    "app_commit": "dddebcd06be554c2f914d30338d57c8b0ac6346f",
+    "pages_run": 43679163143,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43679163143",
+    "pages_conclusion": "success",
+    "live_app_version": "1.378",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b",
+    "verified_at": "2026-11-15T13:03:42.174815+00:00"
   }
 }

@@ -2549,7 +2549,7 @@
     }
   },
   "next_id": "page912_187134",
-  "next_step": "GS1/2 Schätzen von Zeitspannen187134 gegen beide FSP-Bänder prüfen;danach Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Die zuvor übersprungene Messzeile187132 ist mit MA-075 nur teilweise geprüft:ganze Minuten als didaktische Auswahl,kein Kalender- oder Rechenanschluss.75 Karten(52 passend,23 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
+  "next_step": "GS1/2 Schätzen von Zeitspannen187134 gegen beide FSP-Bänder prüfen;danach Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Die zuvor übersprungene Messzeile187132 ist mit MA-075 nur teilweise geprüft:ganze Minuten als didaktische Auswahl,kein Kalender- oder Rechenanschluss.75 Karten(52 passend,23 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen. App1.378 veröffentlicht und live geprüft;Nachweise in MA-068.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3714,9 +3714,12 @@
   },
   "latest_publication": {
     "batch": "MA-068",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.378",
-    "previous_verified_version": "1.377"
+    "app_commit": "dddebcd06be554c2f914d30338d57c8b0ac6346f",
+    "pages_run": 43679163143,
+    "live_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b",
+    "browser": "MA-075 live in both GS grades and mobile320/390 passed;five related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
