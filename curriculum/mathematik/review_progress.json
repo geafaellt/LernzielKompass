@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-067",
+  "last_batch": "MA-068",
   "complete": false,
   "counts": {
-    "cards": 74,
-    "cross_band": 22
+    "cards": 75,
+    "cross_band": 23
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2520,10 +2520,36 @@
       "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187132": {
+      "id": "page912_187132",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "sachadäquates Messen von Zeitspannen mit den Messinstrumenten Uhr und Kalender",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187132",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_35547": {
+      "id": "page139_35547",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Beziehung: 1 Stunde (h) = 60 Minuten (min)",
+      "remarks": "Messen der Zeit nach Stunden und Minuten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
+      "grade": "3/4",
+      "area_id": "MA-page139_35419",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187132",
-  "next_step": "Zunächst die bislang übersprungene offene GS1/2-Zeile Messen von Zeitspannen187132 gegen beide FSP-Bänder prüfen;danach Schätzen187134,Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Keine dieser Zeilen wurde in MA-067 fachlich abgeschlossen. MA-074 bereitet Stützpunktvorstellungen187133 qualitativ über vertraute Unterrichtsdauer vor. Quantitatives Stützpunktwissen und3/4-Schätzen35552 bleiben als positiver Rest offen.74 Karten(52 passend,22 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Unterrichtsstunde nicht mit60 Minuten gleichsetzen;alle bisherigen Restumfänge weiter prüfen. App1.377 veröffentlicht und live geprüft;Nachweise in MA-067.",
+  "next_id": "page912_187134",
+  "next_step": "GS1/2 Schätzen von Zeitspannen187134 gegen beide FSP-Bänder prüfen;danach Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Die zuvor übersprungene Messzeile187132 ist mit MA-075 nur teilweise geprüft:ganze Minuten als didaktische Auswahl,kein Kalender- oder Rechenanschluss.75 Karten(52 passend,23 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2772,9 +2798,18 @@
         "page139_37995"
       ],
       "decision": "Volle Stunden werden stufengleich in MA-071 integriert.1/2-Differenzierung halb/viertel/dreiviertel ist positiv, belegt aber nicht das gesamte Fünf-Minuten-Raster.3/4-Ziel35549 ist minutengenau und trägt die didaktische Auswahl aller Fünf-Minuten-Uhrzeiten; nicht wegen eines kleineren Zahlenraums gewählt. MA-006 nutzt denselben FSP-Beleg mit eigenem GS3-Anker."
+    },
+    "MA-075": {
+      "same_band_candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "decision": "1/2-Zeitgefühl und Ereignisdauer werden bereits in MA-069/074 vorbereitet;Ermitteln von Zeitspanne/-punkt37994 bleibt positiver Anschluss. Numerisches Messen nach Stunden/Minuten steht ausdrücklich in3/4-Bemerkung35547.37995 nennt volle Uhrstunden,nicht automatisch Minutendauermessung. Stufenüberschreitung wegen konkretem Mess-/Einheitenbeleg,nicht wegen Zahlenraum."
     }
   },
-  "last_review_file": "review_batch_067.json",
+  "last_review_file": "review_batch_068.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3450,6 +3485,12 @@
       "scope": "Numerisch gesicherte Stützpunkte, weitere typische Repräsentanten einschließlich5-Minuten-Pause, Stundenanzahl eines Unterrichtstages und Übertragung auf neue Dauern bleiben offen. MA-074 umfasst nur Wiedererkennen der konkret vertrauten Unterrichtsdauer als qualitative Vorbereitung. FSP3/4-Schätzen35552 mit Bemerkungsgrenze volle Stunden ist ein positiver weiter zu prüfender Anschluss;MA-070 deckt nur Vergleichen bereits bekannter Dauern. Keine pauschale45-/60-Minuten-Dauer und keine vollständige GS-Zieldeckung.",
       "status": "offen",
       "review": "MA-067"
+    },
+    {
+      "gs_id": "page912_187132",
+      "scope": "Kalendermessung,Stundenmessung,weitere Messauflösungen,selbstständige Instrumenten-/Einheitenwahl und rechnerisches Ermitteln aus Uhrzeiten bleiben offen. MA-075 nur Dauermesswert in didaktisch gewählten ganzen Minuten bei vorab festgelegtem Zahlenraum. FSP1/2-Ermitteln von Zeitspanne/-punkt37994 bleibt positiver weiterer Bezug,kein pauschaler Nichtanschluss. Keine Höchstdauer oder vollständige GS-Zieldeckung belegt.",
+      "status": "offen",
+      "review": "MA-068"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3474,7 +3515,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen erhalten;MA-067 prüft187133 vorbereitend teilweise.187123 nur Kontext. Ein neuer GS-Anker und ein neuer FSP-Anker. Fortsetzung187132,danach187134.",
+    "note": "133 Zeilen erhalten;MA-068 prüft187132 teilweise.187123 nur Kontext. Fortsetzung187134;Auslassung aus MA-067 nun aufgegriffen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3645,6 +3686,13 @@
         "MA-074": "domain_specific"
       },
       "note": "Vertraute Unterrichtsdauer als qualitative Vorstellung. Keine feste45-/60-Minuten-Dauer,keine20/100-Grenze;keine numerischen Zwischen-/Endwerte.73 Bestandskarten unverändert."
+    },
+    "follow_up_duration_measurement": {
+      "batch": "MA-068",
+      "cards": {
+        "MA-075": "unspecified"
+      },
+      "note": "Keine Höchstdauer belegt,Zahlenraum vorab festlegen und alle relevanten Werte einhalten. Ganze Minuten didaktisch,nicht amtliche Obergrenze.74 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3665,13 +3713,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-067",
-    "status": "verified",
-    "app_version": "1.377",
-    "app_commit": "0771873fee97422e424ccd097bb1f17d6d9b9ad6",
-    "pages_run": 43593028074,
-    "live_sha256": "caffc58c8e02286ccbf89fa7db79d72bb7299664ae78b88fe05800568956c3f5",
-    "browser": "MA-074 live in both GS grades and mobile320/390 passed;five related cards local"
+    "batch": "MA-068",
+    "status": "pending",
+    "app_version": "1.378",
+    "previous_verified_version": "1.377"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-14.1",
+  "version": "MA-2026-11-14.2",
   "checked_on": "2026-11-14",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1303,6 +1303,18 @@
       "id": "Q-MA-page139_37989",
       "title": "FSP Lernen Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187132",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187132",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35547",
+      "title": "FSP Lernen Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
       "version": "2019"
     }
   ],
@@ -7299,6 +7311,78 @@
         "fsp_remark_anchors": [
           "page139_37989",
           "page139_37994"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-075",
+      "subject": "Mathematik",
+      "theme": "Eine Zeitspanne in Minuten messen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Dauermessung in Minuten · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Messen von Zeitspannen187132 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Messen nach Stunden/Minuten in Bemerkung35547 unter Anwenden35539",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: eine Zeitspanne in ganzen Minuten messen und als Dauer angeben. GS187132 nennt sachadäquates Messen mit Uhr und Kalender unter Kennen187123. FSP35547 nennt die Beziehung1h=60min; Messen nach Stunden und Minuten steht in der Bemerkung,unter Anwenden35539 und im Kontext eigener Zeitplanung. Die Auswahl ganzer Minuten und eines unmittelbar zugänglichen Dauermesswerts ist didaktisch,keine amtliche Genauigkeitsgrenze. FSP1/2-Ereignisdauer37994 und Uhrlesen37995 sind positive Vorbezüge;Uhrzeitablesen allein belegt keine numerische Dauermessung. Keine vollständige GS-Zieldeckung:Kalendermessung,Stundenmessung,weitere Auflösungen und rechnerisches Ermitteln aus Zeitpunkten bleiben offen. Die60 in der Einheitenbeziehung ist keine Höchstdauer.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187132"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35547"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187132",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35547"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: eine Zeitspanne in ganzen Minuten messen und als Dauer angeben. GS187132 nennt sachadäquates Messen mit Uhr und Kalender unter Kennen187123. FSP35547 nennt die Beziehung1h=60min; Messen nach Stunden und Minuten steht in der Bemerkung,unter Anwenden35539 und im Kontext eigener Zeitplanung. Die Auswahl ganzer Minuten und eines unmittelbar zugänglichen Dauermesswerts ist didaktisch,keine amtliche Genauigkeitsgrenze. FSP1/2-Ereignisdauer37994 und Uhrlesen37995 sind positive Vorbezüge;Uhrzeitablesen allein belegt keine numerische Dauermessung. Keine vollständige GS-Zieldeckung:Kalendermessung,Stundenmessung,weitere Auflösungen und rechnerisches Ermitteln aus Zeitpunkten bleiben offen. Die60 in der Einheitenbeziehung ist keine Höchstdauer.",
+      "shared_object_suggestion": "Die gemessene Dauer zwischen Anfang und Ende, angegeben in Minuten.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind misst eine Zeitspanne im vorab festgelegten Zahlenraum und gibt den unmittelbar zugänglichen Dauermesswert in ganzen Minuten an.",
+          "criterion": "Messbeginn und Messende passen zum geklärten Zeitintervall. Die Minutenangabe entspricht dem Dauermesswert und wird nicht als Uhrzeit ausgegeben. Messwert und alle relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Ganze Minuten sind vorab als Auflösung geklärt;keine Rundung,Einheitenumrechnung oder Differenzberechnung aus Uhrzeiten wird mitverlangt.",
+          "status": "Didaktischer Teilbereich von187132 unter Kennen187123;gewählter Messbereich und Auflösung,keine vollständige Kalender-/Stundenmessung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind misst im Zusammenhang seiner eigenen Zeitplanung eine Zeitspanne im vorab festgelegten Zahlenraum und gibt den unmittelbar zugänglichen Dauermesswert in ganzen Minuten an.",
+          "criterion": "Die Messung erfasst das geklärte Intervall zwischen Anfang und Ende;die Angabe in Minuten stimmt mit dem Dauermesswert überein und bezeichnet eine Dauer. Alle Messwerte sowie relevanten Zwischen- und Endwerte liegen im festgelegten Zahlenraum. Die zuvor geklärte Auflösung erlaubt ganze Minuten ohne zusätzliche Rundung. Keine Umrechnung von Sekunden/Stunden oder Differenzberechnung aus Uhrzeiten wird vorausgesetzt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung der Messbemerkung35547 unter Anwenden35539;ganze Minuten und direkt zugänglicher Dauermesswert sind Auswahlbedingungen,keine amtliche Zahlenraum-/Genauigkeitsgrenze."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Minutendauer messen · Zahlenbereich vorher festlegen · keine Höchstdauer belegt",
+        "detail": "35547 nennt1h=60min im Ziel und Messen nach Stunden/Minuten in der Bemerkung. Eine Höchstdauer oder bestimmte Messauflösung ist nicht festgelegt. Ganze Minuten sind didaktisch gewählt. Die60 der Einheitenbeziehung sowie allgemeine Zahlenräume20/100 sind keine hier belegten Höchstdauern. Volle Stunden35552 gehört zur anderen Zielzeile und wird nicht auf diese Minutenmessung übertragen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35547"
+        ],
+        "planning_rule": "Vor Verwendung Zahlenbereich,Messauflösung und zugängliche Messwertdarstellung festlegen. Geeigneter Messbereich muss das gesamte konkrete Zeitintervall abdecken;alle Messwerte und relevanten Zwischen-/Endwerte bleiben im festgelegten Bereich. Nur unmittelbar zugängliche Dauermesswerte in ganzen Minuten beurteilen,ohne zusätzliche Rundung oder Sekunden-/Stundenumrechnung. Keine Differenzberechnung aus Anfangs-/Enduhrzeit hinzufügen. Messbeginn/-ende fachlich auf das Intervall beziehen;Uhrzeit und Dauer getrennt halten. Eigene Zeitplanung ist FSP-Kontext. Keine60-Minuten-Obergrenze erfinden. Konkrete Aufgaben,Lernhandlungen und Hilfsmittel legt die Lehrkraft fest;Freitext und zusätzliche Anforderungen sind gesondert zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187132 ist Unterziel unter Kennen187123. Ausgewählt ist Messen einer Dauer in Minuten;Kalender und andere Einheiten nicht vollständig gedeckt.187123 nur Kontext.",
+        "fsp": "Einheitenbeziehung ist Ziel35547,Messen nach Stunden/Minuten steht in der Bemerkung. Hauptoperator Anwenden aus35539. Ganze Minuten,direkter Dauermesswert und vorab festgelegter Bereich sind didaktische Eingrenzungen.",
+        "fsp_remark_anchors": [
+          "page139_35547"
         ],
         "context_only_gs_ids": [
           "page912_187123"

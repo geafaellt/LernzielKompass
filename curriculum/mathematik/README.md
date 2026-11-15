@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-067
+# Mathematik-Abgleich · MA-068
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Vierundsiebzig Karten dokumentieren begrenzte Anschlüsse. Zweiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070 und MA-072 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Fünfundsiebzig Karten dokumentieren begrenzte Anschlüsse. Zweiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072 und MA-075 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei der bislang übersprungenen offenen Zeile Messen von Zeitspannen187132;danach Schätzen187134. [MA-067](review_batch_067.json) ergänzt MA-074:vertraute Unterrichtsdauer als qualitative Vorbereitung von Stützpunktvorstellungen.74 Karten,15 Anschlussfragen,133 Inventurzeilen;quantitative Stützpunkte und Schätzen bleiben offen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Schätzen von Zeitspannen187134. [MA-068](review_batch_068.json) ergänzt MA-075:Minutendauermessung,stufenübergreifend und ohne erfundene Höchstdauer.75 Karten,15 Anschlussfragen,133 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -726,3 +726,10 @@ Beide FSP-Bänder geprüft:3/4-Kalenderkontext35461 und Zeitplanung35539/35545 b
 MA-074 verbindet GS1/2-Stützpunktvorstellungen187133 unter Kennen187123 mit FSP1/2-Tagesablauf37989 und Ereignisdauer37994 unter Einblick gewinnen37986. Zeitgefühl und Unterrichtsstunde sind Bemerkungsbezüge. Das Wiedererkennen einer zuvor erfahrenen,geklärten Unterrichtsdauer als zeitlicher Bezugspunkt ist eine didaktische qualitative Vorbereitung. MA-069 bleibt beim Unterscheiden von Anfang/Ende/Dauer.
 
 Beide FSP-Bänder geprüft.3/4-Schätzen35552 mit Bemerkungsgrenze volle Stunden bleibt positiver weiterer Anschluss;MA-070 ist weiterhin nur Vergleichskarte. Keine pauschale45-/60-Minuten-Unterrichtsdauer,keine20/100-Grenze und keine numerischen Zwischen-/Endwerte. Unterrichtsstunde ist nicht automatisch Zeitstunde;GS5-Minuten-Beispiel nicht als FSP-Grenze übernehmen. Numerisches Stützpunktwissen,weitere Repräsentanten und Schätzen neuer Dauern bleiben offen.73 Bestandskarten unverändert.74 Karten(52 passend,22 stufenübergreifend),199 Quellen,197 Zielanker,133 Inventurzeilen,15 Anschlussfragen,fünf Nichtanschlussentscheidungen. Eine Zeile vorbereitend teilweise geprüft,keine Vollabdeckung. Direkte amtliche HTML-Abrufe erfolgreich;zusätzliches Web-Werkzeug bei FSP auf Wartungsseite umgeleitet. Kein neuer PDF-Nachweis. Daten-,Zahlenraum-,Lerngegenstands- und Bestandserhaltungsprüfungen bestanden. Fünf Zeitkarten mit ursprünglichen Browserprüfungen gezielt geprüft;MA-074 in beiden GS-Jahrgängen und bei320px/390px erfolgreich. Ziele/Kriterien/Grenzen,leere Aufgaben-/Hilfsmittelfelder,Entwurfserhalt,Fachwechsel und Neuladen geprüft. Kein vollständiger74-Karten-Browserlauf behauptet;keine UI-Codeänderung. Veröffentlicht mit Commit 0771873fee97422e424ccd097bb1f17d6d9b9ad6 und erfolgreichem [Pages-Lauf 43593028074](https://github.com/geafaellt/LernzielKompass/actions/runs/43593028074). App1.377 live bytegleich bestätigt(SHA256 caffc58c8e02286ccbf89fa7db79d72bb7299664ae78b88fe05800568956c3f5). MA-074 öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger74-Karten-Livedurchlauf behauptet.
+
+
+## MA-068 · App 1.378 · 14.11.2026
+
+MA-075 greift die bislang übersprungene Messzeile187132 unter Kennen187123 auf. FSP3/4-Bemerkung35547 nennt Messen nach Stunden/Minuten unter Anwenden35539. Einheitenbeziehung steht im Ziel,Messen in der Bemerkung. Ganze Minuten und direkt zugängliche Dauermesswerte sind didaktische Auswahlbedingungen;keine amtliche Genauigkeits- oder Höchstdauergrenze. FSP1/2-Ereignisdauer37994 bleibt positiver Vorbezug.
+
+Zahlenbereich,Messbereich und Auflösung vorab klären;alle Messwerte und relevanten Zwischen-/Endwerte darin halten. Keine60-Minuten-Obergrenze,keine Übertragung der vollen-Stunden-Bemerkung35552 auf35547. Keine Rundung,Umrechnung oder versteckte Differenzrechnung. Kalendermessung,Stundenmessung und weitere Anforderungen bleiben offen.74 Bestandskarten unverändert.75 Karten(52 passend,23 stufenübergreifend),201 Quellen,199 Zielanker,133 Inventurzeilen,15 Anschlussfragen,fünf Nichtanschlussentscheidungen. Eine Zeile teilweise geprüft,keine Vollabdeckung. Daten-,Zahlenraum-,Lerngegenstands- und Bestandserhaltungsprüfungen bestanden. Fünf verwandte Zeitkarten mit ursprünglichen Browserprüfungen gezielt geprüft;MA-075 in beiden GS-Jahrgängen und bei320px/390px erfolgreich. Ziele/Kriterien/Grenzen,leere Aufgaben-/Hilfsmittelfelder,Entwurfserhalt,Fachwechsel und Neuladen geprüft. Kein vollständiger75-Karten-Browserlauf behauptet;keine UI-Codeänderung. Veröffentlichung und öffentliche Prüfung noch ausstehend.

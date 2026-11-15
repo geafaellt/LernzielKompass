@@ -1,0 +1,207 @@
+{
+  "id": "MA-068",
+  "date": "2026-11-14",
+  "base_commit": "ab321d9f5c6146883ad02e0203d1d4ca34afa448",
+  "scope": "GS1/2 Messen von Zeitspannen187132:Minutendauermessung als begrenzter3/4-Anschluss",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "bc498e1012117486f69b96e663952c77a17bbdc893cdee958a9c9cf02bd6df78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_187123",
+      "level": 1,
+      "parent_target_id": "page912_187123",
+      "target": "Kennen des Umgangs mit der Größe Zeit in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187132",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "sachadäquates Messen von Zeitspannen mit den Messinstrumenten Uhr und Kalender",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187132",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187134",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Schätzen von Zeitspannen",
+      "remarks": "Stützpunktvorstellungen nutzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187134",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37986",
+      "level": 1,
+      "parent_target_id": "page139_37986",
+      "target": "Einblick gewinnen in den Umgang mit der Zeit in Alltagssituationen",
+      "remarks": "➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37989",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Einteilen der Zeit im Tages- und Wochenablauf",
+      "remarks": "Entwickeln des Gefühls für Zeitspannen Pünktlichkeit, Zeit für sich und für andere Stilleerfahrungen, Zeitbeschränkung Stundenplan, Wochenende, Feiertage ⇒ Wahrnehmungsförderung ➔ DE - HKS, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37994",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Dauer von Ereignissen, deren Anfang und Ende",
+      "remarks": "Zeitspanne, -punkt ermitteln Ferien, Schultag, Unterrichtsstunde",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37995",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Ablesen und Einstellen von vollen Stunden an der Uhr",
+      "remarks": "verschiedene Uhren Differenzierung: 24-Stundeneinteilung, umgangssprachlich „halb, viertel, dreiviertel“ ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37995",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_35539",
+      "level": 1,
+      "parent_target_id": "page139_35539",
+      "target": "Anwenden von Zeitvorstellungen auf das Planen der eigenen Zeit",
+      "remarks": "Schul- und Freizeit ⇒ Werteorientierung ➔ ETH, Kl. 3/4, LB 4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35547",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Beziehung: 1 Stunde (h) = 60 Minuten (min)",
+      "remarks": "Messen der Zeit nach Stunden und Minuten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35549",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "minutengenaues Ablesen der Uhr",
+      "remarks": "24-Stunden-Angabe, Analog- und Digitalanzeigen amtliche und umgangssprachliche Formulierungen verwenden ➔ DE - HKS, Kl. 3/4, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35549",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35552",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Zeitspannen schätzen, vergleichen und berechnen, Zeitpunkt bestimmen",
+      "remarks": "in vollen Stunden Zeitgefühl weiterentwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "verified_band_heading": "Klassenstufen 3/4"
+    }
+  ],
+  "source_verification": "Amtliches HTML beider Pläne frisch geprüft;Ziel-/Bemerkungsspalten und tatsächliche Stufenüberschriften getrennt. Kein neuer PDF-Abgleich behauptet.187134 nur Fortsetzungskontext.",
+  "new_cards": [
+    "MA-075"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-006",
+    "MA-069",
+    "MA-070",
+    "MA-071",
+    "MA-072",
+    "MA-074"
+  ],
+  "existing_card_review": "Alle74 Bestandskarten unverändert. Uhrzeitablesen MA-006/071/072 ist keine Dauermessung;MA-069/074 qualitativ,MA-070 Vergleich bekannter Dauern.",
+  "decisions": [
+    {
+      "gs_id": "page912_187132",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-075"
+      ],
+      "same_band_candidates": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "cross_band_candidates": [
+        "page139_35539",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552"
+      ],
+      "decision": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: eine Zeitspanne in ganzen Minuten messen und als Dauer angeben. GS187132 nennt sachadäquates Messen mit Uhr und Kalender unter Kennen187123. FSP35547 nennt die Beziehung1h=60min; Messen nach Stunden und Minuten steht in der Bemerkung,unter Anwenden35539 und im Kontext eigener Zeitplanung. Die Auswahl ganzer Minuten und eines unmittelbar zugänglichen Dauermesswerts ist didaktisch,keine amtliche Genauigkeitsgrenze. FSP1/2-Ereignisdauer37994 und Uhrlesen37995 sind positive Vorbezüge;Uhrzeitablesen allein belegt keine numerische Dauermessung. Keine vollständige GS-Zieldeckung:Kalendermessung,Stundenmessung,weitere Auflösungen und rechnerisches Ermitteln aus Zeitpunkten bleiben offen. Die60 in der Einheitenbeziehung ist keine Höchstdauer.",
+      "prerequisites": "Zahlenbereich,Auflösung,Messbereich und Messwertdarstellung vorher klären. Dauerwert muss direkt zugänglich sein,keine versteckte Differenzrechnung. Eigener Zeitplanungskontext und Intervallgrenzen geklärt.",
+      "uncertainty": "Messen steht in der FSP-Bemerkung zur Einheitenbeziehung. Ganze Minuten und direkter Dauermesswert sind didaktisch gewählt. Keine amtliche maximale Dauer,Auflösung oder vollständige GS-Deckung behaupten.",
+      "remaining": "Kalendermessung,Stundenmessung,weitere Messauflösungen,selbstständige Instrumenten-/Einheitenwahl und rechnerisches Ermitteln aus Uhrzeiten bleiben offen. MA-075 nur Dauermesswert in didaktisch gewählten ganzen Minuten bei vorab festgelegtem Zahlenraum. FSP1/2-Ermitteln von Zeitspanne/-punkt37994 bleibt positiver weiterer Bezug,kein pauschaler Nichtanschluss. Keine Höchstdauer oder vollständige GS-Zieldeckung belegt."
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 1,
+    "new_open_connection_questions": 0,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 75,
+    "cross_band_cards": 23,
+    "source_links": 201,
+    "target_anchors": 199,
+    "new_unique_fsp_anchors": 1,
+    "audit_rows": 133,
+    "open_connection_questions": 15,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 Schätzen von Zeitspannen187134 gegen beide FSP-Bänder prüfen;danach Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Die zuvor übersprungene Messzeile187132 ist mit MA-075 nur teilweise geprüft:ganze Minuten als didaktische Auswahl,kein Kalender- oder Rechenanschluss.75 Karten(52 passend,23 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
+  "tests": {
+    "status": "passed",
+    "data_checks": "update-mathematik,check-deutsch,prepare-pages,check-mathematik,test-mathematik-scope,check-learning-objects passed",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 74,
+      "old_sources_unchanged": 199,
+      "old_anchors_unchanged": 197,
+      "previous_questions_unchanged": 15,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 133,
+      "changed_audit_ids": [
+        "page912_187123",
+        "page912_187132"
+      ],
+      "new_unique_fsp_anchors": 1,
+      "nonmath_unchanged_except_version_and_update_date": true,
+      "root_dist_identical": true,
+      "html_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b",
+      "html_blob_sha": "dc2eec2c3af0cb8d78afb4867688592ad80b034d"
+    },
+    "scope": "MA-075 unspecified: no invented maximum duration; chosen number range includes measurements and all relevant intermediate/final values. Whole minutes and direct duration readings are didactic choices,not official limits. No hidden conversion or difference calculation.",
+    "browser_local": "Original check-mathematik-browser assertions with only card loop filtered to MA-006,MA-069,MA-070,MA-074,MA-075 passed; grade/area counts retained. Goal/criterion adoption,scope/source visibility,empty tasks/aids,drafts,subject isolation,reload and mobile follow-up passed. No full75-card run claimed;no UI-code change.",
+    "browser_changed_card_mobile": "MA-075 passed in both GS grades and directly at320px/390px with visible scopes and no horizontal overflow.",
+    "browser_environment": "Local Chromium via Playwright;fresh sessions,background throttling and smooth scrolling disabled;60s action timeout.",
+    "source_check": "Fresh official HTML of both plans verified with actual stage headings and target/remark hierarchy. No fresh PDF verification claimed.",
+    "browser_live": "pending targeted MA-075"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.378",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "target_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b"
+  }
+}
