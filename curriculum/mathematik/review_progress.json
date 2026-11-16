@@ -2601,7 +2601,7 @@
     }
   },
   "next_id": "page912_187139",
-  "next_step": "GS1/2 Fachbegriffe zur Zeit187139 gegen beide FSP-Bänder prüfen. Danach den nächsten tatsächlich offenen Inventurpunkt bestimmen. MA-078 deckt187136/187137 nur gemeinsam als Berechnung einer Dauer zwischen bekannten vollen Stunden desselben Tages ab;187138 ist als neue Anschlussfrage dokumentiert.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Frühere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS1/2 Fachbegriffe zur Zeit187139 gegen beide FSP-Bänder prüfen. Danach den nächsten tatsächlich offenen Inventurpunkt bestimmen. MA-078 deckt187136/187137 nur gemeinsam als Berechnung einer Dauer zwischen bekannten vollen Stunden desselben Tages ab;187138 ist als neue Anschlussfrage dokumentiert.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Frühere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.381 veröffentlicht und live geprüft;Nachweise in MA-071.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3867,9 +3867,12 @@
   },
   "latest_publication": {
     "batch": "MA-071",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.381",
-    "previous_verified_version": "1.380"
+    "app_commit": "4bad0d84d3f8b38024d4a574e3e8093aa84009b4",
+    "pages_run": 43855090293,
+    "live_sha256": "f10c034ed8c5ae12e3c33808f1839037421a75873cc589ad7a7ada620f36b1b2",
+    "browser": "MA-078 live in both GS grades and mobile320/390 passed;six related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

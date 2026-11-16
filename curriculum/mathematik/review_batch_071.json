@@ -272,7 +272,7 @@
   },
   "continuation": "GS1/2 Fachbegriffe zur Zeit187139 gegen beide FSP-Bänder prüfen. Danach den nächsten tatsächlich offenen Inventurpunkt bestimmen. MA-078 deckt187136/187137 nur gemeinsam als Berechnung einer Dauer zwischen bekannten vollen Stunden desselben Tages ab;187138 ist als neue Anschlussfrage dokumentiert.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Frühere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_targeted_live",
     "commands": [
       "scripts/update-mathematik.py",
       "scripts/check-deutsch.py",
@@ -303,11 +303,20 @@
       "html_blob_sha": "ca0bdb70323356d43466be207410531c091f0b20"
     },
     "browser_local": "Assertions from scripts/check-mathematik-browser.cjs passed for related cards MA-069/070/075/076/077/078 with all grade/area counts retained. Targeted MA-078 in both GS grades and directly at320px/390px passed. Scope visible on cards/goals/output, exact goal/criterion adoption, source links, empty task/aid fields, preserved teacher text, subject isolation and reload. No full78-card browser run claimed; the77 unchanged cards passed the full original script in MA-070.",
-    "baseline_remote": "All nine inspected baseline files match maine3cda63f3b182ae5a27abe55675728d7f98e5270, including AGENTS, root/dist, module, progress, audit and latest batch."
+    "baseline_remote": "All nine inspected baseline files match maine3cda63f3b182ae5a27abe55675728d7f98e5270, including AGENTS, root/dist, module, progress, audit and latest batch.",
+    "browser_live": "passed MA-078 in both GS grades,including exact goal/criterion adoption,source links,visible scope,empty task/aid fields,preserved teacher drafts,subject isolation,reload. Directly checked at320px/390px for visible card/goal scopes and no horizontal overflow. No full78-card public run claimed; six related cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.381",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "4bad0d84d3f8b38024d4a574e3e8093aa84009b4",
+    "pages_run": 43855090293,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43855090293",
+    "pages_conclusion": "success",
+    "live_app_version": "1.381",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "f10c034ed8c5ae12e3c33808f1839037421a75873cc589ad7a7ada620f36b1b2",
+    "verified_at": "2026-11-16T11:09:56.654827+00:00"
   }
 }
