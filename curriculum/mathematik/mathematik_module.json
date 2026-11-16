@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-16.1",
+  "version": "MA-2026-11-16.2",
   "checked_on": "2026-11-16",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1321,6 +1321,12 @@
       "id": "Q-MA-page912_187134",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187134",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187135",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187135",
       "version": "2026"
     }
   ],
@@ -7462,6 +7468,76 @@
         "fsp_remark_anchors": [
           "page139_35552"
         ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-077",
+      "subject": "Mathematik",
+      "theme": "Eine Stunde und sechzig Minuten als gleiche Dauer",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Grundfall 1 h ↔ 60 min · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Einheitenwahl und Umrechnen187135 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Beziehung 1 h = 60 min35547 unter Anwenden35539",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: dieselbe Dauer als 1 h und als 60 min angeben. GS187135 nennt Einheitenwahl und Umrechnen unter Kennen187123. FSP35547 nennt ausdrücklich die Beziehung 1 Stunde (h) = 60 Minuten (min) unter Anwenden35539 im Kontext eigener Zeitplanung. Messen steht in der FSP-Bemerkung und wird hier nicht als zusätzliche Anforderung übernommen. FSP1/2-Ereignisdauer37994 und volle Uhrstunden37995 bleiben positive Vorbezüge, belegen aber die Stunden-Minuten-Beziehung nicht ausdrücklich. Der ausgewählte Grundfall deckt weder allgemeine Einheitenwahl noch beliebige Stunden-Minuten-Umrechnungen oder andere Zeiteinheiten vollständig ab. Die 60 ist keine Höchstdauer.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187135"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35547"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187135",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35547"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: dieselbe Dauer als 1 h und als 60 min angeben. GS187135 nennt Einheitenwahl und Umrechnen unter Kennen187123. FSP35547 nennt ausdrücklich die Beziehung 1 Stunde (h) = 60 Minuten (min) unter Anwenden35539 im Kontext eigener Zeitplanung. Messen steht in der FSP-Bemerkung und wird hier nicht als zusätzliche Anforderung übernommen. FSP1/2-Ereignisdauer37994 und volle Uhrstunden37995 bleiben positive Vorbezüge, belegen aber die Stunden-Minuten-Beziehung nicht ausdrücklich. Der ausgewählte Grundfall deckt weder allgemeine Einheitenwahl noch beliebige Stunden-Minuten-Umrechnungen oder andere Zeiteinheiten vollständig ab. Die 60 ist keine Höchstdauer.",
+      "shared_object_suggestion": "Eine gleich bleibende Dauer in zwei Einheiten: eine Stunde und sechzig Minuten.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind gibt dieselbe Zeitspanne von einer Stunde als 1 h und als 60 min an.",
+          "criterion": "Beide Angaben bezeichnen dieselbe Dauer. Die Zahl 1 gehört zur Einheit h, die Zahl 60 zur Einheit min; die Angabe wird nicht mit einer Uhrzeit verwechselt. Der ausgewählte Grundfall bleibt auf 1 h ↔ 60 min beschränkt. Weitere Zahlenwerte, Zwischenrechnungen, Bruchteile und gemischte Einheiten werden nicht mitverlangt.",
+          "status": "Didaktischer Grundfall des Umrechnens187135 unter Kennen187123; keine vollständige Deckung der Einheitenwahl oder weiterer Umrechnungen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet im Zusammenhang seiner eigenen Zeitplanung die gleichwertigen Angaben 1 h und 60 min für dieselbe Zeitspanne von einer Stunde.",
+          "criterion": "Beide Angaben bezeichnen dieselbe Dauer: 1 mit der Einheit h und 60 mit der Einheit min. Dauer und Uhrzeit werden getrennt gehalten. Es bleibt beim ausdrücklich belegten Wertepaar 1 h ↔ 60 min; zusätzliche Zahlenwerte, Zwischenrechnungen, Bruchteile oder gemischte Einheiten sind nicht Teil dieses Feinziels.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung der ausdrücklich genannten Einheitenbeziehung35547 unter Anwenden35539; keine allgemeine Umrechnungsvorschrift und keine maximale Dauer abgeleitet."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Einheitenbeziehung 1 h = 60 min · ausschließlich dieser Grundfall · keine Höchstdauer",
+        "detail": "35547 belegt das Wertepaar 1 Stunde (h) = 60 Minuten (min) ausdrücklich. Die Werte gehören zu unterschiedlichen Einheiten und bezeichnen dieselbe Dauer. Sie bestimmen keinen allgemeinen Zahlenraum und keine maximale Dauer. Allgemeine Zahlenräume20/100 sowie die vollen Stunden aus35552 begrenzen diese Einheitenbeziehung nicht.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35547"
+        ],
+        "planning_rule": "Nur die ausdrücklich belegten gleichwertigen Angaben 1 h und 60 min verwenden. Keine beliebige Dauer bis60 und keine 60-Minuten-Obergrenze ableiten. Ausgangs- und Endangabe bleiben genau dieses Wertepaar; zusätzliche Zwischenrechnungen oder andere numerische Ergebnisse sind nicht enthalten. Den Kontext eigener Zeitplanung und die Bedeutung als Dauer klären; keine Uhrzeitangaben gleichsetzen. Weitere Stundenwerte, Minutenwerte, Bruchteile, gemischte Einheiten und andere Einheitenbeziehungen bedürfen einer gesonderten fachlichen Prüfung samt Grenzen aller Zwischen- und Endwerte. Messen und Ablesen sind keine zusätzlichen Anforderungen dieses Feinziels. Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung; eigene Entwürfe werden nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187135 ist Unterziel unter Kennen187123. In der Bemerkung steht die Entscheidung über die größere Einheit. Ausgewählt wird ausschließlich der Grundfall der gleichwertigen Angaben 1 h und 60 min; allgemeine Einheitenwahl und Größenvergleich werden nicht vollständig beansprucht.187123 dient nur als Kontext.",
+        "fsp": "Die Einheitenbeziehung steht in der verbindlichen Zielzeile35547, das Messen in ihrer Bemerkung. Anwenden stammt aus35539. Der konkrete Einsatz im eigenen Zeitplanungskontext ist didaktisch; zusätzliche Rechenverfahren werden nicht unterstellt.",
+        "fsp_remark_anchors": [],
         "context_only_gs_ids": [
           "page912_187123"
         ]

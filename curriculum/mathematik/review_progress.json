@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-069",
+  "last_batch": "MA-070",
   "complete": false,
   "counts": {
-    "cards": 76,
-    "cross_band": 24
+    "cards": 77,
+    "cross_band": 25
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2559,10 +2559,23 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187135": {
+      "id": "page912_187135",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Wählen von passenden Einheiten und Umrechnen in benachbarte Einheiten",
+      "remarks": "entscheiden können, welche die größere Einheit ist",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187135",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187135",
-  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187135 gegen beide FSP-Bänder prüfen; danach Sachsituationen187136 mit187137/187138. Schätzen187134 ist durch MA-076 nur für volle Stunden teilweise geprüft.76 Karten(52 passend,24 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen. App1.379 veröffentlicht und live geprüft;Nachweise in MA-069.",
+  "next_id": "page912_187136",
+  "next_step": "GS1/2 Sachsituationen und Rechnen mit Zeitspannen187136 einschließlich Unterzeilen187137/187138 gegen beide FSP-Bänder prüfen. Danach Fachbegriffe187139. Einheitenwahl/Umrechnen187135 bleibt durch MA-077 nur im Grundfall1h=60min teilweise geprüft.77 Karten(52 passend,25 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2828,9 +2841,18 @@
         "page139_37994"
       ],
       "decision": "Zeitgefühl und Ereignisdauer in1/2 sind positive Vorbezüge, bereits durch MA-069/074 teilweise repräsentiert. Ausdrückliches Schätzen mit Ganzstundenbegrenzung steht in3/4-Ziel35552 und seiner Bemerkung unter Anwenden35539. Die Stufenüberschreitung folgt diesem konkreten Zielbeleg, nicht einer Zahlenraumdifferenz."
+    },
+    "MA-077": {
+      "same_band_candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995"
+      ],
+      "decision": "Die1/2-Zeilen betreffen Zeitgefühl, Ereignisdauer und volle Uhrstunden. Sie sind positive Vorbezüge, enthalten aber keine ausdrückliche Beziehung zwischen Stunde und Minute. Diese steht in3/4-Ziel35547 unter Anwenden35539. Die Stufenüberschreitung folgt dem konkreten Einheitenbeleg, nicht einer Zahlenraumdifferenz. Weitergehendes Umrechnen35697 gehört zu Klasse7 und wird nicht in3/4 übertragen."
     }
   },
-  "last_review_file": "review_batch_069.json",
+  "last_review_file": "review_batch_070.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3518,6 +3540,12 @@
       "scope": "Schätzen von Minuten- oder Bruchstundendauern und weitere Situationen bleiben offen. MA-076 umfasst nur volle Stunden im FSP-Kontext eigener Zeitplanung mit vorab festgelegtem Zahlenraum und situativem Plausibilitätsbereich. FSP1/2-Zeitgefühl37989 und Ereignisdauer37994 bleiben positive vorbereitende Bezüge; kein pauschaler Nichtanschluss. Keine Höchstdauer und keine vollständige GS-Zieldeckung belegt.",
       "status": "offen",
       "review": "MA-069"
+    },
+    {
+      "gs_id": "page912_187135",
+      "scope": "Allgemeine Wahl passender Zeiteinheiten, Entscheidung über die größere Einheit als eigenständige Anforderung, Umrechnen anderer Stunden-/Minutenwerte sowie Tag, Woche, Monat und Jahr bleiben offen. MA-077 umfasst nur die ausdrücklich belegte Gleichwertigkeit 1 h ↔ 60 min im FSP-Kontext eigener Zeitplanung. Keine allgemeine Umrechnungsvorschrift, Höchstdauer oder vollständige GS-Zieldeckung abgeleitet. FSP1/2-Dauer- und Uhrbezüge bleiben positive Vorbezüge.",
+      "status": "offen",
+      "review": "MA-070"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3542,7 +3570,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen erhalten; MA-069 prüft187134 teilweise.187123 nur Kontext. Fortsetzung187135.",
+    "note": "133 Zeilen erhalten; MA-070 prüft187135 teilweise.187123 nur Kontext. Fortsetzung187136 einschließlich187137/187138.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3727,6 +3755,13 @@
         "MA-076": "unspecified"
       },
       "note": "Volle Stunden ausdrücklich belegt, keine maximale Dauer oder feste Schätztoleranz. Zahlenraum und situativen Plausibilitätsbereich vorher festlegen; alle relevanten Werte darin halten.75 Bestandskarten unverändert."
+    },
+    "follow_up_hour_minute_relationship": {
+      "batch": "MA-070",
+      "cards": {
+        "MA-077": "domain_specific"
+      },
+      "note": "Ausdrücklich belegtes Wertepaar1h=60min, kein allgemeiner Zahlenraum und keine Höchstdauer. Keine weiteren Zwischen-/Endwerte vorgesehen.76 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3747,13 +3782,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-069",
-    "status": "verified",
-    "app_version": "1.379",
-    "app_commit": "2ac7dd12f04ed24753fb9097f14e50b4d891ce28",
-    "pages_run": 43836220772,
-    "live_sha256": "274861c14062ff668afbcdf099ca94a1cb89ba4d79c04d8604d23c33ae49c728",
-    "browser": "MA-076 live in both GS grades and mobile320/390 passed;five related cards local"
+    "batch": "MA-070",
+    "status": "pending",
+    "app_version": "1.380",
+    "previous_verified_version": "1.379"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
