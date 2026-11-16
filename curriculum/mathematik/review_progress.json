@@ -2575,7 +2575,7 @@
     }
   },
   "next_id": "page912_187136",
-  "next_step": "GS1/2 Sachsituationen und Rechnen mit Zeitspannen187136 einschließlich Unterzeilen187137/187138 gegen beide FSP-Bänder prüfen. Danach Fachbegriffe187139. Einheitenwahl/Umrechnen187135 bleibt durch MA-077 nur im Grundfall1h=60min teilweise geprüft.77 Karten(52 passend,25 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
+  "next_step": "GS1/2 Sachsituationen und Rechnen mit Zeitspannen187136 einschließlich Unterzeilen187137/187138 gegen beide FSP-Bänder prüfen. Danach Fachbegriffe187139. Einheitenwahl/Umrechnen187135 bleibt durch MA-077 nur im Grundfall1h=60min teilweise geprüft.77 Karten(52 passend,25 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen. App1.380 veröffentlicht und live geprüft;Nachweise in MA-070.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3783,9 +3783,12 @@
   },
   "latest_publication": {
     "batch": "MA-070",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.380",
-    "previous_verified_version": "1.379"
+    "app_commit": "c08d51fabdf28ca2e64c8aea7b627b189c300f86",
+    "pages_run": 43838660706,
+    "live_sha256": "ab0b5d3e68cc4c6a44aa825bd715045b21933b8b4832ceab221c8757c60f8a43",
+    "browser": "MA-077 live in both GS grades and mobile320/390 passed;all77 cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
