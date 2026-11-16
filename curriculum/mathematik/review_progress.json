@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-071",
+  "last_batch": "MA-072",
   "complete": false,
   "counts": {
     "cards": 78,
@@ -2598,10 +2598,23 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187139": {
+      "id": "page912_187139",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Verwenden der Fachbegriffe: Stunde (h), Minute (min), Tag, Woche, Monat, Jahr, Uhr, Kalender, „… dauert kürzer als …“, „… dauert länger als …“",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187139",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187139",
-  "next_step": "GS1/2 Fachbegriffe zur Zeit187139 gegen beide FSP-Bänder prüfen. Danach den nächsten tatsächlich offenen Inventurpunkt bestimmen. MA-078 deckt187136/187137 nur gemeinsam als Berechnung einer Dauer zwischen bekannten vollen Stunden desselben Tages ab;187138 ist als neue Anschlussfrage dokumentiert.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Frühere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.381 veröffentlicht und live geprüft;Nachweise in MA-071.",
+  "next_id": "page912_1959",
+  "next_step": "GS1/2 Daten sammeln und darstellen1959 mit Unterzeilen1960–1963 gegen beide FSP-Bänder prüfen. Diese fünf Zeilen sind nur neu inventarisiert, nicht fachlich geprüft. Zeit-Fachbegriffe187139 teilweise den vorhandenen MA-070/077 zugeordnet; übrige Begriffe und frühere Restumfänge bleiben offen.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Keine neue Karte und kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2890,7 +2903,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_071.json",
+  "last_review_file": "review_batch_072.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3623,6 +3636,12 @@
       "scope": "MA-078 begrenzt auf Berechnen der Dauer zwischen zwei bekannten vollen Uhrstunden desselben Tages mit eindeutiger Reihenfolge und vorab festgelegtem Zahlenraum. Bestimmen fehlender Anfangs-/Endzeitpunkte, Tageswechsel, weitere Strukturen der Sachsituation und der Minutenfall187138 bleiben offen. Keine maximale Dauer oder vollständige GS-Zieldeckung abgeleitet.",
       "status": "offen",
       "review": "MA-071"
+    },
+    {
+      "gs_id": "page912_187139",
+      "scope": "Tag, Woche, Monat, Jahr, Uhr und Kalender als eigenständiger fachsprachlicher Gebrauch sowie Verwendung von Stunde/Minute und Vergleichsausdrücken außerhalb der begrenzten Karten bleiben offen. Die Begriffe nur im Quellentext oder in einem Kartentitel zu finden, belegt noch keine vollständige Zieldeckung. Stufengleiche Tages-/Wochen-, Ereignis-, Uhr- und Kalenderbezüge bleiben positive Kandidaten; keine pauschalen Nichtanschlüsse.",
+      "status": "offen",
+      "review": "MA-072"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3644,10 +3663,11 @@
       "page912_1911",
       "page912_1912",
       "page912_1922",
-      "page912_187123"
+      "page912_187123",
+      "page912_1959"
     ],
-    "rows": 133,
-    "note": "133 Zeilen erhalten; MA-071 prüft187136/187137 gemeinsam teilweise und dokumentiert187138 als Anschlussfrage.187123 nur Kontext. Fortsetzung187139.",
+    "rows": 138,
+    "note": "MA-072:187139 teilweise über bestehende Karten geprüft; fünf Zeilen1959–1963 zu Daten sammeln/darstellen nur inventarisiert. Kein fachlicher Fortschritt für diese neuen Inventurzeilen.138 Zeilen gesamt; Fortsetzung1959.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3846,6 +3866,14 @@
         "MA-078": "unspecified"
       },
       "note": "Volle Stunden belegt, keine Höchstdauer. Alle Anfangs-/End-/Zwischen-/Ergebniswerte im vorher festgelegten Zahlenraum. Gleicher Tag und bekannte Angaben didaktisch.77 Bestandskarten unverändert."
+    },
+    "follow_up_time_terminology": {
+      "batch": "MA-072",
+      "cards": {
+        "MA-070": "unspecified",
+        "MA-077": "domain_specific"
+      },
+      "note": "Beide bestehenden Geltungsbereiche, alle Feinziele und Kriterien unverändert. MA-070 alle Werte im festgelegten Zahlenraum; MA-077 ausschließlich1h=60min. Quellenbezug erweitert, keine neue Zahlen- oder Definitionsanforderung."
     }
   },
   "publication_recheck": {
@@ -3866,13 +3894,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-071",
-    "status": "verified",
-    "app_version": "1.381",
-    "app_commit": "4bad0d84d3f8b38024d4a574e3e8093aa84009b4",
-    "pages_run": 43855090293,
-    "live_sha256": "f10c034ed8c5ae12e3c33808f1839037421a75873cc589ad7a7ada620f36b1b2",
-    "browser": "MA-078 live in both GS grades and mobile320/390 passed;six related cards local"
+    "batch": "MA-072",
+    "status": "pending",
+    "app_version": "1.382",
+    "previous_verified_version": "1.381"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

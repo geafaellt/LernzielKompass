@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-071
+# Mathematik-Abgleich · MA-072
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Fachbegriffen187139. [MA-071](review_batch_071.json) ergänzt MA-078: Zeitspanne zwischen vollen Uhrstunden berechnen.187136/187137 gemeinsam teilweise geprüft;187138 als Anschlussfrage.78 Karten,16 Anschlussfragen,133 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Daten sammeln und darstellen1959 mit1960–1963. Diese fünf Zeilen sind nur inventarisiert. [MA-072](review_batch_072.json) verknüpft Zeit-Fachbegriffe187139 mit MA-070/077; keine neue Karte.78 Karten,16 Anschlussfragen,138 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -754,3 +754,10 @@ Fachspezifischer Geltungsbereich: genau1h↔60min; kein Zahlenraum bis60 und kei
 MA-078 verbindet GS187136 mit Unterbedingung187137 unter Kennen187123 und FSP3/4-Zeitspannenberechnen35552 unter Anwenden35539. Volle Stunden stehen in der FSP-Bemerkung. Ein gemeinsamer Ausschnitt in zwei hierarchisch verbundenen GS-Zeilen, nur eine neue Karte. Eigene Zeitplanung bleibt FSP-Kontext. Gleicher Tag, eindeutige zeitliche Reihenfolge und bekannte Uhrangaben sind didaktische Auswahlbedingungen.
 
 Keine maximale Dauer belegt; Zahlenraum vorab festlegen und alle Anfangs-/End-/Zwischen-/Ergebniswerte darin halten. Fehlende Zeitpunkte, Tageswechsel und weitere Sachsituationen bleiben offen.187138 innerhalb derselben Stunde ist eine neue Anschlussfrage: Minutenablesen und -messen sind keine automatische Minutenrechenfreigabe; positive Dauer-, Rechen- und Sachaufgabenbezüge beider Bänder bleiben zu prüfen. Keine neue Nichtanschlussentscheidung.77 Bestandskarten unverändert.78 Karten(52 passend,26 stufenübergreifend),205 Quellen,203 Zielanker,133 Inventurzeilen,16 Anschlussfragen,fünf Nichtanschlussentscheidungen. Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. Sechs zugehörige Zeitspannen-Karten lokal geprüft; MA-078 zusätzlich in beiden GS-Jahrgängen und bei320px/390px. Keine vollständige78-Karten-Browserprüfung behauptet; vollständiger Lauf der unveränderten77 Bestandskarten in MA-070. Veröffentlicht mit Commit 4bad0d84d3f8b38024d4a574e3e8093aa84009b4 und erfolgreichem [Pages-Lauf 43855090293](https://github.com/geafaellt/LernzielKompass/actions/runs/43855090293). App1.381 live bytegleich bestätigt(SHA256 f10c034ed8c5ae12e3c33808f1839037421a75873cc589ad7a7ada620f36b1b2). MA-078 öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger78-Karten-Livedurchlauf behauptet.
+
+
+## MA-072 · App 1.382 · 16.11.2026
+
+Zeit-Fachbegriffe187139 teilweise an zwei bestehende Karten angebunden: MA-077 verwendet Stunde(h)/Minute(min) im belegten Wertepaar1h=60min; MA-070 länger/kürzer als didaktische Vergleichssprache zu35552. Keine neue Karte oder vollständige Fachbegriffsliste. Stufengleiche Tages-/Wochen-, Ereignis-, Uhr- und Kalenderbezüge geprüft und als positive weitere Kandidaten dokumentiert. Übrige Begriffe bleiben offen.
+
+Alle78 Feinziele, Kriterien, Geltungsbereiche und gemeinsamen Lerngegenstände bleiben unverändert;76 Karten vollständig unverändert.78 Karten(52 passend,26 stufenübergreifend),206 Quellen,204 Zielanker,16 Anschlussfragen,fünf Nichtanschlussentscheidungen. Fünf weitere Zeilen1959–1963 nur inventarisiert, kein fachlicher Fortschritt dafür:138 Inventurzeilen. Der bisherige Bestand ist weiterhin eine Teilinventur, kein Gesamtabschluss. Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. MA-070/077 lokal in beiden GS-Jahrgängen geprüft; MA-077 zusätzlich bei320px/390px. Keine vollständige78-Karten-Browserprüfung behauptet. Veröffentlichung und öffentliche Prüfung noch ausstehend.

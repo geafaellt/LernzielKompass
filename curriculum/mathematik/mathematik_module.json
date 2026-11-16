@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-16.3",
+  "version": "MA-2026-11-16.4",
   "checked_on": "2026-11-16",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1339,6 +1339,12 @@
       "id": "Q-MA-page912_187137",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187137",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187139",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187139",
       "version": "2026"
     }
   ],
@@ -6974,15 +6980,16 @@
       "theme": "Zeitspannen in vollen Stunden vergleichen",
       "app_area": "MA-page912_1753",
       "status": "Begrenzter Anschluss · Vergleich in vollen Stunden · stufenübergreifend",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Zeitspannen187125 unter Kennen187123; Stunden aus187126",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Zeitspannen187125 unter Kennen187123; Stunden aus187126; begrenzter Fachbegriffsbezug187139",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Zeitspannen vergleichen35552 unter Anwenden35539; volle Stunden in der Bemerkung",
       "gs_operator": "Kennen",
       "fsp_operator": "Anwenden",
-      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: zwei bereits geklärte Zeitspannen in vollen Stunden vergleichen, im Zusammenhang der eigenen Zeitplanung. GS-Kennen stammt aus187123; FSP-Anwenden aus35539. Vergleichen steht im Ziel35552; in vollen Stunden steht in dessen Bemerkung und begrenzt die Konkretisierung. FSP1/2-Dauer und Zeitgefühl37994/37989 sind positive Vorbezüge;MA-069 erfasst dort den passenden qualitativen Ausschnitt. Der konkrete Stundenvergleich wird durch3/4 ausdrücklich gestützt, nicht allein wegen eines anderen Zahlenraums gewählt. Keine numerische Höchstdauer belegt. Zahlenbereich vorher festlegen; alle Angaben und relevanten Zwischen-/Endwerte darin halten. Keine vollständige GS-Zieldeckung, insbesondere keine Minuten, Bruchstunden, Umrechnungen, Berechnungen oder selbstständige Ermittlung der Dauern.",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: zwei bereits geklärte Zeitspannen in vollen Stunden vergleichen, im Zusammenhang der eigenen Zeitplanung. GS-Kennen stammt aus187123; FSP-Anwenden aus35539. Vergleichen steht im Ziel35552; in vollen Stunden steht in dessen Bemerkung und begrenzt die Konkretisierung. FSP1/2-Dauer und Zeitgefühl37994/37989 sind positive Vorbezüge;MA-069 erfasst dort den passenden qualitativen Ausschnitt. Der konkrete Stundenvergleich wird durch3/4 ausdrücklich gestützt, nicht allein wegen eines anderen Zahlenraums gewählt. Keine numerische Höchstdauer belegt. Zahlenbereich vorher festlegen; alle Angaben und relevanten Zwischen-/Endwerte darin halten. Keine vollständige GS-Zieldeckung, insbesondere keine Minuten, Bruchstunden, Umrechnungen, Berechnungen oder selbstständige Ermittlung der Dauern. Zusätzlicher GS-Teilbezug187139: länger/kürzer als sprachliche Konkretisierung des Dauernvergleichs. FSP35552 belegt Vergleichen, nicht den wörtlichen GS-Satzbau. Nur bereits geklärte volle Stundendauern im festgelegten Zahlenraum; keine übrige Fachbegriffsliste gedeckt.",
       "gs_target_ids": [
         "page912_187123",
         "page912_187125",
-        "page912_187126"
+        "page912_187126",
+        "page912_187139"
       ],
       "fsp_target_ids": [
         "page139_35539",
@@ -6993,7 +7000,8 @@
         "Q-MA-page912_187125",
         "Q-MA-page912_187126",
         "Q-MA-page139_35539",
-        "Q-MA-page139_35552"
+        "Q-MA-page139_35552",
+        "Q-MA-page912_187139"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -7004,7 +7012,7 @@
         "relation": "cross-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: zwei bereits geklärte Zeitspannen in vollen Stunden vergleichen, im Zusammenhang der eigenen Zeitplanung. GS-Kennen stammt aus187123; FSP-Anwenden aus35539. Vergleichen steht im Ziel35552; in vollen Stunden steht in dessen Bemerkung und begrenzt die Konkretisierung. FSP1/2-Dauer und Zeitgefühl37994/37989 sind positive Vorbezüge;MA-069 erfasst dort den passenden qualitativen Ausschnitt. Der konkrete Stundenvergleich wird durch3/4 ausdrücklich gestützt, nicht allein wegen eines anderen Zahlenraums gewählt. Keine numerische Höchstdauer belegt. Zahlenbereich vorher festlegen; alle Angaben und relevanten Zwischen-/Endwerte darin halten. Keine vollständige GS-Zieldeckung, insbesondere keine Minuten, Bruchstunden, Umrechnungen, Berechnungen oder selbstständige Ermittlung der Dauern.",
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: zwei bereits geklärte Zeitspannen in vollen Stunden vergleichen, im Zusammenhang der eigenen Zeitplanung. GS-Kennen stammt aus187123; FSP-Anwenden aus35539. Vergleichen steht im Ziel35552; in vollen Stunden steht in dessen Bemerkung und begrenzt die Konkretisierung. FSP1/2-Dauer und Zeitgefühl37994/37989 sind positive Vorbezüge;MA-069 erfasst dort den passenden qualitativen Ausschnitt. Der konkrete Stundenvergleich wird durch3/4 ausdrücklich gestützt, nicht allein wegen eines anderen Zahlenraums gewählt. Keine numerische Höchstdauer belegt. Zahlenbereich vorher festlegen; alle Angaben und relevanten Zwischen-/Endwerte darin halten. Keine vollständige GS-Zieldeckung, insbesondere keine Minuten, Bruchstunden, Umrechnungen, Berechnungen oder selbstständige Ermittlung der Dauern. Zusätzlicher GS-Teilbezug187139: länger/kürzer als sprachliche Konkretisierung des Dauernvergleichs. FSP35552 belegt Vergleichen, nicht den wörtlichen GS-Satzbau. Nur bereits geklärte volle Stundendauern im festgelegten Zahlenraum; keine übrige Fachbegriffsliste gedeckt.",
       "shared_object_suggestion": "Zwei Zeitspannen in vollen Stunden: Welche dauert länger, kürzer oder gleich lang?",
       "fine_goals": [
         {
@@ -7032,7 +7040,7 @@
         "planning_rule": "Zahlenbereich und vertraute Darstellung der Stundenwerte vor Verwendung festlegen. Zwei bereits geklärte nichtnegative ganzzahlige Stundendauern vergleichen; alle verwendeten Werte und relevanten Zwischen-/Endwerte müssen im festgelegten Bereich bleiben. Eigene Zeitplanung ist der FSP-Kontext. Keine Uhrzeit mit Dauer verwechseln,keine Minuten- oder Bruchstundenangaben übernehmen. Aus zwei Zeitpunkten keine Dauer berechnen und keinen Zeitabstand als Differenz zusätzlich fordern. Keine Messung,Schätzung,Umrechnung oder Uhrzeitablesung mitverlangen. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft;eigene Entwürfe gesondert prüfen."
       },
       "evidence_classification": {
-        "gs": "187125 nennt Vergleichen,187126 Minuten und Stunden; ausgewählt ist nur Stundenvergleich.187123 Hauptzielkontext. Bruchanteile und konkrete Vergleichsmethoden stehen in der Bemerkung und werden nicht als mitgedeckt behauptet.",
+        "gs": "187125 nennt Vergleichen,187126 Minuten und Stunden; ausgewählt ist nur Stundenvergleich.187123 Hauptzielkontext. Bruchanteile und konkrete Vergleichsmethoden stehen in der Bemerkung und werden nicht als mitgedeckt behauptet. Zusätzlicher GS-Teilbezug187139: länger/kürzer als sprachliche Konkretisierung des Dauernvergleichs. FSP35552 belegt Vergleichen, nicht den wörtlichen GS-Satzbau. Nur bereits geklärte volle Stundendauern im festgelegten Zahlenraum; keine übrige Fachbegriffsliste gedeckt.",
         "fsp": "Vergleichen ist Zieltext35552 unter Anwenden35539. Volle Stunden ist eine Bemerkungsgrenze und wird sichtbar übernommen. Schätzen,Berechnen und Zeitpunktbestimmung aus derselben Zielzeile sind nicht Teil der Karte.",
         "fsp_remark_anchors": [
           "page139_35552"
@@ -7491,14 +7499,15 @@
       "theme": "Eine Stunde und sechzig Minuten als gleiche Dauer",
       "app_area": "MA-page912_1753",
       "status": "Begrenzter Anschluss · Grundfall 1 h ↔ 60 min · stufenübergreifend",
-      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Einheitenwahl und Umrechnen187135 unter Kennen187123",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Einheitenwahl und Umrechnen187135 unter Kennen187123; begrenzter Fachbegriffsbezug187139",
       "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Beziehung 1 h = 60 min35547 unter Anwenden35539",
       "gs_operator": "Kennen",
       "fsp_operator": "Anwenden",
-      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: dieselbe Dauer als 1 h und als 60 min angeben. GS187135 nennt Einheitenwahl und Umrechnen unter Kennen187123. FSP35547 nennt ausdrücklich die Beziehung 1 Stunde (h) = 60 Minuten (min) unter Anwenden35539 im Kontext eigener Zeitplanung. Messen steht in der FSP-Bemerkung und wird hier nicht als zusätzliche Anforderung übernommen. FSP1/2-Ereignisdauer37994 und volle Uhrstunden37995 bleiben positive Vorbezüge, belegen aber die Stunden-Minuten-Beziehung nicht ausdrücklich. Der ausgewählte Grundfall deckt weder allgemeine Einheitenwahl noch beliebige Stunden-Minuten-Umrechnungen oder andere Zeiteinheiten vollständig ab. Die 60 ist keine Höchstdauer.",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: dieselbe Dauer als 1 h und als 60 min angeben. GS187135 nennt Einheitenwahl und Umrechnen unter Kennen187123. FSP35547 nennt ausdrücklich die Beziehung 1 Stunde (h) = 60 Minuten (min) unter Anwenden35539 im Kontext eigener Zeitplanung. Messen steht in der FSP-Bemerkung und wird hier nicht als zusätzliche Anforderung übernommen. FSP1/2-Ereignisdauer37994 und volle Uhrstunden37995 bleiben positive Vorbezüge, belegen aber die Stunden-Minuten-Beziehung nicht ausdrücklich. Der ausgewählte Grundfall deckt weder allgemeine Einheitenwahl noch beliebige Stunden-Minuten-Umrechnungen oder andere Zeiteinheiten vollständig ab. Die 60 ist keine Höchstdauer. Zusätzlicher GS-Teilbezug187139: Stunde(h) und Minute(min) im bereits ausgewählten Wertepaar1h=60min. FSP35547 nennt diese Einheiten und Abkürzungen ausdrücklich. Keine allgemeine Definition, neue Zahlengrenze oder Deckung der übrigen Fachbegriffsliste.",
       "gs_target_ids": [
         "page912_187123",
-        "page912_187135"
+        "page912_187135",
+        "page912_187139"
       ],
       "fsp_target_ids": [
         "page139_35539",
@@ -7508,7 +7517,8 @@
         "Q-MA-page912_187123",
         "Q-MA-page912_187135",
         "Q-MA-page139_35539",
-        "Q-MA-page139_35547"
+        "Q-MA-page139_35547",
+        "Q-MA-page912_187139"
       ],
       "stage_alignment": {
         "gs_anchor_grade": "1/2",
@@ -7519,7 +7529,7 @@
         "relation": "cross-band"
       },
       "content_review_required": true,
-      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: dieselbe Dauer als 1 h und als 60 min angeben. GS187135 nennt Einheitenwahl und Umrechnen unter Kennen187123. FSP35547 nennt ausdrücklich die Beziehung 1 Stunde (h) = 60 Minuten (min) unter Anwenden35539 im Kontext eigener Zeitplanung. Messen steht in der FSP-Bemerkung und wird hier nicht als zusätzliche Anforderung übernommen. FSP1/2-Ereignisdauer37994 und volle Uhrstunden37995 bleiben positive Vorbezüge, belegen aber die Stunden-Minuten-Beziehung nicht ausdrücklich. Der ausgewählte Grundfall deckt weder allgemeine Einheitenwahl noch beliebige Stunden-Minuten-Umrechnungen oder andere Zeiteinheiten vollständig ab. Die 60 ist keine Höchstdauer.",
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: dieselbe Dauer als 1 h und als 60 min angeben. GS187135 nennt Einheitenwahl und Umrechnen unter Kennen187123. FSP35547 nennt ausdrücklich die Beziehung 1 Stunde (h) = 60 Minuten (min) unter Anwenden35539 im Kontext eigener Zeitplanung. Messen steht in der FSP-Bemerkung und wird hier nicht als zusätzliche Anforderung übernommen. FSP1/2-Ereignisdauer37994 und volle Uhrstunden37995 bleiben positive Vorbezüge, belegen aber die Stunden-Minuten-Beziehung nicht ausdrücklich. Der ausgewählte Grundfall deckt weder allgemeine Einheitenwahl noch beliebige Stunden-Minuten-Umrechnungen oder andere Zeiteinheiten vollständig ab. Die 60 ist keine Höchstdauer. Zusätzlicher GS-Teilbezug187139: Stunde(h) und Minute(min) im bereits ausgewählten Wertepaar1h=60min. FSP35547 nennt diese Einheiten und Abkürzungen ausdrücklich. Keine allgemeine Definition, neue Zahlengrenze oder Deckung der übrigen Fachbegriffsliste.",
       "shared_object_suggestion": "Eine gleich bleibende Dauer in zwei Einheiten: eine Stunde und sechzig Minuten.",
       "fine_goals": [
         {
@@ -7547,7 +7557,7 @@
         "planning_rule": "Nur die ausdrücklich belegten gleichwertigen Angaben 1 h und 60 min verwenden. Keine beliebige Dauer bis60 und keine 60-Minuten-Obergrenze ableiten. Ausgangs- und Endangabe bleiben genau dieses Wertepaar; zusätzliche Zwischenrechnungen oder andere numerische Ergebnisse sind nicht enthalten. Den Kontext eigener Zeitplanung und die Bedeutung als Dauer klären; keine Uhrzeitangaben gleichsetzen. Weitere Stundenwerte, Minutenwerte, Bruchteile, gemischte Einheiten und andere Einheitenbeziehungen bedürfen einer gesonderten fachlichen Prüfung samt Grenzen aller Zwischen- und Endwerte. Messen und Ablesen sind keine zusätzlichen Anforderungen dieses Feinziels. Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung; eigene Entwürfe werden nicht automatisch fachlich validiert."
       },
       "evidence_classification": {
-        "gs": "187135 ist Unterziel unter Kennen187123. In der Bemerkung steht die Entscheidung über die größere Einheit. Ausgewählt wird ausschließlich der Grundfall der gleichwertigen Angaben 1 h und 60 min; allgemeine Einheitenwahl und Größenvergleich werden nicht vollständig beansprucht.187123 dient nur als Kontext.",
+        "gs": "187135 ist Unterziel unter Kennen187123. In der Bemerkung steht die Entscheidung über die größere Einheit. Ausgewählt wird ausschließlich der Grundfall der gleichwertigen Angaben 1 h und 60 min; allgemeine Einheitenwahl und Größenvergleich werden nicht vollständig beansprucht.187123 dient nur als Kontext. Zusätzlicher GS-Teilbezug187139: Stunde(h) und Minute(min) im bereits ausgewählten Wertepaar1h=60min. FSP35547 nennt diese Einheiten und Abkürzungen ausdrücklich. Keine allgemeine Definition, neue Zahlengrenze oder Deckung der übrigen Fachbegriffsliste.",
         "fsp": "Die Einheitenbeziehung steht in der verbindlichen Zielzeile35547, das Messen in ihrer Bemerkung. Anwenden stammt aus35539. Der konkrete Einsatz im eigenen Zeitplanungskontext ist didaktisch; zusätzliche Rechenverfahren werden nicht unterstellt.",
         "fsp_remark_anchors": [],
         "context_only_gs_ids": [
