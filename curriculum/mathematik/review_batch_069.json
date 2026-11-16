@@ -149,7 +149,7 @@
   },
   "continuation": "GS1/2 Wählen von passenden Einheiten und Umrechnen187135 gegen beide FSP-Bänder prüfen; danach Sachsituationen187136 mit187137/187138. Schätzen187134 ist durch MA-076 nur für volle Stunden teilweise geprüft.76 Karten(52 passend,24 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_targeted_live",
     "commands": [
       "scripts/update-mathematik.py",
       "scripts/check-deutsch.py",
@@ -178,11 +178,20 @@
       "html_blob_sha": "bafc79d22bb4c368198a01073361864028bc44a3"
     },
     "browser_local": "Assertions from scripts/check-mathematik-browser.cjs run for related cards MA-069/070/074/075/076, retaining all grade/area counts and draft/isolation checks. Targeted MA-076 in both GS grades plus direct320px/390px checks passed. Scope visible on card, at FSP goals and output; exact goal/criterion adoption; task/aid fields empty; teacher text preserved. No full76-card browser run claimed.",
-    "baseline_remote": "All nine inspected baseline files match main247994f485549cec8fdc03e2b3af237521cc45c1, including AGENTS, root/dist, module, progress, audit and latest batch."
+    "baseline_remote": "All nine inspected baseline files match main247994f485549cec8fdc03e2b3af237521cc45c1, including AGENTS, root/dist, module, progress, audit and latest batch.",
+    "browser_live": "passed MA-076 in both GS grades,including exact goal/criterion adoption,source links,visible scope,empty task/aid fields,preserved teacher drafts,subject isolation,reload. Directly checked at320px/390px for visible card/goal scopes and no horizontal overflow. No full76-card public run claimed; five related cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.379",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "2ac7dd12f04ed24753fb9097f14e50b4d891ce28",
+    "pages_run": 43836220772,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/43836220772",
+    "pages_conclusion": "success",
+    "live_app_version": "1.379",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "274861c14062ff668afbcdf099ca94a1cb89ba4d79c04d8604d23c33ae49c728",
+    "verified_at": "2026-11-16T09:04:17.397085+00:00"
   }
 }

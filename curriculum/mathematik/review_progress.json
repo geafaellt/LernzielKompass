@@ -2562,7 +2562,7 @@
     }
   },
   "next_id": "page912_187135",
-  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187135 gegen beide FSP-Bänder prüfen; danach Sachsituationen187136 mit187137/187138. Schätzen187134 ist durch MA-076 nur für volle Stunden teilweise geprüft.76 Karten(52 passend,24 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
+  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187135 gegen beide FSP-Bänder prüfen; danach Sachsituationen187136 mit187137/187138. Schätzen187134 ist durch MA-076 nur für volle Stunden teilweise geprüft.76 Karten(52 passend,24 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen. App1.379 veröffentlicht und live geprüft;Nachweise in MA-069.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3748,9 +3748,12 @@
   },
   "latest_publication": {
     "batch": "MA-069",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.379",
-    "previous_verified_version": "1.378"
+    "app_commit": "2ac7dd12f04ed24753fb9097f14e50b4d891ce28",
+    "pages_run": 43836220772,
+    "live_sha256": "274861c14062ff668afbcdf099ca94a1cb89ba4d79c04d8604d23c33ae49c728",
+    "browser": "MA-076 live in both GS grades and mobile320/390 passed;five related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
