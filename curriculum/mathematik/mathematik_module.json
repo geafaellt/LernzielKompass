@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-14.2",
-  "checked_on": "2026-11-14",
+  "version": "MA-2026-11-16.1",
+  "checked_on": "2026-11-16",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1316,6 +1316,12 @@
       "title": "FSP Lernen Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187134",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187134",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -7383,6 +7389,78 @@
         "fsp": "Einheitenbeziehung ist Ziel35547,Messen nach Stunden/Minuten steht in der Bemerkung. Hauptoperator Anwenden aus35539. Ganze Minuten,direkter Dauermesswert und vorab festgelegter Bereich sind didaktische Eingrenzungen.",
         "fsp_remark_anchors": [
           "page139_35547"
+        ],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-076",
+      "subject": "Mathematik",
+      "theme": "Zeitspannen in vollen Stunden schätzen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Schätzen in vollen Stunden · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Schätzen von Zeitspannen187134 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Zeitspannen schätzen35552 unter Anwenden35539",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Zeitspannen in vollen Stunden schätzen. GS187134 nennt Schätzen unter Kennen187123; Stützpunktvorstellungen nutzen steht in der Bemerkung. FSP35552 nennt Schätzen ausdrücklich unter Anwenden35539; die Bemerkung begrenzt auf volle Stunden und nennt die Weiterentwicklung des Zeitgefühls. Der FSP-Kontext ist die eigene Zeitplanung. FSP1/2-Zeitgefühl37989 und Ereignisdauer37994 bleiben positive vorbereitende Bezüge. Keine vollständige GS-Zieldeckung: Schätzungen in Minuten oder Bruchteilen von Stunden sind hier nicht umfasst. Eine Höchstdauer ist nicht belegt.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187134"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35552"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187134",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35552"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: Zeitspannen in vollen Stunden schätzen. GS187134 nennt Schätzen unter Kennen187123; Stützpunktvorstellungen nutzen steht in der Bemerkung. FSP35552 nennt Schätzen ausdrücklich unter Anwenden35539; die Bemerkung begrenzt auf volle Stunden und nennt die Weiterentwicklung des Zeitgefühls. Der FSP-Kontext ist die eigene Zeitplanung. FSP1/2-Zeitgefühl37989 und Ereignisdauer37994 bleiben positive vorbereitende Bezüge. Keine vollständige GS-Zieldeckung: Schätzungen in Minuten oder Bruchteilen von Stunden sind hier nicht umfasst. Eine Höchstdauer ist nicht belegt.",
+      "shared_object_suggestion": "Eine noch nicht genau bekannte Dauer, eingeschätzt mithilfe einer vertrauten Zeitspanne.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind schätzt eine Zeitspanne mithilfe einer vertrauten Bezugsdauer in vollen Stunden im vorab festgelegten Zahlenraum.",
+          "criterion": "Die Angabe bezeichnet eine geschätzte Dauer in vollen Stunden und ist für die geklärte Situation plausibel. Der Bezug zur vertrauten Zeitspanne ist erkennbar. Bezugswerte, Schätzwert und relevante Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Der vorab zur Situation geklärte Plausibilitätsbereich wird eingehalten; exakte Übereinstimmung mit einer Messung wird nicht gefordert.",
+          "status": "Didaktischer Teilbereich von187134 unter Kennen187123; Stützpunktbezug aus der GS-Bemerkung. Volle Stunden begrenzen den ausgewählten Anschluss, nicht das gesamte GS-Ziel."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind schätzt im Zusammenhang seiner eigenen Zeitplanung eine Zeitspanne mithilfe einer vertrauten Bezugsdauer in vollen Stunden im vorab festgelegten Zahlenraum.",
+          "criterion": "Die geschätzte Dauer wird in vollen Stunden angegeben und passt plausibel zur geklärten Situation. Der Bezug zur vertrauten Zeitspanne ist erkennbar. Bezugswerte, Schätzwert und relevante Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Der vorab zur Situation geklärte Plausibilitätsbereich wird eingehalten; exakte Messwertgleichheit, Umrechnung oder Rundung eines bereits bekannten Minutenwerts werden nicht verlangt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung des Schätzens35552 unter Anwenden35539. Volle Stunden sind ausdrücklich in der Bemerkung belegt; Bezugsdauer, konkreter Zahlenraum und Plausibilitätsbereich sind didaktisch festzulegen."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Schätzen in vollen Stunden · Zahlenraum vorher festlegen · keine Höchstdauer belegt",
+        "detail": "35552 nennt Schätzen im Ziel und volle Stunden in der Bemerkung. Eine maximale Dauer oder feste Schätztoleranz ist nicht genannt. Die Einheit Stunden legt keine Zahlenraumobergrenze fest. Allgemeine Zahlenräume20/100 oder die Einheitenbeziehung1h=60min werden nicht als Höchstdauer übernommen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35552"
+        ],
+        "planning_rule": "Vor Verwendung Zahlenraum, vertraute Bezugsdauer und den für die konkrete Situation plausiblen Schätzbereich festlegen. Bezugswerte, Schätzwerte, Plausibilitätsgrenzen und alle relevanten Zwischen- und Endwerte müssen im festgelegten Bereich liegen. Nur Schätzangaben in vollen Stunden für eine noch nicht genau bekannte Dauer beurteilen; keine Minute oder Bruchstunde voraussetzen. Plausibilität, nicht exakte Messwertgleichheit bewerten; keine allgemeine Toleranz erfinden. Ablesen einer bekannten Dauer, Messen, Umrechnen, Runden und Differenzberechnung sind andere Anforderungen. Eigene Zeitplanung als FSP-Kontext beachten. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung; eigene Entwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187134 ist Unterziel unter Kennen187123. Nutzung von Stützpunktvorstellungen steht in der Bemerkung.187123 dient nur als Kontext.",
+        "fsp": "Schätzen steht neben Vergleichen und Berechnen in35552. Volle Stunden und Weiterentwicklung des Zeitgefühls stehen in der Bemerkung. Hauptoperator Anwenden stammt aus35539. Bezugsdauer und Plausibilitätsbereich konkretisieren didaktisch.",
+        "fsp_remark_anchors": [
+          "page139_35552"
         ],
         "context_only_gs_ids": [
           "page912_187123"

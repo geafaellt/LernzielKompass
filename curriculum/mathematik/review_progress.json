@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-068",
+  "last_batch": "MA-069",
   "complete": false,
   "counts": {
-    "cards": 75,
-    "cross_band": 23
+    "cards": 76,
+    "cross_band": 24
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2546,10 +2546,23 @@
       "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187134": {
+      "id": "page912_187134",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Schätzen von Zeitspannen",
+      "remarks": "Stützpunktvorstellungen nutzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187134",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187134",
-  "next_step": "GS1/2 Schätzen von Zeitspannen187134 gegen beide FSP-Bänder prüfen;danach Einheiten/Umrechnen187135 und Sachsituationen187136 mit187137/187138. Die zuvor übersprungene Messzeile187132 ist mit MA-075 nur teilweise geprüft:ganze Minuten als didaktische Auswahl,kein Kalender- oder Rechenanschluss.75 Karten(52 passend,23 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen. App1.378 veröffentlicht und live geprüft;Nachweise in MA-068.",
+  "next_id": "page912_187135",
+  "next_step": "GS1/2 Wählen von passenden Einheiten und Umrechnen187135 gegen beide FSP-Bänder prüfen; danach Sachsituationen187136 mit187137/187138. Schätzen187134 ist durch MA-076 nur für volle Stunden teilweise geprüft.76 Karten(52 passend,24 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2807,9 +2820,17 @@
         "page139_37995"
       ],
       "decision": "1/2-Zeitgefühl und Ereignisdauer werden bereits in MA-069/074 vorbereitet;Ermitteln von Zeitspanne/-punkt37994 bleibt positiver Anschluss. Numerisches Messen nach Stunden/Minuten steht ausdrücklich in3/4-Bemerkung35547.37995 nennt volle Uhrstunden,nicht automatisch Minutendauermessung. Stufenüberschreitung wegen konkretem Mess-/Einheitenbeleg,nicht wegen Zahlenraum."
+    },
+    "MA-076": {
+      "same_band_candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994"
+      ],
+      "decision": "Zeitgefühl und Ereignisdauer in1/2 sind positive Vorbezüge, bereits durch MA-069/074 teilweise repräsentiert. Ausdrückliches Schätzen mit Ganzstundenbegrenzung steht in3/4-Ziel35552 und seiner Bemerkung unter Anwenden35539. Die Stufenüberschreitung folgt diesem konkreten Zielbeleg, nicht einer Zahlenraumdifferenz."
     }
   },
-  "last_review_file": "review_batch_068.json",
+  "last_review_file": "review_batch_069.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3491,6 +3512,12 @@
       "scope": "Kalendermessung,Stundenmessung,weitere Messauflösungen,selbstständige Instrumenten-/Einheitenwahl und rechnerisches Ermitteln aus Uhrzeiten bleiben offen. MA-075 nur Dauermesswert in didaktisch gewählten ganzen Minuten bei vorab festgelegtem Zahlenraum. FSP1/2-Ermitteln von Zeitspanne/-punkt37994 bleibt positiver weiterer Bezug,kein pauschaler Nichtanschluss. Keine Höchstdauer oder vollständige GS-Zieldeckung belegt.",
       "status": "offen",
       "review": "MA-068"
+    },
+    {
+      "gs_id": "page912_187134",
+      "scope": "Schätzen von Minuten- oder Bruchstundendauern und weitere Situationen bleiben offen. MA-076 umfasst nur volle Stunden im FSP-Kontext eigener Zeitplanung mit vorab festgelegtem Zahlenraum und situativem Plausibilitätsbereich. FSP1/2-Zeitgefühl37989 und Ereignisdauer37994 bleiben positive vorbereitende Bezüge; kein pauschaler Nichtanschluss. Keine Höchstdauer und keine vollständige GS-Zieldeckung belegt.",
+      "status": "offen",
+      "review": "MA-069"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3515,7 +3542,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen erhalten;MA-068 prüft187132 teilweise.187123 nur Kontext. Fortsetzung187134;Auslassung aus MA-067 nun aufgegriffen.",
+    "note": "133 Zeilen erhalten; MA-069 prüft187134 teilweise.187123 nur Kontext. Fortsetzung187135.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3693,6 +3720,13 @@
         "MA-075": "unspecified"
       },
       "note": "Keine Höchstdauer belegt,Zahlenraum vorab festlegen und alle relevanten Werte einhalten. Ganze Minuten didaktisch,nicht amtliche Obergrenze.74 Bestandskarten unverändert."
+    },
+    "follow_up_duration_estimation": {
+      "batch": "MA-069",
+      "cards": {
+        "MA-076": "unspecified"
+      },
+      "note": "Volle Stunden ausdrücklich belegt, keine maximale Dauer oder feste Schätztoleranz. Zahlenraum und situativen Plausibilitätsbereich vorher festlegen; alle relevanten Werte darin halten.75 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3713,13 +3747,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-068",
-    "status": "verified",
-    "app_version": "1.378",
-    "app_commit": "dddebcd06be554c2f914d30338d57c8b0ac6346f",
-    "pages_run": 43679163143,
-    "live_sha256": "78d68fee356560bc1c2aeacae2fe65e80e35af8e28d62763ff9fbf6dee990d9b",
-    "browser": "MA-075 live in both GS grades and mobile320/390 passed;five related cards local"
+    "batch": "MA-069",
+    "status": "pending",
+    "app_version": "1.379",
+    "previous_verified_version": "1.378"
   },
   "latest_audit_publication": {
     "batch": "MA-064",
