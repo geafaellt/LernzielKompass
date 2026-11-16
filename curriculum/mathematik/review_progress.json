@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-070",
+  "last_batch": "MA-071",
   "complete": false,
   "counts": {
-    "cards": 77,
-    "cross_band": 25
+    "cards": 78,
+    "cross_band": 26
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2572,10 +2572,36 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187136": {
+      "id": "page912_187136",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Lösen von Sachaufgaben mit einfacher Struktur und Rechnen mit Zeitspannen in Sachsituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187136",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187137": {
+      "id": "page912_187137",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Anfangs- und Endzeitpunkte sind volle Stunden",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187137",
+      "grade": "1/2",
+      "area_id": "MA-page912_1753",
+      "area": "Lernbereich 3: Größen und Messen",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187136",
-  "next_step": "GS1/2 Sachsituationen und Rechnen mit Zeitspannen187136 einschließlich Unterzeilen187137/187138 gegen beide FSP-Bänder prüfen. Danach Fachbegriffe187139. Einheitenwahl/Umrechnen187135 bleibt durch MA-077 nur im Grundfall1h=60min teilweise geprüft.77 Karten(52 passend,25 stufenübergreifend),15 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen erhalten. Alle früheren Restumfänge und Bestandskarten weiter prüfen. App1.380 veröffentlicht und live geprüft;Nachweise in MA-070.",
+  "next_id": "page912_187139",
+  "next_step": "GS1/2 Fachbegriffe zur Zeit187139 gegen beide FSP-Bänder prüfen. Danach den nächsten tatsächlich offenen Inventurpunkt bestimmen. MA-078 deckt187136/187137 nur gemeinsam als Berechnung einer Dauer zwischen bekannten vollen Stunden desselben Tages ab;187138 ist als neue Anschlussfrage dokumentiert.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Frühere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2850,9 +2876,21 @@
         "page139_37995"
       ],
       "decision": "Die1/2-Zeilen betreffen Zeitgefühl, Ereignisdauer und volle Uhrstunden. Sie sind positive Vorbezüge, enthalten aber keine ausdrückliche Beziehung zwischen Stunde und Minute. Diese steht in3/4-Ziel35547 unter Anwenden35539. Die Stufenüberschreitung folgt dem konkreten Einheitenbeleg, nicht einer Zahlenraumdifferenz. Weitergehendes Umrechnen35697 gehört zu Klasse7 und wird nicht in3/4 übertragen."
+    },
+    "MA-078": {
+      "same_band_candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995",
+        "page139_37851",
+        "page139_37863",
+        "page139_37896"
+      ],
+      "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_070.json",
+  "last_review_file": "review_batch_071.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3059,6 +3097,33 @@
         "Tag/Woche:Kann ein konkreter qualitativer Dauerbezug aus37989/37994 ohne Gleichsetzung von Schultag und Kalendertag begrenzt werden?",
         "Monat/Jahr:Kalenderdaten37959/35461 von Dauerangaben unterscheiden;keine Einheitenbeziehung allein aus Kalenderbeispiel folgern.",
         "Vergleichen,Ordnen,Darstellen je Ausschnitt gesondert belegen;fehlende Gesamtdeckung nicht als Ausschluss eines Teilanschlusses werten."
+      ]
+    },
+    {
+      "gs_id": "page912_187138",
+      "scope": "Zeitspannenberechnung bei Anfang und Ende innerhalb derselben Stunde als Unterfall von187136",
+      "status": "offen",
+      "reason": "1/2-Ereignisdauer37994 mit Ermitteln von Zeitspanne/-punkt, Subtraktion37863 und Sachaufgabenstrategien37896 sind positive Kandidaten. Die ausdrückliche Minutenbeziehung35547 und minutengenaues Uhrablesen35549 stehen in3/4, tragen aber für sich keine Minuten-Differenzrechnung. Die Berechnungszeile35552 ist durch ihre Bemerkung auf volle Stunden begrenzt; diese Grenze darf nicht durch bloßes Kombinieren mit Minutenablesen oder allgemeinen Rechenzielen umgangen werden. Zu prüfen bleibt, ob ein eigener vorbereitender stufengleicher Anschluss oder ein hinreichend belegter weiterer Teilanschluss mit ausdrücklicher Kennzeichnung der didaktischen Ableitung möglich ist. Kleinerer Zahlenraum oder fehlende Karte allein sind kein Ausschluss. Kein neuer Nichtanschluss beschlossen.",
+      "candidate_ids": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995",
+        "page139_37851",
+        "page139_37863",
+        "page139_37896",
+        "page139_35539",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552",
+        "page139_35470",
+        "page139_35504"
+      ],
+      "review_file": "review_batch_071.json",
+      "follow_up_checks": [
+        "Qualitative Dauerermittlung37994 von numerischer Minuten-Differenzbildung unterscheiden.",
+        "Allgemeine Rechenziele nur mit belegtem Zeit-/Einheitenbezug verbinden; Operatoren und Zielzeilengrenzen dabei erhalten.",
+        "Gegebenenfalls eingeschränkten Minutenbereich prüfen; alle Anfangs-, End-, Zwischen- und Ergebniswerte berücksichtigen. Keine Grenze allein aus60-Minuten-Einheitenbeziehung erfinden."
       ]
     }
   ],
@@ -3546,6 +3611,18 @@
       "scope": "Allgemeine Wahl passender Zeiteinheiten, Entscheidung über die größere Einheit als eigenständige Anforderung, Umrechnen anderer Stunden-/Minutenwerte sowie Tag, Woche, Monat und Jahr bleiben offen. MA-077 umfasst nur die ausdrücklich belegte Gleichwertigkeit 1 h ↔ 60 min im FSP-Kontext eigener Zeitplanung. Keine allgemeine Umrechnungsvorschrift, Höchstdauer oder vollständige GS-Zieldeckung abgeleitet. FSP1/2-Dauer- und Uhrbezüge bleiben positive Vorbezüge.",
       "status": "offen",
       "review": "MA-070"
+    },
+    {
+      "gs_id": "page912_187136",
+      "scope": "MA-078 begrenzt auf Berechnen der Dauer zwischen zwei bekannten vollen Uhrstunden desselben Tages mit eindeutiger Reihenfolge und vorab festgelegtem Zahlenraum. Bestimmen fehlender Anfangs-/Endzeitpunkte, Tageswechsel, weitere Strukturen der Sachsituation und der Minutenfall187138 bleiben offen. Keine maximale Dauer oder vollständige GS-Zieldeckung abgeleitet.",
+      "status": "offen",
+      "review": "MA-071"
+    },
+    {
+      "gs_id": "page912_187137",
+      "scope": "MA-078 begrenzt auf Berechnen der Dauer zwischen zwei bekannten vollen Uhrstunden desselben Tages mit eindeutiger Reihenfolge und vorab festgelegtem Zahlenraum. Bestimmen fehlender Anfangs-/Endzeitpunkte, Tageswechsel, weitere Strukturen der Sachsituation und der Minutenfall187138 bleiben offen. Keine maximale Dauer oder vollständige GS-Zieldeckung abgeleitet.",
+      "status": "offen",
+      "review": "MA-071"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3570,7 +3647,7 @@
       "page912_187123"
     ],
     "rows": 133,
-    "note": "133 Zeilen erhalten; MA-070 prüft187135 teilweise.187123 nur Kontext. Fortsetzung187136 einschließlich187137/187138.",
+    "note": "133 Zeilen erhalten; MA-071 prüft187136/187137 gemeinsam teilweise und dokumentiert187138 als Anschlussfrage.187123 nur Kontext. Fortsetzung187139.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3762,6 +3839,13 @@
         "MA-077": "domain_specific"
       },
       "note": "Ausdrücklich belegtes Wertepaar1h=60min, kein allgemeiner Zahlenraum und keine Höchstdauer. Keine weiteren Zwischen-/Endwerte vorgesehen.76 Bestandskarten unverändert."
+    },
+    "follow_up_elapsed_full_hours": {
+      "batch": "MA-071",
+      "cards": {
+        "MA-078": "unspecified"
+      },
+      "note": "Volle Stunden belegt, keine Höchstdauer. Alle Anfangs-/End-/Zwischen-/Ergebniswerte im vorher festgelegten Zahlenraum. Gleicher Tag und bekannte Angaben didaktisch.77 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3782,13 +3866,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-070",
-    "status": "verified",
-    "app_version": "1.380",
-    "app_commit": "c08d51fabdf28ca2e64c8aea7b627b189c300f86",
-    "pages_run": 43838660706,
-    "live_sha256": "ab0b5d3e68cc4c6a44aa825bd715045b21933b8b4832ceab221c8757c60f8a43",
-    "browser": "MA-077 live in both GS grades and mobile320/390 passed;all77 cards local"
+    "batch": "MA-071",
+    "status": "pending",
+    "app_version": "1.381",
+    "previous_verified_version": "1.380"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

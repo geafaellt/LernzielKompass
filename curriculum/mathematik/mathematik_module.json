@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-16.2",
+  "version": "MA-2026-11-16.3",
   "checked_on": "2026-11-16",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1327,6 +1327,18 @@
       "id": "Q-MA-page912_187135",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187135",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187136",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187136",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187137",
+      "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187137",
       "version": "2026"
     }
   ],
@@ -7538,6 +7550,80 @@
         "gs": "187135 ist Unterziel unter Kennen187123. In der Bemerkung steht die Entscheidung über die größere Einheit. Ausgewählt wird ausschließlich der Grundfall der gleichwertigen Angaben 1 h und 60 min; allgemeine Einheitenwahl und Größenvergleich werden nicht vollständig beansprucht.187123 dient nur als Kontext.",
         "fsp": "Die Einheitenbeziehung steht in der verbindlichen Zielzeile35547, das Messen in ihrer Bemerkung. Anwenden stammt aus35539. Der konkrete Einsatz im eigenen Zeitplanungskontext ist didaktisch; zusätzliche Rechenverfahren werden nicht unterstellt.",
         "fsp_remark_anchors": [],
+        "context_only_gs_ids": [
+          "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-078",
+      "subject": "Mathematik",
+      "theme": "Die Dauer zwischen vollen Uhrstunden berechnen",
+      "app_area": "MA-page912_1753",
+      "status": "Begrenzter Anschluss · Zeitspanne in vollen Stunden · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 3: Größen und Messen · Sachsituationen187136 mit vollen Anfangs-/Endstunden187137 unter Kennen187123",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie · Zeitspannen berechnen35552 unter Anwenden35539",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Kennen · FSP: Anwenden. Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: die Dauer zwischen zwei geklärten vollen Uhrstunden berechnen. GS187136 nennt Sachsituationen und Zeitspannenrechnung; Unterzeile187137 begrenzt Anfang und Ende auf volle Stunden, unter Kennen187123. FSP35552 nennt Zeitspannen berechnen unter Anwenden35539; volle Stunden steht in der Bemerkung. FSP-Kontext ist die eigene Zeitplanung. Ein und derselbe Tag, eindeutige zeitliche Reihenfolge und bereits geklärte Uhrangaben sind didaktische Auswahlbedingungen. Keine vollständige GS-Zieldeckung: Bestimmen eines fehlenden Zeitpunktes, weitere Sachsituationen und Minutenrechnungen innerhalb derselben Stunde187138 sind nicht abgedeckt. FSP1/2-Ereignisdauer37994 bleibt positiver Vorbezug. Keine maximale Dauer ist belegt.",
+      "gs_target_ids": [
+        "page912_187123",
+        "page912_187136",
+        "page912_187137"
+      ],
+      "fsp_target_ids": [
+        "page139_35539",
+        "page139_35552"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187123",
+        "Q-MA-page912_187136",
+        "Q-MA-page912_187137",
+        "Q-MA-page139_35539",
+        "Q-MA-page139_35552"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: die Dauer zwischen zwei geklärten vollen Uhrstunden berechnen. GS187136 nennt Sachsituationen und Zeitspannenrechnung; Unterzeile187137 begrenzt Anfang und Ende auf volle Stunden, unter Kennen187123. FSP35552 nennt Zeitspannen berechnen unter Anwenden35539; volle Stunden steht in der Bemerkung. FSP-Kontext ist die eigene Zeitplanung. Ein und derselbe Tag, eindeutige zeitliche Reihenfolge und bereits geklärte Uhrangaben sind didaktische Auswahlbedingungen. Keine vollständige GS-Zieldeckung: Bestimmen eines fehlenden Zeitpunktes, weitere Sachsituationen und Minutenrechnungen innerhalb derselben Stunde187138 sind nicht abgedeckt. FSP1/2-Ereignisdauer37994 bleibt positiver Vorbezug. Keine maximale Dauer ist belegt.",
+      "shared_object_suggestion": "Die verstrichene Zeit zwischen einem bekannten Anfang und Ende.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind berechnet in einer einfachen Sachsituation die Dauer zwischen zwei bereits geklärten vollen Uhrstunden desselben Tages im vorab festgelegten Zahlenraum und gibt sie in Stunden an.",
+          "criterion": "Das Ende liegt eindeutig nach dem Anfang. Die Stundenangabe entspricht der verstrichenen Zeit zwischen beiden Zeitpunkten und wird als Dauer gedeutet. Anfangs- und Endwerte, alle relevanten Zwischenwerte sowie das Ergebnis bleiben im festgelegten Zahlenraum. Ein Tageswechsel, Minutenanteile, Einheitenumrechnung und das selbstständige Ablesen einer Uhr sind nicht Teil dieses Feinziels.",
+          "status": "Didaktischer Ausschnitt aus187136/187137 unter Kennen187123; gleicher Tag und bereits geklärte Uhrangaben sind Eingrenzungen, keine amtliche Höchstdauer."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind berechnet im Zusammenhang seiner eigenen Zeitplanung die Dauer zwischen zwei bereits geklärten vollen Uhrstunden desselben Tages im vorab festgelegten Zahlenraum und gibt sie in Stunden an.",
+          "criterion": "Das Ende liegt eindeutig nach dem Anfang. Das Ergebnis bezeichnet die verstrichene Zeit in ganzen Stunden und stimmt mit dem Abstand zwischen den beiden Zeitpunkten überein. Anfangs- und Endwerte, alle relevanten Zwischenwerte und das Ergebnis liegen im festgelegten Zahlenraum. Uhrzeit und Dauer bleiben getrennt; Tageswechsel, Minutenanteile und zusätzliche Umrechnungen werden nicht mitverlangt.",
+          "scope_status": "unspecified",
+          "status": "Didaktische Konkretisierung des Berechnens35552 unter Anwenden35539. Volle Stunden sind in der Bemerkung belegt; gleicher Tag, eindeutige Angaben und Zahlenraum sind didaktisch festzulegen."
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Zeitspanne in vollen Stunden berechnen · Zahlenraum vorher festlegen · keine Höchstdauer belegt",
+        "detail": "35552 nennt das Berechnen von Zeitspannen; die Bemerkung begrenzt auf volle Stunden. Es ist keine numerische maximale Dauer angegeben. Ganze Stunden als Einheit, Uhrzeitdarstellungen und allgemeine Zahlenräume20/100 sind keine hier belegte Höchstdauer. Der gewählte Fall ohne Tageswechsel ist eine didaktische Eingrenzung.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35552"
+        ],
+        "planning_rule": "Vor Verwendung Zahlenraum, eindeutige Zeitangaben und ihre Zuordnung zu demselben Tag klären. Ende liegt nach Anfang; beide sind volle Stunden. Anfangs- und Endwerte sowie sämtliche relevanten Zwischen- und Endergebnisse müssen im festgelegten Zahlenraum liegen. Ergebnis als Dauer in Stunden deuten. Keine Höchstdauer aus Uhrformat oder Einheitenbeziehung erfinden. Kein Tageswechsel, keine Minutenanteile, keine Umrechnung und kein zusätzliches Uhrablesen voraussetzen. Keine bestimmte Rechenstrategie vorschreiben; konkrete Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest. Weitere Fälle und eigene Freitexte bedürfen gesonderter fachlicher Prüfung."
+      },
+      "evidence_classification": {
+        "gs": "187136 ist Unterziel unter Kennen187123,187137 ist dessen nachgeordnete Einschränkung auf volle Anfangs-/Endstunden. Beide Zeilen beschreiben gemeinsam einen Ausschnitt; keine zwei unabhängigen Anschlüsse.187123 dient nur als Kontext.187138 ist ein gesonderter offener Minutenfall.",
+        "fsp": "Berechnen steht in35552, volle Stunden in der Bemerkung. Hauptoperator Anwenden stammt aus35539. Gleicher Tag, bekannte eindeutig zugeordnete Uhrangaben und Zahlenraum konkretisieren didaktisch.",
+        "fsp_remark_anchors": [
+          "page139_35552"
+        ],
         "context_only_gs_ids": [
           "page912_187123"
         ]

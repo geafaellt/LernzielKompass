@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-070
+# Mathematik-Abgleich · MA-071
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Siebenundsiebzig Karten dokumentieren begrenzte Anschlüsse. Zweiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076 und MA-077 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Achtundsiebzig Karten dokumentieren begrenzte Anschlüsse. Zweiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Sachsituationen187136 einschließlich187137/187138. [MA-070](review_batch_070.json) ergänzt MA-077: der belegte Grundfall1h=60min, stufenübergreifend und ohne erfundene Höchstdauer.77 Karten,15 Anschlussfragen,133 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Fachbegriffen187139. [MA-071](review_batch_071.json) ergänzt MA-078: Zeitspanne zwischen vollen Uhrstunden berechnen.187136/187137 gemeinsam teilweise geprüft;187138 als Anschlussfrage.78 Karten,16 Anschlussfragen,133 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -747,3 +747,10 @@ Keine Höchstdauer oder feste Schätztoleranz belegt. Zahlenraum, Bezugsdauer un
 MA-077 verbindet den Grundfall gleichwertiger Angaben1h=60min innerhalb von GS187135 unter Kennen187123 mit der ausdrücklich genannten FSP3/4-Einheitenbeziehung35547 unter Anwenden35539. Eigene Zeitplanung bleibt FSP-Kontext. Messen steht in der Bemerkung und ist bereits der gesonderte Ausschnitt von MA-075. Stufengleiche Dauer- und Uhrbezüge bleiben positive Vorbezüge.
 
 Fachspezifischer Geltungsbereich: genau1h↔60min; kein Zahlenraum bis60 und keine Höchstdauer. Ausgangs-/Endangaben bleiben dieses Wertepaar, keine zusätzlichen Zwischenrechnungen. Allgemeine Einheitenwahl, andere Werte, Bruchteile und weitere Einheitenbeziehungen bleiben offen. Spätere FSP-Ziele aus5/6 und7 werden nicht auf3/4 vorgezogen.76 Bestandskarten unverändert.77 Karten(52 passend,25 stufenübergreifend),203 Quellen,201 Zielanker,133 Inventurzeilen,15 Anschlussfragen,fünf Nichtanschlussentscheidungen. Eine Zeile teilweise geprüft,keine Vollabdeckung. Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. Die vollständige vorhandene Browserprüfung aller77 Mathematikkarten wurde lokal erfolgreich ausgeführt; MA-077 zusätzlich in beiden GS-Jahrgängen und bei320px/390px geprüft. Veröffentlicht mit Commit c08d51fabdf28ca2e64c8aea7b627b189c300f86 und erfolgreichem [Pages-Lauf 43838660706](https://github.com/geafaellt/LernzielKompass/actions/runs/43838660706). App1.380 live bytegleich bestätigt(SHA256 ab0b5d3e68cc4c6a44aa825bd715045b21933b8b4832ceab221c8757c60f8a43). MA-077 öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger77-Karten-Livedurchlauf behauptet.
+
+
+## MA-071 · App 1.381 · 16.11.2026
+
+MA-078 verbindet GS187136 mit Unterbedingung187137 unter Kennen187123 und FSP3/4-Zeitspannenberechnen35552 unter Anwenden35539. Volle Stunden stehen in der FSP-Bemerkung. Ein gemeinsamer Ausschnitt in zwei hierarchisch verbundenen GS-Zeilen, nur eine neue Karte. Eigene Zeitplanung bleibt FSP-Kontext. Gleicher Tag, eindeutige zeitliche Reihenfolge und bekannte Uhrangaben sind didaktische Auswahlbedingungen.
+
+Keine maximale Dauer belegt; Zahlenraum vorab festlegen und alle Anfangs-/End-/Zwischen-/Ergebniswerte darin halten. Fehlende Zeitpunkte, Tageswechsel und weitere Sachsituationen bleiben offen.187138 innerhalb derselben Stunde ist eine neue Anschlussfrage: Minutenablesen und -messen sind keine automatische Minutenrechenfreigabe; positive Dauer-, Rechen- und Sachaufgabenbezüge beider Bänder bleiben zu prüfen. Keine neue Nichtanschlussentscheidung.77 Bestandskarten unverändert.78 Karten(52 passend,26 stufenübergreifend),205 Quellen,203 Zielanker,133 Inventurzeilen,16 Anschlussfragen,fünf Nichtanschlussentscheidungen. Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. Sechs zugehörige Zeitspannen-Karten lokal geprüft; MA-078 zusätzlich in beiden GS-Jahrgängen und bei320px/390px. Keine vollständige78-Karten-Browserprüfung behauptet; vollständiger Lauf der unveränderten77 Bestandskarten in MA-070. Veröffentlichung und öffentliche Prüfung noch ausstehend.

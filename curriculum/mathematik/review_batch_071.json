@@ -1,0 +1,313 @@
+{
+  "id": "MA-071",
+  "date": "2026-11-16",
+  "base_commit": "e3cda63f3b182ae5a27abe55675728d7f98e5270",
+  "scope": "GS1/2 Sachsituationen mit Zeitspannen187136 und Unterfälle187137/187138",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_187123",
+      "level": 1,
+      "parent_target_id": "page912_187123",
+      "target": "Kennen des Umgangs mit der Größe Zeit in Alltagssituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187123",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187136",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Lösen von Sachaufgaben mit einfacher Struktur und Rechnen mit Zeitspannen in Sachsituationen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187136",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187137",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Anfangs- und Endzeitpunkte sind volle Stunden",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187137",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187138",
+      "level": 3,
+      "parent_target_id": "page912_187123",
+      "target": "Anfangs- und Endzeitpunkte liegen innerhalb derselben Stunde",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187138",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page912_187139",
+      "level": 2,
+      "parent_target_id": "page912_187123",
+      "target": "Verwenden der Fachbegriffe: Stunde (h), Minute (min), Tag, Woche, Monat, Jahr, Uhr, Kalender, „… dauert kürzer als …“, „… dauert länger als …“",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187139",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37986",
+      "level": 1,
+      "parent_target_id": "page139_37986",
+      "target": "Einblick gewinnen in den Umgang mit der Zeit in Alltagssituationen",
+      "remarks": "➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37989",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Einteilen der Zeit im Tages- und Wochenablauf",
+      "remarks": "Entwickeln des Gefühls für Zeitspannen Pünktlichkeit, Zeit für sich und für andere Stilleerfahrungen, Zeitbeschränkung Stundenplan, Wochenende, Feiertage ⇒ Wahrnehmungsförderung ➔ DE - HKS, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37989",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37994",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Dauer von Ereignissen, deren Anfang und Ende",
+      "remarks": "Zeitspanne, -punkt ermitteln Ferien, Schultag, Unterrichtsstunde",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37995",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Ablesen und Einstellen von vollen Stunden an der Uhr",
+      "remarks": "verschiedene Uhren Differenzierung: 24-Stundeneinteilung, umgangssprachlich „halb, viertel, dreiviertel“ ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37995",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "verified_band_heading": "Klassenstufen 1/2"
+    },
+    {
+      "id": "page139_35539",
+      "level": 1,
+      "parent_target_id": "page139_35539",
+      "target": "Anwenden von Zeitvorstellungen auf das Planen der eigenen Zeit",
+      "remarks": "Schul- und Freizeit ⇒ Werteorientierung ➔ ETH, Kl. 3/4, LB 4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35547",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Beziehung: 1 Stunde (h) = 60 Minuten (min)",
+      "remarks": "Messen der Zeit nach Stunden und Minuten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35547",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35549",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "minutengenaues Ablesen der Uhr",
+      "remarks": "24-Stunden-Angabe, Analog- und Digitalanzeigen amtliche und umgangssprachliche Formulierungen verwenden ➔ DE - HKS, Kl. 3/4, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35549",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35552",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Zeitspannen schätzen, vergleichen und berechnen, Zeitpunkt bestimmen",
+      "remarks": "in vollen Stunden Zeitgefühl weiterentwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "verified_band_heading": "Klassenstufen 3/4"
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "verified_band_heading": "Klassenstufen 3/4"
+    }
+  ],
+  "source_verification": "Amtliches HTML beider Pläne frisch geprüft; Ziel-/Bemerkungsspalten und Stufenüberschriften getrennt.187137/187138 stehen unmittelbar unter187136; parent_target_id hält entsprechend bisherigem Schema den Hauptoperatoranker187123 fest. Kein neuer PDF-Abgleich behauptet.187139 nur Fortsetzungskontext.",
+  "new_cards": [
+    "MA-078"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-069",
+    "MA-070",
+    "MA-071",
+    "MA-072",
+    "MA-075",
+    "MA-076",
+    "MA-077"
+  ],
+  "existing_card_review": "Alle77 Bestandskarten unverändert. Qualitative Dauer, Vergleich bekannter Dauern, Uhrzeitablesen, Messen, Schätzen und feste Einheitenbeziehung werden nicht als vollständige Zeitspannenberechnung gezählt.",
+  "decisions": [
+    {
+      "gs_ids": [
+        "page912_187136",
+        "page912_187137"
+      ],
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-078"
+      ],
+      "same_band_candidates": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995",
+        "page139_37851",
+        "page139_37863",
+        "page139_37896"
+      ],
+      "cross_band_candidates": [
+        "page139_35539",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552",
+        "page139_35470",
+        "page139_35504"
+      ],
+      "decision": "Stufenübergreifender Teilanschluss GS 1/2 → FSP 3/4: die Dauer zwischen zwei geklärten vollen Uhrstunden berechnen. GS187136 nennt Sachsituationen und Zeitspannenrechnung; Unterzeile187137 begrenzt Anfang und Ende auf volle Stunden, unter Kennen187123. FSP35552 nennt Zeitspannen berechnen unter Anwenden35539; volle Stunden steht in der Bemerkung. FSP-Kontext ist die eigene Zeitplanung. Ein und derselbe Tag, eindeutige zeitliche Reihenfolge und bereits geklärte Uhrangaben sind didaktische Auswahlbedingungen. Keine vollständige GS-Zieldeckung: Bestimmen eines fehlenden Zeitpunktes, weitere Sachsituationen und Minutenrechnungen innerhalb derselben Stunde187138 sind nicht abgedeckt. FSP1/2-Ereignisdauer37994 bleibt positiver Vorbezug. Keine maximale Dauer ist belegt.",
+      "prerequisites": "Eindeutige volle Anfangs-/Endstunden desselben Tages, Ende nach Anfang, Zahlenraum und zugängliche Zeitangaben vorab klären. Alle relevanten Werte darin. Kein Tageswechsel oder zusätzliche Ablese-/Umrechnungsanforderung.",
+      "uncertainty": "Keine maximale Dauer genannt. Gleicher Tag und bereits geklärte Uhrangaben sind didaktisch. Sachaufgabenziel und Unterbedingung sind ein gemeinsamer Ausschnitt, keine Doppelzählung von Karten.",
+      "remaining": "MA-078 begrenzt auf Berechnen der Dauer zwischen zwei bekannten vollen Uhrstunden desselben Tages mit eindeutiger Reihenfolge und vorab festgelegtem Zahlenraum. Bestimmen fehlender Anfangs-/Endzeitpunkte, Tageswechsel, weitere Strukturen der Sachsituation und der Minutenfall187138 bleiben offen. Keine maximale Dauer oder vollständige GS-Zieldeckung abgeleitet."
+    },
+    {
+      "gs_id": "page912_187138",
+      "status": "open_connection_question",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_37986",
+        "page139_37989",
+        "page139_37994",
+        "page139_37995",
+        "page139_37851",
+        "page139_37863",
+        "page139_37896"
+      ],
+      "cross_band_candidates": [
+        "page139_35539",
+        "page139_35547",
+        "page139_35549",
+        "page139_35552",
+        "page139_35470",
+        "page139_35504"
+      ],
+      "decision": "1/2-Ereignisdauer37994 mit Ermitteln von Zeitspanne/-punkt, Subtraktion37863 und Sachaufgabenstrategien37896 sind positive Kandidaten. Die ausdrückliche Minutenbeziehung35547 und minutengenaues Uhrablesen35549 stehen in3/4, tragen aber für sich keine Minuten-Differenzrechnung. Die Berechnungszeile35552 ist durch ihre Bemerkung auf volle Stunden begrenzt; diese Grenze darf nicht durch bloßes Kombinieren mit Minutenablesen oder allgemeinen Rechenzielen umgangen werden. Zu prüfen bleibt, ob ein eigener vorbereitender stufengleicher Anschluss oder ein hinreichend belegter weiterer Teilanschluss mit ausdrücklicher Kennzeichnung der didaktischen Ableitung möglich ist. Kleinerer Zahlenraum oder fehlende Karte allein sind kein Ausschluss. Kein neuer Nichtanschluss beschlossen.",
+      "follow_up_checks": [
+        "Qualitative Dauerermittlung37994 von numerischer Minuten-Differenzbildung unterscheiden.",
+        "Allgemeine Rechenziele nur mit belegtem Zeit-/Einheitenbezug verbinden; Operatoren und Zielzeilengrenzen dabei erhalten.",
+        "Gegebenenfalls eingeschränkten Minutenbereich prüfen; alle Anfangs-, End-, Zwischen- und Ergebniswerte berücksichtigen. Keine Grenze allein aus60-Minuten-Einheitenbeziehung erfinden."
+      ]
+    }
+  ],
+  "counts": {
+    "new_partially_reviewed_rows": 2,
+    "partial_row_count_note": "Übergeordnetes Unterziel187136 und zugehörige Bedingung187137, ein gemeinsamer Ausschnitt und nur eine neue Karte.",
+    "new_open_connection_questions": 1,
+    "context_rows_reused": 1,
+    "new_fully_covered_rows": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 78,
+    "cross_band_cards": 26,
+    "source_links": 205,
+    "target_anchors": 203,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 133,
+    "open_connection_questions": 16,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS1/2 Fachbegriffe zur Zeit187139 gegen beide FSP-Bänder prüfen. Danach den nächsten tatsächlich offenen Inventurpunkt bestimmen. MA-078 deckt187136/187137 nur gemeinsam als Berechnung einer Dauer zwischen bekannten vollen Stunden desselben Tages ab;187138 ist als neue Anschlussfrage dokumentiert.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,133 Inventurzeilen und fünf Nichtanschlussentscheidungen. Frühere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "tests": {
+    "status": "passed_local",
+    "commands": [
+      "scripts/update-mathematik.py",
+      "scripts/check-deutsch.py",
+      "scripts/prepare-pages.py",
+      "scripts/check-mathematik.py",
+      "scripts/test-mathematik-scope.py",
+      "scripts/check-learning-objects.py"
+    ],
+    "data": "passed:78 cards,205 sources,203 target anchors;178 Deutschkarten und Sachunterricht erhalten; scope mutation checks passed.",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 77,
+      "old_sources_unchanged": 203,
+      "old_anchors_unchanged": 201,
+      "previous_questions_unchanged": 15,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 133,
+      "changed_audit_ids": [
+        "page912_187123",
+        "page912_187136",
+        "page912_187137",
+        "page912_187138"
+      ],
+      "new_unique_fsp_anchors": 0,
+      "nonmath_unchanged_except_version_and_update_date": true,
+      "root_dist_identical": true,
+      "html_sha256": "f10c034ed8c5ae12e3c33808f1839037421a75873cc589ad7a7ada620f36b1b2",
+      "html_blob_sha": "ca0bdb70323356d43466be207410531c091f0b20"
+    },
+    "browser_local": "Assertions from scripts/check-mathematik-browser.cjs passed for related cards MA-069/070/075/076/077/078 with all grade/area counts retained. Targeted MA-078 in both GS grades and directly at320px/390px passed. Scope visible on cards/goals/output, exact goal/criterion adoption, source links, empty task/aid fields, preserved teacher text, subject isolation and reload. No full78-card browser run claimed; the77 unchanged cards passed the full original script in MA-070.",
+    "baseline_remote": "All nine inspected baseline files match maine3cda63f3b182ae5a27abe55675728d7f98e5270, including AGENTS, root/dist, module, progress, audit and latest batch."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.381",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+  }
+}
