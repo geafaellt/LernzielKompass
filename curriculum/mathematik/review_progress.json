@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-078",
+  "last_batch": "MA-079",
   "complete": false,
   "counts": {
     "cards": 82,
@@ -2691,8 +2691,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_187147",
-  "next_step": "GS 1/2 Einblick in Zufallsexperimente 187147 mit Durchführen 187148, eindeutigen Schlüssen 187149 und Begriffen 187150 gegen beide FSP-Bänder prüfen. Diese vier Zeilen nur inventarisiert, nicht fachlich geprüft. Kombinatorik-Unterziele 187144–187146 einzeln untersucht, drei konkrete Anschlussfragen offen; keine Karte und kein pauschaler Nichtanschluss. 82 Karten (56 passend, 26 stufenübergreifend), 21 Anschlussfragen, 149 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. Audit MA-078 auf main veröffentlicht, Pages erfolgreich; App1.386 weiterhin bytegleich ausgeliefert.",
+  "next_id": "page912_2012",
+  "next_step": "GS Klasse 3 Raum und Form: Übertragen des Wissens über Lagebeziehungen 2012, zunächst Perspektiven/Wege 187151 und ebene Darstellungen 187152 gegen FSP 3/4 und 1/2 prüfen. Der gesamte Block 2012 mit acht Unterzeilen ist nur inventarisiert, nicht fachlich geprüft. Zufallsblock GS1/2 in MA-079 einzeln untersucht: 187148 als konkrete Anschlussfrage offen; 187149/187150 ohne hinreichend belegten direkten Anschluss, keine Behauptung fehlender didaktischer Anschlussfähigkeit. 82 Karten (56 passend, 26 stufenübergreifend), 22 Anschlussfragen, 158 Inventurzeilen und sieben Nichtanschlussentscheidungen. Alle älteren Fragen, Restumfänge und Bestandskarten bleiben weiter zu prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2981,7 +2981,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_078.json",
+  "last_review_file": "review_batch_079.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3387,6 +3387,49 @@
         "Inhaltsprüfung 187144 abwarten; anschließend das Benennen einer konkreten zulässigen Kombination von allgemeinem Kombinieren und Musterbildung abgrenzen.",
         "Übergreifende Sprachziele als solche ausweisen, kein erfundener Benennungsoperator in 38022 oder 35577.",
         "Für rein sprachliche oder nichtnumerische Konkretisierung keine Zahlgrenze erfinden. Bei Anzahlermittlung Ausgangsmenge, mögliche Ergebnisse und Zwischenwerte gesondert prüfen."
+      ]
+    },
+    {
+      "gs_id": "page912_187148",
+      "scope": "Begrenzter Einstieg in Zufallsexperimente aus ausdrücklich genannten Würfel-/Kartenspielhandlungen, abgegrenzt von Rechnen und bloßem Ergebnisablesen",
+      "status": "offen",
+      "reason": "FSP 1/2 Kennen von Spielhandlungen 37980 nennt Würfel- und Kartenspiele in der Bemerkung; Anwenden 38005 mit arithmetischen Spielen 38008 im Wahlbereich 2: Sport und Spiel nennt dieselben Spielformen. Das sind konkrete positive Bezüge zu Situationen mit zufälligem Ausgang. Umweltdaten 37959 unter Beherrschen 37931 und Mengen 37804/37811/37817 können das Erfassen eines Ergebnisses vorbereiten. Noch offen ist, ob der zufallsbezogene Teil einer Spielhandlung als enger didaktischer Einstieg in GS 187148 hinreichend getragen wird. Reines Spielen, Erfassen von Würfelpunkten oder Rechnen mit einem Ergebnis darf nicht automatisch als Zufallsexperiment gelten. FSP 3/4 Körpermerkmale 35456/35459, allgemeine Sachverhaltsbearbeitung 35504–35510 und Probieren 35571/35577 tragen keine gleich konkrete stochastische Zielaussage. Die GS-Bemerkung nennt verschiedene Zugänge und Zufallsgeneratoren; sie wird nicht als Aufgaben- oder Hilfsmittelvorschlag übernommen.",
+      "candidate_ids": [
+        "page139_37804",
+        "page139_37811",
+        "page139_37817",
+        "page139_37931",
+        "page139_37959",
+        "page139_37980",
+        "page139_38005",
+        "page139_38008",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_37896",
+        "page139_37911",
+        "page139_37986",
+        "page139_37994",
+        "page139_35456",
+        "page139_35459",
+        "page139_35461",
+        "page139_35463",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509",
+        "page139_35510",
+        "page139_35571",
+        "page139_35577",
+        "page139_35580",
+        "page139_37739",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_079.json",
+      "follow_up_checks": [
+        "Den zufallsbezogenen Erfahrungsanteil der in 37980 belegten Spielhandlungen von Regeln, Rechnen und bloßem Ablesen trennen; prüfen, ob gerade dieser Anteil einen begrenzten didaktischen Anschluss trägt.",
+        "Keine stärkere FSP-Kompetenz zur Ergebnisvorhersage, Häufigkeitsauswertung oder Ereignisklassifikation in die Spielbemerkung hineinlesen. Nicht sämtliche GS-Zugänge zugleich verlangen, wenn ein Teilanschluss belegt werden kann.",
+        "Stufengleichen Pflichtbeleg 37980 zuerst prüfen; bei Verwendung 38005/38008 Wahlbereichsvoraussetzung erhalten. Ein einzelnes Hauptziel ohne Unterziel ist zulässiger Quellentyp und darf nicht allein wegen der derzeitigen Kartenstruktur verworfen werden.",
+        "Vor einem Feinziel numerische Ergebnisangaben, Anzahl der Durchführungen und nichtnumerische Resultate unterscheiden. Keine Grenze 6 aus Mengenerfassung oder 20/100 aus Bandzielen pauschal als Versuchszahl übernehmen. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorschlagen."
       ]
     }
   ],
@@ -3923,7 +3966,9 @@
     "page912_187048",
     "page912_1855",
     "page912_187064",
-    "page912_187083"
+    "page912_187083",
+    "page912_187149",
+    "page912_187150"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -3941,10 +3986,11 @@
       "page912_1959",
       "page912_187140",
       "page912_187143",
-      "page912_187147"
+      "page912_187147",
+      "page912_2012"
     ],
-    "rows": 149,
-    "note": "145 bisherige Zeilen erhalten. Kombinatorik-Unterziele 187144–187146 in MA-078 einzeln untersucht, drei Anschlussfragen offen; 187143 nur Hauptzielkontext. Vier Zufallszeilen 187147–187150 ausschließlich inventarisiert.",
+    "rows": 158,
+    "note": "149 bisherige Zeilen erhalten. Zufalls-Unterziele 187148–187150 in MA-079 einzeln untersucht; eine offene Frage, zwei begründete Nichtanschlüsse. Neun GS3-Zeilen im Block 2012 nur inventarisiert.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4208,23 +4254,28 @@
     "browser": "MA-082 live in both GS grades and mobile320/390 passed; four related cards local"
   },
   "latest_audit_publication": {
-    "batch": "MA-078",
-    "status": "verified",
+    "batch": "MA-079",
+    "status": "pending",
     "app_version_unchanged": "1.386",
     "previous_audit_publication": {
-      "batch": "MA-075",
+      "batch": "MA-078",
       "status": "verified",
-      "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-      "pages_run": 44042551050,
-      "app_unchanged": true,
-      "app_version": "1.384",
-      "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-      "verified_at": "2026-11-17T07:57:40.479941+00:00"
-    },
-    "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-    "pages_run": 44069787528,
-    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-    "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
+      "app_version_unchanged": "1.386",
+      "previous_audit_publication": {
+        "batch": "MA-075",
+        "status": "verified",
+        "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+        "pages_run": 44042551050,
+        "app_unchanged": true,
+        "app_version": "1.384",
+        "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+        "verified_at": "2026-11-17T07:57:40.479941+00:00"
+      },
+      "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+      "pages_run": 44069787528,
+      "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+      "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
+    }
   },
   "continuation_correction": {
     "batch": "MA-067",

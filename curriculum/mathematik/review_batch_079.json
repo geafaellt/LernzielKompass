@@ -1,0 +1,675 @@
+{
+  "id": "MA-079",
+  "date": "2026-11-17",
+  "base_commit": "e8b8a62e19c0991d3f99b018a7907068636ced96",
+  "scope": "GS 1/2 Zufallsexperimente 187147 mit Durchführen 187148, Schlüssen 187149 und Fachbegriffen 187150",
+  "change_type": "audit_only",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_187147",
+      "level": 1,
+      "parent_target_id": "page912_187147",
+      "target": "Einblick gewinnen in Zufallsexperimente",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187147",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_187148",
+      "level": 2,
+      "parent_target_id": "page912_187147",
+      "target": "Durchführen von einfachen Zufallsexperimenten",
+      "remarks": "frequentistischer und geometrischer Zugang asymmetrische Zufallsgeneratoren wie Urne, Riemer Quader, Glücksschweine spielerische erste Erfahrungen mit dem Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187148",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_187149",
+      "level": 2,
+      "parent_target_id": "page912_187147",
+      "target": "Ziehen von eindeutigen Schlüssen zu Ereignissen",
+      "remarks": "mögliche Ziehungen begründen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187149",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_187150",
+      "level": 2,
+      "parent_target_id": "page912_187147",
+      "target": "Verwenden der Fachbegriffe: sicher, möglich, unmöglich, Zufall",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187150",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes                    80 Ustd."
+    },
+    {
+      "id": "page139_37811",
+      "level": 2,
+      "parent_target_id": "page139_37804",
+      "target": "Untersuchen von Objekten nach ihren Eigenschaften",
+      "remarks": "Realobjekte, Applikationen und strukturiertes Material einsetzen, Objekte nach vorgegebenen Merkmalen auswählen Gleichheit, Ähnlichkeit, Verschiedenheit Gliedern, Ordnen, Zuordnen und Bilden von Mengen; Punktmengen Begriffe: viel, wenig",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37811",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes                    80 Ustd."
+    },
+    {
+      "id": "page139_37817",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Erfassen von strukturierten Mengen mit bis zu sechs Elementen ohne Abzählen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37817",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes                    80 Ustd."
+    },
+    {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    50 Ustd."
+    },
+    {
+      "id": "page139_37959",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Herausfinden, Veranschaulichen, Darstellen und Deuten von Daten in der Umwelt",
+      "remarks": "Uhr, Kalender, Straßenbahn- und Buslinien, Würfel, Farbkasten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37959",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    50 Ustd."
+    },
+    {
+      "id": "page139_37980",
+      "level": 1,
+      "parent_target_id": "page139_37980",
+      "target": "Kennen von Spielhandlungen mit mathematischen Inhalten",
+      "remarks": "Würfel-, Domino-, Karten-, Labyrinthspiele Memory, Puzzle, Bausteine",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37980",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie                    30 Ustd."
+    },
+    {
+      "id": "page139_38005",
+      "level": 1,
+      "parent_target_id": "page139_38005",
+      "target": "Anwenden mathematischer Sachverhalte im Spiel",
+      "remarks": "Schule und Freizeit Arbeit an Stationen, Mathematikolympiade ⇒ Förderung des sozial-emotionalen Verhaltens",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38005",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 2: Sport und Spiel"
+    },
+    {
+      "id": "page139_38008",
+      "level": 2,
+      "parent_target_id": "page139_38005",
+      "target": "Spiele mit arithmetischen Inhalten",
+      "remarks": "Würfel- und Kartenspiele Herstellen von Rechenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38008",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 2: Sport und Spiel"
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 4: Zahlenzauberei"
+    },
+    {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 4: Zahlenzauberei"
+    },
+    {
+      "id": "page139_38035",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Prüfen, ob das Problem rechnerisch lösbar ist",
+      "remarks": "Scherzaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38035",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 4: Zahlenzauberei"
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                    90 Ustd."
+    },
+    {
+      "id": "page139_37911",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Prüfen und Formulieren des Ergebnisses",
+      "remarks": "Kontrollverfahren und Antwort vorwiegend mündlich, Taschenrechner als Kontrollinstrumen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37911",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                    90 Ustd."
+    },
+    {
+      "id": "page139_37986",
+      "level": 1,
+      "parent_target_id": "page139_37986",
+      "target": "Einblick gewinnen in den Umgang mit der Zeit in Alltagssituationen",
+      "remarks": "➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37986",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie                    30 Ustd."
+    },
+    {
+      "id": "page139_37994",
+      "level": 2,
+      "parent_target_id": "page139_37986",
+      "target": "Dauer von Ereignissen, deren Anfang und Ende",
+      "remarks": "Zeitspanne, -punkt ermitteln Ferien, Schultag, Unterrichtsstunde",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37994",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie                    30 Ustd."
+    },
+    {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                     100 Ustd."
+    },
+    {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                     100 Ustd."
+    },
+    {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                     100 Ustd."
+    },
+    {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                     100 Ustd."
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    40 Ustd."
+    },
+    {
+      "id": "page139_35508",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Unterscheiden von wesentlichen und unwesentlichen Informationen",
+      "remarks": "mögliche Fragen formulieren, notieren Scherz- und Denkaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35508",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    40 Ustd."
+    },
+    {
+      "id": "page139_35509",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    40 Ustd."
+    },
+    {
+      "id": "page139_35510",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Rückschau auf den gesamten Lösungsweg und Formulieren der Antwort",
+      "remarks": "Vergleichen mit Erfahrungswerten Prüfen des Lösungsansatzes Prüfen des Ergebnisses durch bekannte Kontrollverfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35510",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    40 Ustd."
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Wahlbereich 2: Zahlenzauberei"
+    },
+    {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Wahlbereich 2: Zahlenzauberei"
+    },
+    {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Wahlbereich 2: Zahlenzauberei"
+    }
+  ],
+  "stage_goal_evidence": [
+    {
+      "id": "page139_37739",
+      "band": "1/2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "classification": "Übergreifende Ziele, keine Unterzieloperatoren",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären. "
+    },
+    {
+      "id": "page139_35415",
+      "band": "3/4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "classification": "Übergreifende Ziele, keine Unterzieloperatoren",
+      "text": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben. "
+    }
+  ],
+  "out_of_scope_comparison_excerpts": [
+    {
+      "id": "page139_38572",
+      "level": 1,
+      "parent_target_id": "page139_38572",
+      "target": "Übertragen mathematischen Wissens auf Lernspiele",
+      "remarks": "Gruppenarbeit ➔ DE, Kl. 5/6, LBW 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38572",
+      "verified_band_heading": "Klassenstufen 5/6",
+      "verified_area_heading": "Wahlbereich 1: Spiele für den Unterricht"
+    },
+    {
+      "id": "page139_38577",
+      "level": 2,
+      "parent_target_id": "page139_38572",
+      "target": "Planung von Inhalt und Form",
+      "remarks": "Grundrechenarten, Größen und deren Einheiten: Würfelspiele, Puzzles, Rechenbilder, Memory, Rechendomino, Quartett, Kreuzworträtsel geometrische Grundkenntnisse: Tangram, Geobrett Erstellen der Spielanleitung, auch unter Nutzung digitaler Medien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38577",
+      "verified_band_heading": "Klassenstufen 5/6",
+      "verified_area_heading": "Wahlbereich 1: Spiele für den Unterricht"
+    }
+  ],
+  "inventory_only_excerpts": [
+    {
+      "id": "page912_2012",
+      "level": 1,
+      "parent_target_id": "page912_2012",
+      "target": "Übertragen des Wissens über Lagebeziehungen auf Möglichkeiten zur gedanklichen Orientierung und des Operierens im Raum",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2012",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187151",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Beschreiben von Lagebeziehungen und Wegen aus unterschiedlichen Perspektiven",
+      "remarks": "gedanklich und in realen räumlichen Situationen ➔ SU, Kl. 3, LB 5 ➔ SPO",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187151",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187152",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Nutzen von ebenen Darstellungen",
+      "remarks": "Wege, Pläne, Ansichten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187152",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187153",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Herstellen von Würfelgebäuden nach Bauplänen und umgekehrt",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187153",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187154",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Zueinander-in-Beziehung-Setzen von Würfelgebäude und Bauplan",
+      "remarks": "Baupläne lesen, eigene Pläne entwerfen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187154",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187155",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Verändern",
+      "remarks": "Zerlegen, Zusammensetzen, Umbauen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187155",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187156",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Ergänzen zum vollständigen Quader",
+      "remarks": "Anzahl fehlender Würfel ermitteln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187156",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187157",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Erkennen von Mustern und Strukturen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187157",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187158",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Bestimmen von Anzahlen",
+      "remarks": "Zuordnen von Rechen­operationen und Termen ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang ➔ LB Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187158",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    }
+  ],
+  "source_verification": "Amtliche Onlinefassungen am 17.11.2026 frisch gelesen; Ziel- und Bemerkungsspalten, Hierarchie und Stufenbänder abgeglichen. Konkrete frühe Spiel-, Mengen-, Daten-, Körper-, Lösungs- und Sprachziele geprüft, nicht nur Wortsuche. Lernspiele 38572/38577 gehören FSP5/6 und werden nicht in 3/4 verschoben. Kein neuer PDF-Abgleich behauptet.",
+  "operator_separation": {
+    "gs": "Einblick gewinnen aus 187147; Durchführen, Schlüsse ziehen und Fachbegriffe verwenden sind Unterziele.",
+    "fsp_1_2": "Kennen 37804 für Mengen und eigenständiges Hauptziel Kennen 37980 für Spielhandlungen; Beherrschen 37931 für Umweltdaten 37959; Anwenden 38005 für arithmetische Spiele 38008 im Wahlbereich 2; Einblick gewinnen 38021 für Knobelunterziele im Wahlbereich 4. Würfel-/Kartenspiele sind Bemerkungsbelege, keine eigenständigen Zufallsoperatoren.",
+    "fsp_3_4": "35456 ist die eigene Hauptzeile Merkmale von Würfel, Quader und Kugel ohne ausdrücklich vorangestellten Operator; kein Anwenden aus benachbarter Zeile35451 erben. Beherrschen35461 betrifft Zahlen, Einblick gewinnen35504 Sachverhalte, Kennen35571 Knobelstrategien im Wahlbereich2. Keinen dieser Operatoren in ein erfundenes Zufallsziel übertragen."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187148",
+      "status": "open_connection_question",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37811",
+        "page139_37817",
+        "page139_37931",
+        "page139_37959",
+        "page139_37980",
+        "page139_38005",
+        "page139_38008",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_37896",
+        "page139_37911",
+        "page139_37986",
+        "page139_37994"
+      ],
+      "cross_band_candidates": [
+        "page139_35456",
+        "page139_35459",
+        "page139_35461",
+        "page139_35463",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509",
+        "page139_35510",
+        "page139_35571",
+        "page139_35577",
+        "page139_35580"
+      ],
+      "decision": "FSP 1/2 Kennen von Spielhandlungen 37980 nennt Würfel- und Kartenspiele in der Bemerkung; Anwenden 38005 mit arithmetischen Spielen 38008 im Wahlbereich 2: Sport und Spiel nennt dieselben Spielformen. Das sind konkrete positive Bezüge zu Situationen mit zufälligem Ausgang. Umweltdaten 37959 unter Beherrschen 37931 und Mengen 37804/37811/37817 können das Erfassen eines Ergebnisses vorbereiten. Noch offen ist, ob der zufallsbezogene Teil einer Spielhandlung als enger didaktischer Einstieg in GS 187148 hinreichend getragen wird. Reines Spielen, Erfassen von Würfelpunkten oder Rechnen mit einem Ergebnis darf nicht automatisch als Zufallsexperiment gelten. FSP 3/4 Körpermerkmale 35456/35459, allgemeine Sachverhaltsbearbeitung 35504–35510 und Probieren 35571/35577 tragen keine gleich konkrete stochastische Zielaussage. Die GS-Bemerkung nennt verschiedene Zugänge und Zufallsgeneratoren; sie wird nicht als Aufgaben- oder Hilfsmittelvorschlag übernommen.",
+      "prerequisites": "Ein möglicher Anschluss muss den zufallsbezogenen mathematischen Gegenstand tragen; Regeln, Ablesen, Mengenmerkmale und Rechenkontrolle allein reichen nicht für die jeweils spezifische stochastische Aussage. Pflicht- und Wahlbereiche trennen.",
+      "uncertainty": "Die Entscheidung betrifft den dokumentierten direkten curricularen Anschluss, nicht die Möglichkeit didaktischer Förderung. Bei zusätzlichem amtlichem Beleg neu bewerten. Keine Ablehnung allein wegen kleinerem Zahlenraum, fehlender Karte oder fehlender identischer Wörter.",
+      "remaining": "Begrenzter stufengleicher Erfahrungsanschluss und dessen Grenzen noch zu entscheiden.",
+      "follow_up_checks": [
+        "Den zufallsbezogenen Erfahrungsanteil der in 37980 belegten Spielhandlungen von Regeln, Rechnen und bloßem Ablesen trennen; prüfen, ob gerade dieser Anteil einen begrenzten didaktischen Anschluss trägt.",
+        "Keine stärkere FSP-Kompetenz zur Ergebnisvorhersage, Häufigkeitsauswertung oder Ereignisklassifikation in die Spielbemerkung hineinlesen. Nicht sämtliche GS-Zugänge zugleich verlangen, wenn ein Teilanschluss belegt werden kann.",
+        "Stufengleichen Pflichtbeleg 37980 zuerst prüfen; bei Verwendung 38005/38008 Wahlbereichsvoraussetzung erhalten. Ein einzelnes Hauptziel ohne Unterziel ist zulässiger Quellentyp und darf nicht allein wegen der derzeitigen Kartenstruktur verworfen werden.",
+        "Vor einem Feinziel numerische Ergebnisangaben, Anzahl der Durchführungen und nichtnumerische Resultate unterscheiden. Keine Grenze 6 aus Mengenerfassung oder 20/100 aus Bandzielen pauschal als Versuchszahl übernehmen. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorschlagen."
+      ]
+    },
+    {
+      "gs_id": "page912_187149",
+      "status": "no_sufficient_direct_connection",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37811",
+        "page139_37817",
+        "page139_37931",
+        "page139_37959",
+        "page139_37980",
+        "page139_38005",
+        "page139_38008",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_37896",
+        "page139_37911",
+        "page139_37986",
+        "page139_37994"
+      ],
+      "cross_band_candidates": [
+        "page139_35456",
+        "page139_35459",
+        "page139_35461",
+        "page139_35463",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509",
+        "page139_35510",
+        "page139_35571",
+        "page139_35577",
+        "page139_35580"
+      ],
+      "decision": "Kein hinreichend belegter direkter Anschluss für Schlussfolgerungen über Zufallsereignisse. FSP 1/2 Mengenuntersuchung 37811 betrifft Eigenschaften und Zuordnungen vorhandener Objekte; Umweltdaten deuten 37959 betrifft Angaben im Kontext; Spielhandlungen 37980 und arithmetische Spiele 38008 benennen keine Schlussfolgerungen über mögliche Ergebnisse eines Zufallsprozesses. Ergebnisprüfung 37911 und FSP 3/4 Rückschau/Ergebniskontrolle 35510 prüfen Sachlösungen, nicht den Bezug zwischen Versuchsbedingungen und möglichen Ereignissen. Knobel-Probieren 38022/35577 ist ein Suchverfahren, keine Ereignisvorhersage. Auch ein enger qualitativer Ausschnitt sicher/unmöglich würde diesen zusätzlichen Gegenstandsbezug benötigen. Fehlende Gesamtdeckung oder fehlende Häufigkeitsrechnung sind nicht der Ablehnungsgrund. 37994 verwendet Ereignis im zeitlichen Sinn, nicht als stochastischen Begriff. Die positive Anschlussfrage zur ersten Zufallserfahrung 187148 bleibt davon getrennt.",
+      "prerequisites": "Ein möglicher Anschluss muss den zufallsbezogenen mathematischen Gegenstand tragen; Regeln, Ablesen, Mengenmerkmale und Rechenkontrolle allein reichen nicht für die jeweils spezifische stochastische Aussage. Pflicht- und Wahlbereiche trennen.",
+      "uncertainty": "Die Entscheidung betrifft den dokumentierten direkten curricularen Anschluss, nicht die Möglichkeit didaktischer Förderung. Bei zusätzlichem amtlichem Beleg neu bewerten. Keine Ablehnung allein wegen kleinerem Zahlenraum, fehlender Karte oder fehlender identischer Wörter.",
+      "remaining": "Der spezifische GS-Zielausschnitt bleibt ohne Kartenabdeckung; keine numerische oder sprachliche Ersatzforderung erzeugt.",
+      "follow_up_checks": [
+        "Nur bei zusätzlichem tragfähigem Beleg neu bewerten; offene erste Zufallserfahrung187148 nicht als bereits geprüfte Ereignisklassifikation behandeln."
+      ]
+    },
+    {
+      "gs_id": "page912_187150",
+      "status": "no_sufficient_direct_connection",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37811",
+        "page139_37817",
+        "page139_37931",
+        "page139_37959",
+        "page139_37980",
+        "page139_38005",
+        "page139_38008",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_37896",
+        "page139_37911",
+        "page139_37986",
+        "page139_37994"
+      ],
+      "cross_band_candidates": [
+        "page139_35456",
+        "page139_35459",
+        "page139_35461",
+        "page139_35463",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509",
+        "page139_35510",
+        "page139_35571",
+        "page139_35577",
+        "page139_35580"
+      ],
+      "decision": "Kein hinreichend belegter direkter Anschluss für die vier Fachbegriffe im stochastischen Sinn. Sicher bezeichnet hier ein unter den geklärten Bedingungen stets eintretendes Ereignis, möglich ein zulässiges Ergebnis/Ereignis und unmöglich ein ausgeschlossenes; Zufall betrifft den nicht sicher vorhersagbaren Einzelausgang. Diese fachliche Einordnung dient dem Abgleich, nicht als amtliches Definitionszitat oder Feinziel. Allgemeine sichere Handhabung, mögliche Fragen 35508, Mengenmerkmale und das Prüfen rechnerischer Lösbarkeit 38035 tragen diese Bedeutungen nicht. Übergreifende Sprachbegleitung 37739 und Sachverhaltsbeschreibung 35415 ersetzen den fehlenden stochastischen Inhaltsbeleg nicht; Fachwortverständnis in 35415 bezieht sich auf Grundrechenarten und bekannte geometrische Objekte. Jeder der vier Begriffe wurde getrennt auf diese Bedeutungsgrenze geprüft. Kein Ausschluss allein wegen fehlender identischer Wörter.",
+      "prerequisites": "Ein möglicher Anschluss muss den zufallsbezogenen mathematischen Gegenstand tragen; Regeln, Ablesen, Mengenmerkmale und Rechenkontrolle allein reichen nicht für die jeweils spezifische stochastische Aussage. Pflicht- und Wahlbereiche trennen.",
+      "uncertainty": "Die Entscheidung betrifft den dokumentierten direkten curricularen Anschluss, nicht die Möglichkeit didaktischer Förderung. Bei zusätzlichem amtlichem Beleg neu bewerten. Keine Ablehnung allein wegen kleinerem Zahlenraum, fehlender Karte oder fehlender identischer Wörter.",
+      "remaining": "Der spezifische GS-Zielausschnitt bleibt ohne Kartenabdeckung; keine numerische oder sprachliche Ersatzforderung erzeugt.",
+      "follow_up_checks": [
+        "Nur bei zusätzlichem tragfähigem Beleg neu bewerten; offene erste Zufallserfahrung187148 nicht als bereits geprüfte Ereignisklassifikation behandeln."
+      ]
+    }
+  ],
+  "term_review": [
+    {
+      "term": "sicher",
+      "finding": "Stochastische Gewissheit von sicherer Ausführung einer Handlung unterscheiden; kein direkter Beleg in den geprüften frühen FSP-Zielen."
+    },
+    {
+      "term": "möglich",
+      "finding": "Zulässigkeit eines Zufallsergebnisses ist nicht die Formulierung möglicher Sachfragen35508; kein hinreichender direkter Bezug."
+    },
+    {
+      "term": "unmöglich",
+      "finding": "Ausgeschlossenes Zufallsereignis ist nicht rechnerisch unlösbares Knobelproblem38035; kein hinreichender direkter Bezug."
+    },
+    {
+      "term": "Zufall",
+      "finding": "Unbestimmter Einzelausgang wird nicht allein durch Benennung eines Würfels oder arithmetischer Spielhandlungen als Fachbegriffsverwendung gefordert."
+    }
+  ],
+  "new_cards": [],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-008",
+    "MA-013"
+  ],
+  "existing_card_review": "MA-008 betrifft das Erfassen strukturierter Mengen bis sechs; daraus folgen weder sechs mögliche Zufallsausgänge noch eine Zahl von Durchführungen. MA-013 deutet bekannte Umweltangaben, ohne Ereignisvorhersage. Beide Feinziele und Geltungsbereiche gelesen und unverändert; keine ungeprüfte Wiederverwendung für den Zufallsblock. Alle82 Karten einschließlich Quellen, Feinziele, Kriterien und Lehrertextbehandlung erhalten.",
+  "number_scope_review": "Keine neue Karte oder numerische Grenze. Die geprüften Zufallszeilen nennen keine feste Versuchszahl, Ergebnisraumgröße oder Häufigkeitsobergrenze. Die ausdrückliche Mengengrenze sechs und übergreifende20/100-Zahlenräume sind keine solchen Grenzen. Bei künftigem numerischem Feinziel Eingaben, absolute Häufigkeiten, Zwischen-/Endwerte gesondert abgrenzen; qualitative Ereignisbegriffe und nichtnumerische Ausgänge gesondert behandeln. Keine Wahrscheinlichkeitsbruchzahl oder Gleichwahrscheinlichkeit aus Körperform unterstellen.",
+  "counts": {
+    "new_individually_examined_target_rows": 3,
+    "new_fully_covered_rows": 0,
+    "new_partially_covered_rows": 0,
+    "new_open_connection_questions": 1,
+    "new_no_direct_connection_rows": 2,
+    "context_rows_examined": 1,
+    "new_inventory_only_rows": 9,
+    "new_cards": 0,
+    "updated_cards": 0,
+    "cards": 82,
+    "same_band_cards": 56,
+    "cross_band_cards": 26,
+    "source_links": 212,
+    "target_anchors": 210,
+    "audit_rows": 158,
+    "open_connection_questions": 22,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": "GS Klasse 3 Raum und Form: Übertragen des Wissens über Lagebeziehungen 2012, zunächst Perspektiven/Wege 187151 und ebene Darstellungen 187152 gegen FSP 3/4 und 1/2 prüfen. Der gesamte Block 2012 mit acht Unterzeilen ist nur inventarisiert, nicht fachlich geprüft. Zufallsblock GS1/2 in MA-079 einzeln untersucht: 187148 als konkrete Anschlussfrage offen; 187149/187150 ohne hinreichend belegten direkten Anschluss, keine Behauptung fehlender didaktischer Anschlussfähigkeit. 82 Karten (56 passend, 26 stufenübergreifend), 22 Anschlussfragen, 158 Inventurzeilen und sieben Nichtanschlussentscheidungen. Alle älteren Fragen, Restumfänge und Bestandskarten bleiben weiter zu prüfen; kein Gesamtabschluss.",
+  "tests": {
+    "status": "passed",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "baseline": "Twelve input files matched remote main e8b8a62e19c0991d3f99b018a7907068636ced96, tree9127cb3abf1a9af031e04c96a5859f46af4ae6d5; CSV newline conventions accounted for.",
+    "preservation": {
+      "all_82_cards_and_complete_module_byte_unchanged": true,
+      "all_existing_scope_fields_goals_criteria_unchanged": true,
+      "old_21_questions_unchanged": true,
+      "new_questions": 1,
+      "duplicate_questions": 0,
+      "old_5_no_direct_decisions_unchanged": true,
+      "new_no_direct_decisions": 2,
+      "no_question_no_direct_overlap": true,
+      "changed_existing_audit_ids": [
+        "page912_187147",
+        "page912_187148",
+        "page912_187149",
+        "page912_187150"
+      ],
+      "new_inventory_only_rows": 9,
+      "audit_rows": 158,
+      "old_card_references_unchanged": true,
+      "target_anchors_unchanged": 210,
+      "source_links_unchanged": 212,
+      "cross_band_decisions_and_remaining_scopes_unchanged": true,
+      "root_dist_and_baseline_identical": true,
+      "app_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+      "german_and_nonmath_payload_unchanged": true
+    },
+    "browser": "No new browser run: audit-only changes, complete mathematics module and both HTML entry files byte-identical to MA-077. Previous targeted local/live browser evidence preserved; no full82-card run claimed.",
+    "live_verification": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version_unchanged": "1.386",
+    "app_commit_unchanged": "f23a9ab2169a650f7fd98db996098a6ac8711d58"
+  }
+}
