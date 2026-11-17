@@ -550,11 +550,18 @@
       "german_and_nonmath_payload_unchanged": true
     },
     "browser": "No new browser run: audit-only changes, complete mathematics module and both HTML entry files byte-identical to MA-077. Previous MA-077 targeted local/live browser evidence preserved; no full82-card run claimed.",
-    "live_verification": "pending"
+    "live_verification": "After successful audit deployment, freshly retrieved public HTML equals the unchanged App1.386 entry byte-for-byte. No new browser run because no app/data/UI changes."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.386",
-    "app_commit_unchanged": "f23a9ab2169a650f7fd98db996098a6ac8711d58"
+    "app_commit_unchanged": "f23a9ab2169a650f7fd98db996098a6ac8711d58",
+    "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+    "pages_run": 44069787528,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44069787528",
+    "pages_conclusion": "success",
+    "live_byte_identical_to_previous_app": true,
+    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+    "verified_at": "2026-11-17T11:00:14.089796+00:00"
   }
 }

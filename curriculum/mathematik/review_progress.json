@@ -2692,7 +2692,7 @@
     }
   },
   "next_id": "page912_187147",
-  "next_step": "GS 1/2 Einblick in Zufallsexperimente 187147 mit Durchführen 187148, eindeutigen Schlüssen 187149 und Begriffen 187150 gegen beide FSP-Bänder prüfen. Diese vier Zeilen nur inventarisiert, nicht fachlich geprüft. Kombinatorik-Unterziele 187144–187146 einzeln untersucht, drei konkrete Anschlussfragen offen; keine Karte und kein pauschaler Nichtanschluss. 82 Karten (56 passend, 26 stufenübergreifend), 21 Anschlussfragen, 149 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS 1/2 Einblick in Zufallsexperimente 187147 mit Durchführen 187148, eindeutigen Schlüssen 187149 und Begriffen 187150 gegen beide FSP-Bänder prüfen. Diese vier Zeilen nur inventarisiert, nicht fachlich geprüft. Kombinatorik-Unterziele 187144–187146 einzeln untersucht, drei konkrete Anschlussfragen offen; keine Karte und kein pauschaler Nichtanschluss. 82 Karten (56 passend, 26 stufenübergreifend), 21 Anschlussfragen, 149 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. Audit MA-078 auf main veröffentlicht, Pages erfolgreich; App1.386 weiterhin bytegleich ausgeliefert.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4209,7 +4209,7 @@
   },
   "latest_audit_publication": {
     "batch": "MA-078",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.386",
     "previous_audit_publication": {
       "batch": "MA-075",
@@ -4220,7 +4220,11 @@
       "app_version": "1.384",
       "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
       "verified_at": "2026-11-17T07:57:40.479941+00:00"
-    }
+    },
+    "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+    "pages_run": 44069787528,
+    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+    "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
   },
   "continuation_correction": {
     "batch": "MA-067",
