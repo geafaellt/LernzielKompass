@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-073
+# Mathematik-Abgleich · MA-074
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Neunundsiebzig Karten dokumentieren begrenzte Anschlüsse. Dreiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Achtzig Karten dokumentieren begrenzte Anschlüsse. Vierundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Tabellen1961, danach Diagramme1962 und Fachbegriffe1963. [MA-073](review_batch_073.json) ergänzt MA-079: Anzahldaten im Naturkontext erfassen und numerisch ordnen.1960 teilweise geprüft,1959 nur Kontext.79 Karten,16 Anschlussfragen,138 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Diagrammen 1962, danach Fachbegriffe 1963. [MA-074](review_batch_074.json) ergänzt MA-080 zum Ausfüllen einer vorstrukturierten Tabelle mit geklärten Teil-/Gesamtanzahlen. 1961 nur teilweise geprüft; Erstellen bleibt offen. 80 Karten, 16 Anschlussfragen und 138 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -768,3 +768,10 @@ Alle78 Feinziele, Kriterien, Geltungsbereiche und gemeinsamen Lerngegenstände b
 MA-079 verbindet GS1960 unter Kennen1959 mit FSP1/2-Umweltdaten37959, Abzählen37944 und Zahlenordnen37956 unter Beherrschen37931. Gewählt ist ein Anzahldatensatz zu geklärten Bezugsgruppen im Naturkontext. Diese Verbindung ist didaktisch, keine wortgleiche amtliche Statistikaufgabe. Stufengleicher Anschluss wird gegenüber den geprüften3/4-Kandidaten bevorzugt.
 
 Bis20 stammt aus übergreifendem Bandziel37739, nicht aus der Datenzielzeile. Erhebungsumfang und alle Anzahl-/Zwischen-/Endwerte bleiben darin. GS-Datenzeile ohne eigene numerische Obergrenze. Andere Datenarten, eigene Erhebungsfragen, Kategorienbildung und die Bemerkungsbeispiele Umfragen/Strichlisten/Schaubilder bleiben offen; Tabellen und Diagramme gesondert weiter prüfen.78 Bestandskarten unverändert.79 Karten(53 passend,26 stufenübergreifend),208 Quellen,206 Zielanker,138 Inventurzeilen,16 Anschlussfragen,fünf Nichtanschlussentscheidungen. Alle sechs vorgeschriebenen Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-010, MA-013 und MA-079 in beiden GS-Jahrgängen bestanden; neue Karte zusätzlich bei320px/390px geprüft.78 Bestandskarten,206 bestehende Quellen und alle16 Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger79-Karten-Browserlauf behauptet. Veröffentlicht mit Commit bc53d1d1e41438922ca47e8044d6c90a8c3309e5 und erfolgreichem [Pages-Lauf 44033639964](https://github.com/geafaellt/LernzielKompass/actions/runs/44033639964). App1.383 live bytegleich bestätigt(SHA256 2d2a2c112a536036b944cb6d0a39e6783a8b1b18773c095636a36c8cb317e517). MA-079 öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger79-Karten-Livedurchlauf behauptet.
+
+
+## MA-074 · App 1.384 · 17.11.2026
+
+MA-080 verbindet GS 1961 unter Kennen 1959 mit einem stufengleichen FSP-Tabellenweg aus der Bemerkung zu 37908 unter Einblick gewinnen 37896, gestützt durch 37898. Bereits geklärte Teil-/Gesamtanzahlen werden passenden Feldern einer vorstrukturierten Tabelle zugeordnet. Die Tabellenform ist ein Bemerkungsbeispiel und der konkrete Weg eine didaktische Auswahl; kein eigener Beherrschen-Operator aus dem anderen Datenziel 37959. Die geprüften 3/4-Kandidaten begründen keine nötige Stufenüberschreitung.
+
+FSP bis 20 wird aus dem übergreifenden Operationsziel 37739 abgeleitet; GS bis 20 ist didaktisch gewählt. Beide Zielzeilen besitzen keine eigene Tabellen-Zahlenraumgrenze. Teile, Gesamtanzahl, sämtliche Einträge und relevante Zwischen-/Endwerte müssen darin bleiben. Selbstständiges Erstellen der Tabellenstruktur und weitere Datenarten bleiben offen. Kein vollständiger Nachweis des FSP-Probierens mehrerer Lösungswege. Alle 79 Bestandskarten bleiben unverändert. Stand: 80 Karten (54 passend, 26 stufenübergreifend), 209 Quellen, 207 Zielanker, 138 Inventurzeilen, 16 Anschlussfragen, fünf Nichtanschlussentscheidungen. Alle sechs vorgeschriebenen Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-029, MA-053, MA-079 und MA-080 in beiden GS-Jahrgängen bestanden; neue Karte zusätzlich bei 320px/390px geprüft. 79 Bestandskarten, 208 bestehende Quellen und alle 16 Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger 80-Karten-Browserlauf behauptet. Veröffentlichung und öffentliche Prüfung noch ausstehend.

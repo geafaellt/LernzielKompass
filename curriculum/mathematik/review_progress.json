@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-073",
+  "last_batch": "MA-074",
   "complete": false,
   "counts": {
-    "cards": 79,
+    "cards": 80,
     "cross_band": 26
   },
   "source_plans": {
@@ -2637,10 +2637,23 @@
       "area": "Lernbereich 4: Daten und Zufall",
       "operator": null,
       "version": "2026"
+    },
+    "page912_1961": {
+      "id": "page912_1961",
+      "level": 2,
+      "parent_target_id": "page912_1959",
+      "target": "Erstellen und Ausfüllen von Tabellen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1961",
+      "grade": "1/2",
+      "area_id": "MA-page912_1755",
+      "area": "Lernbereich 4: Daten und Zufall",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_1961",
-  "next_step": "GS1/2 Erstellen und Ausfüllen von Tabellen1961 gegen FSP1/2 und3/4 prüfen; danach Diagramme1962 und Fachbegriffe1963.1959 bleibt Hauptzielkontext,1960 ist durch MA-079 nur teilweise geprüft.79 Karten(53 passend,26 stufenübergreifend),16 Anschlussfragen,138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Alle älteren Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.383 veröffentlicht und live geprüft; Nachweise in MA-073.",
+  "next_id": "page912_1962",
+  "next_step": "GS 1/2 Erstellen von Säulendiagramm und Balkendiagramm 1962 gegen beide FSP-Bänder prüfen; danach Fachbegriffe 1963. 1961 ist durch MA-080 nur im Ausfüllen vorstrukturierter Tabellen teilweise geprüft; selbstständiges Erstellen bleibt offen. 80 Karten (54 passend, 26 stufenübergreifend), 16 Anschlussfragen, 138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Restumfänge, Anschlussfragen und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2929,7 +2942,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_073.json",
+  "last_review_file": "review_batch_074.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3674,6 +3687,12 @@
       "scope": "Andere Datenarten, selbstständige Erhebungsfragen, Kategorienbildung sowie Umfragen, Strichlisten und Schaubilder aus der GS-Bemerkung bleiben offen. MA-079 nur Anzahldaten zu geklärten Bezugsgruppen im Naturkontext und numerisches Ordnen; keine Tabellen-/Diagrammdeckung. Allgemeines Datensammeln und -ordnen ist damit nicht vollständig abgedeckt.",
       "status": "offen",
       "review": "MA-073"
+    },
+    {
+      "gs_id": "page912_1961",
+      "scope": "Selbstständiges Erstellen der Tabellenstruktur und Überschriften, andere Datenarten, mehrdimensionale Zuordnungen sowie Auswahl geeigneter Tabellenformen bleiben offen. MA-080 deckt ausschließlich das Ausfüllen einer vorstrukturierten Tabelle mit geklärten additiven Teil-/Gesamtanzahlen. Kein Nachweis allgemeiner statistischer Tabellenkompetenz oder des gesamten FSP-Probierens mehrerer Lösungswege.",
+      "status": "offen",
+      "review": "MA-074"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3699,7 +3718,7 @@
       "page912_1959"
     ],
     "rows": 138,
-    "note": "138 Zeilen erhalten. MA-073 prüft1960 teilweise,1959 nur Hauptzielkontext.1961–1963 bleiben offen, Fortsetzung1961.",
+    "note": "138 Zeilen erhalten. 1961 teilweise mit MA-080 geprüft, 1959 nur Hauptzielkontext. 1962 und 1963 bleiben offen; Fortsetzung 1962.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3913,6 +3932,13 @@
         "MA-079": "derived"
       },
       "note": "Bis20 aus37739 didaktisch abgeleitet; Zielzeilen haben keine eigene Datengrenze. Erhebungsumfang sowie alle Anzahl-/Zwischen-/Endwerte begrenzt.78 Bestandskarten unverändert."
+    },
+    "follow_up_tables": {
+      "batch": "MA-074",
+      "cards": {
+        "MA-080": "derived"
+      },
+      "note": "Bis 20 aus Bandziel 37739 didaktisch abgeleitet; keine eigene Tabellen-Zahlenraumgrenze. Teile, Gesamtanzahl, alle Einträge und Zwischen-/Endwerte begrenzt. Alle 79 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3933,13 +3959,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-073",
-    "status": "verified",
-    "app_version": "1.383",
-    "app_commit": "bc53d1d1e41438922ca47e8044d6c90a8c3309e5",
-    "pages_run": 44033639964,
-    "live_sha256": "2d2a2c112a536036b944cb6d0a39e6783a8b1b18773c095636a36c8cb317e517",
-    "browser": "MA-079 live in both GS grades and mobile320/390 passed; three related cards local"
+    "batch": "MA-074",
+    "status": "pending",
+    "app_version": "1.384",
+    "previous_verified_version": "1.383"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

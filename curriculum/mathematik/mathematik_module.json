@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-17.1",
+  "version": "MA-2026-11-17.2",
   "checked_on": "2026-11-17",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1357,6 +1357,12 @@
       "id": "Q-MA-page912_1960",
       "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1960",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1961",
+      "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1961",
       "version": "2026"
     }
   ],
@@ -7726,6 +7732,85 @@
         "gs": "1960 ist Unterziel unter Kennen1959. Umfragen, Strichlisten und Schaubilder stehen in der Bemerkung und sind nicht Teil dieser Karte.1959 nur Kontext.",
         "fsp": "Herausfinden von Daten, Abzählen und Zahlenordnen mit Zeichen sind verbindliche Ziele unter Beherrschen37931. Der begrenzte Anzahldatensatz ist eine didaktische Verbindung dieser Ziele, keine wortgleiche amtliche Statistikaufgabe. Zahlenrahmen20 stammt getrennt aus den übergreifenden Zielen.",
         "fsp_remark_anchors": [],
+        "context_only_gs_ids": [
+          "page912_1959"
+        ]
+      }
+    },
+    {
+      "id": "MA-080",
+      "subject": "Mathematik",
+      "theme": "Teil- und Gesamtanzahlen in einer Tabelle zuordnen",
+      "app_area": "MA-page912_1755",
+      "status": "Begrenzter Anschluss · Tabelle ausfüllen · FSP-Bemerkungsbeleg",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 4: Daten und Zufall · Erstellen und Ausfüllen von Tabellen 1961 unter Kennen 1959; Ausschnitt: vorstrukturierte Tabelle ausfüllen",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · Sachaufgabenstrategien unter Einblick gewinnen 37896; Angaben 37898 und Tabellenweg als Bemerkungsbeispiel zu 37908",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Kennen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS 1961 fordert Erstellen und Ausfüllen von Tabellen unter Kennen 1959. Gewählt wird ausschließlich das Ausfüllen einer vorstrukturierten Tabelle mit bereits geklärten Teil- und Gesamtanzahlen einer additiven Sachsituation. FSP 37898 nennt wesentliche Angaben und Rechenoperation, 37908 das Probieren verschiedener Lösungswege unter Einblick gewinnen 37896. Tabelle ist dort ein Bemerkungsbeispiel, kein eigener verbindlicher Zieloperator. Der gewählte Tabellenweg ist eine didaktische Konkretisierung; weder selbstständiges Erstellen der Tabellenstruktur noch das vollständige Probieren mehrerer Lösungswege sind gedeckt. Die Zielzeilen beider Pläne nennen keine eigene numerische Obergrenze. FSP bis 20 wird aus dem übergreifenden Operationsziel 37739 didaktisch abgeleitet; GS bis 20 ist für dieses Feinziel didaktisch gewählt und keine amtliche GS-Grenze. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_1959",
+        "page912_1961"
+      ],
+      "fsp_target_ids": [
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1959",
+        "Q-MA-page912_1961",
+        "Q-MA-page139_37896",
+        "Q-MA-page139_37898",
+        "Q-MA-page139_37908",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS 1961 fordert Erstellen und Ausfüllen von Tabellen unter Kennen 1959. Gewählt wird ausschließlich das Ausfüllen einer vorstrukturierten Tabelle mit bereits geklärten Teil- und Gesamtanzahlen einer additiven Sachsituation. FSP 37898 nennt wesentliche Angaben und Rechenoperation, 37908 das Probieren verschiedener Lösungswege unter Einblick gewinnen 37896. Tabelle ist dort ein Bemerkungsbeispiel, kein eigener verbindlicher Zieloperator. Der gewählte Tabellenweg ist eine didaktische Konkretisierung; weder selbstständiges Erstellen der Tabellenstruktur noch das vollständige Probieren mehrerer Lösungswege sind gedeckt. Die Zielzeilen beider Pläne nennen keine eigene numerische Obergrenze. FSP bis 20 wird aus dem übergreifenden Operationsziel 37739 didaktisch abgeleitet; GS bis 20 ist für dieses Feinziel didaktisch gewählt und keine amtliche GS-Grenze. Keine vollständige GS-Zieldeckung.",
+      "shared_object_suggestion": "Die Zuordnung von Teil- und Gesamtanzahlen einer Sachsituation zu den passenden Feldern einer Tabelle.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind füllt eine vorstrukturierte Tabelle mit den bereits geklärten Teil- und Gesamtanzahlen einer additiven Sachsituation passend aus; der für dieses Feinziel gewählte Zahlenraum reicht bis 20.",
+          "criterion": "Jede eingetragene Anzahl steht im Feld der zugehörigen Sachsituation und der passenden Teil- oder Gesamtbedeutung. Die Tabellenüberschriften sind geklärt; die beiden gleichartigen Teilmengen sind überschneidungsfrei und ergeben zusammen das Ganze. Beide Teilanzahlen, die Gesamtanzahl, sämtliche Einträge und relevante Zwischen- und Endwerte bleiben bis 20. Das selbstständige Erstellen oder Beschriften der Tabellenstruktur sowie eine neue Berechnung werden nicht vorausgesetzt.",
+          "status": "Didaktische Konkretisierung des Ausfüllens unter Kennen 1959; GS bis 20 didaktisch gewählt, keine eigene Obergrenze von 1961."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind ordnet bereits geklärte Teil- und Gesamtanzahlen einer additiven Sachsituation den passenden Feldern einer vorstrukturierten Tabelle zu und trägt sie ein, im Zahlenraum bis 20.",
+          "criterion": "Alle eingetragenen Anzahlen passen zur jeweiligen Sachsituation sowie zur geklärten Teil- oder Gesamtbedeutung des Tabellenfelds. Beide Teilanzahlen und ihre Summe als Gesamtanzahl, alle Tabelleneinträge und relevante Zwischen- und Endwerte bleiben bis 20. Es werden nur nichtnegative ganze Anzahlen gleichartiger, überschneidungsfreier Teilmengen verwendet. Tabellenstruktur und Überschriften sind vorab geklärt; eine neue Berechnung und die selbstständige Auswahl zwischen mehreren Lösungswegen werden nicht verlangt.",
+          "status": "Didaktischer Tabellenweg aus Bemerkung 37908 unter Einblick gewinnen 37896, gestützt durch Angaben/Rechenoperation 37898. Kein Nachweis des gesamten Probierens verschiedener Lösungswege. Zahlenrahmen aus Bandziel 37739 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Operationsziel abgeleitet",
+        "detail": "Die Sachaufgabenziele 37896/37898/37908 nennen keine eigene Obergrenze. Das Stufenbandziel 37739 belegt Mengen- und Operationsvorstellungen sowie Addition/Subtraktion bis 20. Dieser Rahmen wird auf den ausgewählten additiven Tabellenweg didaktisch angewandt. Auch GS 1961 nennt keine eigene Obergrenze; die hier gewählte GS-Grenze 20 ist didaktisch.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Vorstrukturierte Tabelle mit geklärten Überschriften und eindeutiger Zuordnung der Sachsituation sowie Teil-/Gesamtbedeutung. Nur bereits geklärte nichtnegative ganze Anzahlen gleichartiger, überschneidungsfreier Teilmengen. Beide Teile, ihre Summe als Ganzes, alle Einträge und relevanten Zwischen-/Endwerte bleiben bis 20. Mehrere unterschiedliche Sachsituationen bilden getrennte Datensätze; ihre Werte nicht zu einer neuen Gesamtanzahl zusammenfassen. Keine neue Berechnung, Einheitenumrechnung, andere Rechenart, Erhebung oder Diagrammerstellung voraussetzen. Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest; eigene Entwürfe sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "1961 ist verbindliches Unterziel unter Kennen 1959. Ausschließlich Ausfüllen einer vorstrukturierten Tabelle; Erstellen und weitere Tabellenarten bleiben offen. 1959 nur Hauptzielkontext.",
+        "fsp": "37898 und 37908 sind Unterziele unter Einblick gewinnen 37896. Tabelle steht in der Bemerkung zu 37908. Der konkrete additive Tabellenweg ist didaktisch ausgewählt; die Bemerkung wird nicht als eigenständige verbindliche Tabellenkompetenz ausgegeben.",
+        "fsp_remark_anchors": [
+          "page139_37908"
+        ],
         "context_only_gs_ids": [
           "page912_1959"
         ]
