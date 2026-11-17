@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-074
+# Mathematik-Abgleich · MA-075
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Diagrammen 1962, danach Fachbegriffe 1963. [MA-074](review_batch_074.json) ergänzt MA-080 zum Ausfüllen einer vorstrukturierten Tabelle mit geklärten Teil-/Gesamtanzahlen. 1961 nur teilweise geprüft; Erstellen bleibt offen. 80 Karten, 16 Anschlussfragen und 138 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Lesen von Tabellen und Schaubildern 187140–187142. [MA-075](review_batch_075.json) untersucht Diagramme 1962 und neun Fachbegriffe 1963: zwei konkrete Anschlussfragen bleiben offen, keine neue Karte und keine pauschalen Nichtanschlüsse. 80 Karten, 18 Anschlussfragen und 141 Inventurzeilen. Die drei Zeilen des nächsten Blocks sind nur inventarisiert. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -775,3 +775,12 @@ Bis20 stammt aus übergreifendem Bandziel37739, nicht aus der Datenzielzeile. Er
 MA-080 verbindet GS 1961 unter Kennen 1959 mit einem stufengleichen FSP-Tabellenweg aus der Bemerkung zu 37908 unter Einblick gewinnen 37896, gestützt durch 37898. Bereits geklärte Teil-/Gesamtanzahlen werden passenden Feldern einer vorstrukturierten Tabelle zugeordnet. Die Tabellenform ist ein Bemerkungsbeispiel und der konkrete Weg eine didaktische Auswahl; kein eigener Beherrschen-Operator aus dem anderen Datenziel 37959. Die geprüften 3/4-Kandidaten begründen keine nötige Stufenüberschreitung.
 
 FSP bis 20 wird aus dem übergreifenden Operationsziel 37739 abgeleitet; GS bis 20 ist didaktisch gewählt. Beide Zielzeilen besitzen keine eigene Tabellen-Zahlenraumgrenze. Teile, Gesamtanzahl, sämtliche Einträge und relevante Zwischen-/Endwerte müssen darin bleiben. Selbstständiges Erstellen der Tabellenstruktur und weitere Datenarten bleiben offen. Kein vollständiger Nachweis des FSP-Probierens mehrerer Lösungswege. Alle 79 Bestandskarten bleiben unverändert. Stand: 80 Karten (54 passend, 26 stufenübergreifend), 209 Quellen, 207 Zielanker, 138 Inventurzeilen, 16 Anschlussfragen, fünf Nichtanschlussentscheidungen. Alle sechs vorgeschriebenen Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-029, MA-053, MA-079 und MA-080 in beiden GS-Jahrgängen bestanden; neue Karte zusätzlich bei 320px/390px geprüft. 79 Bestandskarten, 208 bestehende Quellen und alle 16 Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger 80-Karten-Browserlauf behauptet. Veröffentlicht mit Commit 9341306f736c2f1c8cf975a65ced36b97bff6095 und erfolgreichem [Pages-Lauf 44034997082](https://github.com/geafaellt/LernzielKompass/actions/runs/44034997082). App1.384 live bytegleich bestätigt(SHA256 0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed). MA-080 öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger80-Karten-Livedurchlauf behauptet.
+
+
+## MA-075 · Diagramme und Fachsprache · reiner Auditstand 17.11.2026
+
+GS 1962 und 1963 wurden gegen beide FSP-Bänder geprüft. Allgemeines Darstellen von Umweltdaten, Mengenfolgen und Sachverhalten ist positiv belegt; seine Reichweite für Säulen-/Balkendiagramme bleibt als konkrete Anschlussfrage offen. Spätere ausdrückliche Diagrammstellen in Klasse 7 und 8/9 werden nicht in frühe Bänder übertragen. Fehlender identischer Wortlaut oder kleinerer Zahlenraum begründet allein keinen Nichtanschluss.
+
+Die neun Fachwörter sind im Prüfpaket einzeln ausgewiesen. Tabelle ist als Form/Arbeitstechnik belegt; aktive Benennung und übrige Strukturwörter erfordern eine eigene Sprachprüfung. Die 3/4-Aussage zum Fachwortverständnis bezieht sich auf Grundrechenarten und bekannte geometrische Objekte; Spiegelachse ist keine Diagrammachse. Vorhandene Karten MA-013/053/079/080 werden nicht als vollständige Diagramm- oder Fachwortdeckung gezählt.
+
+Keine neue Karte, kein neuer Feinziel- oder Zahlenraumvorschlag. Alle 80 Karten, 209 Quellen und 207 Zielanker bleiben unverändert. 18 offene Anschlussfragen, fünf dokumentierte Nichtanschlussentscheidungen, 141 Inventurzeilen; 187140–187142 nur neu inventarisiert. App 1.384 bleibt unverändert. Deutsch-, Mathematik-, Pages-Synchronisations- und Geltungsbereichsprüfungen bestanden. Auditkonsistenz, neun Einzelbegriffe, Quellenhierarchie und Stufenbänder geprüft. App und Modul sind bytegleich; kein neuer Browserlauf nötig oder behauptet. Veröffentlichung des Audits noch ausstehend.

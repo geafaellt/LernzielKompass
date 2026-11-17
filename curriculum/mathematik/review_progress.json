@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-074",
+  "last_batch": "MA-075",
   "complete": false,
   "counts": {
     "cards": 80,
@@ -2652,8 +2652,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_1962",
-  "next_step": "GS 1/2 Erstellen von Säulendiagramm und Balkendiagramm 1962 gegen beide FSP-Bänder prüfen; danach Fachbegriffe 1963. 1961 ist durch MA-080 nur im Ausfüllen vorstrukturierter Tabellen teilweise geprüft; selbstständiges Erstellen bleibt offen. 80 Karten (54 passend, 26 stufenübergreifend), 16 Anschlussfragen, 138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Restumfänge, Anschlussfragen und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.384 veröffentlicht und live geprüft; Nachweise in MA-074.",
+  "next_id": "page912_187140",
+  "next_step": "GS 1/2 Lesen von Tabellen und Schaubildern: Hauptziel 187140 mit Unterzielen 187141 (Werte entnehmen) und 187142 (Werte vergleichen) gegen beide FSP-Bänder prüfen. Diese drei Zeilen sind in MA-075 nur inventarisiert. Anschlussfragen 1962 und 1963 bleiben mit konkreten Gegenbezügen offen; keine neuen Karten und keine neuen Nichtanschlussentscheidungen. 80 Karten (54 passend, 26 stufenübergreifend), 18 Anschlussfragen und 141 Inventurzeilen. Ältere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2942,7 +2942,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_074.json",
+  "last_review_file": "review_batch_075.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3176,6 +3176,67 @@
         "Qualitative Dauerermittlung37994 von numerischer Minuten-Differenzbildung unterscheiden.",
         "Allgemeine Rechenziele nur mit belegtem Zeit-/Einheitenbezug verbinden; Operatoren und Zielzeilengrenzen dabei erhalten.",
         "Gegebenenfalls eingeschränkten Minutenbereich prüfen; alle Anfangs-, End-, Zwischen- und Ergebniswerte berücksichtigen. Keine Grenze allein aus60-Minuten-Einheitenbeziehung erfinden."
+      ]
+    },
+    {
+      "gs_id": "page912_1962",
+      "scope": "Erstellen von Säulen- und Balkendiagrammen: Grenze zwischen vorbereitender Mengendarstellung und einem fachlich belegten didaktischen Diagrammausschnitt",
+      "status": "offen",
+      "reason": "FSP 1/2 belegt Umweltdaten darstellen 37959 unter Beherrschen 37931 sowie Mengendarstellungen 37937 und Mächtigkeitsfolgen 37818 unter Kennen 37804. Diese positiven Bezüge erlauben vorbereitende Darstellungen, legen aber die quantitative Kodierung als Säulen-/Balkenlänge, gemeinsame Bezugsgrundlinie und Zuordnung der Kategorien nicht fest. 3/4-Zahldarstellungen 35461/35463, Sachverhaltsdarstellungen 35509 und Tabellen im Tierwelt-Wahlbereich 35586 ergänzen mögliche Gegenbezüge, belegen diese Diagrammkonventionen ebenfalls nicht ausdrücklich. Es bleibt zu klären, ob ein enger, didaktisch ausgewählter Einerschritt-Diagrammausschnitt aus 37959 hinreichend getragen wird oder nur eine Vorläuferdarstellung ohne Diagramm-Zieldeckung. Fehlender identischer Wortlaut, fehlende Karte und kleinerer Zahlenraum sind für sich kein Ausschluss. Keine pauschale Nichtanschlussentscheidung.",
+      "candidate_ids": [
+        "page139_37804",
+        "page139_37818",
+        "page139_37931",
+        "page139_37937",
+        "page139_37959",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908",
+        "page139_38017",
+        "page139_38019",
+        "page139_35432",
+        "page139_35434",
+        "page139_35461",
+        "page139_35463",
+        "page139_35504",
+        "page139_35509",
+        "page139_35582",
+        "page139_35586",
+        "page139_37739",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_075.json",
+      "follow_up_checks": [
+        "Säule und Balken getrennt prüfen: Zuordnung von Kategorie und Häufigkeit, einheitliche quantitative Längenkodierung und gemeinsame Bezugsgrundlinie müssen als Diagrammmerkmale erhalten bleiben.",
+        "Prüfen, ob ein auf vorgegebene Kategorien und Einerschritte begrenzter Darstellungswechsel bereits ein belegter Teilanschluss von 37959 ist; die Auswahl ausdrücklich didaktisch kennzeichnen. Reines Zählen/Ordnen oder Mengenbilder nicht als Erstellen eines Diagramms zählen.",
+        "Bei belegtem Feinziel Zahlgrenze erst dann aus Zielzeile oder ausdrücklich aus Bandziel ableiten; alle Daten-, Skalen- und relevanten Zwischen-/Endwerte berücksichtigen. Keine Zahlenraumgrenze für das allgemeine Datenziel erfinden."
+      ]
+    },
+    {
+      "gs_id": "page912_1963",
+      "scope": "Aktive Verwendung der neun Tabellen-/Diagrammbegriffe; Tabelle und acht übrige Begriffe getrennt entscheiden",
+      "status": "offen",
+      "reason": "GS 1963 verlangt die Verwendung von neun Fachbegriffen. Tabelle ist in FSP 1/2-Bemerkung 37908 und FSP 3/4-Bemerkungen 35509/35586 genannt; 3/4-Bandziel 35415 nennt Tabellieren als Arbeitstechnik. 1/2-Bandziel 37739 stützt sprachliche Begleitung geometrischer und arithmetischer Lösungswege, 3/4-Bandziel 35415 das Beschreiben mathematischer Sachverhalte. Diese positiven Bezüge sind noch kein geprüfter Nachweis der aktiven Verwendung jedes Tabellen-/Diagrammbegriffs. Das 3/4-Ziel zum Fachwortverständnis betrifft Grundrechenarten und bekannte geometrische Objekte und wird nicht pauschal auf Statistikterminologie erweitert. Für Tabelle ist ein begrenzter sprachlicher Anschluss zu MA-080 gesondert zu entscheiden; für die übrigen Begriffe sind Bedeutung und Verwenden einzeln zu prüfen. Spiegelachse 35434 ist keine Diagrammachse. Keine Nichtanschlussentscheidung allein wegen fehlender Einzelwörter.",
+      "candidate_ids": [
+        "page139_37739",
+        "page139_37896",
+        "page139_37908",
+        "page139_37931",
+        "page139_37959",
+        "page139_35415",
+        "page139_35504",
+        "page139_35509",
+        "page139_35582",
+        "page139_35586",
+        "page139_35432",
+        "page139_35434"
+      ],
+      "review_file": "review_batch_075.json",
+      "follow_up_checks": [
+        "Tabelle: Kann das sprachliche Benennen der bereits auf MA-080 verwendeten Darstellungsform aus Sachaufgaben-/Tabellenbeleg und übergreifender Sprachbegleitung begrenzt abgeleitet werden? Nicht mit Tabellen-Erstellung oder dem Verwenden aller Fachwörter gleichsetzen.",
+        "Spalte, Zeile, Zelle, Kopfspalte, Kopfzeile: Strukturelemente verstehen und bezeichnen getrennt vom Ausfüllen bereits geklärter Felder prüfen.",
+        "Säulendiagramm, Balkendiagramm, Achse: an die noch offene Inhaltsprüfung 1962 anbinden; Achse im Diagrammsinn von Spiegelachse unterscheiden.",
+        "Keine numerische Grenze für ein reines Benennungsziel erfinden; falls an eine Zahlenkarte angeknüpft, deren vorhandenen Geltungsbereich erhalten."
       ]
     }
   ],
@@ -3715,10 +3776,11 @@
       "page912_1912",
       "page912_1922",
       "page912_187123",
-      "page912_1959"
+      "page912_1959",
+      "page912_187140"
     ],
-    "rows": 138,
-    "note": "138 Zeilen erhalten. 1961 teilweise mit MA-080 geprüft, 1959 nur Hauptzielkontext. 1962 und 1963 bleiben offen; Fortsetzung 1962.",
+    "rows": 141,
+    "note": "141 Zeilen: 1962/1963 in MA-075 untersucht, Anschlussfragen weiter offen. Drei Zeilen 187140–187142 neu inventarisiert, noch keine Anschlussentscheidung. Fortsetzung 187140.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3968,12 +4030,11 @@
     "browser": "MA-080 live in both GS grades and mobile320/390 passed; four related cards local"
   },
   "latest_audit_publication": {
-    "batch": "MA-064",
-    "status": "verified",
-    "app_version_unchanged": "1.374",
-    "audit_commit": "3ac60ac92bdca0d44613a60995f8b77b9f4ac58a",
-    "pages_run": 43390517388,
-    "live_sha256": "a838fd62309d9ca18cbd906814e38e1ab53767f8bf028c3df621da5b9d3990a3"
+    "batch": "MA-075",
+    "status": "pending",
+    "app_unchanged": true,
+    "app_version": "1.384",
+    "note": "Nur Auditdateien; neuere App-Veröffentlichung nicht erforderlich. Letzte geprüfte App-Veröffentlichung bleibt MA-074."
   },
   "continuation_correction": {
     "batch": "MA-067",

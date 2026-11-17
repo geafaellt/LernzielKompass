@@ -1,0 +1,526 @@
+{
+  "id": "MA-075",
+  "date": "2026-11-17",
+  "base_commit": "c2fe6daf085980c9c00108f577ded2ccc1aa0d11",
+  "scope": "GS 1/2 Diagrammerstellung 1962 und neun Fachbegriffe 1963 unter Kennen 1959",
+  "change_type": "audit_only",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_1959",
+      "level": 1,
+      "parent_target_id": "page912_1959",
+      "target": "Kennen von Möglichkeiten des Sammelns und Darstellens von Daten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1959",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_1962",
+      "level": 2,
+      "parent_target_id": "page912_1959",
+      "target": "Erstellen von Säulendiagramm und Balkendiagramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1962",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_1963",
+      "level": 2,
+      "parent_target_id": "page912_1959",
+      "target": "Verwenden der Fachbegriffe: Tabelle, Spalte, Zeile, Zelle, Kopfspalte, Kopfzeile, Säulen-, Balkendiagramm, Achse",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1963",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes                    80 Ustd."
+    },
+    {
+      "id": "page139_37818",
+      "level": 2,
+      "parent_target_id": "page139_37804",
+      "target": "Erstellen von Mächtigkeitsfolgen",
+      "remarks": "Vergleich mehrerer Mengen hinsichtlich ihrer Mächtigkeit durch handelndes, zeichnerisches und abzählendes Zuordnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37818",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes                    80 Ustd."
+    },
+    {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    50 Ustd."
+    },
+    {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    50 Ustd."
+    },
+    {
+      "id": "page139_37959",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Herausfinden, Veranschaulichen, Darstellen und Deuten von Daten in der Umwelt",
+      "remarks": "Uhr, Kalender, Straßenbahn- und Buslinien, Würfel, Farbkasten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37959",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    50 Ustd."
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                    90 Ustd."
+    },
+    {
+      "id": "page139_37898",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Herausfinden der wesentlichen Angaben und der Rechenoperation",
+      "remarks": "Umformulieren, Hinterfragen des Textes, Hervorheben durch Unterstreichen, Suche nach Signalwörtern, Erkennen einer Frage",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37898",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                    90 Ustd."
+    },
+    {
+      "id": "page139_37908",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Probieren verschiedener Lösungswege",
+      "remarks": "Skizze, Tabelle, Term oder Gleichung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                    90 Ustd."
+    },
+    {
+      "id": "page139_38017",
+      "level": 1,
+      "parent_target_id": "page139_38017",
+      "target": "Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "remarks": "⇒ informatische Bildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 4: Zahlenzauberei"
+    },
+    {
+      "id": "page139_38019",
+      "level": 2,
+      "parent_target_id": "page139_38017",
+      "target": "Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "remarks": "Rechenblumen, -dominos, -mauern, -quadrate Nutzen verschiedener Kontrollverfahren, Lösungsbild, -wort, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 4: Zahlenzauberei"
+    },
+    {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen                    70 Ustd."
+    },
+    {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen                    70 Ustd."
+    },
+    {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                     100 Ustd."
+    },
+    {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum                     100 Ustd."
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    40 Ustd."
+    },
+    {
+      "id": "page139_35509",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben                    40 Ustd."
+    },
+    {
+      "id": "page139_35582",
+      "level": 1,
+      "parent_target_id": "page139_35582",
+      "target": "Anwenden von Lösungsstrategien beim Berechnen von Sachverhalten aus der Tierwelt",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen Zahlenmaterial zu Lebensweise, Alter, Nachwuchs, Aufzucht, Futter sammeln ➔ DE - HKS, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35582",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Wahlbereich 3: Zahlen in der Tierwelt"
+    },
+    {
+      "id": "page139_35586",
+      "level": 2,
+      "parent_target_id": "page139_35582",
+      "target": "mathematische Inhalte suchen und Sachaufgaben selbst bilden",
+      "remarks": "Größen- und Mengenvergleiche Tabellen mathematische Zusammenhänge, lebenspraktischen Bezug Differenzierung: mündliche und schriftliche Formulierungen ⇒ Lern- und Methodenkompetenz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35586",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Wahlbereich 3: Zahlen in der Tierwelt"
+    },
+    {
+      "id": "page139_37722",
+      "level": 1,
+      "parent_target_id": "page139_37722",
+      "target": "Anwenden mathematischen Wissens beim Auswerten von Sportwettkämpfen",
+      "remarks": "Schulsportfest auswerten Nutzung digitaler Medien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37722",
+      "verified_band_heading": "Klassenstufe 7",
+      "verified_area_heading": "Wahlbereich 1: Sport und Mathematik"
+    },
+    {
+      "id": "page139_37723",
+      "level": 2,
+      "parent_target_id": "page139_37722",
+      "target": "Arbeiten mit Tabellen und Übersichten",
+      "remarks": "Ordnen und Vergleichen von Zahlen Einheiten der Länge und der Zeit Symbole und Diagramme Umrechnung von Wettkampfergebnissen in Punktwerte als Vergleichsmaßstab Wettkampflisten, Rekorde Dreikampf-Ergebnisse berechnen, Klassenergebnisse vergleichen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37723",
+      "verified_band_heading": "Klassenstufe 7",
+      "verified_area_heading": "Wahlbereich 1: Sport und Mathematik"
+    },
+    {
+      "id": "page139_38999",
+      "level": 1,
+      "parent_target_id": "page139_38999",
+      "target": "Einblick gewinnen in den Umgang mit Statistiken",
+      "remarks": "Statistisches Jahrbuch ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38999",
+      "verified_band_heading": "Klassenstufen 8/9",
+      "verified_area_heading": "Lernbereich 4: Berufs- und Arbeitswelt                    60 Ustd."
+    },
+    {
+      "id": "page139_39003",
+      "level": 2,
+      "parent_target_id": "page139_38999",
+      "target": "Erstellen und Lesen von Diagrammen",
+      "remarks": "Einsatz digitaler Medien ⇒ Medienbildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_39003",
+      "verified_band_heading": "Klassenstufen 8/9",
+      "verified_area_heading": "Lernbereich 4: Berufs- und Arbeitswelt                    60 Ustd."
+    }
+  ],
+  "stage_goal_evidence": [
+    {
+      "id": "page139_37739",
+      "band": "1/2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "classification": "übergreifende Ziele; kein eigenständiger Tabellen-/Diagrammoperator",
+      "content": "Wahrnehmungen und Beobachtungen sprachlich darstellen; geometrische und arithmetische Lösungswege sprachlich begleiten und mit Unterstützung umgangssprachlich erklären. Mengen-/Operationsvorstellungen sowie Zahlaufbau bis 20 getrennt von der noch offenen Diagrammfrage."
+    },
+    {
+      "id": "page139_35415",
+      "band": "3/4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "classification": "übergreifende Ziele; keine pauschale Statistik-Fachwortliste",
+      "content": "Probieren, Tabellieren und Skizzieren als Arbeitstechniken; mathematische Sachverhalte beschreiben. Fachwortverständnis ausdrücklich zu Grundrechenarten und bekannten geometrischen Objekten. Operationsvorstellungen bis 100 begründen allein keine Diagrammkompetenz."
+    }
+  ],
+  "source_verification": "Beide amtlichen HTML-Pläne frisch am 17.11.2026 gelesen. Suchtreffer zu Diagramm, grafischen Darstellungen, Mengenfolgen, Tabellen, Achse und Sprache anschließend im Ziel-/Bemerkungs- und Stufenbandkontext geprüft. Web-Suchfunktion meldete für Diagramm keinen Treffer; dies wurde nicht als Abwesenheitsbeleg verwendet. Vollständiger HTML-Abgleich fand Diagrammstellen in späteren Klassen. Kein neuer PDF-Abgleich behauptet.",
+  "outside_scope_evidence": "37723 steht in Klasse 7 (Wahlbereich Sport und Mathematik), Diagramme in dessen Bemerkung. 39003 steht in Klassen 8/9 (Erstellen und Lesen von Diagrammen). Beide bleiben außerhalb des Vergleichs 1/2 und 3/4; spätere Nennung ist weder ein Beleg für die frühen Bänder noch allein ein Beweis gegen einen frühen didaktischen Teilanschluss.",
+  "decisions": [
+    {
+      "gs_id": "page912_1962",
+      "status": "connection_question_open",
+      "gs_operator": "Kennen",
+      "same_band_candidates": [
+        "page139_37804",
+        "page139_37818",
+        "page139_37931",
+        "page139_37937",
+        "page139_37959",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908",
+        "page139_38017",
+        "page139_38019"
+      ],
+      "cross_band_candidates": [
+        "page139_35432",
+        "page139_35434",
+        "page139_35461",
+        "page139_35463",
+        "page139_35504",
+        "page139_35509",
+        "page139_35582",
+        "page139_35586"
+      ],
+      "reason": "FSP 1/2 belegt Umweltdaten darstellen 37959 unter Beherrschen 37931 sowie Mengendarstellungen 37937 und Mächtigkeitsfolgen 37818 unter Kennen 37804. Diese positiven Bezüge erlauben vorbereitende Darstellungen, legen aber die quantitative Kodierung als Säulen-/Balkenlänge, gemeinsame Bezugsgrundlinie und Zuordnung der Kategorien nicht fest. 3/4-Zahldarstellungen 35461/35463, Sachverhaltsdarstellungen 35509 und Tabellen im Tierwelt-Wahlbereich 35586 ergänzen mögliche Gegenbezüge, belegen diese Diagrammkonventionen ebenfalls nicht ausdrücklich. Es bleibt zu klären, ob ein enger, didaktisch ausgewählter Einerschritt-Diagrammausschnitt aus 37959 hinreichend getragen wird oder nur eine Vorläuferdarstellung ohne Diagramm-Zieldeckung. Fehlender identischer Wortlaut, fehlende Karte und kleinerer Zahlenraum sind für sich kein Ausschluss. Keine pauschale Nichtanschlussentscheidung.",
+      "prerequisites": "Bei einer später belegten Diagrammkonkretisierung müssen Kategorien, Zahlbedeutung und quantitative Darstellung eindeutig sein. Keine konkreten Aufgaben, Lernhandlungen oder Hilfsmittel festgelegt.",
+      "number_range": "GS-Zeile ohne eigene Obergrenze. Allgemeine FSP-Zahl-/Operationsgrenzen 20 bzw. 100 sind keine eigenständigen Diagrammbelege. Keine neue Karte, daher kein erfundener Planungsgrenzwert. Kleinerer Zahlenraum war kein Ablehnungsgrund.",
+      "remaining": "Gesamte spezifische Diagrammerstellung bleibt offen. Die beiden Formen und ein möglicher vorbereitender Teilanschluss werden getrennt weiter untersucht."
+    },
+    {
+      "gs_id": "page912_1963",
+      "status": "connection_question_open",
+      "gs_operator": "Kennen",
+      "reason": "GS 1963 verlangt die Verwendung von neun Fachbegriffen. Tabelle ist in FSP 1/2-Bemerkung 37908 und FSP 3/4-Bemerkungen 35509/35586 genannt; 3/4-Bandziel 35415 nennt Tabellieren als Arbeitstechnik. 1/2-Bandziel 37739 stützt sprachliche Begleitung geometrischer und arithmetischer Lösungswege, 3/4-Bandziel 35415 das Beschreiben mathematischer Sachverhalte. Diese positiven Bezüge sind noch kein geprüfter Nachweis der aktiven Verwendung jedes Tabellen-/Diagrammbegriffs. Das 3/4-Ziel zum Fachwortverständnis betrifft Grundrechenarten und bekannte geometrische Objekte und wird nicht pauschal auf Statistikterminologie erweitert. Für Tabelle ist ein begrenzter sprachlicher Anschluss zu MA-080 gesondert zu entscheiden; für die übrigen Begriffe sind Bedeutung und Verwenden einzeln zu prüfen. Spiegelachse 35434 ist keine Diagrammachse. Keine Nichtanschlussentscheidung allein wegen fehlender Einzelwörter.",
+      "term_decisions": [
+        {
+          "term": "Tabelle",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37908",
+            "page139_35509",
+            "page139_35586",
+            "page139_35415"
+          ],
+          "limit": "Darstellungsform/Arbeitstechnik belegt; aktive Benennung mit Sprachzielen gesondert prüfen, MA-080 bislang nur Ausfüllen."
+        },
+        {
+          "term": "Spalte",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37908",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Tabellenbezug und Sprachbegleitung positiv; Feldzuordnung ist nicht automatisch aktive Verwendung dieses Strukturworts."
+        },
+        {
+          "term": "Zeile",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37908",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Tabellenbezug und Sprachbegleitung positiv; Feldzuordnung ist nicht automatisch aktive Verwendung dieses Strukturworts."
+        },
+        {
+          "term": "Zelle",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37908",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Tabellenbezug und Sprachbegleitung positiv; Feldzuordnung ist nicht automatisch aktive Verwendung dieses Strukturworts."
+        },
+        {
+          "term": "Kopfspalte",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37908",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Tabellenbezug und Sprachbegleitung positiv; Feldzuordnung ist nicht automatisch aktive Verwendung dieses Strukturworts."
+        },
+        {
+          "term": "Kopfzeile",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37908",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Tabellenbezug und Sprachbegleitung positiv; Feldzuordnung ist nicht automatisch aktive Verwendung dieses Strukturworts."
+        },
+        {
+          "term": "Säulendiagramm",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37959",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Inhaltsbezug 1962 offen. Keine automatische Übertragung allgemeiner Sprachziele auf das aktive Fachwort; Diagrammachse nicht mit Spiegelachse 35434 gleichsetzen."
+        },
+        {
+          "term": "Balkendiagramm",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37959",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Inhaltsbezug 1962 offen. Keine automatische Übertragung allgemeiner Sprachziele auf das aktive Fachwort; Diagrammachse nicht mit Spiegelachse 35434 gleichsetzen."
+        },
+        {
+          "term": "Achse",
+          "decision": "offen",
+          "positive_evidence": [
+            "page139_37959",
+            "page139_35509",
+            "page139_37739",
+            "page139_35415"
+          ],
+          "limit": "Inhaltsbezug 1962 offen. Keine automatische Übertragung allgemeiner Sprachziele auf das aktive Fachwort; Diagrammachse nicht mit Spiegelachse 35434 gleichsetzen."
+        }
+      ],
+      "prerequisites": "Bedeutung verstehen, zugehöriges Element identifizieren und Fachwort aktiv verwenden unterscheiden; vorhandene Karten nicht ohne Prüfung als Sprachzieldeckung zählen.",
+      "number_range": "Die Sprachforderung selbst hat keine numerische Obergrenze. Kein Zahlenraum für reine Benennung erfunden; bestehende numerische Grenzen der gegebenenfalls verwendeten Sachkarte bleiben zu beachten.",
+      "remaining": "Alle neun Wortbezüge weiterhin offen; Tabelle ist ein positiver enger Kandidat, keine bereits validierte Begriffskarte."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-013",
+    "MA-053",
+    "MA-079",
+    "MA-080"
+  ],
+  "existing_card_review": "Umweltdaten deuten, Skizzenmodell, Anzahldaten erfassen/ordnen und Tabellen ausfüllen sind begrenzte Inhaltskarten. Sie belegen weder automatisch die Diagrammerstellung noch die gesamte aktive Fachwortliste. Keine Karte und kein Feinziel erweitert; alle 80 Geltungsbereiche unverändert.",
+  "new_cards": [],
+  "updated_cards": [],
+  "inventory_only_rows": [
+    {
+      "id": "page912_187140",
+      "level": 1,
+      "parent_target_id": "page912_187140",
+      "target": "Einblick gewinnen in das Lesen von Tabellen und Schaubildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187140",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_187141",
+      "level": 2,
+      "parent_target_id": "page912_187140",
+      "target": "Entnehmen von konkreten Werten aus einer Tabelle oder einem Schaubild",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187141",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    },
+    {
+      "id": "page912_187142",
+      "level": 2,
+      "parent_target_id": "page912_187140",
+      "target": "Vergleichen von Werten innerhalb einer Tabelle oder eines Diagramms",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187142",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Daten und Zufall"
+    }
+  ],
+  "counts": {
+    "new_individually_examined_rows": 2,
+    "new_validated_connections": 0,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 2,
+    "new_inventory_only_rows": 3,
+    "new_no_direct_connection_decisions": 0,
+    "cards": 80,
+    "cross_band_cards": 26,
+    "source_links": 209,
+    "target_anchors": 207,
+    "audit_rows": 141,
+    "open_connection_questions": 18,
+    "documented_no_direct_connection_rows": 5
+  },
+  "continuation": "GS 1/2 Lesen von Tabellen und Schaubildern: Hauptziel 187140 mit Unterzielen 187141 (Werte entnehmen) und 187142 (Werte vergleichen) gegen beide FSP-Bänder prüfen. Diese drei Zeilen sind in MA-075 nur inventarisiert. Anschlussfragen 1962 und 1963 bleiben mit konkreten Gegenbezügen offen; keine neuen Karten und keine neuen Nichtanschlussentscheidungen. 80 Karten (54 passend, 26 stufenübergreifend), 18 Anschlussfragen und 141 Inventurzeilen. Ältere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "tests": {
+    "status": "passed",
+    "scripts": {
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed"
+    },
+    "audit_consistency": {
+      "status": "passed",
+      "app_and_module_byte_unchanged": true,
+      "existing_cards_unchanged": 80,
+      "sources_unchanged": 209,
+      "reviewed_card_anchors_unchanged": 207,
+      "existing_questions_unchanged": 16,
+      "new_questions": 2,
+      "no_new_no_direct_connection_decisions": true,
+      "old_audit_rows_preserved": 138,
+      "changed_audit_ids": [
+        "page912_1959",
+        "page912_1962",
+        "page912_1963"
+      ],
+      "new_inventory_only_rows": 3,
+      "audit_rows": 141,
+      "term_checks": 9,
+      "source_hierarchy_and_band_checks": "passed",
+      "root_dist_identical": true,
+      "html_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed"
+    },
+    "baseline": "Twelve baseline files matched remote tree 7c5f4f6e6cc01864e543f045d77192454ef0c75f; CSV newline conventions accounted for.",
+    "browser": "Not rerun: audit-only changes, index.html, dist/index.html and mathematics module byte-identical to verified App1.384. Live/browser evidence for MA-080 remains in MA-074; no new full80-card check claimed.",
+    "update_mathematik": "Not needed or run: no module or app changes; byte preservation verified."
+  },
+  "publication": {
+    "status": "pending",
+    "type": "audit_only",
+    "app_version_unchanged": "1.384",
+    "app_changes": false
+  }
+}
