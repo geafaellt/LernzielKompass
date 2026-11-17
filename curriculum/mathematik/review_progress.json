@@ -2653,7 +2653,7 @@
     }
   },
   "next_id": "page912_187140",
-  "next_step": "GS 1/2 Lesen von Tabellen und Schaubildern: Hauptziel 187140 mit Unterzielen 187141 (Werte entnehmen) und 187142 (Werte vergleichen) gegen beide FSP-Bänder prüfen. Diese drei Zeilen sind in MA-075 nur inventarisiert. Anschlussfragen 1962 und 1963 bleiben mit konkreten Gegenbezügen offen; keine neuen Karten und keine neuen Nichtanschlussentscheidungen. 80 Karten (54 passend, 26 stufenübergreifend), 18 Anschlussfragen und 141 Inventurzeilen. Ältere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS 1/2 Lesen von Tabellen und Schaubildern: Hauptziel 187140 mit Unterzielen 187141 (Werte entnehmen) und 187142 (Werte vergleichen) gegen beide FSP-Bänder prüfen. Diese drei Zeilen sind in MA-075 nur inventarisiert. Anschlussfragen 1962 und 1963 bleiben mit konkreten Gegenbezügen offen; keine neuen Karten und keine neuen Nichtanschlussentscheidungen. 80 Karten (54 passend, 26 stufenübergreifend), 18 Anschlussfragen und 141 Inventurzeilen. Ältere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. Reiner Auditstand MA-075 auf main veröffentlicht; App1.384 unverändert öffentlich bestätigt.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4031,10 +4031,13 @@
   },
   "latest_audit_publication": {
     "batch": "MA-075",
-    "status": "pending",
+    "status": "verified",
+    "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+    "pages_run": 44042551050,
     "app_unchanged": true,
     "app_version": "1.384",
-    "note": "Nur Auditdateien; neuere App-Veröffentlichung nicht erforderlich. Letzte geprüfte App-Veröffentlichung bleibt MA-074."
+    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+    "verified_at": "2026-11-17T07:57:40.479941+00:00"
   },
   "continuation_correction": {
     "batch": "MA-067",

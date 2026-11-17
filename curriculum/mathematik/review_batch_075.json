@@ -518,9 +518,16 @@
     "update_mathematik": "Not needed or run: no module or app changes; byte preservation verified."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "type": "audit_only",
     "app_version_unchanged": "1.384",
-    "app_changes": false
+    "app_changes": false,
+    "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+    "pages_run": 44042551050,
+    "pages_conclusion": "success",
+    "live_byte_identical_to_previous_app": true,
+    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+    "verified_at": "2026-11-17T07:57:40.479941+00:00",
+    "note": "Pages-Lauf durch Auditcommit ausgelöst; keine neue App-Version und kein neuer Browserlauf. Öffentliche App bytegleich mit geprüfter App1.384 aus MA-074."
   }
 }
