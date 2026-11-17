@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-075",
+  "last_batch": "MA-076",
   "complete": false,
   "counts": {
-    "cards": 80,
+    "cards": 81,
     "cross_band": 26
   },
   "source_plans": {
@@ -2650,10 +2650,36 @@
       "area": "Lernbereich 4: Daten und Zufall",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187140": {
+      "id": "page912_187140",
+      "level": 1,
+      "parent_target_id": "page912_187140",
+      "target": "Einblick gewinnen in das Lesen von Tabellen und Schaubildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187140",
+      "grade": "1/2",
+      "area_id": "MA-page912_1755",
+      "area": "Lernbereich 4: Daten und Zufall",
+      "operator": "Einblick gewinnen",
+      "version": "2026"
+    },
+    "page912_187141": {
+      "id": "page912_187141",
+      "level": 2,
+      "parent_target_id": "page912_187140",
+      "target": "Entnehmen von konkreten Werten aus einer Tabelle oder einem Schaubild",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187141",
+      "grade": "1/2",
+      "area_id": "MA-page912_1755",
+      "area": "Lernbereich 4: Daten und Zufall",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187140",
-  "next_step": "GS 1/2 Lesen von Tabellen und Schaubildern: Hauptziel 187140 mit Unterzielen 187141 (Werte entnehmen) und 187142 (Werte vergleichen) gegen beide FSP-Bänder prüfen. Diese drei Zeilen sind in MA-075 nur inventarisiert. Anschlussfragen 1962 und 1963 bleiben mit konkreten Gegenbezügen offen; keine neuen Karten und keine neuen Nichtanschlussentscheidungen. 80 Karten (54 passend, 26 stufenübergreifend), 18 Anschlussfragen und 141 Inventurzeilen. Ältere Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. Reiner Auditstand MA-075 auf main veröffentlicht; App1.384 unverändert öffentlich bestätigt.",
+  "next_id": "page912_187142",
+  "next_step": "GS 1/2 Vergleichen von Werten innerhalb einer Tabelle oder eines Diagramms 187142 unter Einblick gewinnen 187140 gegen beide FSP-Bänder prüfen. 187141 ist durch MA-081 nur für Anzahlangaben einer einfachen Sachaufgabentabelle teilweise geprüft; Schaubilder und weitere Datenarten bleiben offen. 81 Karten (55 passend, 26 stufenübergreifend), 18 Anschlussfragen, 141 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2942,7 +2968,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_075.json",
+  "last_review_file": "review_batch_076.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3754,6 +3780,12 @@
       "scope": "Selbstständiges Erstellen der Tabellenstruktur und Überschriften, andere Datenarten, mehrdimensionale Zuordnungen sowie Auswahl geeigneter Tabellenformen bleiben offen. MA-080 deckt ausschließlich das Ausfüllen einer vorstrukturierten Tabelle mit geklärten additiven Teil-/Gesamtanzahlen. Kein Nachweis allgemeiner statistischer Tabellenkompetenz oder des gesamten FSP-Probierens mehrerer Lösungswege.",
       "status": "offen",
       "review": "MA-074"
+    },
+    {
+      "gs_id": "page912_187141",
+      "scope": "Andere Datenarten und Einheiten, komplexere Tabellenstrukturen sowie Werteentnahme aus Schaubildern einschließlich Diagrammskalen bleiben offen. MA-081 nur bereits eingetragene Anzahlen in einer überschaubaren additiven Sachaufgabentabelle mit geklärten Überschriften. Keine allgemeine Tabellen-/Diagrammlesekompetenz und keine Wertevergleichsdeckung.",
+      "status": "offen",
+      "review": "MA-076"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3780,7 +3812,7 @@
       "page912_187140"
     ],
     "rows": 141,
-    "note": "141 Zeilen: 1962/1963 in MA-075 untersucht, Anschlussfragen weiter offen. Drei Zeilen 187140–187142 neu inventarisiert, noch keine Anschlussentscheidung. Fortsetzung 187140.",
+    "note": "141 Zeilen erhalten. MA-076 prüft 187141 teilweise; 187140 ist nur Hauptzielkontext. Fortsetzung 187142, noch offen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4001,6 +4033,13 @@
         "MA-080": "derived"
       },
       "note": "Bis 20 aus Bandziel 37739 didaktisch abgeleitet; keine eigene Tabellen-Zahlenraumgrenze. Teile, Gesamtanzahl, alle Einträge und Zwischen-/Endwerte begrenzt. Alle 79 Bestandskarten unverändert."
+    },
+    "follow_up_table_reading": {
+      "batch": "MA-076",
+      "cards": {
+        "MA-081": "derived"
+      },
+      "note": "Bis 20 aus 37739 didaktisch abgeleitet. Alle Tabellenwerte, Teil-/Gesamtanzahlen und relevanten Zwischen-/Endwerte begrenzt; keine eigene Zielzeilen-Obergrenze. Alle 80 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4021,13 +4060,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-074",
-    "status": "verified",
-    "app_version": "1.384",
-    "app_commit": "9341306f736c2f1c8cf975a65ced36b97bff6095",
-    "pages_run": 44034997082,
-    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-    "browser": "MA-080 live in both GS grades and mobile320/390 passed; four related cards local"
+    "batch": "MA-076",
+    "status": "pending",
+    "app_version": "1.385",
+    "previous_verified_version": "1.384"
   },
   "latest_audit_publication": {
     "batch": "MA-075",

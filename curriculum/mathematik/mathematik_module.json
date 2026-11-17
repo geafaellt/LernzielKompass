@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-17.2",
+  "version": "MA-2026-11-17.3",
   "checked_on": "2026-11-17",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1363,6 +1363,18 @@
       "id": "Q-MA-page912_1961",
       "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1961",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187140",
+      "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187140",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187141",
+      "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187141",
       "version": "2026"
     }
   ],
@@ -7813,6 +7825,85 @@
         ],
         "context_only_gs_ids": [
           "page912_1959"
+        ]
+      }
+    },
+    {
+      "id": "MA-081",
+      "subject": "Mathematik",
+      "theme": "Anzahlangaben aus einer Tabelle entnehmen",
+      "app_area": "MA-page912_1755",
+      "status": "Begrenzter Anschluss · Tabellenwert entnehmen · FSP-Bemerkungsbeleg",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 4: Daten und Zufall · Werte aus Tabellen oder Schaubildern entnehmen 187141 unter Einblick gewinnen 187140",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 2: Die Welt um mich herum · wesentliche Angaben 37898 und Tabelle als Bemerkungsbeispiel zu Lösungswegen 37908 unter Einblick gewinnen 37896",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Einblick gewinnen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. Beide Hauptoperatoren lauten Einblick gewinnen: GS 187140 und FSP 37896. GS 187141 nennt das Entnehmen konkreter Werte aus einer Tabelle oder einem Schaubild. FSP 37898 nennt das Herausfinden wesentlicher Angaben und der Rechenoperation; Tabelle steht als Beispiel in der Bemerkung zum Probieren verschiedener Lösungswege 37908. Das Entnehmen einer gesuchten, bereits eingetragenen Teil- oder Gesamtanzahl aus einer überschaubaren Sachaufgabentabelle ist eine didaktische Konkretisierung dieser Belege. Keine eigenständige verbindliche FSP-Tabellenlesekompetenz und keine vollständige Deckung der GS-Zeile oder der FSP-Sachaufgabenstrategien. Beide Zielzeilen nennen keine eigene numerische Obergrenze. FSP bis 20 wird aus dem übergreifenden Mengen-/Operationsziel 37739 didaktisch abgeleitet; GS bis 20 ist hier didaktisch gewählt, keine amtliche GS-Grenze. Andere Datenarten, komplexere Tabellen und Schaubilder bleiben offen; Vergleichen 187142 wird gesondert geprüft.",
+      "gs_target_ids": [
+        "page912_187140",
+        "page912_187141"
+      ],
+      "fsp_target_ids": [
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187140",
+        "Q-MA-page912_187141",
+        "Q-MA-page139_37896",
+        "Q-MA-page139_37898",
+        "Q-MA-page139_37908",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. Beide Hauptoperatoren lauten Einblick gewinnen: GS 187140 und FSP 37896. GS 187141 nennt das Entnehmen konkreter Werte aus einer Tabelle oder einem Schaubild. FSP 37898 nennt das Herausfinden wesentlicher Angaben und der Rechenoperation; Tabelle steht als Beispiel in der Bemerkung zum Probieren verschiedener Lösungswege 37908. Das Entnehmen einer gesuchten, bereits eingetragenen Teil- oder Gesamtanzahl aus einer überschaubaren Sachaufgabentabelle ist eine didaktische Konkretisierung dieser Belege. Keine eigenständige verbindliche FSP-Tabellenlesekompetenz und keine vollständige Deckung der GS-Zeile oder der FSP-Sachaufgabenstrategien. Beide Zielzeilen nennen keine eigene numerische Obergrenze. FSP bis 20 wird aus dem übergreifenden Mengen-/Operationsziel 37739 didaktisch abgeleitet; GS bis 20 ist hier didaktisch gewählt, keine amtliche GS-Grenze. Andere Datenarten, komplexere Tabellen und Schaubilder bleiben offen; Vergleichen 187142 wird gesondert geprüft.",
+      "shared_object_suggestion": "Die in einer Tabelle enthaltene Anzahl und ihre Bedeutung als Teil oder Ganzes einer Sachsituation.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind entnimmt einer überschaubaren Tabelle die gesuchte, bereits eingetragene Teil- oder Gesamtanzahl einer additiven Sachsituation und ordnet sie dem passenden Sachbezug zu; der für dieses Feinziel gewählte Zahlenraum reicht bis 20.",
+          "criterion": "Die entnommene Zahl stammt aus dem zur Frage passenden Tabellenfeld. Sachbezug und Teil-/Gesamtbedeutung stimmen mit den geklärten Überschriften überein. Sämtliche dargestellten Teilanzahlen, die Gesamtanzahl, alle numerischen Tabelleneinträge und relevante Zwischen- und Endwerte bleiben bis 20. Fehlende Werte werden nicht berechnet; Vergleiche und das Ausfüllen oder Erstellen einer Tabelle gehören nicht zu diesem Feinziel.",
+          "status": "Didaktische Konkretisierung von Einblick gewinnen 187140 für den Tabellenausschnitt von 187141. GS bis 20 didaktisch gewählt, keine eigene Obergrenze der Zielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind findet in einer überschaubaren Tabelle die für eine geklärte Sachfrage gesuchte, bereits eingetragene Teil- oder Gesamtanzahl und ordnet ihr die passende Bedeutung in der additiven Sachsituation zu, im Zahlenraum bis 20.",
+          "criterion": "Die ausgewählte Zahl gehört zum passenden Sachverhalt und zur gesuchten Teil- oder Gesamtbedeutung; sie wird aus dem zugehörigen Tabellenfeld entnommen. Überschriften und Sachfrage sind geklärt. Beide Teilanzahlen und ihre Summe als Gesamtanzahl, sämtliche numerischen Tabelleneinträge sowie relevante Zwischen- und Endwerte bleiben bis 20. Nur nichtnegative ganze Anzahlen gleichartiger, überschneidungsfreier Teilmengen; keine neue Berechnung, Tabellenproduktion oder Auswahl zwischen mehreren Lösungswegen vorausgesetzt.",
+          "status": "Didaktischer Teilaspekt von wesentlichen Angaben 37898 in der Tabellenform aus Bemerkung 37908 unter Einblick gewinnen 37896. Die gesamte Operationswahl und das Probieren mehrerer Lösungswege sind damit nicht abgedeckt. Zahlenrahmen aus Bandziel 37739 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 20 · didaktisch aus dem übergreifenden Mengen-/Operationsziel abgeleitet",
+        "detail": "FSP 37896/37898/37908 enthalten keine eigene Obergrenze für Tabellenwerte. Bandziel 37739 belegt Mengen-/Operationsvorstellungen und Addition/Subtraktion bis 20. Der ausgewählte additive Tabellenleseausschnitt wird darauf didaktisch begrenzt. GS 187140/187141 ohne eigene Obergrenze; GS bis 20 ist hier ebenfalls didaktisch gewählt.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Sachfrage, Tabellenüberschriften und Bedeutung der Teil-/Gesamtangaben klären. Die gesuchte Anzahl muss bereits eingetragen sein. Nichtnegative ganze Anzahlen gleichartiger, überschneidungsfreier Teilmengen; beide Teile und ihre Summe als Ganzes, sämtliche numerischen Einträge und relevante Zwischen-/Endwerte bis 20. Angaben verschiedener Sachsituationen nicht zu einer neuen Gesamtsumme zusammenfassen. Zahlencodes, Uhrzeiten, Größen mit Einheiten und andere Datenarten sind nicht Teil dieses Ausschnitts. Keine neue Berechnung, Einheitenumrechnung, Diagrammskala, Tabellenproduktion oder Wertevergleich voraussetzen. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft; eigene Texte sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187141 ist Unterziel unter Einblick gewinnen 187140; die vorhandene Tabelle ist als Datenquelle ausgewählt. 187140 bleibt Hauptzielkontext. 187142 nicht zugeordnet.",
+        "fsp": "37898 und 37908 sind Zielzeilen unter Einblick gewinnen 37896. Tabelle ist Bemerkung zu 37908; ihre Verbindung mit dem Herausfinden einer wesentlichen Anzahl ist didaktisch konkretisiert, nicht der Wortlaut einer eigenen Tabellenleseforderung.",
+        "fsp_remark_anchors": [
+          "page139_37908"
+        ],
+        "context_only_gs_ids": [
+          "page912_187140"
         ]
       }
     }
