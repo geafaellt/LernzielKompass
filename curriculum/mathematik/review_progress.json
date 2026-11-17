@@ -2653,7 +2653,7 @@
     }
   },
   "next_id": "page912_1962",
-  "next_step": "GS 1/2 Erstellen von Säulendiagramm und Balkendiagramm 1962 gegen beide FSP-Bänder prüfen; danach Fachbegriffe 1963. 1961 ist durch MA-080 nur im Ausfüllen vorstrukturierter Tabellen teilweise geprüft; selbstständiges Erstellen bleibt offen. 80 Karten (54 passend, 26 stufenübergreifend), 16 Anschlussfragen, 138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Restumfänge, Anschlussfragen und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS 1/2 Erstellen von Säulendiagramm und Balkendiagramm 1962 gegen beide FSP-Bänder prüfen; danach Fachbegriffe 1963. 1961 ist durch MA-080 nur im Ausfüllen vorstrukturierter Tabellen teilweise geprüft; selbstständiges Erstellen bleibt offen. 80 Karten (54 passend, 26 stufenübergreifend), 16 Anschlussfragen, 138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Restumfänge, Anschlussfragen und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.384 veröffentlicht und live geprüft; Nachweise in MA-074.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3960,9 +3960,12 @@
   },
   "latest_publication": {
     "batch": "MA-074",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.384",
-    "previous_verified_version": "1.383"
+    "app_commit": "9341306f736c2f1c8cf975a65ced36b97bff6095",
+    "pages_run": 44034997082,
+    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+    "browser": "MA-080 live in both GS grades and mobile320/390 passed; four related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

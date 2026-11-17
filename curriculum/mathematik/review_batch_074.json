@@ -314,11 +314,19 @@
       "html_blob_sha": "0d2409864edc014817b2dc494a65d0e32ab4544f"
     },
     "baseline": "Twelve baseline files matched the remote tree e818965e3831ebb7782c09c2dc50daedafdb7d98. Mathematics CSV compared after newline normalization; German CSV matched with preserved CRLF. Remote base a4542a3ae50fe66cfb0c01efb3f6e72e8998b0ef.",
-    "browser_live": "pending"
+    "browser_live": "Passed MA-080 in both GS grades, including exact goal/criterion adoption, source links, visible scope, empty task/aid fields, preserved teacher drafts, subject isolation and reload. Direct320px/390px checks passed. No full80-card public run claimed; four related cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.384",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "9341306f736c2f1c8cf975a65ced36b97bff6095",
+    "pages_run": 44034997082,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44034997082",
+    "pages_conclusion": "success",
+    "live_app_version": "1.384",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+    "verified_at": "2026-11-17T06:58:57.956013+00:00"
   }
 }
