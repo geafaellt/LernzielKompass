@@ -2692,7 +2692,7 @@
     }
   },
   "next_id": "page912_2012",
-  "next_step": "GS Klasse 3 Raum und Form: Übertragen des Wissens über Lagebeziehungen 2012, zunächst Perspektiven/Wege 187151 und ebene Darstellungen 187152 gegen FSP 3/4 und 1/2 prüfen. Der gesamte Block 2012 mit acht Unterzeilen ist nur inventarisiert, nicht fachlich geprüft. Zufallsblock GS1/2 in MA-079 einzeln untersucht: 187148 als konkrete Anschlussfrage offen; 187149/187150 ohne hinreichend belegten direkten Anschluss, keine Behauptung fehlender didaktischer Anschlussfähigkeit. 82 Karten (56 passend, 26 stufenübergreifend), 22 Anschlussfragen, 158 Inventurzeilen und sieben Nichtanschlussentscheidungen. Alle älteren Fragen, Restumfänge und Bestandskarten bleiben weiter zu prüfen; kein Gesamtabschluss.",
+  "next_step": "GS Klasse 3 Raum und Form: Übertragen des Wissens über Lagebeziehungen 2012, zunächst Perspektiven/Wege 187151 und ebene Darstellungen 187152 gegen FSP 3/4 und 1/2 prüfen. Der gesamte Block 2012 mit acht Unterzeilen ist nur inventarisiert, nicht fachlich geprüft. Zufallsblock GS1/2 in MA-079 einzeln untersucht: 187148 als konkrete Anschlussfrage offen; 187149/187150 ohne hinreichend belegten direkten Anschluss, keine Behauptung fehlender didaktischer Anschlussfähigkeit. 82 Karten (56 passend, 26 stufenübergreifend), 22 Anschlussfragen, 158 Inventurzeilen und sieben Nichtanschlussentscheidungen. Alle älteren Fragen, Restumfänge und Bestandskarten bleiben weiter zu prüfen; kein Gesamtabschluss. Audit MA-079 auf main veröffentlicht, Pages erfolgreich; App1.386 weiterhin bytegleich ausgeliefert.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4255,7 +4255,7 @@
   },
   "latest_audit_publication": {
     "batch": "MA-079",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.386",
     "previous_audit_publication": {
       "batch": "MA-078",
@@ -4275,7 +4275,11 @@
       "pages_run": 44069787528,
       "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
       "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-    }
+    },
+    "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
+    "pages_run": 44111252857,
+    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+    "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
   },
   "continuation_correction": {
     "batch": "MA-067",
