@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-072",
+  "last_batch": "MA-073",
   "complete": false,
   "counts": {
-    "cards": 78,
+    "cards": 79,
     "cross_band": 26
   },
   "source_plans": {
@@ -2611,10 +2611,36 @@
       "area": "Lernbereich 3: Größen und Messen",
       "operator": null,
       "version": "2026"
+    },
+    "page912_1959": {
+      "id": "page912_1959",
+      "level": 1,
+      "parent_target_id": "page912_1959",
+      "target": "Kennen von Möglichkeiten des Sammelns und Darstellens von Daten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1959",
+      "grade": "1/2",
+      "area_id": "MA-page912_1755",
+      "area": "Lernbereich 4: Daten und Zufall",
+      "operator": "Kennen",
+      "version": "2026"
+    },
+    "page912_1960": {
+      "id": "page912_1960",
+      "level": 2,
+      "parent_target_id": "page912_1959",
+      "target": "Sammeln und Ordnen von Daten",
+      "remarks": "einfache Umfragen durchführen Strichlisten und Schaubilder erstellen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1960",
+      "grade": "1/2",
+      "area_id": "MA-page912_1755",
+      "area": "Lernbereich 4: Daten und Zufall",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_1959",
-  "next_step": "GS1/2 Daten sammeln und darstellen1959 mit Unterzeilen1960–1963 gegen beide FSP-Bänder prüfen. Diese fünf Zeilen sind nur neu inventarisiert, nicht fachlich geprüft. Zeit-Fachbegriffe187139 teilweise den vorhandenen MA-070/077 zugeordnet; übrige Begriffe und frühere Restumfänge bleiben offen.78 Karten(52 passend,26 stufenübergreifend),16 Anschlussfragen,138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Keine neue Karte und kein Gesamtabschluss. App1.382 veröffentlicht und live geprüft; Nachweise in MA-072.",
+  "next_id": "page912_1961",
+  "next_step": "GS1/2 Erstellen und Ausfüllen von Tabellen1961 gegen FSP1/2 und3/4 prüfen; danach Diagramme1962 und Fachbegriffe1963.1959 bleibt Hauptzielkontext,1960 ist durch MA-079 nur teilweise geprüft.79 Karten(53 passend,26 stufenübergreifend),16 Anschlussfragen,138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Alle älteren Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2903,7 +2929,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_072.json",
+  "last_review_file": "review_batch_073.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3642,6 +3668,12 @@
       "scope": "Tag, Woche, Monat, Jahr, Uhr und Kalender als eigenständiger fachsprachlicher Gebrauch sowie Verwendung von Stunde/Minute und Vergleichsausdrücken außerhalb der begrenzten Karten bleiben offen. Die Begriffe nur im Quellentext oder in einem Kartentitel zu finden, belegt noch keine vollständige Zieldeckung. Stufengleiche Tages-/Wochen-, Ereignis-, Uhr- und Kalenderbezüge bleiben positive Kandidaten; keine pauschalen Nichtanschlüsse.",
       "status": "offen",
       "review": "MA-072"
+    },
+    {
+      "gs_id": "page912_1960",
+      "scope": "Andere Datenarten, selbstständige Erhebungsfragen, Kategorienbildung sowie Umfragen, Strichlisten und Schaubilder aus der GS-Bemerkung bleiben offen. MA-079 nur Anzahldaten zu geklärten Bezugsgruppen im Naturkontext und numerisches Ordnen; keine Tabellen-/Diagrammdeckung. Allgemeines Datensammeln und -ordnen ist damit nicht vollständig abgedeckt.",
+      "status": "offen",
+      "review": "MA-073"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3667,7 +3699,7 @@
       "page912_1959"
     ],
     "rows": 138,
-    "note": "MA-072:187139 teilweise über bestehende Karten geprüft; fünf Zeilen1959–1963 zu Daten sammeln/darstellen nur inventarisiert. Kein fachlicher Fortschritt für diese neuen Inventurzeilen.138 Zeilen gesamt; Fortsetzung1959.",
+    "note": "138 Zeilen erhalten. MA-073 prüft1960 teilweise,1959 nur Hauptzielkontext.1961–1963 bleiben offen, Fortsetzung1961.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -3874,6 +3906,13 @@
         "MA-077": "domain_specific"
       },
       "note": "Beide bestehenden Geltungsbereiche, alle Feinziele und Kriterien unverändert. MA-070 alle Werte im festgelegten Zahlenraum; MA-077 ausschließlich1h=60min. Quellenbezug erweitert, keine neue Zahlen- oder Definitionsanforderung."
+    },
+    "follow_up_count_data": {
+      "batch": "MA-073",
+      "cards": {
+        "MA-079": "derived"
+      },
+      "note": "Bis20 aus37739 didaktisch abgeleitet; Zielzeilen haben keine eigene Datengrenze. Erhebungsumfang sowie alle Anzahl-/Zwischen-/Endwerte begrenzt.78 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -3894,13 +3933,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-072",
-    "status": "verified",
-    "app_version": "1.382",
-    "app_commit": "cb96c7b53b1ea9224fb9feceb74a102b2ed17935",
-    "pages_run": 43856987858,
-    "live_sha256": "a0f9f23e9b60ac4979765c60f7d72ce0e98db7a388cfe2faba250d274266bd9b",
-    "browser": "MA-070/077 live in both GS grades; MA-077 mobile320/390 passed"
+    "batch": "MA-073",
+    "status": "pending",
+    "app_version": "1.383",
+    "previous_verified_version": "1.382"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

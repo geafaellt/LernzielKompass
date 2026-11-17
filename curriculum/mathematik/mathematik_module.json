@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-16.4",
-  "checked_on": "2026-11-16",
+  "version": "MA-2026-11-17.1",
+  "checked_on": "2026-11-17",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1345,6 +1345,18 @@
       "id": "Q-MA-page912_187139",
       "title": "GS Mathematik 1/2 · Lernbereich 3: Größen und Messen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187139",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1959",
+      "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1959",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_1960",
+      "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_1960",
       "version": "2026"
     }
   ],
@@ -7636,6 +7648,86 @@
         ],
         "context_only_gs_ids": [
           "page912_187123"
+        ]
+      }
+    },
+    {
+      "id": "MA-079",
+      "subject": "Mathematik",
+      "theme": "Anzahldaten im Naturkontext erfassen und ordnen",
+      "app_area": "MA-page912_1755",
+      "status": "Begrenzter Anschluss · Anzahldaten · stufenbandpassend",
+      "gs_anchor": "GS Mathematik Kl.1/2 · Lernbereich4: Daten und Zufall · Sammeln und Ordnen1960 unter Kennen1959",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.1/2 · Lernbereich3: Natur entdecken und erleben · Umweltdaten37959, Abzählen37944 und Zahlenordnen37956 unter Beherrschen37931",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Kennen · FSP: Beherrschen. Stufenbandpassender Teilanschluss GS1/2 → FSP1/2: Anzahldaten zu geklärten Bezugsgruppen im Naturkontext erfassen und nach ihrer Zahlengröße ordnen. GS1960 steht unter Kennen1959. FSP37959 belegt Herausfinden von Umweltdaten,37944 das Abzählen und37956 Zahlenordnen mit Vergleichszeichen unter Beherrschen37931. Ihre Verbindung zu einem begrenzten Anzahldatensatz ist didaktisch konkretisiert. Die FSP-Zielzeilen nennen keine eigene Obergrenze; bis20 wird aus dem übergreifenden Stufenbandziel37739 didaktisch abgeleitet. Die GS-Datenzeile nennt ebenfalls keine eigene Zahlenraumobergrenze; die allgemeine GS-Zahlgrenze100 wird ihr nicht als spezielle Datengrenze zugeschrieben. Keine vollständige GS-Zieldeckung: andere Datenarten, eigene Erhebungsfragen, Umfragen, Strichlisten, Tabellen und Diagramme sind nicht mitabgedeckt.",
+      "gs_target_ids": [
+        "page912_1959",
+        "page912_1960"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37944",
+        "page139_37956",
+        "page139_37959"
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "source_ids": [
+        "Q-MA-page912_1959",
+        "Q-MA-page912_1960",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37944",
+        "Q-MA-page139_37956",
+        "Q-MA-page139_37959",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS1/2 → FSP1/2: Anzahldaten zu geklärten Bezugsgruppen im Naturkontext erfassen und nach ihrer Zahlengröße ordnen. GS1960 steht unter Kennen1959. FSP37959 belegt Herausfinden von Umweltdaten,37944 das Abzählen und37956 Zahlenordnen mit Vergleichszeichen unter Beherrschen37931. Ihre Verbindung zu einem begrenzten Anzahldatensatz ist didaktisch konkretisiert. Die FSP-Zielzeilen nennen keine eigene Obergrenze; bis20 wird aus dem übergreifenden Stufenbandziel37739 didaktisch abgeleitet. Die GS-Datenzeile nennt ebenfalls keine eigene Zahlenraumobergrenze; die allgemeine GS-Zahlgrenze100 wird ihr nicht als spezielle Datengrenze zugeschrieben. Keine vollständige GS-Zieldeckung: andere Datenarten, eigene Erhebungsfragen, Umfragen, Strichlisten, Tabellen und Diagramme sind nicht mitabgedeckt.",
+      "shared_object_suggestion": "Anzahlen zu bekannten Bezugsgruppen und ihre Reihenfolge nach der Zahlengröße.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erfasst zu geklärten Bezugsgruppen passende Anzahldaten und ordnet die zugehörigen Zahlen der Größe nach.",
+          "criterion": "Die Anzahlen stimmen mit den jeweiligen Bezugsgruppen überein; beim Ordnen bleibt jede Anzahl ihrer Gruppe zugeordnet. Die Reihenfolge passt zur geklärten Ordnungsrichtung; gleiche Anzahlen werden als gleich erkannt. Erhebungsumfang und Zahlenraum sind zuvor festgelegt. Es wird keine eigene Erhebungsfrage oder bestimmte Tabellen-/Diagrammform vorausgesetzt.",
+          "status": "Didaktischer Teilbereich von1960 unter Kennen1959: quantitative Anzahldaten, nicht alle Datenarten oder Erhebungsverfahren."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erfasst sicher Anzahldaten bis 20 zu geklärten Bezugsgruppen im Naturkontext und ordnet die Zahlen der Größe nach mit passenden Vergleichszeichen.",
+          "criterion": "Die Anzahlen stimmen mit ihren Bezugsgruppen überein und bleiben ihnen beim Ordnen zugeordnet. Reihenfolge und verwendete Zeichen <, > oder = passen zu den Anzahlen. Alle Anzahlwerte, der gesamte vereinbarte Erhebungsumfang und relevante Zwischen- und Endwerte bleiben bis 20. Eine zusätzliche Summenberechnung, eigene Erhebungsfrage oder Tabellen-/Diagrammerstellung wird nicht verlangt.",
+          "scope_status": "derived",
+          "range_max": 20,
+          "status": "Didaktische Verbindung von37959,37944 und37956 unter Beherrschen37931. Begrenzung bis20 einschließlich Erhebungsumfang aus übergreifendem Stufenbandziel37739 abgeleitet, nicht aus einer eigenen Datengrenze."
+        }
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Anzahldaten bis20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "37959,37944 und37956 nennen keine eigene maximale Datenanzahl oder Zahlenraumobergrenze. Das übergreifende Bandziel37739 nennt Zahlaufbau bis20. Dieser Rahmen wird auf das Feinziel angewandt; der Erhebungsumfang wird zusätzlich didaktisch so begrenzt, dass auch relevante Zwischen- und Endwerte darin bleiben.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739",
+          "Q-MA-page139_37959"
+        ],
+        "planning_rule": "Bezugsgruppen, Erhebungsumfang und Ordnungsrichtung vorher klären. Nur Anzahlen im Naturkontext; gesamte vereinbarte Erhebung höchstens20 Objekte, alle Anzahlwerte und relevanten Zwischen-/Endwerte bis20. Zuordnung von Bezugsgruppe und Anzahl auch beim Ordnen erhalten; gleiche Werte zulassen. Keine Summenberechnung hinzufügen. Busliniennummern, Kalenderzahlen oder andere Zahlencodes nicht als Häufigkeiten behandeln. Keine Tabellen-, Diagramm-, Umfrage- oder Strichlistenerstellung voraussetzen. Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest; zusätzliche Anforderungen und eigene Freitexte sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "1960 ist Unterziel unter Kennen1959. Umfragen, Strichlisten und Schaubilder stehen in der Bemerkung und sind nicht Teil dieser Karte.1959 nur Kontext.",
+        "fsp": "Herausfinden von Daten, Abzählen und Zahlenordnen mit Zeichen sind verbindliche Ziele unter Beherrschen37931. Der begrenzte Anzahldatensatz ist eine didaktische Verbindung dieser Ziele, keine wortgleiche amtliche Statistikaufgabe. Zahlenrahmen20 stammt getrennt aus den übergreifenden Zielen.",
+        "fsp_remark_anchors": [],
+        "context_only_gs_ids": [
+          "page912_1959"
         ]
       }
     }

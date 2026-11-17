@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-072
+# Mathematik-Abgleich · MA-073
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Achtundsiebzig Karten dokumentieren begrenzte Anschlüsse. Zweiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Neunundsiebzig Karten dokumentieren begrenzte Anschlüsse. Dreiundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Daten sammeln und darstellen1959 mit1960–1963. Diese fünf Zeilen sind nur inventarisiert. [MA-072](review_batch_072.json) verknüpft Zeit-Fachbegriffe187139 mit MA-070/077; keine neue Karte.78 Karten,16 Anschlussfragen,138 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Tabellen1961, danach Diagramme1962 und Fachbegriffe1963. [MA-073](review_batch_073.json) ergänzt MA-079: Anzahldaten im Naturkontext erfassen und numerisch ordnen.1960 teilweise geprüft,1959 nur Kontext.79 Karten,16 Anschlussfragen,138 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -761,3 +761,10 @@ Keine maximale Dauer belegt; Zahlenraum vorab festlegen und alle Anfangs-/End-/Z
 Zeit-Fachbegriffe187139 teilweise an zwei bestehende Karten angebunden: MA-077 verwendet Stunde(h)/Minute(min) im belegten Wertepaar1h=60min; MA-070 länger/kürzer als didaktische Vergleichssprache zu35552. Keine neue Karte oder vollständige Fachbegriffsliste. Stufengleiche Tages-/Wochen-, Ereignis-, Uhr- und Kalenderbezüge geprüft und als positive weitere Kandidaten dokumentiert. Übrige Begriffe bleiben offen.
 
 Alle78 Feinziele, Kriterien, Geltungsbereiche und gemeinsamen Lerngegenstände bleiben unverändert;76 Karten vollständig unverändert.78 Karten(52 passend,26 stufenübergreifend),206 Quellen,204 Zielanker,16 Anschlussfragen,fünf Nichtanschlussentscheidungen. Fünf weitere Zeilen1959–1963 nur inventarisiert, kein fachlicher Fortschritt dafür:138 Inventurzeilen. Der bisherige Bestand ist weiterhin eine Teilinventur, kein Gesamtabschluss. Daten-, Zahlenraum- und Bestandsschutzprüfungen bestanden. MA-070/077 lokal in beiden GS-Jahrgängen geprüft; MA-077 zusätzlich bei320px/390px. Keine vollständige78-Karten-Browserprüfung behauptet. Veröffentlicht mit Commit cb96c7b53b1ea9224fb9feceb74a102b2ed17935 und erfolgreichem [Pages-Lauf 43856987858](https://github.com/geafaellt/LernzielKompass/actions/runs/43856987858). App1.382 live bytegleich bestätigt(SHA256 a0f9f23e9b60ac4979765c60f7d72ce0e98db7a388cfe2faba250d274266bd9b). MA-070/077 öffentlich in beiden GS-Jahrgängen geprüft; MA-077 zusätzlich bei320px/390px. Kein vollständiger78-Karten-Livedurchlauf behauptet.
+
+
+## MA-073 · App 1.383 · 17.11.2026
+
+MA-079 verbindet GS1960 unter Kennen1959 mit FSP1/2-Umweltdaten37959, Abzählen37944 und Zahlenordnen37956 unter Beherrschen37931. Gewählt ist ein Anzahldatensatz zu geklärten Bezugsgruppen im Naturkontext. Diese Verbindung ist didaktisch, keine wortgleiche amtliche Statistikaufgabe. Stufengleicher Anschluss wird gegenüber den geprüften3/4-Kandidaten bevorzugt.
+
+Bis20 stammt aus übergreifendem Bandziel37739, nicht aus der Datenzielzeile. Erhebungsumfang und alle Anzahl-/Zwischen-/Endwerte bleiben darin. GS-Datenzeile ohne eigene numerische Obergrenze. Andere Datenarten, eigene Erhebungsfragen, Kategorienbildung und die Bemerkungsbeispiele Umfragen/Strichlisten/Schaubilder bleiben offen; Tabellen und Diagramme gesondert weiter prüfen.78 Bestandskarten unverändert.79 Karten(53 passend,26 stufenübergreifend),208 Quellen,206 Zielanker,138 Inventurzeilen,16 Anschlussfragen,fünf Nichtanschlussentscheidungen. Alle sechs vorgeschriebenen Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-010, MA-013 und MA-079 in beiden GS-Jahrgängen bestanden; neue Karte zusätzlich bei320px/390px geprüft.78 Bestandskarten,206 bestehende Quellen und alle16 Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger79-Karten-Browserlauf behauptet. Veröffentlichung und öffentliche Prüfung noch ausstehend.
