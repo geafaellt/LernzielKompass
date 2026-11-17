@@ -2640,7 +2640,7 @@
     }
   },
   "next_id": "page912_1961",
-  "next_step": "GS1/2 Erstellen und Ausfüllen von Tabellen1961 gegen FSP1/2 und3/4 prüfen; danach Diagramme1962 und Fachbegriffe1963.1959 bleibt Hauptzielkontext,1960 ist durch MA-079 nur teilweise geprüft.79 Karten(53 passend,26 stufenübergreifend),16 Anschlussfragen,138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Alle älteren Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS1/2 Erstellen und Ausfüllen von Tabellen1961 gegen FSP1/2 und3/4 prüfen; danach Diagramme1962 und Fachbegriffe1963.1959 bleibt Hauptzielkontext,1960 ist durch MA-079 nur teilweise geprüft.79 Karten(53 passend,26 stufenübergreifend),16 Anschlussfragen,138 Inventurzeilen und fünf Nichtanschlussentscheidungen. Alle älteren Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.383 veröffentlicht und live geprüft; Nachweise in MA-073.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3934,9 +3934,12 @@
   },
   "latest_publication": {
     "batch": "MA-073",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.383",
-    "previous_verified_version": "1.382"
+    "app_commit": "bc53d1d1e41438922ca47e8044d6c90a8c3309e5",
+    "pages_run": 44033639964,
+    "live_sha256": "2d2a2c112a536036b944cb6d0a39e6783a8b1b18773c095636a36c8cb317e517",
+    "browser": "MA-079 live in both GS grades and mobile320/390 passed; three related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-064",

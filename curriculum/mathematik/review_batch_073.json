@@ -216,11 +216,19 @@
     },
     "baseline": "Nine normalized baseline files matched the remote tree81dc8a2233e7ed0052783638963e635b9b6f494e; remote main remained2bde033fe60605324b55154824e74dbd97dcc54d before preparation.",
     "initial_check_correction": "Preservation assertion initially omitted the human-readable update-date change from16.11.2026 to17.11.2026. Diff confirmed only this date plus version and mathematics payload; assertion corrected and passed. No product-code correction required.",
-    "browser_live": "pending"
+    "browser_live": "Passed MA-079 in both GS grades, including exact goal/criterion adoption, source links, visible scope, empty task/aid fields, preserved teacher drafts, subject isolation and reload. Direct320px/390px checks passed. No full79-card public run claimed; three related cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.383",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "bc53d1d1e41438922ca47e8044d6c90a8c3309e5",
+    "pages_run": 44033639964,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44033639964",
+    "pages_conclusion": "success",
+    "live_app_version": "1.383",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "2d2a2c112a536036b944cb6d0a39e6783a8b1b18773c095636a36c8cb317e517",
+    "verified_at": "2026-11-17T06:47:44.563925+00:00"
   }
 }
