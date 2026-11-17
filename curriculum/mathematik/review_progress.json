@@ -2692,7 +2692,7 @@
     }
   },
   "next_id": "page912_187143",
-  "next_step": "GS 1/2 Einblick in kombinatorische Denkweisen 187143 mit Finden/Darstellen von Kombinationen 187144, Beschreiben eigener Lösungswege 187145 und Fachbegriff Kombination 187146 gegen beide FSP-Bänder prüfen. Diese vier Zeilen sind nur inventarisiert, nicht fachlich geprüft. 187142 durch MA-082 teilweise geprüft; weitere Datenarten und Diagramme bleiben offen. 82 Karten (56 passend, 26 stufenübergreifend), 18 Anschlussfragen, 145 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Anschlussfragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS 1/2 Einblick in kombinatorische Denkweisen 187143 mit Finden/Darstellen von Kombinationen 187144, Beschreiben eigener Lösungswege 187145 und Fachbegriff Kombination 187146 gegen beide FSP-Bänder prüfen. Diese vier Zeilen sind nur inventarisiert, nicht fachlich geprüft. 187142 durch MA-082 teilweise geprüft; weitere Datenarten und Diagramme bleiben offen. 82 Karten (56 passend, 26 stufenübergreifend), 18 Anschlussfragen, 145 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Anschlussfragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.386 veröffentlicht und live geprüft; Nachweise in MA-077.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4088,9 +4088,12 @@
   },
   "latest_publication": {
     "batch": "MA-077",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.386",
-    "previous_verified_version": "1.385"
+    "app_commit": "f23a9ab2169a650f7fd98db996098a6ac8711d58",
+    "pages_run": 44060204640,
+    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+    "browser": "MA-082 live in both GS grades and mobile320/390 passed; four related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-075",

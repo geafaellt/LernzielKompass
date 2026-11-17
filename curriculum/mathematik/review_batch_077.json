@@ -323,11 +323,19 @@
       "html_blob_sha": "610cb96f72d47d456271471bafd4cdcbcde0e3ef"
     },
     "baseline": "Twelve baseline files matched remote tree 7233237e1ec094c71fa662aae65822980e9880f5; CSV newline conventions accounted for. Base commit ace402a6b40c61ded1e1af5857ec462b55b76672.",
-    "browser_live": "pending"
+    "browser_live": "Passed MA-082 in both GS grades, including exact goal/criterion adoption, source links, visible scope, empty task/aid fields, preserved teacher drafts, subject isolation and reload. Direct320px/390px checks passed. No full82-card public run claimed; four related cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.386",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "f23a9ab2169a650f7fd98db996098a6ac8711d58",
+    "pages_run": 44060204640,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44060204640",
+    "pages_conclusion": "success",
+    "live_app_version": "1.386",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+    "verified_at": "2026-11-17T09:58:33.922682+00:00"
   }
 }
