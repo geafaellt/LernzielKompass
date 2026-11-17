@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-077",
+  "last_batch": "MA-078",
   "complete": false,
   "counts": {
     "cards": 82,
@@ -2691,8 +2691,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_187143",
-  "next_step": "GS 1/2 Einblick in kombinatorische Denkweisen 187143 mit Finden/Darstellen von Kombinationen 187144, Beschreiben eigener Lösungswege 187145 und Fachbegriff Kombination 187146 gegen beide FSP-Bänder prüfen. Diese vier Zeilen sind nur inventarisiert, nicht fachlich geprüft. 187142 durch MA-082 teilweise geprüft; weitere Datenarten und Diagramme bleiben offen. 82 Karten (56 passend, 26 stufenübergreifend), 18 Anschlussfragen, 145 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Anschlussfragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.386 veröffentlicht und live geprüft; Nachweise in MA-077.",
+  "next_id": "page912_187147",
+  "next_step": "GS 1/2 Einblick in Zufallsexperimente 187147 mit Durchführen 187148, eindeutigen Schlüssen 187149 und Begriffen 187150 gegen beide FSP-Bänder prüfen. Diese vier Zeilen nur inventarisiert, nicht fachlich geprüft. Kombinatorik-Unterziele 187144–187146 einzeln untersucht, drei konkrete Anschlussfragen offen; keine Karte und kein pauschaler Nichtanschluss. 82 Karten (56 passend, 26 stufenübergreifend), 21 Anschlussfragen, 149 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2981,7 +2981,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_077.json",
+  "last_review_file": "review_batch_078.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3276,6 +3276,117 @@
         "Spalte, Zeile, Zelle, Kopfspalte, Kopfzeile: Strukturelemente verstehen und bezeichnen getrennt vom Ausfüllen bereits geklärter Felder prüfen.",
         "Säulendiagramm, Balkendiagramm, Achse: an die noch offene Inhaltsprüfung 1962 anbinden; Achse im Diagrammsinn von Spiegelachse unterscheiden.",
         "Keine numerische Grenze für ein reines Benennungsziel erfinden; falls an eine Zahlenkarte angeknüpft, deren vorhandenen Geltungsbereich erhalten."
+      ]
+    },
+    {
+      "gs_id": "page912_187144",
+      "scope": "Finden und Darstellen von Kombinationen: Abgrenzung gegenüber Musterbildung, Reihung und geometrischem Probieren",
+      "status": "offen",
+      "reason": "FSP 1/2 nennt Figuren-/Musterbildung 37844, Musterentwicklung mit mehreren Merkmalen 37984 sowie Reihungen 38016. Diese positiven Bezüge erfassen Gestaltung und Regelhaftigkeit, verlangen aber nicht ohne weitere Konkretisierung das Finden verschiedener zulässiger Auswahlen oder Anordnungen unter gemeinsamen Bedingungen. Knobelstrategien 38021/38022/38037 im Wahlbereich 4 tragen Probieren und bildliches Festhalten; die Bemerkung Tangram konkretisiert geometrisches Probehandeln. FSP 3/4 nennt Probieren 35577 unter Kennen 35571 im Wahlbereich 2 sowie Musterbildung 35535 unter Gestalten 35521. Noch offen ist, ob daraus ein eng begrenzter kombinatorischer Fall mit unterscheidbaren zulässigen Möglichkeiten fachlich getragen werden kann. Nur die fehlende Forderung nach allen Kombinationen wäre kein Ausschluss eines Teilanschlusses. Geordnete Listen und Tabellen sind GS-Bemerkungen zu 187144, keine FSP-Aufzählungsforderung.",
+      "candidate_ids": [
+        "page139_37821",
+        "page139_37844",
+        "page139_37981",
+        "page139_37984",
+        "page139_38011",
+        "page139_38015",
+        "page139_38016",
+        "page139_38021",
+        "page139_38022",
+        "page139_38037",
+        "page139_37896",
+        "page139_37908",
+        "page139_35521",
+        "page139_35535",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580",
+        "page139_35504",
+        "page139_35509",
+        "page139_35510",
+        "page139_37739",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_078.json",
+      "follow_up_checks": [
+        "Prüfen, ob 38021/38022/38037 einen begrenzten kombinatorischen Ausschnitt als didaktische Auswahl trägt. Zulässigkeitsbedingungen, Unterscheidbarkeit von Möglichkeiten und Darstellungsbezug festhalten; keine konkreten Aufgaben, Lernhandlungen oder Hilfsmittel vorgeben.",
+        "Einzelne verschiedene Möglichkeiten von vollständiger Aufzählung trennen; Wiederholung und Reihenfolge nur bei fachlich benötigtem, geklärtem Modell festlegen. Keine pauschale Permutations-/Produktregel unterstellen.",
+        "Musterfortsetzung oder eine einzige passende geometrische Zielform nicht ohne Begründung als Finden mehrerer Kombinationen zählen. Wahlbereichsvoraussetzung beider Bänder bewahren."
+      ]
+    },
+    {
+      "gs_id": "page912_187145",
+      "scope": "Beschreiben eigener kombinatorischer Lösungswege; mögliche Wiederverwendung von MA-055 erst nach Inhaltsprüfung",
+      "status": "offen",
+      "reason": "FSP 3/4 nennt Beschreiben eigener Lösungswege ausdrücklich in 35580 unter Kennen 35571 im Wahlbereich 2: Zahlenzauberei. Stufengleich tragen 38021/38022 im Wahlbereich 4 und das übergreifende Sprachziel 37739 bereits den geometrischen Probierweg auf MA-055. Der GS-Unterpunkt 187145 steht jedoch im Hauptziel kombinatorische Denkweisen 187143. Ein geometrisches Verändern bis zur passenden Zielform oder das Beschreiben eines Rechenweges belegt nicht automatisch das Beschreiben eines kombinatorischen Suchweges. Zuerst den inhaltlichen Ausschnitt zu 187144 sichern, danach dessen Beschreibung gesondert zuordnen. Der ausdrücklichere 3/4-Sprachbeleg rechtfertigt allein keine Stufenüberschreitung; stufengleicher unterstützter Sprachanschluss bleibt bevorzugt zu prüfen.",
+      "candidate_ids": [
+        "page139_37821",
+        "page139_37844",
+        "page139_37981",
+        "page139_37984",
+        "page139_38011",
+        "page139_38015",
+        "page139_38016",
+        "page139_38021",
+        "page139_38022",
+        "page139_38037",
+        "page139_37896",
+        "page139_37908",
+        "page139_35521",
+        "page139_35535",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580",
+        "page139_35504",
+        "page139_35509",
+        "page139_35510",
+        "page139_37739",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_078.json",
+      "follow_up_checks": [
+        "Zuerst einen belegten kombinatorischen Gegenstand bestimmen. Ein allgemeines Sprachziel ersetzt den Inhaltsbeleg nicht.",
+        "MA-055 nur wiederverwenden, wenn ihr geometrischer Probierweg tatsächlich den neu belegten kombinatorischen Ausschnitt erfasst. Vorhandene nichtnumerische Grenze und Wahlbereichsvoraussetzung bewahren; keine neue Karte für denselben Ausschnitt.",
+        "FSP 1/2 unterstützte Sprachbegleitung aus 37739 von ausdrücklichem Beschreiben in FSP 3/4 35580 unterscheiden; Operatoren Einblick gewinnen und Kennen nicht vermischen."
+      ]
+    },
+    {
+      "gs_id": "page912_187146",
+      "scope": "Aktive Verwendung des Fachbegriffs Kombination auf Basis eines belegten Inhaltsanschlusses",
+      "status": "offen",
+      "reason": "Der Begriff Kombination ist im GS-Unterziel 187146 aktiv zu verwenden. Frühe FSP-Belege zu Mustern, Reihungen und Knobelstrategien liefern verwandte Inhalte, jedoch noch keinen gesicherten Begriffsbezug auf einen geprüften kombinatorischen Ausschnitt. Bandziel 37739 unterstützt sprachliche Begleitung geometrischer und arithmetischer Lösungswege. Bandziel 35415 nennt Beschreiben mathematischer Sachverhalte; sein Fachwortverständnis ist auf Grundrechenarten und bekannte geometrische Objekte bezogen. Daraus folgt nicht ungeprüft die aktive Verwendung des kombinatorischen Fachbegriffs. Fehlender identischer Wortlaut allein ist kein Nichtanschluss: Nach gesichertem Inhaltsanschluss ist ein didaktisch ausgewählter Benennungsanschluss zu prüfen.",
+      "candidate_ids": [
+        "page139_37821",
+        "page139_37844",
+        "page139_37981",
+        "page139_37984",
+        "page139_38011",
+        "page139_38015",
+        "page139_38016",
+        "page139_38021",
+        "page139_38022",
+        "page139_38037",
+        "page139_37896",
+        "page139_37908",
+        "page139_35521",
+        "page139_35535",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580",
+        "page139_35504",
+        "page139_35509",
+        "page139_35510",
+        "page139_37739",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_078.json",
+      "follow_up_checks": [
+        "Inhaltsprüfung 187144 abwarten; anschließend das Benennen einer konkreten zulässigen Kombination von allgemeinem Kombinieren und Musterbildung abgrenzen.",
+        "Übergreifende Sprachziele als solche ausweisen, kein erfundener Benennungsoperator in 38022 oder 35577.",
+        "Für rein sprachliche oder nichtnumerische Konkretisierung keine Zahlgrenze erfinden. Bei Anzahlermittlung Ausgangsmenge, mögliche Ergebnisse und Zwischenwerte gesondert prüfen."
       ]
     }
   ],
@@ -3829,10 +3940,11 @@
       "page912_187123",
       "page912_1959",
       "page912_187140",
-      "page912_187143"
+      "page912_187143",
+      "page912_187147"
     ],
-    "rows": 145,
-    "note": "141 bisherige Zeilen erhalten; vier kombinatorische Zeilen 187143–187146 ausschließlich inventarisiert. MA-077 prüft 187142 teilweise; 187140 nur Hauptzielkontext. Fortsetzung 187143 offen.",
+    "rows": 149,
+    "note": "145 bisherige Zeilen erhalten. Kombinatorik-Unterziele 187144–187146 in MA-078 einzeln untersucht, drei Anschlussfragen offen; 187143 nur Hauptzielkontext. Vier Zufallszeilen 187147–187150 ausschließlich inventarisiert.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4096,14 +4208,19 @@
     "browser": "MA-082 live in both GS grades and mobile320/390 passed; four related cards local"
   },
   "latest_audit_publication": {
-    "batch": "MA-075",
-    "status": "verified",
-    "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-    "pages_run": 44042551050,
-    "app_unchanged": true,
-    "app_version": "1.384",
-    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-    "verified_at": "2026-11-17T07:57:40.479941+00:00"
+    "batch": "MA-078",
+    "status": "pending",
+    "app_version_unchanged": "1.386",
+    "previous_audit_publication": {
+      "batch": "MA-075",
+      "status": "verified",
+      "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+      "pages_run": 44042551050,
+      "app_unchanged": true,
+      "app_version": "1.384",
+      "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+      "verified_at": "2026-11-17T07:57:40.479941+00:00"
+    }
   },
   "continuation_correction": {
     "batch": "MA-067",
