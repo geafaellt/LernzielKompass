@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-076",
+  "last_batch": "MA-077",
   "complete": false,
   "counts": {
-    "cards": 81,
+    "cards": 82,
     "cross_band": 26
   },
   "source_plans": {
@@ -2676,10 +2676,23 @@
       "area": "Lernbereich 4: Daten und Zufall",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187142": {
+      "id": "page912_187142",
+      "level": 2,
+      "parent_target_id": "page912_187140",
+      "target": "Vergleichen von Werten innerhalb einer Tabelle oder eines Diagramms",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187142",
+      "grade": "1/2",
+      "area_id": "MA-page912_1755",
+      "area": "Lernbereich 4: Daten und Zufall",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187142",
-  "next_step": "GS 1/2 Vergleichen von Werten innerhalb einer Tabelle oder eines Diagramms 187142 unter Einblick gewinnen 187140 gegen beide FSP-Bänder prüfen. 187141 ist durch MA-081 nur für Anzahlangaben einer einfachen Sachaufgabentabelle teilweise geprüft; Schaubilder und weitere Datenarten bleiben offen. 81 Karten (55 passend, 26 stufenübergreifend), 18 Anschlussfragen, 141 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.385 veröffentlicht und live geprüft; Nachweise in MA-076.",
+  "next_id": "page912_187143",
+  "next_step": "GS 1/2 Einblick in kombinatorische Denkweisen 187143 mit Finden/Darstellen von Kombinationen 187144, Beschreiben eigener Lösungswege 187145 und Fachbegriff Kombination 187146 gegen beide FSP-Bänder prüfen. Diese vier Zeilen sind nur inventarisiert, nicht fachlich geprüft. 187142 durch MA-082 teilweise geprüft; weitere Datenarten und Diagramme bleiben offen. 82 Karten (56 passend, 26 stufenübergreifend), 18 Anschlussfragen, 145 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Anschlussfragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2968,7 +2981,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_076.json",
+  "last_review_file": "review_batch_077.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3786,6 +3799,12 @@
       "scope": "Andere Datenarten und Einheiten, komplexere Tabellenstrukturen sowie Werteentnahme aus Schaubildern einschließlich Diagrammskalen bleiben offen. MA-081 nur bereits eingetragene Anzahlen in einer überschaubaren additiven Sachaufgabentabelle mit geklärten Überschriften. Keine allgemeine Tabellen-/Diagrammlesekompetenz und keine Wertevergleichsdeckung.",
       "status": "offen",
       "review": "MA-076"
+    },
+    {
+      "gs_id": "page912_187142",
+      "scope": "Andere Datenarten und Einheiten, unbekannte oder erst zu ermittelnde Vergleichswerte, komplexere Tabellen und Diagramme einschließlich Skaleninterpretation bleiben offen. MA-082 nur bekannte ganze Anzahlen im Naturkontext mit geklärter Tabellenbedeutung. Keine Differenzberechnung, allgemeine Tabellenlesekompetenz oder vollständige GS-Zieldeckung.",
+      "status": "offen",
+      "review": "MA-077"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3809,10 +3828,11 @@
       "page912_1922",
       "page912_187123",
       "page912_1959",
-      "page912_187140"
+      "page912_187140",
+      "page912_187143"
     ],
-    "rows": 141,
-    "note": "141 Zeilen erhalten. MA-076 prüft 187141 teilweise; 187140 ist nur Hauptzielkontext. Fortsetzung 187142, noch offen.",
+    "rows": 145,
+    "note": "141 bisherige Zeilen erhalten; vier kombinatorische Zeilen 187143–187146 ausschließlich inventarisiert. MA-077 prüft 187142 teilweise; 187140 nur Hauptzielkontext. Fortsetzung 187143 offen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4040,6 +4060,13 @@
         "MA-081": "derived"
       },
       "note": "Bis 20 aus 37739 didaktisch abgeleitet. Alle Tabellenwerte, Teil-/Gesamtanzahlen und relevanten Zwischen-/Endwerte begrenzt; keine eigene Zielzeilen-Obergrenze. Alle 80 Bestandskarten unverändert."
+    },
+    "follow_up_table_comparison": {
+      "batch": "MA-077",
+      "cards": {
+        "MA-082": "derived"
+      },
+      "note": "Bis 20 aus Zahlaufbauziel 37739 didaktisch abgeleitet. Alle Tabellen- und Vergleichswerte einschließlich relevanter Zwischen-/Endwerte begrenzt. GS bis 20 didaktisch gewählt; keine eigene Obergrenze beider Datenzielzeilen. Alle 81 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4060,13 +4087,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-076",
-    "status": "verified",
-    "app_version": "1.385",
-    "app_commit": "1112a9c1bf2b4d841ec71ae6fb56996410030856",
-    "pages_run": 44058005862,
-    "live_sha256": "6855a873d1a06c46022e8130d244de14e735f631a1c35382b9daab8b01f9d240",
-    "browser": "MA-081 live in both GS grades and mobile320/390 passed; four related cards local"
+    "batch": "MA-077",
+    "status": "pending",
+    "app_version": "1.386",
+    "previous_verified_version": "1.385"
   },
   "latest_audit_publication": {
     "batch": "MA-075",

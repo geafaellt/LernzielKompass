@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-17.3",
+  "version": "MA-2026-11-17.4",
   "checked_on": "2026-11-17",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1375,6 +1375,12 @@
       "id": "Q-MA-page912_187141",
       "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187141",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187142",
+      "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187142",
       "version": "2026"
     }
   ],
@@ -7902,6 +7908,85 @@
         "fsp_remark_anchors": [
           "page139_37908"
         ],
+        "context_only_gs_ids": [
+          "page912_187140"
+        ]
+      }
+    },
+    {
+      "id": "MA-082",
+      "subject": "Mathematik",
+      "theme": "Bekannte Anzahlen in einer Tabelle vergleichen",
+      "app_area": "MA-page912_1755",
+      "status": "Begrenzter Anschluss · Anzahlvergleich · Tabellenform didaktisch",
+      "gs_anchor": "GS Mathematik Kl. 1/2 · Lernbereich 4: Daten und Zufall · Wertevergleich 187142 unter Einblick gewinnen 187140",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 3: Natur entdecken und erleben · Zahlenvergleich 37956 innerhalb Zahlbegriffsbildung 37937 und Umweltdaten deuten 37959 unter Beherrschen 37931",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Einblick gewinnen · FSP: Beherrschen. Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS 187142 steht unter Einblick gewinnen 187140; FSP Zahlenvergleich 37956 und Umweltdaten deuten 37959 stehen unter Beherrschen 37931, der Zahlenvergleich innerhalb der Zahlbegriffsbildung 37937. Zwei bereits bekannte Anzahlen zu geklärten Bezugsgruppen im Naturkontext werden in einer einfachen Tabelle verglichen. Die Tabellenform ist eine didaktische Auswahl zur Darstellung dieser Anzahldaten; sie steht nicht wörtlich in den gewählten FSP-Zeilen. Keine Beherrschen-Zuordnung aus dem anders gelagerten Tabellenbeispiel 37908 unter Einblick gewinnen. Keine vollständige GS-Zieldeckung und keine allgemeine FSP-Tabellen-/Diagrammlesekompetenz. Beide Datenzielzeilen nennen keine eigene Obergrenze. FSP bis 20 wird aus dem übergreifenden Zahlaufbauziel 37739 didaktisch abgeleitet; GS bis 20 ist hier didaktisch gewählt, keine amtliche GS-Datengrenze. Andere Datenarten, Einheiten, komplexere Tabellen und Diagramme bleiben offen.",
+      "gs_target_ids": [
+        "page912_187140",
+        "page912_187142"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37956",
+        "page139_37959"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187140",
+        "Q-MA-page912_187142",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37937",
+        "Q-MA-page139_37956",
+        "Q-MA-page139_37959",
+        "Q-MA-page139_37739"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "1/2",
+        "gs_curriculum_band": "1/2",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 1/2 → FSP 1/2. GS 187142 steht unter Einblick gewinnen 187140; FSP Zahlenvergleich 37956 und Umweltdaten deuten 37959 stehen unter Beherrschen 37931, der Zahlenvergleich innerhalb der Zahlbegriffsbildung 37937. Zwei bereits bekannte Anzahlen zu geklärten Bezugsgruppen im Naturkontext werden in einer einfachen Tabelle verglichen. Die Tabellenform ist eine didaktische Auswahl zur Darstellung dieser Anzahldaten; sie steht nicht wörtlich in den gewählten FSP-Zeilen. Keine Beherrschen-Zuordnung aus dem anders gelagerten Tabellenbeispiel 37908 unter Einblick gewinnen. Keine vollständige GS-Zieldeckung und keine allgemeine FSP-Tabellen-/Diagrammlesekompetenz. Beide Datenzielzeilen nennen keine eigene Obergrenze. FSP bis 20 wird aus dem übergreifenden Zahlaufbauziel 37739 didaktisch abgeleitet; GS bis 20 ist hier didaktisch gewählt, keine amtliche GS-Datengrenze. Andere Datenarten, Einheiten, komplexere Tabellen und Diagramme bleiben offen.",
+      "shared_object_suggestion": "Welche von zwei bekannten Bezugsgruppen mehr, weniger oder gleich viele Objekte umfasst – dargestellt durch ihre Anzahlen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt bei zwei bereits bekannten, in einer einfachen Tabelle enthaltenen Anzahlen im Naturkontext, welche Bezugsgruppe mehr, weniger oder gleich viele Objekte umfasst; der für dieses Feinziel gewählte Zahlenraum reicht bis 20.",
+          "criterion": "Die Vergleichsaussage stimmt mit den beiden Anzahlwerten überein. Jeder Wert bleibt seiner geklärten Bezugsgruppe zugeordnet; auch Gleichheit wird zutreffend erkannt. Sämtliche numerischen Tabelleneinträge und relevante Zwischen- und Endwerte bleiben bis 20. Es werden keine Differenzen oder Summen berechnet und keine Tabelle oder Diagrammstruktur hergestellt.",
+          "status": "Didaktischer Ausschnitt von Wertevergleich 187142 unter Einblick gewinnen 187140; einfache Tabelle mit bekannten Anzahlen. GS bis 20 didaktisch gewählt, keine eigene Obergrenze der Zielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht sicher zwei bekannte Anzahlen im Naturkontext bis 20 mit dem passenden Zeichen <, > oder = und deutet den Vergleich bezogen auf die zugehörigen Gruppen in einer einfachen Tabelle.",
+          "criterion": "Beide Anzahlwerte sind ihren geklärten Bezugsgruppen richtig zugeordnet. Das verwendete Vergleichszeichen und die Bedeutung mehr, weniger oder gleich viele stimmen überein. Sämtliche numerischen Tabelleneinträge, beide Vergleichswerte und relevante Zwischen- und Endwerte bleiben bis 20. Nur nichtnegative ganze Anzahlen mit gleichem Zählgegenstand; keine Differenz- oder Summenberechnung, eigenständige Datengewinnung oder Tabellenproduktion vorausgesetzt.",
+          "status": "Didaktische Verbindung von Zahlenvergleich 37956 und Umweltdaten deuten 37959 unter Beherrschen 37931; einfache Tabelle als didaktisch gewählte Darstellungsform, kein wörtliches FSP-Tabellenvergleichsziel. Zahlenrahmen aus Bandziel 37739 abgeleitet.",
+          "scope_status": "derived",
+          "range_max": 20
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_37739"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Anzahlvergleich bis 20 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "FSP 37956/37959 enthalten keine eigene Tabellenwert- oder Datenobergrenze. Bandziel 37739 belegt den Zahlaufbau bis 20. Dieser Rahmen wird didaktisch auf bekannte Anzahlen in einer einfachen Tabelle angewandt. GS 187142 ohne eigene Obergrenze; GS bis 20 ist hier didaktisch gewählt. Tabellenform und Umfang sind didaktische Konkretisierungen.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_37739"
+        ],
+        "planning_rule": "Bedeutung der Tabelle, Bezugsgruppen und Zählgegenstand müssen geklärt, beide Vergleichswerte bereits bekannt sein. Nur nichtnegative ganze Anzahlen mit gleichem Zählgegenstand; sämtliche numerischen Tabelleneinträge, beide Vergleichswerte und relevante Zwischen-/Endwerte bis 20. Vergleich mehr/weniger/gleich viele mit korrekter Zuordnung der Werte zu ihren Bezugsgruppen. Keine zusätzliche Differenz- oder Summenberechnung, keine eigenständige Erhebung, Tabellenproduktion oder Diagrammskala voraussetzen. Busliniennummern und andere Zahlencodes, Uhrzeiten, Messgrößen und Einheiten sind ausgeschlossen. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft; eigene Freitexte sind gesondert fachlich zu prüfen."
+      },
+      "evidence_classification": {
+        "gs": "187142 ist Unterziel unter Einblick gewinnen 187140. 187140 bleibt Hauptzielkontext; 187141 wird nicht erneut als geprüft gezählt.",
+        "fsp": "37956 ist ein Unterziel der Zahlbegriffsbildung 37937; 37959 ist das Umweltdatenziel. Beide gehören zu Beherrschen 37931. Vergleich und Datenbedeutung sind Zielinhalte; die einfache Tabelle ist didaktisch ausgewählte Darstellungsform, kein wörtliches Tabellenleseziel. Die Bemerkung 37908 unter Einblick gewinnen 37896 wird nicht mit Beherrschen vermischt.",
+        "fsp_remark_anchors": [],
         "context_only_gs_ids": [
           "page912_187140"
         ]

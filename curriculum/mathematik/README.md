@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-076
+# Mathematik-Abgleich · MA-077
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einundachtzig Karten dokumentieren begrenzte Anschlüsse. Fünfundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Zweiundachtzig Karten dokumentieren begrenzte Anschlüsse. Sechsundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Wertevergleichen 187142. [MA-076](review_batch_076.json) ergänzt MA-081: eine bereits eingetragene Anzahlangabe aus einer Sachaufgabentabelle entnehmen und sachlich zuordnen. 187141 teilweise geprüft, 187140 nur Kontext. 81 Karten, 18 Anschlussfragen und 141 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei kombinatorischen Denkweisen 187143. [MA-077](review_batch_077.json) ergänzt MA-082: zwei bekannte Anzahlen im Naturkontext in einer einfachen Tabelle vergleichen. 187142 teilweise geprüft, 187140 nur Kontext. 82 Karten, 18 Anschlussfragen und 145 Inventurzeilen; vier neue Inventurzeilen noch ungeprüft. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -791,3 +791,10 @@ Keine neue Karte, kein neuer Feinziel- oder Zahlenraumvorschlag. Alle 80 Karten,
 MA-081 verbindet GS-Werteentnahme 187141 mit FSP 1/2 wesentliche Angaben 37898 und der Tabellenbemerkung 37908. Beide Hauptoperatoren lauten Einblick gewinnen. Bereits eingetragene Teil-/Gesamtanzahlen werden einer einfachen Sachaufgabentabelle entnommen und mit ihrer Bedeutung zugeordnet. Die konkrete Tabellenform ist als didaktische Auswahl gekennzeichnet. Geprüfte 3/4-Kandidaten erfordern keine Stufenüberschreitung.
 
 FSP bis 20 ist aus dem übergreifenden Mengen-/Operationsziel abgeleitet, GS bis 20 didaktisch gewählt; beide Zielzeilen ohne eigene Obergrenze. Sämtliche Einträge, Teil-/Gesamtanzahlen und relevante Zwischen-/Endwerte bleiben darin. Kein zusätzlicher Rechen-, Vergleichs- oder Produktionsauftrag. Andere Datenarten, Schaubilder und komplexere Tabellen bleiben offen. Alle 80 Bestandskarten unverändert. Stand: 81 Karten (55 passend, 26 stufenübergreifend), 211 Quellen, 209 Zielanker, 141 Inventurzeilen, 18 Anschlussfragen und fünf Nichtanschlussentscheidungen. Alle sechs vorgeschriebenen Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-013, MA-029, MA-080 und MA-081 in beiden GS-Jahrgängen bestanden; neue Karte zusätzlich bei 320px/390px geprüft. 80 Bestandskarten, 209 bestehende Quellen und alle 18 Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger 81-Karten-Browserlauf behauptet. Veröffentlicht mit Commit 1112a9c1bf2b4d841ec71ae6fb56996410030856 und erfolgreichem [Pages-Lauf 44058005862](https://github.com/geafaellt/LernzielKompass/actions/runs/44058005862). App1.385 live bytegleich bestätigt(SHA256 6855a873d1a06c46022e8130d244de14e735f631a1c35382b9daab8b01f9d240). MA-081 öffentlich in beiden GS-Jahrgängen sowie bei320px/390px erfolgreich geprüft. Kein vollständiger81-Karten-Livedurchlauf behauptet.
+
+
+## MA-077 · App 1.386 · 17.11.2026
+
+MA-082 verbindet GS-Wertevergleich 187142 unter Einblick gewinnen 187140 mit FSP 1/2 Zahlenvergleich 37956 und Umweltdaten deuten 37959 unter Beherrschen 37931. Zwei bekannte Anzahlwerte bleiben ihren geklärten Bezugsgruppen im Naturkontext zugeordnet. Die einfache Tabelle ist ausdrücklich didaktische Darstellungswahl; keine wörtlich belegte allgemeine FSP-Tabellenlesekompetenz. Beide FSP-Bänder geprüft: stufengleich bevorzugt; der positive Tierwelt-Wahlbereich 3/4 mit Mengenvergleichen und Tabellen rechtfertigt hier keine notwendige Stufenüberschreitung.
+
+FSP bis 20 aus übergreifendem Zahlaufbauziel abgeleitet; GS bis 20 didaktisch gewählt. Beide Datenzielzeilen ohne eigene Obergrenze. Alle numerischen Tabelleneinträge und relevanten Zwischen-/Endwerte begrenzt. Diagramme, andere Datenarten und komplexere Tabellen bleiben offen. Keine Differenz-/Summenberechnung vorausgesetzt. 81 Bestandskarten unverändert. Stand: 82 Karten (56 passend, 26 stufenübergreifend), 212 Quellen, 210 Zielanker, 145 Inventurzeilen, 18 Anschlussfragen und fünf Nichtanschlussentscheidungen. Die kombinatorischen Zeilen 187143–187146 wurden nur inventarisiert. Alle sechs Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-013, MA-079, MA-081 und MA-082 in beiden GS-Jahrgängen bestanden; neue Karte zusätzlich bei 320px/390px geprüft. 81 Bestandskarten, 211 bestehende Quellen und alle 18 Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger 82-Karten-Browserlauf behauptet. Veröffentlichung und öffentliche Prüfung noch ausstehend.
