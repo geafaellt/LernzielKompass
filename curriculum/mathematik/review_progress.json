@@ -2679,7 +2679,7 @@
     }
   },
   "next_id": "page912_187142",
-  "next_step": "GS 1/2 Vergleichen von Werten innerhalb einer Tabelle oder eines Diagramms 187142 unter Einblick gewinnen 187140 gegen beide FSP-Bänder prüfen. 187141 ist durch MA-081 nur für Anzahlangaben einer einfachen Sachaufgabentabelle teilweise geprüft; Schaubilder und weitere Datenarten bleiben offen. 81 Karten (55 passend, 26 stufenübergreifend), 18 Anschlussfragen, 141 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS 1/2 Vergleichen von Werten innerhalb einer Tabelle oder eines Diagramms 187142 unter Einblick gewinnen 187140 gegen beide FSP-Bänder prüfen. 187141 ist durch MA-081 nur für Anzahlangaben einer einfachen Sachaufgabentabelle teilweise geprüft; Schaubilder und weitere Datenarten bleiben offen. 81 Karten (55 passend, 26 stufenübergreifend), 18 Anschlussfragen, 141 Inventurzeilen und fünf Nichtanschlussentscheidungen. Ältere Fragen, Restumfänge und Bestandskarten weiter prüfen; kein Gesamtabschluss. App1.385 veröffentlicht und live geprüft; Nachweise in MA-076.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4061,9 +4061,12 @@
   },
   "latest_publication": {
     "batch": "MA-076",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.385",
-    "previous_verified_version": "1.384"
+    "app_commit": "1112a9c1bf2b4d841ec71ae6fb56996410030856",
+    "pages_run": 44058005862,
+    "live_sha256": "6855a873d1a06c46022e8130d244de14e735f631a1c35382b9daab8b01f9d240",
+    "browser": "MA-081 live in both GS grades and mobile320/390 passed; four related cards local"
   },
   "latest_audit_publication": {
     "batch": "MA-075",
