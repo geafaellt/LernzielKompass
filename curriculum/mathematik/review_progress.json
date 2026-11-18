@@ -2744,7 +2744,7 @@
     }
   },
   "next_id": "page912_187153",
-  "next_step": "GS3 Würfelgebäude187153 und Bauplanbeziehung187154 als nächstes zusammen mit der offenen Frage187152 bearbeiten. FSP3/4 Hauptzeile35456 nennt keinen eigenen Operator; amtliche PDF-Tabellenstruktur vor Zuordnung klären, Anwenden35451 nicht ungeprüft erben. Beide FSP-Bänder prüfen.187151 nur im qualitativen Einkaufsweg-Ausschnitt durch MA-083 teilweise geprüft;2012 bleibt Hauptzielkontext.83 Karten(57 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen und7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge weiter prüfen; kein Gesamtabschluss.",
+  "next_step": "GS3 Würfelgebäude187153 und Bauplanbeziehung187154 als nächstes zusammen mit der offenen Frage187152 bearbeiten. FSP3/4 Hauptzeile35456 nennt keinen eigenen Operator; amtliche PDF-Tabellenstruktur vor Zuordnung klären, Anwenden35451 nicht ungeprüft erben. Beide FSP-Bänder prüfen.187151 nur im qualitativen Einkaufsweg-Ausschnitt durch MA-083 teilweise geprüft;2012 bleibt Hauptzielkontext.83 Karten(57 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen und7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge weiter prüfen; kein Gesamtabschluss. App1.387 veröffentlicht und live geprüft; Nachweise in MA-080.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4341,9 +4341,12 @@
   },
   "latest_publication": {
     "batch": "MA-080",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.387",
-    "previous_verified_version": "1.386"
+    "app_commit": "69a2fd06b22860f60c1cce25a22857e300b36f80",
+    "pages_run": 44227151149,
+    "live_sha256": "38e95339834c8ea5bb112acfb6045067d42f058add10987a2a139f22ff2b6c71",
+    "browser": "MA-083 live in GS3 and mobile320/390 passed; MA-001,MA-040,MA-083 local"
   },
   "latest_audit_publication": {
     "batch": "MA-079",

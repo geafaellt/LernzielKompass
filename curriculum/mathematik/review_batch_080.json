@@ -280,7 +280,7 @@
   },
   "continuation": "GS3 Würfelgebäude187153 und Bauplanbeziehung187154 als nächstes zusammen mit der offenen Frage187152 bearbeiten. FSP3/4 Hauptzeile35456 nennt keinen eigenen Operator; amtliche PDF-Tabellenstruktur vor Zuordnung klären, Anwenden35451 nicht ungeprüft erben. Beide FSP-Bänder prüfen.187151 nur im qualitativen Einkaufsweg-Ausschnitt durch MA-083 teilweise geprüft;2012 bleibt Hauptzielkontext.83 Karten(57 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen und7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge weiter prüfen; kein Gesamtabschluss.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -314,11 +314,19 @@
       "html_blob_sha": "d22844fa1bcbf3246e0190272d475b7830560f8c"
     },
     "baseline": "Twelve input files matched remote main ae25277e63ca927cd9c489f148f7b05ffc32bcec, tree fbc7fe466b936c0394a9d3c244256299a2951280; CSV newline conventions accounted for.",
-    "browser_live": "pending"
+    "browser_live": "Passed MA-083 in GS3, including exact goal/criterion adoption, source links, visible scope and elective notice, empty task/aid fields, preserved teacher drafts, subject isolation and reload. Direct320px/390px checks passed. No full83-card public run claimed; three cards tested locally."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.387",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "69a2fd06b22860f60c1cce25a22857e300b36f80",
+    "pages_run": 44227151149,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44227151149",
+    "pages_conclusion": "success",
+    "live_app_version": "1.387",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "38e95339834c8ea5bb112acfb6045067d42f058add10987a2a139f22ff2b6c71",
+    "verified_at": "2026-11-18T03:19:23.840773+00:00"
   }
 }
