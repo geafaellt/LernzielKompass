@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-17.4",
+  "version": "MA-2026-11-17.5",
   "checked_on": "2026-11-17",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1382,6 +1382,30 @@
       "title": "GS Mathematik 1/2 · Lernbereich 4: Daten und Zufall",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187142",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2012",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2012",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187151",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187151",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35554",
+      "title": "FSP Lernen Mathematik 3/4 · Wahlbereich 1: Einkaufsbummel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35563",
+      "title": "FSP Lernen Mathematik 3/4 · Wahlbereich 1: Einkaufsbummel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35563",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -7990,6 +8014,89 @@
         "context_only_gs_ids": [
           "page912_187140"
         ]
+      }
+    },
+    {
+      "id": "MA-083",
+      "subject": "Mathematik",
+      "theme": "Lagebeziehungen aus wechselnden Sichtweisen · Einkaufsweg",
+      "app_area": "MA-page912_1998",
+      "status": "Bedingter Teilanschluss · FSP-Wahlbereich erforderlich",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Perspektivenbezogene Lagebeschreibung187151 unter Übertragen2012",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Wahlbereich 1: Einkaufsbummel · Orientierung35563 unter Anwenden35554; Perspektivwechsel und Lagebeschreibung aus übergreifendem Ziel35415. Nur bei gewähltem FSP-Wahlbereich 1: Einkaufsbummel.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "GS: Übertragen · FSP: Anwenden. Nur bei gewähltem FSP-Wahlbereich 1: Einkaufsbummel. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4. GS Übertragen stammt aus 2012, FSP Anwenden aus 35554. Unterziel 35563 nennt Orientierung; Wege zu und in Einkaufseinrichtungen stehen in seiner Bemerkung. Das übergreifende Ziel 35415 belegt ausdrücklich gedanklich wechselnde Sichtweisen, vorgestellte Wege und das Beschreiben von Lagebeziehungen. Es bleibt als übergreifendes Ziel getrennt und liefert keinen zusätzlichen Hauptoperator. Didaktisch ausgewählter Ausschnitt: eine Lagebeziehung an einem vertrauten Einkaufsweg aus wechselnden, eindeutig bestimmten Sichtweisen beschreiben. Keine vollständige GS-Zieldeckung; keine allgemeine Karten-, Bauplan- oder Ansichtenkompetenz. Der qualitative Ausschnitt benötigt keinen Zahlenraum; die übergreifende Operationsgrenze bis 100 ist hierfür nicht maßgeblich.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187151"
+      ],
+      "fsp_target_ids": [
+        "page139_35554",
+        "page139_35563"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187151",
+        "Q-MA-page139_35554",
+        "Q-MA-page139_35563",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Nur bei gewähltem FSP-Wahlbereich 1: Einkaufsbummel. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4. GS Übertragen stammt aus 2012, FSP Anwenden aus 35554. Unterziel 35563 nennt Orientierung; Wege zu und in Einkaufseinrichtungen stehen in seiner Bemerkung. Das übergreifende Ziel 35415 belegt ausdrücklich gedanklich wechselnde Sichtweisen, vorgestellte Wege und das Beschreiben von Lagebeziehungen. Es bleibt als übergreifendes Ziel getrennt und liefert keinen zusätzlichen Hauptoperator. Didaktisch ausgewählter Ausschnitt: eine Lagebeziehung an einem vertrauten Einkaufsweg aus wechselnden, eindeutig bestimmten Sichtweisen beschreiben. Keine vollständige GS-Zieldeckung; keine allgemeine Karten-, Bauplan- oder Ansichtenkompetenz. Der qualitative Ausschnitt benötigt keinen Zahlenraum; die übergreifende Operationsgrenze bis 100 ist hierfür nicht maßgeblich.",
+      "shared_object_suggestion": "Die Lage desselben Bezugsobjekts an einem vertrauten Einkaufsweg, beschrieben aus unterschiedlichen eindeutig bestimmten Sichtweisen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte Lagebeziehungen auf eine vertraute räumliche Situation an einem Einkaufsweg und beschreibt die Lage eines Bezugsobjekts aus wechselnden eindeutig bestimmten Sichtweisen.",
+          "criterion": "Bezugsobjekt, Standort und Blickrichtung der jeweiligen Sichtweise sind eindeutig. Die Lageaussage passt jeweils zu dieser Sichtweise; ein nötiger Wechsel von links/rechts oder vor/hinter wird zutreffend berücksichtigt. Die räumliche Anordnung selbst bleibt dabei dieselbe.",
+          "status": "Didaktische Konkretisierung eines Ausschnitts von187151 unter Übertragen2012; keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wendet im gewählten Wahlbereich Einkaufsbummel bekannte Lagebeziehungen auf die Orientierung an einem vertrauten Weg zu oder in einer Einkaufseinrichtung an und beschreibt ein Bezugsobjekt aus wechselnden eindeutig bestimmten Sichtweisen.",
+          "criterion": "Die Lagebeschreibung stimmt mit dem jeweiligen Standort und der jeweiligen Blickrichtung überein. Bezugsobjekt und räumliche Anordnung bleiben eindeutig; veränderte Lageaussagen werden passend zum Sichtwechsel angegeben. Der gewählte Ausschnitt ist qualitativ und verlangt weder Entfernungs- oder Winkelwerte noch Rechnungen oder das Lesen eines Plans.",
+          "status": "Didaktische Konkretisierung von Orientierung35563 unter Anwenden35554 mit Perspektivwechsel und Sprachbezug aus dem übergreifenden Ziel35415; nur bei gewähltem FSP-Wahlbereich1.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Nur bei gewähltem FSP-Wahlbereich 1: Einkaufsbummel. Fachspezifisch: qualitative Lagebeziehungen aus wechselnden Sichtweisen.",
+        "detail": "Orientierung35563 hat keine numerische Obergrenze. Das übergreifende Ziel35415 belegt räumliche Sichtwechsel und Lagebeschreibungen; die Auswahl einer Lagebeziehung an einem vertrauten Einkaufsweg ist didaktische Konkretisierung. Die Rechenraumgrenze bis100 aus demselben Bandziel wird nicht auf Standorte, Blickrichtungen oder Wege übertragen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35563",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Nur bei gewähltem FSP-Wahlbereich 1: Einkaufsbummel. Bezugsobjekt, Standort und Blickrichtung müssen eindeutig und die zugrunde liegende räumliche Situation vertraut sein. Qualitative Lageaussagen; keine numerischen Entfernungen, Winkel, Anzahlen von Wegabschnitten oder Rechen-Zwischen-/Endergebnisse vorausgesetzt. Kartenzeichen, Maßstäbe, Baupläne und Ansichten sind nicht durch dieses Feinziel abgedeckt. Keine numerische Obergrenze erfinden. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft; eigene Freitexte bleiben gesondert fachlich zu prüfen."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "evidence_classification": {
+        "gs": "2012 Hauptziel Übertragen;187151 Unterziel Beschreiben aus unterschiedlichen Perspektiven. Gedankliche/reale Situationen stehen in der Bemerkung.2012 nur Hauptzielkontext.",
+        "fsp": "35554 Hauptziel Anwenden im Wahlbereich1;35563 Unterziel Orientierung. Einkaufswege sind Bemerkungsbeispiel.35415 ist ein ausdrücklich räumliches übergreifendes Ziel, kein Zahlenraum- oder Einzelzeilenoperator. Die Verknüpfung und enge Auswahl sind didaktische Konkretisierungen.",
+        "fsp_remark_anchors": [
+          "page139_35563"
+        ],
+        "context_only_gs_ids": [
+          "page912_2012"
+        ]
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_35420",
+        "label": "Wahlbereich 1: Einkaufsbummel",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 1: Einkaufsbummel."
       }
     }
   ]

@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-079
+# Mathematik-Abgleich · MA-080
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Zweiundachtzig Karten dokumentieren begrenzte Anschlüsse. Sechsundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Dreiundachtzig Karten dokumentieren begrenzte Anschlüsse. Siebenundfünfzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077 und MA-078 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Die Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpl�
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung in GS Klasse 3 bei Raum und Form 2012, zunächst Perspektiven/Wege187151 und ebene Darstellungen187152. [MA-079](review_batch_079.json) untersucht die drei Zufalls-Unterziele: Durchführung187148 als Anschlussfrage offen, Schlüsse187149 und Fachbegriffe187150 ohne hinreichend belegten direkten Anschluss. 82 Karten, 22 Anschlussfragen, 158 Inventurzeilen; neun neue GS3-Zeilen nur inventarisiert. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei GS3 Würfelgebäuden187153/Bauplänen187154 zusammen mit der offenen Frage187152. [MA-080](review_batch_080.json) ergänzt MA-083: qualitative Lagebeschreibung aus wechselnden Sichtweisen im FSP-Wahlbereich Einkaufsbummel. 83 Karten,23 Anschlussfragen,158 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -812,3 +812,10 @@ Drei neue konkrete Anschlussfragen, keine neuen Nichtanschlüsse. Spätere Kombi
 Drei GS1/2-Unterziele zu Zufallsexperimenten gegen beide FSP-Bänder einzeln geprüft. Würfel-/Kartenspiele in37980 und38008 sind positive Kandidaten für eine begrenzte erste Zufallserfahrung187148; deren Tragfähigkeit bleibt als konkrete Anschlussfrage offen. Für Schlüsse über mögliche Zufallsereignisse187149 und das Verwenden von sicher/möglich/unmöglich/Zufall187150 fehlt nach Prüfung der Mengen-, Daten-, Spiel-, Lösungs- und Sprachbelege ein hinreichender direkter Anschluss. Rechenkontrolle, geometrische Körpermerkmale und Ereignisdauer sind andere Gegenstände. Kein Ausschluss allein aufgrund fehlender Wörter, Karten oder kleinerer Zahlenräume und keine Behauptung fehlender didaktischer Fördermöglichkeit.
 
 MA-008 und MA-013 als bestehende Kandidaten erneut abgegrenzt; alle82 Karten und ihre Grenzen unverändert. Keine Versuchszahl oder Ergebnisraumgröße aus6 bzw.20/100 erfunden. App1.386 ohne neue Version. Stand:22 Anschlussfragen, sieben begründete Nichtanschlüsse und158 Inventurzeilen. GS3-Block2012 mit acht Unterzeilen nur inventarisiert; kein fachlicher Fortschritt für diese neun Zeilen behauptet. Alle sechs Prüfskripte bestanden. Mathematikmodul, alle Karten und beide HTML-Dateien bytegleich zum veröffentlichten MA-077-Stand;21 bisherige Fragen und fünf bisherige Nichtanschlüsse unverändert. Neue Entscheidungstypen und Inventur getrennt gezählt. Kein neuer Browserlauf für reine Auditänderungen; frühere MA-077-Liveprüfung betrifft dieselbe App. Audit auf main veröffentlicht mit Commit d84a8a0c886a0cabdfeef24067c44f27a3a08d49; [Pages-Lauf 44111252857](https://github.com/geafaellt/LernzielKompass/actions/runs/44111252857) erfolgreich. Öffentliche App1.386 nach Auslieferung frisch abgerufen und bytegleich bestätigt (SHA256 1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63). Keine neue App-Version und kein neuer Browserlauf.
+
+
+## MA-080 · App 1.387 · 17.11.2026
+
+MA-083 verbindet GS3 Perspektiven187151 unter Übertragen2012 mit FSP3/4 Orientierung35563 unter Anwenden35554 und dem ausdrücklich räumlichen/sprachlichen Bandziel35415. Nur bei gewähltem Wahlbereich1 Einkaufsbummel: qualitative Lagebeziehung an einem vertrauten Einkaufsweg aus wechselnden eindeutigen Sichtweisen. Keine Zahlenobergrenze erforderlich;100 aus den Operationszielen ist hierfür nicht maßgeblich. Hauptoperator, Unterziel, Einkaufsweg-Bemerkung und übergreifender Perspektivbeleg bleiben getrennt. Beide FSP-Bänder geprüft, stufenbandpassend bevorzugt.
+
+Ebene Darstellungen187152 bleiben als konkrete Anschlussfrage offen.35459 nennt Baupläne, die Hauptzeile35456 jedoch keinen Operator; keine ungeprüfte Übernahme von Anwenden35451. Fortsetzung mit Würfelgebäuden187153/Bauplanbeziehung187154 und amtlicher PDF-Klärung. MA-001 erneut abgegrenzt; alle82 Bestandskarten unverändert. Stand83 Karten(57 passend,26 stufenübergreifend),216 Quellen/214 Zielanker,23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Keine neue Inventur oder vollständige GS-Zieldeckung gezählt. Alle sechs Daten-/Bereichsprüfungen bestanden. Browserprüfung für MA-001, MA-040 und MA-083 in den zugehörigen GS-Jahrgängen bestanden; neue Karte zusätzlich bei320px/390px geprüft. 82 Bestandskarten,212 bestehende Quellen und22 bisherige Anschlussfragen unverändert. Keine UI-Codeänderung; kein vollständiger83-Karten-Browserlauf behauptet. Veröffentlichung und öffentliche Prüfung noch ausstehend.

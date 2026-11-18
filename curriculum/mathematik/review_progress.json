@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-079",
+  "last_batch": "MA-080",
   "complete": false,
   "counts": {
-    "cards": 82,
+    "cards": 83,
     "cross_band": 26
   },
   "source_plans": {
@@ -2689,10 +2689,62 @@
       "area": "Lernbereich 4: Daten und Zufall",
       "operator": null,
       "version": "2026"
+    },
+    "page912_2012": {
+      "id": "page912_2012",
+      "level": 1,
+      "parent_target_id": "page912_2012",
+      "target": "Übertragen des Wissens über Lagebeziehungen auf Möglichkeiten zur gedanklichen Orientierung und des Operierens im Raum",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2012",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "Übertragen",
+      "version": "2026"
+    },
+    "page912_187151": {
+      "id": "page912_187151",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Beschreiben von Lagebeziehungen und Wegen aus unterschiedlichen Perspektiven",
+      "remarks": "gedanklich und in realen räumlichen Situationen ➔ SU, Kl. 3, LB 5 ➔ SPO",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187151",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554",
+      "grade": "3/4",
+      "area_id": "MA-page139_35420",
+      "area": "Wahlbereich 1: Einkaufsbummel",
+      "operator": "Anwenden",
+      "version": "2019"
+    },
+    "page139_35563": {
+      "id": "page139_35563",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Orientierung",
+      "remarks": "Wege zu und in Einkaufseinrichtungen ➔ DE - HKS, Kl. 3/4, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35563",
+      "grade": "3/4",
+      "area_id": "MA-page139_35420",
+      "area": "Wahlbereich 1: Einkaufsbummel",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_2012",
-  "next_step": "GS Klasse 3 Raum und Form: Übertragen des Wissens über Lagebeziehungen 2012, zunächst Perspektiven/Wege 187151 und ebene Darstellungen 187152 gegen FSP 3/4 und 1/2 prüfen. Der gesamte Block 2012 mit acht Unterzeilen ist nur inventarisiert, nicht fachlich geprüft. Zufallsblock GS1/2 in MA-079 einzeln untersucht: 187148 als konkrete Anschlussfrage offen; 187149/187150 ohne hinreichend belegten direkten Anschluss, keine Behauptung fehlender didaktischer Anschlussfähigkeit. 82 Karten (56 passend, 26 stufenübergreifend), 22 Anschlussfragen, 158 Inventurzeilen und sieben Nichtanschlussentscheidungen. Alle älteren Fragen, Restumfänge und Bestandskarten bleiben weiter zu prüfen; kein Gesamtabschluss. Audit MA-079 auf main veröffentlicht, Pages erfolgreich; App1.386 weiterhin bytegleich ausgeliefert.",
+  "next_id": "page912_187153",
+  "next_step": "GS3 Würfelgebäude187153 und Bauplanbeziehung187154 als nächstes zusammen mit der offenen Frage187152 bearbeiten. FSP3/4 Hauptzeile35456 nennt keinen eigenen Operator; amtliche PDF-Tabellenstruktur vor Zuordnung klären, Anwenden35451 nicht ungeprüft erben. Beide FSP-Bänder prüfen.187151 nur im qualitativen Einkaufsweg-Ausschnitt durch MA-083 teilweise geprüft;2012 bleibt Hauptzielkontext.83 Karten(57 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen und7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge weiter prüfen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -2981,7 +3033,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_079.json",
+  "last_review_file": "review_batch_080.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3430,6 +3482,33 @@
         "Keine stärkere FSP-Kompetenz zur Ergebnisvorhersage, Häufigkeitsauswertung oder Ereignisklassifikation in die Spielbemerkung hineinlesen. Nicht sämtliche GS-Zugänge zugleich verlangen, wenn ein Teilanschluss belegt werden kann.",
         "Stufengleichen Pflichtbeleg 37980 zuerst prüfen; bei Verwendung 38005/38008 Wahlbereichsvoraussetzung erhalten. Ein einzelnes Hauptziel ohne Unterziel ist zulässiger Quellentyp und darf nicht allein wegen der derzeitigen Kartenstruktur verworfen werden.",
         "Vor einem Feinziel numerische Ergebnisangaben, Anzahl der Durchführungen und nichtnumerische Resultate unterscheiden. Keine Grenze 6 aus Mengenerfassung oder 20/100 aus Bandzielen pauschal als Versuchszahl übernehmen. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorschlagen."
+      ]
+    },
+    {
+      "gs_id": "page912_187152",
+      "scope": "Ebene Wegdarstellungen und Baupläne; Operatorzuordnung des FSP-Körperblocks35456 offen",
+      "status": "offen",
+      "reason": "FSP3/4 Nachformen und Bauen35459 nennt Bauen von Würfeltürmen nach Plänen und eigene Baupläne in der Bemerkung. Das ist ein positiver konkreter Darstellungsbezug, kein begründeter Nichtanschluss. Seine Hauptzeile35456 lautet jedoch Merkmale von Würfel, Quader und Kugel und nennt keinen Operator. Das davorstehende Anwenden35451 wird nicht ungeprüft übertragen. Für den engeren Bauplanausschnitt zusammen mit GS187153/187154 zuerst die amtliche Zeilenstruktur und zulässige Operatorabbildung klären. FSP3/4 Orientierung35563 mit Bandziel35415 trägt Perspektivwechsel, nennt aber keine ebenen Wegdarstellungen; ein bloßer räumlicher Weg ist noch kein Planverständnis. FSP1/2 gedankliche Orientierung37794 unter Übertragen37779 sowie38002 unter Einblick37997 mit Labyrinth/Brettspielen in der Bemerkung sind positive Kandidaten, deren ebene Darstellungsanforderung gesondert zu prüfen bleibt. Spätere Karten-/Skizzenziele38158 und38371 aus5/6 werden nicht vorgezogen.",
+      "candidate_ids": [
+        "page139_35554",
+        "page139_35563",
+        "page139_35456",
+        "page139_35459",
+        "page139_37779",
+        "page139_37786",
+        "page139_37788",
+        "page139_37789",
+        "page139_37794",
+        "page139_37997",
+        "page139_38002",
+        "page139_35451",
+        "page139_35415"
+      ],
+      "review_file": "review_batch_080.json",
+      "follow_up_checks": [
+        "Bauplanbezug35459 gemeinsam mit187153/187154 prüfen;35456 ohne eigenen Operator anhand amtlicher PDF-Tabellenstruktur klären. Fehlende technische Abbildung eines operatorlosen Inhaltsblocks ist kein fachlicher Ausschluss.",
+        "Einfache ebene Wegdarstellung als mögliche didaktische Auswahl zu35563/35415 beziehungsweise37794/38002 prüfen: notwendige Zuordnung von Darstellung und Raum explizit begründen, keine allgemeine Kartenlesekompetenz unterstellen.",
+        "Wahlbereiche und gebündelte Stufen bewahren. Bei rein qualitativer Darstellung keine20/100-Grenze; bei Bauplan-Anzahlen alle relevanten Angaben und Zwischen-/Endwerte gesondert belegen oder ausdrücklich didaktisch begrenzen."
       ]
     }
   ],
@@ -3959,6 +4038,12 @@
       "scope": "Andere Datenarten und Einheiten, unbekannte oder erst zu ermittelnde Vergleichswerte, komplexere Tabellen und Diagramme einschließlich Skaleninterpretation bleiben offen. MA-082 nur bekannte ganze Anzahlen im Naturkontext mit geklärter Tabellenbedeutung. Keine Differenzberechnung, allgemeine Tabellenlesekompetenz oder vollständige GS-Zieldeckung.",
       "status": "offen",
       "review": "MA-077"
+    },
+    {
+      "gs_id": "page912_187151",
+      "scope": "Weitere räumliche Situationen und längere Wegbeschreibungen, die ganze Breite gedanklicher und realer Perspektivwechsel sowie ebene Darstellungen187152 und Würfelgebäude187153–187158 bleiben außerhalb von MA-083. Der FSP-Anschluss ist auf Orientierung zu/in Einkaufseinrichtungen im tatsächlich gewählten Wahlbereich1 begrenzt. Kein pauschaler Pflichtbereichsanschluss.",
+      "status": "offen",
+      "review": "MA-080"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -3990,7 +4075,7 @@
       "page912_2012"
     ],
     "rows": 158,
-    "note": "149 bisherige Zeilen erhalten. Zufalls-Unterziele 187148–187150 in MA-079 einzeln untersucht; eine offene Frage, zwei begründete Nichtanschlüsse. Neun GS3-Zeilen im Block 2012 nur inventarisiert.",
+    "note": "Keine neue Inventurzeile.2012 als Hauptzielkontext geprüft;187151 teilweise durch MA-083,187152 als konkrete Anschlussfrage offen.187153–187158 weiterhin nur inventarisiert.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4225,6 +4310,16 @@
         "MA-082": "derived"
       },
       "note": "Bis 20 aus Zahlaufbauziel 37739 didaktisch abgeleitet. Alle Tabellen- und Vergleichswerte einschließlich relevanter Zwischen-/Endwerte begrenzt. GS bis 20 didaktisch gewählt; keine eigene Obergrenze beider Datenzielzeilen. Alle 81 Bestandskarten unverändert."
+    },
+    "follow_up_spatial_perspectives": {
+      "batch": "MA-080",
+      "cards": {
+        "MA-083": "domain_specific"
+      },
+      "existing_rechecked": [
+        "MA-001"
+      ],
+      "note": "Qualitative Perspektivbezüge im Einkaufswegkontext; keine20/100-Grenze oder erfundene Weglänge. MA-001 betrifft relative Objektlage im Schulraum und wird nicht automatisch auf wechselnde Sichtweisen erweitert. Alle82 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4245,13 +4340,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-077",
-    "status": "verified",
-    "app_version": "1.386",
-    "app_commit": "f23a9ab2169a650f7fd98db996098a6ac8711d58",
-    "pages_run": 44060204640,
-    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-    "browser": "MA-082 live in both GS grades and mobile320/390 passed; four related cards local"
+    "batch": "MA-080",
+    "status": "pending",
+    "app_version": "1.387",
+    "previous_verified_version": "1.386"
   },
   "latest_audit_publication": {
     "batch": "MA-079",
