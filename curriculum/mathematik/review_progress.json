@@ -2835,7 +2835,7 @@
     }
   },
   "next_id": "page912_187157",
-  "next_step": "GS3 Würfelgebäude: Erkennen von Mustern und Strukturen187157 sowie Bestimmen von Anzahlen187158 als nächstes gegen beide FSP-Bänder prüfen.187155 teilweise durch MA-085(räumlicher Umbau),187156 teilweise durch MA-086(qualitative Ergänzung einer bekannten zugänglichen Quaderanordnung). Anzahl fehlender Würfel aus der Bemerkung187156 bleibt offen und soll mit187158 geprüft werden. Eigene Baupläne, weitere Darstellungen und alle bisherigen Restumfänge bleiben offen. FSP35456/35459 weiterhin ohne eigenen Operator; keine numerischen Grenzen erfunden.86 Karten(60 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "GS3 Würfelgebäude: Erkennen von Mustern und Strukturen187157 sowie Bestimmen von Anzahlen187158 als nächstes gegen beide FSP-Bänder prüfen.187155 teilweise durch MA-085(räumlicher Umbau),187156 teilweise durch MA-086(qualitative Ergänzung einer bekannten zugänglichen Quaderanordnung). Anzahl fehlender Würfel aus der Bemerkung187156 bleibt offen und soll mit187158 geprüft werden. Eigene Baupläne, weitere Darstellungen und alle bisherigen Restumfänge bleiben offen. FSP35456/35459 weiterhin ohne eigenen Operator; keine numerischen Grenzen erfunden.86 Karten(60 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.389 veröffentlicht und live geprüft; Nachweise in MA-082.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4484,9 +4484,12 @@
   },
   "latest_publication": {
     "batch": "MA-082",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.389",
-    "previous_verified_version": "1.388"
+    "app_commit": "a798fe47da336a7fd9cb7ec04a7f00e5381f228a",
+    "pages_run": 44253019524,
+    "live_sha256": "19edebd319b0b91df5d7cf6b53b2b15281a70a4cc8d7858b25e67a145ecda7c7",
+    "browser": "MA-084/085/086 local and live GS3; MA-085/086 mobile320/390 passed. No UI code change; no full86-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",
