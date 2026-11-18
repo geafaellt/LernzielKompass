@@ -2900,7 +2900,7 @@
     }
   },
   "next_id": "page912_187153",
-  "next_step": "Als Nächstes die noch offene Umkehrrichtung Würfelgebäude → eigener Bauplan in GS3 187153 und187154 prüfen. Stufenpassender FSP-Beleg35459 nennt Finden eigener Baupläne als Differenzierung;35456/35459 weiterhin ohne eigenen Operator. Darstellungsregeln, Ansichten und vorab festzulegende Plan-/Würfelzahlen beachten; beide FSP-Bänder prüfen. MA-089 ergänzt nur fehlende Würfelzahl aus bekannten Gesamt-/Teilmengen bis100 in187156/187158. Unbekannte verdeckte Anzahlen, Volumen-/Schichtverfahren, weitere Strukturen und bisherige Restumfänge bleiben offen.89 Karten(63 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes die noch offene Umkehrrichtung Würfelgebäude → eigener Bauplan in GS3 187153 und187154 prüfen. Stufenpassender FSP-Beleg35459 nennt Finden eigener Baupläne als Differenzierung;35456/35459 weiterhin ohne eigenen Operator. Darstellungsregeln, Ansichten und vorab festzulegende Plan-/Würfelzahlen beachten; beide FSP-Bänder prüfen. MA-089 ergänzt nur fehlende Würfelzahl aus bekannten Gesamt-/Teilmengen bis100 in187156/187158. Unbekannte verdeckte Anzahlen, Volumen-/Schichtverfahren, weitere Strukturen und bisherige Restumfänge bleiben offen.89 Karten(63 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.392 veröffentlicht und live geprüft; Nachweise in MA-085.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4604,8 +4604,12 @@
   },
   "latest_publication": {
     "batch": "MA-085",
-    "status": "pending",
-    "app_version": "1.392"
+    "status": "verified",
+    "app_version": "1.392",
+    "app_commit": "76b53e04a46accdb0a06e0fd102057fd6988a394",
+    "pages_run": 44337048463,
+    "live_sha256": "ecae25dd8d3ffffa6b938712b61b1734b3aeeaca6dac61e936c02ac5e1a59593",
+    "browser": "MA-028/036 GS1/2 and MA-086/087/089 GS3 local and live; MA-089 mobile320/390 passed. No UI code change; no full89-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",
