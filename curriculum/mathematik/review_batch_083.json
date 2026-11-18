@@ -1,0 +1,647 @@
+{
+  "id": "MA-083",
+  "date": "2026-11-18",
+  "base_commit": "66ad0e62839136c582980fd4ce3932e884689532",
+  "scope": "GS3 Würfelgebäude: Muster/Strukturen187157, Anzahlen187158 und erneut abgegrenzte Fehlwürfel-Bemerkung187156",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "9ceec732895a9b15948d6d0874970577df5a0b8b034bd052b46ccbd223d465dd",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2012",
+      "level": 1,
+      "parent_target_id": "page912_2012",
+      "target": "Übertragen des Wissens über Lagebeziehungen auf Möglichkeiten zur gedanklichen Orientierung und des Operierens im Raum",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2012",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187153",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Herstellen von Würfelgebäuden nach Bauplänen und umgekehrt",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187153",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187156",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Ergänzen zum vollständigen Quader",
+      "remarks": "Anzahl fehlender Würfel ermitteln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187156",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187157",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Erkennen von Mustern und Strukturen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187157",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page912_187158",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Bestimmen von Anzahlen",
+      "remarks": "Zuordnen von Rechen­operationen und Termen ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang ➔ LB Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187158",
+      "verified_band_heading": "Klassenstufe 3",
+      "verified_area_heading": "Lernbereich 1: Raum und Form"
+    },
+    {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen 70 Ustd."
+    },
+    {
+      "id": "page139_35433",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen 70 Ustd."
+    },
+    {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen 70 Ustd."
+    },
+    {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie 40 Ustd."
+    },
+    {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie 40 Ustd."
+    },
+    {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie 40 Ustd."
+    },
+    {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    },
+    {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    },
+    {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie 30 Ustd."
+    },
+    {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 4: Wünsche, Träume, Fantasie 30 Ustd."
+    },
+    {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 3: Muster"
+    },
+    {
+      "id": "page139_38014",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Entdecken von Ornamenten an Gegenständen und in bildhaften Darstellungen",
+      "remarks": "Gebäude, Kleidung Linien, Flächen, Farben Abzeichnen, Fotografieren Harmonie und Balance beachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38014",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 3: Muster"
+    },
+    {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 3: Muster"
+    },
+    {
+      "id": "page139_38016",
+      "level": 1,
+      "parent_target_id": "page139_38016",
+      "target": "Übertragen des Wissens über Muster auf die Reihung von Gegenständen",
+      "remarks": "Schmuckelemente mit verschiedenen Materialien herstellen räumliche Orientierung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38016",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Wahlbereich 3: Muster"
+    },
+    {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen 70 Ustd."
+    },
+    {
+      "id": "page139_35440",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Multiplikation als Addition gleicher Summanden",
+      "remarks": "additive Handlungen: 2 + 2 + 2 = 6 ⇒ 3 · 2 = 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35440",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen 70 Ustd."
+    },
+    {
+      "id": "page139_35443",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Grundaufgaben des kleinen Einmaleins",
+      "remarks": "Divisions- und Multiplikationsgleichungen der jeweiligen Umkehroperation zuordnen Term, Gleichung, Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35443",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 1: Einer braucht den anderen 70 Ustd."
+    },
+    {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 100 Ustd."
+    },
+    {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 40 Ustd."
+    },
+    {
+      "id": "page139_35508",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Unterscheiden von wesentlichen und unwesentlichen Informationen",
+      "remarks": "mögliche Fragen formulieren, notieren Scherz- und Denkaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35508",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 40 Ustd."
+    },
+    {
+      "id": "page139_35509",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "verified_band_heading": "Klassenstufen 3/4",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 40 Ustd."
+    },
+    {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes 80 Ustd."
+    },
+    {
+      "id": "page139_37811",
+      "level": 2,
+      "parent_target_id": "page139_37804",
+      "target": "Untersuchen von Objekten nach ihren Eigenschaften",
+      "remarks": "Realobjekte, Applikationen und strukturiertes Material einsetzen, Objekte nach vorgegebenen Merkmalen auswählen Gleichheit, Ähnlichkeit, Verschiedenheit Gliedern, Ordnen, Zuordnen und Bilden von Mengen; Punktmengen Begriffe: viel, wenig",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37811",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes 80 Ustd."
+    },
+    {
+      "id": "page139_37816",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Strukturieren von Mengen",
+      "remarks": "Sortieren und Bündeln Invarianz: Anzahl der Elemente bleibt bei Umordnung gleich Relevanz: Anzahl bleibt bei unterschiedlichen Merkmalen der Elemente gleich Verbindung von Relevanz und Invarianz: paarweises Zuordnen, nicht zählen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37816",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes 80 Ustd."
+    },
+    {
+      "id": "page139_37817",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Erfassen von strukturierten Mengen mit bis zu sechs Elementen ohne Abzählen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37817",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 1: Jeder ist etwas Besonderes 80 Ustd."
+    },
+    {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 50 Ustd."
+    },
+    {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 50 Ustd."
+    },
+    {
+      "id": "page139_37941",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zuordnen von Zahlwort und Zahl zu Mengen",
+      "remarks": "Gliedern, Ordnen Differenzierung: unterschiedliche räumliche Anordnung der Zählobjekte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 50 Ustd."
+    },
+    {
+      "id": "page139_37944",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Abzählen von Objekten, Zählen",
+      "remarks": "durch räumliches Trennen, Berühren, visuelles Erfassen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37944",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 3: Natur entdecken und erleben 50 Ustd."
+    },
+    {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    },
+    {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    },
+    {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    },
+    {
+      "id": "page139_37898",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Herausfinden der wesentlichen Angaben und der Rechenoperation",
+      "remarks": "Umformulieren, Hinterfragen des Textes, Hervorheben durch Unterstreichen, Suche nach Signalwörtern, Erkennen einer Frage",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37898",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    },
+    {
+      "id": "page139_37908",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Probieren verschiedener Lösungswege",
+      "remarks": "Skizze, Tabelle, Term oder Gleichung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908",
+      "verified_band_heading": "Klassenstufen 1/2",
+      "verified_area_heading": "Lernbereich 2: Die Welt um mich herum 90 Ustd."
+    }
+  ],
+  "source_verification": "Amtliche HTML-Fassungen frisch gelesen; Stufenband, Lernbereich, Zielzeile und Bemerkung getrennt. Kein neuer PDF-Durchlauf. Der operatorlose Bauinhalt aus MA-081/082 bleibt unverändert und liefert keinen Operator für die neue Zahlkarte.",
+  "new_cards": [
+    "MA-087"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-002",
+    "MA-010",
+    "MA-012",
+    "MA-017",
+    "MA-084",
+    "MA-085",
+    "MA-086"
+  ],
+  "existing_card_review": "MA-002 betrifft ebene Spiegelachsen, nicht automatisch räumliche Gebäudesymmetrie. MA-010 bleibt im Naturkontext mit didaktisch bis20; MA-012 liest/schreibt Zahlen und MA-017 vergleicht/ordnet Zahlen. Keine dieser Karten deckt dadurch schon die hier ausgewählte GS3-Anzahlzeile. MA-084 behält den noch festzulegenden Bauplan-/Würfelrahmen; MA-085/086 bleiben qualitativ räumlich ohne zusätzliche Anzahlforderung. Alle86 Karten unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187157",
+      "status": "open_connection_question",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_35432",
+        "page139_35433",
+        "page139_35434",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35524",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37844",
+        "page139_37981",
+        "page139_37984",
+        "page139_38011",
+        "page139_38014",
+        "page139_38015",
+        "page139_38016"
+      ],
+      "decision": "GS 187157 verlangt Muster und Strukturen im Kontext dreidimensionaler Würfelgebäude unter Übertragen 2012. FSP 3/4 35535 betrifft ausdrücklich ebene Figuren; auch 35524/35525 beschreiben ebene Gestaltungselemente. Der stufenpassende positive Kandidat 35433 unter Kennen von Spiegelbildern 35432 nennt Symmetrien an Gebäuden in der Bemerkung. Noch zu klären ist ein hinreichend bestimmter gemeinsamer Ausschnitt zwischen einer sichtbaren symmetrischen Gebäudeansicht und einer räumlichen Struktur des Würfelgebäudes; eine Spiegelachse in einer ebenen Figur ist nicht automatisch eine Symmetrieebene eines Körpers. FSP 1/2 38016 nennt positiv die Reihung von Gegenständen unter Übertragen, im Wahlbereich 3 Muster. Diese Zeile ist nicht auf ebene Figuren reduziert, trägt aber ohne weitere Eingrenzung noch keine allgemeine räumliche Schicht-, Gitter- oder Bauplanstruktur. Stufenpassende Symmetrie zuerst klären; sonst den konkreten Wiederholungsbezug bei Gegenstandsreihen prüfen. Kein Nichtanschluss und kein Ausschluss wegen kleinerer Zahlenräume oder fehlender Karte.",
+      "prerequisites": "Konkretisierter Bezug zwischen Struktur des Würfelgebäudes und Symmetrie bzw. Wiederholung; bekannte Darstellungs- und Lagebeziehungen. Bei38016 tatsächlich gewählter Wahlbereich3.",
+      "uncertainty": "Die Reichweite der FSP-Symmetriebemerkung an Gebäuden für eine räumliche Würfelstruktur und der Gegenstandsreihung für wiederkehrende Bauteile ist noch nicht als enger Karteninhalt entschieden.",
+      "remaining": "Die gesamte Zeile bleibt ohne Kartenanschluss; nächste Prüfung richtet sich auf den konkret positiven Symmetrie-/Reihungskandidaten. Fehlende Karte bedeutet keinen Nichtanschluss."
+    },
+    {
+      "gs_id": "page912_187158",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-087"
+      ],
+      "same_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35466",
+        "page139_35456",
+        "page139_35459",
+        "page139_35439",
+        "page139_35440",
+        "page139_35443",
+        "page139_35470",
+        "page139_35479",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509"
+      ],
+      "cross_band_candidates": [
+        "page139_37804",
+        "page139_37811",
+        "page139_37816",
+        "page139_37817",
+        "page139_37931",
+        "page139_37937",
+        "page139_37941",
+        "page139_37944",
+        "page139_37851",
+        "page139_37863",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: GS Übertragen aus 2012; FSP Beherrschen aus 35461. FSP 35466 nennt Zählen und Abzählen, 35463 das Zuordnen von Zahlen zu Mengen in der Bemerkung. Ein vertrauter Würfelaufbau als Alltags-Gegenstandsmenge ist eine didaktische Auswahl. Nur die Anzahl der eindeutig identifizierbaren Würfel eines vollständig bekannten Aufbaus wird bestimmt. Die FSP-Hauptzielzeile 35461 begrenzt ausdrücklich auf bis 100. GS 187158 und ihr geometrisches Hauptziel 2012 nennen keine eigene Obergrenze; bis 100 ist hier eine didaktische Eingrenzung des GS-Feinziels, keine amtliche GS-Grenze. Die Grenze bis 1 000 aus dem anderen GS-Zahlziel 187182 wird nicht als eigene Würfelgebäudegrenze ausgegeben. Keine vollständige GS-Zieldeckung: verdeckte oder nur aus einem Plan erschließbare Würfel, Rechenoperationen und Terme sowie die Anzahl fehlender Würfel aus der Bemerkung 187156 bleiben gesondert offen.",
+      "stage_decision": "Stufenpassend FSP3/4 35461/35463/35466 bevorzugt: Zahlzuordnung und Zählen ausdrücklich im Alltagskontext bis100. FSP1/2 37817 nennt strukturierte Mengen bis6 ohne Abzählen, aber nicht beliebige Würfelgebäude;37931/37937/37941/37944 belegen Zählen und Menge-Zahl-Zuordnung im Naturkontext. Diese positiven Vorläufer sind nicht allein wegen kleinerer Zahlenräume ausgeschlossen. Der stufenpassende Alltagsbeleg trägt den gewählten Ausschnitt ohne zusätzlichen Natur- oder Wahlbereichsrahmen.35456/35459 tragen Raum-/Bauinhalt ohne eigenen Operator, jedoch nicht eigenständig eine bestimmte Anzahlgrenze.35439/35440/35443 und35470/35479 tragen Recheninhalte, deren Zuordnung zum Gebäude hier nicht mitgeprüft ist.",
+      "prerequisites": "Vertrauter Aufbau; alle zur Menge gehörenden Würfel und ihre Lage eindeutig bekannt und zugänglich. Eindeutiges Zählobjekt ist der ganze Würfel, nicht seine sichtbaren Seitenflächen. Gesamtanzahl bis100; keine unbekannten verdeckten Innenwürfel.",
+      "uncertainty": "Würfelaufbau ist didaktische Konkretisierung einer Alltagsmenge. Er verlangt in diesem Ausschnitt keine unbekannten Mengen aus einer zweidimensionalen Darstellung zu erschließen.",
+      "remaining": "Nur eindeutige Gesamtanzahl eines vollständig bekannten, zugänglichen Würfelaufbaus bis 100 durch MA-087. Weitere Anzahlen, verdeckte Innenwürfel, bloß bildlich verdeckte oder aus Plänen erst zu erschließende Würfel, strukturierte Schicht-/Reihenberechnungen, Multiplikation, Zuordnen von Rechenoperationen und Termen sowie Zahlenbereiche über 100 bleiben offen. Keine volle Deckung des GS-Unterziels."
+    },
+    {
+      "gs_id": "page912_187156",
+      "status": "remaining_scope_rechecked",
+      "cards": [
+        "MA-086"
+      ],
+      "same_band_candidates": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35504",
+        "page139_35508",
+        "page139_35509"
+      ],
+      "cross_band_candidates": [
+        "page139_37851",
+        "page139_37863",
+        "page139_37896",
+        "page139_37898",
+        "page139_37908"
+      ],
+      "decision": "MA-083: Die in 187156 bemerkte Anzahl fehlender Würfel ist erneut abgegrenzt. 35470/35479 belegen Addieren/Subtrahieren bis 100 und 35504/35508/35509 Sachverhaltsbearbeitung; das sind positive Kandidaten. Vor einem weiteren Anschluss müssen bekannte Gesamt- und Teilmengen, ihre Zugehörigkeit zum Zielquader und die Differenzbedeutung gesichert werden. MA-087 bestimmt eine vorhandene zugängliche Menge und trägt weder die unbekannte Zielmenge noch eine Rechnung. Verdeckte fehlende Innenpositionen oder Volumenformeln nicht aus Zahlhandlungen ableiten. Gesonderte Folgeprüfung bleibt offen.",
+      "prerequisites": "Gesicherte bekannte Ziel-/Teilmengen und ihre sachlich richtige Differenzbeziehung; Zahlen, Zwischen- und Endwerte gemeinsam begrenzen.",
+      "uncertainty": "Die arithmetische Teilanschlussfähigkeit ist positiv, die räumliche Bestimmbarkeit der Ziel- und Fehlmenge noch gesondert einzugrenzen.",
+      "remaining": "Berechnung bzw. Ermittlung fehlender Würfel weiterhin offen. Keine weitere Karte und keine neue Zielzeile gezählt."
+    }
+  ],
+  "number_scope_review": "MA-087 ausdrücklich bis100 aus Hauptziel35461, nicht aus übergreifendem Bandziel. Alle Teil-/Gesamtmengen und relevanten Zwischen-/Endwerte eingeschlossen. GS2012/187158 ohne eigene Obergrenze; gespeicherte GS-Grenze100 ausdrücklich didaktisch. Keine1000-Grenze aus187182 auf die Geometriezeile übertragen. Rein qualitative Musterfragen ohne erfundene Grenze; numerische Schicht-/Rechenvarianten getrennt offen. Bestehende Baukarten erhalten ihre eigenen Geltungsbereiche.",
+  "counts": {
+    "new_individually_examined_target_rows": 2,
+    "new_partially_reviewed_rows": 1,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 1,
+    "previously_reviewed_remark_scopes_rechecked": 1,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 87,
+    "same_band_cards": 61,
+    "cross_band_cards": 26,
+    "source_links": 224,
+    "target_anchors": 222,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 158,
+    "open_connection_questions": 24,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": "Zuerst die konkrete Anschlussfrage zu GS3 Muster/Strukturen 187157 lösen: FSP3/4 Symmetrien an Gebäuden 35432/35433 vor FSP1/2 Reihung von Gegenständen 38016 (Wahlbereich 3) prüfen; Ansichts- und Raumbezug ausdrücklich trennen. Danach Anzahl fehlender Würfel aus Bemerkung 187156 gegen 35470/35479 und 35504/35509 klären.187158 durch MA-087 nur vorhandene, eindeutig identifizierbare Würfelmenge bis 100 teilweise angeschlossen; verdeckte Würfel, Operationen/Terme und weitere Zahlenräume offen. Alle bisherigen Anschlussfragen, eigenen Pläne und Restumfänge fortführen.87 Karten (61 passend,26 stufenübergreifend),24 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "browser_local": "scripts/check-mathematik-live-ma-087.cjs passed MA-010/012 in GS1 and GS2, MA-017/087 in GS3: source links, operator labels, scope on cards/goals/output, exact goal/criterion adoption, empty task/aid fields, preserved teacher drafts, subject isolation and reload. MA-087 additionally320px/390px without horizontal overflow. No UI code changed; no full87-card run claimed.",
+    "preservation": {
+      "status": "passed",
+      "old_cards_unchanged": 86,
+      "old_sources_unchanged": 223,
+      "old_anchors_unchanged": 221,
+      "unchanged_open_questions": 23,
+      "new_question_ids": [
+        "page912_187157"
+      ],
+      "duplicate_questions": 0,
+      "previous_remainders_and_cross_band_decisions_unchanged": true,
+      "audit_rows": 158,
+      "changed_existing_audit_ids": [
+        "page912_187153",
+        "page912_187156",
+        "page912_187157",
+        "page912_187158",
+        "page912_2012"
+      ],
+      "new_inventory_only_rows": 0,
+      "new_unique_fsp_anchors": 0,
+      "nonmath_payload_unchanged": true,
+      "ui_code_unchanged": true,
+      "root_dist_identical": true,
+      "html_sha256": "218ab4fe647f4c5bd2de753c18a1838ca5bb412a2d3730ff3266f106b072b6d5",
+      "html_blob_sha": "83ee1a5c2548cfff446abb63abb73917b2d7905b"
+    },
+    "baseline": "Twelve input files matched main66ad0e62839136c582980fd4ce3932e884689532, tree8d0d1d94a34ce9f882ae4c63608bf1c4f14a2f5f; CSV newline conventions accounted for.",
+    "browser_live": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.390",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+  }
+}

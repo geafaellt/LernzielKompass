@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-18.2",
+  "version": "MA-2026-11-18.3",
   "checked_on": "2026-11-18",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1447,6 +1447,12 @@
       "id": "Q-MA-page912_187156",
       "title": "GS Mathematik3 · Lernbereich1 Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187156",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187158",
+      "title": "GS Mathematik3 · Lernbereich1 Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187158",
       "version": "2026"
     }
   ],
@@ -8410,6 +8416,82 @@
           "page912_187153"
         ]
       }
+    },
+    {
+      "id": "MA-087",
+      "subject": "Mathematik",
+      "theme": "Würfelanzahl eines bekannten Aufbaus bestimmen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Anzahlbestimmung bis 100",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Bestimmen von Anzahlen 187158 im Würfelgebäude-Kontext 187153 unter Übertragen 2012; keine eigene Zahlenobergrenze dieser Zielzeile",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Zählen und Abzählen 35466 sowie Menge-Zahl-Zuordnung aus Bemerkung 35463 unter Beherrschen der Zahlen bis 100 in Alltagssituationen 35461",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "GS: Übertragen · FSP: Beherrschen. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: GS Übertragen aus 2012; FSP Beherrschen aus 35461. FSP 35466 nennt Zählen und Abzählen, 35463 das Zuordnen von Zahlen zu Mengen in der Bemerkung. Ein vertrauter Würfelaufbau als Alltags-Gegenstandsmenge ist eine didaktische Auswahl. Nur die Anzahl der eindeutig identifizierbaren Würfel eines vollständig bekannten Aufbaus wird bestimmt. Die FSP-Hauptzielzeile 35461 begrenzt ausdrücklich auf bis 100. GS 187158 und ihr geometrisches Hauptziel 2012 nennen keine eigene Obergrenze; bis 100 ist hier eine didaktische Eingrenzung des GS-Feinziels, keine amtliche GS-Grenze. Die Grenze bis 1 000 aus dem anderen GS-Zahlziel 187182 wird nicht als eigene Würfelgebäudegrenze ausgegeben. Keine vollständige GS-Zieldeckung: verdeckte oder nur aus einem Plan erschließbare Würfel, Rechenoperationen und Terme sowie die Anzahl fehlender Würfel aus der Bemerkung 187156 bleiben gesondert offen.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187153",
+        "page912_187158"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: GS Übertragen aus 2012; FSP Beherrschen aus 35461. FSP 35466 nennt Zählen und Abzählen, 35463 das Zuordnen von Zahlen zu Mengen in der Bemerkung. Ein vertrauter Würfelaufbau als Alltags-Gegenstandsmenge ist eine didaktische Auswahl. Nur die Anzahl der eindeutig identifizierbaren Würfel eines vollständig bekannten Aufbaus wird bestimmt. Die FSP-Hauptzielzeile 35461 begrenzt ausdrücklich auf bis 100. GS 187158 und ihr geometrisches Hauptziel 2012 nennen keine eigene Obergrenze; bis 100 ist hier eine didaktische Eingrenzung des GS-Feinziels, keine amtliche GS-Grenze. Die Grenze bis 1 000 aus dem anderen GS-Zahlziel 187182 wird nicht als eigene Würfelgebäudegrenze ausgegeben. Keine vollständige GS-Zieldeckung: verdeckte oder nur aus einem Plan erschließbare Würfel, Rechenoperationen und Terme sowie die Anzahl fehlender Würfel aus der Bemerkung 187156 bleiben gesondert offen.",
+      "shared_object_suggestion": "Die Gesamtanzahl der eindeutig identifizierbaren Würfel eines bekannten Aufbaus und die zugehörige Zahl.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte Lagebeziehungen auf das eindeutige Erfassen der zu einem bekannten Würfelaufbau gehörenden Würfel und bestimmt deren Gesamtanzahl bis 100.",
+          "criterion": "Jeder zum Aufbau gehörende Würfel ist genau einmal erfasst; die zugeordnete Zahl stimmt mit der Gesamtanzahl überein. Teilanzahlen, Gesamtanzahl und relevante Zwischenwerte bleiben bis 100. Keine unbekannten verdeckten Würfel, Rechenoperationen, Terme oder fehlenden Würfelzahlen werden zusätzlich gefordert.",
+          "status": "Didaktische Konkretisierung eines Ausschnitts unter Übertragen; bis 100 didaktisch gewählt, keine eigene amtliche Grenze der GS-Geometriezeile und keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bestimmt sicher die Anzahl der eindeutig identifizierbaren Würfel eines bekannten Aufbaus mit bis 100 Würfeln und ordnet die passende Zahl zu.",
+          "criterion": "Jeder zur bekannten Menge gehörende Würfel ist genau einmal erfasst; die Zahl bezeichnet die Gesamtanzahl richtig. Teilanzahlen, Gesamtanzahl, alle Zahlzuordnungen und relevanten Zwischen-/Endwerte bleiben bis 100. Keine unbekannten verdeckten Würfel oder zusätzlichen Rechen- und Termanforderungen.",
+          "status": "Didaktische Konkretisierung von Zählen und Abzählen 35466 und der Menge-Zahl-Zuordnung aus Bemerkung 35463; Auswahl der Würfelmenge didaktisch, Grenze ausdrücklich in Hauptziel 35461.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 · ausdrücklich im FSP-Hauptziel belegt",
+        "detail": "Beherrschen der Zahlen bis 100 in Alltagssituationen 35461 begrenzt die zugehörigen Unterziele 35463 und 35466. Dies ist keine aus einem übergreifenden Stufenbandziel abgeleitete Grenze. Der konkrete Würfelaufbau ist didaktische Auswahl; die Bauzeile 35459 erhält dadurch keine allgemeine Höchstzahl.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Die Zugehörigkeit sämtlicher Würfel zur Menge und ihre Lage sind bekannt und eindeutig zugänglich. Ausgangs- und Teilmengen, gesamte Würfelanzahl, Zahlzuordnungen und relevante Zwischen-/Endwerte bleiben bis 100. Keine nur scheinbare Begrenzung einzelner Türme bei größerer Gesamtmenge. Keine unbekannten verdeckten Innenwürfel, numerischen Planangaben, Maß-/Volumenwerte oder Rechnungen zusätzlich voraussetzen. Eigene Erweiterungen der Lehrkraft bleiben gesondert zu prüfen; Freitext ist nicht automatisch fachlich validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "187158 ist Unterziel unter Übertragen 2012; 187153 ist Würfelgebäude-Kontext. Zuordnen von Rechenoperationen und Termen steht in der Bemerkung und ist hier nicht als geprüft gezählt.",
+        "fsp": "35461 ist Hauptziel mit Beherrschen und ausdrücklich bis 100; 35466 ist Unterziel Zählen und Abzählen; Menge-Zahl-Zuordnung ist Bemerkung zu 35463. Würfelaufbau ist didaktischer Alltagsausschnitt, kein wörtlicher FSP-Anzahlauftrag für verdeckte Gebäude.",
+        "fsp_remark_anchor": "page139_35463",
+        "context_only_gs_ids": [
+          "page912_2012",
+          "page912_187153"
+        ]
+      },
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187153",
+        "Q-MA-page912_187158",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463",
+        "Q-MA-page139_35466"
+      ]
     }
   ]
 }
