@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-18.1",
+  "version": "MA-2026-11-18.2",
   "checked_on": "2026-11-18",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1436,6 +1436,18 @@
       "title": "FSP Lernen Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187155",
+      "title": "GS Mathematik3 · Lernbereich1 Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187155",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187156",
+      "title": "GS Mathematik3 · Lernbereich1 Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187156",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -8216,6 +8228,186 @@
         ],
         "context_only_gs_ids": [
           "page912_2012"
+        ]
+      }
+    },
+    {
+      "id": "MA-085",
+      "subject": "Mathematik",
+      "theme": "Würfelaufbau räumlich umbauen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter räumlicher Anschluss · FSP-Inhalt ohne eigenen Operator",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1 Raum und Form · Verändern 187155 innerhalb Würfelgebäude187153 unter Übertragen2012",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich2 Die Welt um mich herum · Nachformen und Bauen35459 im Inhaltsblock zu Würfel, Quader und Kugel35456. Kein eigener Operator ausgewiesen.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": null,
+      "operator_relation": "GS: Übertragen · FSP: Kein eigener Operator ausgewiesen. Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 im Pflichtbereich. GS Übertragen stammt aus2012. FSP35456/35459 weist keinen eigenen Operator aus; kein Anwenden aus35451 übernehmen. Die konkrete räumliche Zielanordnung ist eine didaktische Auswahl. Keine vollständige GS-Zieldeckung. Rein räumlicher Ausschnitt ohne numerische Planangaben, Anzahlermittlung, Messwerte oder Rechnungen; deshalb keine Zahlenobergrenze aus20/100 oder der benachbarten Meterbemerkung ableiten. Verändern187155 enthält Umbauen als GS-Bemerkungsbeispiel. Im FSP steht Umbauen ausdrücklich als Differenzierung in der Bemerkung zu Nachformen und Bauen35459. Gewählt wird die räumliche Veränderung eines vorhandenen Würfelaufbaus zu einer bekannten, nichtnumerisch beschriebenen Zielanordnung.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187153",
+        "page912_187155"
+      ],
+      "fsp_target_ids": [
+        "page139_35456",
+        "page139_35459"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187153",
+        "Q-MA-page912_187155",
+        "Q-MA-page139_35456",
+        "Q-MA-page139_35459"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 im Pflichtbereich. GS Übertragen stammt aus2012. FSP35456/35459 weist keinen eigenen Operator aus; kein Anwenden aus35451 übernehmen. Die konkrete räumliche Zielanordnung ist eine didaktische Auswahl. Keine vollständige GS-Zieldeckung. Rein räumlicher Ausschnitt ohne numerische Planangaben, Anzahlermittlung, Messwerte oder Rechnungen; deshalb keine Zahlenobergrenze aus20/100 oder der benachbarten Meterbemerkung ableiten. Verändern187155 enthält Umbauen als GS-Bemerkungsbeispiel. Im FSP steht Umbauen ausdrücklich als Differenzierung in der Bemerkung zu Nachformen und Bauen35459. Gewählt wird die räumliche Veränderung eines vorhandenen Würfelaufbaus zu einer bekannten, nichtnumerisch beschriebenen Zielanordnung.",
+      "shared_object_suggestion": "Die veränderte Lage und Anordnung von Würfeln zwischen einem vorhandenen Aufbau und einer bekannten räumlichen Zielform.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte Lagebeziehungen auf das Umbauen eines vorhandenen Würfelaufbaus zu einer geklärten räumlichen Zielanordnung.",
+          "criterion": "Die Lage der Würfel entspricht der bekannten räumlichen Zielanordnung und unterscheidet sich in den vereinbarten Lagebeziehungen von der Ausgangsanordnung. Die Beurteilung bezieht sich auf räumliche Beziehungen, nicht auf numerische Höhen-, Längen- oder Anzahlvergleiche. Keine zusätzliche Planherstellung, Rechnung oder Begründung der Mengenerhaltung gefordert.",
+          "status": "Didaktischer räumlicher Teilanschluss unter Übertragen2012; keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verändert einen vorhandenen Würfelaufbau räumlich so, dass die geklärte Zielanordnung entsteht.",
+          "criterion": "Die Lage der Würfel entspricht der bekannten räumlichen Zielanordnung und unterscheidet sich in den vereinbarten Lagebeziehungen von der Ausgangsanordnung. Die Beurteilung bezieht sich auf räumliche Beziehungen, nicht auf numerische Höhen-, Längen- oder Anzahlvergleiche. Keine zusätzliche Planherstellung, Rechnung oder Begründung der Mengenerhaltung gefordert.",
+          "status": "Didaktische Konkretisierung von35456/35459. Kein eigener allgemeiner FSP-Operator ausgewiesen. Räumlicher Ausschnitt ohne numerische Zusatzanforderungen.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: räumliches Umbauen ohne numerische Zusatzanforderung",
+        "detail": "Der Umbau ist in35459 als Bemerkungsbeispiel belegt. Die Bauzeile nennt keine feste Würfelzahl oder Höchstgröße. Dieser qualitative Ausschnitt verlangt weder eine Würfelanzahl noch numerische Plan-, Höhen- oder Messwerte. Eine Obergrenze ist dafür nicht maßgeblich.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35456",
+          "Q-MA-page139_35459"
+        ],
+        "planning_rule": "Ausgangsanordnung und räumliche Zielanordnung sind bekannt und eindeutig zugänglich; Lagebeziehungen und Würfelmerkmale vertraut. Keine unbekannte Plankonvention oder nur rechnerisch erschließbare Vorgabe. Die gespeicherten Feinziele enthalten keine numerischen Planangaben, Anzahlen, Längen, Winkel, Einheiten oder Rechen-Zwischen-/Endergebnisse. Keine20/100-Grenze und keine Höchstzahl an Würfeln erfinden. Falls eigene Entwürfe numerische Bedingungen ergänzen, deren Zahlen- und Darstellungsbereich samt allen relevanten Zwischen-/Endwerten gesondert belegen oder ausdrücklich didaktisch festlegen; diese Erweiterung ist durch die Karte nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft."
+      },
+      "fsp_operator_evidence": {
+        "status": "not_stated",
+        "parent_target_id": "page139_35456",
+        "source_ids": [
+          "Q-MA-page139_35456",
+          "Q-MA-page139_35459"
+        ],
+        "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "pdf_page_one_based": 31,
+        "printed_page": "19",
+        "checked_on": "2026-11-18",
+        "notice": "Kein eigener Operator ausgewiesen",
+        "finding": "Onlinezeile35456 und PDF S.19 führen Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Nachformen und Bauen35459 ist darunter aufgeführt. Anwenden35451 betrifft das vorherige Formenbestimmungsziel und wird diesem Inhaltsblock nicht als gesicherter Operator zugeschrieben."
+      },
+      "evidence_classification": {
+        "gs": "2012 Hauptziel Übertragen;187153 übergeordnetes Würfelgebäudeziel;page912_187155 ausgewähltes Unterziel.2012 und187153 hier ausschließlich Kontext, keine erneute Abdeckung gezählt.",
+        "fsp": "Verändern187155 enthält Umbauen als GS-Bemerkungsbeispiel. Im FSP steht Umbauen ausdrücklich als Differenzierung in der Bemerkung zu Nachformen und Bauen35459. Gewählt wird die räumliche Veränderung eines vorhandenen Würfelaufbaus zu einer bekannten, nichtnumerisch beschriebenen Zielanordnung. Inhaltsblock35456 ohne eigenen Operator; keine Operatorübernahme aus Nachbarzeile35451.",
+        "fsp_remark_anchors": [
+          "page139_35459"
+        ],
+        "context_only_gs_ids": [
+          "page912_2012",
+          "page912_187153"
+        ]
+      }
+    },
+    {
+      "id": "MA-086",
+      "subject": "Mathematik",
+      "theme": "Unvollständigen Würfelquader räumlich ergänzen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter räumlicher Anschluss · FSP-Inhalt ohne eigenen Operator",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1 Raum und Form · Ergänzen zum vollständigen Quader 187156 innerhalb Würfelgebäude187153 unter Übertragen2012",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich2 Die Welt um mich herum · Nachformen und Bauen35459 im Inhaltsblock zu Würfel, Quader und Kugel35456. Kein eigener Operator ausgewiesen.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": null,
+      "operator_relation": "GS: Übertragen · FSP: Kein eigener Operator ausgewiesen. Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 im Pflichtbereich. GS Übertragen stammt aus2012. FSP35456/35459 weist keinen eigenen Operator aus; kein Anwenden aus35451 übernehmen. Die konkrete räumliche Zielanordnung ist eine didaktische Auswahl. Keine vollständige GS-Zieldeckung. Rein räumlicher Ausschnitt ohne numerische Planangaben, Anzahlermittlung, Messwerte oder Rechnungen; deshalb keine Zahlenobergrenze aus20/100 oder der benachbarten Meterbemerkung ableiten. GS187156 nennt Ergänzen zum vollständigen Quader; Anzahl fehlender Würfel ermitteln steht gesondert in der Bemerkung. FSP35456 nennt Quadermerkmale und35459 Nachformen und Bauen. Die Auswahl eines bereits begonnenen Würfelquaders als Ausgangsstand beim Nachformen einer bekannten vollständigen Quaderanordnung ist ausdrücklich didaktische Konkretisierung, kein wörtliches FSP-Ergänzungsziel. Der Anschluss umfasst die räumliche Vervollständigung; keine Anzahlberechnung.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187153",
+        "page912_187156"
+      ],
+      "fsp_target_ids": [
+        "page139_35456",
+        "page139_35459"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187153",
+        "Q-MA-page912_187156",
+        "Q-MA-page139_35456",
+        "Q-MA-page139_35459"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 im Pflichtbereich. GS Übertragen stammt aus2012. FSP35456/35459 weist keinen eigenen Operator aus; kein Anwenden aus35451 übernehmen. Die konkrete räumliche Zielanordnung ist eine didaktische Auswahl. Keine vollständige GS-Zieldeckung. Rein räumlicher Ausschnitt ohne numerische Planangaben, Anzahlermittlung, Messwerte oder Rechnungen; deshalb keine Zahlenobergrenze aus20/100 oder der benachbarten Meterbemerkung ableiten. GS187156 nennt Ergänzen zum vollständigen Quader; Anzahl fehlender Würfel ermitteln steht gesondert in der Bemerkung. FSP35456 nennt Quadermerkmale und35459 Nachformen und Bauen. Die Auswahl eines bereits begonnenen Würfelquaders als Ausgangsstand beim Nachformen einer bekannten vollständigen Quaderanordnung ist ausdrücklich didaktische Konkretisierung, kein wörtliches FSP-Ergänzungsziel. Der Anschluss umfasst die räumliche Vervollständigung; keine Anzahlberechnung.",
+      "shared_object_suggestion": "Die räumliche Übereinstimmung eines begonnenen Würfelaufbaus mit einer bekannten vollständigen Quaderanordnung.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte räumliche Beziehungen auf das Ergänzen eines unvollständigen Würfelquaders zur geklärten vollständigen Quaderanordnung.",
+          "criterion": "Die zum bekannten Zielquader gehörenden Würfelpositionen sind vollständig besetzt, ohne Lücken oder überstehende Würfel; vorhandene passende Positionen bleiben erhalten. Die räumliche Übereinstimmung ist zugänglich und erfordert kein Erschließen verdeckter Innenräume. Keine Anzahl fehlender Würfel, Differenz, Volumenberechnung oder Formel wird als Erfolgskriterium verlangt.",
+          "status": "Didaktischer räumlicher Teilanschluss unter Übertragen2012; keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vervollständigt beim Nachformen eines bekannten Quaders einen bereits begonnenen Würfelaufbau entsprechend der geklärten vollständigen räumlichen Zielanordnung.",
+          "criterion": "Die zum bekannten Zielquader gehörenden Würfelpositionen sind vollständig besetzt, ohne Lücken oder überstehende Würfel; vorhandene passende Positionen bleiben erhalten. Die räumliche Übereinstimmung ist zugänglich und erfordert kein Erschließen verdeckter Innenräume. Keine Anzahl fehlender Würfel, Differenz, Volumenberechnung oder Formel wird als Erfolgskriterium verlangt.",
+          "status": "Didaktische Konkretisierung von35456/35459. Kein eigener allgemeiner FSP-Operator ausgewiesen. Räumlicher Ausschnitt ohne numerische Zusatzanforderungen.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Quaderergänzung ohne Anzahlberechnung",
+        "detail": "35456/35459 belegen Quadermerkmale und Nachformen/Bauen, nennen jedoch keine feste Würfelanzahl oder Volumengrenze. Der bereits begonnene Aufbau als Ausgangsstand ist didaktische Auswahl. Vollständigkeit wird räumlich beurteilt; numerische Zwischen- oder Endergebnisse gehören nicht zum gespeicherten Feinziel.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35456",
+          "Q-MA-page139_35459"
+        ],
+        "planning_rule": "Die vollständige Quaderanordnung und der vorhandene Aufbau sind räumlich bekannt und eindeutig zugänglich; Quader- und Würfelmerkmale vertraut. Keine unbekannten verdeckten Innenpositionen oder allein numerisch beschriebenen Maße. Die gespeicherten Feinziele enthalten keine numerischen Planangaben, Anzahlen, Längen, Winkel, Einheiten oder Rechen-Zwischen-/Endergebnisse. Keine20/100-Grenze und keine Höchstzahl an Würfeln erfinden. Falls eigene Entwürfe numerische Bedingungen ergänzen, deren Zahlen- und Darstellungsbereich samt allen relevanten Zwischen-/Endwerten gesondert belegen oder ausdrücklich didaktisch festlegen; diese Erweiterung ist durch die Karte nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft."
+      },
+      "fsp_operator_evidence": {
+        "status": "not_stated",
+        "parent_target_id": "page139_35456",
+        "source_ids": [
+          "Q-MA-page139_35456",
+          "Q-MA-page139_35459"
+        ],
+        "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "pdf_page_one_based": 31,
+        "printed_page": "19",
+        "checked_on": "2026-11-18",
+        "notice": "Kein eigener Operator ausgewiesen",
+        "finding": "Onlinezeile35456 und PDF S.19 führen Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Nachformen und Bauen35459 ist darunter aufgeführt. Anwenden35451 betrifft das vorherige Formenbestimmungsziel und wird diesem Inhaltsblock nicht als gesicherter Operator zugeschrieben."
+      },
+      "evidence_classification": {
+        "gs": "2012 Hauptziel Übertragen;187153 übergeordnetes Würfelgebäudeziel;page912_187156 ausgewähltes Unterziel.2012 und187153 hier ausschließlich Kontext, keine erneute Abdeckung gezählt.",
+        "fsp": "GS187156 nennt Ergänzen zum vollständigen Quader; Anzahl fehlender Würfel ermitteln steht gesondert in der Bemerkung. FSP35456 nennt Quadermerkmale und35459 Nachformen und Bauen. Die Auswahl eines bereits begonnenen Würfelquaders als Ausgangsstand beim Nachformen einer bekannten vollständigen Quaderanordnung ist ausdrücklich didaktische Konkretisierung, kein wörtliches FSP-Ergänzungsziel. Der Anschluss umfasst die räumliche Vervollständigung; keine Anzahlberechnung. Inhaltsblock35456 ohne eigenen Operator; keine Operatorübernahme aus Nachbarzeile35451.",
+        "fsp_remark_anchors": [
+          "page139_35459"
+        ],
+        "context_only_gs_ids": [
+          "page912_2012",
+          "page912_187153"
         ]
       }
     }

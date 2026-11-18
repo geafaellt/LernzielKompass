@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-081",
+  "last_batch": "MA-082",
   "complete": false,
   "counts": {
-    "cards": 84,
+    "cards": 86,
     "cross_band": 26
   },
   "source_plans": {
@@ -2806,10 +2806,36 @@
       "area": "Lernbereich 2: Die Welt um mich herum",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187155": {
+      "id": "page912_187155",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Verändern",
+      "remarks": "Zerlegen, Zusammensetzen, Umbauen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187155",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187156": {
+      "id": "page912_187156",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Ergänzen zum vollständigen Quader",
+      "remarks": "Anzahl fehlender Würfel ermitteln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187156",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187155",
-  "next_step": "GS3 Würfelgebäude: Verändern187155, Ergänzen zum vollständigen Quader187156, Muster/Strukturen187157 und Anzahlen187158 gegen beide FSP-Bänder prüfen. MA-084 deckt187152/187153/187154 nur im Ausschnitt vorgegebener ebener Plan → Würfelturm ab. Eigene Baupläne und umgekehrte Richtung bleiben als Restumfang positiv weiterzuprüfen.35456/35459 ist als Inhaltsblock ohne eigenen Operator geklärt; keinen Operator erfinden. Weitere Wegdarstellungen/Ansichten bleiben Teil der Anschlussfrage187152.84 Karten(58 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge bleiben offen; kein Gesamtabschluss. App1.388 veröffentlicht und live geprüft; vollständiger lokaler84-Karten-Browserlauf und Nachweise in MA-081.",
+  "next_id": "page912_187157",
+  "next_step": "GS3 Würfelgebäude: Erkennen von Mustern und Strukturen187157 sowie Bestimmen von Anzahlen187158 als nächstes gegen beide FSP-Bänder prüfen.187155 teilweise durch MA-085(räumlicher Umbau),187156 teilweise durch MA-086(qualitative Ergänzung einer bekannten zugänglichen Quaderanordnung). Anzahl fehlender Würfel aus der Bemerkung187156 bleibt offen und soll mit187158 geprüft werden. Eigene Baupläne, weitere Darstellungen und alle bisherigen Restumfänge bleiben offen. FSP35456/35459 weiterhin ohne eigenen Operator; keine numerischen Grenzen erfunden.86 Karten(60 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3098,7 +3124,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_081.json",
+  "last_review_file": "review_batch_082.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4127,6 +4153,18 @@
       "scope": "Nur Zuordnung eines vorgegebenen ebenen Plans mit bekannten Darstellungsregeln zum Würfelturm. Selbstständiges Entschlüsseln weiterer Plankonventionen, eigene Planentwürfe und allgemeine Ansichten-/Gebäudezuordnung offen.",
       "status": "offen",
       "review": "MA-081"
+    },
+    {
+      "gs_id": "page912_187155",
+      "scope": "Weitere Arten des Zerlegens und Zusammensetzens, selbstständige Entwicklung einer Zielform oder eines Plans, gedankliches Operieren mit nicht zugänglichen Würfeln sowie Anzahl-, Höhen- und Mengenerhaltungsbegründungen bleiben offen. MA-085 nur räumlicher Umbau nach geklärter Zielanordnung.",
+      "status": "offen",
+      "review": "MA-082"
+    },
+    {
+      "gs_id": "page912_187156",
+      "scope": "Ermitteln oder Berechnen der Anzahl fehlender Würfel aus der GS-Bemerkung, verdeckte Innenwürfel, verschiedene mögliche Zielquader, selbstständige Zielbestimmung, Bauplanproduktion, Maßangaben und Volumenbeziehungen bleiben offen. MA-086 nur räumliche Vervollständigung einer bekannten zugänglichen Quaderanordnung.",
+      "status": "offen",
+      "review": "MA-082"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4158,7 +4196,7 @@
       "page912_2012"
     ],
     "rows": 158,
-    "note": "Keine neuen Inventurzeilen.187153/187154 erstmals teilweise geprüft;187152 mit MA-084 erneut teilweise geprüft und Anschlussfrage auf Rest eingegrenzt.2012 nur Kontext.187155–187158 weiter offen.",
+    "note": "Keine neue Inventur.187155/187156 erstmals in räumlichen Ausschnitten teilweise geprüft.2012 und187153 nur Kontext;187157/187158 weiterhin offen. Anzahlermittlung in Bemerkung187156 nicht als geprüft gezählt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4414,6 +4452,17 @@
         "MA-083"
       ],
       "note": "Kein numerisches Maximum der Bauzeile. Vorab festgelegter Rahmen für alle Planangaben und gesamte Würfelanzahlen einschließlich Zwischen-/Endwerten; keine automatische100- oder1m-Grenze. Alte83 Karten unverändert."
+    },
+    "follow_up_spatial_changes": {
+      "batch": "MA-082",
+      "cards": {
+        "MA-085": "domain_specific",
+        "MA-086": "domain_specific"
+      },
+      "existing_rechecked": [
+        "MA-084"
+      ],
+      "note": "Beide neuen Feinziele ausschließlich räumlich ohne numerische Angaben oder Anzahlermittlung. Kein20/100- oder1m-Rahmen als erfundene Baugrenze. MA-084 bleibt bei Bauplanangaben/Würfelanzahlen ausdrücklich noch festzulegen. Alle84 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4434,13 +4483,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-081",
-    "status": "verified",
-    "app_version": "1.388",
-    "app_commit": "8b81c0ac98eb4f406344999bf4899024616f5b9d",
-    "pages_run": 44248961692,
-    "live_sha256": "b536edaf97e25219cb539cbed804b803dcfb279d28c52351d75a00d4270b42f2",
-    "browser": "All84 mathematics cards local; all397-card disclosures local; MA-084 live GS3 and mobile320/390 passed"
+    "batch": "MA-082",
+    "status": "pending",
+    "app_version": "1.389",
+    "previous_verified_version": "1.388"
   },
   "latest_audit_publication": {
     "batch": "MA-079",
