@@ -2874,7 +2874,7 @@
     }
   },
   "next_id": "page912_187156",
-  "next_step": "Als Nächstes GS3 Anzahl fehlender Würfel aus Bemerkung187156 gegen FSP3/4 35470/35479 sowie35504/35508/35509 und FSP1/2 37851/37863 sowie37896/37898/37908 prüfen. Bekannte Gesamt-/Teilmengen, räumliche Zugehörigkeit zum Zielquader und sachlich richtige Differenzbedeutung sichern; alle numerischen Zwischen-/Endwerte begrenzen. Die konkrete Musterfrage187157 ist durch MA-088 als qualitative Symmetrie einer festgelegten Vorderansicht begrenzt entschieden, keine ganze Körpersymmetrie. Weitere Muster/Reihungen, Schichten, verdeckte Würfel, Baupläne und übrige Restumfänge bleiben offen.88 Karten(62 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes GS3 Anzahl fehlender Würfel aus Bemerkung187156 gegen FSP3/4 35470/35479 sowie35504/35508/35509 und FSP1/2 37851/37863 sowie37896/37898/37908 prüfen. Bekannte Gesamt-/Teilmengen, räumliche Zugehörigkeit zum Zielquader und sachlich richtige Differenzbedeutung sichern; alle numerischen Zwischen-/Endwerte begrenzen. Die konkrete Musterfrage187157 ist durch MA-088 als qualitative Symmetrie einer festgelegten Vorderansicht begrenzt entschieden, keine ganze Körpersymmetrie. Weitere Muster/Reihungen, Schichten, verdeckte Würfel, Baupläne und übrige Restumfänge bleiben offen.88 Karten(62 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.391 veröffentlicht und live geprüft; Nachweise in MA-084.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4565,8 +4565,12 @@
   },
   "latest_publication": {
     "batch": "MA-084",
-    "status": "pending",
-    "app_version": "1.391"
+    "status": "verified",
+    "app_version": "1.391",
+    "app_commit": "b050452a3891b587c3906f3c4f490759c7dc5829",
+    "pages_run": 44315051043,
+    "live_sha256": "d57aebb61f395d41c7bbb1a6f76e7fe4ce5e1350a64a58029bbe50213d6ddb85",
+    "browser": "MA-002 GS1/2 and MA-084/088 GS3 local and live; MA-088 mobile320/390 passed. No UI code change; no full88-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",
