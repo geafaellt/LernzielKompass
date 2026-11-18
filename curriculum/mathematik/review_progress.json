@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-084",
+  "last_batch": "MA-085",
   "complete": false,
   "counts": {
-    "cards": 88,
+    "cards": 89,
     "cross_band": 26
   },
   "source_plans": {
@@ -2871,10 +2871,36 @@
       "version": "2019",
       "target": "Entdecken und Herstellen von Symmetrien",
       "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken"
+    },
+    "page139_35470": {
+      "id": "page139_35470",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "operator": "Übertragen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "version": "2019",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung"
+    },
+    "page139_35479": {
+      "id": "page139_35479",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "version": "2019",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben"
     }
   },
-  "next_id": "page912_187156",
-  "next_step": "Als Nächstes GS3 Anzahl fehlender Würfel aus Bemerkung187156 gegen FSP3/4 35470/35479 sowie35504/35508/35509 und FSP1/2 37851/37863 sowie37896/37898/37908 prüfen. Bekannte Gesamt-/Teilmengen, räumliche Zugehörigkeit zum Zielquader und sachlich richtige Differenzbedeutung sichern; alle numerischen Zwischen-/Endwerte begrenzen. Die konkrete Musterfrage187157 ist durch MA-088 als qualitative Symmetrie einer festgelegten Vorderansicht begrenzt entschieden, keine ganze Körpersymmetrie. Weitere Muster/Reihungen, Schichten, verdeckte Würfel, Baupläne und übrige Restumfänge bleiben offen.88 Karten(62 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.391 veröffentlicht und live geprüft; Nachweise in MA-084.",
+  "next_id": "page912_187153",
+  "next_step": "Als Nächstes die noch offene Umkehrrichtung Würfelgebäude → eigener Bauplan in GS3 187153 und187154 prüfen. Stufenpassender FSP-Beleg35459 nennt Finden eigener Baupläne als Differenzierung;35456/35459 weiterhin ohne eigenen Operator. Darstellungsregeln, Ansichten und vorab festzulegende Plan-/Würfelzahlen beachten; beide FSP-Bänder prüfen. MA-089 ergänzt nur fehlende Würfelzahl aus bekannten Gesamt-/Teilmengen bis100 in187156/187158. Unbekannte verdeckte Anzahlen, Volumen-/Schichtverfahren, weitere Strukturen und bisherige Restumfänge bleiben offen.89 Karten(63 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3163,7 +3189,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_084.json",
+  "last_review_file": "review_batch_085.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4201,15 +4227,15 @@
     },
     {
       "gs_id": "page912_187156",
-      "scope": "Ermitteln oder Berechnen der Anzahl fehlender Würfel aus der GS-Bemerkung, verdeckte Innenwürfel, verschiedene mögliche Zielquader, selbstständige Zielbestimmung, Bauplanproduktion, Maßangaben und Volumenbeziehungen bleiben offen. MA-086 nur räumliche Vervollständigung einer bekannten zugänglichen Quaderanordnung.",
+      "scope": "MA-086 trägt qualitative Ergänzung eines bekannten Quaders; MA-089 ergänzt die fehlende Anzahl als Subtraktion bekannter Gesamt-/Teilmengen bis100. Offen bleiben erst zu erschließende verdeckte Ziel-/Innenwürfel, unbekannte Gesamtanzahlen, mehrere mögliche Zielquader, selbstständige Zielbestimmung, Bauplanproduktion, Maß-/Volumenbeziehungen und andere Zahlenräume. Kein allgemeines Verfahren zum Ermitteln unbekannter Quaderanzahlen.",
       "status": "offen",
-      "review": "MA-082"
+      "review": "MA-085"
     },
     {
       "gs_id": "page912_187158",
-      "scope": "Nur eindeutige Gesamtanzahl eines vollständig bekannten, zugänglichen Würfelaufbaus bis 100 durch MA-087. Weitere Anzahlen, verdeckte Innenwürfel, bloß bildlich verdeckte oder aus Plänen erst zu erschließende Würfel, strukturierte Schicht-/Reihenberechnungen, Multiplikation, Zuordnen von Rechenoperationen und Termen sowie Zahlenbereiche über 100 bleiben offen. Keine volle Deckung des GS-Unterziels.",
+      "scope": "MA-087 trägt vorhandene, eindeutig identifizierbare Würfelanzahlen bis100; MA-089 ergänzt die fehlende Anzahl aus bekannten Gesamt-/Teilmengen durch passende Subtraktion bis100. Offen bleiben unbekannte verdeckte Anzahlen, aus Plänen erst zu erschließende Mengen, Schicht-/Reihenberechnungen, Multiplikation, weitere Operationszuordnungen und allgemeine Term-/Darstellungswechsel sowie andere Zahlenräume.",
       "status": "offen",
-      "review": "MA-083"
+      "review": "MA-085"
     },
     {
       "gs_id": "page912_187157",
@@ -4247,7 +4273,7 @@
       "page912_2012"
     ],
     "rows": 158,
-    "note": "Keine neue Inventur und keine neue erstmalige Einzelprüfung. Bereits in MA-083 einzeln geprüfte Zeile187157 erneut geprüft und erstmals teilweise angeschlossen; eine konkrete Anschlussfrage entschieden. Die übrigen Muster-/Strukturausschnitte bleiben als Restumfang offen.2012 und187153 nur Kontext.",
+    "note": "Keine neue Inventur oder erstmalige Einzelprüfung. Zwei bereits teilweise geprüfte GS-Unterzeilen187156/187158 um einen gemeinsamen Fehlanzahl-Ausschnitt erweitert. Bemerkungsbezüge nicht als neue Zielzeilen gezählt;2012/187153 nur Kontext.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4544,6 +4570,19 @@
         "MA-087"
       ],
       "note": "Nur qualitative Symmetrie in festgelegter Vorderansicht; keine Zahlobergrenze, keine numerischen Zwischen-/Endwerte. Symmetrie der Ansicht wird nicht zur Körpersymmetrie erweitert. Alle87 Bestandskarten behalten ihren eigenen Geltungsbereich."
+    },
+    "follow_up_missing_cube_counts": {
+      "batch": "MA-085",
+      "cards": {
+        "MA-089": "explicit"
+      },
+      "existing_rechecked": [
+        "MA-028",
+        "MA-036",
+        "MA-086",
+        "MA-087"
+      ],
+      "note": "Direkte Unterzielgrenze bis100 in35479. Ganzer Zielquader, vorhandene Teilmenge, Fehlanzahl sowie alle Zwischen-/Endwerte begrenzt; Teilmenge enthalten und nicht größer als Gesamtmenge. GS bis100 ausdrücklich didaktisch gewählt. Alle88 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4564,13 +4603,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-084",
-    "status": "verified",
-    "app_version": "1.391",
-    "app_commit": "b050452a3891b587c3906f3c4f490759c7dc5829",
-    "pages_run": 44315051043,
-    "live_sha256": "d57aebb61f395d41c7bbb1a6f76e7fe4ce5e1350a64a58029bbe50213d6ddb85",
-    "browser": "MA-002 GS1/2 and MA-084/088 GS3 local and live; MA-088 mobile320/390 passed. No UI code change; no full88-card browser run."
+    "batch": "MA-085",
+    "status": "pending",
+    "app_version": "1.392"
   },
   "latest_audit_publication": {
     "batch": "MA-079",

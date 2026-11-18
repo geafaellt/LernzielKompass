@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-18.4",
+  "version": "MA-2026-11-18.5",
   "checked_on": "2026-11-18",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1465,6 +1465,18 @@
       "id": "Q-MA-page139_35433",
       "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35470",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35479",
+      "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
       "version": "2019"
     }
   ],
@@ -8577,6 +8589,85 @@
         "Q-MA-page912_187157",
         "Q-MA-page139_35432",
         "Q-MA-page139_35433"
+      ]
+    },
+    {
+      "id": "MA-089",
+      "subject": "Mathematik",
+      "theme": "Fehlende Würfelzahl aus bekannten Anzahlen berechnen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Fehlanzahl durch Subtraktion bis 100",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Fehlende Würfelanzahl aus Bemerkung zu Ergänzen187156 und Anzahlen187158 mit Operationsbezug aus Bemerkung, unter Übertragen2012 im Würfelgebäude-Kontext187153",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Subtrahieren bis 100 aus Unterziel35479 unter Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt35470",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Übertragen · FSP: Übertragen. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4. GS Übertragen stammt aus 2012, FSP Übertragen aus 35470. GS 187156 nennt Ergänzen zum vollständigen Quader; Anzahl fehlender Würfel ermitteln steht in der Bemerkung. GS 187158 nennt Bestimmen von Anzahlen; Rechenoperationen und Terme sind dort Bemerkungsbezug. FSP 35479 nennt Addieren und Subtrahieren ausdrücklich bis 100. Gewählt wird die Subtraktion einer bekannten passenden Teilmenge von der bekannten Gesamtmenge eines vertrauten Zielquaders. Diese konkrete Sachsituation und ihre Teil-Ganzes-Deutung sind didaktische Konkretisierungen. Gesamtanzahl minus vorhandene Anzahl ergibt die fehlende Anzahl; vorhandene Würfel müssen zu den bekannten Zielpositionen gehören. Keine unbekannte Gesamtmenge aus verdeckten Würfeln, Bauplänen, Maßen oder Volumenformeln erschließen. FSP bis 100 ist eine Grenze der Unterzielzeile, nicht aus dem übergreifenden Bandziel abgeleitet. Die GS-Geometriezeilen nennen keine eigene Obergrenze; bis 100 ist für das gespeicherte GS-Feinziel didaktisch gewählt. Keine vollständige GS-Zieldeckung und keine automatische Übernahme einer Grenze bis 1 000 aus anderen GS-Zahlzielen.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187153",
+        "page912_187156",
+        "page912_187158"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4. GS Übertragen stammt aus 2012, FSP Übertragen aus 35470. GS 187156 nennt Ergänzen zum vollständigen Quader; Anzahl fehlender Würfel ermitteln steht in der Bemerkung. GS 187158 nennt Bestimmen von Anzahlen; Rechenoperationen und Terme sind dort Bemerkungsbezug. FSP 35479 nennt Addieren und Subtrahieren ausdrücklich bis 100. Gewählt wird die Subtraktion einer bekannten passenden Teilmenge von der bekannten Gesamtmenge eines vertrauten Zielquaders. Diese konkrete Sachsituation und ihre Teil-Ganzes-Deutung sind didaktische Konkretisierungen. Gesamtanzahl minus vorhandene Anzahl ergibt die fehlende Anzahl; vorhandene Würfel müssen zu den bekannten Zielpositionen gehören. Keine unbekannte Gesamtmenge aus verdeckten Würfeln, Bauplänen, Maßen oder Volumenformeln erschließen. FSP bis 100 ist eine Grenze der Unterzielzeile, nicht aus dem übergreifenden Bandziel abgeleitet. Die GS-Geometriezeilen nennen keine eigene Obergrenze; bis 100 ist für das gespeicherte GS-Feinziel didaktisch gewählt. Keine vollständige GS-Zieldeckung und keine automatische Übernahme einer Grenze bis 1 000 aus anderen GS-Zahlzielen.",
+      "shared_object_suggestion": "Die fehlende Würfelanzahl als Differenz zwischen bekannter Gesamtanzahl des Zielquaders und bekannter, passend angeordneter Teilanzahl.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bezieht den bekannten Teil-Ganzes-Zusammenhang eines Zielquaders auf eine passende Subtraktion und berechnet aus bekannten Anzahlen bis 100 die Zahl der fehlenden Würfel.",
+          "criterion": "Die Gesamtanzahl des Zielquaders ist der Minuend, die vorhandene passende Teilanzahl der Subtrahend. Die korrekt berechnete nichtnegative Differenz bezeichnet die fehlende Würfelanzahl. Vorhandene und fehlende Anzahl ergeben zusammen die bekannte Gesamtanzahl. Alle Gesamt-, Teil- und Fehlanzahlen sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100. Keine zusätzliche Volumenberechnung oder Ermittlung unbekannter verdeckter Würfel.",
+          "status": "Didaktischer Teilanschluss unter Übertragen2012, mit Fehlanzahl-/Operationsbezug aus GS-Bemerkungen. Bis100 didaktisch gewählt, keine eigene amtliche Grenze der GS-Geometriezeilen."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind überträgt sein Wissen über Subtraktion auf die fehlende Würfelanzahl eines bekannten Zielquaders und berechnet sie aus bekannter Gesamt- und Teilanzahl bis 100.",
+          "criterion": "Die Gesamtanzahl des Zielquaders ist der Minuend, die vorhandene passende Teilanzahl der Subtrahend. Die korrekt berechnete nichtnegative Differenz bezeichnet die fehlende Würfelanzahl. Vorhandene und fehlende Anzahl ergeben zusammen die bekannte Gesamtanzahl. Alle Gesamt-, Teil- und Fehlanzahlen sowie sämtliche relevanten Zwischen- und Endergebnisse bleiben bis 100. Keine zusätzliche Volumenberechnung oder Ermittlung unbekannter verdeckter Würfel.",
+          "status": "Didaktische Sachsituation zu Subtrahieren35479 unter Übertragen35470; Grenze bis100 ausdrücklich in35479. Kein bestimmtes schriftliches oder halbschriftliches Verfahren vorausgesetzt.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 · ausdrücklich in der FSP-Unterzielzeile zur Addition und Subtraktion",
+        "detail": "Die Obergrenze steht unmittelbar in35479 unter Übertragen35470. Die Fehlanzahlsituation am Zielquader ist didaktische Konkretisierung dieses Recheninhalts. Keine Ableitung aus einem Stufenbandziel und keine allgemeine Größen- oder Würfelzahlgrenze für andere Baukarten.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479"
+        ],
+        "planning_rule": "Der vollständige Zielquader, die zugehörigen Würfelpositionen und seine Gesamtanzahl sind bekannt. Die vorhandenen Würfel bilden eine bekannte Teilmenge mit passenden Positionen; keine überstehenden, fremden oder doppelt gezählten Würfel. Die Teilanzahl überschreitet die Gesamtanzahl nicht. Es sind keine verdeckten, noch unbekannten Zielpositionen oder Anzahlen zu erschließen. Nur nichtnegative ganze Anzahlen. Gesamtanzahl, vorhandene Teilanzahl, fehlende Anzahl und sämtliche relevanten Zwischen-/Endergebnisse bleiben bis 100. Die Grenze gilt für den ganzen Zielquader, nicht nur für einzelne Türme oder Schichten. Bekannte Mengenbeziehung vor der Rechnung sichern. Keine Maßangaben, Einheitenumwandlungen oder Volumenformeln hinzufügen. Eigene Erweiterungen der Lehrkraft und Freitexte sind nicht automatisch fachlich validiert. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "2012 ist Hauptziel Übertragen,187153 nur Hierarchiekontext.187156 Ziel Ergänzen zum Quader mit Fehlanzahl in Bemerkung;187158 Ziel Anzahlen mit Rechenoperations-/Termbezug in Bemerkung. Ausgewählt nur bekannte Fehlanzahl durch passende Subtraktion, keine allgemeine Termdarstellung.",
+        "gs_remark_anchors": [
+          "page912_187156",
+          "page912_187158"
+        ],
+        "fsp": "35470 Hauptziel Übertragen;35479 Unterziel Addieren und Subtrahieren bis100. Gewählt nur Subtraktion einer enthaltenen bekannten Teilmenge; konkrete Würfel-Sachsituation didaktisch. Keine Operatorübernahme aus35504 (Einblick gewinnen) oder dem operatorlosen Bauinhalt35456.",
+        "context_only_gs_ids": [
+          "page912_2012",
+          "page912_187153"
+        ]
+      },
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187153",
+        "Q-MA-page912_187156",
+        "Q-MA-page912_187158",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479"
       ]
     }
   ]
