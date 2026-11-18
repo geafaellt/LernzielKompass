@@ -599,7 +599,7 @@
   },
   "continuation": "Zuerst die konkrete Anschlussfrage zu GS3 Muster/Strukturen 187157 lösen: FSP3/4 Symmetrien an Gebäuden 35432/35433 vor FSP1/2 Reihung von Gegenständen 38016 (Wahlbereich 3) prüfen; Ansichts- und Raumbezug ausdrücklich trennen. Danach Anzahl fehlender Würfel aus Bemerkung 187156 gegen 35470/35479 und 35504/35509 klären.187158 durch MA-087 nur vorhandene, eindeutig identifizierbare Würfelmenge bis 100 teilweise angeschlossen; verdeckte Würfel, Operationen/Terme und weitere Zahlenräume offen. Alle bisherigen Anschlussfragen, eigenen Pläne und Restumfänge fortführen.87 Karten (61 passend,26 stufenübergreifend),24 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -637,11 +637,19 @@
       "html_blob_sha": "83ee1a5c2548cfff446abb63abb73917b2d7905b"
     },
     "baseline": "Twelve input files matched main66ad0e62839136c582980fd4ce3932e884689532, tree8d0d1d94a34ce9f882ae4c63608bf1c4f14a2f5f; CSV newline conventions accounted for.",
-    "browser_live": "pending"
+    "browser_live": "MA-010/012 in GS1 and GS2, MA-017/087 in GS3 passed publicly: sources, operator labels, scope on card/goals/output, exact goals/criteria, empty task/aid fields, preserved teacher drafts, subject isolation/reload. MA-087 additionally mobile320px/390px. No full87-card browser run claimed; UI code unchanged."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.390",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "bcc5190803939b062ae90ed6f07f9957bac42750",
+    "pages_run": 44288921364,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44288921364",
+    "pages_conclusion": "success",
+    "live_app_version": "1.390",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "218ab4fe647f4c5bd2de753c18a1838ca5bb412a2d3730ff3266f106b072b6d5",
+    "verified_at": "2026-11-18T11:50:10.558137+00:00"
   }
 }

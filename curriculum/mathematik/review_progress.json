@@ -2848,7 +2848,7 @@
     }
   },
   "next_id": "page912_187157",
-  "next_step": "Zuerst die konkrete Anschlussfrage zu GS3 Muster/Strukturen 187157 lösen: FSP3/4 Symmetrien an Gebäuden 35432/35433 vor FSP1/2 Reihung von Gegenständen 38016 (Wahlbereich 3) prüfen; Ansichts- und Raumbezug ausdrücklich trennen. Danach Anzahl fehlender Würfel aus Bemerkung 187156 gegen 35470/35479 und 35504/35509 klären.187158 durch MA-087 nur vorhandene, eindeutig identifizierbare Würfelmenge bis 100 teilweise angeschlossen; verdeckte Würfel, Operationen/Terme und weitere Zahlenräume offen. Alle bisherigen Anschlussfragen, eigenen Pläne und Restumfänge fortführen.87 Karten (61 passend,26 stufenübergreifend),24 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Zuerst die konkrete Anschlussfrage zu GS3 Muster/Strukturen 187157 lösen: FSP3/4 Symmetrien an Gebäuden 35432/35433 vor FSP1/2 Reihung von Gegenständen 38016 (Wahlbereich 3) prüfen; Ansichts- und Raumbezug ausdrücklich trennen. Danach Anzahl fehlender Würfel aus Bemerkung 187156 gegen 35470/35479 und 35504/35509 klären.187158 durch MA-087 nur vorhandene, eindeutig identifizierbare Würfelmenge bis 100 teilweise angeschlossen; verdeckte Würfel, Operationen/Terme und weitere Zahlenräume offen. Alle bisherigen Anschlussfragen, eigenen Pläne und Restumfänge fortführen.87 Karten (61 passend,26 stufenübergreifend),24 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.390 veröffentlicht und live geprüft; Nachweise in MA-083.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4549,8 +4549,12 @@
   },
   "latest_publication": {
     "batch": "MA-083",
-    "status": "pending",
-    "app_version": "1.390"
+    "status": "verified",
+    "app_version": "1.390",
+    "app_commit": "bcc5190803939b062ae90ed6f07f9957bac42750",
+    "pages_run": 44288921364,
+    "live_sha256": "218ab4fe647f4c5bd2de753c18a1838ca5bb412a2d3730ff3266f106b072b6d5",
+    "browser": "MA-010/012 GS1/2 and MA-017/087 GS3 local and live; MA-087 mobile320/390 passed. No UI code change; no full87-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",
