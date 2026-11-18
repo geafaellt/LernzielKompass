@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-18.3",
+  "version": "MA-2026-11-18.4",
   "checked_on": "2026-11-18",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1454,6 +1454,18 @@
       "title": "GS Mathematik3 · Lernbereich1 Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187158",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187157",
+      "title": "GS Mathematik3 · Lernbereich1 Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187157",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35433",
+      "title": "FSP Mathematik 3/4 · Lernbereich 1: Einer braucht den anderen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -8491,6 +8503,80 @@
         "Q-MA-page139_35461",
         "Q-MA-page139_35463",
         "Q-MA-page139_35466"
+      ]
+    },
+    {
+      "id": "MA-088",
+      "subject": "Mathematik",
+      "theme": "Spiegelgleiche Struktur einer Würfelgebäudeansicht erkennen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · qualitative Ansichtsstruktur",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Erkennen von Mustern und Strukturen 187157 im Würfelgebäude-Kontext 187153 unter Übertragen 2012",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 1: Einer braucht den anderen · Entdecken und Herstellen von Symmetrien 35433 unter Kennen von Spiegelbildern 35432; Gebäude als Bemerkungsbezug, ausgewählt nur Entdecken",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Übertragen · FSP: Kennen. Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4. GS Übertragen stammt aus 2012; FSP Kennen stammt aus Kennen von Spiegelbildern 35432. Entdecken und Herstellen von Symmetrien 35433 ist ein Unterziel; an Gebäuden steht in der Bemerkung. Ausgewählt wird nur das Entdecken einer spiegelgleichen Struktur in einer festgelegten geraden Vorderansicht eines bekannten Würfelgebäudes. Die Vorderansicht und eine bereits geklärte Mittellinie sind didaktische Eingrenzungen, kein wörtlicher FSP-Sonderauftrag. Bekannte Lagebeziehungen werden auf diese sichtbare Struktur bezogen. Eine symmetrische Ansicht belegt keine Symmetrieebene und keine vollständige Symmetrie des dreidimensionalen Körpers. Keine vollständige GS-Zieldeckung: andere Muster, Tiefen- und Schichtstrukturen, Perspektivwechsel, Achsensuche und das Herstellen symmetrischer Bauten bleiben offen. Keine Anzahl-, Mess-, Winkel- oder Rechenanforderung; eine numerische Obergrenze ist für diesen qualitativen Ausschnitt nicht maßgeblich und wird aus keinem Zahlziel übernommen.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187153",
+        "page912_187157"
+      ],
+      "fsp_target_ids": [
+        "page139_35432",
+        "page139_35433"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4. GS Übertragen stammt aus 2012; FSP Kennen stammt aus Kennen von Spiegelbildern 35432. Entdecken und Herstellen von Symmetrien 35433 ist ein Unterziel; an Gebäuden steht in der Bemerkung. Ausgewählt wird nur das Entdecken einer spiegelgleichen Struktur in einer festgelegten geraden Vorderansicht eines bekannten Würfelgebäudes. Die Vorderansicht und eine bereits geklärte Mittellinie sind didaktische Eingrenzungen, kein wörtlicher FSP-Sonderauftrag. Bekannte Lagebeziehungen werden auf diese sichtbare Struktur bezogen. Eine symmetrische Ansicht belegt keine Symmetrieebene und keine vollständige Symmetrie des dreidimensionalen Körpers. Keine vollständige GS-Zieldeckung: andere Muster, Tiefen- und Schichtstrukturen, Perspektivwechsel, Achsensuche und das Herstellen symmetrischer Bauten bleiben offen. Keine Anzahl-, Mess-, Winkel- oder Rechenanforderung; eine numerische Obergrenze ist für diesen qualitativen Ausschnitt nicht maßgeblich und wird aus keinem Zahlziel übernommen.",
+      "shared_object_suggestion": "Spiegelbildlich zueinander passende sichtbare Teilformen und Lagebeziehungen in einer festgelegten Vorderansicht eines Würfelgebäudes.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte Lagebeziehungen auf das Erkennen einer spiegelgleichen Struktur in der festgelegten Vorderansicht eines bekannten Würfelgebäudes an einer geklärten Mittellinie.",
+          "criterion": "Die erkannten sichtbaren Teilformen passen in der festgelegten Vorderansicht bezüglich Form und Lage spiegelbildlich über die bekannte Mittellinie zueinander. Die Aussage bleibt auf diese Ansicht begrenzt; daraus wird keine Symmetrie des ganzen Körpers abgeleitet. Keine Zählung, Messung, Achsenkonstruktion oder Rechnung als zusätzliches Erfolgskriterium.",
+          "status": "Didaktische Auswahl eines qualitativen Struktur-Ausschnitts unter Übertragen; keine allgemeine Körpersymmetrie und keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt spiegelbildlich zueinander passende sichtbare Teilformen in der festgelegten Vorderansicht eines bekannten Würfelgebäudes an einer geklärten Mittellinie.",
+          "criterion": "Die erkannten sichtbaren Teilformen passen in der festgelegten Vorderansicht bezüglich Form und Lage spiegelbildlich über die bekannte Mittellinie zueinander. Die Aussage bleibt auf diese Ansicht begrenzt; daraus wird keine Symmetrie des ganzen Körpers abgeleitet. Keine Zählung, Messung, Achsenkonstruktion oder Rechnung als zusätzliches Erfolgskriterium.",
+          "status": "Didaktische Konkretisierung des Entdeckens von Symmetrien 35433 unter Kennen 35432; Gebäude aus der Bemerkung, konkrete Ansicht und Mittellinie didaktisch festgelegt.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Symmetrie einer festgelegten Gebäudeansicht",
+        "detail": "35432/35433 belegen Spiegelbilder und Entdecken von Symmetrien; Gebäude sind ein Bemerkungsbezug. Die Zahl der Würfel, Maße oder Winkel sind kein Kriterium dieses Ausschnitts. Die Zielzeilen nennen keine numerische Obergrenze; keine solche Grenze wird erfunden.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35432",
+          "Q-MA-page139_35433"
+        ],
+        "planning_rule": "Bekanntes Würfelgebäude mit eindeutig zugeordneter, festgelegter gerader Vorderansicht ohne perspektivische Verzerrung; die betrachtete Mittellinie ist geklärt. Nur die sichtbaren Formen und Lagebeziehungen dieser Ansicht sind Gegenstand. Verdeckte Teile oder die Tiefe des Gebäudes werden nicht erschlossen. Die Feinziele und Kriterien enthalten keine Zahlen, Anzahlen, Koordinaten, Längen-/Winkelmesswerte oder numerischen Zwischen-/Endergebnisse. Keine Grenze bis20/100 aus anderen Zielen übernehmen. Numerische Erweiterungen, weitere Ansichten oder Aussagen über den ganzen Körper benötigen eine eigene fachliche Prüfung. Freie Lehrkraftentwürfe bleiben ungeprüft; Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "187157 ist Unterziel unter Übertragen 2012;187153 ist übergeordneter Würfelgebäude-Kontext. Nur sichtbare Symmetriestruktur der gewählten Ansicht, nicht der gesamte Raum-/Bauplanbereich.",
+        "fsp": "35432 Hauptziel Kennen;35433 Unterziel Entdecken und Herstellen von Symmetrien. Gewählt nur Entdecken. Gebäude sind Bemerkungsbezug. Die festgelegte Vorderansicht und bekannte Mittellinie sind didaktische Eingrenzung, nicht zusätzliche amtliche Operatoren.",
+        "fsp_remark_anchor": "page139_35433",
+        "context_only_gs_ids": [
+          "page912_2012",
+          "page912_187153"
+        ]
+      },
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187153",
+        "Q-MA-page912_187157",
+        "Q-MA-page139_35432",
+        "Q-MA-page139_35433"
       ]
     }
   ]

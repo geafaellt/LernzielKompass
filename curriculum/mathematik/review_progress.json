@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-083",
+  "last_batch": "MA-084",
   "complete": false,
   "counts": {
-    "cards": 87,
+    "cards": 88,
     "cross_band": 26
   },
   "source_plans": {
@@ -2845,10 +2845,36 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": "",
       "version": "2026"
+    },
+    "page912_187157": {
+      "id": "page912_187157",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Erkennen von Mustern und Strukturen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187157",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "",
+      "version": "2026"
+    },
+    "page139_35433": {
+      "id": "page139_35433",
+      "grade": "3/4",
+      "area_id": "MA-page139_35416",
+      "area": "Lernbereich 1: Einer braucht den anderen",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433",
+      "version": "2019",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken"
     }
   },
-  "next_id": "page912_187157",
-  "next_step": "Zuerst die konkrete Anschlussfrage zu GS3 Muster/Strukturen 187157 lösen: FSP3/4 Symmetrien an Gebäuden 35432/35433 vor FSP1/2 Reihung von Gegenständen 38016 (Wahlbereich 3) prüfen; Ansichts- und Raumbezug ausdrücklich trennen. Danach Anzahl fehlender Würfel aus Bemerkung 187156 gegen 35470/35479 und 35504/35509 klären.187158 durch MA-087 nur vorhandene, eindeutig identifizierbare Würfelmenge bis 100 teilweise angeschlossen; verdeckte Würfel, Operationen/Terme und weitere Zahlenräume offen. Alle bisherigen Anschlussfragen, eigenen Pläne und Restumfänge fortführen.87 Karten (61 passend,26 stufenübergreifend),24 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.390 veröffentlicht und live geprüft; Nachweise in MA-083.",
+  "next_id": "page912_187156",
+  "next_step": "Als Nächstes GS3 Anzahl fehlender Würfel aus Bemerkung187156 gegen FSP3/4 35470/35479 sowie35504/35508/35509 und FSP1/2 37851/37863 sowie37896/37898/37908 prüfen. Bekannte Gesamt-/Teilmengen, räumliche Zugehörigkeit zum Zielquader und sachlich richtige Differenzbedeutung sichern; alle numerischen Zwischen-/Endwerte begrenzen. Die konkrete Musterfrage187157 ist durch MA-088 als qualitative Symmetrie einer festgelegten Vorderansicht begrenzt entschieden, keine ganze Körpersymmetrie. Weitere Muster/Reihungen, Schichten, verdeckte Würfel, Baupläne und übrige Restumfänge bleiben offen.88 Karten(62 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3137,7 +3163,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_083.json",
+  "last_review_file": "review_batch_084.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3613,36 +3639,6 @@
         "Weitere ebene Wegdarstellungen und Ansichten getrennt vom nun belegten Bauplananschluss prüfen; Darstellung-Raum-Zuordnung begründen.",
         "Für den engeren Würfelturm-Bauplanausschnitt ist die Operatorfrage entschieden: ausdrücklich nicht ausgewiesen, keine Übernahme von35451. Diesen Teil nicht erneut als offene Operatorfrage zählen.",
         "FSP1/2 und3/4 weiter unterscheiden; Wahlbereichsbelege nur mit tatsächlicher Voraussetzung nutzen. Keine räumliche Orientierung automatisch als allgemeine Kartenlesekompetenz ausgeben."
-      ]
-    },
-    {
-      "gs_id": "page912_187157",
-      "scope": "Symmetrie oder wiederholte Gegenstandsreihung als konkret begrenzter Muster-/Strukturausschnitt am Würfelgebäude",
-      "status": "offen",
-      "reason": "GS 187157 verlangt Muster und Strukturen im Kontext dreidimensionaler Würfelgebäude unter Übertragen 2012. FSP 3/4 35535 betrifft ausdrücklich ebene Figuren; auch 35524/35525 beschreiben ebene Gestaltungselemente. Der stufenpassende positive Kandidat 35433 unter Kennen von Spiegelbildern 35432 nennt Symmetrien an Gebäuden in der Bemerkung. Noch zu klären ist ein hinreichend bestimmter gemeinsamer Ausschnitt zwischen einer sichtbaren symmetrischen Gebäudeansicht und einer räumlichen Struktur des Würfelgebäudes; eine Spiegelachse in einer ebenen Figur ist nicht automatisch eine Symmetrieebene eines Körpers. FSP 1/2 38016 nennt positiv die Reihung von Gegenständen unter Übertragen, im Wahlbereich 3 Muster. Diese Zeile ist nicht auf ebene Figuren reduziert, trägt aber ohne weitere Eingrenzung noch keine allgemeine räumliche Schicht-, Gitter- oder Bauplanstruktur. Stufenpassende Symmetrie zuerst klären; sonst den konkreten Wiederholungsbezug bei Gegenstandsreihen prüfen. Kein Nichtanschluss und kein Ausschluss wegen kleinerer Zahlenräume oder fehlender Karte.",
-      "candidate_ids": [
-        "page139_35432",
-        "page139_35433",
-        "page139_35434",
-        "page139_35456",
-        "page139_35459",
-        "page139_35521",
-        "page139_35524",
-        "page139_35535",
-        "page139_37821",
-        "page139_37844",
-        "page139_37981",
-        "page139_37984",
-        "page139_38011",
-        "page139_38014",
-        "page139_38015",
-        "page139_38016"
-      ],
-      "review_file": "review_batch_083.json",
-      "follow_up_checks": [
-        "FSP 3/4 35432/35433 zuerst: genau benennen, ob sichtbare Ansicht oder dreidimensionale Anordnung verglichen wird. Spiegelachse, Symmetrieebene und bloße Wiederholung nicht gleichsetzen.",
-        "FSP 1/2 38016 als eigenständiges Hauptziel unter Übertragen prüfen; bei Auswahl Wahlbereich 3 Muster ausdrücklich voraussetzen und den stufenübergreifenden Anschluss begründen. Kleinere Zahlenräume sind kein inhaltlicher Ausschlussgrund.",
-        "Qualitatives Mustererkennen von numerischer Schicht-, Reihen- oder Gesamtanzahl trennen. Keine Zahlgrenze aus Bau- oder Nachbarzeilen erfinden; Aufgaben, Lernhandlungen und Hilfsmittel nicht befüllen."
       ]
     }
   ],
@@ -4214,6 +4210,12 @@
       "scope": "Nur eindeutige Gesamtanzahl eines vollständig bekannten, zugänglichen Würfelaufbaus bis 100 durch MA-087. Weitere Anzahlen, verdeckte Innenwürfel, bloß bildlich verdeckte oder aus Plänen erst zu erschließende Würfel, strukturierte Schicht-/Reihenberechnungen, Multiplikation, Zuordnen von Rechenoperationen und Termen sowie Zahlenbereiche über 100 bleiben offen. Keine volle Deckung des GS-Unterziels.",
       "status": "offen",
       "review": "MA-083"
+    },
+    {
+      "gs_id": "page912_187157",
+      "scope": "MA-088 trägt nur das Erkennen einer spiegelgleichen Struktur in der festgelegten Vorderansicht an bekannter Mittellinie. Andere Wiederholungs-, Reihen-, Gitter- und Schichtstrukturen, Tiefenbeziehungen und Symmetrieebenen des Körpers, andere Ansichten/Perspektivwechsel, Achsensuche, das Herstellen symmetrischer Bauten und numerische Musterbeziehungen bleiben offen. FSP1/2 Gegenstandsreihung38016 bleibt positiver Kandidat für andere Teilstrukturen, kein begründeter Nichtanschluss.",
+      "status": "offen",
+      "review": "MA-084"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4245,7 +4247,7 @@
       "page912_2012"
     ],
     "rows": 158,
-    "note": "Keine neue Inventur.187157 erstmals einzeln geprüft mit konkreter offener Anschlussfrage;187158 erstmals teilweise angeschlossen.187156-Bemerkung erneut abgegrenzt, nicht erneut als neue Zielzeile gezählt. Hauptziel 2012 und 187153 nur Kontext.",
+    "note": "Keine neue Inventur und keine neue erstmalige Einzelprüfung. Bereits in MA-083 einzeln geprüfte Zeile187157 erneut geprüft und erstmals teilweise angeschlossen; eine konkrete Anschlussfrage entschieden. Die übrigen Muster-/Strukturausschnitte bleiben als Restumfang offen.2012 und187153 nur Kontext.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4528,6 +4530,20 @@
         "MA-086"
       ],
       "note": "Neue Karte mit ausdrücklich bis 100 aus Hauptziel 35461; alle Teil-/Gesamtanzahlen und relevanten Zwischen-/Endwerte eingeschlossen. GS-Geometriezeile ohne eigene Obergrenze; GS-Feinziel bis 100 didaktisch gewählt. Sämtliche 86 Bestandskarten unverändert; keine Übertragung der Grenze auf andere Baukarten."
+    },
+    "follow_up_cube_symmetry": {
+      "batch": "MA-084",
+      "cards": {
+        "MA-088": "domain_specific"
+      },
+      "existing_rechecked": [
+        "MA-002",
+        "MA-084",
+        "MA-085",
+        "MA-086",
+        "MA-087"
+      ],
+      "note": "Nur qualitative Symmetrie in festgelegter Vorderansicht; keine Zahlobergrenze, keine numerischen Zwischen-/Endwerte. Symmetrie der Ansicht wird nicht zur Körpersymmetrie erweitert. Alle87 Bestandskarten behalten ihren eigenen Geltungsbereich."
     }
   },
   "publication_recheck": {
@@ -4548,13 +4564,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-083",
-    "status": "verified",
-    "app_version": "1.390",
-    "app_commit": "bcc5190803939b062ae90ed6f07f9957bac42750",
-    "pages_run": 44288921364,
-    "live_sha256": "218ab4fe647f4c5bd2de753c18a1838ca5bb412a2d3730ff3266f106b072b6d5",
-    "browser": "MA-010/012 GS1/2 and MA-017/087 GS3 local and live; MA-087 mobile320/390 passed. No UI code change; no full87-card browser run."
+    "batch": "MA-084",
+    "status": "pending",
+    "app_version": "1.391"
   },
   "latest_audit_publication": {
     "batch": "MA-079",
@@ -4603,5 +4615,48 @@
       "notice": "Kein eigener Operator ausgewiesen",
       "finding": "Onlinezeile35456 und PDF S.19 führen Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Nachformen und Bauen35459 ist darunter aufgeführt. Anwenden35451 betrifft das vorherige Formenbestimmungsziel und wird diesem Inhaltsblock nicht als gesicherter Operator zugeschrieben."
     }
-  }
+  },
+  "resolved_connection_questions": [
+    {
+      "gs_id": "page912_187157",
+      "opened_in": "MA-083",
+      "resolved_in": "MA-084",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-088"
+      ],
+      "scope": "Die konkrete Frage nach einem belegten engen Symmetrie- oder Reihungsanschluss ist durch den stufenpassenden Ansichts-Symmetrieausschnitt entschieden. Kein Abschluss der gesamten Zielzeile; weitere Strukturen im Restumfang geführt.",
+      "previous_question": {
+        "gs_id": "page912_187157",
+        "scope": "Symmetrie oder wiederholte Gegenstandsreihung als konkret begrenzter Muster-/Strukturausschnitt am Würfelgebäude",
+        "status": "offen",
+        "reason": "GS 187157 verlangt Muster und Strukturen im Kontext dreidimensionaler Würfelgebäude unter Übertragen 2012. FSP 3/4 35535 betrifft ausdrücklich ebene Figuren; auch 35524/35525 beschreiben ebene Gestaltungselemente. Der stufenpassende positive Kandidat 35433 unter Kennen von Spiegelbildern 35432 nennt Symmetrien an Gebäuden in der Bemerkung. Noch zu klären ist ein hinreichend bestimmter gemeinsamer Ausschnitt zwischen einer sichtbaren symmetrischen Gebäudeansicht und einer räumlichen Struktur des Würfelgebäudes; eine Spiegelachse in einer ebenen Figur ist nicht automatisch eine Symmetrieebene eines Körpers. FSP 1/2 38016 nennt positiv die Reihung von Gegenständen unter Übertragen, im Wahlbereich 3 Muster. Diese Zeile ist nicht auf ebene Figuren reduziert, trägt aber ohne weitere Eingrenzung noch keine allgemeine räumliche Schicht-, Gitter- oder Bauplanstruktur. Stufenpassende Symmetrie zuerst klären; sonst den konkreten Wiederholungsbezug bei Gegenstandsreihen prüfen. Kein Nichtanschluss und kein Ausschluss wegen kleinerer Zahlenräume oder fehlender Karte.",
+        "candidate_ids": [
+          "page139_35432",
+          "page139_35433",
+          "page139_35434",
+          "page139_35456",
+          "page139_35459",
+          "page139_35521",
+          "page139_35524",
+          "page139_35535",
+          "page139_37821",
+          "page139_37844",
+          "page139_37981",
+          "page139_37984",
+          "page139_38011",
+          "page139_38014",
+          "page139_38015",
+          "page139_38016"
+        ],
+        "review_file": "review_batch_083.json",
+        "follow_up_checks": [
+          "FSP 3/4 35432/35433 zuerst: genau benennen, ob sichtbare Ansicht oder dreidimensionale Anordnung verglichen wird. Spiegelachse, Symmetrieebene und bloße Wiederholung nicht gleichsetzen.",
+          "FSP 1/2 38016 als eigenständiges Hauptziel unter Übertragen prüfen; bei Auswahl Wahlbereich 3 Muster ausdrücklich voraussetzen und den stufenübergreifenden Anschluss begründen. Kleinere Zahlenräume sind kein inhaltlicher Ausschlussgrund.",
+          "Qualitatives Mustererkennen von numerischer Schicht-, Reihen- oder Gesamtanzahl trennen. Keine Zahlgrenze aus Bau- oder Nachbarzeilen erfinden; Aufgaben, Lernhandlungen und Hilfsmittel nicht befüllen."
+        ]
+      },
+      "review_file": "review_batch_084.json"
+    }
+  ]
 }
