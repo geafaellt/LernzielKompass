@@ -68,6 +68,31 @@ def check_fsp_elective_requirement(card):
         assert not requirement, (cid, 'elective prerequisite has no elective source')
 
 
+def check_operator_evidence(card, side, parent):
+    """An operatorless source block stays operatorless and requires reviewed evidence."""
+    value = card[side + '_operator']
+    evidence = card.get(side + '_operator_evidence')
+    if parent['operator'] is None:
+        assert side == 'fsp' and value is None, (card['id'], 'invented operator')
+        assert evidence and evidence['status'] == 'not_stated', card['id']
+        assert evidence == progress.get('operator_evidence', {}).get(parent['id']), card['id']
+        assert evidence['parent_target_id'] == parent['id'], card['id']
+        assert evidence['notice'] == 'Kein eigener Operator ausgewiesen', card['id']
+        source_ids = set(evidence['source_ids'])
+        assert 'Q-MA-' + parent['id'] in source_ids and len(source_ids) >= 2, card['id']
+        assert source_ids.issubset({'Q-MA-' + i for i in card[side + '_target_ids']}), card['id']
+        assert source_ids.issubset(card['source_ids']), card['id']
+        assert evidence['pdf_url'].startswith('https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/'), card['id']
+        assert isinstance(evidence['pdf_page_one_based'], int) and evidence['pdf_page_one_based'] > 0, card['id']
+        assert evidence['printed_page'] and evidence['checked_on'] and evidence['finding'], card['id']
+        assert not re.match(r'^(Einblick gewinnen|Kennen|Übertragen|Beherrschen|Anwenden)\b', parent['target']), card['id']
+        for text in [card['fsp_anchor'], card['operator_relation']]:
+            assert evidence['notice'] in text, card['id']
+    else:
+        assert value == parent['operator'] in {'Einblick gewinnen', 'Kennen', 'Übertragen', 'Beherrschen', 'Anwenden'}, (card['id'], side)
+        assert not evidence or evidence.get('status') != 'not_stated', card['id']
+
+
 def check_additional_gs_groups(card):
     """Reuse one card for another GS row without merging distinct target hierarchies."""
     cid = card['id']
@@ -152,9 +177,7 @@ for card in cards:
         assert len(ids) >= 2 and len(ids) == len(set(ids)), (card_id, side)
         parent, *children = [anchors[i] for i in ids]
         assert parent['level'] == 1 and all(r['level'] > 1 for r in children), (card_id, side)
-        assert card[side + '_operator'] == parent['operator'] in {
-            'Einblick gewinnen', 'Kennen', 'Übertragen', 'Beherrschen', 'Anwenden',
-        }, (card_id, side)
+        check_operator_evidence(card, side, parent)
         area = areas[parent['area_id']]
         assert area['side'] == side and area['grades'] == grade.split('/'), (card_id, side)
         if side == 'gs':

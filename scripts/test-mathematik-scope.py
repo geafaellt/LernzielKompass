@@ -79,3 +79,32 @@ for c in elective_cases:
 for c in cards.values():
     validate_elective(c)
 print('PASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.')
+
+
+# Missing operator evidence must not produce a guessed level or erase a real one.
+validate_operator = checks['check_operator_evidence']
+parent = checks['anchors']['page139_35456']
+cases = []
+c = copy.deepcopy(cards['MA-084']); c['fsp_operator'] = 'Anwenden'; cases.append(c)
+c = copy.deepcopy(cards['MA-084']); del c['fsp_operator_evidence']; cases.append(c)
+c = copy.deepcopy(cards['MA-084']); c['fsp_operator_evidence']['source_ids'] = ['Q-MA-page139_35554']; cases.append(c)
+c = copy.deepcopy(cards['MA-084']); c['fsp_operator_evidence']['parent_target_id'] = 'page139_35451'; cases.append(c)
+c = copy.deepcopy(cards['MA-084']); c['fsp_operator_evidence']['status'] = 'explicit'; cases.append(c)
+for c in cases:
+    try:
+        validate_operator(c, 'fsp', parent)
+    except (AssertionError, KeyError):
+        pass
+    else:
+        raise AssertionError('Invalid operatorless source evidence accepted')
+for c in cards.values():
+    for side in ['gs', 'fsp']:
+        validate_operator(c, side, checks['anchors'][c[side + '_target_ids'][0]])
+c = copy.deepcopy(cards['MA-001']); c['fsp_operator'] = None
+try:
+    validate_operator(c, 'fsp', checks['anchors'][c['fsp_target_ids'][0]])
+except AssertionError:
+    pass
+else:
+    raise AssertionError('Explicit source operator may not be erased')
+print('PASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.')

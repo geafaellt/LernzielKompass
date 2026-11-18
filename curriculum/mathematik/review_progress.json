@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-080",
+  "last_batch": "MA-081",
   "complete": false,
   "counts": {
-    "cards": 83,
+    "cards": 84,
     "cross_band": 26
   },
   "source_plans": {
@@ -2741,10 +2741,75 @@
       "area": "Wahlbereich 1: Einkaufsbummel",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187152": {
+      "id": "page912_187152",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Nutzen von ebenen Darstellungen",
+      "remarks": "Wege, Pläne, Ansichten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187152",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187153": {
+      "id": "page912_187153",
+      "level": 2,
+      "parent_target_id": "page912_2012",
+      "target": "Herstellen von Würfelgebäuden nach Bauplänen und umgekehrt",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187153",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187154": {
+      "id": "page912_187154",
+      "level": 3,
+      "parent_target_id": "page912_2012",
+      "target": "Zueinander-in-Beziehung-Setzen von Würfelgebäude und Bauplan",
+      "remarks": "Baupläne lesen, eigene Pläne entwerfen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187154",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_35456": {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
+    },
+    "page139_35459": {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187153",
-  "next_step": "GS3 Würfelgebäude187153 und Bauplanbeziehung187154 als nächstes zusammen mit der offenen Frage187152 bearbeiten. FSP3/4 Hauptzeile35456 nennt keinen eigenen Operator; amtliche PDF-Tabellenstruktur vor Zuordnung klären, Anwenden35451 nicht ungeprüft erben. Beide FSP-Bänder prüfen.187151 nur im qualitativen Einkaufsweg-Ausschnitt durch MA-083 teilweise geprüft;2012 bleibt Hauptzielkontext.83 Karten(57 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen und7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge weiter prüfen; kein Gesamtabschluss. App1.387 veröffentlicht und live geprüft; Nachweise in MA-080.",
+  "next_id": "page912_187155",
+  "next_step": "GS3 Würfelgebäude: Verändern187155, Ergänzen zum vollständigen Quader187156, Muster/Strukturen187157 und Anzahlen187158 gegen beide FSP-Bänder prüfen. MA-084 deckt187152/187153/187154 nur im Ausschnitt vorgegebener ebener Plan → Würfelturm ab. Eigene Baupläne und umgekehrte Richtung bleiben als Restumfang positiv weiterzuprüfen.35456/35459 ist als Inhaltsblock ohne eigenen Operator geklärt; keinen Operator erfinden. Weitere Wegdarstellungen/Ansichten bleiben Teil der Anschlussfrage187152.84 Karten(58 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge bleiben offen; kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3033,7 +3098,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_080.json",
+  "last_review_file": "review_batch_081.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3486,9 +3551,9 @@
     },
     {
       "gs_id": "page912_187152",
-      "scope": "Ebene Wegdarstellungen und Baupläne; Operatorzuordnung des FSP-Körperblocks35456 offen",
+      "scope": "Weitere ebene Wegdarstellungen und Ansichten außerhalb des belegten Würfelturm-Bauplanausschnitts",
       "status": "offen",
-      "reason": "FSP3/4 Nachformen und Bauen35459 nennt Bauen von Würfeltürmen nach Plänen und eigene Baupläne in der Bemerkung. Das ist ein positiver konkreter Darstellungsbezug, kein begründeter Nichtanschluss. Seine Hauptzeile35456 lautet jedoch Merkmale von Würfel, Quader und Kugel und nennt keinen Operator. Das davorstehende Anwenden35451 wird nicht ungeprüft übertragen. Für den engeren Bauplanausschnitt zusammen mit GS187153/187154 zuerst die amtliche Zeilenstruktur und zulässige Operatorabbildung klären. FSP3/4 Orientierung35563 mit Bandziel35415 trägt Perspektivwechsel, nennt aber keine ebenen Wegdarstellungen; ein bloßer räumlicher Weg ist noch kein Planverständnis. FSP1/2 gedankliche Orientierung37794 unter Übertragen37779 sowie38002 unter Einblick37997 mit Labyrinth/Brettspielen in der Bemerkung sind positive Kandidaten, deren ebene Darstellungsanforderung gesondert zu prüfen bleibt. Spätere Karten-/Skizzenziele38158 und38371 aus5/6 werden nicht vorgezogen.",
+      "reason": "MA-081 klärt den Inhalt35456/35459 anhand der amtlichen PDF S.19: kein eigener Operator ausgewiesen, Bauplanbezug dennoch belegt. MA-084 integriert den begrenzten stufenbandpassenden Bauplanausschnitt ohne erfundenen Operator. Offen bleibt der frühere Fragenanteil zu weiteren ebenen Wegdarstellungen und Ansichten; Orientierung35563/35415 beziehungsweise37794/38002 ist noch kein allgemeines Planlesen.",
       "candidate_ids": [
         "page139_35554",
         "page139_35563",
@@ -3504,11 +3569,11 @@
         "page139_35451",
         "page139_35415"
       ],
-      "review_file": "review_batch_080.json",
+      "review_file": "review_batch_081.json",
       "follow_up_checks": [
-        "Bauplanbezug35459 gemeinsam mit187153/187154 prüfen;35456 ohne eigenen Operator anhand amtlicher PDF-Tabellenstruktur klären. Fehlende technische Abbildung eines operatorlosen Inhaltsblocks ist kein fachlicher Ausschluss.",
-        "Einfache ebene Wegdarstellung als mögliche didaktische Auswahl zu35563/35415 beziehungsweise37794/38002 prüfen: notwendige Zuordnung von Darstellung und Raum explizit begründen, keine allgemeine Kartenlesekompetenz unterstellen.",
-        "Wahlbereiche und gebündelte Stufen bewahren. Bei rein qualitativer Darstellung keine20/100-Grenze; bei Bauplan-Anzahlen alle relevanten Angaben und Zwischen-/Endwerte gesondert belegen oder ausdrücklich didaktisch begrenzen."
+        "Weitere ebene Wegdarstellungen und Ansichten getrennt vom nun belegten Bauplananschluss prüfen; Darstellung-Raum-Zuordnung begründen.",
+        "Für den engeren Würfelturm-Bauplanausschnitt ist die Operatorfrage entschieden: ausdrücklich nicht ausgewiesen, keine Übernahme von35451. Diesen Teil nicht erneut als offene Operatorfrage zählen.",
+        "FSP1/2 und3/4 weiter unterscheiden; Wahlbereichsbelege nur mit tatsächlicher Voraussetzung nutzen. Keine räumliche Orientierung automatisch als allgemeine Kartenlesekompetenz ausgeben."
       ]
     }
   ],
@@ -4044,6 +4109,24 @@
       "scope": "Weitere räumliche Situationen und längere Wegbeschreibungen, die ganze Breite gedanklicher und realer Perspektivwechsel sowie ebene Darstellungen187152 und Würfelgebäude187153–187158 bleiben außerhalb von MA-083. Der FSP-Anschluss ist auf Orientierung zu/in Einkaufseinrichtungen im tatsächlich gewählten Wahlbereich1 begrenzt. Kein pauschaler Pflichtbereichsanschluss.",
       "status": "offen",
       "review": "MA-080"
+    },
+    {
+      "gs_id": "page912_187152",
+      "scope": "MA-084 trägt die Nutzung eines ebenen Bauplans mit bekannten Zeichen für einen Würfelturm. Weitere Wegdarstellungen, Pläne und Ansichten bleiben offen; keine allgemeine Kartenlesekompetenz.",
+      "status": "offen",
+      "review": "MA-081"
+    },
+    {
+      "gs_id": "page912_187153",
+      "scope": "Nur vorgegebener Plan → ein Würfelturm. Umgekehrte Richtung, eigene Pläne, mehrteilige/komplexere Würfelgebäude und weitergehende räumliche Operationen offen. Eigene Baupläne sind in35459 positiv als Differenzierung genannt, hier noch nicht integriert.",
+      "status": "offen",
+      "review": "MA-081"
+    },
+    {
+      "gs_id": "page912_187154",
+      "scope": "Nur Zuordnung eines vorgegebenen ebenen Plans mit bekannten Darstellungsregeln zum Würfelturm. Selbstständiges Entschlüsseln weiterer Plankonventionen, eigene Planentwürfe und allgemeine Ansichten-/Gebäudezuordnung offen.",
+      "status": "offen",
+      "review": "MA-081"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4075,7 +4158,7 @@
       "page912_2012"
     ],
     "rows": 158,
-    "note": "Keine neue Inventurzeile.2012 als Hauptzielkontext geprüft;187151 teilweise durch MA-083,187152 als konkrete Anschlussfrage offen.187153–187158 weiterhin nur inventarisiert.",
+    "note": "Keine neuen Inventurzeilen.187153/187154 erstmals teilweise geprüft;187152 mit MA-084 erneut teilweise geprüft und Anschlussfrage auf Rest eingegrenzt.2012 nur Kontext.187155–187158 weiter offen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4320,6 +4403,17 @@
         "MA-001"
       ],
       "note": "Qualitative Perspektivbezüge im Einkaufswegkontext; keine20/100-Grenze oder erfundene Weglänge. MA-001 betrifft relative Objektlage im Schulraum und wird nicht automatisch auf wechselnde Sichtweisen erweitert. Alle82 Bestandskarten unverändert."
+    },
+    "follow_up_cube_plan": {
+      "batch": "MA-081",
+      "cards": {
+        "MA-084": "unspecified"
+      },
+      "existing_rechecked": [
+        "MA-001",
+        "MA-083"
+      ],
+      "note": "Kein numerisches Maximum der Bauzeile. Vorab festgelegter Rahmen für alle Planangaben und gesamte Würfelanzahlen einschließlich Zwischen-/Endwerten; keine automatische100- oder1m-Grenze. Alte83 Karten unverändert."
     }
   },
   "publication_recheck": {
@@ -4340,13 +4434,10 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-080",
-    "status": "verified",
-    "app_version": "1.387",
-    "app_commit": "69a2fd06b22860f60c1cce25a22857e300b36f80",
-    "pages_run": 44227151149,
-    "live_sha256": "38e95339834c8ea5bb112acfb6045067d42f058add10987a2a139f22ff2b6c71",
-    "browser": "MA-083 live in GS3 and mobile320/390 passed; MA-001,MA-040,MA-083 local"
+    "batch": "MA-081",
+    "status": "pending",
+    "app_version": "1.388",
+    "previous_verified_version": "1.387"
   },
   "latest_audit_publication": {
     "batch": "MA-079",
@@ -4379,5 +4470,21 @@
   "continuation_correction": {
     "batch": "MA-067",
     "reason": "Der bisherige Fortsetzungspunkt187133 übersprang die weiterhin ungeprüfte Zeile187132. Nach Prüfung187133 folgt nun187132,danach187134. Korrektur der Reihenfolge,kein zusätzlicher Prüfungsfortschritt."
+  },
+  "operator_evidence": {
+    "page139_35456": {
+      "status": "not_stated",
+      "parent_target_id": "page139_35456",
+      "source_ids": [
+        "Q-MA-page139_35456",
+        "Q-MA-page139_35459"
+      ],
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+      "pdf_page_one_based": 31,
+      "printed_page": "19",
+      "checked_on": "2026-11-18",
+      "notice": "Kein eigener Operator ausgewiesen",
+      "finding": "Onlinezeile35456 und PDF S.19 führen Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Nachformen und Bauen35459 ist darunter aufgeführt. Anwenden35451 betrifft das vorherige Formenbestimmungsziel und wird diesem Inhaltsblock nicht als gesicherter Operator zugeschrieben."
+    }
   }
 }

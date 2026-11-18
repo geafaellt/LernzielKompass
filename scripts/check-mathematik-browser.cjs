@@ -44,6 +44,11 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       assert.ok((await page.locator('#fspScopeDetails').innerText()).includes(card.fsp_scope.summary));
       assert.deepEqual(await page.locator('#fspScopeDetails a').evaluateAll(as=>as.map(a=>a.href)),card.fsp_scope.source_ids.map(id=>moduleData.sources.find(s=>s.id===id).url));
       await page.locator('#next').click();
+      if(card.fsp_operator===null){
+       assert.equal(await page.locator('#operatorFSP').innerText(),'Kein eigener Operator ausgewiesen');
+       assert.equal(await page.inputValue('#assessmentOperator'),'');
+       assert.equal(await page.locator('#assessmentOperator option').filter({hasText:'im Zieltext ausgewiesen'}).count(),0);
+      }
       assert.equal(await page.locator('#fspScopeGoals').isVisible(),true);
       assert.ok((await page.locator('#fspScopeGoals').innerText()).includes(card.fsp_scope.planning_rule));
       for (const [suffix,goal] of [['GS',card.fine_goals[0]],['FSP',card.fine_goals[1]]]) {
@@ -61,11 +66,15 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       const scopeRow=page.locator('#output tr').filter({hasText:'FSP-Zahlenraum / Geltungsbereich'});
       assert.equal(await scopeRow.count(),1);
       assert.ok((await scopeRow.innerText()).includes(card.fsp_scope.summary));
+      if(card.fsp_operator===null)assert.ok((await page.locator('#output tr').filter({hasText:'Operatorenpaar'}).innerText()).includes('Kein eigener Operator ausgewiesen'));
       for(let i=0;i<4;i++)await page.locator('#prev').click();
      }
      assert.match(await page.locator('#connectionDetail').innerText(), card.stage_alignment.relation==='cross-band' ? /Stufenübergreifend/ : /Stufenband passend/);
      for (const [suffix,op] of [['GS',card.gs_operator],['FSP',card.fsp_operator]]) {
-      assert.equal(await page.locator('#operatorComparison'+suffix+' button').innerText(),op);
+      if(op===null){
+       assert.equal(await page.locator('#operatorComparison'+suffix+' button').count(),0);
+       assert.equal(await page.locator('#operatorComparison'+suffix).innerText(),'Kein eigener Operator ausgewiesen');
+      }else assert.equal(await page.locator('#operatorComparison'+suffix+' button').innerText(),op);
      }
      assert.deepEqual(await page.locator('#sourceList a').evaluateAll(as=>as.map(a=>a.href)),
         card.source_ids.map(id=>moduleData.sources.find(s=>s.id===id).url));
@@ -125,7 +134,24 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   assert.equal(await page.locator('#fspScopeDetails').isVisible(),true);
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
   if(process.env.LZK_SCOPE_SCREENSHOT)await page.locator('#fspScopeDetails').screenshot({path:process.env.LZK_SCOPE_SCREENSHOT});
+  await page.locator('#prev').click();
+  await page.selectOption('#grade','3');
+  await page.selectOption('#area','MA-page912_1998');
+  await page.selectOption('#topic','MA-084');
+  const cubeCard=moduleData.connections.find(c=>c.id==='MA-084');
+  await page.locator('#next').click();
+  for(const width of [320,390]) {
+   await page.setViewportSize({width,height:844});
+   assert.equal(await page.locator('#operatorComparisonFSP button').count(),0);
+   assert.equal(await page.locator('#operatorComparisonFSP').innerText(),'Kein eigener Operator ausgewiesen');
+   assert.ok((await page.locator('#fspScopeDetails').innerText()).includes(cubeCard.fsp_scope.summary));
+   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+   await page.locator('#next').click();
+   assert.ok((await page.locator('#fspScopeGoals').innerText()).includes(cubeCard.fsp_scope.planning_rule));
+   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
+   await page.locator('#prev').click();
+  }
   assert.deepEqual(errors,[]);
-  console.log('PASS: '+moduleData.connections.length+' mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout.');
+  console.log('PASS: '+moduleData.connections.length+' mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.');
  } finally {await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1;});
