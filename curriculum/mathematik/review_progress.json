@@ -2809,7 +2809,7 @@
     }
   },
   "next_id": "page912_187155",
-  "next_step": "GS3 Würfelgebäude: Verändern187155, Ergänzen zum vollständigen Quader187156, Muster/Strukturen187157 und Anzahlen187158 gegen beide FSP-Bänder prüfen. MA-084 deckt187152/187153/187154 nur im Ausschnitt vorgegebener ebener Plan → Würfelturm ab. Eigene Baupläne und umgekehrte Richtung bleiben als Restumfang positiv weiterzuprüfen.35456/35459 ist als Inhaltsblock ohne eigenen Operator geklärt; keinen Operator erfinden. Weitere Wegdarstellungen/Ansichten bleiben Teil der Anschlussfrage187152.84 Karten(58 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge bleiben offen; kein Gesamtabschluss.",
+  "next_step": "GS3 Würfelgebäude: Verändern187155, Ergänzen zum vollständigen Quader187156, Muster/Strukturen187157 und Anzahlen187158 gegen beide FSP-Bänder prüfen. MA-084 deckt187152/187153/187154 nur im Ausschnitt vorgegebener ebener Plan → Würfelturm ab. Eigene Baupläne und umgekehrte Richtung bleiben als Restumfang positiv weiterzuprüfen.35456/35459 ist als Inhaltsblock ohne eigenen Operator geklärt; keinen Operator erfinden. Weitere Wegdarstellungen/Ansichten bleiben Teil der Anschlussfrage187152.84 Karten(58 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge bleiben offen; kein Gesamtabschluss. App1.388 veröffentlicht und live geprüft; vollständiger lokaler84-Karten-Browserlauf und Nachweise in MA-081.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4435,9 +4435,12 @@
   },
   "latest_publication": {
     "batch": "MA-081",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.388",
-    "previous_verified_version": "1.387"
+    "app_commit": "8b81c0ac98eb4f406344999bf4899024616f5b9d",
+    "pages_run": 44248961692,
+    "live_sha256": "b536edaf97e25219cb539cbed804b803dcfb279d28c52351d75a00d4270b42f2",
+    "browser": "All84 mathematics cards local; all397-card disclosures local; MA-084 live GS3 and mobile320/390 passed"
   },
   "latest_audit_publication": {
     "batch": "MA-079",

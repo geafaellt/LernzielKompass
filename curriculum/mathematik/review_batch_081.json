@@ -351,7 +351,7 @@
   },
   "continuation": "GS3 Würfelgebäude: Verändern187155, Ergänzen zum vollständigen Quader187156, Muster/Strukturen187157 und Anzahlen187158 gegen beide FSP-Bänder prüfen. MA-084 deckt187152/187153/187154 nur im Ausschnitt vorgegebener ebener Plan → Würfelturm ab. Eigene Baupläne und umgekehrte Richtung bleiben als Restumfang positiv weiterzuprüfen.35456/35459 ist als Inhaltsblock ohne eigenen Operator geklärt; keinen Operator erfinden. Weitere Wegdarstellungen/Ansichten bleiben Teil der Anschlussfrage187152.84 Karten(58 passend,26 stufenübergreifend),23 Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Ältere Fragen, Bestandskarten und Restumfänge bleiben offen; kein Gesamtabschluss.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -396,11 +396,19 @@
       "html_blob_sha": "574b5ac38f22cefcaae7f608b081fd46babff182"
     },
     "baseline": "Twelve input files matched main19df20f4de2aca682a259d3fff01113e9379befe, tree15954ddd5113ee6b876642e04f1cbab639a475e1; CSV newline conventions accounted for.",
-    "browser_live": "pending"
+    "browser_live": "MA-084 in GS3 passed publicly with operatorless-content label in card/goals/output, no automatic assessment operator, scope/source links, exact goals/criteria, empty task/aid fields, preserved teacher drafts, subject isolation/reload and mobile320px/390px. All84 mathematics cards tested locally; no full84-card live run claimed."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.388",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "8b81c0ac98eb4f406344999bf4899024616f5b9d",
+    "pages_run": 44248961692,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44248961692",
+    "pages_conclusion": "success",
+    "live_app_version": "1.388",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "b536edaf97e25219cb539cbed804b803dcfb279d28c52351d75a00d4270b42f2",
+    "verified_at": "2026-11-18T06:09:02.705968+00:00"
   }
 }
