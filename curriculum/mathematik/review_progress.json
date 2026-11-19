@@ -3147,7 +3147,7 @@
     }
   },
   "next_id": "page912_187452",
-  "next_step": "Als Nächstes GS3 eigenständige Fachbegriffsverwendung Parallelogramm187452 unter Übertragen187446 gegen beide FSP-Bänder prüfen. Figuren-/Eigenschaftsanschlüsse nicht als Beleg des Fachworts ausgeben.187451 ist nur im Dreiecksumriss-Ausschnitt teilweise geprüft; Vierecke, besondere Dreiecke und weitere Ergänzungsumfänge bleiben offen.97 Karten(69 passend,28 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes GS3 eigenständige Fachbegriffsverwendung Parallelogramm187452 unter Übertragen187446 gegen beide FSP-Bänder prüfen. Figuren-/Eigenschaftsanschlüsse nicht als Beleg des Fachworts ausgeben.187451 ist nur im Dreiecksumriss-Ausschnitt teilweise geprüft; Vierecke, besondere Dreiecke und weitere Ergänzungsumfänge bleiben offen.97 Karten(69 passend,28 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.402 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich; gezielte Funktions- und Lernzielebenen-Anzeigeprüfungen lokal/live bestanden. Nachweise in MA-093.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5002,8 +5002,12 @@
   },
   "latest_publication": {
     "batch": "MA-093",
-    "status": "pending",
-    "app_version": "1.402"
+    "status": "verified",
+    "app_version": "1.402",
+    "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+    "pages_run": 44621694106,
+    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+    "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
   },
   "latest_audit_publication": {
     "batch": "MA-090",
