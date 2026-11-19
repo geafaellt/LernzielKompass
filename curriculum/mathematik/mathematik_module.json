@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.6",
+  "version": "MA-2026-11-19.7",
   "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1568,6 +1568,30 @@
       "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187450",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187451",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187451",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_37821",
+      "title": "FSP Lernen Mathematik1/2 · Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37832",
+      "title": "FSP Lernen Mathematik1/2 · Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37844",
+      "title": "FSP Lernen Mathematik1/2 · Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -9339,6 +9363,87 @@
         ],
         "fsp_remark_anchors": [
           "page139_35527"
+        ]
+      }
+    },
+    {
+      "id": "MA-097",
+      "subject": "Mathematik",
+      "theme": "Einen Dreiecksumriss vervollständigen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · GS3 → FSP1/2 · Bemerkungsbelege",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1: Raum und Form · Ergänzen187451 mit Bemerkung unvollständige Vierecke,Dreiecke unter Übertragen187446",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.1/2 · Lernbereich2: Die Welt um mich herum · Darstellen37844 mit Bemerkung Vollenden von Umrissfiguren; Grundformen37832 unter Kennen37821",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "Lernzielebenen: GS Übertragen · FSP Kennen. Stufenübergreifender Teilanschluss GS3 → FSP1/2: einen unvollständigen Dreiecksumriss ergänzen. GS187451 nennt Ergänzen unter Übertragen187446; unvollständige Vierecke und Dreiecke stehen in seiner Bemerkung. FSP37844 nennt Darstellen von ebenen Figuren und Mustern unter Kennen37821 und Grundformen37832; Vollenden von Umrissfiguren steht ausdrücklich in der Bemerkung. Der ausgewählte einzelne Dreiecksumriss ist eine didaktische Konkretisierung aus diesem Ziel-/Bemerkungszusammenhang. Beide Bemerkungsbelege bleiben als solche sichtbar. Ergänzen, Darstellen und Vollenden sind Zielhandlungen, keine Lernzielebenen. Übertragen und Kennen stammen aus den jeweiligen Hauptzielzeilen. Der eingegrenzte Formerfolg deckt nicht die gesamten Hauptziele oder alle GS-Dreiecks-/Vierecksarten. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_187446",
+        "page912_187447",
+        "page912_187451"
+      ],
+      "fsp_target_ids": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37844"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187446",
+        "Q-MA-page912_187447",
+        "Q-MA-page912_187451",
+        "Q-MA-page139_37821",
+        "Q-MA-page139_37832",
+        "Q-MA-page139_37844"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS3 → FSP1/2: einen unvollständigen Dreiecksumriss ergänzen. GS187451 nennt Ergänzen unter Übertragen187446; unvollständige Vierecke und Dreiecke stehen in seiner Bemerkung. FSP37844 nennt Darstellen von ebenen Figuren und Mustern unter Kennen37821 und Grundformen37832; Vollenden von Umrissfiguren steht ausdrücklich in der Bemerkung. Der ausgewählte einzelne Dreiecksumriss ist eine didaktische Konkretisierung aus diesem Ziel-/Bemerkungszusammenhang. Beide Bemerkungsbelege bleiben als solche sichtbar. Ergänzen, Darstellen und Vollenden sind Zielhandlungen, keine Lernzielebenen. Übertragen und Kennen stammen aus den jeweiligen Hauptzielzeilen. Der eingegrenzte Formerfolg deckt nicht die gesamten Hauptziele oder alle GS-Dreiecks-/Vierecksarten. Keine vollständige GS-Zieldeckung. Vorausgesetzt sind ein gesicherter Dreiecksbegriff, das Erkennen gerader Seiten und einer geschlossenen Begrenzung sowie eine eindeutig bestimmte beabsichtigte Dreiecksform. Die Eckpunkte beziehungsweise der Figurenbezug müssen die Ergänzung hinreichend festlegen; aus einem beliebigen Fragment wird keine eindeutige Lösung behauptet. FSP bleibt im vertrauten Grundformen-/Gestaltungselement-Kontext. Rest: Vierecksergänzungen, besondere Dreiecksarten, mehrdeutige Fragmente mit mehreren Lösungen, systematisches Finden aller Ergänzungen und weitergehende Zeichen-/Genauigkeitsanforderungen bleiben offen. Das Vervollständigen ganzer Muster oder Fantasiebilder und das Herstellen von Symmetrie werden nicht mit dem einzelnen Umriss gleichgesetzt.",
+      "shared_object_suggestion": "Die fehlende Begrenzung eines eindeutig bestimmten Dreiecksumrisses.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind ergänzt den fehlenden Teil eines eindeutig bestimmten Dreiecksumrisses und erhält dabei die vorhandenen Seiten und Eckpunkte.",
+          "criterion": "Die Ergänzung ergibt die beabsichtigte geschlossene Dreiecksform mit drei geraden Seiten und drei Ecken; vorhandene Begrenzungsteile werden passend fortgeführt und nicht durch eine andere Figur ersetzt. Keine numerischen Maße, besonderen Winkeltypen oder vollständige Aufzählung aller Ergänzungsmöglichkeiten werden zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Ergänzen187451 und dessen Dreiecks-Bemerkung unter Übertragen187446. Ein begrenzter Figurenfall, kein vollständiger Nachweis der übergeordneten Lernzielebene."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vervollständigt den unvollständigen Umriss eines vertrauten, eindeutig bestimmten Dreiecks als Grundform eines Gestaltungselements.",
+          "criterion": "Die beabsichtigte Dreiecksform ist anschließend geschlossen und hat drei gerade Seiten sowie drei Ecken. Vorhandene Begrenzungsteile bleiben erhalten und passen zur Ergänzung. Kein besonderer Dreieckstyp, kein bestimmtes Zeichenverfahren, keine Messzahlen und kein vollständiges Muster werden zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung aus Darstellen37844 und dem Bemerkungsbeispiel Vollenden von Umrissfiguren, mit Dreiecks-Grundform37832 unter Kennen37821. Das Bemerkungsbeispiel wird nicht als eigenständiges amtliches Hauptziel ausgegeben."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Ergänzung eines Dreiecksumrisses",
+        "detail": "37832/37844 belegen Grundformen und Darstellung; Vollenden von Umrissfiguren steht in der Bemerkung. Für die gewählte qualitative Formerhaltung ist kein numerischer Zahlenraum maßgeblich. Drei Seiten und drei Ecken sind Formmerkmale, keine Obergrenze bis3. Keine20/100-Grenze, keine Längen-/Winkeleinheit und keine Messgenauigkeit aus anderen Zielblöcken übertragen. GS187451 nennt ebenfalls keinen Zahlenraum.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37832",
+          "Q-MA-page139_37844"
+        ],
+        "planning_rule": "Vorausgesetzt sind ein gesicherter Dreiecksbegriff, das Erkennen gerader Seiten und einer geschlossenen Begrenzung sowie eine eindeutig bestimmte beabsichtigte Dreiecksform. Die Eckpunkte beziehungsweise der Figurenbezug müssen die Ergänzung hinreichend festlegen; aus einem beliebigen Fragment wird keine eindeutige Lösung behauptet. FSP bleibt im vertrauten Grundformen-/Gestaltungselement-Kontext. Nur qualitative Vollständigkeit und Formerhaltung beurteilen. Numerische Ausgangs-, Zwischen- oder Endwerte, Seitenmaße, Winkelgrade, Umfang und Fläche gehören nicht zum Feinziel. Für solche Erweiterungen ist eine eigene fachliche Prüfung mit belegtem oder ausdrücklich didaktisch bestimmtem Rahmen erforderlich. Die Beispiele der Bemerkung schreiben keine konkrete Tätigkeit oder Hilfsmittelwahl vor. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben gesondert fachlich zu prüfen und sind nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "187446 Hauptziel Übertragen und187447 Zielhandlungen nur Kontext.187451 Ergänzen ist der geprüfte Unterzielanker; die konkreten unvollständigen Vierecke/Dreiecke stehen in der Bemerkung.",
+        "fsp": "37821 Hauptziel Kennen,37832 Grundformen-Kontext,37844 Darstellen als Unterziel. Vollenden von Umrissfiguren ist ein Bemerkungsbeispiel; der einzelne Dreiecksumriss eine didaktische Auswahl.",
+        "context_only_gs_ids": [
+          "page912_187446",
+          "page912_187447"
+        ],
+        "gs_remark_anchors": [
+          "page912_187451"
+        ],
+        "fsp_remark_anchors": [
+          "page139_37844"
         ]
       }
     }

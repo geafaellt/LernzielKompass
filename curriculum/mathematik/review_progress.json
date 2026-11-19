@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-092",
+  "last_batch": "MA-093",
   "complete": false,
   "counts": {
-    "cards": 96,
-    "cross_band": 27
+    "cards": 97,
+    "cross_band": 28
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -3092,10 +3092,62 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187451": {
+      "id": "page912_187451",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Ergänzen",
+      "remarks": "unvollständige Vierecke, Dreiecke",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187451",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": "Kennen",
+      "version": "2019"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": null,
+      "version": "2019"
     }
   },
-  "next_id": "page912_187451",
-  "next_step": "Als Nächstes GS3 Ergänzen187451 (Bemerkung: unvollständige Vierecke,Dreiecke) unter Übertragen187446 prüfen, danach eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Figurenkarten prüfen.187450 ist nur für den ausgewählten nicht rechtwinkligen Parallelogrammfall teilweise geprüft; andere Vierecke,Dreiecke und weitere Verfahren bleiben offen.96 Karten(69 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.401 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich; gezielte Funktions- und Lernzielebenen-Anzeigeprüfungen lokal/live bestanden. Nachweise in MA-092.",
+  "next_id": "page912_187452",
+  "next_step": "Als Nächstes GS3 eigenständige Fachbegriffsverwendung Parallelogramm187452 unter Übertragen187446 gegen beide FSP-Bänder prüfen. Figuren-/Eigenschaftsanschlüsse nicht als Beleg des Fachworts ausgeben.187451 ist nur im Dreiecksumriss-Ausschnitt teilweise geprüft; Vierecke, besondere Dreiecke und weitere Ergänzungsumfänge bleiben offen.97 Karten(69 passend,28 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3396,9 +3448,20 @@
         "page139_35580"
       ],
       "decision": "FSP3/4 Orientierung35563 unter Anwenden35554 mit Bandziel35415 belegt Wege im Einkaufsbereich und wechselnde Sichtweisen, aber nicht für sich das Lesen einer ebenen Wegdarstellung. Der Bauplanbeleg35459 ist positiv und bereits mit MA-084/090 eingegrenzt. Skizzieren35509 im Sachverhaltskontext sowie Probieren35577/Beschreiben35580 unter Kennen35571 betreffen mathematische Lösungsstrategien; sie belegen nicht gleich ausdrücklich das hier gewählte Kennen eines dargestellten Labyrinth-Wegabschnitts. Ihre möglichen Strategieanschlüsse bleiben von diesem Darstellungsanschluss getrennt. FSP1/2 37980 nennt Labyrinthspiele konkret im Pflichtbereich; die ebene Ausführung ist didaktisch ausgewählt.38002 nennt Labyrinth/Wege zusätzlich im Märchen-Wahlbereich unter Einblick gewinnen37997, erfordert aber diesen Kontext und wird nicht mit dem Kennen37980 vermischt.37794 unter Übertragen37779 ist räumliche Orientierung in der Schule, keine allgemeine Kartenkompetenz.37908 nennt Skizzen im Sachaufgabenkontext, keinen allgemeinen Lageplan. Der konkrete1/2-Beleg wird deshalb hier gegenüber einer nur allgemeinen3/4-Orientierungs- oder Strategienennung gewählt; kein Ausschluss wegen20 statt100."
+    },
+    "MA-097": {
+      "same_band_candidate_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35527",
+        "page139_35535",
+        "page139_35432",
+        "page139_35433"
+      ],
+      "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_092.json",
+  "last_review_file": "review_batch_093.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4504,6 +4567,12 @@
       "scope": "Andere Vierecksarten, unterschiedliche Dreiecksarten einschließlich des in der GS-Bemerkung genannten rechten Winkels, der vollständige Variationsumfang von verschiedenen Figuren und weitere Genauigkeits-/Verfahrensanforderungen bleiben offen. FSP-Rechteckdarstellung allein belegt kein Zeichnen nicht rechtwinkliger Parallelogramme und kein vollständiges Gestalten.",
       "status": "offen",
       "review": "MA-092"
+    },
+    {
+      "gs_id": "page912_187451",
+      "scope": "Vierecksergänzungen, besondere Dreiecksarten, mehrdeutige Fragmente mit mehreren Lösungen, systematisches Finden aller Ergänzungen und weitergehende Zeichen-/Genauigkeitsanforderungen bleiben offen. Das Vervollständigen ganzer Muster oder Fantasiebilder und das Herstellen von Symmetrie werden nicht mit dem einzelnen Umriss gleichgesetzt.",
+      "status": "offen",
+      "review": "MA-093"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4537,7 +4606,7 @@
       "page912_187446"
     ],
     "rows": 170,
-    "note": "MA-092:187450 erstmals im ausgewählten Parallelogramm-Zeichenausschnitt teilweise geprüft; eine Zielzeile und ein Anschluss.187446/187447/187448 nur Kontext dieser neuen Karte, keine erneute Erstprüfung; keine neue Inventur oder Vollabdeckung.",
+    "note": "MA-093:187451 erstmals für einen Dreiecksumriss teilweise geprüft; eine Zielzeile/ein Anschluss. Hauptziel187446 und Handlungszeile187447 nur Kontext; keine neue Inventur oder Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4932,13 +5001,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-092",
-    "status": "verified",
-    "app_version": "1.401",
-    "app_commit": "c23ce211e04cf04082a9699706ecd2f4dcb6996f",
-    "pages_run": 44611569102,
-    "live_sha256": "0c2d3cd732a7bdefbe861a64fa73536c71b149439062c86dde7bf730f1effd7c",
-    "browser": "MA-004 GS1/2 and MA-093/095/096 GS3 local and live passed; MA-096 mobile320/390 passed. Learning-level display/structure regression of all409 cards/818 sides passed locally and live. No fresh semantic source re-audit of all409 cards, no UI code change, no full96-card functional browser run claimed."
+    "batch": "MA-093",
+    "status": "pending",
+    "app_version": "1.402"
   },
   "latest_audit_publication": {
     "batch": "MA-090",
@@ -5112,6 +5177,14 @@
       ],
       "checked_on": "2026-11-19",
       "finding": "Definition Übertragen in amtlicher Begriffstabelle und Hauptziel187446 visuell bestätigt. Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen stehen in einer darunter eingerückten Zielzeile; sie ersetzen die Lernzielebene nicht."
+    },
+    "page139_37821": {
+      "level": "Kennen",
+      "target_id": "page139_37821",
+      "checked_on": "2026-11-19",
+      "definition_evidence": "Amtliches FSP-PDF S.V (PDF5): Kenntnisse/Erfahrungen und typische Anwendungsmuster im gelernten Kontext.",
+      "hierarchy_evidence": "Amtliches FSP-PDF S.11(PDF23) visuell: Kennen37821 über Grundformen37832/Darstellen37844, Umrissvollendung rechts in Bemerkung. Nicht Einblick aus nachfolgendem Rechenziel.",
+      "review": "MA-093"
     }
   }
 }

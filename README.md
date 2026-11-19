@@ -151,3 +151,6 @@ Mathematik MA-091 ergänzt den qualitativen Seitenlängenvergleich MA-095 (95 Ka
 
 
 Mathematik MA-092 ergänzt MA-096: Parallelogramm zeichnen / Rechteck darstellen, mit getrennten Lernzielebenen Übertragen/Gestalten.96 Karten; [Prüfpaket](curriculum/mathematik/review_batch_092.json). App1.401 auf main veröffentlicht(c23ce21), [Pages erfolgreich](https://github.com/geafaellt/LernzielKompass/actions/runs/44611569102), Live-Datei bytegleich. Daten-/Bereichsprüfungen sowie Lernzielebenen-Anzeige und gezielte Browserprüfungen lokal/live bestanden. Fortsetzung bei Ergänzen187451;23 Anschlussfragen bleiben offen.
+
+
+Mathematik MA-093 ergänzt MA-097: Dreiecksumriss vervollständigen, ausdrücklich GS3 → FSP1/2.97 Karten; [Prüfpaket](curriculum/mathematik/review_batch_093.json). App1.402: Daten-/Bereichsprüfungen, Lernzielebenen-Anzeige und gezielte Browserprüfungen bestanden. Veröffentlichung und Liveprüfung ausstehend.
