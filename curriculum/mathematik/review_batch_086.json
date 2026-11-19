@@ -342,7 +342,7 @@
   },
   "continuation": "Als Nächstes die offene Anschlussfrage zu weiteren ebenen Wegdarstellungen und Ansichten in GS3 187152 prüfen. MA-084/090 decken nur den engen Würfelturm-Bauplanbezug in bekannter Darstellungskonvention. Kandidaten FSP3/4 Orientierung35563 unter Anwenden35554 mit übergreifendem räumlichem Ziel35415 und FSP1/2 37794/38002 getrennt prüfen; Wahlbereiche bewahren und Orientierung nicht ohne Beleg mit allgemeinem Planlesen gleichsetzen. Mehrteilige Gebäude, weitere Plankonventionen, unbekannte verdeckte Anzahlen und übrige Restumfänge bleiben offen.90 Karten (64 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -389,13 +389,21 @@
       "dist/index.html",
       "index.html"
     ],
-    "browser_live": "pending",
+    "browser_live": "MA-084/085/086/087/089/090 in GS3 passed publicly: sources, missing-operator label where applicable, scope on card/goals/output, exact goals/criteria, empty task/aid fields, preserved teacher drafts, subject isolation/reload. MA-090 additionally mobile320px/390px. No full90-card browser run claimed; UI code unchanged.",
     "corrected_during_validation": "The first Deutsch check lacked Node on PATH; rerun with the bundled runtime passed. The operator-evidence check required the registered exact missing-operator label in the FSP source caption; capitalization corrected before rerunning all six scripts. Preservation accounts only for math data, version and the generated update date."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.393",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "49b120d956d036d74fe4d37888171a2772d3c238",
+    "pages_run": 44463159116,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44463159116",
+    "pages_conclusion": "success",
+    "live_app_version": "1.393",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "8ec9c6e1edce67686ad61df7036c847c6f42a067e0d61bcf9f4a40a507786a0f",
+    "verified_at": "2026-11-19T12:09:36.199431+00:00"
   },
   "source_checked_on": "2026-11-18"
 }

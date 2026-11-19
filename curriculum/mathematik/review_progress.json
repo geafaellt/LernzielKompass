@@ -2900,7 +2900,7 @@
     }
   },
   "next_id": "page912_187152",
-  "next_step": "Als Nächstes die offene Anschlussfrage zu weiteren ebenen Wegdarstellungen und Ansichten in GS3 187152 prüfen. MA-084/090 decken nur den engen Würfelturm-Bauplanbezug in bekannter Darstellungskonvention. Kandidaten FSP3/4 Orientierung35563 unter Anwenden35554 mit übergreifendem räumlichem Ziel35415 und FSP1/2 37794/38002 getrennt prüfen; Wahlbereiche bewahren und Orientierung nicht ohne Beleg mit allgemeinem Planlesen gleichsetzen. Mehrteilige Gebäude, weitere Plankonventionen, unbekannte verdeckte Anzahlen und übrige Restumfänge bleiben offen.90 Karten (64 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes die offene Anschlussfrage zu weiteren ebenen Wegdarstellungen und Ansichten in GS3 187152 prüfen. MA-084/090 decken nur den engen Würfelturm-Bauplanbezug in bekannter Darstellungskonvention. Kandidaten FSP3/4 Orientierung35563 unter Anwenden35554 mit übergreifendem räumlichem Ziel35415 und FSP1/2 37794/38002 getrennt prüfen; Wahlbereiche bewahren und Orientierung nicht ohne Beleg mit allgemeinem Planlesen gleichsetzen. Mehrteilige Gebäude, weitere Plankonventionen, unbekannte verdeckte Anzahlen und übrige Restumfänge bleiben offen.90 Karten (64 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.393 veröffentlicht und live geprüft; Nachweise in MA-086.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4618,8 +4618,12 @@
   },
   "latest_publication": {
     "batch": "MA-086",
-    "status": "pending",
-    "app_version": "1.393"
+    "status": "verified",
+    "app_version": "1.393",
+    "app_commit": "49b120d956d036d74fe4d37888171a2772d3c238",
+    "pages_run": 44463159116,
+    "live_sha256": "8ec9c6e1edce67686ad61df7036c847c6f42a067e0d61bcf9f4a40a507786a0f",
+    "browser": "MA-084/085/086/087/089/090 GS3 local and live; MA-090 mobile320/390 passed. No UI code change; no full90-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",
