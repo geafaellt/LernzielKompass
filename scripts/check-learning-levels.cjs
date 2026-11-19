@@ -27,6 +27,12 @@ assert.deepEqual(values('SU-036','gs'),['Einblick gewinnen']);
 assert.deepEqual(values('SU-052','fsp'),['Sich positionieren']);
 assert.deepEqual(values('SU-066','fsp'),['Einblick gewinnen']);
 assert.deepEqual(values('SU-133','gs'),['Kennen']);
+assert.deepEqual(values('DE-112','gs'),['Kennen']);
+assert.deepEqual(values('DE-113','gs'),['Übertragen']);
+assert.equal(levels.cards['DE-112'].gs.evidence[0].row_id,'page908_186509');
+assert.equal(levels.cards['DE-113'].gs.evidence[0].row_id,'page908_186815');
+assert.ok(levels.cards['DE-112'].gs.evidence[0].pdf_url.endsWith('#page=27'));
+assert.ok(levels.cards['DE-113'].gs.evidence[0].pdf_url.endsWith('#page=37'));
 assert.deepEqual(values('DE-115','fsp'),[]);
 assert.deepEqual(values('MA-084','fsp'),[]);
 (async()=>{

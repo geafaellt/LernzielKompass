@@ -1,0 +1,93 @@
+{
+  "checked_on": "2026-11-19",
+  "method": "Amtliche Online-Lehrpläne und PDF-Seiten visuell gegengeprüft; Einrückung, Gliederung und übergreifende Ziele berücksichtigt.",
+  "corrections": [
+    {
+      "cards": [
+        "DE-112"
+      ],
+      "side": "gs",
+      "level": "Kennen",
+      "parent_row": "page908_186509",
+      "child_row": "page908_186517",
+      "printed_page": 17,
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/908/1tblk6cNNahu0dAWKRuO#page=27"
+    },
+    {
+      "cards": [
+        "DE-113"
+      ],
+      "side": "gs",
+      "level": "Übertragen",
+      "parent_row": "page908_186815",
+      "child_row": "page908_186828",
+      "printed_page": 27,
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/908/1tblk6cNNahu0dAWKRuO#page=37"
+    }
+  ],
+  "no_explicit_level": [
+    {
+      "cards": [
+        "SU-020",
+        "SU-126"
+      ],
+      "side": "gs",
+      "printed_page": 17,
+      "reason": "Spezielle fachliche Klassenstufenziele unter Entwickeln. Keine übergeordnete Tabellenzielzeile mit standardisiertem Lernzielbegriff.",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/80/2DYw4je6s74vCaxRHqx6#page=27"
+    },
+    {
+      "cards": [
+        "SU-065"
+      ],
+      "side": "gs",
+      "printed_page": 24,
+      "reason": "Informationsentnahme ist Teil des speziellen fachlichen Klassenstufenziels. Die sprachliche Beschreibung enthält keine übergeordnete Tabellenzielzeile mit Lernzielebene.",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/80/2DYw4je6s74vCaxRHqx6#page=34"
+    },
+    {
+      "cards": [
+        "SU-146"
+      ],
+      "side": "fsp",
+      "printed_pages": [
+        6,
+        18
+      ],
+      "reason": "Bandziele zur Strukturierung von Abläufen unter Aneignen von Grundwissen. Keine ausgewiesene standardisierte Lernzielebene für diesen Methodenanschluss.",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/146/ORSOhrxXg7eABnGxqwSs"
+    },
+    {
+      "cards": [
+        "DE-115",
+        "DE-116",
+        "DE-130"
+      ],
+      "side": "fsp",
+      "printed_pages": [
+        6,
+        7
+      ],
+      "reason": "Entwickeln von Sprachwahrnehmungsleistungen beginnt als eigener Zielblock des Lernbereichs. Kennen folgt erst danach als neuer Block. Die vorangestellten Bandziele weisen keine standardisierte Lernzielebene dafür aus.",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/146/ORSOhrxXg7eABnGxqwSs#page=19"
+    }
+  ],
+  "ambiguous_inheritance": [
+    {
+      "cards": [
+        "MA-084",
+        "MA-085",
+        "MA-086",
+        "MA-090"
+      ],
+      "side": "fsp",
+      "candidate_level": "Anwenden",
+      "candidate_row": "page139_35451",
+      "content_row": "page139_35456",
+      "child_row": "page139_35459",
+      "printed_page": 19,
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0#page=31",
+      "finding": "Anwenden steht zuvor im selben Lernbereich. Der Inhaltsblock Merkmale von Würfel, Quader und Kugel steht ohne Aufzählungszeichen auf derselben Einrückungsebene. Nachformen und Bauen ist darunter mit Aufzählungszeichen angeordnet. Eine Überordnung von Anwenden ist deshalb möglich, aber durch die Gliederung nicht eindeutig belegt. Keine automatische Zuordnung als gesicherte Lernzielebene."
+    }
+  ]
+}
