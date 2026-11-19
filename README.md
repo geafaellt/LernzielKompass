@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.396** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.397** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -46,7 +46,7 @@ App 1.322 enthält einen aufklappbaren, nach Fach filterbaren Informationsbereic
 | --- | --- | --- |
 | Sachunterricht, Grundschule 1–4 | 135 Anschlusskarten; GS Sachunterricht ↔ FSP Deutsch-Heimatkunde/Sachunterricht, ausschließlich Stufenbänder 1/2 und 3/4; Datenbasis v2.46 | Der dokumentierte ZA-Prüfumfang wurde bearbeitet; die Projektverantwortliche hat die 21 ZA-Punkte am 23.10.2026 inhaltlich freigegeben. Das ist keine amtliche Freigabe und keine Aussage vollständiger Zieldeckung. Der Bestand bleibt bei den Deutsch-Erweiterungen unverändert. |
 | Deutsch, Grundschule 1–4 | 178 Anschlusskarten; GS 1/2, 3 und 4 ↔ FSP Deutsch-Heimatkunde/Sachunterricht 1/2 und 3/4 | Quellenbasierter Abgleichsentwurf; dokumentierte Einzelprüfung einschließlich Anschlussfragen abgeschlossen. Grenzen und Restumfang siehe unten. |
-| Mathematik, Grundschule 1–4 | Zweiundneunzig begrenzte Anschlüsse zwischen GS 1/2, 3, 4 und FSP Lernen Mathematik 1/2, 3/4 | Prüfstand MA-088 mit fünfundsechzig stufenbandpassenden und siebenundzwanzig stufenübergreifenden Anschlüssen. Weitere Zielzeilen bleiben offen. [Quellen und Prüfstand](curriculum/mathematik/README.md). App1.396: Strecken in ganzen Zentimetern zeichnen; Datenprüfungen und gezielte lokale/öffentliche Browserprüfung bestanden. [Veröffentlichungsnachweis](curriculum/mathematik/review_batch_088.json) |
+| Mathematik, Grundschule 1–4 | Vierundneunzig begrenzte Anschlüsse zwischen GS 1/2, 3, 4 und FSP Lernen Mathematik 1/2, 3/4 | Prüfstand MA-089 mit siebenundsechzig stufenbandpassenden und siebenundzwanzig stufenübergreifenden Anschlüssen. Weitere Zielzeilen bleiben offen. [Quellen und Prüfstand](curriculum/mathematik/README.md). App1.396: Strecken in ganzen Zentimetern zeichnen; Datenprüfungen und gezielte lokale/öffentliche Browserprüfung bestanden. [Veröffentlichungsnachweis](curriculum/mathematik/review_batch_088.json) |
 | Oberschule und weitere Fächer | Weitere Entwicklungsbereiche | Die Oberschule bleibt in der Auswahl deaktiviert. |
 
 Die FSP-Stufenbänder werden nicht als Einzelklassen interpretiert. Stufenübergreifende Zuordnungen und notwendige Wahlbereiche sind zu beachten. Sekundarstufenanschlüsse gehören nicht zum aktuellen Deutsch-Abgleich.

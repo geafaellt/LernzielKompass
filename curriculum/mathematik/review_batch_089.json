@@ -1,0 +1,474 @@
+{
+  "id": "MA-089",
+  "date": "2026-11-19",
+  "base_commit": "103611596ceb5326eadb927c4ec46c11784c679e",
+  "scope": "GS3 parallel187159 und senkrecht187160 im ausdrücklich begrenzten Rechteckzusammenhang;187161 als nächster offener Punkt.",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2022": {
+      "id": "page912_2022",
+      "level": 1,
+      "parent_target_id": "page912_2022",
+      "target": "Beherrschen des Zeichnens linearer und ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2022"
+    },
+    "page912_2023": {
+      "id": "page912_2023",
+      "level": 2,
+      "parent_target_id": "page912_2022",
+      "target": "Zeichnen von Geraden und Strecken",
+      "remarks": "Genauigkeit, Sorgfalt, Millimetergenauigkeit Zeichengeräte Lineal, Geometriedreieck ➔ WE, Kl. 3, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2023"
+    },
+    "page912_187159": {
+      "id": "page912_187159",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "parallel zueinander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187159"
+    },
+    "page912_187160": {
+      "id": "page912_187160",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "senkrecht zueinander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187160"
+    },
+    "page912_187161": {
+      "id": "page912_187161",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "schneiden einander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187161"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35526": {
+      "id": "page139_35526",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Erkennen des rechten Winkels",
+      "remarks": "mit dem Faltwinkel prüfen Quadrat als besonderes Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_35511": {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511"
+    },
+    "page139_35516": {
+      "id": "page139_35516",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Zeichnen und Messen von Strecken in ganzen cm, Begrenzung durch Punkte",
+      "remarks": "Zeichen in Gitternetzlinie und mit Lineal ➔ WE, Kl. 3/4, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516"
+    },
+    "page139_35432": {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432"
+    },
+    "page139_35433": {
+      "id": "page139_35433",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433"
+    },
+    "page139_35434": {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37961": {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961"
+    },
+    "page139_37962": {
+      "id": "page139_37962",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "lineare Figuren, Gerade",
+      "remarks": "Entdecken von gekrümmten und geraden Linien an Pflanzen, Wegen, Gleisen, Leitungen, Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37962"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37982": {
+      "id": "page139_37982",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Freihandzeichnen",
+      "remarks": "Asphalt-, Sand-, Schneemalerei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37982"
+    },
+    "page139_37983": {
+      "id": "page139_37983",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Umgang mit Lineal und Schablone",
+      "remarks": "auf liniertem und unliniertem Papier",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37983"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    },
+    "page139_38341": {
+      "id": "page139_38341",
+      "level": 1,
+      "parent_target_id": "page139_38341",
+      "target": "Übertragen geometrischer Kenntnisse auf Objekte aus der Umwelt und Werkstücke",
+      "remarks": "⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38341"
+    },
+    "page139_38367": {
+      "id": "page139_38367",
+      "level": 3,
+      "parent_target_id": "page139_38341",
+      "target": "Lagebeziehungen von Geraden: parallel zueinander, senkrecht aufeinander",
+      "remarks": "g ∥ h , g ⊥ h , lotrecht",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38367"
+    }
+  },
+  "source_verification": {
+    "html": "Beide amtlichen Pläne frisch abgerufen; beide FSP-Bänder samt Hierarchie und Bemerkungen geprüft.38367 gehört5/6 und wird nicht als1/2- oder3/4-Beleg genutzt.",
+    "pdf": {
+      "target_id": "page139_35521",
+      "level": "Gestalten",
+      "source_id": "Q-MA-page139_35521",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+      "pdf_pages_one_based": [
+        5,
+        34
+      ],
+      "printed_pages": [
+        "V",
+        "22"
+      ],
+      "checked_on": "2026-11-19",
+      "finding": "Amtliche Definition Gestalten/Problemlösen auf S.V und Gestalten von Fantasieformen als eigene Hauptzielzeile auf S.22 visuell bestätigt. Darstellen und Erkennen sind darunter getrennte Unterzielhandlungen. Vorheriges Übertragen35511 aus LB3 wird nicht auf LB4 übertragen."
+    },
+    "pdf_sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+    "visual_check": "Gerenderte vollständige Seiten5 und34 gelesen. Poppler gab Fontconfig-Warnungen aus, erzeugte aber lesbare Seiten; Zielspalten und Begriffsdefinition visuell bestätigt."
+  },
+  "new_cards": [
+    "MA-093",
+    "MA-094"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-002",
+    "MA-064",
+    "MA-088",
+    "MA-092"
+  ],
+  "existing_card_review": "MA-002 Spiegelachse und MA-088 Spiegelsymmetrie tragen keine allgemeine Parallel-/Senkrechtzeichnungsanforderung. MA-064 bleibt Messanteil und MA-092 Einzelstreckenzeichnen in ganzen cm; die dortige Einheitenbegrenzung wird nicht auf die qualitativen Rechteckziele übertragen. Alle92 bisherigen Karten und231 Quellen unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187159",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-093"
+      ],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535",
+        "page139_35511",
+        "page139_35516",
+        "page139_35432",
+        "page139_35433",
+        "page139_35434"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37961",
+        "page139_37962",
+        "page139_37981",
+        "page139_37982",
+        "page139_37983",
+        "page139_37984"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 am Rechteck. GS-Beherrschen stammt aus2022; Zeichnen2023 und die jeweilige Lagebeziehung sind untergeordnete Zielhandlungen/Inhalte. FSP-Gestalten stammt aus35521; Darstellen35527 beziehungsweise Erkennen35526 bleiben die konkreten Unterzielhandlungen. Der ausgewählte Feinzielausschnitt deckt nicht das gesamte selbstständige Gestalten von Fantasieformen ab. Keine Gleichsetzung von GS-Zeichnen und FSP-Unterzielhandlung. Der Gestaltungskontext35524 bleibt erhalten; Beispiele und Hilfsmittel aus den Bemerkungen sind keine zusätzlichen Zielvorgaben. GS187159 nennt parallel zueinander unter Zeichnen2023. FSP35527 nennt Darstellen von Rechtecken und Quadraten;35525 bezieht sich auf ihre Merkmale und nennt gegenüberliegende Seiten in der Bemerkung. Parallelität ist hier eine mathematisch notwendige Eigenschaft des ausdrücklich genannten Rechtecks und wird als didaktisch abgeleitetes Qualitätskriterium der Rechteckdarstellung verwendet. Das Wort parallel ist kein ausdrücklicher FSP3/4-Zieltext; keine allgemeine FSP-Geradenparallelitätskompetenz oder verbindliche Fachwortverwendung behauptet. Allgemeines Zeichnen paralleler Geraden oder Strecken außerhalb des Rechteckzusammenhangs, frei vorgegebene Abstände, Konstruktion mit bestimmten Geräten und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Keine vollständige GS-Zieldeckung.",
+      "prerequisites": "Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden.",
+      "stage_decision": "FSP3/4 nennt Rechteck/Quadrat und rechten Winkel ausdrücklich. FSP1/2 nennt allgemeine Vierecke, deren Merkmale/Darstellung37832/37836/37844 sowie lineare Figuren37962 und Umgang mit Lineal37983/Muster37984; diese positiven verwandten Inhalte sichern nicht dieselbe spezifische Rechteck- bzw. Rechtwinkelforderung. Stufenpassenden konkreten Beleg bevorzugt. Ein kleinerer Zahlenraum ist kein Ausschlussgrund.35516 trägt maßbezogenes Einzelstreckenzeichnen, nicht automatisch die Lage zu einer zweiten Linie; Symmetrien35433/35434 sind nicht allgemein parallel oder senkrecht.",
+      "uncertainty": "Keine amtliche numerische Toleranz, keine Verallgemeinerung auf beliebige Geraden; das FSP-Hauptziel Gestalten wird durch den ausgeschnittenen Unterzielnachweis nicht vollständig eingelöst.",
+      "remaining_scope": "Allgemeines Zeichnen paralleler Geraden oder Strecken außerhalb des Rechteckzusammenhangs, frei vorgegebene Abstände, Konstruktion mit bestimmten Geräten und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte."
+    },
+    {
+      "gs_id": "page912_187160",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-094"
+      ],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535",
+        "page139_35511",
+        "page139_35516",
+        "page139_35432",
+        "page139_35433",
+        "page139_35434"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37961",
+        "page139_37962",
+        "page139_37981",
+        "page139_37982",
+        "page139_37983",
+        "page139_37984"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 am Rechteck. GS-Beherrschen stammt aus2022; Zeichnen2023 und die jeweilige Lagebeziehung sind untergeordnete Zielhandlungen/Inhalte. FSP-Gestalten stammt aus35521; Darstellen35527 beziehungsweise Erkennen35526 bleiben die konkreten Unterzielhandlungen. Der ausgewählte Feinzielausschnitt deckt nicht das gesamte selbstständige Gestalten von Fantasieformen ab. Keine Gleichsetzung von GS-Zeichnen und FSP-Unterzielhandlung. Der Gestaltungskontext35524 bleibt erhalten; Beispiele und Hilfsmittel aus den Bemerkungen sind keine zusätzlichen Zielvorgaben. GS187160 nennt senkrecht zueinander unter Zeichnen2023. FSP35526 nennt Erkennen des rechten Winkels ausdrücklich. Die Zuordnung des erkannten rechten Winkels zur senkrechten Lage benachbarter Rechteckseiten ist eine didaktische Konkretisierung dieses geometrischen Zusammenhangs. FSP-Erkennen wird nicht als Zeichnen, Konstruieren oder allgemeine Verwendung des Fachworts senkrecht ausgegeben. Allgemeines Konstruieren senkrechter Geraden, Lote durch beliebige Punkte, numerische Winkelmessung und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Das Erkennen eines rechten Winkels ersetzt nicht die GS-Zeichenleistung. Keine vollständige GS-Zieldeckung.",
+      "prerequisites": "Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden.",
+      "stage_decision": "FSP3/4 nennt Rechteck/Quadrat und rechten Winkel ausdrücklich. FSP1/2 nennt allgemeine Vierecke, deren Merkmale/Darstellung37832/37836/37844 sowie lineare Figuren37962 und Umgang mit Lineal37983/Muster37984; diese positiven verwandten Inhalte sichern nicht dieselbe spezifische Rechteck- bzw. Rechtwinkelforderung. Stufenpassenden konkreten Beleg bevorzugt. Ein kleinerer Zahlenraum ist kein Ausschlussgrund.35516 trägt maßbezogenes Einzelstreckenzeichnen, nicht automatisch die Lage zu einer zweiten Linie; Symmetrien35433/35434 sind nicht allgemein parallel oder senkrecht.",
+      "uncertainty": "Keine amtliche numerische Toleranz, keine Verallgemeinerung auf beliebige Geraden; das FSP-Hauptziel Gestalten wird durch den ausgeschnittenen Unterzielnachweis nicht vollständig eingelöst.",
+      "remaining_scope": "Allgemeines Konstruieren senkrechter Geraden, Lote durch beliebige Punkte, numerische Winkelmessung und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Das Erkennen eines rechten Winkels ersetzt nicht die GS-Zeichenleistung."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2022",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Beherrschen des Zeichnens linearer und ebener Figuren",
+      "Karten": "",
+      "Prüfstatus": "MA-088: Hauptzielkontext Beherrschen für2023/MA-092. Keine eigenständige Kartenabdeckung oder Vollprüfung des Blocks; Lagebeziehungen bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_2023",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Zeichnen von Geraden und Strecken",
+      "Karten": "MA-092",
+      "Prüfstatus": "MA-088: begrenzter Zeichenanschluss nach Prüfung beider FSP-Bänder. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: eine durch zwei Punkte begrenzte Strecke mit vorgegebener Länge in ganzen Zentimetern zeichnen. GS-Beherrschen stammt aus2022, FSP-Übertragen aus35511; die Zielhandlungen Zeichnen stehen in2023 bzw.35516. Ganze cm und Punktbegrenzung sind im FSP-Zieltext ausdrücklich belegt. Der Umweltbezug des FSP-Hauptziels bleibt erhalten. Die Auswahl einer einzelnen Strecke mit bekannter Längenangabe ist didaktische Konkretisierung. GS2023 nennt Millimetergenauigkeit, Sorgfalt und Zeichengeräte in der Bemerkung; daraus wird weder eine zusätzliche FSP-Millimeterforderung noch eine automatische Hilfsmittelwahl. Die FSP-Bemerkung35516 nennt Gitternetzlinie und Lineal, keine eigene Lernzielebene. Keine numerische Obergrenze in den beiden Zeichenzeilen belegt; Zahlenbereich vorab festlegen. Die Einheitenbeziehung1m=100cm und das übergreifende FSP-Zahlziel bis100 sind keine Höchstlänge. Geraden, gezielte Lagebeziehungen parallel/senkrecht/schneidend und die vollständige GS-Genauigkeitsforderung sind nicht abgedeckt. Keine vollständige GS-Zieldeckung. Voraussetzungen: Vorausgesetzt sind die Unterscheidung von Strecke und unbegrenzter Gerade, bekannte Punktbegrenzung, vertraute Zentimeterangaben und ein verständlicher Umweltbezug. Vorab Zahlenbereich und überprüfbare Zeichengenauigkeit festlegen; keine amtliche FSP-Toleranz erfinden. Rest: MA-092 deckt nur eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. Zeichnen unbegrenzter Geraden, die gezielten Beziehungen parallel187159/senkrecht187160/schneidend187161 sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Ein Zentimeter als Längeneinheit legt keine Mess- oder Zeichentoleranz fest; FSP-Toleranz nicht aus GS übernehmen."
+    },
+    {
+      "Ziel-ID": "page912_187159",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "parallel zueinander",
+      "Karten": "",
+      "Prüfstatus": "MA-087: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Fortschritt aus der Inventur abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_187160",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "senkrecht zueinander",
+      "Karten": "",
+      "Prüfstatus": "MA-087: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Fortschritt aus der Inventur abgeleitet."
+    }
+  ],
+  "number_scope_review": {
+    "MA-093": {
+      "status": "domain_specific",
+      "summary": "Fachspezifisch: qualitative Seiten- und Winkelbeziehung am Rechteck",
+      "detail": "Die verwendeten FSP-Zeilen35521/35524/35525/35527 nennen keine numerische Obergrenze für diesen Ausschnitt. Das Feinziel fordert qualitative Form-/Lageergebnisse ohne Längen, Abstandswerte, numerische Winkelgrößen oder Rechnungen. Keine20/100-Grenze aus übergreifenden Zahlzielen übertragen. Die ganze-cm-Vorgabe35516 gehört zum anderen Längen-/Streckenziel und wird nicht hierher übernommen. GS2023 nennt ebenfalls keine numerische Höchstgrenze; seine Bemerkung zur Millimetergenauigkeit begründet keine FSP-Zeichentoleranz.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35524",
+        "Q-MA-page139_35525",
+        "Q-MA-page139_35527"
+      ],
+      "planning_rule": "Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden. Nur qualitative Lage- und Formergebnisse; keine numerischen Ausgangs-, Zwischen- oder Endwerte, Längen, Abstände, Winkelgrade oder Rechnungen Bestandteil dieser Karte. Numerische Erweiterungen erfordern einen eigenen belegten oder ausdrücklich didaktisch festgelegten Rahmen. Keine allgemeine Geradenkompetenz oder vollständige Gestaltungskompetenz aus dem Teilziel ableiten. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen, nicht automatisch validiert."
+    },
+    "MA-094": {
+      "status": "domain_specific",
+      "summary": "Fachspezifisch: qualitative Seiten- und Winkelbeziehung am Rechteck",
+      "detail": "Die verwendeten FSP-Zeilen35521/35524/35526 nennen keine numerische Obergrenze für diesen Ausschnitt. Das Feinziel fordert qualitative Form-/Lageergebnisse ohne Längen, Abstandswerte, numerische Winkelgrößen oder Rechnungen. Keine20/100-Grenze aus übergreifenden Zahlzielen übertragen. Die ganze-cm-Vorgabe35516 gehört zum anderen Längen-/Streckenziel und wird nicht hierher übernommen. GS2023 nennt ebenfalls keine numerische Höchstgrenze; seine Bemerkung zur Millimetergenauigkeit begründet keine FSP-Zeichentoleranz.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35524",
+        "Q-MA-page139_35526"
+      ],
+      "planning_rule": "Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden. Nur qualitative Lage- und Formergebnisse; keine numerischen Ausgangs-, Zwischen- oder Endwerte, Längen, Abstände, Winkelgrade oder Rechnungen Bestandteil dieser Karte. Numerische Erweiterungen erfordern einen eigenen belegten oder ausdrücklich didaktisch festgelegten Rahmen. Keine allgemeine Geradenkompetenz oder vollständige Gestaltungskompetenz aus dem Teilziel ableiten. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen, nicht automatisch validiert."
+    }
+  },
+  "counts": {
+    "new_individually_examined_target_rows": 2,
+    "new_partially_reviewed_rows": 2,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 2,
+    "updated_cards": 0,
+    "cards": 94,
+    "same_band_cards": 67,
+    "cross_band_cards": 27,
+    "source_links": 238,
+    "target_anchors": 236,
+    "new_unique_gs_anchors": 2,
+    "new_unique_fsp_anchors": 5,
+    "audit_rows": 163,
+    "open_connection_questions": 22,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": {
+    "next_id": "page912_187161",
+    "next_step": "Als Nächstes GS3 schneiden einander187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen, einschließlich der Abgrenzung zum bereits belegten rechten Winkel MA-094. Beide FSP-Bänder prüfen; Muster-/Figurendarstellung und spezielle Rechteckbeziehungen nicht ungeprüft zu allgemeinem Schneiden von Geraden ausweiten. Danach GS187446 ff.94 Karten(67 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss."
+  },
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "validation_change": "Gestalten added to allowed mathematical learning levels after official definition/main-row verification; it requires Gestalten in the actual main target. Regression cases reject borrowed levels, Erkennen/Darstellen as substituted main levels and a fabricated Gestalten label without target evidence. Existing missing-operator checks remain active.",
+    "browser_local": "scripts/check-mathematik-live-ma-094.cjs passed MA-002 GS1/2 and MA-088/092/093/094 GS3. Scope on cards, FSP goals and planning output, sources, learning-level labels, separate goal/criterion adoption, empty task/aid fields, preserved teacher text, reload and subject isolation; MA-093/094 each320px/390px. No UI code changed; no full94-card browser run claimed.",
+    "preservation": {
+      "base_commit": "103611596ceb5326eadb927c4ec46c11784c679e",
+      "changed_preexisting_files": [
+        "README.md",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/mathematik_module.json",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv",
+        "dist/index.html",
+        "index.html",
+        "scripts/check-mathematik.py",
+        "scripts/test-mathematik-scope.py"
+      ],
+      "unchanged_preexisting_files": 277,
+      "old_cards_unchanged": 92,
+      "old_sources_unchanged": 231,
+      "ui_code_unchanged_except_version_and_math_payload": true
+    },
+    "browser_live": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.397"
+  }
+}

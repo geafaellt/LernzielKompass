@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.3",
+  "version": "MA-2026-11-19.4",
   "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1496,6 +1496,48 @@
       "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2023",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187159",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187159",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35521",
+      "title": "FSP Mathematik3/4 · Lernbereich4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35524",
+      "title": "FSP Mathematik3/4 · Lernbereich4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35525",
+      "title": "FSP Mathematik3/4 · Lernbereich4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35527",
+      "title": "FSP Mathematik3/4 · Lernbereich4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187160",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187160",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35526",
+      "title": "FSP Mathematik3/4 · Lernbereich4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -8936,6 +8978,174 @@
         ],
         "context_only_gs_ids": [
           "page912_2022"
+        ]
+      }
+    },
+    {
+      "id": "MA-093",
+      "subject": "Mathematik",
+      "theme": "Parallele Seiten am Rechteck",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Rechteckbezug · qualitative Lagebeziehung",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1: Raum und Form · parallel zueinander187159 unter Zeichnen2023/Beherrschen2022; ausgewählt: Rechteckseiten",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich4: Wünsche, Träume, Fantasie · Darstellen von Rechtecken35527 und Merkmale35525 im Gestaltungselement-Kontext35524 unter Gestalten35521",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Gestalten",
+      "operator_relation": "GS: Beherrschen · FSP: Gestalten. Stufenbandpassender Teilanschluss GS3 → FSP3/4 am Rechteck. GS-Beherrschen stammt aus2022; Zeichnen2023 und die jeweilige Lagebeziehung sind untergeordnete Zielhandlungen/Inhalte. FSP-Gestalten stammt aus35521; Darstellen35527 beziehungsweise Erkennen35526 bleiben die konkreten Unterzielhandlungen. Der ausgewählte Feinzielausschnitt deckt nicht das gesamte selbstständige Gestalten von Fantasieformen ab. Keine Gleichsetzung von GS-Zeichnen und FSP-Unterzielhandlung. Der Gestaltungskontext35524 bleibt erhalten; Beispiele und Hilfsmittel aus den Bemerkungen sind keine zusätzlichen Zielvorgaben. GS187159 nennt parallel zueinander unter Zeichnen2023. FSP35527 nennt Darstellen von Rechtecken und Quadraten;35525 bezieht sich auf ihre Merkmale und nennt gegenüberliegende Seiten in der Bemerkung. Parallelität ist hier eine mathematisch notwendige Eigenschaft des ausdrücklich genannten Rechtecks und wird als didaktisch abgeleitetes Qualitätskriterium der Rechteckdarstellung verwendet. Das Wort parallel ist kein ausdrücklicher FSP3/4-Zieltext; keine allgemeine FSP-Geradenparallelitätskompetenz oder verbindliche Fachwortverwendung behauptet. Allgemeines Zeichnen paralleler Geraden oder Strecken außerhalb des Rechteckzusammenhangs, frei vorgegebene Abstände, Konstruktion mit bestimmten Geräten und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_2022",
+        "page912_2023",
+        "page912_187159"
+      ],
+      "fsp_target_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35527"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2022",
+        "Q-MA-page912_2023",
+        "Q-MA-page912_187159",
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35524",
+        "Q-MA-page139_35525",
+        "Q-MA-page139_35527"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 am Rechteck. GS-Beherrschen stammt aus2022; Zeichnen2023 und die jeweilige Lagebeziehung sind untergeordnete Zielhandlungen/Inhalte. FSP-Gestalten stammt aus35521; Darstellen35527 beziehungsweise Erkennen35526 bleiben die konkreten Unterzielhandlungen. Der ausgewählte Feinzielausschnitt deckt nicht das gesamte selbstständige Gestalten von Fantasieformen ab. Keine Gleichsetzung von GS-Zeichnen und FSP-Unterzielhandlung. Der Gestaltungskontext35524 bleibt erhalten; Beispiele und Hilfsmittel aus den Bemerkungen sind keine zusätzlichen Zielvorgaben. GS187159 nennt parallel zueinander unter Zeichnen2023. FSP35527 nennt Darstellen von Rechtecken und Quadraten;35525 bezieht sich auf ihre Merkmale und nennt gegenüberliegende Seiten in der Bemerkung. Parallelität ist hier eine mathematisch notwendige Eigenschaft des ausdrücklich genannten Rechtecks und wird als didaktisch abgeleitetes Qualitätskriterium der Rechteckdarstellung verwendet. Das Wort parallel ist kein ausdrücklicher FSP3/4-Zieltext; keine allgemeine FSP-Geradenparallelitätskompetenz oder verbindliche Fachwortverwendung behauptet. Allgemeines Zeichnen paralleler Geraden oder Strecken außerhalb des Rechteckzusammenhangs, frei vorgegebene Abstände, Konstruktion mit bestimmten Geräten und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Keine vollständige GS-Zieldeckung. Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden.",
+      "shared_object_suggestion": "Die parallele Lage gegenüberliegender Seiten eines Rechtecks.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zeichnet ein ausgewähltes Paar gegenüberliegender Seiten eines vertrauten Rechtecks parallel zueinander.",
+          "criterion": "Die beiden gezeichneten Strecken sind gerade und verlaufen als gegenüberliegende Rechteckseiten parallel; ihre tragenden Geraden würden sich auch bei Verlängerung nicht schneiden. Die Seiten gehören zum selben beabsichtigten Rechteck. Keine bestimmte Länge, kein numerischer Abstand und kein allgemeines Parallelzeichnungsverfahren werden zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung der GS-Zeichenanforderung am Rechteck. Kein vollständiger Nachweis des übergeordneten Beherrschen-Ziels."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt ein vertrautes Rechteck als Gestaltungselement mit seiner charakteristischen Seitenanordnung dar.",
+          "criterion": "Die Darstellung hat die Rechteckform mit geraden Seiten und rechten Ecken; gegenüberliegende Seiten verlaufen parallel. Diese Parallelität wird als didaktisch abgeleitetes Merkmal der Rechteckdarstellung beurteilt, nicht als zusätzliches amtliches FSP-Parallelitätsziel. Das Fachwort parallel, ein bestimmtes Zeichenverfahren, numerische Seitenlängen und Abstandswerte werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Darstellen35527; Parallelität als notwendiges Formmerkmal abgeleitet. Keine vollständige Deckung von Gestalten35521.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Seiten- und Winkelbeziehung am Rechteck",
+        "detail": "Die verwendeten FSP-Zeilen35521/35524/35525/35527 nennen keine numerische Obergrenze für diesen Ausschnitt. Das Feinziel fordert qualitative Form-/Lageergebnisse ohne Längen, Abstandswerte, numerische Winkelgrößen oder Rechnungen. Keine20/100-Grenze aus übergreifenden Zahlzielen übertragen. Die ganze-cm-Vorgabe35516 gehört zum anderen Längen-/Streckenziel und wird nicht hierher übernommen. GS2023 nennt ebenfalls keine numerische Höchstgrenze; seine Bemerkung zur Millimetergenauigkeit begründet keine FSP-Zeichentoleranz.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35521",
+          "Q-MA-page139_35524",
+          "Q-MA-page139_35525",
+          "Q-MA-page139_35527"
+        ],
+        "planning_rule": "Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden. Nur qualitative Lage- und Formergebnisse; keine numerischen Ausgangs-, Zwischen- oder Endwerte, Längen, Abstände, Winkelgrade oder Rechnungen Bestandteil dieser Karte. Numerische Erweiterungen erfordern einen eigenen belegten oder ausdrücklich didaktisch festgelegten Rahmen. Keine allgemeine Geradenkompetenz oder vollständige Gestaltungskompetenz aus dem Teilziel ableiten. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen, nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "2022 Hauptziel Beherrschen und2023 Zeichnen nur Hierarchiekontext der gezielt geprüften Unterzeile187159. Millimetergenauigkeit und Geräte stehen in Bemerkung2023; keine FSP-Vorgabe.",
+        "fsp": "35527 Darstellen und35525 Merkmale sind Unterziele unter Gestalten35521 mit Gestaltungskontext35524. Gegenüberliegende Seiten stehen in Bemerkung35525. Parallelität folgt mathematisch aus Rechteck und ist ausdrücklich didaktisches Kriterium, kein wörtlich neues FSP-Ziel.",
+        "context_only_gs_ids": [
+          "page912_2022",
+          "page912_2023"
+        ],
+        "gs_remark_anchors": [
+          "page912_2023"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35525",
+          "page139_35527"
+        ]
+      }
+    },
+    {
+      "id": "MA-094",
+      "subject": "Mathematik",
+      "theme": "Rechter Winkel an benachbarten Rechteckseiten",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Rechteckbezug · qualitative Lagebeziehung",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1: Raum und Form · senkrecht zueinander187160 unter Zeichnen2023/Beherrschen2022; ausgewählt: Rechteckseiten",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich4: Wünsche, Träume, Fantasie · Erkennen des rechten Winkels35526 im Gestaltungselement-Kontext35524 unter Gestalten35521",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Gestalten",
+      "operator_relation": "GS: Beherrschen · FSP: Gestalten. Stufenbandpassender Teilanschluss GS3 → FSP3/4 am Rechteck. GS-Beherrschen stammt aus2022; Zeichnen2023 und die jeweilige Lagebeziehung sind untergeordnete Zielhandlungen/Inhalte. FSP-Gestalten stammt aus35521; Darstellen35527 beziehungsweise Erkennen35526 bleiben die konkreten Unterzielhandlungen. Der ausgewählte Feinzielausschnitt deckt nicht das gesamte selbstständige Gestalten von Fantasieformen ab. Keine Gleichsetzung von GS-Zeichnen und FSP-Unterzielhandlung. Der Gestaltungskontext35524 bleibt erhalten; Beispiele und Hilfsmittel aus den Bemerkungen sind keine zusätzlichen Zielvorgaben. GS187160 nennt senkrecht zueinander unter Zeichnen2023. FSP35526 nennt Erkennen des rechten Winkels ausdrücklich. Die Zuordnung des erkannten rechten Winkels zur senkrechten Lage benachbarter Rechteckseiten ist eine didaktische Konkretisierung dieses geometrischen Zusammenhangs. FSP-Erkennen wird nicht als Zeichnen, Konstruieren oder allgemeine Verwendung des Fachworts senkrecht ausgegeben. Allgemeines Konstruieren senkrechter Geraden, Lote durch beliebige Punkte, numerische Winkelmessung und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Das Erkennen eines rechten Winkels ersetzt nicht die GS-Zeichenleistung. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_2022",
+        "page912_2023",
+        "page912_187160"
+      ],
+      "fsp_target_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35526"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2022",
+        "Q-MA-page912_2023",
+        "Q-MA-page912_187160",
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35524",
+        "Q-MA-page139_35526"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 am Rechteck. GS-Beherrschen stammt aus2022; Zeichnen2023 und die jeweilige Lagebeziehung sind untergeordnete Zielhandlungen/Inhalte. FSP-Gestalten stammt aus35521; Darstellen35527 beziehungsweise Erkennen35526 bleiben die konkreten Unterzielhandlungen. Der ausgewählte Feinzielausschnitt deckt nicht das gesamte selbstständige Gestalten von Fantasieformen ab. Keine Gleichsetzung von GS-Zeichnen und FSP-Unterzielhandlung. Der Gestaltungskontext35524 bleibt erhalten; Beispiele und Hilfsmittel aus den Bemerkungen sind keine zusätzlichen Zielvorgaben. GS187160 nennt senkrecht zueinander unter Zeichnen2023. FSP35526 nennt Erkennen des rechten Winkels ausdrücklich. Die Zuordnung des erkannten rechten Winkels zur senkrechten Lage benachbarter Rechteckseiten ist eine didaktische Konkretisierung dieses geometrischen Zusammenhangs. FSP-Erkennen wird nicht als Zeichnen, Konstruieren oder allgemeine Verwendung des Fachworts senkrecht ausgegeben. Allgemeines Konstruieren senkrechter Geraden, Lote durch beliebige Punkte, numerische Winkelmessung und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Das Erkennen eines rechten Winkels ersetzt nicht die GS-Zeichenleistung. Keine vollständige GS-Zieldeckung. Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden.",
+      "shared_object_suggestion": "Die rechtwinklige Beziehung zweier benachbarter Seiten eines Rechtecks.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zeichnet zwei benachbarte Seiten eines vertrauten Rechtecks senkrecht zueinander.",
+          "criterion": "Die beiden geraden Seiten treffen sich im gemeinsamen Rechteck-Eckpunkt und bilden einen rechten Winkel. Ihre Lage entspricht benachbarten Seiten desselben Rechtecks. Es werden keine numerischen Winkelgrößen, Seitenlängen oder bestimmten Konstruktionsverfahren zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung der GS-Zeichenanforderung am Rechteck. Kein vollständiger Nachweis des übergeordneten Beherrschen-Ziels."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt den rechten Winkel zwischen benachbarten Seiten eines vertrauten Rechtecks als Gestaltungselement.",
+          "criterion": "Der erkannte Winkel liegt am gemeinsamen Eckpunkt der benachbarten Rechteckseiten und ist rechtwinklig; eine nicht rechtwinklige Ecke wird nicht als rechter Winkel bestätigt. Zeichnen oder Konstruieren, das Fachwort senkrecht und numerische Winkelangaben werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Erkennen35526; Verbindung mit benachbarten Rechteckseiten didaktisch eingegrenzt. Keine vollständige Deckung von Gestalten35521.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Seiten- und Winkelbeziehung am Rechteck",
+        "detail": "Die verwendeten FSP-Zeilen35521/35524/35526 nennen keine numerische Obergrenze für diesen Ausschnitt. Das Feinziel fordert qualitative Form-/Lageergebnisse ohne Längen, Abstandswerte, numerische Winkelgrößen oder Rechnungen. Keine20/100-Grenze aus übergreifenden Zahlzielen übertragen. Die ganze-cm-Vorgabe35516 gehört zum anderen Längen-/Streckenziel und wird nicht hierher übernommen. GS2023 nennt ebenfalls keine numerische Höchstgrenze; seine Bemerkung zur Millimetergenauigkeit begründet keine FSP-Zeichentoleranz.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35521",
+          "Q-MA-page139_35524",
+          "Q-MA-page139_35526"
+        ],
+        "planning_rule": "Vorausgesetzt sind ein vertrautes Rechteck als Gestaltungselement sowie die Unterscheidung benachbarter und gegenüberliegender Seiten. Die Beschränkung auf diese Figur und die jeweilige Seitenbeziehung ist didaktische Konkretisierung. Darstellungsform und qualitativ überprüfbare Genauigkeit sind vorher passend zu den Lernvoraussetzungen zu klären; keine amtliche Toleranz erfinden. Nur qualitative Lage- und Formergebnisse; keine numerischen Ausgangs-, Zwischen- oder Endwerte, Längen, Abstände, Winkelgrade oder Rechnungen Bestandteil dieser Karte. Numerische Erweiterungen erfordern einen eigenen belegten oder ausdrücklich didaktisch festgelegten Rahmen. Keine allgemeine Geradenkompetenz oder vollständige Gestaltungskompetenz aus dem Teilziel ableiten. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen, nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "2022 Hauptziel Beherrschen und2023 Zeichnen nur Hierarchiekontext der gezielt geprüften Unterzeile187160. Millimetergenauigkeit und Geräte stehen in Bemerkung2023; keine FSP-Vorgabe.",
+        "fsp": "35526 Erkennen des rechten Winkels ist Unterziel unter Gestalten35521 mit Gestaltungskontext35524. Faltwinkel und Quadrat als besonderes Rechteck stehen in der Bemerkung. Die Zuordnung zu benachbarten Seiten ist didaktische Konkretisierung; kein FSP-Zeichenziel erfunden.",
+        "context_only_gs_ids": [
+          "page912_2022",
+          "page912_2023"
+        ],
+        "gs_remark_anchors": [
+          "page912_2023"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35526"
         ]
       }
     }

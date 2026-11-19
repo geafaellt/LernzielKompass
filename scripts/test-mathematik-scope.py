@@ -130,3 +130,20 @@ for c in cards.values():
     for side in ['gs', 'fsp']:
         validate_primary(c, side)
 print('PASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.')
+
+# Gestalten is an official level, but must belong to the actual main row.
+check_level = checks['check_operator_evidence']
+for cid in ['MA-093', 'MA-094']:
+    c = cards[cid]
+    parent = checks['anchors'][c['fsp_target_ids'][0]]
+    check_level(c, 'fsp', parent)
+    for wrong in ['Kennen', 'Übertragen', 'Erkennen', 'Darstellen']:
+        broken = copy.deepcopy(c); broken['fsp_operator'] = wrong
+        try: check_level(broken, 'fsp', parent)
+        except AssertionError: pass
+        else: raise AssertionError('Wrong level or child action accepted: ' + wrong)
+    broken_parent = copy.deepcopy(parent); broken_parent['target'] = 'Merkmale von Rechtecken'
+    try: check_level(c, 'fsp', broken_parent)
+    except AssertionError: pass
+    else: raise AssertionError('Gestalten accepted without main-row evidence')
+print('PASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.')

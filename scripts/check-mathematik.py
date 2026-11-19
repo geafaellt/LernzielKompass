@@ -89,7 +89,9 @@ def check_operator_evidence(card, side, parent):
         for text in [card['fsp_anchor'], card['operator_relation']]:
             assert evidence['notice'] in text, card['id']
     else:
-        assert value == parent['operator'] in {'Einblick gewinnen', 'Kennen', 'Übertragen', 'Beherrschen', 'Anwenden'}, (card['id'], side)
+        assert value == parent['operator'] in {'Einblick gewinnen', 'Kennen', 'Übertragen', 'Beherrschen', 'Anwenden', 'Gestalten'}, (card['id'], side)
+        if value == 'Gestalten':
+            assert parent['target'].startswith('Gestalten '), (card['id'], 'Gestalten must be evidenced in its main target')
         assert not evidence or evidence.get('status') != 'not_stated', card['id']
 
 
