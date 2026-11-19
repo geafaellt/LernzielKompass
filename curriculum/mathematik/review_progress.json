@@ -2913,7 +2913,7 @@
     }
   },
   "next_id": "page912_2023",
-  "next_step": "Als Nächstes GS3 Zeichnen von Geraden und Strecken2023 unter Beherrschen2022 mit parallel187159,senkrecht187160 und schneiden187161 prüfen. Die fünf Zeilen sind nur inventarisiert, noch ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Lagebeziehungen, Zeichenverfahren und Maß-/Genauigkeitsanforderungen getrennt behandeln.187152 hat nun den zusätzlichen begrenzten Labyrinth-Wegabschnitt MA-091; weitere Wegpläne, Ansichten und bisherige Restumfänge bleiben dokumentiert.91 Karten (64 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes GS3 Zeichnen von Geraden und Strecken2023 unter Beherrschen2022 mit parallel187159,senkrecht187160 und schneiden187161 prüfen. Die fünf Zeilen sind nur inventarisiert, noch ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Lagebeziehungen, Zeichenverfahren und Maß-/Genauigkeitsanforderungen getrennt behandeln.187152 hat nun den zusätzlichen begrenzten Labyrinth-Wegabschnitt MA-091; weitere Wegpläne, Ansichten und bisherige Restumfänge bleiben dokumentiert.91 Karten (64 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.394 veröffentlicht und live geprüft; Nachweise in MA-087.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4633,8 +4633,12 @@
   },
   "latest_publication": {
     "batch": "MA-087",
-    "status": "pending",
-    "app_version": "1.394"
+    "status": "verified",
+    "app_version": "1.394",
+    "app_commit": "72f3da4f320761c71800036d3c9558157e36c90c",
+    "pages_run": 44522701262,
+    "live_sha256": "0143b36421a95f270b7b35e6e53aaf047d9ca61a0847aee7aa0dbce16f2b4211",
+    "browser": "MA-001 GS1/2 and MA-083/084/088/090/091 GS3 local and live; MA-091 mobile320/390 passed. No UI code change; no full91-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",

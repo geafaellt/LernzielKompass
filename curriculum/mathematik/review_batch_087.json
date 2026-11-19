@@ -410,7 +410,7 @@
   },
   "continuation": "Als Nächstes GS3 Zeichnen von Geraden und Strecken2023 unter Beherrschen2022 mit parallel187159,senkrecht187160 und schneiden187161 prüfen. Die fünf Zeilen sind nur inventarisiert, noch ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Lagebeziehungen, Zeichenverfahren und Maß-/Genauigkeitsanforderungen getrennt behandeln.187152 hat nun den zusätzlichen begrenzten Labyrinth-Wegabschnitt MA-091; weitere Wegpläne, Ansichten und bisherige Restumfänge bleiben dokumentiert.91 Karten (64 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -457,12 +457,20 @@
       "scripts/check-mathematik.py",
       "scripts/test-mathematik-scope.py"
     ],
-    "browser_live": "pending",
+    "browser_live": "MA-001 in GS1/2 and MA-083/084/088/090/091 in GS3 passed publicly: sources, missing-operator label where applicable, scope on card/goals/output, exact goals/criteria, empty task/aid fields, preserved teacher drafts, subject isolation/reload. MA-091 additionally mobile320px/390px. No full91-card browser run claimed; UI code unchanged.",
     "validation_change": "The initial checker required a main target plus a subordinate target.37980 contains the target and concrete Labyrinthspiele remark in one main row. Single-row groups now require explicit matching main-target/remark/source evidence. Tests reject missing, foreign, invented, child-only, empty and duplicate evidence. Operator, stage, parent, source and scope checks remain active; all91 cards validated. No invented child row or duplicated target added."
   },
   "publication": {
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.394",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/"
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "app_commit": "72f3da4f320761c71800036d3c9558157e36c90c",
+    "pages_run": 44522701262,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/44522701262",
+    "pages_conclusion": "success",
+    "live_app_version": "1.394",
+    "live_byte_identical_to_target": true,
+    "live_sha256": "0143b36421a95f270b7b35e6e53aaf047d9ca61a0847aee7aa0dbce16f2b4211",
+    "verified_at": "2026-11-19T12:20:32.282807+00:00"
   }
 }
