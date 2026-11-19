@@ -2939,7 +2939,7 @@
     }
   },
   "next_id": "page912_187159",
-  "next_step": "Als Nächstes die GS3-Lagebeziehungen parallel187159,senkrecht187160 und schneiden187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen. FSP3/4 Rechteck-/Quadratdarstellung35527, rechter Winkel35526 und Muster35535 sind positive Kandidaten, aber noch kein gesicherter Beleg für die gesamte gerichtete Zeichenanforderung. Beide FSP-Bänder und bestehende Karten prüfen; FSP5/6-Lagebeziehungen38367 nicht vorziehen. Danach GS187446 ff.92 Karten(65 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes die GS3-Lagebeziehungen parallel187159,senkrecht187160 und schneiden187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen. FSP3/4 Rechteck-/Quadratdarstellung35527, rechter Winkel35526 und Muster35535 sind positive Kandidaten, aber noch kein gesicherter Beleg für die gesamte gerichtete Zeichenanforderung. Beide FSP-Bänder und bestehende Karten prüfen; FSP5/6-Lagebeziehungen38367 nicht vorziehen. Danach GS187446 ff.92 Karten(65 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.396 veröffentlicht und live geprüft; Nachweise in MA-088.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4676,8 +4676,12 @@
   },
   "latest_publication": {
     "batch": "MA-088",
-    "status": "pending",
-    "app_version": "1.396"
+    "status": "verified",
+    "app_version": "1.396",
+    "app_commit": "cd4ecd258fa6e7d07db0f6bc78a2ba3b6a07c25a",
+    "pages_run": 44532298996,
+    "live_sha256": "4f17d902ee709b15c9b65ad62b1494cf9b4d0ccc2330d0981c9629734d1a073c",
+    "browser": "MA-064/067 GS1/2 and MA-092 GS3 local and live passed; MA-092 mobile320/390 passed. No UI code change; no full92-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",

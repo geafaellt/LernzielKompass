@@ -325,7 +325,7 @@
     "next_step": "Als Nächstes die GS3-Lagebeziehungen parallel187159,senkrecht187160 und schneiden187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen. FSP3/4 Rechteck-/Quadratdarstellung35527, rechter Winkel35526 und Muster35535 sind positive Kandidaten, aber noch kein gesicherter Beleg für die gesamte gerichtete Zeichenanforderung. Beide FSP-Bänder und bestehende Karten prüfen; FSP5/6-Lagebeziehungen38367 nicht vorziehen. Danach GS187446 ff.92 Karten(65 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss."
   },
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_live",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -352,10 +352,15 @@
       "old_sources_unchanged": 229,
       "ui_code_unchanged_except_version_and_math_payload": true
     },
-    "browser_live": "pending"
+    "browser_live": "scripts/check-mathematik-live-ma-092.cjs passed against actual GitHub Pages App1.396. Same targeted scope and limitations as local; live HTML byte-identical."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.396"
+    "batch": "MA-088",
+    "status": "verified",
+    "app_version": "1.396",
+    "app_commit": "cd4ecd258fa6e7d07db0f6bc78a2ba3b6a07c25a",
+    "pages_run": 44532298996,
+    "live_sha256": "4f17d902ee709b15c9b65ad62b1494cf9b4d0ccc2330d0981c9629734d1a073c",
+    "browser": "MA-064/067 GS1/2 and MA-092 GS3 local and live passed; MA-092 mobile320/390 passed. No UI code change; no full92-card browser run."
   }
 }
