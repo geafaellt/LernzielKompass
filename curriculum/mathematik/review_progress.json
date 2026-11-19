@@ -3030,7 +3030,7 @@
     }
   },
   "next_id": "page912_187161",
-  "next_step": "Als Nächstes GS3 schneiden einander187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen, einschließlich der Abgrenzung zum bereits belegten rechten Winkel MA-094. Beide FSP-Bänder prüfen; Muster-/Figurendarstellung und spezielle Rechteckbeziehungen nicht ungeprüft zu allgemeinem Schneiden von Geraden ausweiten. Danach GS187446 ff.94 Karten(67 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes GS3 schneiden einander187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen, einschließlich der Abgrenzung zum bereits belegten rechten Winkel MA-094. Beide FSP-Bänder prüfen; Muster-/Figurendarstellung und spezielle Rechteckbeziehungen nicht ungeprüft zu allgemeinem Schneiden von Geraden ausweiten. Danach GS187446 ff.94 Karten(67 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.397 veröffentlicht und live geprüft; Nachweise in MA-089.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4362,9 +4362,9 @@
     },
     {
       "gs_id": "page912_2023",
-      "scope": "MA-092 deckt nur eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. Zeichnen unbegrenzter Geraden, die gezielten Beziehungen parallel187159/senkrecht187160/schneidend187161 sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Ein Zentimeter als Längeneinheit legt keine Mess- oder Zeichentoleranz fest; FSP-Toleranz nicht aus GS übernehmen.",
+      "scope": "MA-092 trägt eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. MA-093/094 ergänzen ausschließlich parallele gegenüberliegende bzw. rechtwinklige benachbarte Rechteckseiten; FSP-Darstellen bzw. Erkennen bleibt von GS-Zeichnen getrennt. Allgemeine Geraden-/Streckenanordnungen außerhalb des Rechtecks, frei vorgegebene Abstände und Konstruktionsbedingungen,187161 schneiden einander sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Keine FSP-Zeichentoleranz aus der GS-Bemerkung ableiten.",
       "status": "offen",
-      "review": "MA-088"
+      "review": "MA-089"
     },
     {
       "gs_id": "page912_187159",
@@ -4793,8 +4793,12 @@
   },
   "latest_publication": {
     "batch": "MA-089",
-    "status": "pending",
-    "app_version": "1.397"
+    "status": "verified",
+    "app_version": "1.397",
+    "app_commit": "bc0535a93428f65b3b796e9206e9fa770c568f7f",
+    "pages_run": 44562564966,
+    "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+    "browser": "MA-002 GS1/2 and MA-088/092/093/094 GS3 local and live passed; MA-093/094 each mobile320/390 passed. No UI code change; no full94-card browser run."
   },
   "latest_audit_publication": {
     "batch": "MA-079",
