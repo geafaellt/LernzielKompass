@@ -1,0 +1,416 @@
+{
+  "id": "MA-090",
+  "date": "2026-11-19",
+  "base_commit": "60fa774733b3ea8d4a769ed35a475a28996b1f5d",
+  "scope": "GS3 schneiden einander187161; Abgrenzung der bestehenden Rechteck-/Winkelkarte und Kandidaten beider FSP-Bänder.",
+  "change_type": "audit_only",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "9ceec732895a9b15948d6d0874970577df5a0b8b034bd052b46ccbd223d465dd",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2022": {
+      "id": "page912_2022",
+      "level": 1,
+      "parent_target_id": "page912_2022",
+      "target": "Beherrschen des Zeichnens linearer und ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2022"
+    },
+    "page912_2023": {
+      "id": "page912_2023",
+      "level": 2,
+      "parent_target_id": "page912_2022",
+      "target": "Zeichnen von Geraden und Strecken",
+      "remarks": "Genauigkeit, Sorgfalt, Millimetergenauigkeit Zeichengeräte Lineal, Geometriedreieck ➔ WE, Kl. 3, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2023"
+    },
+    "page912_187161": {
+      "id": "page912_187161",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "schneiden einander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187161"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35526": {
+      "id": "page139_35526",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Erkennen des rechten Winkels",
+      "remarks": "mit dem Faltwinkel prüfen Quadrat als besonderes Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_35511": {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511"
+    },
+    "page139_35516": {
+      "id": "page139_35516",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Zeichnen und Messen von Strecken in ganzen cm, Begrenzung durch Punkte",
+      "remarks": "Zeichen in Gitternetzlinie und mit Lineal ➔ WE, Kl. 3/4, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516"
+    },
+    "page139_35432": {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432"
+    },
+    "page139_35433": {
+      "id": "page139_35433",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433"
+    },
+    "page139_35434": {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37961": {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961"
+    },
+    "page139_37962": {
+      "id": "page139_37962",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "lineare Figuren, Gerade",
+      "remarks": "Entdecken von gekrümmten und geraden Linien an Pflanzen, Wegen, Gleisen, Leitungen, Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37962"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37982": {
+      "id": "page139_37982",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Freihandzeichnen",
+      "remarks": "Asphalt-, Sand-, Schneemalerei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37982"
+    },
+    "page139_37983": {
+      "id": "page139_37983",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Umgang mit Lineal und Schablone",
+      "remarks": "auf liniertem und unliniertem Papier",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37983"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    },
+    "page139_37759": {
+      "id": "page139_37759",
+      "level": 1,
+      "parent_target_id": "page139_37759",
+      "target": "Kennen des eigenen Körpers",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ Sprachförderung ➔ DE - HKS, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 1 ➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37759"
+    },
+    "page139_37766": {
+      "id": "page139_37766",
+      "level": 3,
+      "parent_target_id": "page139_37759",
+      "target": "Körperschema",
+      "remarks": "Überkreuzen der Körpermittellinie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37766"
+    }
+  },
+  "stage_goal_evidence": {
+    "page139_37739": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+    "page139_35415": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben."
+  },
+  "out_of_scope_comparison_excerpts": {
+    "page139_38367": {
+      "id": "page139_38367",
+      "level": 3,
+      "parent_target_id": "page139_38341",
+      "target": "Lagebeziehungen von Geraden: parallel zueinander, senkrecht aufeinander",
+      "remarks": "g ∥ h , g ⊥ h , lotrecht",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38367"
+    }
+  },
+  "inventory_only_excerpts": {
+    "page912_187446": {
+      "id": "page912_187446",
+      "level": 1,
+      "parent_target_id": "page912_187446",
+      "target": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446"
+    },
+    "page912_187447": {
+      "id": "page912_187447",
+      "level": 2,
+      "parent_target_id": "page912_187446",
+      "target": "Erkennen, Benennen, Beschreiben, Vergleichen und Darstellen",
+      "remarks": "in der Umwelt, Geometriebrett",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187447"
+    },
+    "page912_187448": {
+      "id": "page912_187448",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Parallelogramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187448"
+    },
+    "page912_187449": {
+      "id": "page912_187449",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Eigenschaften",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187449"
+    },
+    "page912_187450": {
+      "id": "page912_187450",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Zeichnen verschiedener Vierecke und Dreiecke",
+      "remarks": "Freihandzeichnung, Lineal, Geometriedreieck Dreiecke mit rechtem Winkel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187450"
+    },
+    "page912_187451": {
+      "id": "page912_187451",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Ergänzen",
+      "remarks": "unvollständige Vierecke, Dreiecke",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187451"
+    },
+    "page912_187452": {
+      "id": "page912_187452",
+      "level": 2,
+      "parent_target_id": "page912_187446",
+      "target": "Verwenden des Fachbegriffs: Parallelogramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187452"
+    }
+  },
+  "source_verification": "Amtliche HTML-Pläne912 und139 frisch gelesen; Ziel-/Bemerkungsspalten und übergreifende Bandziele getrennt. FSP5/6-Zeile38367 außerhalb des Vergleichsbereichs. Frühere PDF-Belege aus MA-089 bleiben historisch erhalten; keine neue PDF-Sichtprüfung in diesem Auditlauf.",
+  "operator_separation": "GS2022 Beherrschen;2023 Zeichnen und187161 schneiden einander sind Unterzielhandlung/Inhalt. FSP35521 Gestalten,35526 Erkennen,35527 Darstellen getrennt.35511 Übertragen nicht in LB4 verschieben. FSP1/2 37821/37961/37759 Kennen,37981 Gestalten; Bemerkungen ohne erfundenen eigenen Operator.",
+  "decisions": [
+    {
+      "gs_id": "page912_187161",
+      "status": "open_connection_question",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535",
+        "page139_35511",
+        "page139_35516",
+        "page139_35432",
+        "page139_35433",
+        "page139_35434"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37961",
+        "page139_37962",
+        "page139_37981",
+        "page139_37982",
+        "page139_37983",
+        "page139_37984",
+        "page139_37759",
+        "page139_37766"
+      ],
+      "decision": "GS187161 fordert schneiden einander als Lagebeziehung unter Zeichnen2023/Beherrschen2022. Die Zeile präzisiert weder den Ort des gemeinsamen Punktes noch die Winkelart. FSP3/4 Erkennen des rechten Winkels35526 ist ein positiver enger Kandidat; benachbarte Rechteckseiten auf MA-094 besitzen einen gemeinsamen Endpunkt. Das rechtfertigt ohne weitere Klärung noch keine neue Zuordnung der eigenständigen GS-Schnittlagenzeile: Die Karte weist bislang den rechten Winkel an einem Eckpunkt nach, nicht das Zeichnen und Unterscheiden verschiedener Schnittlagen. Umgekehrt wird ein gemeinsamer Endpunkt nicht pauschal als mathematisch unmöglicher Schnitt ausgeschlossen. Die mögliche begrenzte Wiederverwendung bleibt offen; keine neue Karte oder Vollabdeckung behauptet.",
+      "same_band_assessment": "35526 liefert ausdrücklich rechten Winkel;35527 Rechteck-/Quadratdarstellung. Ein gemeinsamer Eckpunkt ist positiv verwandt, deckt aber nicht automatisch weitere Schnittlagen.35535 verlangt Figurenmuster/Fantasiebilder; daraus folgt kein bestimmtes Linienkreuzen.35516 nennt Zeichnen/Messen einer Strecke in ganzen cm, nicht ihre Schnittlage zu einer zweiten Linie.35433/35434 betreffen Symmetrie/Spiegelachse; mehrere einander schneidende Linien oder Achsen sind nicht für jede Symmetrie notwendig.",
+      "cross_band_assessment": "37832/37836/37844 betreffen Grundformen und ihre Merkmale/Darstellung;37962 gerade/gekrümmte Linien im Naturkontext.37982/37983/37984 nennen Freihandzeichnen, Werkzeugumgang und Muster. Diese positiven Inhalte erlauben eine didaktische Auswahl, belegen für sich aber keine bestimmte Schnittlagenanforderung.37766 Überkreuzen der Körpermittellinie steht als Bemerkung zum Körperschema unter Kennen37759 und wird nicht als geometrisches Geradenzeichnen umgedeutet.",
+      "stage_goal_assessment": "Übergreifende Ziele37739/35415 stützen Figurenmerkmale, räumliche Lagebeziehungen, Darstellen und Beschreibung, konkretisieren aber weder eine Schnittlagen-Zeichenanforderung noch einen einzelnen zusätzlichen Fachoperator. Keine Ablehnung wegen20/100; numerische Grenzen sind für die strittige qualitative Anschlussbeziehung nicht ausschlaggebend.",
+      "prerequisites": "Für einen später integrierten Teilanschluss gemeinsamen Gegenstand und Darstellungsart ausdrücklich festlegen; Gerade, Strecke, gemeinsamer Endpunkt und Schnitt im Inneren auseinanderhalten. Rechteckbezug und FSP-Erkennen aus MA-094 erhalten. Kein eigenständiges FSP-Zeichenverfahren, Aufgabenbeispiel oder Hilfsmittel ergänzen.",
+      "uncertainty": "Der GS-Wortlaut legt keinen Innenpunkt und keinen nicht rechten Winkel fest. Die Entscheidung über einen möglichen Endpunkt-Teilfall wird nicht durch eine engere erfundene Definition vorweggenommen.",
+      "remaining_scope": "Zeile187161 ist erstmals geprüft, aber die Anschlussentscheidung bleibt offen. Die Quellen spezifizieren nicht, ob die GS-Zeile einen gemeinsamen Endpunkt als Teilfall einschließt oder welchen Schnittlagenumfang sie voraussetzt. Schnittpunkte im Inneren, nicht rechte Schnittwinkel, beliebige Geradenlagen und selbstständige Zeichenverfahren sind durch MA-094 nicht abgesichert. Keine nicht belegte Innenpunktpflicht in den GS-Wortlaut hineinlesen. Einzelstreckenzeichnen MA-092, Parallelität MA-093 und Rechtwinkligkeit MA-094 ersetzen diese Entscheidung nicht."
+    }
+  ],
+  "new_cards": [],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-092",
+    "MA-093",
+    "MA-094",
+    "MA-002",
+    "MA-088"
+  ],
+  "existing_card_review": "MA-092 bleibt eine punktbegrenzte Strecke in ganzen cm, MA-093 parallele Rechteckseiten, MA-094 rechter Winkel am gemeinsamen Eckpunkt. MA-002/088 bleiben Symmetrieanschlüsse. Keine dieser Karten wird allein aufgrund einer möglichen zeichnerischen Umsetzung um187161 erweitert. Alle94 Karten unverändert.",
+  "number_scope_review": "Alle94 Scope-Felder und hinterlegten FSP-Feinziele unverändert. MA-092 weiterhin unspecified mit vorab festgelegtem Zahlenraum und ganzen cm; MA-093/094 domain_specific ohne numerische Werte. Keine Grenze aus20/100,1m=100cm oder GS-Millimetergenauigkeit ergänzt. Eigenentwürfe bleiben unverändert und nicht automatisch validiert.",
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187161",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "schneiden einander",
+      "Karten": "",
+      "Prüfstatus": "MA-087: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Fortschritt aus der Inventur abgeleitet."
+    }
+  ],
+  "previous_remaining_scopes": [
+    {
+      "gs_id": "page912_2023",
+      "scope": "MA-092 trägt eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. MA-093/094 ergänzen ausschließlich parallele gegenüberliegende bzw. rechtwinklige benachbarte Rechteckseiten; FSP-Darstellen bzw. Erkennen bleibt von GS-Zeichnen getrennt. Allgemeine Geraden-/Streckenanordnungen außerhalb des Rechtecks, frei vorgegebene Abstände und Konstruktionsbedingungen,187161 schneiden einander sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Keine FSP-Zeichentoleranz aus der GS-Bemerkung ableiten.",
+      "status": "offen",
+      "review": "MA-089"
+    }
+  ],
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_partially_reviewed_rows": 0,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 1,
+    "resolved_open_connection_questions": 0,
+    "new_documented_no_direct_connection_rows": 0,
+    "new_inventory_only_rows": 7,
+    "new_cards": 0,
+    "updated_cards": 0,
+    "cards": 94,
+    "same_band_cards": 67,
+    "cross_band_cards": 27,
+    "source_links": 238,
+    "target_anchors": 236,
+    "audit_rows": 170,
+    "open_connection_questions": 23,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": {
+    "next_id": "page912_187446",
+    "next_step": "Als Nächstes GS3 Hauptziel187446 und Unterziel187447 (Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen) mit Parallelogramm187448/Eigenschaften187449 prüfen, danach Zeichnen187450,Ergänzen187451 und Fachbegriff187452. Sieben Folgezeilen sind nur inventarisiert und ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Rechteck/Quadrat nicht mit allen Parallelogrammen gleichsetzen, Benennen der Form von Fachbegriffsverwendung trennen.187161 bleibt als konkrete Anschlussfrage einschließlich möglicher enger MA-094-Wiederverwendung offen.94 Karten(67 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.397 bleibt unverändert."
+  },
+  "tests": {
+    "status": "passed",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "audit_checks": "170 unique rows; exactly one new open question187161; no card mapping or no-direct-connection decision added; seven new rows explicitly inventory-only.",
+    "preservation": {
+      "changed_preexisting_files": [
+        "README.md",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv"
+      ],
+      "unchanged_preexisting_files": 284,
+      "cards_unchanged": 94,
+      "sources_unchanged": 238,
+      "html_unchanged": true,
+      "live_target_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe"
+    },
+    "browser": "No new browser run: audit-only; mathematics module, UI, index.html and dist/index.html byte-identical to the verified App1.397 from MA-089. Earlier targeted live browser evidence retained without being claimed as new.",
+    "live_byte_comparison": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version_unchanged": "1.397"
+  }
+}

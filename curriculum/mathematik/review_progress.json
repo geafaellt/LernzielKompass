@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-089",
+  "last_batch": "MA-090",
   "complete": false,
   "counts": {
     "cards": 94,
@@ -3029,8 +3029,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_187161",
-  "next_step": "Als Nächstes GS3 schneiden einander187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen, einschließlich der Abgrenzung zum bereits belegten rechten Winkel MA-094. Beide FSP-Bänder prüfen; Muster-/Figurendarstellung und spezielle Rechteckbeziehungen nicht ungeprüft zu allgemeinem Schneiden von Geraden ausweiten. Danach GS187446 ff.94 Karten(67 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.397 veröffentlicht und live geprüft; Nachweise in MA-089.",
+  "next_id": "page912_187446",
+  "next_step": "Als Nächstes GS3 Hauptziel187446 und Unterziel187447 (Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen) mit Parallelogramm187448/Eigenschaften187449 prüfen, danach Zeichnen187450,Ergänzen187451 und Fachbegriff187452. Sieben Folgezeilen sind nur inventarisiert und ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Rechteck/Quadrat nicht mit allen Parallelogrammen gleichsetzen, Benennen der Form von Fachbegriffsverwendung trennen.187161 bleibt als konkrete Anschlussfrage einschließlich möglicher enger MA-094-Wiederverwendung offen.94 Karten(67 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.397 bleibt unverändert.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3333,7 +3333,7 @@
       "decision": "FSP3/4 Orientierung35563 unter Anwenden35554 mit Bandziel35415 belegt Wege im Einkaufsbereich und wechselnde Sichtweisen, aber nicht für sich das Lesen einer ebenen Wegdarstellung. Der Bauplanbeleg35459 ist positiv und bereits mit MA-084/090 eingegrenzt. Skizzieren35509 im Sachverhaltskontext sowie Probieren35577/Beschreiben35580 unter Kennen35571 betreffen mathematische Lösungsstrategien; sie belegen nicht gleich ausdrücklich das hier gewählte Kennen eines dargestellten Labyrinth-Wegabschnitts. Ihre möglichen Strategieanschlüsse bleiben von diesem Darstellungsanschluss getrennt. FSP1/2 37980 nennt Labyrinthspiele konkret im Pflichtbereich; die ebene Ausführung ist didaktisch ausgewählt.38002 nennt Labyrinth/Wege zusätzlich im Märchen-Wahlbereich unter Einblick gewinnen37997, erfordert aber diesen Kontext und wird nicht mit dem Kennen37980 vermischt.37794 unter Übertragen37779 ist räumliche Orientierung in der Schule, keine allgemeine Kartenkompetenz.37908 nennt Skizzen im Sachaufgabenkontext, keinen allgemeinen Lageplan. Der konkrete1/2-Beleg wird deshalb hier gegenüber einer nur allgemeinen3/4-Orientierungs- oder Strategienennung gewählt; kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_089.json",
+  "last_review_file": "review_batch_090.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3783,6 +3783,38 @@
         "Stufengleichen Pflichtbeleg 37980 zuerst prüfen; bei Verwendung 38005/38008 Wahlbereichsvoraussetzung erhalten. Ein einzelnes Hauptziel ohne Unterziel ist zulässiger Quellentyp und darf nicht allein wegen der derzeitigen Kartenstruktur verworfen werden.",
         "Vor einem Feinziel numerische Ergebnisangaben, Anzahl der Durchführungen und nichtnumerische Resultate unterscheiden. Keine Grenze 6 aus Mengenerfassung oder 20/100 aus Bandzielen pauschal als Versuchszahl übernehmen. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorschlagen."
       ]
+    },
+    {
+      "gs_id": "page912_187161",
+      "scope": "Belegter Teilanschluss für das Zeichnen einander schneidender Geraden/Strecken; insbesondere Reichweite des gemeinsamen Endpunkts auf MA-094 gegenüber Schnittlagen im Inneren und nicht rechten Winkeln.",
+      "status": "offen",
+      "reason": "GS187161 fordert schneiden einander als Lagebeziehung unter Zeichnen2023/Beherrschen2022. Die Zeile präzisiert weder den Ort des gemeinsamen Punktes noch die Winkelart. FSP3/4 Erkennen des rechten Winkels35526 ist ein positiver enger Kandidat; benachbarte Rechteckseiten auf MA-094 besitzen einen gemeinsamen Endpunkt. Das rechtfertigt ohne weitere Klärung noch keine neue Zuordnung der eigenständigen GS-Schnittlagenzeile: Die Karte weist bislang den rechten Winkel an einem Eckpunkt nach, nicht das Zeichnen und Unterscheiden verschiedener Schnittlagen. Umgekehrt wird ein gemeinsamer Endpunkt nicht pauschal als mathematisch unmöglicher Schnitt ausgeschlossen. Die mögliche begrenzte Wiederverwendung bleibt offen; keine neue Karte oder Vollabdeckung behauptet.",
+      "candidate_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535",
+        "page139_35511",
+        "page139_35516",
+        "page139_35432",
+        "page139_35433",
+        "page139_35434",
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37961",
+        "page139_37962",
+        "page139_37981",
+        "page139_37982",
+        "page139_37983",
+        "page139_37984",
+        "page139_37759",
+        "page139_37766"
+      ],
+      "review": "MA-090",
+      "follow_up_evidence": "Bei der abschließenden Nachprüfung prüfen, ob der unveränderte rechteckbezogene Teilgegenstand von MA-094 unter expliziter Kennzeichnung des gemeinsamen Endpunkts für187161 genügt oder ein eigenständig belegter FSP-Schnittlagengegenstand fehlt. Kein Umdeuten in ein zusätzliches FSP-Zeichenziel. Allgemeine Muster-/Werkzeugziele allein tragen nicht jede frei ergänzte Schnittlagenanforderung."
     }
   ],
   "remaining_scopes": [
@@ -4362,9 +4394,9 @@
     },
     {
       "gs_id": "page912_2023",
-      "scope": "MA-092 trägt eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. MA-093/094 ergänzen ausschließlich parallele gegenüberliegende bzw. rechtwinklige benachbarte Rechteckseiten; FSP-Darstellen bzw. Erkennen bleibt von GS-Zeichnen getrennt. Allgemeine Geraden-/Streckenanordnungen außerhalb des Rechtecks, frei vorgegebene Abstände und Konstruktionsbedingungen,187161 schneiden einander sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Keine FSP-Zeichentoleranz aus der GS-Bemerkung ableiten.",
+      "scope": "MA-092 trägt eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. MA-093/094 ergänzen ausschließlich parallele gegenüberliegende bzw. rechtwinklige benachbarte Rechteckseiten; FSP-Darstellen bzw. Erkennen bleibt von GS-Zeichnen getrennt. Allgemeine Geraden-/Streckenanordnungen außerhalb des Rechtecks, frei vorgegebene Abstände und Konstruktionsbedingungen,187161 schneiden einander sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Keine FSP-Zeichentoleranz aus der GS-Bemerkung ableiten. MA-090:187161 nach Erstprüfung als konkrete Anschlussfrage offen geführt; kein zusätzlicher Kartenbezug und kein Nichtanschluss aus fehlender Karte abgeleitet.",
       "status": "offen",
-      "review": "MA-089"
+      "review": "MA-090"
     },
     {
       "gs_id": "page912_187159",
@@ -4377,6 +4409,12 @@
       "scope": "Allgemeines Konstruieren senkrechter Geraden, Lote durch beliebige Punkte, numerische Winkelmessung und vollständige GS-Genauigkeitsansprüche bleiben außerhalb der Karte. Das Erkennen eines rechten Winkels ersetzt nicht die GS-Zeichenleistung.",
       "status": "offen",
       "review": "MA-089"
+    },
+    {
+      "gs_id": "page912_187161",
+      "scope": "Zeile187161 ist erstmals geprüft, aber die Anschlussentscheidung bleibt offen. Die Quellen spezifizieren nicht, ob die GS-Zeile einen gemeinsamen Endpunkt als Teilfall einschließt oder welchen Schnittlagenumfang sie voraussetzt. Schnittpunkte im Inneren, nicht rechte Schnittwinkel, beliebige Geradenlagen und selbstständige Zeichenverfahren sind durch MA-094 nicht abgesichert. Keine nicht belegte Innenpunktpflicht in den GS-Wortlaut hineinlesen. Einzelstreckenzeichnen MA-092, Parallelität MA-093 und Rechtwinkligkeit MA-094 ersetzen diese Entscheidung nicht.",
+      "status": "offen",
+      "review": "MA-090"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4406,10 +4444,11 @@
       "page912_187143",
       "page912_187147",
       "page912_2012",
-      "page912_2022"
+      "page912_2022",
+      "page912_187446"
     ],
-    "rows": 163,
-    "note": "MA-089:187159/187160 erstmals begrenzt am Rechteck geprüft;2022/2023 nur übergeordneter Kontext der neuen Karten. Keine neue Inventur oder Vollabdeckung.187161 bleibt offen.",
+    "rows": 170,
+    "note": "MA-090:187161 erstmals geprüft und als Anschlussfrage offen; keine Karten-/Vollabdeckung. Sieben Folgezeilen187446–187452 nur inventarisiert, ohne fachlichen Prüffortschritt.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4801,32 +4840,37 @@
     "browser": "MA-002 GS1/2 and MA-088/092/093/094 GS3 local and live passed; MA-093/094 each mobile320/390 passed. No UI code change; no full94-card browser run."
   },
   "latest_audit_publication": {
-    "batch": "MA-079",
-    "status": "verified",
-    "app_version_unchanged": "1.386",
+    "batch": "MA-090",
+    "status": "pending",
+    "app_version_unchanged": "1.397",
     "previous_audit_publication": {
-      "batch": "MA-078",
+      "batch": "MA-079",
       "status": "verified",
       "app_version_unchanged": "1.386",
       "previous_audit_publication": {
-        "batch": "MA-075",
+        "batch": "MA-078",
         "status": "verified",
-        "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-        "pages_run": 44042551050,
-        "app_unchanged": true,
-        "app_version": "1.384",
-        "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-        "verified_at": "2026-11-17T07:57:40.479941+00:00"
+        "app_version_unchanged": "1.386",
+        "previous_audit_publication": {
+          "batch": "MA-075",
+          "status": "verified",
+          "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+          "pages_run": 44042551050,
+          "app_unchanged": true,
+          "app_version": "1.384",
+          "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+          "verified_at": "2026-11-17T07:57:40.479941+00:00"
+        },
+        "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+        "pages_run": 44069787528,
+        "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+        "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
       },
-      "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-      "pages_run": 44069787528,
+      "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
+      "pages_run": 44111252857,
       "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
       "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-    },
-    "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
-    "pages_run": 44111252857,
-    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-    "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
+    }
   },
   "continuation_correction": {
     "batch": "MA-067",
