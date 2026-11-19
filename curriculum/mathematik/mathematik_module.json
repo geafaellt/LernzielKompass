@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.1",
+  "version": "MA-2026-11-19.2",
   "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1477,6 +1477,12 @@
       "id": "Q-MA-page139_35479",
       "title": "FSP Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_37980",
+      "title": "FSP Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37980",
       "version": "2019"
     }
   ],
@@ -8759,6 +8765,85 @@
         "context_only_gs_ids": [
           "page912_2012"
         ]
+      }
+    },
+    {
+      "id": "MA-091",
+      "subject": "Mathematik",
+      "theme": "Zulässigen Wegabschnitt in einer Labyrinthdarstellung erkennen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Labyrinthdarstellung · stufenübergreifend",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Nutzen ebener Darstellungen187152 unter Übertragen2012; Wege als Bemerkungsbeispiel",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie · Kennen von Spielhandlungen mit mathematischen Inhalten37980; Labyrinthspiele in der Bemerkung",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "GS: Übertragen · FSP: Kennen. Stufenübergreifender begrenzter Anschluss GS 3 → FSP 1/2. GS Übertragen stammt aus2012, FSP Kennen aus37980. GS187152 nennt Nutzen von ebenen Darstellungen; Wege, Pläne und Ansichten stehen in der Bemerkung. FSP37980 nennt Labyrinthspiele als Bemerkungsbeispiel zu Spielhandlungen mit mathematischen Inhalten im Pflichtbereich. Gewählt wird das Erkennen eines nach bekannten Regeln zulässigen Wegabschnitts in einer ebenen Darstellung eines vertrauten Labyrinthspiels. Die ebene Darstellungsform, die bekannten Zeichen und die Beschränkung auf einen Wegabschnitt sind didaktische Konkretisierungen, keine wörtlichen FSP-Unterziele. GS bezieht bekannte Lagebeziehungen auf die Darstellung; FSP erkennt den Zusammenhang von dargestelltem Durchgang und zulässiger Spielhandlung. Keine vollständige GS-Zieldeckung: weder allgemeines Kartenlesen noch Plan-Realraum-Zuordnung, Ansichtenvergleich, Maßstab, kürzester Weg oder selbstständige Lösung eines ganzen Labyrinths werden behauptet. Ein kleinerer FSP-Zahlenraum ist nicht der Grund der Stufenüberschreitung; der gewählte Ausschnitt ist nichtnumerisch.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187152"
+      ],
+      "fsp_target_ids": [
+        "page139_37980"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187152",
+        "Q-MA-page139_37980"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender begrenzter Anschluss GS 3 → FSP 1/2. GS Übertragen stammt aus2012, FSP Kennen aus37980. GS187152 nennt Nutzen von ebenen Darstellungen; Wege, Pläne und Ansichten stehen in der Bemerkung. FSP37980 nennt Labyrinthspiele als Bemerkungsbeispiel zu Spielhandlungen mit mathematischen Inhalten im Pflichtbereich. Gewählt wird das Erkennen eines nach bekannten Regeln zulässigen Wegabschnitts in einer ebenen Darstellung eines vertrauten Labyrinthspiels. Die ebene Darstellungsform, die bekannten Zeichen und die Beschränkung auf einen Wegabschnitt sind didaktische Konkretisierungen, keine wörtlichen FSP-Unterziele. GS bezieht bekannte Lagebeziehungen auf die Darstellung; FSP erkennt den Zusammenhang von dargestelltem Durchgang und zulässiger Spielhandlung. Keine vollständige GS-Zieldeckung: weder allgemeines Kartenlesen noch Plan-Realraum-Zuordnung, Ansichtenvergleich, Maßstab, kürzester Weg oder selbstständige Lösung eines ganzen Labyrinths werden behauptet. Ein kleinerer FSP-Zahlenraum ist nicht der Grund der Stufenüberschreitung; der gewählte Ausschnitt ist nichtnumerisch.",
+      "shared_object_suggestion": "Die Beziehung zwischen einem dargestellten Durchgang oder einer Begrenzung und der Zulässigkeit eines Wegabschnitts im vertrauten Labyrinthspiel.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte Lagebeziehungen auf eine ebene Labyrinthdarstellung und beurteilt anhand der bekannten Zeichen, ob ein Wegabschnitt zwischen geklärten benachbarten Positionen durchgängig und nach den bekannten Regeln zulässig ist.",
+          "criterion": "Die Beurteilung passt zum dargestellten Durchgang beziehungsweise zur Begrenzung und zu den bekannten Regeln. Die Lageaussage bezieht sich eindeutig auf die geklärten Positionen in der Darstellung. Kein vollständiger Lösungsweg, kürzester Weg oder Übertragen auf einen realen Raum gefordert.",
+          "status": "Didaktischer Ausschnitt zu Nutzen ebener Darstellungen187152 unter Übertragen2012; keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt in der ebenen Darstellung eines vertrauten Labyrinthspiels einen nach bekannten Regeln zulässigen oder gesperrten Wegabschnitt und beschreibt den Bezug zum dargestellten Durchgang beziehungsweise zur Begrenzung.",
+          "criterion": "Der Wegabschnitt wird passend zum dargestellten Durchgang oder zur Begrenzung und den bekannten Regeln als zulässig oder gesperrt erkannt; die Beschreibung benennt diesen Zusammenhang. Keine selbstständige Gesamtstrategie, routinierte Lösung eines ganzen Labyrinths oder numerische Wegbewertung verlangt.",
+          "status": "Didaktische Konkretisierung von Kennen37980 mit Labyrinthspielbezug aus der Bemerkung. Ebene Darstellung und Beschränkung auf einen Wegabschnitt sind didaktische Auswahl; kein erfundener höherer FSP-Operator.",
+          "scope_status": "domain_specific"
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Wegbeziehung in einer ebenen Labyrinthdarstellung",
+        "detail": "37980 nennt keine numerische Weggrenze. Das Feinziel nutzt qualitative Durchgangs- und Begrenzungsbeziehungen; es verlangt keine Schrittzahl, Entfernung, Koordinate oder Rechnung. Weder20 aus dem FSP-Stufenband1/2 noch100 aus3/4 wird als Grenze übernommen. Auch GS187152 nennt keine eigene numerische Obergrenze.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37980"
+        ],
+        "planning_rule": "Vertrautes Labyrinthspiel mit bereits bekannten Regeln und eindeutiger ebener Darstellung. Ausgangsposition, benachbarte Zielposition, Durchgänge und Begrenzungen sowie ihre Zeichenbedeutung sind geklärt. Betrachtet wird nur die Zulässigkeit eines Wegabschnitts innerhalb dieser Darstellung, kein Bezug zu einem realen Gelände. Es sind keine numerischen Anfangs-, Zwischen- oder Endwerte, Weglängen, Schrittzahlen, Punktwerte, Maßstäbe oder Einheitenumrechnungen Bestandteil des Feinziels. Zeichenbedeutung und Lagebeziehung qualitativ beurteilen. Numerische Erweiterungen und eigene Freitexte sind gesondert fachlich zu prüfen und nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "2012 Hauptziel Übertragen nur Kontext;187152 Unterziel Nutzen von ebenen Darstellungen, Wege/Pläne/Ansichten Bemerkung. Gewählt nur ein qualitativ beurteilbarer ebener Wegabschnitt.",
+        "fsp": "37980 Hauptziel Kennen von Spielhandlungen mit mathematischen Inhalten. Labyrinthspiele stehen in der Bemerkung. Ebene Darstellungsform und bekannte Regel-/Zeichenbeziehung sind didaktische Konkretisierung dieses konkreten Inhalts, kein eigenständiges amtliches Planleseziel.",
+        "gs_remark_anchors": [
+          "page912_187152"
+        ],
+        "fsp_remark_anchors": [
+          "page139_37980"
+        ],
+        "context_only_gs_ids": [
+          "page912_2012"
+        ]
+      },
+      "fsp_single_row_evidence": {
+        "target_id": "page139_37980",
+        "source_id": "Q-MA-page139_37980",
+        "basis": "main_target_with_remark",
+        "remark_excerpt": "Labyrinthspiele"
       }
     }
   ]

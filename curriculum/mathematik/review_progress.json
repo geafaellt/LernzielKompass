@@ -1,9 +1,9 @@
 {
-  "last_batch": "MA-086",
+  "last_batch": "MA-087",
   "complete": false,
   "counts": {
-    "cards": 90,
-    "cross_band": 26
+    "cards": 91,
+    "cross_band": 27
   },
   "source_plans": {
     "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
@@ -2897,10 +2897,23 @@
       "version": "2019",
       "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
       "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben"
+    },
+    "page139_37980": {
+      "id": "page139_37980",
+      "grade": "1/2",
+      "area_id": "MA-page139_37746",
+      "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
+      "level": 1,
+      "parent_target_id": "page139_37980",
+      "operator": "Kennen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37980",
+      "version": "2019",
+      "target": "Kennen von Spielhandlungen mit mathematischen Inhalten",
+      "remarks": "Würfel-, Domino-, Karten-, Labyrinthspiele Memory, Puzzle, Bausteine"
     }
   },
-  "next_id": "page912_187152",
-  "next_step": "Als Nächstes die offene Anschlussfrage zu weiteren ebenen Wegdarstellungen und Ansichten in GS3 187152 prüfen. MA-084/090 decken nur den engen Würfelturm-Bauplanbezug in bekannter Darstellungskonvention. Kandidaten FSP3/4 Orientierung35563 unter Anwenden35554 mit übergreifendem räumlichem Ziel35415 und FSP1/2 37794/38002 getrennt prüfen; Wahlbereiche bewahren und Orientierung nicht ohne Beleg mit allgemeinem Planlesen gleichsetzen. Mehrteilige Gebäude, weitere Plankonventionen, unbekannte verdeckte Anzahlen und übrige Restumfänge bleiben offen.90 Karten (64 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.393 veröffentlicht und live geprüft; Nachweise in MA-086.",
+  "next_id": "page912_2023",
+  "next_step": "Als Nächstes GS3 Zeichnen von Geraden und Strecken2023 unter Beherrschen2022 mit parallel187159,senkrecht187160 und schneiden187161 prüfen. Die fünf Zeilen sind nur inventarisiert, noch ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Lagebeziehungen, Zeichenverfahren und Maß-/Genauigkeitsanforderungen getrennt behandeln.187152 hat nun den zusätzlichen begrenzten Labyrinth-Wegabschnitt MA-091; weitere Wegpläne, Ansichten und bisherige Restumfänge bleiben dokumentiert.91 Karten (64 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3187,9 +3200,23 @@
         "page139_37896"
       ],
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
+    },
+    "MA-091": {
+      "same_band_candidate_ids": [
+        "page139_35554",
+        "page139_35563",
+        "page139_35456",
+        "page139_35459",
+        "page139_35504",
+        "page139_35509",
+        "page139_35571",
+        "page139_35577",
+        "page139_35580"
+      ],
+      "decision": "FSP3/4 Orientierung35563 unter Anwenden35554 mit Bandziel35415 belegt Wege im Einkaufsbereich und wechselnde Sichtweisen, aber nicht für sich das Lesen einer ebenen Wegdarstellung. Der Bauplanbeleg35459 ist positiv und bereits mit MA-084/090 eingegrenzt. Skizzieren35509 im Sachverhaltskontext sowie Probieren35577/Beschreiben35580 unter Kennen35571 betreffen mathematische Lösungsstrategien; sie belegen nicht gleich ausdrücklich das hier gewählte Kennen eines dargestellten Labyrinth-Wegabschnitts. Ihre möglichen Strategieanschlüsse bleiben von diesem Darstellungsanschluss getrennt. FSP1/2 37980 nennt Labyrinthspiele konkret im Pflichtbereich; die ebene Ausführung ist didaktisch ausgewählt.38002 nennt Labyrinth/Wege zusätzlich im Märchen-Wahlbereich unter Einblick gewinnen37997, erfordert aber diesen Kontext und wird nicht mit dem Kennen37980 vermischt.37794 unter Übertragen37779 ist räumliche Orientierung in der Schule, keine allgemeine Kartenkompetenz.37908 nennt Skizzen im Sachaufgabenkontext, keinen allgemeinen Lageplan. Der konkrete1/2-Beleg wird deshalb hier gegenüber einer nur allgemeinen3/4-Orientierungs- oder Strategienennung gewählt; kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_086.json",
+  "last_review_file": "review_batch_087.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3638,33 +3665,6 @@
         "Keine stärkere FSP-Kompetenz zur Ergebnisvorhersage, Häufigkeitsauswertung oder Ereignisklassifikation in die Spielbemerkung hineinlesen. Nicht sämtliche GS-Zugänge zugleich verlangen, wenn ein Teilanschluss belegt werden kann.",
         "Stufengleichen Pflichtbeleg 37980 zuerst prüfen; bei Verwendung 38005/38008 Wahlbereichsvoraussetzung erhalten. Ein einzelnes Hauptziel ohne Unterziel ist zulässiger Quellentyp und darf nicht allein wegen der derzeitigen Kartenstruktur verworfen werden.",
         "Vor einem Feinziel numerische Ergebnisangaben, Anzahl der Durchführungen und nichtnumerische Resultate unterscheiden. Keine Grenze 6 aus Mengenerfassung oder 20/100 aus Bandzielen pauschal als Versuchszahl übernehmen. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorschlagen."
-      ]
-    },
-    {
-      "gs_id": "page912_187152",
-      "scope": "Weitere ebene Wegdarstellungen und Ansichten außerhalb des belegten Würfelturm-Bauplanausschnitts",
-      "status": "offen",
-      "reason": "MA-081 klärt den Inhalt35456/35459 anhand der amtlichen PDF S.19: kein eigener Operator ausgewiesen, Bauplanbezug dennoch belegt. MA-084 integriert den begrenzten stufenbandpassenden Bauplanausschnitt ohne erfundenen Operator. Offen bleibt der frühere Fragenanteil zu weiteren ebenen Wegdarstellungen und Ansichten; Orientierung35563/35415 beziehungsweise37794/38002 ist noch kein allgemeines Planlesen.",
-      "candidate_ids": [
-        "page139_35554",
-        "page139_35563",
-        "page139_35456",
-        "page139_35459",
-        "page139_37779",
-        "page139_37786",
-        "page139_37788",
-        "page139_37789",
-        "page139_37794",
-        "page139_37997",
-        "page139_38002",
-        "page139_35451",
-        "page139_35415"
-      ],
-      "review_file": "review_batch_081.json",
-      "follow_up_checks": [
-        "Weitere ebene Wegdarstellungen und Ansichten getrennt vom nun belegten Bauplananschluss prüfen; Darstellung-Raum-Zuordnung begründen.",
-        "Für den engeren Würfelturm-Bauplanausschnitt ist die Operatorfrage entschieden: ausdrücklich nicht ausgewiesen, keine Übernahme von35451. Diesen Teil nicht erneut als offene Operatorfrage zählen.",
-        "FSP1/2 und3/4 weiter unterscheiden; Wahlbereichsbelege nur mit tatsächlicher Voraussetzung nutzen. Keine räumliche Orientierung automatisch als allgemeine Kartenlesekompetenz ausgeben."
       ]
     }
   ],
@@ -4203,9 +4203,9 @@
     },
     {
       "gs_id": "page912_187152",
-      "scope": "MA-084 trägt die Nutzung eines ebenen Bauplans mit bekannten Zeichen für einen Würfelturm. Weitere Wegdarstellungen, Pläne und Ansichten bleiben offen; keine allgemeine Kartenlesekompetenz.",
+      "scope": "MA-084 trägt den vorgegebenen Bauplan zum Würfelturm; MA-091 ergänzt qualitatives Erkennen eines zulässigen Wegabschnitts in einer ebenen Labyrinthdarstellung. Allgemeines Kartenlesen, Zuordnung ebener Wegpläne zu realen Räumen, Ansichtenvergleich, neue Darstellungskonventionen, Maßstäbe, numerische Wegbewertung und vollständige/optimale Labyrinth-Lösungsstrategien bleiben außerhalb dieser Karten. Die allgemeinen Orientierungsbelege allein tragen diese zusätzlichen Anforderungen nicht. Spätere ausdrückliche Karten-/Wegeskizzenziele38158/38371 gehören5/6 und werden nicht vorgezogen; dies schließt andere begrenzt belegbare Ausschnitte in1/2 oder3/4 nicht pauschal aus.",
       "status": "offen",
-      "review": "MA-081"
+      "review": "MA-087"
     },
     {
       "gs_id": "page912_187153",
@@ -4270,10 +4270,11 @@
       "page912_187140",
       "page912_187143",
       "page912_187147",
-      "page912_2012"
+      "page912_2012",
+      "page912_2022"
     ],
-    "rows": 158,
-    "note": "Keine neue Inventur oder erstmalige Einzelprüfung. Zwei bereits teilweise geprüfte GS-Zeilen187153/187154 um einen gemeinsamen Ausschnitt eigener Baupläne erweitert. Bemerkung zur Differenzierung nicht als neue Zielzeile gezählt;2012 nur Kontext.",
+    "rows": 163,
+    "note": "GS3 Folgeblock2022 mit2023 und187159–187161 als fünf offene Inventurzeilen ergänzt; keine Erstprüfung oder Deckung gezählt.187152 erneut geprüft und um einen engen Labyrinthanschluss erweitert, konkrete Anschlussfrage entschieden; übriger Rest nicht als Vollabdeckung gewertet.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4597,6 +4598,20 @@
         "MA-089"
       ],
       "note": "Keine eigene Zahlenobergrenze der Bauplanzeile. Planangaben, gesamte Würfelanzahl und alle relevanten Zwischen-/Endwerte im vorab festgelegten Zahlenraum; Schreibweisen und nichtnumerische Lagezeichen getrennt. Alle89 Bestandskarten und ihre jeweiligen Grenzen unverändert. Insbesondere die100-Grenzen der Rechenkarten werden nicht übertragen."
+    },
+    "follow_up_flat_path_representation": {
+      "batch": "MA-087",
+      "cards": {
+        "MA-091": "domain_specific"
+      },
+      "existing_rechecked": [
+        "MA-001",
+        "MA-083",
+        "MA-084",
+        "MA-088",
+        "MA-090"
+      ],
+      "note": "Qualitativer Labyrinth-Wegabschnitt ohne numerische Werte. Keine20/100-Grenze erfunden. Bestehende Perspektiv-, Symmetrie- und Bauplankarten behalten ihre jeweilige Reichweite; alle90 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4617,13 +4632,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-086",
-    "status": "verified",
-    "app_version": "1.393",
-    "app_commit": "49b120d956d036d74fe4d37888171a2772d3c238",
-    "pages_run": 44463159116,
-    "live_sha256": "8ec9c6e1edce67686ad61df7036c847c6f42a067e0d61bcf9f4a40a507786a0f",
-    "browser": "MA-084/085/086/087/089/090 GS3 local and live; MA-090 mobile320/390 passed. No UI code change; no full90-card browser run."
+    "batch": "MA-087",
+    "status": "pending",
+    "app_version": "1.394"
   },
   "latest_audit_publication": {
     "batch": "MA-079",
@@ -4714,6 +4725,45 @@
         ]
       },
       "review_file": "review_batch_084.json"
+    },
+    {
+      "gs_id": "page912_187152",
+      "opened_in": "MA-080",
+      "resolved_in": "MA-087",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-084",
+        "MA-091"
+      ],
+      "scope": "Die konkrete Frage nach einem zusätzlich belegten engen ebenen Wegdarstellungsanschluss ist mit dem Labyrinth-Wegabschnitt entschieden. Keine vollständige Prüfung oder Deckung aller Wegpläne und Ansichten; Grenzen und ungetragene Erweiterungen im Restumfang dokumentiert.",
+      "previous_question": {
+        "gs_id": "page912_187152",
+        "scope": "Weitere ebene Wegdarstellungen und Ansichten außerhalb des belegten Würfelturm-Bauplanausschnitts",
+        "status": "offen",
+        "reason": "MA-081 klärt den Inhalt35456/35459 anhand der amtlichen PDF S.19: kein eigener Operator ausgewiesen, Bauplanbezug dennoch belegt. MA-084 integriert den begrenzten stufenbandpassenden Bauplanausschnitt ohne erfundenen Operator. Offen bleibt der frühere Fragenanteil zu weiteren ebenen Wegdarstellungen und Ansichten; Orientierung35563/35415 beziehungsweise37794/38002 ist noch kein allgemeines Planlesen.",
+        "candidate_ids": [
+          "page139_35554",
+          "page139_35563",
+          "page139_35456",
+          "page139_35459",
+          "page139_37779",
+          "page139_37786",
+          "page139_37788",
+          "page139_37789",
+          "page139_37794",
+          "page139_37997",
+          "page139_38002",
+          "page139_35451",
+          "page139_35415"
+        ],
+        "review_file": "review_batch_081.json",
+        "follow_up_checks": [
+          "Weitere ebene Wegdarstellungen und Ansichten getrennt vom nun belegten Bauplananschluss prüfen; Darstellung-Raum-Zuordnung begründen.",
+          "Für den engeren Würfelturm-Bauplanausschnitt ist die Operatorfrage entschieden: ausdrücklich nicht ausgewiesen, keine Übernahme von35451. Diesen Teil nicht erneut als offene Operatorfrage zählen.",
+          "FSP1/2 und3/4 weiter unterscheiden; Wahlbereichsbelege nur mit tatsächlicher Voraussetzung nutzen. Keine räumliche Orientierung automatisch als allgemeine Kartenlesekompetenz ausgeben."
+        ]
+      },
+      "review_file": "review_batch_087.json"
     }
   ]
 }

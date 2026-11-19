@@ -150,6 +150,24 @@ def check_number_range_alignment(card):
             assert displayed_max in number_range['notice'], card_id
 
 
+def check_primary_target_group(card, side):
+    ids = card[side + '_target_ids']
+    assert ids and len(ids) == len(set(ids)), (card['id'], side)
+    parent, *children = [anchors[i] for i in ids]
+    assert parent['level'] == 1 and all(r['level'] > 1 for r in children), (card['id'], side)
+    evidence = card.get(side + '_single_row_evidence')
+    if not children:
+        assert evidence and evidence['basis'] == 'main_target_with_remark', card['id']
+        assert evidence['target_id'] == parent['id'] == parent['parent_target_id'], card['id']
+        assert evidence['source_id'] == 'Q-MA-' + parent['id'], card['id']
+        assert evidence['source_id'] in card['source_ids'], card['id']
+        assert parent.get('target') and evidence['remark_excerpt'].strip(), card['id']
+        assert evidence['remark_excerpt'] in parent.get('remarks', ''), card['id']
+    else:
+        assert not evidence, (card['id'], 'single-row evidence attached to multiple targets')
+    return parent, children
+
+
 used_anchors = set()
 used_sources = set()
 for card in cards:
@@ -174,9 +192,7 @@ for card in cards:
     expected_sources = set()
     for side, grade, plan, version in [('gs', gs_grade, 912, '2026'), ('fsp', fsp_band, 139, '2019')]:
         ids = card[side + '_target_ids']
-        assert len(ids) >= 2 and len(ids) == len(set(ids)), (card_id, side)
-        parent, *children = [anchors[i] for i in ids]
-        assert parent['level'] == 1 and all(r['level'] > 1 for r in children), (card_id, side)
+        parent, children = check_primary_target_group(card, side)
         check_operator_evidence(card, side, parent)
         area = areas[parent['area_id']]
         assert area['side'] == side and area['grades'] == grade.split('/'), (card_id, side)

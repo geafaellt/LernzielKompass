@@ -108,3 +108,25 @@ except AssertionError:
 else:
     raise AssertionError('Explicit source operator may not be erased')
 print('PASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.')
+
+# A main target with a remark needs no invented subordinate row.
+validate_primary = checks['check_primary_target_group']
+single_cases = []
+c = copy.deepcopy(cards['MA-091']); del c['fsp_single_row_evidence']; single_cases.append(c)
+c = copy.deepcopy(cards['MA-091']); c['fsp_single_row_evidence']['target_id'] = 'page139_35554'; single_cases.append(c)
+c = copy.deepcopy(cards['MA-091']); c['fsp_single_row_evidence']['remark_excerpt'] = 'Allgemeines Kartenlesen'; single_cases.append(c)
+c = copy.deepcopy(cards['MA-091']); c['fsp_single_row_evidence']['source_id'] = 'Q-MA-page139_35563'; single_cases.append(c)
+c = copy.deepcopy(cards['MA-091']); c['fsp_target_ids'] = ['page139_35563']; single_cases.append(c)
+c = copy.deepcopy(cards['MA-091']); c['fsp_target_ids'] = []; single_cases.append(c)
+c = copy.deepcopy(cards['MA-091']); c['fsp_target_ids'] *= 2; single_cases.append(c)
+for c in single_cases:
+    try:
+        validate_primary(c, 'fsp')
+    except (AssertionError, KeyError):
+        pass
+    else:
+        raise AssertionError('Invalid single-row evidence accepted: ' + c['id'])
+for c in cards.values():
+    for side in ['gs', 'fsp']:
+        validate_primary(c, side)
+print('PASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.')
