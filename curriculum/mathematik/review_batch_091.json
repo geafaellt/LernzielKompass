@@ -364,7 +364,7 @@
     "next_step": "Als Nächstes GS3 Zeichnen verschiedener Vierecke und Dreiecke187450 unter Übertragen187446 prüfen, danach Ergänzen187451 und die eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Rechteckkarten prüfen; mögliche Spezialfälle ausdrücklich eingrenzen.187447–187449 sind nur für den einen Seitenlängenvergleich MA-095 teilweise geprüft; übrige Handlungen und Eigenschaften bleiben dokumentiert.95 Karten(68 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss."
   },
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_live",
     "scripts": {
       "scripts/update-mathematik.py": "passed",
       "scripts/check-deutsch.py": "passed",
@@ -395,12 +395,18 @@
       "html_sha256": "08a49a252104a327e2ed2d91b95422253a48f4a3bd71ddc89260ed09b567ceff",
       "ui_code_unchanged_except_version_and_data_payloads": true
     },
-    "browser_live": "pending",
-    "rechecked_against_current_main": true
+    "browser_live": "MA-004 GS1/2 and MA-093/094/095 GS3 local and live passed; MA-095 mobile320/390 passed. Learning-level display of all408 cards/816 sides passed locally and live, including current DE-112/113 source hierarchy regression. No UI code change; no full95-card functional browser run.",
+    "rechecked_against_current_main": true,
+    "live_file": "Byte-for-byte identical to tested local index.html and dist/index.html; SHA256 recorded in publication."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.400"
+    "batch": "MA-091",
+    "status": "verified",
+    "app_version": "1.400",
+    "app_commit": "e0970acdd83275b2b0009f4a9beaed8f12642782",
+    "pages_run": 44610253325,
+    "live_sha256": "08a49a252104a327e2ed2d91b95422253a48f4a3bd71ddc89260ed09b567ceff",
+    "browser": "MA-004 GS1/2 and MA-093/094/095 GS3 local and live passed; MA-095 mobile320/390 passed. Learning-level display of all408 cards/816 sides passed locally and live, including current DE-112/113 source hierarchy regression. No UI code change; no full95-card functional browser run."
   },
   "continuation_recovery": "Vorbereitete, noch nicht veröffentlichte MA-091-Arbeit am unveränderten Repository-Fortsetzungspunkt fortgesetzt. Alle Quellenzeilen erneut online bestätigt. Zwischenzeitliche Deutsch-/Lernzielebenen-Korrekturen aus main bewahrt. Keine doppelte Erstprüfung gezählt."
 }
