@@ -3030,7 +3030,7 @@
     }
   },
   "next_id": "page912_187446",
-  "next_step": "Als Nächstes GS3 Hauptziel187446 und Unterziel187447 (Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen) mit Parallelogramm187448/Eigenschaften187449 prüfen, danach Zeichnen187450,Ergänzen187451 und Fachbegriff187452. Sieben Folgezeilen sind nur inventarisiert und ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Rechteck/Quadrat nicht mit allen Parallelogrammen gleichsetzen, Benennen der Form von Fachbegriffsverwendung trennen.187161 bleibt als konkrete Anschlussfrage einschließlich möglicher enger MA-094-Wiederverwendung offen.94 Karten(67 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.397 bleibt unverändert.",
+  "next_step": "Als Nächstes GS3 Hauptziel187446 und Unterziel187447 (Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen) mit Parallelogramm187448/Eigenschaften187449 prüfen, danach Zeichnen187450,Ergänzen187451 und Fachbegriff187452. Sieben Folgezeilen sind nur inventarisiert und ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Rechteck/Quadrat nicht mit allen Parallelogrammen gleichsetzen, Benennen der Form von Fachbegriffsverwendung trennen.187161 bleibt als konkrete Anschlussfrage einschließlich möglicher enger MA-094-Wiederverwendung offen.94 Karten(67 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.397 bleibt unverändert. Audit auf main veröffentlicht; Pages erfolgreich und unveränderte Live-Datei bestätigt, Nachweise in MA-090.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4841,7 +4841,7 @@
   },
   "latest_audit_publication": {
     "batch": "MA-090",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.397",
     "previous_audit_publication": {
       "batch": "MA-079",
@@ -4870,7 +4870,12 @@
       "pages_run": 44111252857,
       "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
       "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-    }
+    },
+    "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
+    "pages_run": 44567574178,
+    "app_unchanged": true,
+    "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+    "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
   },
   "continuation_correction": {
     "batch": "MA-067",

@@ -407,10 +407,16 @@
       "live_target_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe"
     },
     "browser": "No new browser run: audit-only; mathematics module, UI, index.html and dist/index.html byte-identical to the verified App1.397 from MA-089. Earlier targeted live browser evidence retained without being claimed as new.",
-    "live_byte_comparison": "pending"
+    "live_byte_comparison": "passed: publicly delivered App1.397 matches the unchanged local HTML exactly"
   },
   "publication": {
-    "status": "pending",
-    "app_version_unchanged": "1.397"
+    "status": "verified",
+    "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
+    "pages_run": 44567574178,
+    "app_version_unchanged": "1.397",
+    "app_unchanged": true,
+    "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+    "live_byte_identical": true,
+    "browser": "No new browser run; audit-only. Last targeted live browser evidence remains MA-089."
   }
 }
