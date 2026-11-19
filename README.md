@@ -1,8 +1,10 @@
 # LernzielKompass
 
-Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, unterschiedliche Operatoren sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
+Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzierten Unterrichts im Förderschwerpunkt Lernen in Sachsen. Er stellt begrenzte Anschlussvorschläge zwischen Lehrplanzielen gegenüber und macht gemeinsame Lerngegenstände, die Lernzielebenen und konkreten Zielhandlungen sowie didaktisch konkretisierte Feinziele und Erfolgskriterien nachvollziehbar.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **Öffentlich geprüft: App 1.394** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
+
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.395** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -20,7 +22,7 @@ App 1.330 präzisiert nach Prüfung aller 313 Karten 25 Deutsch- und 100 Sachunt
 
 ## Gemeinsamer Lerngegenstand in Mathematik
 
-App 1.329 ersetzt auf allen 31 Mathematikkarten die Wiederholung des Kartentitels durch eine Formulierung der gemeinsamen mathematischen Sache oder Beziehung. Die Vorschläge bleiben didaktische Konkretisierungen. Zahlenraumgrenzen, Quellen, Operatoren, Feinziele und eigene Entwürfe bleiben erhalten. [Prüfung mit Vorher/Nachher](curriculum/mathematik/review_learning_objects_001.json).
+App 1.329 ersetzt auf allen 31 Mathematikkarten die Wiederholung des Kartentitels durch eine Formulierung der gemeinsamen mathematischen Sache oder Beziehung. Die Vorschläge bleiben didaktische Konkretisierungen. Zahlenraumgrenzen, Quellen, Lernzielebenen, Feinziele und eigene Entwürfe bleiben erhalten. [Prüfung mit Vorher/Nachher](curriculum/mathematik/review_learning_objects_001.json).
 
 ## Feedback zur App
 
@@ -28,7 +30,7 @@ Ab App 1.333 öffnet „Feedback zur App“ am Seitenende einen kurzen Hinweis u
 
 ## Hinweise und Quellen bei Bedarf
 
-Ab App 1.332 erscheinen unter dem Operatorenvergleich keine dauerhaften gelben Hinweisbänder mehr. „Hinweise zum Lehrplananschluss“ enthält die vorhandenen Einordnungen und Grenzen aufklappbar; vollständig enthaltene Doppeltexte werden nur einmal gezeigt. „Amtliche Quellen“ und Quellenbelege der Mathematik-Geltungsbereiche sind ebenfalls aufklappbar. Zahlenraum, Planungsgrenzen und Operatorerklärungen per Klick bleiben erhalten. Eigene Texte und sämtliche Fachdaten bleiben unverändert. Prüfung: `scripts/check-review-disclosures-browser.cjs`; Nachweise: `releases/review_disclosures_1.332.json`.
+Ab App 1.332 erscheinen unter dem Vergleich der Lernzielebenen keine dauerhaften gelben Hinweisbänder mehr. „Hinweise zum Lehrplananschluss“ enthält die vorhandenen Einordnungen und Grenzen aufklappbar; vollständig enthaltene Doppeltexte werden nur einmal gezeigt. „Amtliche Quellen“ und Quellenbelege der Mathematik-Geltungsbereiche sind ebenfalls aufklappbar. Zahlenraum, Planungsgrenzen und Erläuterungen der Lernzielebenen per Klick bleiben erhalten. Eigene Texte und sämtliche Fachdaten bleiben unverändert. Prüfung: `scripts/check-review-disclosures-browser.cjs`; Nachweise: `releases/review_disclosures_1.332.json`.
 
 ## Anschlussstelle prüfen
 
@@ -62,7 +64,7 @@ Quelle: [review_progress.json](curriculum/deutsch/review_progress.json), [Einzel
 | Zuvor offene Unterzielzeilen erstmals geprüft | 241 | Diese erste Prüfphase ist abgearbeitet; Wiederprüfungen werden nicht erneut mitgezählt. |
 | Unterzielzeilen ohne Karte | 136 | Zusammensetzung: 125 begründete Nichtanschlüsse und 11 belegte übergreifende Teilanschlüsse ohne Karte. |
 | Davon: begründete Nichtanschlüsse | 125 | Für den jeweils geprüften Zielausschnitt ist kein hinreichend belegter direkter Anschluss nachgewiesen; kein pauschaler Ausschluss jeder didaktischen Verbindung. |
-| Davon: übergreifende Teilanschlüsse ohne Karte | 11 | Positive Belege aus übergreifenden Zielen; bewusst keine Operatorenkarte mit einem erfundenen oder entliehenen Tabellenoperator. |
+| Davon: übergreifende Teilanschlüsse ohne Karte | 11 | Positive Belege aus übergreifenden Zielen; bewusst keine Anschlusskarte mit einer erfundenen oder aus einer anderen Zielzeile übernommenen Lernzielebene. |
 | Offene Anschlussfragen / vorgemerkte Quellen-Nachprüfungen | 0 / 0 | Alle 23 dokumentierten Anschlussfragen sind entschieden; zuletzt 186303 als begrenzter literarischer Anschluss in DE-015. |
 | Bereits zugeordnete Unterzielzeilen einzeln geprüft | 130 | Separat von den 241 zuvor offenen Zeilen gezählt. |
 | Bereits zugeordnete Unterzielzeilen noch einzeln zu prüfen | **0** | Alle 371 Unterzielzeilen wurden mindestens einmal geprüft; keine Anschlussfrage bleibt offen. |
@@ -75,7 +77,7 @@ Die Rechnung lautet **136 = 125 + 11**. Daneben sind 22 übergeordnete Zielblöc
 
 | Ebene | Belegt bzw. geprüft | Grenze |
 | --- | --- | --- |
-| Technische Daten- und Funktionsprüfung | Karten-IDs, Quellenreferenzen, Operatoranker, Stufenbänder, eingebettete Daten und JavaScript-Syntax; identische App-Dateien in `index.html` und `dist/index.html`. Dokumentierte Browserprüfungen umfassen Auswahl und Anzeige der neuen Karten DE-175–179 sowie der präzisierten Karte DE-021. Frühere Prüfungen betreffen unter anderem Fachwechsel, getrennte Entwürfe und Planvorschau. | Das belegt technische Konsistenz und die jeweils getesteten Abläufe, keine fachliche Vollständigkeit. Nicht alle Funktionen wurden mit jedem Prüfpaket erneut im Browser getestet. Ein erfolgreicher PDF-Download ist bislang nicht bestätigt. |
+| Technische Daten- und Funktionsprüfung | Karten-IDs, Quellenreferenzen, Belege für Lernzielebenen und Zielhandlungen, Stufenbänder, eingebettete Daten und JavaScript-Syntax; identische App-Dateien in `index.html` und `dist/index.html`. Dokumentierte Browserprüfungen umfassen Auswahl und Anzeige der neuen Karten DE-175–179 sowie der präzisierten Karte DE-021. Frühere Prüfungen betreffen unter anderem Fachwechsel, getrennte Entwürfe und Planvorschau. | Das belegt technische Konsistenz und die jeweils getesteten Abläufe, keine fachliche Vollständigkeit. Nicht alle Funktionen wurden mit jedem Prüfpaket erneut im Browser getestet. Ein erfolgreicher PDF-Download ist bislang nicht bestätigt. |
 | Fachlich belegte Anschlussvorschläge | Einzelbegründungen, konkrete Quellenanker, unterschiedliche Anforderungen, Voraussetzungen und Restumfang stehen in den Prüfpaketen. Auch die 11 übergreifenden Teilanschlüsse ohne Karte sind positive fachliche Ergebnisse. | Ein Teilanschluss gilt nur für den ausdrücklich belegten Ausschnitt. Er bedeutet weder identische Leistungsanforderungen noch vollständige Abdeckung des GS-Ziels. Fehlende Karte bedeutet nicht automatisch fehlenden Anschluss. |
 | Abschluss und Grenzen | 371 GS-Unterzielzeilen einschließlich zuvor zugeordneter Zeilen und aller dokumentierten Anschlussfragen geprüft. | Kein Vollabdeckungsanspruch, keine amtliche Freigabe; Rückwärts-Einzelprüfung und PDF-Download sind nicht Teil dieses Abschlusses. |
 
@@ -87,7 +89,7 @@ Die Anschlussvorschläge dienen der Unterrichtsplanung und fachlichen Gegenprüf
 
 **Lernhandlung/Aufgabe und Hilfsmittel bestimmt ausschließlich die Lehrkraft.** Sie werden nicht aus den Anschlusskarten vorgeschlagen oder übernommen. Der Feinziel-Übernahmebutton übernimmt nur Feinziel und Erfolgskriterium. Motivationsentwicklung wird nicht aus einer einzelnen Leistung oder bloßer Teilnahme abgeleitet oder benotet.
 
-Für Rückmeldungen bitte Karten-ID bzw. Zielzeilen-ID, Schulart/Klassenstufe, Lehrplanstelle und die konkrete fachliche Frage oder Korrektur benennen. Besonders hilfreich sind Hinweise zu Operatoren, Voraussetzungen, stufenübergreifenden Anschlüssen und zu weit gefassten Zielausschnitten. Rückmeldungen können als [GitHub-Issue](https://github.com/geafaellt/LernzielKompass/issues) dokumentiert werden.
+Für Rückmeldungen bitte Karten-ID bzw. Zielzeilen-ID, Schulart/Klassenstufe, Lehrplanstelle und die konkrete fachliche Frage oder Korrektur benennen. Besonders hilfreich sind Hinweise zu Lernzielebenen, Zielhandlungen, Voraussetzungen, stufenübergreifenden Anschlüssen und zu weit gefassten Zielausschnitten. Rückmeldungen können als [GitHub-Issue](https://github.com/geafaellt/LernzielKompass/issues) dokumentiert werden.
 
 ## Veröffentlichung und Weiterentwicklung
 

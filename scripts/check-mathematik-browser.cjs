@@ -13,6 +13,8 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   const base = process.env.LZK_APP_URL || pathToFileURL(resolve('index.html')).href;
   await page.goto(base, {waitUntil:'domcontentloaded'});
   await page.locator('#runtimeStatus').waitFor({state:'hidden'});
+  await page.locator('.start-about summary').click();
+  assert.match(await page.locator('#introPanel').innerText(), /Aufgabenoperatoren wie.*konkreten Aufgabe/);
   await page.locator('#startPlanning').click();
   assert.equal(await page.title(),readFileSync(resolve('index.html'),'utf8').match(/<title>(.*?)<\/title>/)[1]);
   await page.selectOption('#subject','Mathematik');
@@ -45,7 +47,7 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       assert.deepEqual(await page.locator('#fspScopeDetails a').evaluateAll(as=>as.map(a=>a.href)),card.fsp_scope.source_ids.map(id=>moduleData.sources.find(s=>s.id===id).url));
       await page.locator('#next').click();
       if(card.fsp_operator===null){
-       assert.equal(await page.locator('#operatorFSP').innerText(),'Kein eigener Operator ausgewiesen');
+       assert.equal(await page.locator('#operatorFSP').innerText(),'Keine eigene Lernzielebene ausgewiesen');
        assert.equal(await page.inputValue('#assessmentOperator'),'');
        assert.equal(await page.locator('#assessmentOperator option').filter({hasText:'im Zieltext ausgewiesen'}).count(),0);
       }
@@ -66,14 +68,14 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       const scopeRow=page.locator('#output tr').filter({hasText:'FSP-Zahlenraum / Geltungsbereich'});
       assert.equal(await scopeRow.count(),1);
       assert.ok((await scopeRow.innerText()).includes(card.fsp_scope.summary));
-      if(card.fsp_operator===null)assert.ok((await page.locator('#output tr').filter({hasText:'Operatorenpaar'}).innerText()).includes('Kein eigener Operator ausgewiesen'));
+      if(card.fsp_operator===null)assert.ok((await page.locator('#output tr').filter({has:page.getByRole('rowheader',{name:'Lernzielebenen und Zielhandlungen',exact:true})}).innerText()).includes('Keine eigene Lernzielebene ausgewiesen'));
       for(let i=0;i<4;i++)await page.locator('#prev').click();
      }
      assert.match(await page.locator('#connectionDetail').innerText(), card.stage_alignment.relation==='cross-band' ? /Stufenübergreifend/ : /Stufenband passend/);
      for (const [suffix,op] of [['GS',card.gs_operator],['FSP',card.fsp_operator]]) {
       if(op===null){
        assert.equal(await page.locator('#operatorComparison'+suffix+' button').count(),0);
-       assert.equal(await page.locator('#operatorComparison'+suffix).innerText(),'Kein eigener Operator ausgewiesen');
+       assert.equal(await page.locator('#operatorComparison'+suffix).innerText(),'Keine eigene Lernzielebene ausgewiesen');
       }else assert.equal(await page.locator('#operatorComparison'+suffix+' button').innerText(),op);
      }
      assert.deepEqual(await page.locator('#sourceList a').evaluateAll(as=>as.map(a=>a.href)),
@@ -143,7 +145,7 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
   for(const width of [320,390]) {
    await page.setViewportSize({width,height:844});
    assert.equal(await page.locator('#operatorComparisonFSP button').count(),0);
-   assert.equal(await page.locator('#operatorComparisonFSP').innerText(),'Kein eigener Operator ausgewiesen');
+   assert.equal(await page.locator('#operatorComparisonFSP').innerText(),'Keine eigene Lernzielebene ausgewiesen');
    assert.ok((await page.locator('#fspScopeDetails').innerText()).includes(cubeCard.fsp_scope.summary));
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth));
    await page.locator('#next').click();

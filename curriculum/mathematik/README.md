@@ -11,9 +11,9 @@ Einundneunzig Karten dokumentieren begrenzte Anschlüsse. Vierundsechzig liegen 
 | MA-005 und MA-007 | Schriftliche Addition zweier Summanden in GS 3 und als Verfahrensanschluss in GS 4 |
 | MA-006 | Minutengenaues Ablesen von Uhrzeiten in GS 3 und FSP 3/4 |
 
-Ausgewiesene Operatoren stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpläne. Fehlt im belegten Inhaltsblock ein eigener Operator, bleibt dies ausdrücklich sichtbar (MA-084 bis MA-086 und MA-090); es wird kein Nachbaroperator ergänzt. Unterziele grenzen den Anschluss ein. Hinweise aus der Bemerkungsspalte bleiben Kontext. Feinziele und Kriterien sind didaktische Konkretisierungen. Lernhandlungen, Aufgaben und Hilfsmittel legt die Lehrkraft fest.
+Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jeweiligen Lehrpläne. Die App weist aus, wenn im belegten Inhaltsblock keine eigene Lernzielebene genannt ist (MA-084 bis MA-086 und MA-090). Unterziele grenzen den Anschluss ein. Hinweise aus der Bemerkungsspalte bleiben Kontext. Feinziele und Kriterien sind didaktische Konkretisierungen. Lernhandlungen, Aufgaben und Hilfsmittel legt die Lehrkraft fest.
 
-[Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Operator. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
+[Prüfstand und Zeilenanker](review_progress.json) enthält die ausgewählten amtlichen Anker mit Bereich, Hierarchie und Lernzielebene. [Die Karten](mathematik_module.json) enthalten die jeweilige fachliche Grenze, Quellenlinks und die getrennten Ziele. Alle zwölf GS-Lernbereiche sind in der App auswählbar. Bereiche ohne Karte und die restlichen Ausschnitte innerhalb der Bereiche bleiben offen. Eine vollständige Einzelzeilenprüfung und eine Rückwärtsprüfung FSP → GS stehen aus.
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
