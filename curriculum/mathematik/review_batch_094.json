@@ -324,10 +324,16 @@
       "no_direct_total": 8
     },
     "browser": "No new browser run: audit-only, application/module/learning-level data byte-identical. Latest live functional and learning-level display checks remain MA-093.",
-    "publication": "pending"
+    "publication": "verified audit commit, successful Pages run and byte-identical unchanged live app"
   },
   "publication": {
-    "status": "pending",
-    "app_version_unchanged": "1.402"
+    "batch": "MA-094",
+    "status": "verified",
+    "app_version_unchanged": "1.402",
+    "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
+    "pages_run": 44630955851,
+    "app_unchanged": true,
+    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+    "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093."
   }
 }
