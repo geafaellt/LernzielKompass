@@ -3095,7 +3095,7 @@
     }
   },
   "next_id": "page912_187451",
-  "next_step": "Als Nächstes GS3 Ergänzen187451 (Bemerkung: unvollständige Vierecke,Dreiecke) unter Übertragen187446 prüfen, danach eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Figurenkarten prüfen.187450 ist nur für den ausgewählten nicht rechtwinkligen Parallelogrammfall teilweise geprüft; andere Vierecke,Dreiecke und weitere Verfahren bleiben offen.96 Karten(69 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
+  "next_step": "Als Nächstes GS3 Ergänzen187451 (Bemerkung: unvollständige Vierecke,Dreiecke) unter Übertragen187446 prüfen, danach eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Figurenkarten prüfen.187450 ist nur für den ausgewählten nicht rechtwinkligen Parallelogrammfall teilweise geprüft; andere Vierecke,Dreiecke und weitere Verfahren bleiben offen.96 Karten(69 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.401 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich; gezielte Funktions- und Lernzielebenen-Anzeigeprüfungen lokal/live bestanden. Nachweise in MA-092.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4933,8 +4933,12 @@
   },
   "latest_publication": {
     "batch": "MA-092",
-    "status": "pending",
-    "app_version": "1.401"
+    "status": "verified",
+    "app_version": "1.401",
+    "app_commit": "c23ce211e04cf04082a9699706ecd2f4dcb6996f",
+    "pages_run": 44611569102,
+    "live_sha256": "0c2d3cd732a7bdefbe861a64fa73536c71b149439062c86dde7bf730f1effd7c",
+    "browser": "MA-004 GS1/2 and MA-093/095/096 GS3 local and live passed; MA-096 mobile320/390 passed. Learning-level display/structure regression of all409 cards/818 sides passed locally and live. No fresh semantic source re-audit of all409 cards, no UI code change, no full96-card functional browser run claimed."
   },
   "latest_audit_publication": {
     "batch": "MA-090",
