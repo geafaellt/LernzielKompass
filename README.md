@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.397** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.398** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -136,3 +136,12 @@ Anschließend `dist/index.html` und `index.html` gemeinsam committen. `prepare-p
 - [Jüngstes Prüfpaket DE-UZ-052](curriculum/deutsch/review_batch_052.json) und [aktuelle Deutschdaten](curriculum/deutsch/deutsch_module.json)
 - [Sachunterricht: Daten, Quellen, Prüfverlauf und Freigabe der 21 ZA-Punkte](curriculum/sachunterricht/baseline.json) – für den Abschluss dieses Prüfumfangs sind `next_review` und `user_approval` vom 23.10.2026 maßgeblich; ältere Inventurtexte enthalten noch frühere offene Arbeitsschritte.
 - [Gesicherte Deutsch-Quellenfassungen](curriculum/deutsch/sources/)
+
+
+## Lernzielebenen im Vergleich · 19.11.2026
+
+Die Anzeige verwendet für alle 407 Anschlusskarten (135 Sachunterricht, 178 Deutsch, 94 Mathematik) die belegenden Zielzeilen aus `curriculum/learning_levels.json`. Jeder Nachweis enthält die Lernzielebene, den Wortlaut, das Klassenstufenband und den Link zur amtlichen Zielzeile. Bei einer Unterzielzeile ohne Lernzielebene wird die nächste übergeordnete Zielzeile mit einer ausdrücklich ausgewiesenen Lernzielebene herangezogen. Die aufklappbaren Belege zeigen auch bei mehreren Zielankern die jeweilige Herkunft.
+
+„Orientieren“, „Erleben“, „Entwickeln“, „Kennenlernen“, „Unterscheiden“ und weitere Zielhandlungen werden nicht als eigenständige Lernzielebenen angezeigt. Bei 13 Kartenseiten ist auch übergeordnet keine Lernzielebene aus der Begriffsübersicht belegt. Diese Fälle sind ausdrücklich gekennzeichnet. Mehrere FSP-Stufenbänder werden bei den Bewertungsvorschlägen getrennt berücksichtigt.
+
+Die ursprünglichen Zielformulierungen und vorhandenen Datenfelder bleiben als fachlicher Kontext erhalten. Für neue oder geänderte Anschlusskarten muss der Nachweis in `learning_levels.json` mitgeprüft werden. Die Prüfung `node scripts/check-learning-levels.cjs` kontrolliert alle Kartenseiten, die Quellenangaben und die Anzeige. `prepare-pages.py` bettet den geprüften Datenbestand ein.

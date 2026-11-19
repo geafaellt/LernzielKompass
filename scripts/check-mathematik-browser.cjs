@@ -68,7 +68,7 @@ const moduleData = require(resolve('curriculum/mathematik/mathematik_module.json
       const scopeRow=page.locator('#output tr').filter({hasText:'FSP-Zahlenraum / Geltungsbereich'});
       assert.equal(await scopeRow.count(),1);
       assert.ok((await scopeRow.innerText()).includes(card.fsp_scope.summary));
-      if(card.fsp_operator===null)assert.ok((await page.locator('#output tr').filter({has:page.getByRole('rowheader',{name:'Lernzielebenen und Zielhandlungen',exact:true})}).innerText()).includes('Keine eigene Lernzielebene ausgewiesen'));
+      if(card.fsp_operator===null)assert.ok((await page.locator('#output tr').filter({has:page.getByRole('rowheader',{name:'Lernzielebenen',exact:true})}).innerText()).includes('Keine eigene Lernzielebene ausgewiesen'));
       for(let i=0;i<4;i++)await page.locator('#prev').click();
      }
      assert.match(await page.locator('#connectionDetail').innerText(), card.stage_alignment.relation==='cross-band' ? /Stufenübergreifend/ : /Stufenband passend/);

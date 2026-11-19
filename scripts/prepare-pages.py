@@ -11,6 +11,10 @@ root = Path(__file__).resolve().parents[1]
 runpy.run_path(str(root / 'scripts/update-fsp-info.py'))
 source = root / 'dist/index.html'
 html = source.read_text()
+levels = json.loads((root / 'curriculum/learning_levels.json').read_text())
+payload = json.dumps(levels, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
+html, count = re.subn(r'(<script id="learning-level-data" type="application/json">).*?(</script>)', lambda match: match[1] + payload + match[2], html, flags=re.S)
+assert count == 1, 'Expected one learning level payload'
 titles = json.loads((root / 'curriculum/card_titles.json').read_text())
 payload = json.dumps(titles, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
 html, count = re.subn(r'(<script id="card-title-data" type="application/json">).*?(</script>)', lambda match: match[1] + payload + match[2], html, flags=re.S)
