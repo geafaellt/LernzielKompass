@@ -154,3 +154,6 @@ Mathematik MA-092 ergänzt MA-096: Parallelogramm zeichnen / Rechteck darstellen
 
 
 Mathematik MA-093 ergänzt MA-097: Dreiecksumriss vervollständigen, ausdrücklich GS3 → FSP1/2.97 Karten; [Prüfpaket](curriculum/mathematik/review_batch_093.json). App1.402 auf main veröffentlicht(9a5835a), [Pages erfolgreich](https://github.com/geafaellt/LernzielKompass/actions/runs/44621694106), Live-Datei bytegleich. Daten-/Bereichsprüfungen sowie Lernzielebenen-Anzeige und gezielte Browserprüfungen lokal/live bestanden. Fortsetzung beim Fachbegriff Parallelogramm187452;23 Anschlussfragen bleiben offen.
+
+
+Mathematik MA-094: Fachbegriff Parallelogramm187452 gegen beide FSP-Bänder abgegrenzt, kein hinreichend belegter direkter Fachwortanschluss.97 Karten und App1.402 unverändert. [Prüfpaket](curriculum/mathematik/review_batch_094.json); Fortsetzung bei Flächeninhalt/Umfang2027. Alle sechs Daten-/Bereichsprüfungen und die Audit-Konsistenzprüfung bestanden. Modul, Lernzielebenen-Daten und HTML bytegleich; kein neuer Browserlauf. Auditveröffentlichung ausstehend.

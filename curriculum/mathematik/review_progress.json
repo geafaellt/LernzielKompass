@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-093",
+  "last_batch": "MA-094",
   "complete": false,
   "counts": {
     "cards": 97,
@@ -3146,8 +3146,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_187452",
-  "next_step": "Als Nächstes GS3 eigenständige Fachbegriffsverwendung Parallelogramm187452 unter Übertragen187446 gegen beide FSP-Bänder prüfen. Figuren-/Eigenschaftsanschlüsse nicht als Beleg des Fachworts ausgeben.187451 ist nur im Dreiecksumriss-Ausschnitt teilweise geprüft; Vierecke, besondere Dreiecke und weitere Ergänzungsumfänge bleiben offen.97 Karten(69 passend,28 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.402 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich; gezielte Funktions- und Lernzielebenen-Anzeigeprüfungen lokal/live bestanden. Nachweise in MA-093.",
+  "next_id": "page912_2027",
+  "next_step": "Als Nächstes GS3 Einblick gewinnen in Flächeninhalt und Umfang2027 mit Erfassen2028 und Vergleichen von Flächeninhalten187164 prüfen, anschließend Zerlegen187165,Ergänzen/Zusammensetzen187166,Auszählen187167,Schätzen187168,Umfänge187169 und Fachbegriffe2029. Neun Zeilen nur inventarisiert, keine Erstentscheidung vorweggenommen. Beide FSP-Bänder und bestehende Figuren-/Längenkarten prüfen; Rand und Fläche, qualitative Form und Maßzahl sowie Einheiten strikt unterscheiden.97 Karten(69 passend,28 stufenübergreifend),23 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3461,7 +3461,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_093.json",
+  "last_review_file": "review_batch_094.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4582,7 +4582,8 @@
     "page912_187064",
     "page912_187083",
     "page912_187149",
-    "page912_187150"
+    "page912_187150",
+    "page912_187452"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -4603,10 +4604,11 @@
       "page912_187147",
       "page912_2012",
       "page912_2022",
-      "page912_187446"
+      "page912_187446",
+      "page912_2027"
     ],
-    "rows": 170,
-    "note": "MA-093:187451 erstmals für einen Dreiecksumriss teilweise geprüft; eine Zielzeile/ein Anschluss. Hauptziel187446 und Handlungszeile187447 nur Kontext; keine neue Inventur oder Vollabdeckung.",
+    "rows": 179,
+    "note": "MA-094:187452 erstmals als spezifische Fachwortforderung einzeln geprüft, kein direkter Anschluss. Neun Folgezeilen2027/2028/187164–187169/2029 nur inventarisiert; kein fachlicher Fortschritt aus Inventurzuwachs. Teilinventar179, kein Gesamtinventar.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5010,42 +5012,47 @@
     "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
   },
   "latest_audit_publication": {
-    "batch": "MA-090",
-    "status": "verified",
-    "app_version_unchanged": "1.397",
+    "batch": "MA-094",
+    "status": "pending",
+    "app_version_unchanged": "1.402",
     "previous_audit_publication": {
-      "batch": "MA-079",
+      "batch": "MA-090",
       "status": "verified",
-      "app_version_unchanged": "1.386",
+      "app_version_unchanged": "1.397",
       "previous_audit_publication": {
-        "batch": "MA-078",
+        "batch": "MA-079",
         "status": "verified",
         "app_version_unchanged": "1.386",
         "previous_audit_publication": {
-          "batch": "MA-075",
+          "batch": "MA-078",
           "status": "verified",
-          "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-          "pages_run": 44042551050,
-          "app_unchanged": true,
-          "app_version": "1.384",
-          "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-          "verified_at": "2026-11-17T07:57:40.479941+00:00"
+          "app_version_unchanged": "1.386",
+          "previous_audit_publication": {
+            "batch": "MA-075",
+            "status": "verified",
+            "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+            "pages_run": 44042551050,
+            "app_unchanged": true,
+            "app_version": "1.384",
+            "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+            "verified_at": "2026-11-17T07:57:40.479941+00:00"
+          },
+          "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+          "pages_run": 44069787528,
+          "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+          "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
         },
-        "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-        "pages_run": 44069787528,
+        "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
+        "pages_run": 44111252857,
         "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
         "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
       },
-      "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
-      "pages_run": 44111252857,
-      "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-      "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-    },
-    "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
-    "pages_run": 44567574178,
-    "app_unchanged": true,
-    "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
-    "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+      "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
+      "pages_run": 44567574178,
+      "app_unchanged": true,
+      "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+      "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+    }
   },
   "continuation_correction": {
     "batch": "MA-067",

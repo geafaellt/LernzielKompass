@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-093
+# Mathematik-Abgleich · MA-094
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beim Fachbegriff Parallelogramm187452. [MA-093](review_batch_093.json) ergänzt MA-097: Dreiecksumriss vervollständigen, GS3 → FSP1/2.97 Karten,23 Anschlussfragen,170 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei GS3 Flächeninhalt/Umfang2027 ff. [MA-094](review_batch_094.json) grenzt die Fachwortforderung Parallelogramm187452 begründet ab.97 Karten unverändert,23 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -920,3 +920,14 @@ FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebilder
 FSP-Hierarchie und Bemerkung in amtlicher PDF S.11 visuell bestätigt; Kennen-Definition S.V gelesen. Keine numerischen Maße oder erfundenen Grenzen; drei Seiten/Ecken sind Formmerkmale. Alle96 Bestandskarten erhalten. Eine neue Erstprüfung/ein Anschluss, keine neue Inventur oder Vollabdeckung.97 Karten(69 passend,28 stufenübergreifend),247 Quellen/245 Zielanker,23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Fortsetzung beim Fachbegriff187452. Alle sechs Daten-/Bereichsprüfungen bestanden. Lernzielebenen-Anzeige aller410 Karten/820 Seiten als Struktur-/Darstellungsprüfung bestanden, keine neue fachliche Einzelprüfung aller410 Karten behauptet. Gezielte Browserprüfung MA-002 GS1/2 und MA-086/097 GS3 bestanden, MA-097 zusätzlich320px/390px. Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar; Aufgaben/Hilfsmittel leer, eigene Texte erhalten. Keine UI-Codeänderung und kein vollständiger97-Karten-Funktionslauf. Veröffentlichung und Liveprüfung bestätigt.
 
 App1.402 mit Commit9a5835a7c2b95e5f0755863b3066887b346e55fd veröffentlicht; [Pages-Lauf44621694106](https://github.com/geafaellt/LernzielKompass/actions/runs/44621694106) erfolgreich. Live-Datei bytegleich(SHA256 0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948). Gezielte Prüfung MA-002/086/097, mobile MA-097-Darstellung320px/390px und Lernzielebenen-Anzeige aller410 Karten/820 Seiten auch öffentlich bestanden. Keine UI-Codeänderung und kein vollständiger97-Karten-Funktionslauf.
+
+
+## MA-094 · Audit, App 1.402 unverändert · 19.11.2026
+
+Kein hinreichend belegter direkter Anschluss für die eigenständige Verwendung des Fachbegriffs Parallelogramm187452. GS verlangt diesen Fachbegriff ausdrücklich unter Übertragen187446. FSP1/2 37832 nennt Viereck,Dreieck,Kreis;37836 das Benennen dieser Figuren und Merkmale unter Kennen37821. Daraus wird kein zusätzlicher verbindlicher Name für jede besondere Vierecksart abgeleitet. FSP3/4 35524/35525/35527 nennt Rechteck und Quadrat sowie deren Merkmale/Darstellung unter Gestalten35521. Dass Rechtecke mathematisch besondere Parallelogramme sind, belegt nicht die Verwendung des allgemeineren Fachbegriffs. Übergreifendes FSP3/4-Sprachziel35415 betrifft das Verständnis von Fachbegriffen bekannter geometrischer Objekte, nennt aber nicht Parallelogramm und begründet keine neue spezifische Wortforderung. Das übergreifende1/2-Ziel37739 nennt sprachliches Darstellen/umgangssprachliches Erklären und liefert ebenfalls keinen solchen Einzelbeleg. Die Entscheidung beruht auf diesem Inhalts-/Begriffsabgleich, nicht allein auf einer erfolglosen Wortsuche oder einer fehlenden Karte.
+
+Parallelogramme können didaktisch als Vierecke behandelt werden; die Entscheidung verbietet weder ihre Behandlung noch eine individuelle Fachworterweiterung. Ein allgemeines Benennungsziel kann einen lokalen Wortschatz didaktisch tragen, ist hier aber kein ausreichend konkreter amtlicher Beleg für eine automatisch veröffentlichte Parallelogramm-Fachwortzuordnung.
+
+GS-Ebene Übertragen stammt aus187446; Verwenden187452 ist die konkrete Zielhandlung. Die geprüften FSP-Kandidaten gehören zu Kennen37821 beziehungsweise Gestalten35521. Benennen,Vergleichen,Darstellen werden nicht als Ebenen geführt. Übergreifende Sprachziele sind keine Ersatz-Hauptzieloperatoren. Bestehende Karten MA-095/096 behalten Übertragen/Gestalten, MA-097 Übertragen/Kennen.
+
+Alle97 Karten samt Zahlenraum-/Geltungsbereichsfeldern, Zielen und App-Dateien unverändert. Eine neue Erstprüfung und begründete Nichtzuordnung, keine neue Karte. Neun Folgezeilen zum Flächeninhalt/Umfang nur inventarisiert, ohne fachlichen Prüffortschritt.97 Karten(69 passend,28 stufenübergreifend),247 Quellen/245 Zielanker,23 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Keine neue App-Version. Alle sechs Daten-/Bereichsprüfungen und die Audit-Konsistenzprüfung bestanden. Modul, Lernzielebenen-Daten und HTML bytegleich; kein neuer Browserlauf. Auditveröffentlichung ausstehend.
