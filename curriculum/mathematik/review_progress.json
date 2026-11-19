@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-090",
+  "last_batch": "MA-091",
   "complete": false,
   "counts": {
-    "cards": 94,
+    "cards": 95,
     "cross_band": 27
   },
   "source_plans": {
@@ -3027,10 +3027,62 @@
       "area": "Lernbereich 4: Wünsche, Träume, Fantasie",
       "operator": null,
       "version": "2019"
+    },
+    "page912_187446": {
+      "id": "page912_187446",
+      "level": 1,
+      "parent_target_id": "page912_187446",
+      "target": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "Übertragen",
+      "version": "2026"
+    },
+    "page912_187447": {
+      "id": "page912_187447",
+      "level": 2,
+      "parent_target_id": "page912_187446",
+      "target": "Erkennen, Benennen, Beschreiben, Vergleichen und Darstellen",
+      "remarks": "in der Umwelt, Geometriebrett",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187447",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187448": {
+      "id": "page912_187448",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Parallelogramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187448",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187449": {
+      "id": "page912_187449",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Eigenschaften",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187449",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187446",
-  "next_step": "Als Nächstes GS3 Hauptziel187446 und Unterziel187447 (Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen) mit Parallelogramm187448/Eigenschaften187449 prüfen, danach Zeichnen187450,Ergänzen187451 und Fachbegriff187452. Sieben Folgezeilen sind nur inventarisiert und ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Rechteck/Quadrat nicht mit allen Parallelogrammen gleichsetzen, Benennen der Form von Fachbegriffsverwendung trennen.187161 bleibt als konkrete Anschlussfrage einschließlich möglicher enger MA-094-Wiederverwendung offen.94 Karten(67 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.397 bleibt unverändert. Audit auf main veröffentlicht; Pages erfolgreich und unveränderte Live-Datei bestätigt, Nachweise in MA-090.",
+  "next_id": "page912_187450",
+  "next_step": "Als Nächstes GS3 Zeichnen verschiedener Vierecke und Dreiecke187450 unter Übertragen187446 prüfen, danach Ergänzen187451 und die eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Rechteckkarten prüfen; mögliche Spezialfälle ausdrücklich eingrenzen.187447–187449 sind nur für den einen Seitenlängenvergleich MA-095 teilweise geprüft; übrige Handlungen und Eigenschaften bleiben dokumentiert.95 Karten(68 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3333,7 +3385,7 @@
       "decision": "FSP3/4 Orientierung35563 unter Anwenden35554 mit Bandziel35415 belegt Wege im Einkaufsbereich und wechselnde Sichtweisen, aber nicht für sich das Lesen einer ebenen Wegdarstellung. Der Bauplanbeleg35459 ist positiv und bereits mit MA-084/090 eingegrenzt. Skizzieren35509 im Sachverhaltskontext sowie Probieren35577/Beschreiben35580 unter Kennen35571 betreffen mathematische Lösungsstrategien; sie belegen nicht gleich ausdrücklich das hier gewählte Kennen eines dargestellten Labyrinth-Wegabschnitts. Ihre möglichen Strategieanschlüsse bleiben von diesem Darstellungsanschluss getrennt. FSP1/2 37980 nennt Labyrinthspiele konkret im Pflichtbereich; die ebene Ausführung ist didaktisch ausgewählt.38002 nennt Labyrinth/Wege zusätzlich im Märchen-Wahlbereich unter Einblick gewinnen37997, erfordert aber diesen Kontext und wird nicht mit dem Kennen37980 vermischt.37794 unter Übertragen37779 ist räumliche Orientierung in der Schule, keine allgemeine Kartenkompetenz.37908 nennt Skizzen im Sachaufgabenkontext, keinen allgemeinen Lageplan. Der konkrete1/2-Beleg wird deshalb hier gegenüber einer nur allgemeinen3/4-Orientierungs- oder Strategienennung gewählt; kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_090.json",
+  "last_review_file": "review_batch_091.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4415,6 +4467,24 @@
       "scope": "Zeile187161 ist erstmals geprüft, aber die Anschlussentscheidung bleibt offen. Die Quellen spezifizieren nicht, ob die GS-Zeile einen gemeinsamen Endpunkt als Teilfall einschließt oder welchen Schnittlagenumfang sie voraussetzt. Schnittpunkte im Inneren, nicht rechte Schnittwinkel, beliebige Geradenlagen und selbstständige Zeichenverfahren sind durch MA-094 nicht abgesichert. Keine nicht belegte Innenpunktpflicht in den GS-Wortlaut hineinlesen. Einzelstreckenzeichnen MA-092, Parallelität MA-093 und Rechtwinkligkeit MA-094 ersetzen diese Entscheidung nicht.",
       "status": "offen",
       "review": "MA-090"
+    },
+    {
+      "gs_id": "page912_187447",
+      "scope": "Erkennen/Benennen der Figurenklasse, weitere Beschreibungs-/Vergleichsmerkmale und Darstellungsformen sowie allgemeine Dreiecks-/Vierecksarten bleiben außerhalb des qualitativen Seitenlängenvergleichs MA-095.",
+      "status": "offen",
+      "review": "MA-091"
+    },
+    {
+      "gs_id": "page912_187448",
+      "scope": "Weitere Parallelogrammeigenschaften, Figurenklassifikation und vollständige begriffliche Erfassung bleiben offen. FSP-Rechteck wird nicht als volle allgemeine Parallelogrammkompetenz gewertet.",
+      "status": "offen",
+      "review": "MA-091"
+    },
+    {
+      "gs_id": "page912_187449",
+      "scope": "Andere Eigenschaften einschließlich Winkel-, Diagonal- und Symmetriebeziehungen sowie allgemeine Begründungs-/Beweisverfahren bleiben außerhalb von MA-095; der gewählte Vergleich betrifft nur die paarweise Länge gegenüberliegender Seiten.",
+      "status": "offen",
+      "review": "MA-091"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4448,7 +4518,7 @@
       "page912_187446"
     ],
     "rows": 170,
-    "note": "MA-090:187161 erstmals geprüft und als Anschlussfrage offen; keine Karten-/Vollabdeckung. Sieben Folgezeilen187446–187452 nur inventarisiert, ohne fachlichen Prüffortschritt.",
+    "note": "MA-091:187447/187448/187449 im gemeinsamen Ausschnitt eines Seitenlängenvergleichs erstmals teilweise geprüft; drei Zeilen, aber nur ein fachlicher Anschluss.187446 nur Hauptzielkontext; keine neue Inventur oder Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4811,6 +4881,18 @@
         "MA-092"
       ],
       "note": "Qualitative Rechteckbeziehungen ohne numerische Werte. Keine Übernahme von20/100,ganzen cm oder GS-Millimetergenauigkeit als FSP-Grenze.92 Bestandskarten unverändert."
+    },
+    "follow_up_opposite_side_length": {
+      "batch": "MA-091",
+      "cards": {
+        "MA-095": "domain_specific"
+      },
+      "existing_rechecked": [
+        "MA-093",
+        "MA-094",
+        "MA-004"
+      ],
+      "note": "Qualitativer Längenvergleich an bestimmten Figuren, keine Messzahlen oder Rechnungen. Keine20/100- oder cm-Grenze übernommen;94 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -4831,13 +4913,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-089",
-    "status": "verified",
-    "app_version": "1.397",
-    "app_commit": "bc0535a93428f65b3b796e9206e9fa770c568f7f",
-    "pages_run": 44562564966,
-    "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
-    "browser": "MA-002 GS1/2 and MA-088/092/093/094 GS3 local and live passed; MA-093/094 each mobile320/390 passed. No UI code change; no full94-card browser run."
+    "batch": "MA-091",
+    "status": "pending",
+    "app_version": "1.399"
   },
   "latest_audit_publication": {
     "batch": "MA-090",
@@ -4995,6 +5073,22 @@
       ],
       "checked_on": "2026-11-19",
       "finding": "Amtliche Definition Gestalten/Problemlösen auf S.V und Gestalten von Fantasieformen als eigene Hauptzielzeile auf S.22 visuell bestätigt. Darstellen und Erkennen sind darunter getrennte Unterzielhandlungen. Vorheriges Übertragen35511 aus LB3 wird nicht auf LB4 übertragen."
+    },
+    "page912_187446": {
+      "target_id": "page912_187446",
+      "level": "Übertragen",
+      "source_id": "Q-MA-page912_187446",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+      "pdf_pages_one_based": [
+        5,
+        30
+      ],
+      "printed_pages": [
+        "V",
+        "20"
+      ],
+      "checked_on": "2026-11-19",
+      "finding": "Definition Übertragen in amtlicher Begriffstabelle und Hauptziel187446 visuell bestätigt. Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen stehen in einer darunter eingerückten Zielzeile; sie ersetzen die Lernzielebene nicht."
     }
   }
 }

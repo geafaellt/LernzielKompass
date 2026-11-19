@@ -77,6 +77,6 @@ assert.deepEqual(values('MA-084','fsp'),[]);
    await page.locator('#prev').click();
   }
   assert.deepEqual(errors,[]);
-  console.log('PASS: '+cards.length+' Karten, 814 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.');
+  console.log('PASS: '+cards.length+' Karten, '+(cards.length*2)+' Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.');
  } finally {await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1;});

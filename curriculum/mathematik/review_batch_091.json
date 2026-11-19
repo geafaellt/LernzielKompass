@@ -1,0 +1,406 @@
+{
+  "id": "MA-091",
+  "date": "2026-11-19",
+  "base_commit": "56318f5ea20925c78a42c9796047911470b663dd",
+  "scope": "GS3 Übertragen187446 mit Zielhandlungen187447,Parallelogramm187448,Eigenschaften187449: ein qualitativer Seitenlängenvergleich.",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_187446": {
+      "id": "page912_187446",
+      "level": 1,
+      "parent_target_id": "page912_187446",
+      "target": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446"
+    },
+    "page912_187447": {
+      "id": "page912_187447",
+      "level": 2,
+      "parent_target_id": "page912_187446",
+      "target": "Erkennen, Benennen, Beschreiben, Vergleichen und Darstellen",
+      "remarks": "in der Umwelt, Geometriebrett",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187447"
+    },
+    "page912_187448": {
+      "id": "page912_187448",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Parallelogramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187448"
+    },
+    "page912_187449": {
+      "id": "page912_187449",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Eigenschaften",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187449"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35526": {
+      "id": "page139_35526",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Erkennen des rechten Winkels",
+      "remarks": "mit dem Faltwinkel prüfen Quadrat als besonderes Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37804": {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804"
+    },
+    "page139_37811": {
+      "id": "page139_37811",
+      "level": 2,
+      "parent_target_id": "page139_37804",
+      "target": "Untersuchen von Objekten nach ihren Eigenschaften",
+      "remarks": "Realobjekte, Applikationen und strukturiertes Material einsetzen, Objekte nach vorgegebenen Merkmalen auswählen Gleichheit, Ähnlichkeit, Verschiedenheit Gliedern, Ordnen, Zuordnen und Bilden von Mengen; Punktmengen Begriffe: viel, wenig",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37811"
+    }
+  },
+  "source_verification": {
+    "gs_pdf": {
+      "target_id": "page912_187446",
+      "level": "Übertragen",
+      "source_id": "Q-MA-page912_187446",
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+      "pdf_pages_one_based": [
+        5,
+        30
+      ],
+      "printed_pages": [
+        "V",
+        "20"
+      ],
+      "checked_on": "2026-11-19",
+      "finding": "Definition Übertragen in amtlicher Begriffstabelle und Hauptziel187446 visuell bestätigt. Erkennen,Benennen,Beschreiben,Vergleichen,Darstellen stehen in einer darunter eingerückten Zielzeile; sie ersetzen die Lernzielebene nicht."
+    },
+    "gs_pdf_sha256": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+    "fsp_definition_and_hierarchy": "MA-089: amtliches FSP-PDF S.V und22 visuell geprüft. In MA-091 die Zieltexte35521/35524/35525 im frisch abgerufenen amtlichen HTML bestätigt; kein neuer FSP-PDF-Sichtdurchlauf behauptet."
+  },
+  "learning_level_review": {
+    "new_card_evidence": {
+      "gs": {
+        "evidence": [
+          {
+            "level": "Übertragen",
+            "row_id": "page912_187446",
+            "target": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+            "grade": "3",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446"
+          }
+        ]
+      },
+      "fsp": {
+        "evidence": [
+          {
+            "level": "Gestalten",
+            "row_id": "page139_35521",
+            "target": "Gestalten von Fantasieformen",
+            "grade": "3/4",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+          }
+        ]
+      }
+    },
+    "existing_cards": [
+      "MA-093",
+      "MA-094",
+      "MA-004"
+    ],
+    "policy": "Nur amtliche Begriffe aus nachgewiesenen Hauptzielzeilen in Gegenüberstellung, FSP-Zielanzeige und Planungsoutput. Zielhandlungen gesondert im Zieltext. Alle bisherigen Einträge von learning_levels.json erhalten; MA-095 ergänzt."
+  },
+  "new_cards": [
+    "MA-095"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-093",
+    "MA-094",
+    "MA-004"
+  ],
+  "existing_card_review": "MA-093 betrifft parallele Lage/Darstellung, MA-094 rechten Winkel/Erkennen, MA-004 Längenvergleich in Metern im Naturkontext. Keine Karte ersetzt den neuen qualitativen Figurenmerkmalsvergleich; keine Messwerte oder bisherige Geltungsbereiche übertragen.94 Bestandskarten unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187447",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-095"
+      ],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37804",
+        "page139_37811"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: paarweise gleiche Länge gegenüberliegender Seiten. GS187446 nennt die Lernzielebene Übertragen,187447 die Zielhandlungen und187448/187449 Parallelogramm/Eigenschaften. Die Auswahl der gegenüberliegenden Seiten und ihrer paarweisen Längengleichheit ist eine didaktische Konkretisierung einer mathematischen Parallelogrammeigenschaft, kein wörtlicher GS-Unterpunkt. FSP35521 nennt die Lernzielebene Gestalten;35525 nennt als Unterziel das Vergleichen und Benennen von Merkmalen des Rechtecks und Quadrats. Messen und Vergleichen gegenüberliegender Seiten steht dort in der Bemerkung. Ausgewählt wird der qualitative Vergleich am Rechteck als Gestaltungselement35524. GS-Parallelogramm und FSP-Rechteck werden nicht als gleich umfangreiche Figurenklassen ausgegeben; der gemeinsame Gegenstand ist die Seitenlängenbeziehung. Der GS-Ausschnitt umfasst auch nicht rechtwinklige Parallelogramme; Rechtecke sind ein Sonderfall. FSP erhält keine Forderung zu allgemeinen Parallelogrammen oder zum Fachbegriff Parallelogramm. Vergleichen, Benennen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Der enge Unterzielnachweis deckt weder das gesamte GS-Übertragen noch FSP-Gestalten ab. Keine vollständige GS-Zieldeckung.",
+      "stage_decision": "Stufenpassendes FSP3/4-Unterziel35525 nennt Rechteck-/Quadratmerkmale und in der Bemerkung gegenüberliegende Seiten ausdrücklich. FSP1/2 37832/37836/37844 betreffen allgemein Grundformen und Figurenmerkmale/Darstellen;37811 allgemeine Objekteigenschaften. Positive verwandte Inhalte, aber kein gleich konkreter Gegenüberliegende-Seiten-Beleg. Kein Ausschluss wegen kleinerer Zahlenräume. Rechteck/Quadrat deckt nicht die gesamte GS-Parallelogrammfamilie ab.",
+      "prerequisites": "Vorausgesetzt sind vertraute ebene Figuren, das Unterscheiden benachbarter und gegenüberliegender Seiten sowie ein gesicherter qualitativer Längenvergleich. Figuren müssen unverzerrt und als Parallelogramm beziehungsweise Rechteck eindeutig bestimmt sein; bloße perspektivische Erscheinungen sichern keine Längengleichheit. Der FSP-Gestaltungskontext bleibt erhalten.",
+      "uncertainty": "Die konkrete Eigenschaft ist didaktische mathematische Auswahl aus dem GS-Eigenschaftsziel. Keine Behauptung, sie sei dort wörtlich aufgezählt; qualitative Vergleichssicherheit muss gegeben sein.",
+      "remaining_scope": "Erkennen/Benennen der Figurenklasse, weitere Beschreibungs-/Vergleichsmerkmale und Darstellungsformen sowie allgemeine Dreiecks-/Vierecksarten bleiben außerhalb des qualitativen Seitenlängenvergleichs MA-095."
+    },
+    {
+      "gs_id": "page912_187448",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-095"
+      ],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37804",
+        "page139_37811"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: paarweise gleiche Länge gegenüberliegender Seiten. GS187446 nennt die Lernzielebene Übertragen,187447 die Zielhandlungen und187448/187449 Parallelogramm/Eigenschaften. Die Auswahl der gegenüberliegenden Seiten und ihrer paarweisen Längengleichheit ist eine didaktische Konkretisierung einer mathematischen Parallelogrammeigenschaft, kein wörtlicher GS-Unterpunkt. FSP35521 nennt die Lernzielebene Gestalten;35525 nennt als Unterziel das Vergleichen und Benennen von Merkmalen des Rechtecks und Quadrats. Messen und Vergleichen gegenüberliegender Seiten steht dort in der Bemerkung. Ausgewählt wird der qualitative Vergleich am Rechteck als Gestaltungselement35524. GS-Parallelogramm und FSP-Rechteck werden nicht als gleich umfangreiche Figurenklassen ausgegeben; der gemeinsame Gegenstand ist die Seitenlängenbeziehung. Der GS-Ausschnitt umfasst auch nicht rechtwinklige Parallelogramme; Rechtecke sind ein Sonderfall. FSP erhält keine Forderung zu allgemeinen Parallelogrammen oder zum Fachbegriff Parallelogramm. Vergleichen, Benennen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Der enge Unterzielnachweis deckt weder das gesamte GS-Übertragen noch FSP-Gestalten ab. Keine vollständige GS-Zieldeckung.",
+      "stage_decision": "Stufenpassendes FSP3/4-Unterziel35525 nennt Rechteck-/Quadratmerkmale und in der Bemerkung gegenüberliegende Seiten ausdrücklich. FSP1/2 37832/37836/37844 betreffen allgemein Grundformen und Figurenmerkmale/Darstellen;37811 allgemeine Objekteigenschaften. Positive verwandte Inhalte, aber kein gleich konkreter Gegenüberliegende-Seiten-Beleg. Kein Ausschluss wegen kleinerer Zahlenräume. Rechteck/Quadrat deckt nicht die gesamte GS-Parallelogrammfamilie ab.",
+      "prerequisites": "Vorausgesetzt sind vertraute ebene Figuren, das Unterscheiden benachbarter und gegenüberliegender Seiten sowie ein gesicherter qualitativer Längenvergleich. Figuren müssen unverzerrt und als Parallelogramm beziehungsweise Rechteck eindeutig bestimmt sein; bloße perspektivische Erscheinungen sichern keine Längengleichheit. Der FSP-Gestaltungskontext bleibt erhalten.",
+      "uncertainty": "Die konkrete Eigenschaft ist didaktische mathematische Auswahl aus dem GS-Eigenschaftsziel. Keine Behauptung, sie sei dort wörtlich aufgezählt; qualitative Vergleichssicherheit muss gegeben sein.",
+      "remaining_scope": "Weitere Parallelogrammeigenschaften, Figurenklassifikation und vollständige begriffliche Erfassung bleiben offen. FSP-Rechteck wird nicht als volle allgemeine Parallelogrammkompetenz gewertet."
+    },
+    {
+      "gs_id": "page912_187449",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-095"
+      ],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37804",
+        "page139_37811"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: paarweise gleiche Länge gegenüberliegender Seiten. GS187446 nennt die Lernzielebene Übertragen,187447 die Zielhandlungen und187448/187449 Parallelogramm/Eigenschaften. Die Auswahl der gegenüberliegenden Seiten und ihrer paarweisen Längengleichheit ist eine didaktische Konkretisierung einer mathematischen Parallelogrammeigenschaft, kein wörtlicher GS-Unterpunkt. FSP35521 nennt die Lernzielebene Gestalten;35525 nennt als Unterziel das Vergleichen und Benennen von Merkmalen des Rechtecks und Quadrats. Messen und Vergleichen gegenüberliegender Seiten steht dort in der Bemerkung. Ausgewählt wird der qualitative Vergleich am Rechteck als Gestaltungselement35524. GS-Parallelogramm und FSP-Rechteck werden nicht als gleich umfangreiche Figurenklassen ausgegeben; der gemeinsame Gegenstand ist die Seitenlängenbeziehung. Der GS-Ausschnitt umfasst auch nicht rechtwinklige Parallelogramme; Rechtecke sind ein Sonderfall. FSP erhält keine Forderung zu allgemeinen Parallelogrammen oder zum Fachbegriff Parallelogramm. Vergleichen, Benennen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Der enge Unterzielnachweis deckt weder das gesamte GS-Übertragen noch FSP-Gestalten ab. Keine vollständige GS-Zieldeckung.",
+      "stage_decision": "Stufenpassendes FSP3/4-Unterziel35525 nennt Rechteck-/Quadratmerkmale und in der Bemerkung gegenüberliegende Seiten ausdrücklich. FSP1/2 37832/37836/37844 betreffen allgemein Grundformen und Figurenmerkmale/Darstellen;37811 allgemeine Objekteigenschaften. Positive verwandte Inhalte, aber kein gleich konkreter Gegenüberliegende-Seiten-Beleg. Kein Ausschluss wegen kleinerer Zahlenräume. Rechteck/Quadrat deckt nicht die gesamte GS-Parallelogrammfamilie ab.",
+      "prerequisites": "Vorausgesetzt sind vertraute ebene Figuren, das Unterscheiden benachbarter und gegenüberliegender Seiten sowie ein gesicherter qualitativer Längenvergleich. Figuren müssen unverzerrt und als Parallelogramm beziehungsweise Rechteck eindeutig bestimmt sein; bloße perspektivische Erscheinungen sichern keine Längengleichheit. Der FSP-Gestaltungskontext bleibt erhalten.",
+      "uncertainty": "Die konkrete Eigenschaft ist didaktische mathematische Auswahl aus dem GS-Eigenschaftsziel. Keine Behauptung, sie sei dort wörtlich aufgezählt; qualitative Vergleichssicherheit muss gegeben sein.",
+      "remaining_scope": "Andere Eigenschaften einschließlich Winkel-, Diagonal- und Symmetriebeziehungen sowie allgemeine Begründungs-/Beweisverfahren bleiben außerhalb von MA-095; der gewählte Vergleich betrifft nur die paarweise Länge gegenüberliegender Seiten."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187446",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+      "Karten": "",
+      "Prüfstatus": "MA-090: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss oder fachlicher Fortschritt aus fehlender Karte abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_187447",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erkennen, Benennen, Beschreiben, Vergleichen und Darstellen",
+      "Karten": "",
+      "Prüfstatus": "MA-090: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss oder fachlicher Fortschritt aus fehlender Karte abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_187448",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Parallelogramm",
+      "Karten": "",
+      "Prüfstatus": "MA-090: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss oder fachlicher Fortschritt aus fehlender Karte abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_187449",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Eigenschaften",
+      "Karten": "",
+      "Prüfstatus": "MA-090: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss oder fachlicher Fortschritt aus fehlender Karte abgeleitet."
+    }
+  ],
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: qualitative Längengleichheit gegenüberliegender Rechteckseiten",
+    "detail": "35525 nennt Merkmale von Rechteck und Quadrat, die Bemerkung Messen und Vergleichen gegenüberliegender Seiten. Der gespeicherte Ausschnitt ist ausschließlich qualitatives Vergleichen, ohne Messzahlen oder Rechnungen. Keine numerische Obergrenze belegt oder ergänzt.20/100 aus Zahlzielen und ganze cm aus35516 sind keine Grenzen dieses Figurenmerkmals. Auch GS187448/187449 nennen keinen Zahlenraum.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35524",
+      "Q-MA-page139_35525"
+    ],
+    "planning_rule": "Vorausgesetzt sind vertraute ebene Figuren, das Unterscheiden benachbarter und gegenüberliegender Seiten sowie ein gesicherter qualitativer Längenvergleich. Figuren müssen unverzerrt und als Parallelogramm beziehungsweise Rechteck eindeutig bestimmt sein; bloße perspektivische Erscheinungen sichern keine Längengleichheit. Der FSP-Gestaltungskontext bleibt erhalten. Nur qualitative Seitenlängenbeziehungen beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Einheitenumrechnungen, Winkelgrade, Umfangs- oder Flächenberechnungen Bestandteil des Feinziels. Zahlen-/Messwert-Erweiterungen brauchen eine eigene fachliche Prüfung und einen vorab belegten oder ausdrücklich didaktisch festgelegten Rahmen. Keine FSP-Forderung zum allgemeinen Parallelogramm ergänzen. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen und nicht automatisch validiert."
+  },
+  "counts": {
+    "new_individually_examined_target_rows": 3,
+    "new_partially_reviewed_rows": 3,
+    "distinct_connection_scopes": 1,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 95,
+    "same_band_cards": 68,
+    "cross_band_cards": 27,
+    "source_links": 242,
+    "target_anchors": 240,
+    "new_unique_gs_anchors": 4,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 170,
+    "open_connection_questions": 23,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": {
+    "next_id": "page912_187450",
+    "next_step": "Als Nächstes GS3 Zeichnen verschiedener Vierecke und Dreiecke187450 unter Übertragen187446 prüfen, danach Ergänzen187451 und die eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Rechteckkarten prüfen; mögliche Spezialfälle ausdrücklich eingrenzen.187447–187449 sind nur für den einen Seitenlängenvergleich MA-095 teilweise geprüft; übrige Handlungen und Eigenschaften bleiben dokumentiert.95 Karten(68 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss."
+  },
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "learning_levels_browser": "scripts/check-learning-levels.cjs passed all408 cards/816 sides, source-bound levels, exclusion of injected target-action strings, inherited sources and subject changes. Displayed counts now derive from actual card count.",
+    "browser_local": "scripts/check-mathematik-live-ma-095.cjs passed MA-004 GS1/2 and MA-093/094/095 GS3; scope on card/goals/output, source links, separated levels, exact goal/criterion adoption, empty task/aid fields, preserved teacher texts, reload and subject isolation. MA-095 additionally320px/390px. Planning output explicitly asserts Übertragen/Gestalten and excludes Vergleichen/Benennen/Beschreiben from the level row. No UI code changed; no full95-card functional browser run claimed.",
+    "preservation": {
+      "base_commit": "56318f5ea20925c78a42c9796047911470b663dd",
+      "changed_preexisting_files": [
+        "README.md",
+        "curriculum/learning_levels.json",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/mathematik_module.json",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv",
+        "dist/index.html",
+        "index.html",
+        "scripts/check-learning-levels.cjs"
+      ],
+      "unchanged_preexisting_files": 283,
+      "old_cards_unchanged": 94,
+      "old_sources_unchanged": 238,
+      "old_learning_level_entries_unchanged": 407,
+      "html_sha256": "08a49a252104a327e2ed2d91b95422253a48f4a3bd71ddc89260ed09b567ceff",
+      "ui_code_unchanged_except_version_and_data_payloads": true
+    },
+    "browser_live": "pending",
+    "rechecked_against_current_main": true
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.400"
+  },
+  "continuation_recovery": "Vorbereitete, noch nicht veröffentlichte MA-091-Arbeit am unveränderten Repository-Fortsetzungspunkt fortgesetzt. Alle Quellenzeilen erneut online bestätigt. Zwischenzeitliche Deutsch-/Lernzielebenen-Korrekturen aus main bewahrt. Keine doppelte Erstprüfung gezählt."
+}

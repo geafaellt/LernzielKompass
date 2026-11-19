@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.4",
+  "version": "MA-2026-11-19.5",
   "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1538,6 +1538,30 @@
       "title": "FSP Mathematik3/4 · Lernbereich4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187446",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187447",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187447",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187448",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187448",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187449",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187449",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -9146,6 +9170,85 @@
         ],
         "fsp_remark_anchors": [
           "page139_35526"
+        ]
+      }
+    },
+    {
+      "id": "MA-095",
+      "subject": "Mathematik",
+      "theme": "Gegenüberliegende Seiten paarweise gleich lang",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Parallelogramm / Rechteck · qualitativer Vergleich",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1: Raum und Form · Vergleichen/Beschreiben187447 mit Parallelogramm187448 und Eigenschaften187449 unter Übertragen187446; ausgewählt: gegenüberliegende Seiten",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich4: Wünsche, Träume, Fantasie · Vergleichen/Benennen von Merkmalen35525, gegenüberliegende Seiten in der Bemerkung; Gestaltungselement-Kontext35524 unter Gestalten35521",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Gestalten",
+      "operator_relation": "Lernzielebenen: GS Übertragen · FSP Gestalten. Stufenbandpassender Teilanschluss GS3 → FSP3/4: paarweise gleiche Länge gegenüberliegender Seiten. GS187446 nennt die Lernzielebene Übertragen,187447 die Zielhandlungen und187448/187449 Parallelogramm/Eigenschaften. Die Auswahl der gegenüberliegenden Seiten und ihrer paarweisen Längengleichheit ist eine didaktische Konkretisierung einer mathematischen Parallelogrammeigenschaft, kein wörtlicher GS-Unterpunkt. FSP35521 nennt die Lernzielebene Gestalten;35525 nennt als Unterziel das Vergleichen und Benennen von Merkmalen des Rechtecks und Quadrats. Messen und Vergleichen gegenüberliegender Seiten steht dort in der Bemerkung. Ausgewählt wird der qualitative Vergleich am Rechteck als Gestaltungselement35524. GS-Parallelogramm und FSP-Rechteck werden nicht als gleich umfangreiche Figurenklassen ausgegeben; der gemeinsame Gegenstand ist die Seitenlängenbeziehung. Der GS-Ausschnitt umfasst auch nicht rechtwinklige Parallelogramme; Rechtecke sind ein Sonderfall. FSP erhält keine Forderung zu allgemeinen Parallelogrammen oder zum Fachbegriff Parallelogramm. Vergleichen, Benennen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Der enge Unterzielnachweis deckt weder das gesamte GS-Übertragen noch FSP-Gestalten ab. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_187446",
+        "page912_187447",
+        "page912_187448",
+        "page912_187449"
+      ],
+      "fsp_target_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187446",
+        "Q-MA-page912_187447",
+        "Q-MA-page912_187448",
+        "Q-MA-page912_187449",
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35524",
+        "Q-MA-page139_35525"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: paarweise gleiche Länge gegenüberliegender Seiten. GS187446 nennt die Lernzielebene Übertragen,187447 die Zielhandlungen und187448/187449 Parallelogramm/Eigenschaften. Die Auswahl der gegenüberliegenden Seiten und ihrer paarweisen Längengleichheit ist eine didaktische Konkretisierung einer mathematischen Parallelogrammeigenschaft, kein wörtlicher GS-Unterpunkt. FSP35521 nennt die Lernzielebene Gestalten;35525 nennt als Unterziel das Vergleichen und Benennen von Merkmalen des Rechtecks und Quadrats. Messen und Vergleichen gegenüberliegender Seiten steht dort in der Bemerkung. Ausgewählt wird der qualitative Vergleich am Rechteck als Gestaltungselement35524. GS-Parallelogramm und FSP-Rechteck werden nicht als gleich umfangreiche Figurenklassen ausgegeben; der gemeinsame Gegenstand ist die Seitenlängenbeziehung. Der GS-Ausschnitt umfasst auch nicht rechtwinklige Parallelogramme; Rechtecke sind ein Sonderfall. FSP erhält keine Forderung zu allgemeinen Parallelogrammen oder zum Fachbegriff Parallelogramm. Vergleichen, Benennen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Der enge Unterzielnachweis deckt weder das gesamte GS-Übertragen noch FSP-Gestalten ab. Keine vollständige GS-Zieldeckung. Vorausgesetzt sind vertraute ebene Figuren, das Unterscheiden benachbarter und gegenüberliegender Seiten sowie ein gesicherter qualitativer Längenvergleich. Figuren müssen unverzerrt und als Parallelogramm beziehungsweise Rechteck eindeutig bestimmt sein; bloße perspektivische Erscheinungen sichern keine Längengleichheit. Der FSP-Gestaltungskontext bleibt erhalten.",
+      "shared_object_suggestion": "Die paarweise gleiche Länge der jeweils gegenüberliegenden Seiten einer ebenen Figur.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind vergleicht gegenüberliegende Seiten eines Parallelogramms und beschreibt ihre paarweise gleiche Länge auch bei einem nicht rechtwinkligen Parallelogramm.",
+          "criterion": "Die jeweils gegenüberliegenden Seiten werden korrekt einander zugeordnet und als gleich lang beschrieben. Benachbarte Seiten werden nicht allein wegen der Parallelogrammform als gleich lang angenommen. Die Beziehung wird nicht auf Rechtecke beschränkt. Numerische Längen, Winkelgrößen, Rechnungen oder ein allgemeiner geometrischer Beweis werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Vergleichen/Beschreiben187447 und Eigenschaften187449 des Parallelogramms187448 unter Übertragen187446. Die konkrete Eigenschaft ist mathematisch abgeleitet, nicht wörtlich im GS-Zieltext aufgezählt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind vergleicht gegenüberliegende Seiten eines vertrauten Rechtecks als Gestaltungselement und benennt ihre paarweise gleiche Länge.",
+          "criterion": "Jeweils gegenüberliegende Seiten werden richtig zugeordnet und als gleich lang erkannt. Aus der Gleichheit gegenüberliegender Seiten wird nicht geschlossen, dass jedes Rechteck nur gleich lange Seiten hat. Numerische Messwerte, nicht rechtwinklige Parallelogramme, deren Fachbezeichnung und eigenständige Gestaltung einer vollständigen Fantasieform werden nicht zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des Merkmalsvergleichs35525 mit gegenüberliegenden Seiten aus der Bemerkung, unter Gestalten35521. Paarweise Längengleichheit ist das ausgewählte mathematische Merkmal des Rechtecks; kein vollständiger Gestalten-Nachweis."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Längengleichheit gegenüberliegender Rechteckseiten",
+        "detail": "35525 nennt Merkmale von Rechteck und Quadrat, die Bemerkung Messen und Vergleichen gegenüberliegender Seiten. Der gespeicherte Ausschnitt ist ausschließlich qualitatives Vergleichen, ohne Messzahlen oder Rechnungen. Keine numerische Obergrenze belegt oder ergänzt.20/100 aus Zahlzielen und ganze cm aus35516 sind keine Grenzen dieses Figurenmerkmals. Auch GS187448/187449 nennen keinen Zahlenraum.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35524",
+          "Q-MA-page139_35525"
+        ],
+        "planning_rule": "Vorausgesetzt sind vertraute ebene Figuren, das Unterscheiden benachbarter und gegenüberliegender Seiten sowie ein gesicherter qualitativer Längenvergleich. Figuren müssen unverzerrt und als Parallelogramm beziehungsweise Rechteck eindeutig bestimmt sein; bloße perspektivische Erscheinungen sichern keine Längengleichheit. Der FSP-Gestaltungskontext bleibt erhalten. Nur qualitative Seitenlängenbeziehungen beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Einheitenumrechnungen, Winkelgrade, Umfangs- oder Flächenberechnungen Bestandteil des Feinziels. Zahlen-/Messwert-Erweiterungen brauchen eine eigene fachliche Prüfung und einen vorab belegten oder ausdrücklich didaktisch festgelegten Rahmen. Keine FSP-Forderung zum allgemeinen Parallelogramm ergänzen. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen und nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "187446 Hauptziel Übertragen nur Kontext.187447 Zielhandlungen;187448 Parallelogramm und187449 Eigenschaften. Paarweise Längengleichheit ist eine didaktisch ausgewählte mathematische Eigenschaft; weitere Handlungen und Eigenschaften nicht mitgeprüft.",
+        "fsp": "35521 Hauptziel Gestalten;35524 Gestaltungselement-Kontext;35525 Vergleichen/Benennen der Merkmale als Unterziel. Gegenüberliegende Seiten und Messen/Vergleichen stehen in der Bemerkung; nur qualitativer Merkmalsvergleich ausgewählt.",
+        "fsp_remark_anchors": [
+          "page139_35525"
+        ],
+        "context_only_gs_ids": [
+          "page912_187446"
         ]
       }
     }

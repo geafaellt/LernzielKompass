@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-090
+# Mathematik-Abgleich · MA-091
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Vierundneunzig Karten dokumentieren begrenzte Anschlüsse. Siebenundsechzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078 und MA-091 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Fünfundneunzig Karten dokumentieren begrenzte Anschlüsse. Achtundsechzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078 und MA-091 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung im GS3-Block zu weiteren Dreiecks-/Vierecksarten187446 ff. [MA-090](review_batch_090.json) prüft schneiden einander187161 und hält die mögliche eng begrenzte MA-094-Wiederverwendung als Anschlussfrage offen.94 Karten unverändert,23 Anschlussfragen,170 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Zeichnen187450, danach Ergänzen187451 und Fachbegriff187452. [MA-091](review_batch_091.json) ergänzt MA-095: paarweise Längengleichheit gegenüberliegender Seiten, GS-Parallelogramm / FSP-Rechteck.95 Karten,23 Anschlussfragen,170 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -889,3 +889,12 @@ Beide FSP-Bänder geprüft; konkreten stufenpassenden Rechteck-/Winkelbeleg bevo
 GS187161 schneiden einander erstmals gegen beide FSP-Bänder einschließlich übergreifender Ziele geprüft. Rechter Winkel35526 und Rechteckdarstellung35527 sind positive Kandidaten. MA-094 belegt bereits einen gemeinsamen Eckpunkt benachbarter Seiten; seine Reichweite für die zusätzliche GS-Schnittlagenzeile ist aber noch nicht abschließend gesichert. Der GS-Wortlaut nennt weder eine Innenpunktpflicht noch ausdrücklich nicht rechte Schnittwinkel. Deshalb weder einen solchen Ausschluss erfinden noch die Karte ungeprüft erweitern. Muster-, Werkzeug- und Symmetriebelege tragen nicht jede ergänzte Schnittlagenanforderung; Überkreuzen der Körpermittellinie37766 ist ein anderer Gegenstand.
 
 Eine Anschlussfrage neu dokumentiert, kein endgültiger Nichtanschluss und keine Kartenabdeckung gezählt. MA-092/093/094 sowie MA-002/088 erneut abgegrenzt; alle94 Karten, Zahlenraumfelder, Feinziele und App-Dateien bleiben unverändert. Sieben Folgezeilen187446–187452 nur inventarisiert, ohne Erstprüfungsfortschritt. Stand94 Karten(67 passend,27 stufenübergreifend),238 Quellen/236 Zielanker,23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Alle sechs Daten-/Bereichsprüfungen und die Audit-Konsistenzprüfung bestanden. App-Dateien, Modul und alle94 Karten bytegleich zum Ausgangsstand. Keine neue App-Version und kein neuer Browserdurchlauf; die gezielte öffentliche Browserprüfung aus MA-089 bleibt der letzte entsprechende Nachweis. Audit mit Commit 80a37d83a7f372dd11d683f951aed1c597528432 auf main veröffentlicht; [Pages-Lauf 44567574178](https://github.com/geafaellt/LernzielKompass/actions/runs/44567574178) erfolgreich. Die weiterhin ausgelieferte App1.397 stimmt bytegenau überein(SHA256 0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe). Kein neuer Browserdurchlauf.
+
+
+## MA-091 · App 1.400 · 19.11.2026
+
+MA-095 verbindet das GS-Eigenschaftsziel zum Parallelogramm187448/187449 mit dem FSP-Merkmalsvergleich am Rechteck35525. Der gemeinsame Ausschnitt ist die paarweise gleiche Länge gegenüberliegender Seiten; diese konkrete Eigenschaft ist ausdrücklich didaktische Auswahl, kein erfundener GS-Zielwortlaut. GS schließt nicht rechtwinklige Parallelogramme ein, FSP bleibt beim Rechteck als Gestaltungselement. Die Figurenklassen und ihre gesamte Zieldeckung werden nicht gleichgesetzt. Keine Messzahlen, Winkelgrade, Rechnungen oder erfundenen Obergrenzen.
+
+Gegenübergestellt werden ausschließlich Übertragen aus GS187446 und Gestalten aus FSP35521. Vergleichen,Benennen,Beschreiben bleiben Zielhandlungen. Amtliche Definition und GS-Hierarchie im PDF visuell bestätigt; FSP-Definition aus MA-089 und aktuelle HTML-Zeilen abgeglichen. Die inzwischen eingeführte quellengebundene Lernzielebenen-Anzeige wird bewahrt und für MA-095 ergänzt.94 Bestandskarten bleiben unverändert. Drei Zielzeilen im selben einen Teilanschluss erstmals geprüft, keine drei unabhängigen Anschlüsse und keine Vollabdeckung gezählt.95 Karten(68 passend,27 stufenübergreifend),242 Quellen/240 Zielanker,23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Alle sechs Daten-/Bereichsprüfungen bestanden. Lernzielebenen-Anzeige aller408 Karten/816 Seiten mit Quellenbindung und Ausschluss von Zielhandlungen im Browser geprüft. Gezielte Funktionsprüfung MA-004 in GS1/2 und MA-093/094/095 in GS3 erfolgreich; MA-095 zusätzlich320px/390px. Der Planungsoutput zeigt Übertragen/Gestalten, keine Zielhandlungen als Ebenen. Eigene Texte erhalten, Aufgaben/Hilfsmittel leer. Keine UI-Codeänderung; kein vollständiger95-Karten-Funktionslauf behauptet. Veröffentlichung und Liveprüfung ausstehend.
+
+Fortsetzung auf aktuellem main 56318f5: Zwischenzeitliche Deutsch- und Lernzielebenen-Korrekturen bewahrt. Alle sechs Daten-/Bereichsprüfungen, die Lernzielebenen-Prüfung aller408 Karten/816 Seiten und die gezielte Browserprüfung wurden auf diesem Stand erneut bestanden. Veröffentlichung als App 1.400 und Live-Nachweis stehen noch aus.
