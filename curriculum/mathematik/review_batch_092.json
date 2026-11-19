@@ -1,0 +1,343 @@
+{
+  "id": "MA-092",
+  "date": "2026-11-19",
+  "base_commit": "9423fd0f60e4d4385320b0b323807cf73e56925f",
+  "scope": "GS3 Zeichnen verschiedener Vierecke und Dreiecke187450: vollständige Parallelogrammform gegenüber FSP-Rechteckdarstellung.",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "9ceec732895a9b15948d6d0874970577df5a0b8b034bd052b46ccbd223d465dd",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_187446": {
+      "id": "page912_187446",
+      "level": 1,
+      "parent_target_id": "page912_187446",
+      "target": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446"
+    },
+    "page912_187447": {
+      "id": "page912_187447",
+      "level": 2,
+      "parent_target_id": "page912_187446",
+      "target": "Erkennen, Benennen, Beschreiben, Vergleichen und Darstellen",
+      "remarks": "in der Umwelt, Geometriebrett",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187447"
+    },
+    "page912_187448": {
+      "id": "page912_187448",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Parallelogramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187448"
+    },
+    "page912_187449": {
+      "id": "page912_187449",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Eigenschaften",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187449"
+    },
+    "page912_187450": {
+      "id": "page912_187450",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Zeichnen verschiedener Vierecke und Dreiecke",
+      "remarks": "Freihandzeichnung, Lineal, Geometriedreieck Dreiecke mit rechtem Winkel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187450"
+    },
+    "page912_187451": {
+      "id": "page912_187451",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Ergänzen",
+      "remarks": "unvollständige Vierecke, Dreiecke",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187451"
+    },
+    "page912_187452": {
+      "id": "page912_187452",
+      "level": 2,
+      "parent_target_id": "page912_187446",
+      "target": "Verwenden des Fachbegriffs: Parallelogramm",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187452"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35526": {
+      "id": "page139_35526",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Erkennen des rechten Winkels",
+      "remarks": "mit dem Faltwinkel prüfen Quadrat als besonderes Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37982": {
+      "id": "page139_37982",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Freihandzeichnen",
+      "remarks": "Asphalt-, Sand-, Schneemalerei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37982"
+    },
+    "page139_37983": {
+      "id": "page139_37983",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Umgang mit Lineal und Schablone",
+      "remarks": "auf liniertem und unliniertem Papier",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37983"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    }
+  },
+  "source_verification": "Amtliche HTML-Zeilen beider Bänder frisch gelesen. Definition Übertragen und GS-Hierarchie PDF S.V/20 in MA-091, Gestalten und FSP-Hierarchie PDF S.V/22 in MA-089 visuell bestätigt. Kein erneuter PDF-Sichtdurchlauf behauptet.",
+  "learning_level_review": {
+    "new_card_evidence": {
+      "gs": {
+        "evidence": [
+          {
+            "level": "Übertragen",
+            "row_id": "page912_187446",
+            "target": "Übertragen des Wissens über lineare und ebene Figuren auf weitere Dreiecks- und Vierecksarten",
+            "grade": "3",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187446"
+          }
+        ]
+      },
+      "fsp": {
+        "evidence": [
+          {
+            "level": "Gestalten",
+            "row_id": "page139_35521",
+            "target": "Gestalten von Fantasieformen",
+            "grade": "3/4",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+          }
+        ]
+      }
+    },
+    "existing_cards": [
+      "MA-093",
+      "MA-094",
+      "MA-095"
+    ],
+    "finding": "Übertragen187446/Gestalten35521 sind amtliche Ebenen; Zeichnen187450/Darstellen35527 konkrete Handlungen. Bei MA-093/094 bleibt Beherrschen2022, beiMA-095 Übertragen187446. Keine Ebenen aus benachbarten Zielblöcken übernommen."
+  },
+  "new_cards": [
+    "MA-096"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-093",
+    "MA-094",
+    "MA-095"
+  ],
+  "existing_card_review": "MA-093 zeichnet GS-seitig nur ein Paar paralleler Rechteckseiten; MA-094 erkennt FSP-seitig rechte Winkel; MA-095 vergleicht Längen. Diese Ausschnitte decken kein vollständiges Zeichnen eines nicht rechtwinkligen Parallelogramms ab. FSP-Darstellung35527 wird als Quelle wiederverwendet, nicht als neue amtliche Zielzeile gezählt. Alle95 Bestandskarten unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187450",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-096"
+      ],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37981",
+        "page139_37982",
+        "page139_37983",
+        "page139_37984"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 zur vollständigen Vierecksform mit paarweise parallelen gegenüberliegenden Seiten. GS187450 fordert Zeichnen verschiedener Vierecke und Dreiecke unter Übertragen187446. Der ausgewählte GS-Ausschnitt ist ein nicht rechtwinkliges Parallelogramm aus dem Figurenkontext187448; er wahrt den Bezug auf weitere Vierecksarten. FSP35527 fordert Darstellen von Rechtecken und Quadraten unter Gestalten35521 im Gestaltungselement-Kontext35524. Das Rechteck ist ein besonderer Fall eines Parallelogramms, aber keine volle Deckung der allgemeinen GS-Figurenklasse. Die gemeinsamen Formmerkmale sind didaktisch ausgewählte mathematische Eigenschaften der ausdrücklich genannten Figuren, keine zusätzlichen wörtlichen Lehrplanziele. GS-Zeichnen wird nicht mit jeder FSP-Darstellungsform gleichgesetzt. FSP erhält keine Zeichenmethode oder Forderung zu nicht rechtwinkligen Parallelogrammen. Zeichnen und Darstellen sind Zielhandlungen; Übertragen und Gestalten sind die amtlich belegten Lernzielebenen. Die einzelnen Formergebnisse weisen weder das vollständige Übertragen noch das vollständige Gestalten nach. Keine vollständige GS-Zieldeckung.",
+      "stage_decision": "FSP3/4 35527 nennt die konkreten Vierecksformen Rechteck/Quadrat und wird stufenpassend bevorzugt. FSP1/2 37832/37844 betrifft Grundformen und ihre Darstellung, Zeichnen steht ausdrücklich in der Bemerkung. Dies ist ein positiver Darstellungs-/Zeichenbeleg; er wird nicht wegen des Zahlenraums verworfen. Für den gewählten Vierecksausschnitt bietet das stufengleiche Band den konkreteren Figurenbeleg. Freihandzeichnen37982 und Werkzeuggebrauch37983 legen weder Parallelogrammmerkmale noch die gesamte GS-Formenvielfalt fest. Musterziele35535/37984 sind andere Gesamtgegenstände; keine allgemeine Zeichendeckung daraus ableiten. Weitere Dreiecksanschlüsse bleiben im Restumfang ausdrücklich offen.",
+      "prerequisites": "Vorausgesetzt sind vertraute Seiten- und Eckbeziehungen, gerade und geschlossene Figurenbegrenzungen sowie eine qualitative Vorstellung paralleler gegenüberliegender Seiten. GS benötigt zusätzlich den gesicherten Parallelogrammbegriff auch außerhalb des Rechtecksonderfalls; der FSP-Gestaltungskontext bleibt erhalten. Darstellungsqualität anhand der intendierten Figur prüfen; keine amtliche numerische Toleranz erfinden.",
+      "uncertainty": "Die Auswahl nicht rechtwinkliges Parallelogramm ist didaktische Eingrenzung aus187448/187450. Mathematische Formverwandtschaft rechtfertigt einen Teilanschluss, keine Gleichsetzung der Figurenklassen oder Zielhandlungen. Die genaue Darstellungsmethode ist nicht vorgeschrieben.",
+      "remaining_scope": "Andere Vierecksarten, unterschiedliche Dreiecksarten einschließlich des in der GS-Bemerkung genannten rechten Winkels, der vollständige Variationsumfang von verschiedenen Figuren und weitere Genauigkeits-/Verfahrensanforderungen bleiben offen. FSP-Rechteckdarstellung allein belegt kein Zeichnen nicht rechtwinkliger Parallelogramme und kein vollständiges Gestalten."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187450",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Zeichnen verschiedener Vierecke und Dreiecke",
+      "Karten": "",
+      "Prüfstatus": "MA-090: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss oder fachlicher Fortschritt aus fehlender Karte abgeleitet."
+    }
+  ],
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: qualitative Rechteckform ohne numerische Maße",
+    "detail": "35524/35527 nennen Rechtecke als Gestaltungselement und ihre Darstellung; keine numerische Obergrenze ist für den ausgewählten Formausschnitt belegt. Vier Seiten und vier Ecken sind Formmerkmale, kein Zahlenraum bis4. Rechte Winkel werden qualitativ erkannt, ohne Winkelgrade.20/100 aus Zahlzielen und ganze cm aus35516 sind keine Grenzen dieses Figurenblocks. Auch GS187450 nennt keinen Zahlenraum.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35524",
+      "Q-MA-page139_35527"
+    ],
+    "planning_rule": "Vorausgesetzt sind vertraute Seiten- und Eckbeziehungen, gerade und geschlossene Figurenbegrenzungen sowie eine qualitative Vorstellung paralleler gegenüberliegender Seiten. GS benötigt zusätzlich den gesicherten Parallelogrammbegriff auch außerhalb des Rechtecksonderfalls; der FSP-Gestaltungskontext bleibt erhalten. Darstellungsqualität anhand der intendierten Figur prüfen; keine amtliche numerische Toleranz erfinden. Nur qualitative Seiten-, Eck- und Geschlossenheitsmerkmale beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Seitenmaße, Winkelgrade, Umfänge oder Flächenberechnungen Bestandteil des Feinziels. Numerische Erweiterungen brauchen eine eigene fachliche Prüfung und einen belegten oder ausdrücklich didaktisch festgelegten Rahmen. Die Beispiele für Geräte und Darstellungsweisen in beiden Bemerkungsspalten sind keine zusätzlichen Pflichtziele. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen und nicht automatisch validiert."
+  },
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_partially_reviewed_rows": 1,
+    "distinct_connection_scopes": 1,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 96,
+    "same_band_cards": 69,
+    "cross_band_cards": 27,
+    "source_links": 243,
+    "target_anchors": 241,
+    "new_unique_gs_anchors": 1,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 170,
+    "open_connection_questions": 23,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": {
+    "next_id": "page912_187451",
+    "next_step": "Als Nächstes GS3 Ergänzen187451 (Bemerkung: unvollständige Vierecke,Dreiecke) unter Übertragen187446 prüfen, danach eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Figurenkarten prüfen.187450 ist nur für den ausgewählten nicht rechtwinkligen Parallelogrammfall teilweise geprüft; andere Vierecke,Dreiecke und weitere Verfahren bleiben offen.96 Karten(69 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss."
+  },
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "learning_levels_browser": "scripts/check-learning-levels.cjs passed all409 cards/818 sides, source-bound levels and exclusion of injected action text. This is a display/structure regression, not a fresh semantic source re-audit of all409 cards.",
+    "browser_local": "scripts/check-mathematik-live-ma-096.cjs passed MA-004 GS1/2, MA-093/095/096 GS3; scope on card/goals/output, sources, exact goal/criterion adoption, blank task/aid fields, teacher-text preservation, reload/subject isolation. MA-096 mobile320/390; output levels Übertragen/Gestalten separate from actions. Initial console summary named MA-094 instead of MA-095; actual selection log and test filter show MA-095. Summary corrected without changing assertions. No UI code changes; no full96-card functional browser run claimed.",
+    "preservation": {
+      "base_commit": "9423fd0f60e4d4385320b0b323807cf73e56925f",
+      "changed_preexisting_files": [
+        "README.md",
+        "curriculum/learning_levels.json",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/mathematik_module.json",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv",
+        "dist/index.html",
+        "index.html"
+      ],
+      "unchanged_preexisting_files": 286,
+      "old_cards_unchanged": 95,
+      "old_sources_unchanged": 242,
+      "old_learning_level_entries_unchanged": 408,
+      "html_sha256": "0c2d3cd732a7bdefbe861a64fa73536c71b149439062c86dde7bf730f1effd7c",
+      "ui_code_unchanged_except_version_and_data_payloads": true
+    },
+    "browser_live": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.401"
+  }
+}

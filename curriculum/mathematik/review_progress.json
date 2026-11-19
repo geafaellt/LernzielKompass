@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-091",
+  "last_batch": "MA-092",
   "complete": false,
   "counts": {
-    "cards": 95,
+    "cards": 96,
     "cross_band": 27
   },
   "source_plans": {
@@ -3079,10 +3079,23 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187450": {
+      "id": "page912_187450",
+      "level": 3,
+      "parent_target_id": "page912_187446",
+      "target": "Zeichnen verschiedener Vierecke und Dreiecke",
+      "remarks": "Freihandzeichnung, Lineal, Geometriedreieck Dreiecke mit rechtem Winkel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187450",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187450",
-  "next_step": "Als Nächstes GS3 Zeichnen verschiedener Vierecke und Dreiecke187450 unter Übertragen187446 prüfen, danach Ergänzen187451 und die eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Rechteckkarten prüfen; mögliche Spezialfälle ausdrücklich eingrenzen.187447–187449 sind nur für den einen Seitenlängenvergleich MA-095 teilweise geprüft; übrige Handlungen und Eigenschaften bleiben dokumentiert.95 Karten(68 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.400 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich. Gezielte Funktionsprüfung und Lernzielebenen aller408 Karten lokal und live bestanden; Nachweise in MA-091.",
+  "next_id": "page912_187451",
+  "next_step": "Als Nächstes GS3 Ergänzen187451 (Bemerkung: unvollständige Vierecke,Dreiecke) unter Übertragen187446 prüfen, danach eigenständige Fachbegriffsverwendung Parallelogramm187452. Beide FSP-Bänder und bestehende Figurenkarten prüfen.187450 ist nur für den ausgewählten nicht rechtwinkligen Parallelogrammfall teilweise geprüft; andere Vierecke,Dreiecke und weitere Verfahren bleiben offen.96 Karten(69 passend,27 stufenübergreifend),23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3385,7 +3398,7 @@
       "decision": "FSP3/4 Orientierung35563 unter Anwenden35554 mit Bandziel35415 belegt Wege im Einkaufsbereich und wechselnde Sichtweisen, aber nicht für sich das Lesen einer ebenen Wegdarstellung. Der Bauplanbeleg35459 ist positiv und bereits mit MA-084/090 eingegrenzt. Skizzieren35509 im Sachverhaltskontext sowie Probieren35577/Beschreiben35580 unter Kennen35571 betreffen mathematische Lösungsstrategien; sie belegen nicht gleich ausdrücklich das hier gewählte Kennen eines dargestellten Labyrinth-Wegabschnitts. Ihre möglichen Strategieanschlüsse bleiben von diesem Darstellungsanschluss getrennt. FSP1/2 37980 nennt Labyrinthspiele konkret im Pflichtbereich; die ebene Ausführung ist didaktisch ausgewählt.38002 nennt Labyrinth/Wege zusätzlich im Märchen-Wahlbereich unter Einblick gewinnen37997, erfordert aber diesen Kontext und wird nicht mit dem Kennen37980 vermischt.37794 unter Übertragen37779 ist räumliche Orientierung in der Schule, keine allgemeine Kartenkompetenz.37908 nennt Skizzen im Sachaufgabenkontext, keinen allgemeinen Lageplan. Der konkrete1/2-Beleg wird deshalb hier gegenüber einer nur allgemeinen3/4-Orientierungs- oder Strategienennung gewählt; kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_091.json",
+  "last_review_file": "review_batch_092.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4485,6 +4498,12 @@
       "scope": "Andere Eigenschaften einschließlich Winkel-, Diagonal- und Symmetriebeziehungen sowie allgemeine Begründungs-/Beweisverfahren bleiben außerhalb von MA-095; der gewählte Vergleich betrifft nur die paarweise Länge gegenüberliegender Seiten.",
       "status": "offen",
       "review": "MA-091"
+    },
+    {
+      "gs_id": "page912_187450",
+      "scope": "Andere Vierecksarten, unterschiedliche Dreiecksarten einschließlich des in der GS-Bemerkung genannten rechten Winkels, der vollständige Variationsumfang von verschiedenen Figuren und weitere Genauigkeits-/Verfahrensanforderungen bleiben offen. FSP-Rechteckdarstellung allein belegt kein Zeichnen nicht rechtwinkliger Parallelogramme und kein vollständiges Gestalten.",
+      "status": "offen",
+      "review": "MA-092"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4518,7 +4537,7 @@
       "page912_187446"
     ],
     "rows": 170,
-    "note": "MA-091:187447/187448/187449 im gemeinsamen Ausschnitt eines Seitenlängenvergleichs erstmals teilweise geprüft; drei Zeilen, aber nur ein fachlicher Anschluss.187446 nur Hauptzielkontext; keine neue Inventur oder Vollabdeckung.",
+    "note": "MA-092:187450 erstmals im ausgewählten Parallelogramm-Zeichenausschnitt teilweise geprüft; eine Zielzeile und ein Anschluss.187446/187447/187448 nur Kontext dieser neuen Karte, keine erneute Erstprüfung; keine neue Inventur oder Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4913,13 +4932,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-091",
-    "status": "verified",
-    "app_version": "1.400",
-    "app_commit": "e0970acdd83275b2b0009f4a9beaed8f12642782",
-    "pages_run": 44610253325,
-    "live_sha256": "08a49a252104a327e2ed2d91b95422253a48f4a3bd71ddc89260ed09b567ceff",
-    "browser": "MA-004 GS1/2 and MA-093/094/095 GS3 local and live passed; MA-095 mobile320/390 passed. Learning-level display of all408 cards/816 sides passed locally and live, including current DE-112/113 source hierarchy regression. No UI code change; no full95-card functional browser run."
+    "batch": "MA-092",
+    "status": "pending",
+    "app_version": "1.401"
   },
   "latest_audit_publication": {
     "batch": "MA-090",

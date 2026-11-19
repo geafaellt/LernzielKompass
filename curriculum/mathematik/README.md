@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-091
+# Mathematik-Abgleich · MA-092
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Fünfundneunzig Karten dokumentieren begrenzte Anschlüsse. Achtundsechzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078 und MA-091 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Sechsundneunzig Karten dokumentieren begrenzte Anschlüsse. Neunundsechzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078 und MA-091 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei Zeichnen187450, danach Ergänzen187451 und Fachbegriff187452. [MA-091](review_batch_091.json) ergänzt MA-095: paarweise Längengleichheit gegenüberliegender Seiten, GS-Parallelogramm / FSP-Rechteck.95 Karten,23 Anschlussfragen,170 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei Ergänzen187451, danach Fachbegriff187452. [MA-092](review_batch_092.json) ergänzt MA-096: Parallelogramm zeichnen / Rechteck darstellen.96 Karten,23 Anschlussfragen,170 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -900,3 +900,10 @@ Gegenübergestellt werden ausschließlich Übertragen aus GS187446 und Gestalten
 Fortsetzung auf aktuellem main 56318f5: Zwischenzeitliche Deutsch- und Lernzielebenen-Korrekturen bewahrt. Alle sechs Daten-/Bereichsprüfungen, die Lernzielebenen-Prüfung aller408 Karten/816 Seiten und die gezielte Browserprüfung wurden auf diesem Stand erneut bestanden. App 1.400 wurde anschließend veröffentlicht und live bestätigt.
 
 Veröffentlicht mit Commit e0970acdd83275b2b0009f4a9beaed8f12642782; [Pages-Lauf44610253325](https://github.com/geafaellt/LernzielKompass/actions/runs/44610253325) erfolgreich. Live-App1.400 bytegleich(SHA256 08a49a252104a327e2ed2d91b95422253a48f4a3bd71ddc89260ed09b567ceff). Gezielte Kartenprüfung MA-004/093/094/095 einschließlich mobiler MA-095-Darstellung und Lernzielebenen-Prüfung aller408 Karten/816 Seiten auch öffentlich bestanden. Kein vollständiger95-Karten-Funktionslauf behauptet. Fortsetzung bei Zeichnen verschiedener Vierecke und Dreiecke187450;23 Anschlussfragen und übrige Zeilenreste bleiben offen.
+
+
+## MA-092 · App 1.401 · 19.11.2026
+
+Stufenbandpassender Teilanschluss GS3 → FSP3/4 zur vollständigen Vierecksform mit paarweise parallelen gegenüberliegenden Seiten. GS187450 fordert Zeichnen verschiedener Vierecke und Dreiecke unter Übertragen187446. Der ausgewählte GS-Ausschnitt ist ein nicht rechtwinkliges Parallelogramm aus dem Figurenkontext187448; er wahrt den Bezug auf weitere Vierecksarten. FSP35527 fordert Darstellen von Rechtecken und Quadraten unter Gestalten35521 im Gestaltungselement-Kontext35524. Das Rechteck ist ein besonderer Fall eines Parallelogramms, aber keine volle Deckung der allgemeinen GS-Figurenklasse. Die gemeinsamen Formmerkmale sind didaktisch ausgewählte mathematische Eigenschaften der ausdrücklich genannten Figuren, keine zusätzlichen wörtlichen Lehrplanziele. GS-Zeichnen wird nicht mit jeder FSP-Darstellungsform gleichgesetzt. FSP erhält keine Zeichenmethode oder Forderung zu nicht rechtwinkligen Parallelogrammen. Zeichnen und Darstellen sind Zielhandlungen; Übertragen und Gestalten sind die amtlich belegten Lernzielebenen. Die einzelnen Formergebnisse weisen weder das vollständige Übertragen noch das vollständige Gestalten nach. Keine vollständige GS-Zieldeckung.
+
+Beide FSP-Bänder geprüft. Der konkrete stufenpassende Rechteckbeleg wird bevorzugt; der positive Grundformen-/Zeichenbeleg in FSP1/2 bleibt dokumentiert. Keine numerischen Maße oder erfundenen Obergrenzen; vier Seiten/Ecken sind Formmerkmale, kein Zahlenraum. Alle95 Bestandskarten erhalten. Eine Erstprüfung und ein Anschluss, keine neue Inventur oder Vollabdeckung.96 Karten(69 passend,27 stufenübergreifend),243 Quellen/241 Zielanker,23 Anschlussfragen,170 Inventurzeilen,7 Nichtanschlussentscheidungen. Fortsetzung bei187451; weitere Vierecke,Dreiecke und Verfahren aus187450 bleiben offen. Alle sechs Daten-/Bereichsprüfungen bestanden. Lernzielebenen-Anzeige aller409 Karten/818 Seiten als Struktur-/Darstellungsprüfung bestanden; keine neue fachliche Einzelprüfung aller409 Karten behauptet. Gezielte Browserprüfung MA-004 in GS1/2 und MA-093/095/096 in GS3 bestanden, MA-096 zusätzlich320px/390px. Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar; Aufgaben/Hilfsmittel leer, eigene Texte erhalten. Keine UI-Codeänderung; kein vollständiger96-Karten-Funktionslauf. Veröffentlichung und Liveprüfung ausstehend.

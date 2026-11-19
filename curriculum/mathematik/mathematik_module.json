@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.5",
+  "version": "MA-2026-11-19.6",
   "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1561,6 +1561,12 @@
       "id": "Q-MA-page912_187449",
       "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187449",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187450",
+      "title": "GS Mathematik3 · Lernbereich1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187450",
       "version": "2026"
     }
   ],
@@ -9249,6 +9255,90 @@
         ],
         "context_only_gs_ids": [
           "page912_187446"
+        ]
+      }
+    },
+    {
+      "id": "MA-096",
+      "subject": "Mathematik",
+      "theme": "Parallelogramm zeichnen und Rechteck darstellen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · vollständige Vierecksform · unterschiedliche Figurenklassen",
+      "gs_anchor": "GS Mathematik Kl.3 · Lernbereich1: Raum und Form · Zeichnen verschiedener Vierecke und Dreiecke187450 unter Übertragen187446; ausgewählt: nicht rechtwinkliges Parallelogramm aus187448",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lernbereich4: Wünsche, Träume, Fantasie · Darstellen von Rechtecken und Quadraten35527 im Gestaltungselement-Kontext35524 unter Gestalten35521",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Gestalten",
+      "operator_relation": "Lernzielebenen: GS Übertragen · FSP Gestalten. Stufenbandpassender Teilanschluss GS3 → FSP3/4 zur vollständigen Vierecksform mit paarweise parallelen gegenüberliegenden Seiten. GS187450 fordert Zeichnen verschiedener Vierecke und Dreiecke unter Übertragen187446. Der ausgewählte GS-Ausschnitt ist ein nicht rechtwinkliges Parallelogramm aus dem Figurenkontext187448; er wahrt den Bezug auf weitere Vierecksarten. FSP35527 fordert Darstellen von Rechtecken und Quadraten unter Gestalten35521 im Gestaltungselement-Kontext35524. Das Rechteck ist ein besonderer Fall eines Parallelogramms, aber keine volle Deckung der allgemeinen GS-Figurenklasse. Die gemeinsamen Formmerkmale sind didaktisch ausgewählte mathematische Eigenschaften der ausdrücklich genannten Figuren, keine zusätzlichen wörtlichen Lehrplanziele. GS-Zeichnen wird nicht mit jeder FSP-Darstellungsform gleichgesetzt. FSP erhält keine Zeichenmethode oder Forderung zu nicht rechtwinkligen Parallelogrammen. Zeichnen und Darstellen sind Zielhandlungen; Übertragen und Gestalten sind die amtlich belegten Lernzielebenen. Die einzelnen Formergebnisse weisen weder das vollständige Übertragen noch das vollständige Gestalten nach. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_187446",
+        "page912_187447",
+        "page912_187448",
+        "page912_187450"
+      ],
+      "fsp_target_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35527"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187446",
+        "Q-MA-page912_187447",
+        "Q-MA-page912_187448",
+        "Q-MA-page912_187450",
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35524",
+        "Q-MA-page139_35527"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 zur vollständigen Vierecksform mit paarweise parallelen gegenüberliegenden Seiten. GS187450 fordert Zeichnen verschiedener Vierecke und Dreiecke unter Übertragen187446. Der ausgewählte GS-Ausschnitt ist ein nicht rechtwinkliges Parallelogramm aus dem Figurenkontext187448; er wahrt den Bezug auf weitere Vierecksarten. FSP35527 fordert Darstellen von Rechtecken und Quadraten unter Gestalten35521 im Gestaltungselement-Kontext35524. Das Rechteck ist ein besonderer Fall eines Parallelogramms, aber keine volle Deckung der allgemeinen GS-Figurenklasse. Die gemeinsamen Formmerkmale sind didaktisch ausgewählte mathematische Eigenschaften der ausdrücklich genannten Figuren, keine zusätzlichen wörtlichen Lehrplanziele. GS-Zeichnen wird nicht mit jeder FSP-Darstellungsform gleichgesetzt. FSP erhält keine Zeichenmethode oder Forderung zu nicht rechtwinkligen Parallelogrammen. Zeichnen und Darstellen sind Zielhandlungen; Übertragen und Gestalten sind die amtlich belegten Lernzielebenen. Die einzelnen Formergebnisse weisen weder das vollständige Übertragen noch das vollständige Gestalten nach. Keine vollständige GS-Zieldeckung. Vorausgesetzt sind vertraute Seiten- und Eckbeziehungen, gerade und geschlossene Figurenbegrenzungen sowie eine qualitative Vorstellung paralleler gegenüberliegender Seiten. GS benötigt zusätzlich den gesicherten Parallelogrammbegriff auch außerhalb des Rechtecksonderfalls; der FSP-Gestaltungskontext bleibt erhalten. Darstellungsqualität anhand der intendierten Figur prüfen; keine amtliche numerische Toleranz erfinden. Rest: Andere Vierecksarten, unterschiedliche Dreiecksarten einschließlich des in der GS-Bemerkung genannten rechten Winkels, der vollständige Variationsumfang von verschiedenen Figuren und weitere Genauigkeits-/Verfahrensanforderungen bleiben offen. FSP-Rechteckdarstellung allein belegt kein Zeichnen nicht rechtwinkliger Parallelogramme und kein vollständiges Gestalten.",
+      "shared_object_suggestion": "Die geschlossene Vierecksform mit zwei Paaren paralleler gegenüberliegender Seiten.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zeichnet ein nicht rechtwinkliges Parallelogramm als geschlossene Vierecksform mit paarweise parallelen gegenüberliegenden Seiten.",
+          "criterion": "Die Zeichnung zeigt vier gerade Seiten, vier Ecken und eine geschlossene, nicht selbst überschneidende Begrenzung. Jeweils gegenüberliegende Seiten verlaufen parallel; die Figur ist kein Rechteck. Seitenlängen, Winkelgrade, eine bestimmte Zeichenmethode oder ein geometrischer Beweis werden nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Zeichnen187450 im Parallelogrammkontext187448 unter Übertragen187446; ein ausgewählter weiterer Vierecksfall, keine vollständige Deckung verschiedener Vierecke und Dreiecke."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt ein vertrautes Rechteck als Gestaltungselement mit geschlossener Begrenzung und seinen charakteristischen Seiten- und Eckbeziehungen dar.",
+          "criterion": "Die Darstellung zeigt vier gerade Seiten und vier rechte Ecken mit geschlossener, nicht selbst überschneidender Begrenzung. Gegenüberliegende Seiten verlaufen parallel. Die Formmerkmale sind didaktisch abgeleitete Qualitätskriterien der Rechteckdarstellung. Keine bestimmte Darstellungsweise, keine nicht rechtwinkligen Parallelogramme, keine numerischen Maße und keine selbstständige Gestaltung einer vollständigen Fantasieform werden zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des ausdrücklichen Darstellungsziels35527 unter Gestalten35521. Formmerkmale mathematisch aus Rechteck abgeleitet; keine Gleichsetzung von Darstellen und GS-Zeichnen."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Rechteckform ohne numerische Maße",
+        "detail": "35524/35527 nennen Rechtecke als Gestaltungselement und ihre Darstellung; keine numerische Obergrenze ist für den ausgewählten Formausschnitt belegt. Vier Seiten und vier Ecken sind Formmerkmale, kein Zahlenraum bis4. Rechte Winkel werden qualitativ erkannt, ohne Winkelgrade.20/100 aus Zahlzielen und ganze cm aus35516 sind keine Grenzen dieses Figurenblocks. Auch GS187450 nennt keinen Zahlenraum.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35524",
+          "Q-MA-page139_35527"
+        ],
+        "planning_rule": "Vorausgesetzt sind vertraute Seiten- und Eckbeziehungen, gerade und geschlossene Figurenbegrenzungen sowie eine qualitative Vorstellung paralleler gegenüberliegender Seiten. GS benötigt zusätzlich den gesicherten Parallelogrammbegriff auch außerhalb des Rechtecksonderfalls; der FSP-Gestaltungskontext bleibt erhalten. Darstellungsqualität anhand der intendierten Figur prüfen; keine amtliche numerische Toleranz erfinden. Nur qualitative Seiten-, Eck- und Geschlossenheitsmerkmale beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Seitenmaße, Winkelgrade, Umfänge oder Flächenberechnungen Bestandteil des Feinziels. Numerische Erweiterungen brauchen eine eigene fachliche Prüfung und einen belegten oder ausdrücklich didaktisch festgelegten Rahmen. Die Beispiele für Geräte und Darstellungsweisen in beiden Bemerkungsspalten sind keine zusätzlichen Pflichtziele. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte sind gesondert fachlich zu prüfen und nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "187446 Hauptziel Übertragen;187447 allgemeine Zielhandlungen und187448 Figurenkontext. Nur187450 wird neu teilweise zugeordnet. Freihandzeichnung, Geräte und Dreiecke mit rechtem Winkel stehen in der Bemerkung187450; keine automatische Aufgaben-/Hilfsmittelbefüllung.",
+        "fsp": "35521 Hauptziel Gestalten;35524 Gestaltungselement-Kontext;35527 ausdrücklich Darstellen von Rechtecken und Quadraten. Die Bemerkung enthält Beispiele; die konkrete Darstellungsweise bleibt Lehrkraftentscheidung.",
+        "context_only_gs_ids": [
+          "page912_187446",
+          "page912_187447",
+          "page912_187448"
+        ],
+        "gs_remark_anchors": [
+          "page912_187450"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35527"
         ]
       }
     }
