@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.2",
+  "version": "MA-2026-11-19.3",
   "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1484,6 +1484,18 @@
       "title": "FSP Mathematik 1/2 · Lernbereich 4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37980",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_2022",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2022",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2023",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2023",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -8844,6 +8856,87 @@
         "source_id": "Q-MA-page139_37980",
         "basis": "main_target_with_remark",
         "remark_excerpt": "Labyrinthspiele"
+      }
+    },
+    {
+      "id": "MA-092",
+      "subject": "Mathematik",
+      "theme": "Strecken in ganzen Zentimetern zeichnen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · ganze Zentimeter · Zahlenbereich vorab festlegen",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Zeichnen von Geraden und Strecken2023 unter Beherrschen2022; ausgewählt: eine Strecke",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 3: Natur entdecken und erleben · Zeichnen von Strecken in ganzen cm mit Punktbegrenzung35516 unter Übertragen35511; Längenkontext35514 und Zentimeter35515",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS: Beherrschen · FSP: Übertragen. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: eine durch zwei Punkte begrenzte Strecke mit vorgegebener Länge in ganzen Zentimetern zeichnen. GS-Beherrschen stammt aus2022, FSP-Übertragen aus35511; die Zielhandlungen Zeichnen stehen in2023 bzw.35516. Ganze cm und Punktbegrenzung sind im FSP-Zieltext ausdrücklich belegt. Der Umweltbezug des FSP-Hauptziels bleibt erhalten. Die Auswahl einer einzelnen Strecke mit bekannter Längenangabe ist didaktische Konkretisierung. GS2023 nennt Millimetergenauigkeit, Sorgfalt und Zeichengeräte in der Bemerkung; daraus wird weder eine zusätzliche FSP-Millimeterforderung noch eine automatische Hilfsmittelwahl. Die FSP-Bemerkung35516 nennt Gitternetzlinie und Lineal, keine eigene Lernzielebene. Keine numerische Obergrenze in den beiden Zeichenzeilen belegt; Zahlenbereich vorab festlegen. Die Einheitenbeziehung1m=100cm und das übergreifende FSP-Zahlziel bis100 sind keine Höchstlänge. Geraden, gezielte Lagebeziehungen parallel/senkrecht/schneidend und die vollständige GS-Genauigkeitsforderung sind nicht abgedeckt. Keine vollständige GS-Zieldeckung.",
+      "gs_target_ids": [
+        "page912_2022",
+        "page912_2023"
+      ],
+      "fsp_target_ids": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35516"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2022",
+        "Q-MA-page912_2023",
+        "Q-MA-page139_35511",
+        "Q-MA-page139_35514",
+        "Q-MA-page139_35515",
+        "Q-MA-page139_35516"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: eine durch zwei Punkte begrenzte Strecke mit vorgegebener Länge in ganzen Zentimetern zeichnen. GS-Beherrschen stammt aus2022, FSP-Übertragen aus35511; die Zielhandlungen Zeichnen stehen in2023 bzw.35516. Ganze cm und Punktbegrenzung sind im FSP-Zieltext ausdrücklich belegt. Der Umweltbezug des FSP-Hauptziels bleibt erhalten. Die Auswahl einer einzelnen Strecke mit bekannter Längenangabe ist didaktische Konkretisierung. GS2023 nennt Millimetergenauigkeit, Sorgfalt und Zeichengeräte in der Bemerkung; daraus wird weder eine zusätzliche FSP-Millimeterforderung noch eine automatische Hilfsmittelwahl. Die FSP-Bemerkung35516 nennt Gitternetzlinie und Lineal, keine eigene Lernzielebene. Keine numerische Obergrenze in den beiden Zeichenzeilen belegt; Zahlenbereich vorab festlegen. Die Einheitenbeziehung1m=100cm und das übergreifende FSP-Zahlziel bis100 sind keine Höchstlänge. Geraden, gezielte Lagebeziehungen parallel/senkrecht/schneidend und die vollständige GS-Genauigkeitsforderung sind nicht abgedeckt. Keine vollständige GS-Zieldeckung. Vorausgesetzt sind die Unterscheidung von Strecke und unbegrenzter Gerade, bekannte Punktbegrenzung, vertraute Zentimeterangaben und ein verständlicher Umweltbezug. Vorab Zahlenbereich und überprüfbare Zeichengenauigkeit festlegen; keine amtliche FSP-Toleranz erfinden.",
+      "shared_object_suggestion": "Eine durch zwei Punkte begrenzte gerade Verbindung und ihre Länge in ganzen Zentimetern.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind stellt eine Strecke mit vorgegebener Länge in ganzen Zentimetern im vorab festgelegten Zahlenraum als Zeichnung mit zwei begrenzenden Punkten dar.",
+          "criterion": "Die Verbindung zwischen den beiden Endpunkten ist gerade und entspricht der vorgegebenen Länge innerhalb der vorher festgelegten Zeichengenauigkeit. Längenangabe, gezeichnete Länge und relevante Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Ganze Zentimeter sind der didaktisch gewählte Ausschnitt; die GS-Bemerkung Millimetergenauigkeit bleibt darüber hinaus zu berücksichtigen. Keine Umrechnung, Längenrechnung oder bestimmte Lage zu einer zweiten Linie wird verlangt.",
+          "status": "Didaktische Konkretisierung des Zeichnens2023 unter Beherrschen2022. Eine Einzelstrecke in ganzen cm deckt weder Geraden noch sämtliche Lage- und Genauigkeitsanforderungen ab."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt im vertrauten Umweltbezug eine Strecke mit vorgegebener Länge in ganzen Zentimetern im vorab festgelegten Zahlenraum als Zeichnung mit zwei begrenzenden Punkten dar.",
+          "criterion": "Die gerade Verbindung hat zwei begrenzende Punkte; ihre Länge entspricht der vorgegebenen ganzen Zentimeterangabe innerhalb der vorab didaktisch festgelegten Zeichengenauigkeit. Alle Längenangaben und relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Keine Dezimalzentimeter, Millimeterangaben, Umrechnungen, Längenrechnungen oder bestimmte Lage zu einer zweiten Linie werden zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung des Zeichenanteils35516 unter Übertragen35511. Ganze cm und Punktbegrenzung sind Zieltext; vorgegebene Einzelstrecke und überprüfbare Genauigkeit sind didaktische Auswahl, keine erfundene amtliche Toleranz.",
+          "scope_status": "unspecified"
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Ganze Zentimeter · Punktbegrenzung · Zahlenbereich und Zeichengenauigkeit vorab festlegen",
+        "detail": "FSP35516 belegt Zeichnen in ganzen cm und Begrenzung durch Punkte, aber keine numerische Höchstlänge.35515 nennt1m=100cm als Einheitenbeziehung, nicht als Obergrenze. Das übergreifende Zahlziel bis100 wird nicht als Zeichengrenze übernommen. Auch GS2023 nennt keine eigene numerische Obergrenze; Millimetergenauigkeit ist dort eine Bemerkung und keine FSP-Zielvorgabe.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35515",
+          "Q-MA-page139_35516"
+        ],
+        "planning_rule": "Vorausgesetzt sind die Unterscheidung von Strecke und unbegrenzter Gerade, bekannte Punktbegrenzung, vertraute Zentimeterangaben und ein verständlicher Umweltbezug. Vorab Zahlenbereich und überprüfbare Zeichengenauigkeit festlegen; keine amtliche FSP-Toleranz erfinden. Alle positiven Streckenlängen, Längenvorgaben und relevanten Zwischen- und Endwerte müssen im vorab festgelegten Zahlenraum liegen und in ganzen Zentimetern darstellbar sein. Keine erfundene100cm-/1m-Grenze; keine Dezimalzentimeter, zusätzlichen Millimeterangaben, Umrechnung oder Längenrechnung. Eine bestimmte Lagebeziehung zu einer zweiten Geraden oder Strecke ist nicht Bestandteil dieses Feinziels. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft. Eigene Freitexte und numerische Erweiterungen sind gesondert fachlich zu prüfen, nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "2022 Hauptziel Beherrschen nur Kontext;2023 Unterziel Zeichnen. Genauigkeit/Sorgfalt/Millimetergenauigkeit und Zeichengeräte stehen in der Bemerkung.187159–187161 sind gesonderte Unterziele zu Lagebeziehungen und durch diese Einzelstreckenkarte nicht abgedeckt.",
+        "fsp": "35511 Hauptziel Übertragen,35514 Längenkontext,35515 Einheit und Einheitenbeziehung,35516 Zeichnen und Messen in ganzen cm mit Punktbegrenzung. Nur Zeichenanteil ausgewählt; MA-064 bleibt beim Messen. Gitternetzlinie und Lineal aus Bemerkung35516 bleiben Quellenkontext, keine vorbefüllte Lehrkraftentscheidung.",
+        "gs_remark_anchors": [
+          "page912_2023"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35515",
+          "page139_35516"
+        ],
+        "context_only_gs_ids": [
+          "page912_2022"
+        ]
       }
     }
   ]

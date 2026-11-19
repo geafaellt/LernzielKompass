@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-087",
+  "last_batch": "MA-088",
   "complete": false,
   "counts": {
-    "cards": 91,
+    "cards": 92,
     "cross_band": 27
   },
   "source_plans": {
@@ -2910,10 +2910,36 @@
       "version": "2019",
       "target": "Kennen von Spielhandlungen mit mathematischen Inhalten",
       "remarks": "Würfel-, Domino-, Karten-, Labyrinthspiele Memory, Puzzle, Bausteine"
+    },
+    "page912_2022": {
+      "id": "page912_2022",
+      "level": 1,
+      "parent_target_id": "page912_2022",
+      "target": "Beherrschen des Zeichnens linearer und ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2022",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "Beherrschen",
+      "version": "2026"
+    },
+    "page912_2023": {
+      "id": "page912_2023",
+      "level": 2,
+      "parent_target_id": "page912_2022",
+      "target": "Zeichnen von Geraden und Strecken",
+      "remarks": "Genauigkeit, Sorgfalt, Millimetergenauigkeit Zeichengeräte Lineal, Geometriedreieck ➔ WE, Kl. 3, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2023",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_2023",
-  "next_step": "Als Nächstes GS3 Zeichnen von Geraden und Strecken2023 unter Beherrschen2022 mit parallel187159,senkrecht187160 und schneiden187161 prüfen. Die fünf Zeilen sind nur inventarisiert, noch ohne Einzelentscheidung. Beide FSP-Bänder prüfen; Lagebeziehungen, Zeichenverfahren und Maß-/Genauigkeitsanforderungen getrennt behandeln.187152 hat nun den zusätzlichen begrenzten Labyrinth-Wegabschnitt MA-091; weitere Wegpläne, Ansichten und bisherige Restumfänge bleiben dokumentiert.91 Karten (64 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.394 veröffentlicht und live geprüft; Nachweise in MA-087.",
+  "next_id": "page912_187159",
+  "next_step": "Als Nächstes die GS3-Lagebeziehungen parallel187159,senkrecht187160 und schneiden187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen. FSP3/4 Rechteck-/Quadratdarstellung35527, rechter Winkel35526 und Muster35535 sind positive Kandidaten, aber noch kein gesicherter Beleg für die gesamte gerichtete Zeichenanforderung. Beide FSP-Bänder und bestehende Karten prüfen; FSP5/6-Lagebeziehungen38367 nicht vorziehen. Danach GS187446 ff.92 Karten(65 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3216,7 +3242,7 @@
       "decision": "FSP3/4 Orientierung35563 unter Anwenden35554 mit Bandziel35415 belegt Wege im Einkaufsbereich und wechselnde Sichtweisen, aber nicht für sich das Lesen einer ebenen Wegdarstellung. Der Bauplanbeleg35459 ist positiv und bereits mit MA-084/090 eingegrenzt. Skizzieren35509 im Sachverhaltskontext sowie Probieren35577/Beschreiben35580 unter Kennen35571 betreffen mathematische Lösungsstrategien; sie belegen nicht gleich ausdrücklich das hier gewählte Kennen eines dargestellten Labyrinth-Wegabschnitts. Ihre möglichen Strategieanschlüsse bleiben von diesem Darstellungsanschluss getrennt. FSP1/2 37980 nennt Labyrinthspiele konkret im Pflichtbereich; die ebene Ausführung ist didaktisch ausgewählt.38002 nennt Labyrinth/Wege zusätzlich im Märchen-Wahlbereich unter Einblick gewinnen37997, erfordert aber diesen Kontext und wird nicht mit dem Kennen37980 vermischt.37794 unter Übertragen37779 ist räumliche Orientierung in der Schule, keine allgemeine Kartenkompetenz.37908 nennt Skizzen im Sachaufgabenkontext, keinen allgemeinen Lageplan. Der konkrete1/2-Beleg wird deshalb hier gegenüber einer nur allgemeinen3/4-Orientierungs- oder Strategienennung gewählt; kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_087.json",
+  "last_review_file": "review_batch_088.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4242,6 +4268,12 @@
       "scope": "MA-088 trägt nur das Erkennen einer spiegelgleichen Struktur in der festgelegten Vorderansicht an bekannter Mittellinie. Andere Wiederholungs-, Reihen-, Gitter- und Schichtstrukturen, Tiefenbeziehungen und Symmetrieebenen des Körpers, andere Ansichten/Perspektivwechsel, Achsensuche, das Herstellen symmetrischer Bauten und numerische Musterbeziehungen bleiben offen. FSP1/2 Gegenstandsreihung38016 bleibt positiver Kandidat für andere Teilstrukturen, kein begründeter Nichtanschluss.",
       "status": "offen",
       "review": "MA-084"
+    },
+    {
+      "gs_id": "page912_2023",
+      "scope": "MA-092 deckt nur eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. Zeichnen unbegrenzter Geraden, die gezielten Beziehungen parallel187159/senkrecht187160/schneidend187161 sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Ein Zentimeter als Längeneinheit legt keine Mess- oder Zeichentoleranz fest; FSP-Toleranz nicht aus GS übernehmen.",
+      "status": "offen",
+      "review": "MA-088"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4274,7 +4306,7 @@
       "page912_2022"
     ],
     "rows": 163,
-    "note": "GS3 Folgeblock2022 mit2023 und187159–187161 als fünf offene Inventurzeilen ergänzt; keine Erstprüfung oder Deckung gezählt.187152 erneut geprüft und um einen engen Labyrinthanschluss erweitert, konkrete Anschlussfrage entschieden; übriger Rest nicht als Vollabdeckung gewertet.",
+    "note": "MA-088: eine bisher offene Unterzielzeile2023 erstmals begrenzt geprüft,2022 nur Hauptzielkontext. Keine neuen Inventurzeilen und keine Vollabdeckung.187159–187161 bleiben offen.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4612,6 +4644,17 @@
         "MA-090"
       ],
       "note": "Qualitativer Labyrinth-Wegabschnitt ohne numerische Werte. Keine20/100-Grenze erfunden. Bestehende Perspektiv-, Symmetrie- und Bauplankarten behalten ihre jeweilige Reichweite; alle90 Bestandskarten unverändert."
+    },
+    "follow_up_segment_drawing": {
+      "batch": "MA-088",
+      "cards": {
+        "MA-092": "unspecified"
+      },
+      "existing_rechecked": [
+        "MA-064",
+        "MA-067"
+      ],
+      "note": "Keine numerische Höchstlänge oder amtliche FSP-Zeichentoleranz belegt. Ganze cm und Punktbegrenzung verbindlich; Zahlenbereich und Genauigkeit vorab festlegen. Messkarte064 und Summenkarte067 unverändert."
     }
   },
   "publication_recheck": {
@@ -4632,13 +4675,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-087",
-    "status": "verified",
-    "app_version": "1.394",
-    "app_commit": "72f3da4f320761c71800036d3c9558157e36c90c",
-    "pages_run": 44522701262,
-    "live_sha256": "0143b36421a95f270b7b35e6e53aaf047d9ca61a0847aee7aa0dbce16f2b4211",
-    "browser": "MA-001 GS1/2 and MA-083/084/088/090/091 GS3 local and live; MA-091 mobile320/390 passed. No UI code change; no full91-card browser run."
+    "batch": "MA-088",
+    "status": "pending",
+    "app_version": "1.396"
   },
   "latest_audit_publication": {
     "batch": "MA-079",

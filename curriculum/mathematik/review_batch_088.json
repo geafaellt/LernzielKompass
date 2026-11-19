@@ -1,0 +1,361 @@
+{
+  "id": "MA-088",
+  "date": "2026-11-19",
+  "base_commit": "751e8dfc92e2cd1cfce53b9c4c653fba7c5cb1a0",
+  "scope": "GS3 Zeichnen2023: punktbegrenzte Einzelstrecke in ganzen cm. Lagebeziehungen187159–187161 bleiben nächste Einzelprüfung.",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2022": {
+      "id": "page912_2022",
+      "level": 1,
+      "parent_target_id": "page912_2022",
+      "target": "Beherrschen des Zeichnens linearer und ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2022"
+    },
+    "page912_2023": {
+      "id": "page912_2023",
+      "level": 2,
+      "parent_target_id": "page912_2022",
+      "target": "Zeichnen von Geraden und Strecken",
+      "remarks": "Genauigkeit, Sorgfalt, Millimetergenauigkeit Zeichengeräte Lineal, Geometriedreieck ➔ WE, Kl. 3, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2023"
+    },
+    "page139_35511": {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511"
+    },
+    "page139_35514": {
+      "id": "page139_35514",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Schätzen, Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Schaffen von Größenvorstellungen Experimentieren mit Körpermaßen, Stock- und Bandlänge Meter- und Zentimeterangabe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514"
+    },
+    "page139_35515": {
+      "id": "page139_35515",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Einheit Zentimeter (cm), Beziehung: 1 m = 100 cm",
+      "remarks": "typische Repräsentanten: Daumenbreite, Fingerspanne, Schrittlänge, Armlänge, Handspanne sachgerechte Handhabung von Messgeräten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515"
+    },
+    "page139_35516": {
+      "id": "page139_35516",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Zeichnen und Messen von Strecken in ganzen cm, Begrenzung durch Punkte",
+      "remarks": "Zeichen in Gitternetzlinie und mit Lineal ➔ WE, Kl. 3/4, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35516"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35526": {
+      "id": "page139_35526",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Erkennen des rechten Winkels",
+      "remarks": "mit dem Faltwinkel prüfen Quadrat als besonderes Rechteck",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35526"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_37961": {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961"
+    },
+    "page139_37962": {
+      "id": "page139_37962",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "lineare Figuren, Gerade",
+      "remarks": "Entdecken von gekrümmten und geraden Linien an Pflanzen, Wegen, Gleisen, Leitungen, Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37962"
+    },
+    "page139_37967": {
+      "id": "page139_37967",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Experimentieren mit körpereigenen und willkürlichen Einheiten mit Schritt-, Seil-, Stocklänge länger, kürzer, gleich lang Längen mit Meterangabe erste Erfahrungen im Schätzen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967"
+    },
+    "page139_37974": {
+      "id": "page139_37974",
+      "level": 3,
+      "parent_target_id": "page139_37961",
+      "target": "Maßeinheit Meter (m)",
+      "remarks": "Größenvorstellungen typische Repräsentanten (Tafellineal) Handhabung eines Maßbandes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37982": {
+      "id": "page139_37982",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Freihandzeichnen",
+      "remarks": "Asphalt-, Sand-, Schneemalerei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37982"
+    },
+    "page912_187159": {
+      "id": "page912_187159",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "parallel zueinander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187159"
+    },
+    "page912_187160": {
+      "id": "page912_187160",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "senkrecht zueinander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187160"
+    },
+    "page912_187161": {
+      "id": "page912_187161",
+      "level": 3,
+      "parent_target_id": "page912_2022",
+      "target": "schneiden einander",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187161"
+    },
+    "page139_38367": {
+      "id": "page139_38367",
+      "level": 3,
+      "parent_target_id": "page139_38341",
+      "target": "Lagebeziehungen von Geraden: parallel zueinander, senkrecht aufeinander",
+      "remarks": "g ∥ h , g ⊥ h , lotrecht",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38367"
+    }
+  },
+  "source_verification": "Amtliche HTML-Fassungen912 und139 am19.11.2026 frisch abgerufen; Zieltexte, Bemerkungsspalte und Hierarchie separat gelesen. Vorhandene FSP-Zeilen35511/35514/35515/35516 gegen gespeicherte Anker bestätigt. Keine neue PDF-Sichtprüfung in diesem Lauf.",
+  "new_cards": [
+    "MA-092"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-064",
+    "MA-067"
+  ],
+  "existing_card_review": "MA-064 ist Messanteil35516 in GS1/2; eine Zeichenanforderung würde ihren Gegenstand ändern. MA-067 ist Addition von Längen im Meterkontext, keine Zeichenkarte. Beide einschließlich ihrer unterschiedlichen Geltungsbereiche unverändert bestätigt. Alle91 Bestandskarten unverändert bewahrt.",
+  "decisions": [
+    {
+      "gs_id": "page912_2023",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-092"
+      ],
+      "same_band_candidates": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35516",
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35526",
+        "page139_35527",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37961",
+        "page139_37962",
+        "page139_37967",
+        "page139_37974",
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37981",
+        "page139_37982"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: eine durch zwei Punkte begrenzte Strecke mit vorgegebener Länge in ganzen Zentimetern zeichnen. GS-Beherrschen stammt aus2022, FSP-Übertragen aus35511; die Zielhandlungen Zeichnen stehen in2023 bzw.35516. Ganze cm und Punktbegrenzung sind im FSP-Zieltext ausdrücklich belegt. Der Umweltbezug des FSP-Hauptziels bleibt erhalten. Die Auswahl einer einzelnen Strecke mit bekannter Längenangabe ist didaktische Konkretisierung. GS2023 nennt Millimetergenauigkeit, Sorgfalt und Zeichengeräte in der Bemerkung; daraus wird weder eine zusätzliche FSP-Millimeterforderung noch eine automatische Hilfsmittelwahl. Die FSP-Bemerkung35516 nennt Gitternetzlinie und Lineal, keine eigene Lernzielebene. Keine numerische Obergrenze in den beiden Zeichenzeilen belegt; Zahlenbereich vorab festlegen. Die Einheitenbeziehung1m=100cm und das übergreifende FSP-Zahlziel bis100 sind keine Höchstlänge. Geraden, gezielte Lagebeziehungen parallel/senkrecht/schneidend und die vollständige GS-Genauigkeitsforderung sind nicht abgedeckt. Keine vollständige GS-Zieldeckung.",
+      "stage_decision": "FSP3/4 35516 nennt Zeichnen ausdrücklich mit ganzen cm und Punktbegrenzung. FSP1/2 37962 betrifft lineare Figuren/Gerade im Naturkontext; das Entdecken gerader Linien in der Bemerkung ist kein gleich ausdrückliches maßbezogenes Zeichenziel.37844 nennt Zeichnen als Darstellungsbeispiel für ebene Figuren/Muster,37982 Freihandzeichnen unter Gestalten. Positive verwandte Inhalte, aber keine gleich konkrete Verbindung von Maß, Strecke und Begrenzung. Stufenpassenden Beleg35516 bevorzugt; keine Ablehnung wegen kleinerer Zahlenräume. Rechteck-/Winkel-/Musterziele3/4 bleiben für folgende Lagebeziehungen relevant und werden nicht pauschal als Nichtanschluss bewertet.",
+      "prerequisites": "Vorausgesetzt sind die Unterscheidung von Strecke und unbegrenzter Gerade, bekannte Punktbegrenzung, vertraute Zentimeterangaben und ein verständlicher Umweltbezug. Vorab Zahlenbereich und überprüfbare Zeichengenauigkeit festlegen; keine amtliche FSP-Toleranz erfinden.",
+      "uncertainty": "Keine FSP-Höchstlänge oder numerische Zeichentoleranz ausgewiesen; die FSP-cm-Längenangabe begründet weder1cm-Toleranz noch dieselbe Millimetergenauigkeit wie die GS-Bemerkung.",
+      "remaining_scope": "MA-092 deckt nur eine in ganzen Zentimetern bestimmte, punktbegrenzte Einzelstrecke. Zeichnen unbegrenzter Geraden, die gezielten Beziehungen parallel187159/senkrecht187160/schneidend187161 sowie weitere Längen-/Genauigkeitsansprüche einschließlich der GS-Bemerkung Millimetergenauigkeit bleiben offen. Ein Zentimeter als Längeneinheit legt keine Mess- oder Zeichentoleranz fest; FSP-Toleranz nicht aus GS übernehmen."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2022",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Beherrschen des Zeichnens linearer und ebener Figuren",
+      "Karten": "",
+      "Prüfstatus": "MA-087: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Fortschritt aus der Inventur abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_2023",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Zeichnen von Geraden und Strecken",
+      "Karten": "",
+      "Prüfstatus": "MA-087: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Fortschritt aus der Inventur abgeleitet."
+    }
+  ],
+  "number_scope_review": {
+    "status": "unspecified",
+    "summary": "Ganze Zentimeter · Punktbegrenzung · Zahlenbereich und Zeichengenauigkeit vorab festlegen",
+    "detail": "FSP35516 belegt Zeichnen in ganzen cm und Begrenzung durch Punkte, aber keine numerische Höchstlänge.35515 nennt1m=100cm als Einheitenbeziehung, nicht als Obergrenze. Das übergreifende Zahlziel bis100 wird nicht als Zeichengrenze übernommen. Auch GS2023 nennt keine eigene numerische Obergrenze; Millimetergenauigkeit ist dort eine Bemerkung und keine FSP-Zielvorgabe.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35515",
+      "Q-MA-page139_35516"
+    ],
+    "planning_rule": "Vorausgesetzt sind die Unterscheidung von Strecke und unbegrenzter Gerade, bekannte Punktbegrenzung, vertraute Zentimeterangaben und ein verständlicher Umweltbezug. Vorab Zahlenbereich und überprüfbare Zeichengenauigkeit festlegen; keine amtliche FSP-Toleranz erfinden. Alle positiven Streckenlängen, Längenvorgaben und relevanten Zwischen- und Endwerte müssen im vorab festgelegten Zahlenraum liegen und in ganzen Zentimetern darstellbar sein. Keine erfundene100cm-/1m-Grenze; keine Dezimalzentimeter, zusätzlichen Millimeterangaben, Umrechnung oder Längenrechnung. Eine bestimmte Lagebeziehung zu einer zweiten Geraden oder Strecke ist nicht Bestandteil dieses Feinziels. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel entscheidet die Lehrkraft. Eigene Freitexte und numerische Erweiterungen sind gesondert fachlich zu prüfen, nicht automatisch validiert."
+  },
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_partially_reviewed_rows": 1,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 92,
+    "same_band_cards": 65,
+    "cross_band_cards": 27,
+    "source_links": 231,
+    "target_anchors": 229,
+    "new_unique_gs_anchors": 2,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 163,
+    "open_connection_questions": 22,
+    "documented_no_direct_connection_rows": 7
+  },
+  "continuation": {
+    "next_id": "page912_187159",
+    "next_step": "Als Nächstes die GS3-Lagebeziehungen parallel187159,senkrecht187160 und schneiden187161 unter Zeichnen2023/Beherrschen2022 einzeln prüfen. FSP3/4 Rechteck-/Quadratdarstellung35527, rechter Winkel35526 und Muster35535 sind positive Kandidaten, aber noch kein gesicherter Beleg für die gesamte gerichtete Zeichenanforderung. Beide FSP-Bänder und bestehende Karten prüfen; FSP5/6-Lagebeziehungen38367 nicht vorziehen. Danach GS187446 ff.92 Karten(65 passend,27 stufenübergreifend),22 offene Anschlussfragen,163 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss."
+  },
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "initial_failure_resolved": "Initial stage metadata used3 instead of the schema band3/4. Corrected to gs_anchor_grade3 and gs_curriculum_band3/4; all affected checks rerun successfully.",
+    "browser_local": "scripts/check-mathematik-live-ma-092.cjs passed MA-064/067 in GS1/2 and MA-092 in GS3. Scope on card/goals/output, sources, separate goal/criterion adoption, empty task/aid fields, preserved own drafts, reload and subject isolation; MA-092 at320px/390px. No UI code changed; no full92-card browser run claimed.",
+    "preservation": {
+      "base_commit": "751e8dfc92e2cd1cfce53b9c4c653fba7c5cb1a0",
+      "changed_preexisting_files": [
+        "README.md",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/mathematik_module.json",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv",
+        "dist/index.html",
+        "index.html"
+      ],
+      "unchanged_preexisting_files": 277,
+      "old_cards_unchanged": 91,
+      "old_sources_unchanged": 229,
+      "ui_code_unchanged_except_version_and_math_payload": true
+    },
+    "browser_live": "pending"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.396"
+  }
+}
