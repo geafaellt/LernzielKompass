@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-18.5",
-  "checked_on": "2026-11-18",
+  "version": "MA-2026-11-19.1",
+  "checked_on": "2026-11-19",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -8669,6 +8669,97 @@
         "Q-MA-page139_35470",
         "Q-MA-page139_35479"
       ]
+    },
+    {
+      "id": "MA-090",
+      "subject": "Mathematik",
+      "theme": "Eigenen Bauplan zu einem bekannten Würfelturm darstellen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · FSP-Differenzierung ohne eigenen Operator",
+      "gs_anchor": "GS Mathematik Kl. 3 · Lernbereich 1: Raum und Form · Würfelgebäude und umgekehrte Bauplanrichtung187153 sowie Bauplanbeziehung187154 unter Übertragen2012; eigene Pläne in Bemerkung187154",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Lernbereich 2: Die Welt um mich herum · Finden eigener Baupläne als Differenzierung in der Bemerkung zu Nachformen und Bauen35459 unter Inhaltsblock35456; Kein eigener Operator ausgewiesen",
+      "gs_operator": "Übertragen",
+      "fsp_operator": null,
+      "operator_relation": "GS: Übertragen · FSP: Kein eigener Operator ausgewiesen. Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4. GS Übertragen stammt aus Hauptziel 2012. GS 187153 nennt die Richtung Würfelgebäude → Bauplan ausdrücklich; eigene Pläne entwerfen steht zusätzlich in der Bemerkung zu 187154. FSP 35459 nennt Finden eigener Baupläne als Differenzierung in der Bemerkung zu Nachformen und Bauen, nicht als eigenständiges Hauptziel. Der Inhaltsblock 35456/35459 weist keinen eigenen Operator aus. Gewählt wird ein eigener ebener Bauplan zu einem bekannten einzelnen Würfelturm bei bekannter Plankonvention und eindeutig festgelegter Orientierung. Diese Auswahl und die Ergebnismerkmale sind didaktische Konkretisierungen der Differenzierung. Keine vollständige GS-Zieldeckung und keine allgemeine Verpflichtung aller FSP-Lernenden zu dieser Differenzierung. Beide Bauzielzeilen nennen keine numerische Obergrenze. Zahlen- und Darstellungsbereich einschließlich gesamter Würfelanzahl und relevanter Zwischen-/Endwerte vorab festlegen; weder 100 aus anderen FSP-Zahlzielen noch eine Metergrenze aus dem benachbarten Körpervergleich übernehmen.",
+      "gs_target_ids": [
+        "page912_2012",
+        "page912_187153",
+        "page912_187154"
+      ],
+      "fsp_target_ids": [
+        "page139_35456",
+        "page139_35459"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2012",
+        "Q-MA-page912_187153",
+        "Q-MA-page912_187154",
+        "Q-MA-page139_35456",
+        "Q-MA-page139_35459"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4. GS Übertragen stammt aus Hauptziel 2012. GS 187153 nennt die Richtung Würfelgebäude → Bauplan ausdrücklich; eigene Pläne entwerfen steht zusätzlich in der Bemerkung zu 187154. FSP 35459 nennt Finden eigener Baupläne als Differenzierung in der Bemerkung zu Nachformen und Bauen, nicht als eigenständiges Hauptziel. Der Inhaltsblock 35456/35459 weist keinen eigenen Operator aus. Gewählt wird ein eigener ebener Bauplan zu einem bekannten einzelnen Würfelturm bei bekannter Plankonvention und eindeutig festgelegter Orientierung. Diese Auswahl und die Ergebnismerkmale sind didaktische Konkretisierungen der Differenzierung. Keine vollständige GS-Zieldeckung und keine allgemeine Verpflichtung aller FSP-Lernenden zu dieser Differenzierung. Beide Bauzielzeilen nennen keine numerische Obergrenze. Zahlen- und Darstellungsbereich einschließlich gesamter Würfelanzahl und relevanter Zwischen-/Endwerte vorab festlegen; weder 100 aus anderen FSP-Zahlzielen noch eine Metergrenze aus dem benachbarten Körpervergleich übernehmen.",
+      "shared_object_suggestion": "Die eindeutige Übereinstimmung eines bekannten Würfelturms mit einem eigenen Bauplan nach bekannten Darstellungsregeln.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt die bekannten räumlichen Beziehungen eines Würfelturms auf einen eigenen ebenen Bauplan nach bekannten Darstellungsregeln. Numerische Angaben und Würfelanzahlen bleiben im vorab festgelegten Zahlenraum.",
+          "criterion": "Der eigene Bauplan gibt die Grundposition und den bekannten Aufbau des Würfelturms nach den vereinbarten Darstellungsregeln eindeutig wieder; Plan und Turm stimmen überein. Alle numerischen Planangaben, einzelne und gesamte Würfelanzahlen sowie sämtliche relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Keine zusätzliche Rechnung, Maßstabszeichnung, Längenmessung oder Erschließung unbekannter verdeckter Würfel gefordert.",
+          "status": "Didaktischer Teilanschluss zur ausdrücklich umgekehrten Richtung187153 und zur Bauplanbeziehung187154 unter Übertragen2012; keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt den bekannten Aufbau eines einzelnen Würfelturms in einem eigenen Bauplan nach bekannten Darstellungsregeln dar. Numerische Angaben und Würfelanzahlen bleiben im vorab festgelegten Zahlenraum.",
+          "criterion": "Der eigene Bauplan gibt die Grundposition und den bekannten Aufbau des Würfelturms nach den vereinbarten Darstellungsregeln eindeutig wieder; Plan und Turm stimmen überein. Alle numerischen Planangaben, einzelne und gesamte Würfelanzahlen sowie sämtliche relevanten Zwischen- und Endwerte bleiben im festgelegten Zahlenraum. Keine zusätzliche Rechnung, Maßstabszeichnung, Längenmessung oder Erschließung unbekannter verdeckter Würfel gefordert.",
+          "status": "Didaktische Konkretisierung der ausdrücklich genannten Differenzierung Finden eigener Baupläne in Bemerkung35459. Kein eigener Operator im Inhaltsblock35456 ausgewiesen; keine allgemeine Selbstständigkeits- oder Anforderungsstufe ergänzt.",
+          "scope_status": "unspecified"
+        }
+      ],
+      "fsp_scope": {
+        "status": "unspecified",
+        "summary": "Noch festzulegen: Zahlen- und Darstellungsbereich des eigenen Bauplans und der Würfelanzahlen",
+        "detail": "35456/35459 nennen keine Obergrenze für Würfelanzahlen oder numerische Bauplanangaben. Das Finden eigener Baupläne steht als Differenzierung in der Bemerkung. Auch die GS-Bauplanzeilen nennen keine eigene Zahlenobergrenze. Ein Zahlenrahmen wird vor Verwendung didaktisch festgelegt, nicht aus 100 oder aus der benachbarten Meterangabe übernommen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35459"
+        ],
+        "planning_rule": "Ein einzelner Würfelturm mit vollständig bekanntem Aufbau und bekannter Würfelanzahl; keine unbekannten verdeckten Würfel oder mehrdeutigen Ansichten. Bedeutung der Planzeichen, räumlicher Bezug und Orientierung der Darstellung sind bekannt. Die Lehrkraft wählt die FSP-Differenzierung passend zu den Lernvoraussetzungen und legt den Zahlen- und Darstellungsbereich vorab fest. Alle numerischen Planangaben, einzelne und gesamte Würfelanzahlen sowie sämtliche relevanten Zwischen-/Endwerte müssen im festgelegten Zahlenraum bleiben. Eine Grenze nur je Höhenangabe reicht nicht. Nichtnumerische Lagezeichen und die vereinbarte Schreibweise gesondert behandeln. Keine Maßangaben, Maßstäbe, Volumenformeln oder Einheitenumrechnungen ergänzen. Eigene Freitexte der Lehrkraft sind nicht automatisch fachlich validiert. Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest."
+      },
+      "fsp_operator_evidence": {
+        "status": "not_stated",
+        "parent_target_id": "page139_35456",
+        "source_ids": [
+          "Q-MA-page139_35456",
+          "Q-MA-page139_35459"
+        ],
+        "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "pdf_page_one_based": 31,
+        "printed_page": "19",
+        "checked_on": "2026-11-18",
+        "notice": "Kein eigener Operator ausgewiesen",
+        "finding": "Onlinezeile35456 und PDF S.19 führen Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Nachformen und Bauen35459 ist darunter aufgeführt. Anwenden35451 betrifft das vorherige Formenbestimmungsziel und wird diesem Inhaltsblock nicht als gesicherter Operator zugeschrieben."
+      },
+      "evidence_classification": {
+        "gs": "2012 Hauptziel Übertragen ist Kontext;187153 Unterziel nennt beide Richtungen,187154 untergeordnetes Zueinander-in-Beziehung-Setzen. Eigene Pläne entwerfen ist Bemerkung zu187154. Ausgewählt nur die Umkehrrichtung für einen bekannten einzelnen Würfelturm.",
+        "gs_remark_anchors": [
+          "page912_187154"
+        ],
+        "fsp": "35456 nominaler Inhaltsblock ohne eigenen Operator;35459 Nachformen und Bauen ist Inhalt. Finden eigener Baupläne ist ausdrücklich Differenzierung in der Bemerkung, kein eigenes verbindliches Hauptziel. Bekannter einzelner Würfelturm, bekannte Darstellungsregeln und Ergebnismerkmale sind didaktische Eingrenzungen.",
+        "fsp_remark_anchors": [
+          "page139_35459"
+        ],
+        "context_only_gs_ids": [
+          "page912_2012"
+        ]
+      }
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-085",
+  "last_batch": "MA-086",
   "complete": false,
   "counts": {
-    "cards": 89,
+    "cards": 90,
     "cross_band": 26
   },
   "source_plans": {
@@ -2899,8 +2899,8 @@
       "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben"
     }
   },
-  "next_id": "page912_187153",
-  "next_step": "Als Nächstes die noch offene Umkehrrichtung Würfelgebäude → eigener Bauplan in GS3 187153 und187154 prüfen. Stufenpassender FSP-Beleg35459 nennt Finden eigener Baupläne als Differenzierung;35456/35459 weiterhin ohne eigenen Operator. Darstellungsregeln, Ansichten und vorab festzulegende Plan-/Würfelzahlen beachten; beide FSP-Bänder prüfen. MA-089 ergänzt nur fehlende Würfelzahl aus bekannten Gesamt-/Teilmengen bis100 in187156/187158. Unbekannte verdeckte Anzahlen, Volumen-/Schichtverfahren, weitere Strukturen und bisherige Restumfänge bleiben offen.89 Karten(63 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.392 veröffentlicht und live geprüft; Nachweise in MA-085.",
+  "next_id": "page912_187152",
+  "next_step": "Als Nächstes die offene Anschlussfrage zu weiteren ebenen Wegdarstellungen und Ansichten in GS3 187152 prüfen. MA-084/090 decken nur den engen Würfelturm-Bauplanbezug in bekannter Darstellungskonvention. Kandidaten FSP3/4 Orientierung35563 unter Anwenden35554 mit übergreifendem räumlichem Ziel35415 und FSP1/2 37794/38002 getrennt prüfen; Wahlbereiche bewahren und Orientierung nicht ohne Beleg mit allgemeinem Planlesen gleichsetzen. Mehrteilige Gebäude, weitere Plankonventionen, unbekannte verdeckte Anzahlen und übrige Restumfänge bleiben offen.90 Karten (64 passend,26 stufenübergreifend),23 offene Anschlussfragen,158 Inventurzeilen,7 Nichtanschlussentscheidungen. Kein Gesamtabschluss.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3189,7 +3189,7 @@
       "decision": "1/2-Ereignisdauer und Ermitteln der Zeitspanne37994 sind positive Vorbezüge; allgemeine Subtraktion37863 und Sachaufgabenstrategien37896 ebenfalls. Der konkrete Beleg für numerisches Zeitspannenberechnen in vollen Stunden steht in3/4-Ziel35552 mit Bemerkung unter Anwenden35539. Keine pauschale Verneinung weiterer stufengleicher Teilanschlüsse und kein Ausschluss wegen20 statt100."
     }
   },
-  "last_review_file": "review_batch_085.json",
+  "last_review_file": "review_batch_086.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4209,15 +4209,15 @@
     },
     {
       "gs_id": "page912_187153",
-      "scope": "Nur vorgegebener Plan → ein Würfelturm. Umgekehrte Richtung, eigene Pläne, mehrteilige/komplexere Würfelgebäude und weitergehende räumliche Operationen offen. Eigene Baupläne sind in35459 positiv als Differenzierung genannt, hier noch nicht integriert.",
+      "scope": "MA-084 trägt vorgegebener Bauplan → einzelner Würfelturm; MA-090 ergänzt bekannter einzelner Würfelturm → eigener Bauplan nach bekannten Regeln als FSP-Differenzierung. Mehrteilige/komplexere Würfelgebäude, freie Erfindung eines noch nicht bekannten Gebäudes, neue Plankonventionen, unbekannte verdeckte Würfel und weitergehende räumliche Operationen bleiben offen. Keine vollständige Zieldeckung.",
       "status": "offen",
-      "review": "MA-081"
+      "review": "MA-086"
     },
     {
       "gs_id": "page912_187154",
-      "scope": "Nur Zuordnung eines vorgegebenen ebenen Plans mit bekannten Darstellungsregeln zum Würfelturm. Selbstständiges Entschlüsseln weiterer Plankonventionen, eigene Planentwürfe und allgemeine Ansichten-/Gebäudezuordnung offen.",
+      "scope": "MA-084 trägt die Zuordnung eines vorgegebenen Plans zum Würfelturm; MA-090 ergänzt die Übereinstimmung eines eigenen Plans mit einem bekannten einzelnen Turm nach bekannten Darstellungsregeln. Selbstständiges Entschlüsseln oder Entwickeln weiterer Plankonventionen, allgemeine Ansichten-/Gebäudezuordnung und Pläne komplexerer Gebäude bleiben offen.",
       "status": "offen",
-      "review": "MA-081"
+      "review": "MA-086"
     },
     {
       "gs_id": "page912_187155",
@@ -4273,7 +4273,7 @@
       "page912_2012"
     ],
     "rows": 158,
-    "note": "Keine neue Inventur oder erstmalige Einzelprüfung. Zwei bereits teilweise geprüfte GS-Unterzeilen187156/187158 um einen gemeinsamen Fehlanzahl-Ausschnitt erweitert. Bemerkungsbezüge nicht als neue Zielzeilen gezählt;2012/187153 nur Kontext.",
+    "note": "Keine neue Inventur oder erstmalige Einzelprüfung. Zwei bereits teilweise geprüfte GS-Zeilen187153/187154 um einen gemeinsamen Ausschnitt eigener Baupläne erweitert. Bemerkung zur Differenzierung nicht als neue Zielzeile gezählt;2012 nur Kontext.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -4583,6 +4583,20 @@
         "MA-087"
       ],
       "note": "Direkte Unterzielgrenze bis100 in35479. Ganzer Zielquader, vorhandene Teilmenge, Fehlanzahl sowie alle Zwischen-/Endwerte begrenzt; Teilmenge enthalten und nicht größer als Gesamtmenge. GS bis100 ausdrücklich didaktisch gewählt. Alle88 Bestandskarten unverändert."
+    },
+    "follow_up_own_cube_plan": {
+      "batch": "MA-086",
+      "cards": {
+        "MA-090": "unspecified"
+      },
+      "existing_rechecked": [
+        "MA-084",
+        "MA-085",
+        "MA-086",
+        "MA-087",
+        "MA-089"
+      ],
+      "note": "Keine eigene Zahlenobergrenze der Bauplanzeile. Planangaben, gesamte Würfelanzahl und alle relevanten Zwischen-/Endwerte im vorab festgelegten Zahlenraum; Schreibweisen und nichtnumerische Lagezeichen getrennt. Alle89 Bestandskarten und ihre jeweiligen Grenzen unverändert. Insbesondere die100-Grenzen der Rechenkarten werden nicht übertragen."
     }
   },
   "publication_recheck": {
@@ -4603,13 +4617,9 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-085",
-    "status": "verified",
-    "app_version": "1.392",
-    "app_commit": "76b53e04a46accdb0a06e0fd102057fd6988a394",
-    "pages_run": 44337048463,
-    "live_sha256": "ecae25dd8d3ffffa6b938712b61b1734b3aeeaca6dac61e936c02ac5e1a59593",
-    "browser": "MA-028/036 GS1/2 and MA-086/087/089 GS3 local and live; MA-089 mobile320/390 passed. No UI code change; no full89-card browser run."
+    "batch": "MA-086",
+    "status": "pending",
+    "app_version": "1.393"
   },
   "latest_audit_publication": {
     "batch": "MA-079",
