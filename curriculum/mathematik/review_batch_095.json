@@ -1,0 +1,339 @@
+{
+  "id": "MA-095",
+  "date": "2026-11-20",
+  "base_commit": "3fd27206c09e8747024fcca2446a4e496b08284d",
+  "scope": "GS3 qualitativer Flächeninhaltsvergleich187164 mit Kontext2027/2028; Kandidaten in beiden FSP-Bändern.",
+  "change_type": "audit_only",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2027": {
+      "id": "page912_2027",
+      "level": 1,
+      "parent_target_id": "page912_2027",
+      "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027"
+    },
+    "page912_2028": {
+      "id": "page912_2028",
+      "level": 2,
+      "parent_target_id": "page912_2027",
+      "target": "Erfassen von Flächeninhalt und Umfang",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2028"
+    },
+    "page912_187164": {
+      "id": "page912_187164",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Vergleichen von Flächeninhalten",
+      "remarks": "direktes Vergleichen durch Übereinanderlegen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187164"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35568": {
+      "id": "page139_35568",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Vergleich von Verpackungen",
+      "remarks": "Festigen von Merkmalen der Körper und ihrer Seitenflächen kritischer Vergleich von Verpackungsgröße und Inhalt Vermeidung von Verpackungsmüll ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35568"
+    },
+    "page139_35511": {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511"
+    },
+    "page139_35514": {
+      "id": "page139_35514",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Schätzen, Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Schaffen von Größenvorstellungen Experimentieren mit Körpermaßen, Stock- und Bandlänge Meter- und Zentimeterangabe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37824": {
+      "id": "page139_37824",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Erkennen und Benennen der Merkmale von Objekten",
+      "remarks": "Gebrauchsgegenstände, Spielsachen gezieltes Beobachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37824"
+    },
+    "page139_37827": {
+      "id": "page139_37827",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Sortieren nach Größe, Farbe, Form, Oberfläche",
+      "remarks": "Gliedern, Ordnen, Zuordnen ➔ DE - HKS, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37827"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38014": {
+      "id": "page139_38014",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Entdecken von Ornamenten an Gegenständen und in bildhaften Darstellungen",
+      "remarks": "Gebäude, Kleidung Linien, Flächen, Farben Abzeichnen, Fotografieren Harmonie und Balance beachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38014"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "stage_goal_evidence": {
+    "page139_37739": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+    "page139_35415": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben."
+  },
+  "stage_goal_verification": "Beide gespeicherten vollständigen Stufenband-Zieltexte37739/35415 sind im normalisierten am20.11.2026 erneut abgerufenen HTML exakt enthalten. Allgemeine Figurenmerkmale und Größen Währung/Länge/Zeit begründen keine zusätzliche spezifische Flächenmaßforderung.",
+  "source_verification": "Amtliche HTML-Ziel-/Bemerkungsspalten beider Lehrpläne erneut abgerufen und ausgewählte Zeilen geprüft. Amtliches FSP-PDF aus MA-089 wiederverwendet, kein neuer PDF-Abruf. PDF-Seiten23(S.11) und35(S.23) visuell geprüft; Begriffsdefinitionen S.V gelesen. GS-Definitionen im aktuellen HTML gelesen.",
+  "pdf_evidence": {
+    "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+    "sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+    "pages_one_based": [
+      5,
+      23,
+      35
+    ],
+    "findings": [
+      "S.11: Sortieren nach Größe, Farbe, Form, Oberfläche steht links in der Ziel-/Inhaltsspalte eingerückt unter Erkennen/Benennen37824; rechts stehen Gliedern, Ordnen, Zuordnen und der Fachverweis.37827 ist ein Unterziel, keine Bemerkung und keine eigene Lernzielebene. Eine vorläufig erwogene Umklassifizierung als Bemerkung ist durch Sichtprüfung verworfen; HTML und PDF stimmen insoweit überein.",
+      "S.23: Vergleich von Verpackungen links unter Anwenden beim Einkauf im Wahlbereich1; Merkmale der Körper/Seitenflächen und kritischer Vergleich von Verpackungsgröße/Inhalt stehen rechts als Bemerkungen."
+    ]
+  },
+  "new_cards": [],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-004",
+    "MA-095",
+    "MA-096",
+    "MA-097"
+  ],
+  "existing_card_review": "MA-004 vergleicht Längen in Metern; MA-095 gegenüberliegende Seiten; MA-096 stellt Figuren dar; MA-097 vervollständigt einen Umriss. Diese Ziele weisen keinen Vergleich zweier Flächeninhalte nach. Kennen/Kennen, Übertragen/Gestalten beziehungsweise Übertragen/Kennen sind getrennte belegte Lernzielebenen; die Feinzielhandlungen bleiben davon getrennt. Keine Erweiterung vorhandener Karten um187164.",
+  "learning_level_review": "GS: Einblick gewinnen aus Hauptziel2027. Erfassen2028 und Vergleichen187164 sind Zielhandlungen. FSP1/2: Kennen37821 für37824/37827/37832/37836/37844; Anwenden38011 für38014/38015 im Wahlbereich3. FSP3/4: Gestalten35521 für35524/35525/35535; Anwenden35554 für35568 im Wahlbereich1; Übertragen35511 für35514. Erkennen, Benennen, Sortieren, Vergleichen, Darstellen und Vervollständigen ersetzen diese Ebenen nicht. Begriffsdefinitionen beider amtlicher Lehrpläne erneut gelesen; eine eng begrenzte Zielhandlung weist nicht die gesamte Hauptzielebene nach.",
+  "number_scope_review": "Die untersuchte qualitative Größenrelation benötigt keine numerische Obergrenze. Keine20/100-Grenze aus übergreifenden Zahlzielen übertragen; ein kleinerer FSP-Zahlenraum ist kein Ausschlussgrund. Längeneinheiten m/cm werden nicht als Flächeneinheiten ausgegeben. Keine Flächenformeln, Messzahlen oder numerischen Zwischen-/Endwerte ergänzt. Bei späterer numerischer Konkretisierung müssen Einheit, Zahlenbereich und alle relevanten Ergebnisse gesondert belegt oder ausdrücklich didaktisch festgelegt werden. Alle97 vorhandenen Karten samt Geltungsbereich und gespeicherten Feinzielen bleiben unverändert; keine neuen Aufgaben, Lernhandlungen oder Hilfsmittel.",
+  "decisions": [
+    {
+      "gs_id": "page912_187164",
+      "status": "open_connection_question",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35535",
+        "page139_35554",
+        "page139_35568",
+        "page139_35511",
+        "page139_35514"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37824",
+        "page139_37827",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_38011",
+        "page139_38014",
+        "page139_38015"
+      ],
+      "overarching_candidates": [
+        "page139_37739",
+        "page139_35415"
+      ],
+      "decision": "GS187164 verlangt den Vergleich von Flächeninhalten unter Einblick gewinnen2027; direktes Vergleichen durch Übereinanderlegen ist Bemerkung, keine eigenständige Lernzielebene. FSP1/2 Sortieren nach Größe37827 und Figuren-/Merkmalsvergleich37836 unter Kennen37821 sind positive Kandidaten für einen qualitativen Größenvergleich ebener Figuren. Die offene Frage betrifft die didaktische Eingrenzung dieser allgemeinen Größen-/Merkmalsziele auf Flächeninhalt: Größe kann auch lineare Ausdehnung meinen; Oberfläche bezeichnet nicht automatisch deren Maß. Die fehlende ausdrückliche Wortnennung Flächeninhalt allein begründet keinen Nichtanschluss. Stufengleich bietet FSP3/4 Merkmalsvergleich35525 unter Gestalten35521 einen verwandten Gegenstand, die Bemerkung konkretisiert jedoch gegenüberliegende Seiten. Vergleich von Verpackungen35568 unter Anwenden35554 nennt Seitenflächen in der Bemerkung und ist ein weiterer positiver Kandidat; Verpackungsgröße und Inhalt sind nicht automatisch Flächeninhalt. Der Wahlbereich1 Einkaufsbummel muss bei einer möglichen Zuordnung erhalten bleiben. Flächengestaltung38011/38014/38015 (FSP1/2 Wahlbereich3 Muster) und Musterergänzung35535 (FSP3/4) belegen Gestaltung, aber noch keine bestimmte flächenbezogene Vergleichsrelation. Längenvergleich35514 unter Übertragen35511 ist kein Flächenvergleich. Deshalb vorerst offene Anschlussfrage und keine neue Karte; kein pauschaler Ausschluss beider FSP-Bänder.",
+      "prerequisites": "Für einen tragfähigen Teilanschluss müssen zwei eindeutig bestimmte ebene Flächen und die verglichene Größe feststehen. Form, Randlänge, längste Ausdehnung, Flächeninhalt und Verpackungsinhalt sind zu unterscheiden. Eine Größenordnung bei gleich geformten Figuren darf nicht ungeprüft auf beliebige Figuren übertragen werden. Der jeweilige FSP-Umwelt-, Gestaltungs- oder Wahlbereichskontext muss erhalten bleiben.",
+      "uncertainty": "Die flächenbezogene Eingrenzung allgemeiner Größen-/Merkmalsziele ist noch fachlich zu entscheiden. Vorhandene positive Belege werden weder als vollständiger Flächenvergleich noch als Nichtanschluss ausgegeben.",
+      "follow_up_evidence": "Bei der Nachprüfung von187164 ausdrücklich entscheiden, ob der allgemeine Größenvergleich37827 zusammen mit Figurenmerkmalen37836 einen eng begrenzten qualitativen Flächenvergleich ähnlicher beziehungsweise ineinander enthaltener Grundformen fachlich trägt. Gegebenenfalls die Flächeninterpretation als didaktische Konkretisierung kennzeichnen, ohne eine besondere Vergleichsmethode aus der GS-Bemerkung zum FSP-Pflichtziel zu machen. Zuvor den stufengleichen Kandidaten35568 im Einkaufs-/Seitenflächenkontext sowie35525 im Gestaltungskontext auf denselben begrenzten Gegenstand prüfen; Ergebnis mit Grund für Bandwahl dokumentieren. Die Prüfung von Zerlegen187165 und Zusammensetzen187166 darf als zusätzliche Evidenz einfließen, schließt187164 jedoch nicht automatisch mit ab.",
+      "remaining_scope": "Gesamter Anschlussentscheid zu187164 bleibt offen; keine vollständige GS-Zieldeckung behauptet. Zerlegen187165, Zusammensetzen187166, Auszählen187167, Schätzen187168, Umfänge187169 und Fachbegriffe2029 werden separat geprüft. Hauptziel2027 und Unterziel2028 sind nur als Kontext gelesen, nicht vollständig geprüft oder als zusätzliche Erstentscheidungen gezählt."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2027",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "Karten": "",
+      "Prüfstatus": "MA-094: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Prüffortschritt aus fehlender Karte abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_2028",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erfassen von Flächeninhalt und Umfang",
+      "Karten": "",
+      "Prüfstatus": "MA-094: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Prüffortschritt aus fehlender Karte abgeleitet."
+    },
+    {
+      "Ziel-ID": "page912_187164",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Vergleichen von Flächeninhalten",
+      "Karten": "",
+      "Prüfstatus": "MA-094: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Prüffortschritt aus fehlender Karte abgeleitet."
+    }
+  ],
+  "context_only_gs_ids": [
+    "page912_2027",
+    "page912_2028"
+  ],
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_no_direct_connections": 0,
+    "new_partially_reviewed_rows": 0,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 1,
+    "new_inventory_only_rows": 0,
+    "new_cards": 0,
+    "updated_cards": 0,
+    "cards": 97,
+    "same_band_cards": 69,
+    "cross_band_cards": 28,
+    "source_links": 247,
+    "target_anchors": 245,
+    "audit_rows": 179,
+    "open_connection_questions": 24,
+    "documented_no_direct_connection_rows": 8
+  },
+  "continuation": {
+    "next_id": "page912_187165",
+    "next_step": "Als Nächstes GS3 Zerlegen von Flächen in vergleichbare Teilfiguren187165 unter2027/2028 gegen beide FSP-Bänder prüfen; anschließend Zusammensetzen187166. Offene Anschlussfrage187164 zum qualitativen Flächenvergleich ausdrücklich bewahren und anhand der neuen Evidenz nachprüfen. 97 Karten(69 passend,28 stufenübergreifend),24 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert. Veröffentlichungsnachweis folgt in MA-095."
+  },
+  "tests": {
+    "status": "passed",
+    "scripts": {
+      "scripts/update-mathematik.py": "passed",
+      "scripts/check-deutsch.py": "passed",
+      "scripts/prepare-pages.py": "passed",
+      "scripts/check-mathematik.py": "passed",
+      "scripts/test-mathematik-scope.py": "passed",
+      "scripts/check-learning-objects.py": "passed"
+    },
+    "audit_consistency": "179 unique inventory rows; three changed statuses:2027/2028 context-only,187164 one first review with open question;24 unique questions,8 unchanged no-direct decisions;next187165 remains open.",
+    "preservation": {
+      "base_commit": "3fd27206c09e8747024fcca2446a4e496b08284d",
+      "changed_preexisting_files": [
+        "README.md",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv"
+      ],
+      "unchanged_preexisting_files": 295,
+      "old_cards_unchanged": 97,
+      "module_and_html_byte_identical": true,
+      "html_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+      "audit_rows": 179,
+      "new_inventory_only_rows": 0,
+      "new_first_review_rows": 1,
+      "open_questions": 24,
+      "no_direct_total": 8
+    },
+    "prepare_pages_note": "Executed successfully on20.11.2026; only the automatic calendar date changed. Both HTML files restored to the verified1.402 bytes after asserting absence of other changes. Remaining read-only checks passed on restored files. No new application publication required.",
+    "browser": "No new browser run: audit-only; module, learning-level data, both HTML files byte-identical. Latest live functional/display checks remain MA-093.",
+    "publication": "pending"
+  },
+  "publication": {
+    "batch": "MA-095",
+    "status": "pending",
+    "app_version_unchanged": "1.402",
+    "app_unchanged": true
+  }
+}

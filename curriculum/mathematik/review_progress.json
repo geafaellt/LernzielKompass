@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-094",
+  "last_batch": "MA-095",
   "complete": false,
   "counts": {
     "cards": 97,
@@ -3146,8 +3146,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_2027",
-  "next_step": "Als Nächstes GS3 Einblick gewinnen in Flächeninhalt und Umfang2027 mit Erfassen2028 und Vergleichen von Flächeninhalten187164 prüfen, anschließend Zerlegen187165,Ergänzen/Zusammensetzen187166,Auszählen187167,Schätzen187168,Umfänge187169 und Fachbegriffe2029. Neun Zeilen nur inventarisiert, keine Erstentscheidung vorweggenommen. Beide FSP-Bänder und bestehende Figuren-/Längenkarten prüfen; Rand und Fläche, qualitative Form und Maßzahl sowie Einheiten strikt unterscheiden.97 Karten(69 passend,28 stufenübergreifend),23 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert. Audit auf main veröffentlicht, Pages erfolgreich und unveränderte Live-App bestätigt; Nachweise in MA-094.",
+  "next_id": "page912_187165",
+  "next_step": "Als Nächstes GS3 Zerlegen von Flächen in vergleichbare Teilfiguren187165 unter2027/2028 gegen beide FSP-Bänder prüfen; anschließend Zusammensetzen187166. Offene Anschlussfrage187164 zum qualitativen Flächenvergleich ausdrücklich bewahren und anhand der neuen Evidenz nachprüfen. 97 Karten(69 passend,28 stufenübergreifend),24 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert. Veröffentlichungsnachweis folgt in MA-095.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3461,7 +3461,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_094.json",
+  "last_review_file": "review_batch_095.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3943,6 +3943,33 @@
       ],
       "review": "MA-090",
       "follow_up_evidence": "Bei der abschließenden Nachprüfung prüfen, ob der unveränderte rechteckbezogene Teilgegenstand von MA-094 unter expliziter Kennzeichnung des gemeinsamen Endpunkts für187161 genügt oder ein eigenständig belegter FSP-Schnittlagengegenstand fehlt. Kein Umdeuten in ein zusätzliches FSP-Zeichenziel. Allgemeine Muster-/Werkzeugziele allein tragen nicht jede frei ergänzte Schnittlagenanforderung."
+    },
+    {
+      "gs_id": "page912_187164",
+      "scope": "Qualitativer Vergleich von Flächeninhalten; Reichweite allgemeiner Größen-/Figurenvergleiche und des Verpackungsvergleichs.",
+      "status": "offen",
+      "reason": "GS187164 verlangt den Vergleich von Flächeninhalten unter Einblick gewinnen2027; direktes Vergleichen durch Übereinanderlegen ist Bemerkung, keine eigenständige Lernzielebene. FSP1/2 Sortieren nach Größe37827 und Figuren-/Merkmalsvergleich37836 unter Kennen37821 sind positive Kandidaten für einen qualitativen Größenvergleich ebener Figuren. Die offene Frage betrifft die didaktische Eingrenzung dieser allgemeinen Größen-/Merkmalsziele auf Flächeninhalt: Größe kann auch lineare Ausdehnung meinen; Oberfläche bezeichnet nicht automatisch deren Maß. Die fehlende ausdrückliche Wortnennung Flächeninhalt allein begründet keinen Nichtanschluss. Stufengleich bietet FSP3/4 Merkmalsvergleich35525 unter Gestalten35521 einen verwandten Gegenstand, die Bemerkung konkretisiert jedoch gegenüberliegende Seiten. Vergleich von Verpackungen35568 unter Anwenden35554 nennt Seitenflächen in der Bemerkung und ist ein weiterer positiver Kandidat; Verpackungsgröße und Inhalt sind nicht automatisch Flächeninhalt. Der Wahlbereich1 Einkaufsbummel muss bei einer möglichen Zuordnung erhalten bleiben. Flächengestaltung38011/38014/38015 (FSP1/2 Wahlbereich3 Muster) und Musterergänzung35535 (FSP3/4) belegen Gestaltung, aber noch keine bestimmte flächenbezogene Vergleichsrelation. Längenvergleich35514 unter Übertragen35511 ist kein Flächenvergleich. Deshalb vorerst offene Anschlussfrage und keine neue Karte; kein pauschaler Ausschluss beider FSP-Bänder.",
+      "candidate_ids": [
+        "page139_35521",
+        "page139_35524",
+        "page139_35525",
+        "page139_35535",
+        "page139_35554",
+        "page139_35568",
+        "page139_35511",
+        "page139_35514",
+        "page139_37821",
+        "page139_37824",
+        "page139_37827",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_38011",
+        "page139_38014",
+        "page139_38015"
+      ],
+      "review": "MA-095",
+      "follow_up_evidence": "Bei der Nachprüfung von187164 ausdrücklich entscheiden, ob der allgemeine Größenvergleich37827 zusammen mit Figurenmerkmalen37836 einen eng begrenzten qualitativen Flächenvergleich ähnlicher beziehungsweise ineinander enthaltener Grundformen fachlich trägt. Gegebenenfalls die Flächeninterpretation als didaktische Konkretisierung kennzeichnen, ohne eine besondere Vergleichsmethode aus der GS-Bemerkung zum FSP-Pflichtziel zu machen. Zuvor den stufengleichen Kandidaten35568 im Einkaufs-/Seitenflächenkontext sowie35525 im Gestaltungskontext auf denselben begrenzten Gegenstand prüfen; Ergebnis mit Grund für Bandwahl dokumentieren. Die Prüfung von Zerlegen187165 und Zusammensetzen187166 darf als zusätzliche Evidenz einfließen, schließt187164 jedoch nicht automatisch mit ab."
     }
   ],
   "remaining_scopes": [
@@ -4573,6 +4600,18 @@
       "scope": "Vierecksergänzungen, besondere Dreiecksarten, mehrdeutige Fragmente mit mehreren Lösungen, systematisches Finden aller Ergänzungen und weitergehende Zeichen-/Genauigkeitsanforderungen bleiben offen. Das Vervollständigen ganzer Muster oder Fantasiebilder und das Herstellen von Symmetrie werden nicht mit dem einzelnen Umriss gleichgesetzt.",
       "status": "offen",
       "review": "MA-093"
+    },
+    {
+      "gs_id": "page912_2027",
+      "scope": "Gesamter Anschlussentscheid zu187164 bleibt offen; keine vollständige GS-Zieldeckung behauptet. Zerlegen187165, Zusammensetzen187166, Auszählen187167, Schätzen187168, Umfänge187169 und Fachbegriffe2029 werden separat geprüft. Hauptziel2027 und Unterziel2028 sind nur als Kontext gelesen, nicht vollständig geprüft oder als zusätzliche Erstentscheidungen gezählt.",
+      "status": "offen",
+      "review": "MA-095"
+    },
+    {
+      "gs_id": "page912_2028",
+      "scope": "Gesamter Anschlussentscheid zu187164 bleibt offen; keine vollständige GS-Zieldeckung behauptet. Zerlegen187165, Zusammensetzen187166, Auszählen187167, Schätzen187168, Umfänge187169 und Fachbegriffe2029 werden separat geprüft. Hauptziel2027 und Unterziel2028 sind nur als Kontext gelesen, nicht vollständig geprüft oder als zusätzliche Erstentscheidungen gezählt.",
+      "status": "offen",
+      "review": "MA-095"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4608,7 +4647,7 @@
       "page912_2027"
     ],
     "rows": 179,
-    "note": "MA-094:187452 erstmals als spezifische Fachwortforderung einzeln geprüft, kein direkter Anschluss. Neun Folgezeilen2027/2028/187164–187169/2029 nur inventarisiert; kein fachlicher Fortschritt aus Inventurzuwachs. Teilinventar179, kein Gesamtinventar.",
+    "note": "MA-095:179 inventarisierte Zeilen unverändert.187164 erstmals einzeln untersucht, Anschlussfrage offen;2027/2028 nur Kontext. Keine neue Karte, kein neuer Nichtanschluss, keine Vollabdeckung. Teilinventar, kein Gesamtinventar.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5012,51 +5051,57 @@
     "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
   },
   "latest_audit_publication": {
-    "batch": "MA-094",
-    "status": "verified",
+    "batch": "MA-095",
+    "status": "pending",
     "app_version_unchanged": "1.402",
-    "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
-    "pages_run": 44630955851,
     "app_unchanged": true,
-    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-    "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
     "previous_audit_publication": {
-      "batch": "MA-090",
+      "batch": "MA-094",
       "status": "verified",
-      "app_version_unchanged": "1.397",
+      "app_version_unchanged": "1.402",
+      "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
+      "pages_run": 44630955851,
+      "app_unchanged": true,
+      "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+      "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
       "previous_audit_publication": {
-        "batch": "MA-079",
+        "batch": "MA-090",
         "status": "verified",
-        "app_version_unchanged": "1.386",
+        "app_version_unchanged": "1.397",
         "previous_audit_publication": {
-          "batch": "MA-078",
+          "batch": "MA-079",
           "status": "verified",
           "app_version_unchanged": "1.386",
           "previous_audit_publication": {
-            "batch": "MA-075",
+            "batch": "MA-078",
             "status": "verified",
-            "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-            "pages_run": 44042551050,
-            "app_unchanged": true,
-            "app_version": "1.384",
-            "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-            "verified_at": "2026-11-17T07:57:40.479941+00:00"
+            "app_version_unchanged": "1.386",
+            "previous_audit_publication": {
+              "batch": "MA-075",
+              "status": "verified",
+              "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+              "pages_run": 44042551050,
+              "app_unchanged": true,
+              "app_version": "1.384",
+              "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+              "verified_at": "2026-11-17T07:57:40.479941+00:00"
+            },
+            "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+            "pages_run": 44069787528,
+            "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+            "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
           },
-          "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-          "pages_run": 44069787528,
+          "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
+          "pages_run": 44111252857,
           "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
           "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
         },
-        "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
-        "pages_run": 44111252857,
-        "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-        "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-      },
-      "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
-      "pages_run": 44567574178,
-      "app_unchanged": true,
-      "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
-      "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+        "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
+        "pages_run": 44567574178,
+        "app_unchanged": true,
+        "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+        "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+      }
     }
   },
   "continuation_correction": {
@@ -5201,6 +5246,14 @@
       "definition_evidence": "Amtliches FSP-PDF S.V (PDF5): Kenntnisse/Erfahrungen und typische Anwendungsmuster im gelernten Kontext.",
       "hierarchy_evidence": "Amtliches FSP-PDF S.11(PDF23) visuell: Kennen37821 über Grundformen37832/Darstellen37844, Umrissvollendung rechts in Bemerkung. Nicht Einblick aus nachfolgendem Rechenziel.",
       "review": "MA-093"
+    },
+    "page912_2027": {
+      "level": "Einblick gewinnen",
+      "target_id": "page912_2027",
+      "checked_on": "2026-11-20",
+      "definition_evidence": "Amtliches GS-HTML: Beschreibung der Lernziele; grundlegende Orientierung ohne tiefere Reflexion.",
+      "hierarchy_evidence": "HTML-Hauptziel2027, Unterziel2028 und Unter-Unterziel187164 getrennt. Keine Ersetzung durch Erfassen/Vergleichen.",
+      "review": "MA-095"
     }
   }
 }
