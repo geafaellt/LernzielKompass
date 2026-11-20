@@ -320,10 +320,10 @@
   },
   "continuation": {
     "next_id": "page912_187168",
-    "next_step": "Als Nächstes GS3 Schätzen187168 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Schätzen einer Anzahl, einer Länge und eines Flächeninhalts auseinanderhalten. MA-100 verbindet187167 nur als Anzahlbestimmung gleich großer Teilflächen mit FSP3/4 Zählen bis 100. Die GS-Flächenmaßdeutung ist keine belegte FSP-Messkompetenz; weitere Ausschnitte bleiben offen.100 Karten(72 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.405: Veröffentlichung und Liveprüfung ausstehend."
+    "next_step": "Als Nächstes GS3 Schätzen187168 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Schätzen einer Anzahl, einer Länge und eines Flächeninhalts auseinanderhalten. MA-100 verbindet187167 nur als Anzahlbestimmung gleich großer Teilflächen mit FSP3/4 Zählen bis100. Die GS-Flächenmaßdeutung ist keine belegte FSP-Messkompetenz; weitere Ausschnitte bleiben offen.100 Karten(72 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.405 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich und gezielte Browser-/Lernzielebenenprüfungen öffentlich bestanden; Nachweise in MA-098."
   },
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_live",
     "scripts": {
       "update-mathematik": {
         "exit_code": 0,
@@ -384,10 +384,18 @@
       "html_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10"
     },
     "correction": "Initial check found missing space in the new goal range wording bis100. New-card wording corrected to bis 100; complete six-script sequence rerun successfully. No validation rule weakened.",
-    "limits": "No UI code change; no full100-card functional run and no fresh substantive review of all413 cards. Live publication checks pending."
+    "limits": "No UI code change; no full100-card functional run and no fresh substantive review of all413 cards. Official PDFs reused as documented; publication and live checks verified.",
+    "browser_live": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.405"
+    "batch": "MA-098",
+    "status": "verified",
+    "app_version": "1.405",
+    "commit": "b03ad838651acbe36e955787111ef54744048c0c",
+    "pages_run": 44691360865,
+    "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+    "live_byte_identical": true,
+    "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
+    "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open."
   }
 }
