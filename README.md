@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.399** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.403** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -160,3 +160,6 @@ Mathematik MA-094: Fachbegriff Parallelogramm187452 gegen beide FSP-Bänder abge
 
 
 Mathematik MA-095: Flächenvergleich187164 gegen beide FSP-Bänder untersucht; die Reichweite allgemeiner Größen-/Figuren- und Verpackungsvergleiche bleibt als Anschlussfrage offen. Lernzielebenen von Zielhandlungen getrennt und PDF-Spalten geprüft.97 Karten und App1.402 unverändert,24 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_095.json); Fortsetzung187165. Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Die automatisch aktualisierte Datumszeile wurde nach Prüfung als einzige HTML-Änderung für diese reine Auditveröffentlichung zurückgenommen; beide App-Dateien bleiben bytegleich. Kein neuer Browserlauf. Audit mit Commit471ce6d1e7bc2e71910b925d66ba2b127a4aaada auf main veröffentlicht; [Pages-Lauf44656090518](https://github.com/geafaellt/LernzielKompass/actions/runs/44656090518) erfolgreich. Unveränderte Live-App1.402 bytegleich bestätigt(SHA256 0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948).
+
+
+Mathematik MA-096 ergänzt MA-098: Rechteckfläche in zwei deckungsgleiche Spiegelhälften zerlegen, GS3 → FSP3/4. Lernzielebenen Einblick gewinnen/Kennen getrennt von Zielhandlungen. Flächenvergleich187164 als enger Teilanschluss nachgeprüft; allgemeine Vergleiche bleiben offen.98 Karten,23 Anschlussfragen; [Prüfpaket](curriculum/mathematik/review_batch_096.json). App1.403: Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Gezielte Browserprüfung MA-002/011/098 einschließlich mobiler MA-098-Darstellung320px/390px bestanden; Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar. Eigene Texte bleiben erhalten, Aufgaben/Hilfsmittel leer. Lernzielebenen-Anzeige aller411 Karten/822 Seiten bestanden; dies ist eine Struktur-/Darstellungsprüfung, keine neue fachliche Einzelprüfung aller Karten. Keine UI-Codeänderung und kein vollständiger98-Karten-Funktionslauf. Veröffentlichung und Liveprüfung ausstehend.

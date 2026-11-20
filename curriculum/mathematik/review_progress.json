@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-095",
+  "last_batch": "MA-096",
   "complete": false,
   "counts": {
-    "cards": 97,
+    "cards": 98,
     "cross_band": 28
   },
   "source_plans": {
@@ -3144,10 +3144,62 @@
       "area": "Lernbereich 2: Die Welt um mich herum",
       "operator": null,
       "version": "2019"
+    },
+    "page912_2027": {
+      "id": "page912_2027",
+      "level": 1,
+      "parent_target_id": "page912_2027",
+      "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "Einblick gewinnen",
+      "version": "2026"
+    },
+    "page912_2028": {
+      "id": "page912_2028",
+      "level": 2,
+      "parent_target_id": "page912_2027",
+      "target": "Erfassen von Flächeninhalt und Umfang",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2028",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187164": {
+      "id": "page912_187164",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Vergleichen von Flächeninhalten",
+      "remarks": "direktes Vergleichen durch Übereinanderlegen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187164",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page912_187165": {
+      "id": "page912_187165",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Zerlegen von Flächen in vergleichbare Teilfiguren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187165",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187165",
-  "next_step": "Als Nächstes GS3 Zerlegen von Flächen in vergleichbare Teilfiguren187165 unter2027/2028 gegen beide FSP-Bänder prüfen; anschließend Zusammensetzen187166. Offene Anschlussfrage187164 zum qualitativen Flächenvergleich ausdrücklich bewahren und anhand der neuen Evidenz nachprüfen. 97 Karten(69 passend,28 stufenübergreifend),24 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert. Audit auf main veröffentlicht, Pages erfolgreich und unveränderte Live-App bestätigt; Nachweise in MA-095.",
+  "next_id": "page912_187166",
+  "next_step": "Als Nächstes GS3 Ergänzen/Zusammensetzen von Flächen187166 unter2027/2028 gegen beide FSP-Bänder prüfen. MA-098 deckt187165 nur als Zerlegung in zwei kongruente Rechteckhälften und187164 nur als deren qualitative Flächengleichheit; andere Vergleiche und Zerlegungen bleiben in Restumfängen offen. 98 Karten(70 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.403: Veröffentlichung und Liveprüfung ausstehend.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3461,7 +3513,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_095.json",
+  "last_review_file": "review_batch_096.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -3943,33 +3995,6 @@
       ],
       "review": "MA-090",
       "follow_up_evidence": "Bei der abschließenden Nachprüfung prüfen, ob der unveränderte rechteckbezogene Teilgegenstand von MA-094 unter expliziter Kennzeichnung des gemeinsamen Endpunkts für187161 genügt oder ein eigenständig belegter FSP-Schnittlagengegenstand fehlt. Kein Umdeuten in ein zusätzliches FSP-Zeichenziel. Allgemeine Muster-/Werkzeugziele allein tragen nicht jede frei ergänzte Schnittlagenanforderung."
-    },
-    {
-      "gs_id": "page912_187164",
-      "scope": "Qualitativer Vergleich von Flächeninhalten; Reichweite allgemeiner Größen-/Figurenvergleiche und des Verpackungsvergleichs.",
-      "status": "offen",
-      "reason": "GS187164 verlangt den Vergleich von Flächeninhalten unter Einblick gewinnen2027; direktes Vergleichen durch Übereinanderlegen ist Bemerkung, keine eigenständige Lernzielebene. FSP1/2 Sortieren nach Größe37827 und Figuren-/Merkmalsvergleich37836 unter Kennen37821 sind positive Kandidaten für einen qualitativen Größenvergleich ebener Figuren. Die offene Frage betrifft die didaktische Eingrenzung dieser allgemeinen Größen-/Merkmalsziele auf Flächeninhalt: Größe kann auch lineare Ausdehnung meinen; Oberfläche bezeichnet nicht automatisch deren Maß. Die fehlende ausdrückliche Wortnennung Flächeninhalt allein begründet keinen Nichtanschluss. Stufengleich bietet FSP3/4 Merkmalsvergleich35525 unter Gestalten35521 einen verwandten Gegenstand, die Bemerkung konkretisiert jedoch gegenüberliegende Seiten. Vergleich von Verpackungen35568 unter Anwenden35554 nennt Seitenflächen in der Bemerkung und ist ein weiterer positiver Kandidat; Verpackungsgröße und Inhalt sind nicht automatisch Flächeninhalt. Der Wahlbereich1 Einkaufsbummel muss bei einer möglichen Zuordnung erhalten bleiben. Flächengestaltung38011/38014/38015 (FSP1/2 Wahlbereich3 Muster) und Musterergänzung35535 (FSP3/4) belegen Gestaltung, aber noch keine bestimmte flächenbezogene Vergleichsrelation. Längenvergleich35514 unter Übertragen35511 ist kein Flächenvergleich. Deshalb vorerst offene Anschlussfrage und keine neue Karte; kein pauschaler Ausschluss beider FSP-Bänder.",
-      "candidate_ids": [
-        "page139_35521",
-        "page139_35524",
-        "page139_35525",
-        "page139_35535",
-        "page139_35554",
-        "page139_35568",
-        "page139_35511",
-        "page139_35514",
-        "page139_37821",
-        "page139_37824",
-        "page139_37827",
-        "page139_37832",
-        "page139_37836",
-        "page139_37844",
-        "page139_38011",
-        "page139_38014",
-        "page139_38015"
-      ],
-      "review": "MA-095",
-      "follow_up_evidence": "Bei der Nachprüfung von187164 ausdrücklich entscheiden, ob der allgemeine Größenvergleich37827 zusammen mit Figurenmerkmalen37836 einen eng begrenzten qualitativen Flächenvergleich ähnlicher beziehungsweise ineinander enthaltener Grundformen fachlich trägt. Gegebenenfalls die Flächeninterpretation als didaktische Konkretisierung kennzeichnen, ohne eine besondere Vergleichsmethode aus der GS-Bemerkung zum FSP-Pflichtziel zu machen. Zuvor den stufengleichen Kandidaten35568 im Einkaufs-/Seitenflächenkontext sowie35525 im Gestaltungskontext auf denselben begrenzten Gegenstand prüfen; Ergebnis mit Grund für Bandwahl dokumentieren. Die Prüfung von Zerlegen187165 und Zusammensetzen187166 darf als zusätzliche Evidenz einfließen, schließt187164 jedoch nicht automatisch mit ab."
     }
   ],
   "remaining_scopes": [
@@ -4603,15 +4628,27 @@
     },
     {
       "gs_id": "page912_2027",
-      "scope": "Gesamter Anschlussentscheid zu187164 bleibt offen; keine vollständige GS-Zieldeckung behauptet. Zerlegen187165, Zusammensetzen187166, Auszählen187167, Schätzen187168, Umfänge187169 und Fachbegriffe2029 werden separat geprüft. Hauptziel2027 und Unterziel2028 sind nur als Kontext gelesen, nicht vollständig geprüft oder als zusätzliche Erstentscheidungen gezählt.",
+      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext zu187164/187165; keine vollständige Abdeckung. MA-098 erfasst nur kongruente Rechteckhälften. Weitere Flächenvergleiche/Zerlegungen sowie187166–187169 und2029 bleiben offen.",
       "status": "offen",
-      "review": "MA-095"
+      "review": "MA-096"
     },
     {
       "gs_id": "page912_2028",
-      "scope": "Gesamter Anschlussentscheid zu187164 bleibt offen; keine vollständige GS-Zieldeckung behauptet. Zerlegen187165, Zusammensetzen187166, Auszählen187167, Schätzen187168, Umfänge187169 und Fachbegriffe2029 werden separat geprüft. Hauptziel2027 und Unterziel2028 sind nur als Kontext gelesen, nicht vollständig geprüft oder als zusätzliche Erstentscheidungen gezählt.",
+      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext zu187164/187165; keine vollständige Abdeckung. MA-098 erfasst nur kongruente Rechteckhälften. Weitere Flächenvergleiche/Zerlegungen sowie187166–187169 und2029 bleiben offen.",
       "status": "offen",
-      "review": "MA-095"
+      "review": "MA-096"
+    },
+    {
+      "gs_id": "page912_187164",
+      "scope": "Andere gleiche oder ungleiche Flächen, nicht deckungsgleiche flächengleiche Figuren, Größenordnungen beliebiger Figuren sowie selbstständige Auswahl und Begründung von Vergleichsverfahren bleiben offen. Die allgemeinen Kandidaten37827/37836 und der Verpackungsvergleich35568 erhalten durch diesen speziellen Symmetriebeleg keine pauschale Flächenmaßdeutung.",
+      "status": "offen",
+      "review": "MA-096"
+    },
+    {
+      "gs_id": "page912_187165",
+      "scope": "Andere Figuren, Zerlegung in mehr als zwei Teile, nicht kongruente vergleichbare Teilfiguren, systematisches Finden aller Zerlegungen und weitergehende Flächenmaßverfahren bleiben offen. Das Halbieren an einer Spiegelachse ist nur ein belegter Sonderfall von Zerlegen; Zerlegen und Zusammensetzen187166 werden nicht gleichgesetzt.",
+      "status": "offen",
+      "review": "MA-096"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4647,7 +4684,7 @@
       "page912_2027"
     ],
     "rows": 179,
-    "note": "MA-095:179 inventarisierte Zeilen unverändert.187164 erstmals einzeln untersucht, Anschlussfrage offen;2027/2028 nur Kontext. Keine neue Karte, kein neuer Nichtanschluss, keine Vollabdeckung. Teilinventar, kein Gesamtinventar.",
+    "note": "MA-096:187165 erstmals begrenzt geprüft;187164 nach MA-095 als enger Anschluss nachgeprüft, nicht erneut als Erstprüfung gezählt.2027/2028 nur Kontext.179 Inventurzeilen unverändert; eine neue Karte mit zwei begrenzt zugeordneten Unterzielzeilen, keine Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5022,6 +5059,19 @@
         "MA-004"
       ],
       "note": "Qualitativer Längenvergleich an bestimmten Figuren, keine Messzahlen oder Rechnungen. Keine20/100- oder cm-Grenze übernommen;94 Bestandskarten unverändert."
+    },
+    "follow_up_rectangle_halves": {
+      "batch": "MA-096",
+      "cards": {
+        "MA-098": "domain_specific"
+      },
+      "existing_rechecked": [
+        "MA-002",
+        "MA-011",
+        "MA-045",
+        "MA-097"
+      ],
+      "note": "Qualitative Spiegelhalbierung, keine Rechenwerte oder erfundene20/100-Grenze. Zwei Hälften ist Strukturmerkmal. Alle97 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -5042,13 +5092,18 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-093",
-    "status": "verified",
-    "app_version": "1.402",
-    "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-    "pages_run": 44621694106,
-    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-    "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+    "batch": "MA-096",
+    "status": "pending",
+    "app_version": "1.403",
+    "previous_publication": {
+      "batch": "MA-093",
+      "status": "verified",
+      "app_version": "1.402",
+      "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+      "pages_run": 44621694106,
+      "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+      "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+    }
   },
   "latest_audit_publication": {
     "batch": "MA-095",
@@ -5208,6 +5263,44 @@
         ]
       },
       "review_file": "review_batch_087.json"
+    },
+    {
+      "gs_id": "page912_187164",
+      "opened_in": "MA-095",
+      "resolved_in": "MA-096",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-098"
+      ],
+      "scope": "Die Frage nach einem belegten begrenzten Flächenvergleich ist durch den stufenpassenden Vergleich kongruenter Spiegelhälften entschieden. Keine generelle Freigabe der allgemeinen Größen-/Verpackungskandidaten und kein Abschluss der gesamten Zeile; weitere Vergleiche als Restumfang geführt.",
+      "previous_question": {
+        "gs_id": "page912_187164",
+        "scope": "Qualitativer Vergleich von Flächeninhalten; Reichweite allgemeiner Größen-/Figurenvergleiche und des Verpackungsvergleichs.",
+        "status": "offen",
+        "reason": "GS187164 verlangt den Vergleich von Flächeninhalten unter Einblick gewinnen2027; direktes Vergleichen durch Übereinanderlegen ist Bemerkung, keine eigenständige Lernzielebene. FSP1/2 Sortieren nach Größe37827 und Figuren-/Merkmalsvergleich37836 unter Kennen37821 sind positive Kandidaten für einen qualitativen Größenvergleich ebener Figuren. Die offene Frage betrifft die didaktische Eingrenzung dieser allgemeinen Größen-/Merkmalsziele auf Flächeninhalt: Größe kann auch lineare Ausdehnung meinen; Oberfläche bezeichnet nicht automatisch deren Maß. Die fehlende ausdrückliche Wortnennung Flächeninhalt allein begründet keinen Nichtanschluss. Stufengleich bietet FSP3/4 Merkmalsvergleich35525 unter Gestalten35521 einen verwandten Gegenstand, die Bemerkung konkretisiert jedoch gegenüberliegende Seiten. Vergleich von Verpackungen35568 unter Anwenden35554 nennt Seitenflächen in der Bemerkung und ist ein weiterer positiver Kandidat; Verpackungsgröße und Inhalt sind nicht automatisch Flächeninhalt. Der Wahlbereich1 Einkaufsbummel muss bei einer möglichen Zuordnung erhalten bleiben. Flächengestaltung38011/38014/38015 (FSP1/2 Wahlbereich3 Muster) und Musterergänzung35535 (FSP3/4) belegen Gestaltung, aber noch keine bestimmte flächenbezogene Vergleichsrelation. Längenvergleich35514 unter Übertragen35511 ist kein Flächenvergleich. Deshalb vorerst offene Anschlussfrage und keine neue Karte; kein pauschaler Ausschluss beider FSP-Bänder.",
+        "candidate_ids": [
+          "page139_35521",
+          "page139_35524",
+          "page139_35525",
+          "page139_35535",
+          "page139_35554",
+          "page139_35568",
+          "page139_35511",
+          "page139_35514",
+          "page139_37821",
+          "page139_37824",
+          "page139_37827",
+          "page139_37832",
+          "page139_37836",
+          "page139_37844",
+          "page139_38011",
+          "page139_38014",
+          "page139_38015"
+        ],
+        "review": "MA-095",
+        "follow_up_evidence": "Bei der Nachprüfung von187164 ausdrücklich entscheiden, ob der allgemeine Größenvergleich37827 zusammen mit Figurenmerkmalen37836 einen eng begrenzten qualitativen Flächenvergleich ähnlicher beziehungsweise ineinander enthaltener Grundformen fachlich trägt. Gegebenenfalls die Flächeninterpretation als didaktische Konkretisierung kennzeichnen, ohne eine besondere Vergleichsmethode aus der GS-Bemerkung zum FSP-Pflichtziel zu machen. Zuvor den stufengleichen Kandidaten35568 im Einkaufs-/Seitenflächenkontext sowie35525 im Gestaltungskontext auf denselben begrenzten Gegenstand prüfen; Ergebnis mit Grund für Bandwahl dokumentieren. Die Prüfung von Zerlegen187165 und Zusammensetzen187166 darf als zusätzliche Evidenz einfließen, schließt187164 jedoch nicht automatisch mit ab."
+      },
+      "review_file": "review_batch_096.json"
     }
   ],
   "learning_level_reviews": {
@@ -5255,9 +5348,17 @@
       "level": "Einblick gewinnen",
       "target_id": "page912_2027",
       "checked_on": "2026-11-20",
-      "definition_evidence": "Amtliches GS-HTML: Beschreibung der Lernziele; grundlegende Orientierung ohne tiefere Reflexion.",
-      "hierarchy_evidence": "HTML-Hauptziel2027, Unterziel2028 und Unter-Unterziel187164 getrennt. Keine Ersetzung durch Erfassen/Vergleichen.",
-      "review": "MA-095"
+      "definition_evidence": "Begriffsdefinitionen beider amtlicher PDFs S.V/PDF5 erneut gelesen.",
+      "hierarchy_evidence": "GS-PDF S.20/PDF30: Hauptziel Einblick gewinnen, darunter Erfassen2028 und Vergleich187164/Zerlegen187165. Sichtprüfung bestätigt; Zielhandlungen sind keine Lernzielebenen.",
+      "review": "MA-096"
+    },
+    "page139_35432": {
+      "level": "Kennen",
+      "target_id": "page139_35432",
+      "checked_on": "2026-11-20",
+      "definition_evidence": "Begriffsdefinitionen beider amtlicher PDFs S.V/PDF5 erneut gelesen.",
+      "hierarchy_evidence": "FSP-PDF S.18/PDF30: Kennen von Spiegelbildern mit Halbieren durch Finden der Spiegelachse35434; anschließendes Einblick gewinnen35435 getrennt. Sichtprüfung bestätigt; Zielhandlungen sind keine Lernzielebenen.",
+      "review": "MA-096"
     }
   }
 }

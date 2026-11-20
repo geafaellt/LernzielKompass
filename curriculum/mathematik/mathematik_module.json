@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-19.7",
-  "checked_on": "2026-11-19",
+  "version": "MA-2026-11-20.1",
+  "checked_on": "2026-11-20",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1592,6 +1592,30 @@
       "title": "FSP Lernen Mathematik1/2 · Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_2027",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2028",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2028",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187164",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187164",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187165",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187165",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -9444,6 +9468,81 @@
         ],
         "fsp_remark_anchors": [
           "page139_37844"
+        ]
+      }
+    },
+    {
+      "id": "MA-098",
+      "subject": "Mathematik",
+      "theme": "Eine Rechteckfläche in gleiche Hälften zerlegen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Rechteckhälften · qualitative Flächengleichheit",
+      "gs_anchor": "GS Mathematik Kl.3 · Raum und Form · Flächenvergleich187164 und Zerlegen in vergleichbare Teilfiguren187165 unter Einblick gewinnen2027; Erfassen2028 als Kontext",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Einer braucht den anderen · Halbieren durch Finden der Spiegelachse35434 unter Kennen von Spiegelbildern35432",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "Lernzielebenen: GS Einblick gewinnen · FSP Kennen. Stufenbandpassender Teilanschluss GS3 → FSP3/4: eine Rechteckfläche in zwei deckungsgleiche Teilrechtecke zerlegen und deren Flächengleichheit erkennen. GS187165 nennt Zerlegen von Flächen in vergleichbare Teilfiguren,187164 Vergleichen von Flächeninhalten unter Einblick gewinnen2027 und Erfassen2028. FSP35434 nennt ausdrücklich Halbieren durch Finden der Spiegelachse unter Kennen35432. Ausgewählt wird die Halbierung eines vertrauten Rechtecks an einer zu einem Seitenpaar parallelen Spiegelachse. Rechteckauswahl, Deckungsgleichheit und gleicher Flächeninhalt der spiegelbildlichen Hälften sind didaktische Konkretisierungen beziehungsweise notwendige mathematische Eigenschaften dieses Halbierungsfalls; sie werden nicht als wörtliche zusätzliche FSP-Unterziele ausgegeben. GS Einblick gewinnen und FSP Kennen sind die amtlichen Lernzielebenen; Zerlegen, Vergleichen, Halbieren und Finden sind konkrete Zielhandlungen. Keine vollständige GS-Zieldeckung: Weder allgemeine Flächenvergleiche noch beliebige Zerlegungen oder die gesamten Hauptzielebenen sind durch diesen Fall nachgewiesen.",
+      "gs_target_ids": [
+        "page912_2027",
+        "page912_2028",
+        "page912_187164",
+        "page912_187165"
+      ],
+      "fsp_target_ids": [
+        "page139_35432",
+        "page139_35434"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2027",
+        "Q-MA-page912_2028",
+        "Q-MA-page912_187164",
+        "Q-MA-page912_187165",
+        "Q-MA-page139_35432",
+        "Q-MA-page139_35434"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: eine Rechteckfläche in zwei deckungsgleiche Teilrechtecke zerlegen und deren Flächengleichheit erkennen. GS187165 nennt Zerlegen von Flächen in vergleichbare Teilfiguren,187164 Vergleichen von Flächeninhalten unter Einblick gewinnen2027 und Erfassen2028. FSP35434 nennt ausdrücklich Halbieren durch Finden der Spiegelachse unter Kennen35432. Ausgewählt wird die Halbierung eines vertrauten Rechtecks an einer zu einem Seitenpaar parallelen Spiegelachse. Rechteckauswahl, Deckungsgleichheit und gleicher Flächeninhalt der spiegelbildlichen Hälften sind didaktische Konkretisierungen beziehungsweise notwendige mathematische Eigenschaften dieses Halbierungsfalls; sie werden nicht als wörtliche zusätzliche FSP-Unterziele ausgegeben. GS Einblick gewinnen und FSP Kennen sind die amtlichen Lernzielebenen; Zerlegen, Vergleichen, Halbieren und Finden sind konkrete Zielhandlungen. Keine vollständige GS-Zieldeckung: Weder allgemeine Flächenvergleiche noch beliebige Zerlegungen oder die gesamten Hauptzielebenen sind durch diesen Fall nachgewiesen. Vorausgesetzt sind eine vertraute, eindeutig bestimmte Rechteckfläche und die Vorstellung spiegelbildlich zusammengehöriger Teile. Die gewählte Trennlinie ist eine echte Spiegelachse parallel zu einem Seitenpaar; eine beliebige Mittellinie oder Diagonale wird nicht ungeprüft gleichgesetzt. Die beiden Teilflächen bilden zusammen lückenlos die Ausgangsfläche, ihre Innenbereiche überlappen nicht. Deckungsgleichheit bedeutet gleiche Form und Größe, nicht nur gleich viele Ecken. Rest: Andere gleiche oder ungleiche Flächen, nicht deckungsgleiche flächengleiche Figuren, Größenordnungen beliebiger Figuren sowie selbstständige Auswahl und Begründung von Vergleichsverfahren bleiben offen. Die allgemeinen Kandidaten37827/37836 und der Verpackungsvergleich35568 erhalten durch diesen speziellen Symmetriebeleg keine pauschale Flächenmaßdeutung. Andere Figuren, Zerlegung in mehr als zwei Teile, nicht kongruente vergleichbare Teilfiguren, systematisches Finden aller Zerlegungen und weitergehende Flächenmaßverfahren bleiben offen. Das Halbieren an einer Spiegelachse ist nur ein belegter Sonderfall von Zerlegen; Zerlegen und Zusammensetzen187166 werden nicht gleichgesetzt.",
+      "shared_object_suggestion": "Eine Rechteckfläche und ihre beiden deckungsgleichen, spiegelbildlichen Hälften.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind zerlegt eine vertraute Rechteckfläche in zwei deckungsgleiche Teilrechtecke und erkennt, dass beide denselben Flächeninhalt haben.",
+          "criterion": "Die beiden Teilrechtecke ergeben lückenlos und ohne Überlappung ihrer Innenbereiche die Ausgangsfläche. Sie stimmen in Form und Größe überein und werden als flächengleich erkannt. Die Teilflächen werden mit der ganzen Fläche in Beziehung gesetzt. Keine Messzahlen, Flächeneinheiten, Formeln, Bruchschreibweise oder vollständige Aufzählung aller Zerlegungsmöglichkeiten werden zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung des Zerlegens187165 und Vergleichens187164 unter Einblick gewinnen2027. Ausgewählt ist ein kongruenter Halbierungsfall, keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind findet an einer vertrauten Rechteckfläche eine zu einem Seitenpaar parallele Spiegelachse und bestimmt damit die beiden spiegelbildlichen Hälften.",
+          "criterion": "Die gewählte Achse bestimmt zwei deckungsgleiche Teilrechtecke, die zusammen die ganze Fläche bilden und deren Innenbereiche sich nicht überlappen. Die Teile werden als zusammengehörige spiegelbildliche Hälften erkannt. Eine beliebige Trennlinie reicht nicht aus. Keine Messzahlen, Bruchnotation, formale Flächenberechnung, bestimmte Falt- oder Zeichenmethode und keine Untersuchung aller Spiegelachsen werden zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des Halbierens durch Finden der Spiegelachse35434 unter Kennen35432. Rechteckauswahl und Deckungsgleichheit konkretisieren den geometrischen Halbierungsfall; keine arithmetische Halbierung von Anzahlen."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: zwei spiegelbildliche Rechteckhälften ohne Messzahlen",
+        "detail": "35434 belegt geometrisches Halbieren durch Finden der Spiegelachse. Für den gewählten qualitativen Fall ist kein numerischer Zahlenraum maßgeblich. Zwei Hälften beschreibt die Teil-Ganzes-Struktur und ist keine Zahlenraumobergrenze. Weder20/100 aus Zahlzielen noch m/cm aus Längenzielen gelten als Flächenmaßgrenze. GS187164/187165 nennen ebenfalls keine numerische Obergrenze. Deckungsgleichheit und damit Flächengleichheit der beiden Hälften sind mathematisch abgeleitete Eigenschaften des ausgewählten Spiegelhalbierungsfalls.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35432",
+          "Q-MA-page139_35434"
+        ],
+        "planning_rule": "Vorausgesetzt sind eine vertraute, eindeutig bestimmte Rechteckfläche und die Vorstellung spiegelbildlich zusammengehöriger Teile. Die gewählte Trennlinie ist eine echte Spiegelachse parallel zu einem Seitenpaar; eine beliebige Mittellinie oder Diagonale wird nicht ungeprüft gleichgesetzt. Die beiden Teilflächen bilden zusammen lückenlos die Ausgangsfläche, ihre Innenbereiche überlappen nicht. Deckungsgleichheit bedeutet gleiche Form und Größe, nicht nur gleich viele Ecken. Nur die qualitative Teil-Ganzes- und Spiegelbeziehung dieses Rechteckfalls beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Seitenmaße, Umfangs- oder Flächenberechnungen Bestandteil des Feinziels. Numerische Erweiterungen benötigen eine gesonderte Quellen- und Bereichsprüfung einschließlich aller relevanten Ergebnisse. Die FSP-Bemerkung nennt Falten und Gitternetze als Beispiele, keine automatisch vorgegebenen Aufgaben oder Hilfsmittel. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "2027 Hauptziel Einblick gewinnen,2028 Erfassen nur Kontext.187164 Vergleich und187165 Zerlegen sind die begrenzt zugeordneten Unterzielzeilen. Kongruente Rechteckhälften sind eine didaktische Auswahl vergleichbarer Teilfiguren.",
+        "fsp": "35432 Hauptziel Kennen,35434 geometrische Halbierung als ausdrückliches Unterziel. Falten und Abbildungen in Gitternetzen stehen rechts in der Bemerkung und werden nicht als Pflichtmethoden übernommen. Die anschließende arithmetische Zielgruppe35435 ist ein anderes Hauptziel.",
+        "context_only_gs_ids": [
+          "page912_2027",
+          "page912_2028"
         ]
       }
     }
