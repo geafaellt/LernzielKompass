@@ -5554,9 +5554,13 @@
   },
   "latest_audit_publication": {
     "batch": "MA-101",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.406",
+    "audit_commit": "353498f4d92c4ad5738aa9e9075c8306c0b5fac1",
+    "pages_run": 44775758080,
     "app_unchanged": true,
+    "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+    "note": "Audit-only; all101 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-100.",
     "previous_audit_publication": {
       "batch": "MA-099",
       "status": "verified",
