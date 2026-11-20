@@ -561,10 +561,10 @@
   "limits": "Die sieben offenen Fragen sind einzeln vorgeprüft, nicht abschließend entschieden. Keine Vollabdeckung behauptet.187168 nicht neu gezählt und weiterhin offen; Umfangsbestimmung ersetzt keine Schätzung.",
   "continuation": {
     "next_id": "page912_2034",
-    "next_step": "Zuerst Eigenschaften/Fachbegriffe von Körpernetzen2034/2035 prüfen; danach offene konkrete Körperanschlüsse aus MA-100 entscheiden. Umfangsschätzung187168 bleibt separat offen; MA-101 bestimmt exakte Randlängen, kein Schätznachweis.101 Karten,31 offene Anschlussfragen. Deutsch-Abschluss DE-UZ-052 bewahrt; keine offene Deutsch-Einzelprüfung im aktuellen Stand. App1.406: Veröffentlichung und Liveprüfung ausstehend."
+    "next_step": "Zuerst Eigenschaften/Fachbegriffe von Körpernetzen2034/2035 prüfen; danach offene konkrete Körperanschlüsse aus MA-100 entscheiden. Umfangsschätzung187168 bleibt separat offen; MA-101 bestimmt exakte Randlängen, kein Schätznachweis.101 Karten,31 offene Anschlussfragen. Deutsch-Abschluss DE-UZ-052 bewahrt; keine offene Deutsch-Einzelprüfung im aktuellen Stand. App1.406 veröffentlicht; Pages und tatsächlich ausgelieferte App einschließlich Browserprüfungen bestätigt."
   },
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_live",
     "checks": [
       {
         "script": "update-mathematik.py",
@@ -606,12 +606,20 @@
     "browser_local": "check-mathematik-live-ma-101.cjs passed: MA-064/067/101; mobile MA-101320/390; scope on card, goals and planning output; source links; teacher drafts preserved; tasks/aids empty.",
     "learning_levels": "check-learning-levels.cjs passed:414 cards/828 sides. Display/structure regression, not new semantic review of all414 cards. MA-101 explicitly uses Einblick gewinnen2027/Übertragen35511, never the child actions.",
     "preservation": "All100 prior mathematics cards and all413 prior learning-level entries unchanged. Deutsch/Sachunterricht checks passed. Original draft byte-identical.31 unique open questions,10 no-direct decisions,191 unique inventory rows;12 inventory additions. No double counting of context rows.",
-    "limits": "No UI code change; no full101-card functional browser run. Current live checks pending.",
-    "local_html_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5"
+    "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+    "local_html_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+    "browser_live": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.406"
+    "batch": "MA-100",
+    "status": "verified",
+    "app_version": "1.406",
+    "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
+    "pages_run": 44727254718,
+    "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+    "live_byte_identical": true,
+    "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
+    "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open."
   },
   "proposed_card": {
     "id": "MA-101",

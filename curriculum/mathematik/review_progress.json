@@ -3251,7 +3251,7 @@
     }
   },
   "next_id": "page912_2034",
-  "next_step": "Zuerst Eigenschaften/Fachbegriffe von Körpernetzen2034/2035 prüfen; danach offene konkrete Körperanschlüsse aus MA-100 entscheiden. Umfangsschätzung187168 bleibt separat offen; MA-101 bestimmt exakte Randlängen, kein Schätznachweis.101 Karten,31 offene Anschlussfragen. Deutsch-Abschluss DE-UZ-052 bewahrt; keine offene Deutsch-Einzelprüfung im aktuellen Stand. App1.406: Veröffentlichung und Liveprüfung ausstehend.",
+  "next_step": "Zuerst Eigenschaften/Fachbegriffe von Körpernetzen2034/2035 prüfen; danach offene konkrete Körperanschlüsse aus MA-100 entscheiden. Umfangsschätzung187168 bleibt separat offen; MA-101 bestimmt exakte Randlängen, kein Schätznachweis.101 Karten,31 offene Anschlussfragen. Deutsch-Abschluss DE-UZ-052 bewahrt; keine offene Deutsch-Einzelprüfung im aktuellen Stand. App1.406 veröffentlicht; Pages und tatsächlich ausgelieferte App einschließlich Browserprüfungen bestätigt.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5454,8 +5454,14 @@
   },
   "latest_publication": {
     "batch": "MA-100",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.406",
+    "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
+    "pages_run": 44727254718,
+    "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+    "live_byte_identical": true,
+    "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
+    "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
     "previous_publication": {
       "batch": "MA-098",
       "status": "verified",
