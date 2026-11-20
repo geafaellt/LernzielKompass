@@ -502,7 +502,7 @@
   },
   "continuation": {
     "next_id": "page912_187166",
-    "next_step": "Als Nächstes GS3 Ergänzen/Zusammensetzen von Flächen187166 unter2027/2028 gegen beide FSP-Bänder prüfen. MA-098 deckt187165 nur als Zerlegung in zwei kongruente Rechteckhälften und187164 nur als deren qualitative Flächengleichheit; andere Vergleiche und Zerlegungen bleiben in Restumfängen offen. 98 Karten(70 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.403: Veröffentlichung und Liveprüfung ausstehend."
+    "next_step": "Als Nächstes GS3 Ergänzen/Zusammensetzen von Flächen187166 unter2027/2028 gegen beide FSP-Bänder prüfen. MA-098 deckt187165 nur als Zerlegung in zwei kongruente Rechteckhälften und187164 nur als deren qualitative Flächengleichheit; andere Vergleiche und Zerlegungen bleiben in Restumfängen offen. 98 Karten(70 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.403 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich und gezielte Browser-/Lernzielebenenprüfungen öffentlich bestanden; Nachweise in MA-096."
   },
   "tests": {
     "status": "passed",
@@ -540,12 +540,21 @@
     "browser": {
       "targeted": "scripts/check-mathematik-live-ma-098.cjs passed locally: MA-002/011 inGS1/2 and MA-098 inGS3,scope visible in card/goals/output,source links,goal adoption,task/aid fields empty,teacher drafts preserved,subject isolation,reload,mobile320/390.",
       "learning_levels": "scripts/check-learning-levels.cjs passed locally:411 cards/822 sides,structural evidence/display check;not a fresh substantive curriculum review of all411 cards.",
-      "limits": "No UI code change;no full98-card functional browser run. Live checks pending."
+      "limits": "No UI code change;no full98-card functional browser run. Structural/display evidence checks are not a fresh substantive review of all411 cards.",
+      "live_targeted": "passed: same targeted checks as local",
+      "live_learning_levels": "passed:411 cards/822 sides"
     },
-    "publication": "pending"
+    "publication": "verified commit, successful Pages run, exact live bytes and live browser checks"
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.403"
+    "batch": "MA-096",
+    "status": "verified",
+    "app_version": "1.403",
+    "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+    "pages_run": 44669748044,
+    "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+    "live_byte_identical": true,
+    "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+    "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open."
   }
 }
