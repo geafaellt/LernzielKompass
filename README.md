@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.405** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.406** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -172,3 +172,6 @@ Mathematik MA-098 ergänzt MA-100: gleich große Teilflächen bis100 auszählen,
 
 
 Mathematik MA-099: Schätzen187168 im Flächen-/Umfangskontext geprüft; konkrete Umfangsanschlussfrage offen.100 Karten,24 Anschlussfragen; [Prüfpaket](curriculum/mathematik/review_batch_099.json). Reiner Audit, App1.405 unverändert. Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Modul, Lernzielebenen-Daten und HTML bytegleich; kein neuer Browserlauf. Audit mit Commite73d3760e88c7317639d6557156ae8ca571575ae auf main veröffentlicht; [Pages-Lauf44697849566](https://github.com/geafaellt/LernzielKompass/actions/runs/44697849566) erfolgreich. Unveränderte Live-App1.405 bytegleich bestätigt(SHA256 79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10).
+
+
+Mathematik MA-100: gesicherten Entwurf einmalig integriert. MA-101 vergleicht ganze Randlängen zweier Dreiecksbegrenzungen; bis100 als didaktischer Rechenrahmen.101 Karten,31 Anschlussfragen,191 Inventurzeilen. [Prüfpaket](curriculum/mathematik/review_batch_100.json). App1.406: Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Gezielte Browserprüfung MA-064/067/101 einschließlich mobiler MA-101-Darstellung320px/390px bestanden. Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar; eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Lernzielebenen-Anzeige aller414 Karten/828 Seiten bestanden; keine neue fachliche Einzelprüfung aller Karten. Keine UI-Codeänderung und kein vollständiger101-Karten-Funktionslauf. Veröffentlichung und Liveprüfung ausstehend.

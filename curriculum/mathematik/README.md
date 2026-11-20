@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-099
+# Mathematik-Abgleich · MA-100
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Hundert Karten dokumentieren begrenzte Anschlüsse. Zweiundsiebzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091 und MA-097 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhunderteine Karten dokumentieren begrenzte Anschlüsse. Dreiundsiebzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091 und MA-097 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei GS3 Bestimmen/Vergleichen von Umfängen187169. [MA-099](review_batch_099.json) prüft Schätzen187168; konkrete Umfangsanschlussfrage offen.100 Karten,24 offene Anschlussfragen,179 Inventurzeilen. [Zeilenaudit](row_audit.csv).
+Fortsetzung bei GS3 Körpernetze2034/2035. [MA-100](review_batch_100.json) integriert den gesicherten Entwurf einmalig: MA-101 und10 Zeilenentscheidungen, davon7 offen und2 direkte Fachwort-Nichtanschlüsse.101 Karten,31 Anschlussfragen,191 Inventurzeilen. [Zeilenaudit](row_audit.csv).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1006,3 +1006,14 @@ Die Längen-/Schätzzeilen35514 und37967 nennen keine numerische Höchstlänge, 
 Rest: Der Anschlussentscheid zu187168 bleibt offen; keine neue GS-Zieldeckung. Flächeninhaltsschätzung, Schätzung eines gesamten Umfangs und Schätzung von Teilflächenanzahlen bleiben getrennt zu entscheiden.187169 Bestimmen/Vergleichen von Umfängen und2029 Fachbegriffe folgen separat. Alle bestehenden begrenzten Anschlüsse und Restumfänge bleiben erhalten.
 
 Eine neue Erstprüfung und eine neue offene Anschlussfrage. Keine neue Karte, Inventurzeile, Nichtanschlussentscheidung oder Vollabdeckung.100 Karten(72 passend,28 stufenübergreifend),253 Quellen/251 Zielanker,24 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Alle100 Karten und App1.405 unverändert. Fortsetzung187169. Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Modul, Lernzielebenen-Daten und HTML bytegleich; kein neuer Browserlauf. Audit mit Commite73d3760e88c7317639d6557156ae8ca571575ae auf main veröffentlicht; [Pages-Lauf44697849566](https://github.com/geafaellt/LernzielKompass/actions/runs/44697849566) erfolgreich. Unveränderte Live-App1.405 bytegleich bestätigt(SHA256 79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10).
+
+
+## MA-100 · App 1.406 · 20.11.2026
+
+Gesicherten Entwurf auf main abgeglichen und einmalig integriert; Originaldatei bleibt als Herkunftsnachweis erhalten. GS3 → FSP3/4: Gesamte Randlängen zweier dreieckiger Alltagsbegrenzungen in ganzen Zentimetern bestimmen und vergleichen. Der Umfang ist mathematisch die Summe aller drei Seitenlängen; jede Seite geht genau einmal ein. Diese konkrete Verbindung von Längenmessen und Längenrechnung ist didaktisch abgeleitet, kein wörtlich genanntes FSP-Umfangsziel. GS deutet die Gesamtlänge als Umfang, FSP überträgt Längenwissen auf die geklärte Umweltsituation. Kein Flächeninhalt, keine Umfangsformel, keine Umrechnung und kein Schätzauftrag. Faden steht nur in der GS-Bemerkung und wird nicht als Hilfsmittel vorgeschlagen. Dreiecksform und Rechenrahmen bis 100 einschließlich aller Seiten, Teilsummen und Gesamtumfänge sind didaktische Eingrenzungen. Der Rahmen stammt aus dem übergreifenden FSP-Zahlziel35415, nicht aus einer amtlichen Höchstlänge. Die zwei Umfänge werden verglichen, nicht zu einer weiteren Summe addiert. GS187169 und2027/2028 nennen keine eigene Zahlenobergrenze; bis100 ist auch für das GS-Feinziel didaktisch gewählt. Die1000-Grenze des anderen GS-Zahlziels wird nicht als eigene Umfangsgrenze ausgegeben. Keine vollständige GS-Zieldeckung: andere Figuren, gebogene Begrenzungen, andere Einheiten und Verfahren sowie weitergehende Umfangsvergleiche bleiben offen.
+
+Stufengleich35511/35514/35516/35520 trägt die Verbindung von ganzen cm und Längenrechnung im Umweltkontext.1/2 37961/37967/37974/37976 belegt ebenfalls positive Längen-/Rechenanschlüsse, jedoch im Natur-/Meterkontext. Für den gewählten cm-Ausschnitt wird3/4 bevorzugt; kein Ausschluss wegen kleinerer Zahlenräume.
+
+2029 und187176: kein direkt belegter verbindlicher Fachwortanschluss; didaktische Einführung nicht ausgeschlossen.187170–187175 und2033: sieben einzeln vorgeprüfte offene Anschlussfragen, keine abschließenden Nichtanschlüsse. Allgemeines Körperziel35454 nicht pauschal auf benannte Körper verengt oder auf beliebige Körper erweitert. Operatorloser Block35456 bleibt ohne erfundene Ebene.187168 weiterhin offen: der Dreiecksrand ist jetzt als Gesamtlängenfall begründet, eine eigene Schätzkonkretisierung steht aus.
+
+Alle100 Bestandskarten unverändert.10 Erstprüfungen,1 begrenzter Anschluss,7 offene Fragen,2 direkte Fachwort-Nichtanschlüsse; keine Vollabdeckung.12 neue Inventurzeilen einschließlich2030/2032 nur Kontext und2034/2035 ohne Einzelentscheidung.101 Karten(73 passend,28 stufenübergreifend),255 Quellen/253 Zielanker,31 offene Anschlussfragen,191 Inventurzeilen,10 Nichtanschlussentscheidungen. Aufgaben und Hilfsmittel bleiben leer; eigene Entwürfe nicht automatisch validiert. Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Gezielte Browserprüfung MA-064/067/101 einschließlich mobiler MA-101-Darstellung320px/390px bestanden. Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar; eigene Entwürfe erhalten, Aufgaben/Hilfsmittel leer. Lernzielebenen-Anzeige aller414 Karten/828 Seiten bestanden; keine neue fachliche Einzelprüfung aller Karten. Keine UI-Codeänderung und kein vollständiger101-Karten-Funktionslauf. Veröffentlichung und Liveprüfung ausstehend.

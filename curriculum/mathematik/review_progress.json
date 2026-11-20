@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-099",
+  "last_batch": "MA-100",
   "complete": false,
   "counts": {
-    "cards": 100,
+    "cards": 101,
     "cross_band": 28
   },
   "source_plans": {
@@ -3222,10 +3222,36 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187169": {
+      "id": "page912_187169",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Bestimmen und Vergleichen von Umfängen",
+      "remarks": "mit einem Faden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187169",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
+    },
+    "page139_35520": {
+      "id": "page139_35520",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Rechnen mit Längen in Sachzusammenhängen",
+      "remarks": "Festigen der Strategien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35520",
+      "grade": "3/4",
+      "area_id": "MA-page139_35418",
+      "area": "Lernbereich 3: Natur entdecken und erleben",
+      "operator": "",
+      "version": "2019"
     }
   },
-  "next_id": "page912_187169",
-  "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099 auf main veröffentlicht, Pages erfolgreich, unveränderte App1.405 live bytegleich bestätigt; Nachweise in MA-099.",
+  "next_id": "page912_2034",
+  "next_step": "Zuerst Eigenschaften/Fachbegriffe von Körpernetzen2034/2035 prüfen; danach offene konkrete Körperanschlüsse aus MA-100 entscheiden. Umfangsschätzung187168 bleibt separat offen; MA-101 bestimmt exakte Randlängen, kein Schätznachweis.101 Karten,31 offene Anschlussfragen. Deutsch-Abschluss DE-UZ-052 bewahrt; keine offene Deutsch-Einzelprüfung im aktuellen Stand. App1.406: Veröffentlichung und Liveprüfung ausstehend.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3539,7 +3565,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_099.json",
+  "last_review_file": "review_batch_100.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4055,7 +4081,162 @@
         "page139_38015"
       ],
       "review": "MA-099",
-      "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird."
+      "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird.",
+      "follow_up_in_MA100": "MA-101 bestätigt einen didaktisch begrenzten geschlossenen Rand als Gesamtlängenfall. Die frühere grundsätzliche Randlinienfrage ist damit für diesen Dreiecksfall geklärt. Offen bleibt die eigene Konkretisierung für Schätzwerte mit Referenzbezug/Genauigkeitsrahmen; exakte Werte nicht nur umbenennen. Flächeninhaltsschätzung bleibt unabhängig offen."
+    },
+    {
+      "gs_id": "page912_187170",
+      "scope": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper",
+      "status": "offen",
+      "reason": "GS verlangt Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Prüfen, welche der fünf GS-Handlungen durch35454 oder35459 an einem konkreten Körper getragen wird; die drei GS-Unterformen separat entscheiden."
+    },
+    {
+      "gs_id": "page912_187171",
+      "scope": "Pyramide",
+      "status": "offen",
+      "reason": "GS verlangt Pyramide. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Allgemeines Körperziel35454 auf Entdecken/Vergleichen einer Pyramidenform in der Umwelt prüfen;35456 nennt diesen Körper nicht und darf nicht als ausdrücklicher Pyramidenbeleg dienen."
+    },
+    {
+      "gs_id": "page912_187172",
+      "scope": "Kegel",
+      "status": "offen",
+      "reason": "GS verlangt Kegel. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Prüfen, ob35454 einen eng begrenzten Umwelt-Kegelformvergleich trägt; fehlende ausdrückliche Kegelnennung nicht allein zum Ausschluss machen, aber kein Kegel-Herstellungsziel erfinden."
+    },
+    {
+      "gs_id": "page912_187173",
+      "scope": "Zylinder",
+      "status": "offen",
+      "reason": "GS verlangt Zylinder. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Reichweite35454 für Zylinderformen im Umweltkontext gesondert prüfen; Kreis/ Rechteck aus1/2 belegt allein keine Körperkompetenz."
+    },
+    {
+      "gs_id": "page912_187174",
+      "scope": "Vergleichen von Eigenschaften",
+      "status": "offen",
+      "reason": "GS verlangt Vergleichen von Eigenschaften. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Direktes Vergleichen35454 zuerst auf einen gemeinsamen Körper-Eigenschaftsausschnitt prüfen. GS-Kontext weiterer Körper erhalten; Würfel-/Quader-/Kugelmerkmale35456 nicht pauschal substituieren."
+    },
+    {
+      "gs_id": "page912_187175",
+      "scope": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
+      "status": "offen",
+      "reason": "GS verlangt Erkennen von Körpern aus unterschiedlichen Blick­winkeln. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Übergreifende räumliche Sichtweisen3/4 sind Kontext, kein automatischer Nachweis des Erkennens dieser Körper aus wechselnden Blickwinkeln.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Übergreifende räumliche Sichtweisen35415 als Kontext hinzunehmen und prüfen, ob zusammen mit35454 ein bestimmter Ansichtserkennungsfall belegbar ist; keine vollständige Perspektivkompetenz ableiten."
+    },
+    {
+      "gs_id": "page912_2033",
+      "scope": "Herstellen, Zeichnen und Prüfen von Würfel- und Quadernetzen",
+      "status": "offen",
+      "reason": "Würfel und Quader sind in FSP3/4 35456 belegt; Nachformen/Bauen35459 und Wiedererkennen von Rechteck/Quadrat als Seitenbegrenzung stehen im zugehörigen Ziel-/Bemerkungskontext. Das belegt nicht bereits Herstellen, Zeichnen und Prüfen eines vollständigen zusammenhängenden Netzes. FSP1/2-Falten37844 betrifft ebene Figuren. Offene Anschlussfrage: eng begrenzter Teilanschluss über Seitenflächen möglich, aber Netz-Zusammenhang, Faltbarkeit und Vollständigkeitskontrolle nicht automatisch mitgedeckt.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "35456/35459 und35527 gegen einen konkreten Seitenflächen-Netz-Ausschnitt prüfen; der operatorlose Block35456 bleibt ohne erfundene Lernzielebene. Falten37844 betrifft zunächst ebene Figuren; daraus keine allgemeine Netzprüfung ableiten."
     }
   ],
   "remaining_scopes": [
@@ -4689,15 +4870,15 @@
     },
     {
       "gs_id": "page912_2027",
-      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext; keine vollständige Abdeckung. Belegte Teilanschlüsse187164–187167 bleiben begrenzt;187168 hat nun eine offene Anschlussfrage.187169 und2029 noch einzeln zu prüfen. Weitere Vergleichs-, Zerlegungs-, Zusammensetzungs- und Auszählreste bleiben offen.",
+      "scope": "Kontext bleibt insgesamt offen. MA-101 ergänzt nur die Gesamtlänge dreieckiger Ränder in ganzen cm mit didaktischem Rechenrahmen bis100. Fachwörter2029 ohne direkten Anschluss; Schätzfrage187168 und frühere Flächenreste bleiben offen.",
       "status": "offen",
-      "review": "MA-099"
+      "review": "MA-100"
     },
     {
       "gs_id": "page912_2028",
-      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext; keine vollständige Abdeckung. Belegte Teilanschlüsse187164–187167 bleiben begrenzt;187168 hat nun eine offene Anschlussfrage.187169 und2029 noch einzeln zu prüfen. Weitere Vergleichs-, Zerlegungs-, Zusammensetzungs- und Auszählreste bleiben offen.",
+      "scope": "Kontext bleibt insgesamt offen. MA-101 ergänzt nur die Gesamtlänge dreieckiger Ränder in ganzen cm mit didaktischem Rechenrahmen bis100. Fachwörter2029 ohne direkten Anschluss; Schätzfrage187168 und frühere Flächenreste bleiben offen.",
       "status": "offen",
-      "review": "MA-099"
+      "review": "MA-100"
     },
     {
       "gs_id": "page912_187164",
@@ -4728,6 +4909,66 @@
       "scope": "Der Anschlussentscheid zu187168 bleibt offen; keine neue GS-Zieldeckung. Flächeninhaltsschätzung, Schätzung eines gesamten Umfangs und Schätzung von Teilflächenanzahlen bleiben getrennt zu entscheiden.187169 Bestimmen/Vergleichen von Umfängen und2029 Fachbegriffe folgen separat. Alle bestehenden begrenzten Anschlüsse und Restumfänge bleiben erhalten.",
       "status": "offen",
       "review": "MA-099"
+    },
+    {
+      "gs_id": "page912_187169",
+      "scope": " GS187169 und2027/2028 nennen keine eigene Zahlenobergrenze; bis100 ist auch für das GS-Feinziel didaktisch gewählt. Die1000-Grenze des anderen GS-Zahlziels wird nicht als eigene Umfangsgrenze ausgegeben. Keine vollständige GS-Zieldeckung: andere Figuren, gebogene Begrenzungen, andere Einheiten und Verfahren sowie weitergehende Umfangsvergleiche bleiben offen. Schätzen187168 bleibt gesondert offen; exakte Bestimmung ersetzt keinen Schätznachweis.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_2029",
+      "scope": "Kein direkter FSP-Fachwortanschluss in den geprüften Bändern dokumentiert; keine Behauptung, diese Wörter dürften nicht unterrichtet werden.",
+      "status": "kein direkter Anschluss",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187170",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187171",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187172",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187173",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187174",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187175",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_187176",
+      "scope": "Kein direkter FSP-Fachwortanschluss in den geprüften Bändern dokumentiert; keine Behauptung, diese Wörter dürften nicht unterrichtet werden.",
+      "status": "kein direkter Anschluss",
+      "review": "MA-100"
+    },
+    {
+      "gs_id": "page912_2033",
+      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "status": "offen",
+      "review": "MA-100"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4738,7 +4979,9 @@
     "page912_187083",
     "page912_187149",
     "page912_187150",
-    "page912_187452"
+    "page912_187452",
+    "page912_2029",
+    "page912_187176"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -4763,7 +5006,7 @@
       "page912_2027"
     ],
     "rows": 179,
-    "note": "MA-099:187168 erstmals einzeln geprüft, offene Anschlussfrage statt Karte/Nichtanschluss.2027/2028 nur Kontext.179 Inventurzeilen und100 Karten unverändert; keine Vollabdeckung.",
+    "note": "MA-100: gesicherten Entwurf einmalig integriert.10 Erstprüfungen:1 begrenzter Anschluss,7 offene Fragen,2 direkte Fachwort-Nichtanschlüsse.12 neue Inventurzeilen, davon2 Hauptzielkontexte und2034/2035 nur inventarisiert.191 Inventurzeilen insgesamt; keine Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5176,6 +5419,20 @@
         "MA-099"
       ],
       "note": "Bis100 ausdrücklich in35461; gesamte Teilflächenmenge einschließlich relevanter Zwischen-/Endwerte begrenzt. Keine Flächenmaßeinheit daraus abgeleitet. Alle99 Bestandskarten unverändert."
+    },
+    "follow_up_triangle_perimeters": {
+      "batch": "MA-100",
+      "cards": {
+        "MA-101": "derived"
+      },
+      "existing_rechecked": [
+        "MA-004",
+        "MA-064",
+        "MA-066",
+        "MA-067",
+        "MA-100"
+      ],
+      "note": "Alle100 Bestandskarten unverändert. Bis100 ist didaktischer Rechenrahmen aus35415, keine amtliche Höchstlänge. Ganze cm aus35516; alle Seiten/Teilsummen/Gesamtumfänge begrenzt; zwei Umfänge nur vergleichen."
     }
   },
   "publication_recheck": {
@@ -5196,43 +5453,48 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-098",
-    "status": "verified",
-    "app_version": "1.405",
-    "commit": "b03ad838651acbe36e955787111ef54744048c0c",
-    "pages_run": 44691360865,
-    "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
-    "live_byte_identical": true,
-    "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
-    "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+    "batch": "MA-100",
+    "status": "pending",
+    "app_version": "1.406",
     "previous_publication": {
-      "batch": "MA-097",
+      "batch": "MA-098",
       "status": "verified",
-      "app_version": "1.404",
-      "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
-      "pages_run": 44688597423,
-      "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
+      "app_version": "1.405",
+      "commit": "b03ad838651acbe36e955787111ef54744048c0c",
+      "pages_run": 44691360865,
+      "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
       "live_byte_identical": true,
-      "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
-      "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+      "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
+      "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
       "previous_publication": {
-        "batch": "MA-096",
+        "batch": "MA-097",
         "status": "verified",
-        "app_version": "1.403",
-        "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
-        "pages_run": 44669748044,
-        "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+        "app_version": "1.404",
+        "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
+        "pages_run": 44688597423,
+        "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
         "live_byte_identical": true,
-        "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
-        "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+        "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
+        "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
         "previous_publication": {
-          "batch": "MA-093",
+          "batch": "MA-096",
           "status": "verified",
-          "app_version": "1.402",
-          "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-          "pages_run": 44621694106,
-          "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-          "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+          "app_version": "1.403",
+          "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+          "pages_run": 44669748044,
+          "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+          "live_byte_identical": true,
+          "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+          "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+          "previous_publication": {
+            "batch": "MA-093",
+            "status": "verified",
+            "app_version": "1.402",
+            "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+            "pages_run": 44621694106,
+            "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+            "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+          }
         }
       }
     }

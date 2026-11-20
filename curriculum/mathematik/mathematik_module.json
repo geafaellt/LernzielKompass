@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-20.3",
+  "version": "MA-2026-11-20.4",
   "checked_on": "2026-11-20",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1628,6 +1628,18 @@
       "title": "GS Mathematik3 · Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187167",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187169",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187169",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35520",
+      "title": "FSP Mathematik3/4 · Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35520",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -9708,6 +9720,94 @@
           "page912_2028"
         ],
         "fsp_remark_anchor": "page139_35463"
+      }
+    },
+    {
+      "id": "MA-101",
+      "subject": "Mathematik",
+      "theme": "Umfänge dreieckiger Begrenzungen vergleichen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Umfang als gesamte Randlänge",
+      "gs_anchor": "GS Mathematik Kl. 3 · Raum und Form · Bestimmen und Vergleichen von Umfängen 187169 unter Einblick gewinnen 2027",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Längen in der Umwelt: Messen und Vergleichen 35514, ganze cm 35516 und Längenrechnung 35520 unter Übertragen 35511",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "GS-Lernzielebene: Einblick gewinnen; FSP-Lernzielebene: Übertragen. GS3 → FSP3/4: Gesamte Randlängen zweier dreieckiger Alltagsbegrenzungen in ganzen Zentimetern bestimmen und vergleichen. Der Umfang ist mathematisch die Summe aller drei Seitenlängen; jede Seite geht genau einmal ein. Diese konkrete Verbindung von Längenmessen und Längenrechnung ist didaktisch abgeleitet, kein wörtlich genanntes FSP-Umfangsziel. GS deutet die Gesamtlänge als Umfang, FSP überträgt Längenwissen auf die geklärte Umweltsituation. Kein Flächeninhalt, keine Umfangsformel, keine Umrechnung und kein Schätzauftrag. Faden steht nur in der GS-Bemerkung und wird nicht als Hilfsmittel vorgeschlagen. Dreiecksform und Rechenrahmen bis 100 einschließlich aller Seiten, Teilsummen und Gesamtumfänge sind didaktische Eingrenzungen. Der Rahmen stammt aus dem übergreifenden FSP-Zahlziel35415, nicht aus einer amtlichen Höchstlänge. Die zwei Umfänge werden verglichen, nicht zu einer weiteren Summe addiert. GS187169 und2027/2028 nennen keine eigene Zahlenobergrenze; bis100 ist auch für das GS-Feinziel didaktisch gewählt. Die1000-Grenze des anderen GS-Zahlziels wird nicht als eigene Umfangsgrenze ausgegeben. Keine vollständige GS-Zieldeckung: andere Figuren, gebogene Begrenzungen, andere Einheiten und Verfahren sowie weitergehende Umfangsvergleiche bleiben offen.",
+      "gs_target_ids": [
+        "page912_2027",
+        "page912_2028",
+        "page912_187169"
+      ],
+      "fsp_target_ids": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35516",
+        "page139_35520"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2027",
+        "Q-MA-page912_2028",
+        "Q-MA-page912_187169",
+        "Q-MA-page139_35511",
+        "Q-MA-page139_35514",
+        "Q-MA-page139_35515",
+        "Q-MA-page139_35516",
+        "Q-MA-page139_35520",
+        "Q-MA-page139_35415"
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 → FSP3/4: Gesamte Randlängen zweier dreieckiger Alltagsbegrenzungen in ganzen Zentimetern bestimmen und vergleichen. Der Umfang ist mathematisch die Summe aller drei Seitenlängen; jede Seite geht genau einmal ein. Diese konkrete Verbindung von Längenmessen und Längenrechnung ist didaktisch abgeleitet, kein wörtlich genanntes FSP-Umfangsziel. GS deutet die Gesamtlänge als Umfang, FSP überträgt Längenwissen auf die geklärte Umweltsituation. Kein Flächeninhalt, keine Umfangsformel, keine Umrechnung und kein Schätzauftrag. Faden steht nur in der GS-Bemerkung und wird nicht als Hilfsmittel vorgeschlagen. Dreiecksform und Rechenrahmen bis 100 einschließlich aller Seiten, Teilsummen und Gesamtumfänge sind didaktische Eingrenzungen. Der Rahmen stammt aus dem übergreifenden FSP-Zahlziel35415, nicht aus einer amtlichen Höchstlänge. Die zwei Umfänge werden verglichen, nicht zu einer weiteren Summe addiert. GS187169 und2027/2028 nennen keine eigene Zahlenobergrenze; bis100 ist auch für das GS-Feinziel didaktisch gewählt. Die1000-Grenze des anderen GS-Zahlziels wird nicht als eigene Umfangsgrenze ausgegeben. Keine vollständige GS-Zieldeckung: andere Figuren, gebogene Begrenzungen, andere Einheiten und Verfahren sowie weitergehende Umfangsvergleiche bleiben offen.",
+      "shared_object_suggestion": "Die gesamte Randlänge zweier dreieckiger Begrenzungen aus der Alltagsumwelt.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind gewinnt eine erste Vorstellung vom Umfang, indem es die gesamte Randlänge zweier dreieckiger Alltagsbegrenzungen in ganzen Zentimetern bis 100 bestimmt und vergleicht.",
+          "criterion": "Alle drei Seiten jeder Begrenzung werden genau einmal berücksichtigt. Seitenlängen, sämtliche Teilsummen und beide Gesamtumfänge sind ganze Zentimeterwerte bis 100. Die zwei Gesamtlängen und ihr Vergleich stimmen; Flächeninhalt und Randlänge werden nicht verwechselt. Zahlenrahmen und Dreiecksform sind didaktisch gewählt; ganze Zentimeter sind auf FSP-Seite in35516 belegt und auf GS-Seite als Ausschnitt gewählt; kein Messgerät oder Verfahren wird vorgeschrieben.",
+          "status": "Didaktisch begrenzter Ausschnitt von187169 unter Einblick gewinnen2027; keine vollständige Hauptzieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind überträgt sein Wissen über Längen auf zwei geklärte dreieckige Alltagsbegrenzungen und bestimmt und vergleicht deren gesamte Randlängen in ganzen Zentimetern bis 100.",
+          "criterion": "Alle drei Seiten jeder Begrenzung werden genau einmal berücksichtigt. Seitenlängen, sämtliche Teilsummen und beide Gesamtumfänge sind ganze Zentimeterwerte bis 100. Die zwei Gesamtlängen und ihr Vergleich stimmen; Flächeninhalt und Randlänge werden nicht verwechselt. Zahlenrahmen und Dreiecksform sind didaktisch gewählt; ganze Zentimeter sind auf FSP-Seite in35516 belegt und auf GS-Seite als Ausschnitt gewählt; kein Messgerät oder Verfahren wird vorgeschrieben.",
+          "scope_status": "derived",
+          "range_max": 100,
+          "status": "Didaktische Verbindung von35514/35516/35520 unter Übertragen35511. Kein eigenständiges FSP-Ziel zur Definition oder Formel des Umfangs."
+        }
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Ganze Zentimeterwerte bis 100 einschließlich aller Gesamtumfänge · didaktischer Rechenrahmen",
+        "detail": "35514/35520 nennen keine numerische Höchstlänge. Ganze cm sind in35516 belegt. Der Rechenrahmen bis100 wird aus dem übergreifenden Zahlziel35415 für diesen Ausschnitt abgeleitet; keine amtliche Längenobergrenze. GS187169 und2027/2028 nennen keine eigene Zahlenobergrenze; bis100 ist auch für das GS-Feinziel didaktisch gewählt. Die1000-Grenze des anderen GS-Zahlziels wird nicht als eigene Umfangsgrenze ausgegeben. Keine vollständige GS-Zieldeckung: andere Figuren, gebogene Begrenzungen, andere Einheiten und Verfahren sowie weitergehende Umfangsvergleiche bleiben offen.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415",
+          "Q-MA-page139_35516",
+          "Q-MA-page139_35520"
+        ],
+        "planning_rule": "Vorher zwei nicht entartete dreieckige Alltagsbegrenzungen mit klaren Randabschnitten wählen. Alle Seiten, Teil- und Gesamtsummen bleiben ganze Zentimeterwerte bis100. Jede Seite zählt genau einmal. Keine gemischten Einheiten, Umrechnung, Flächenmaß- oder Umfangsformel. Die gesamte Randlänge bleibt vom Flächeninhalt getrennt. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Seiten müssen eine reale nicht entartete Dreiecksbegrenzung bilden; beliebige Zahlentripel genügen nicht. Die beiden Umfänge werden nur verglichen und nicht addiert. Messgenauigkeit vorab didaktisch klären; keine amtliche Toleranz erfinden. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187169 verbindliches Unterziel,2027/2028 Kontext. Faden nur Bemerkung.",
+        "fsp": "35514,35516,35520 verbindliche Längenunterziele. Ihre Verknüpfung zum dreieckigen Gesamtumfang ist eine offengelegte didaktische Ableitung.35415 übergreifender Zahlenrahmen.",
+        "fsp_remark_anchors": [
+          "page139_35514"
+        ],
+        "context_only_gs_ids": [
+          "page912_2027",
+          "page912_2028"
+        ]
       }
     }
   ]
