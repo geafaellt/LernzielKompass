@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-20.4",
+  "version": "MA-2026-11-20.5",
   "checked_on": "2026-11-20",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1639,6 +1639,42 @@
       "id": "Q-MA-page139_35520",
       "title": "FSP Mathematik3/4 · Natur entdecken und erleben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35520",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_2030",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2030",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187170",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187170",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187171",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187171",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187174",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187174",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35451",
+      "title": "FSP Lernen Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35451",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35454",
+      "title": "FSP Lernen Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35454",
       "version": "2019"
     }
   ],
@@ -9807,6 +9843,83 @@
         "context_only_gs_ids": [
           "page912_2027",
           "page912_2028"
+        ]
+      }
+    },
+    {
+      "id": "MA-102",
+      "subject": "Mathematik",
+      "theme": "Pyramidenform und Quaderform vergleichen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · didaktisch gewählter Körperformvergleich",
+      "gs_anchor": "GS Mathematik Kl.3 · Raum und Form · weitere Körper187170/Pyramide187171 und Eigenschaftsvergleich187174 unter Kennen2030",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Die Welt um mich herum · Körper entdecken/vergleichen35454 unter Anwenden35451; Pyramidenform als didaktisch gewähltes Beispiel",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "Lernzielebenen: GS Kennen · FSP Anwenden. Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben. Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "gs_target_ids": [
+        "page912_2030",
+        "page912_187170",
+        "page912_187171",
+        "page912_187174"
+      ],
+      "fsp_target_ids": [
+        "page139_35451",
+        "page139_35454"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2030",
+        "Q-MA-page912_187170",
+        "Q-MA-page912_187171",
+        "Q-MA-page912_187174",
+        "Q-MA-page139_35451",
+        "Q-MA-page139_35454"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben. Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden. Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "shared_object_suggestion": "Die räumliche Form einer quadratischen Pyramide im Vergleich zu einem Quader an eindeutig geformten Alltagsgegenständen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt eine quadratische Pyramidenform an einem geeigneten Alltagsgegenstand, benennt sie als Pyramide und beschreibt ihren Unterschied zu einer Quaderform anhand der seitlichen Flächen.",
+          "criterion": "Die dreieckigen seitlichen Flächen der ausgewählten Pyramidenform treffen außerhalb der Grundfläche in einer gemeinsamen Spitze zusammen. Beim Quader wird das Fehlen einer solchen gemeinsamen Spitze aller seitlichen Flächen erkannt. Eine beliebige Ecke oder ein dreieckiger Umriss allein wird nicht als Pyramidenmerkmal gewertet. Keine Messzahlen, Rechnungen, Herstellung oder vollständige Merkmalsliste verlangt.",
+          "status": "Didaktischer Ausschnitt von187170/187171/187174 unter Kennen2030; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wendet bekannte Merkmale ebener Figuren auf die Körperformen ausgewählter Alltagsgegenstände an und vergleicht eine quadratische Pyramidenform mit einer Quaderform anhand ihrer seitlichen Flächen.",
+          "criterion": "Dreieckige seitliche Flächen mit gemeinsamem Treffpunkt außerhalb der Grundfläche werden von der seitlichen Flächenanordnung des Quaders ohne solchen gemeinsamen Treffpunkt unterschieden und sachgerecht beschrieben. Der räumliche Körperbezug bleibt erhalten; eine beliebige Ecke oder ein bloßer dreieckiger Umriss genügt nicht. Die Fachwörter Pyramide und Spitze, Messzahlen, Rechnungen, Herstellung und vollständige Merkmalslisten werden nicht zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des Körpervergleichs35454 unter Anwenden35451. Gewählte Pyramidenform und Vergleichsaspekt sind keine zusätzlichen amtlichen FSP-Pflichtinhalte; kein vollständiger Anwenden-Nachweis."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitativer Körperformvergleich ohne Messzahlen",
+        "detail": "35454 belegt Körpervergleich; der Vergleichsaspekt und die quadratische Pyramidenform sind didaktisch gewählt. Keine numerische Obergrenze für diesen qualitativen Ausschnitt ausgewiesen. Die Meterangabe steht in der Bemerkung zum Messen von Kantenlängen und begrenzt keine rein qualitative Formerkennung.20/100 aus übergreifenden Zahlzielen wird nicht übernommen. Auch GS187170/187171/187174 nennen keine Zahlenobergrenze. Ein gemeinsamer Treffpunkt ist eine Formbeziehung, keine Zahlenraumgrenze.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35451",
+          "Q-MA-page139_35454"
+        ],
+        "planning_rule": "Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden. Nur qualitative Form- und Flächenbeziehungen beurteilen; keine numerischen Ausgangs-, Zwischen- oder Endwerte, Kantenlängen, Winkelgrade, Anzahlenlisten oder Rechnungen Bestandteil dieses Feinziels. Numerische Erweiterungen benötigen eine gesonderte belegte oder ausdrücklich didaktisch festgelegte Grenze einschließlich aller relevanten Ergebnisse. Alltags-/Gegenstandsbezug aus35451 erhalten. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "2030 Hauptziel Kennen nur Kontext;187170 begrenzt Erkennen/Benennen/Beschreiben,187171 ausgewählte Pyramidenform,187174 qualitativer Vergleich. Umweltentdeckung und Modellarten stehen in Bemerkung187170.",
+        "fsp": "35451 Hauptziel Anwenden;35454 ausdrückliches allgemeines Körpervergleichsziel. Vorgegebene Merkmale in der Bemerkung. Pyramidenform und qualitative Flächenbeziehung als offengelegte didaktische Konkretisierung, keine eigene ausdrückliche Pyramiden-Fachwortforderung.",
+        "context_only_gs_ids": [
+          "page912_2030"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35454"
         ]
       }
     }

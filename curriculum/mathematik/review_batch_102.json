@@ -1,0 +1,515 @@
+{
+  "id": "MA-102",
+  "date": "2026-11-20",
+  "base_commit": "181af8880feb5585d3670f906ceb24b7a1e195db",
+  "scope": "GS3 weitere Körper: Pyramide und ausgewählter Eigenschaftsvergleich; Klärung dreier offener Fragen",
+  "source_verification": {
+    "html": "Beide amtlichen HTML-Lehrpläne frisch geladen; Ziel-/Bemerkungszellen und Elternzeilen geprüft.",
+    "pdf": "Amtliche Bestands-PDFs wiederverwendet, kein neuer PDF-Abruf. GS S.21/PDF31 frisch gerendert und visuell geprüft; FSP S.19/PDF31 vorhandene Darstellung erneut visuell geprüft. Definitionen beider Pläne S.V/PDF5 textuell gelesen.",
+    "pdf_files": [
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+        "sha256": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+        "visual_pdf_page": 31,
+        "printed_page": "21"
+      },
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+        "visual_pdf_page": 31,
+        "printed_page": "19"
+      }
+    ]
+  },
+  "source_sha256": {
+    "gs": "661c6d02c9b763f8f9ad1d02ce6eec7223a6dcbb49ced46526ad5777413a5f89",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_2030": {
+      "id": "page912_2030",
+      "level": 1,
+      "parent_target_id": "page912_2030",
+      "target": "Kennen geometrischer Körper",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2030"
+    },
+    "page912_187170": {
+      "id": "page912_187170",
+      "level": 2,
+      "parent_target_id": "page912_2030",
+      "target": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper",
+      "remarks": "in der Umwelt entdecken Vollmodelle, Flächenmodelle, Kantenmodelle",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187170"
+    },
+    "page912_187171": {
+      "id": "page912_187171",
+      "level": 3,
+      "parent_target_id": "page912_2030",
+      "target": "Pyramide",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187171"
+    },
+    "page912_187174": {
+      "id": "page912_187174",
+      "level": 2,
+      "parent_target_id": "page912_2030",
+      "target": "Vergleichen von Eigenschaften",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187174"
+    },
+    "page139_35451": {
+      "id": "page139_35451",
+      "level": 1,
+      "parent_target_id": "page139_35451",
+      "target": "Anwenden des Wissens über ebene Figuren auf das Bestimmen der Formen von Gegenständen",
+      "remarks": "Gebrauchsgegenstände, Spiel- und Schulsachen, Verpackungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35451"
+    },
+    "page139_35454": {
+      "id": "page139_35454",
+      "level": 2,
+      "parent_target_id": "page139_35451",
+      "target": "Entdecken, Vergleichen, Sortieren und Benennen von Körpern",
+      "remarks": "Unterscheiden nach selbst gefundenen und nach vorgegebenen Merkmalen Messen von Kantenlängen bis zu einem Meter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35454"
+    },
+    "page139_35456": {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456"
+    },
+    "page139_35459": {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35568": {
+      "id": "page139_35568",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Vergleich von Verpackungen",
+      "remarks": "Festigen von Merkmalen der Körper und ihrer Seitenflächen kritischer Vergleich von Verpackungsgröße und Inhalt Vermeidung von Verpackungsmüll ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35568"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37824": {
+      "id": "page139_37824",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Erkennen und Benennen der Merkmale von Objekten",
+      "remarks": "Gebrauchsgegenstände, Spielsachen gezieltes Beobachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37824"
+    },
+    "page139_37827": {
+      "id": "page139_37827",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Sortieren nach Größe, Farbe, Form, Oberfläche",
+      "remarks": "Gliedern, Ordnen, Zuordnen ➔ DE - HKS, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37827"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37997": {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997"
+    },
+    "page139_38004": {
+      "id": "page139_38004",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Entdecken, Zeichnen von Mustern und Ornamenten und Bauen räumlicher Objekte",
+      "remarks": "Kleidung, Pfefferkuchenhaus, Burgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38004"
+    },
+    "page139_38005": {
+      "id": "page139_38005",
+      "level": 1,
+      "parent_target_id": "page139_38005",
+      "target": "Anwenden mathematischer Sachverhalte im Spiel",
+      "remarks": "Schule und Freizeit Arbeit an Stationen, Mathematikolympiade ⇒ Förderung des sozial-emotionalen Verhaltens",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38005"
+    },
+    "page139_38009": {
+      "id": "page139_38009",
+      "level": 2,
+      "parent_target_id": "page139_38005",
+      "target": "Spiele mit geometrischen Inhalten",
+      "remarks": "Tangram, Domino freies Bauen und Bauen nach Anleitung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38009"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187170",
+      "status": "resolved_with_limited_connection",
+      "first_review": false,
+      "cards": [
+        "MA-102"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben.",
+      "prerequisites": "Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden.",
+      "uncertainty": "Pyramidenform ist eine begründete didaktische Auswahl unter dem allgemeinen FSP-Körpervergleich, keine wörtliche besondere FSP-Zielzeile.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    },
+    {
+      "gs_id": "page912_187171",
+      "status": "resolved_with_limited_connection",
+      "first_review": false,
+      "cards": [
+        "MA-102"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben.",
+      "prerequisites": "Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden.",
+      "uncertainty": "Pyramidenform ist eine begründete didaktische Auswahl unter dem allgemeinen FSP-Körpervergleich, keine wörtliche besondere FSP-Zielzeile.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    },
+    {
+      "gs_id": "page912_187174",
+      "status": "resolved_with_limited_connection",
+      "first_review": false,
+      "cards": [
+        "MA-102"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben.",
+      "prerequisites": "Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden.",
+      "uncertainty": "Pyramidenform ist eine begründete didaktische Auswahl unter dem allgemeinen FSP-Körpervergleich, keine wörtliche besondere FSP-Zielzeile.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "band_selection": "FSP3/4 35454 wird bevorzugt: ausdrücklich Körper vergleichen im Gegenstandskontext, während35456/35459 ausdrücklich bestimmte Körpermerkmale und Bauen betreffen und nicht als Pyramiden-Herstellungsbeleg genutzt werden.35525/35527 beschreibt ebene Rechtecke/Quadrate, kein allgemeiner Körpervergleich.35568 vergleicht Verpackungen im Wahlbereich1 Einkaufsbummel; dieser zusätzliche Kontext ist für den gewählten Gegenstandsvergleich nicht nötig. FSP1/2 37824/37827 belegt positiv allgemeine Objektmerkmale/Sortieren,37836 Figurenmerkmale unter Kennen37821;37844 und37981 betreffen ebene Darstellung.38004 belegt räumliches Bauen im Märchen-Wahlbereich1,38009 geometrische Spiele mit Bauen als Bemerkung im Wahlbereich2;38015 Flächengestaltung im Wahlbereich3. Diese Bau-/Gestaltungsfälle tragen nicht allein den gewählten qualitativen Körpervergleich; der allgemeine Objektmerkmalsbezug1/2 wird nicht pauschal ausgeschlossen. Kein Ausschluss wegen kleinerer Zahlenräume. Beide gebündelten Bänder bleiben erhalten.",
+  "learning_level_review": {
+    "gs": {
+      "level": "Kennen",
+      "target_id": "page912_2030",
+      "checked_on": "2026-11-20",
+      "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Kennen: begrenztes Gebiet im gelernten Kontext.",
+      "hierarchy_evidence": "GS S.21/PDF31 visuell: Kennen geometrischer Körper über187170–187174. Tätigkeiten und Körpernamen sind keine Lernzielebenen.",
+      "review": "MA-102"
+    },
+    "fsp": {
+      "level": "Anwenden",
+      "target_id": "page139_35451",
+      "checked_on": "2026-11-20",
+      "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Anwenden: Abstraktion und Transfer in unbekannten Kontexten.",
+      "hierarchy_evidence": "FSP S.19/PDF31 visuell:35454 unter Anwenden35451;35456 danach eigenständiger operatorloser Inhaltsblock.",
+      "review": "MA-102"
+    },
+    "separation": "Erkennen, Benennen, Beschreiben, Vergleichen und Sortieren sind Zielhandlungen. Die ausgewählte qualitative Flächenbeziehung erhält keine zusätzliche Lernzielebene."
+  },
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: qualitativer Körperformvergleich ohne Messzahlen",
+    "detail": "35454 belegt Körpervergleich; der Vergleichsaspekt und die quadratische Pyramidenform sind didaktisch gewählt. Keine numerische Obergrenze für diesen qualitativen Ausschnitt ausgewiesen. Die Meterangabe steht in der Bemerkung zum Messen von Kantenlängen und begrenzt keine rein qualitative Formerkennung.20/100 aus übergreifenden Zahlzielen wird nicht übernommen. Auch GS187170/187171/187174 nennen keine Zahlenobergrenze. Ein gemeinsamer Treffpunkt ist eine Formbeziehung, keine Zahlenraumgrenze.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35451",
+      "Q-MA-page139_35454"
+    ],
+    "planning_rule": "Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden. Nur qualitative Form- und Flächenbeziehungen beurteilen; keine numerischen Ausgangs-, Zwischen- oder Endwerte, Kantenlängen, Winkelgrade, Anzahlenlisten oder Rechnungen Bestandteil dieses Feinziels. Numerische Erweiterungen benötigen eine gesonderte belegte oder ausdrücklich didaktisch festgelegte Grenze einschließlich aller relevanten Ergebnisse. Alltags-/Gegenstandsbezug aus35451 erhalten. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+  },
+  "new_cards": [
+    "MA-102"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "revisited_questions": 3,
+    "resolved_questions": 3,
+    "new_cards": 1,
+    "cards_total": 102,
+    "same_band": 74,
+    "cross_band": 28,
+    "open_questions_total": 29,
+    "no_direct_connections_total": 11,
+    "inventory_rows": 191,
+    "new_inventory_rows": 0,
+    "source_links": 261,
+    "target_anchors": 259
+  },
+  "previous_questions": {
+    "page912_187170": {
+      "gs_id": "page912_187170",
+      "scope": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper",
+      "status": "offen",
+      "reason": "GS verlangt Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Prüfen, welche der fünf GS-Handlungen durch35454 oder35459 an einem konkreten Körper getragen wird; die drei GS-Unterformen separat entscheiden."
+    },
+    "page912_187171": {
+      "gs_id": "page912_187171",
+      "scope": "Pyramide",
+      "status": "offen",
+      "reason": "GS verlangt Pyramide. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Allgemeines Körperziel35454 auf Entdecken/Vergleichen einer Pyramidenform in der Umwelt prüfen;35456 nennt diesen Körper nicht und darf nicht als ausdrücklicher Pyramidenbeleg dienen."
+    },
+    "page912_187174": {
+      "gs_id": "page912_187174",
+      "scope": "Vergleichen von Eigenschaften",
+      "status": "offen",
+      "reason": "GS verlangt Vergleichen von Eigenschaften. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Direktes Vergleichen35454 zuerst auf einen gemeinsamen Körper-Eigenschaftsausschnitt prüfen. GS-Kontext weiterer Körper erhalten; Würfel-/Quader-/Kugelmerkmale35456 nicht pauschal substituieren."
+    }
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2030",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Kennen geometrischer Körper",
+      "Karten": "",
+      "Prüfstatus": "MA-100: übergeordneter Kontext, keine zusätzliche Erstzählung oder vollständige Kartenabdeckung. Zugeordnete amtliche Lernzielebene: Kennen. Einzelzeilenentscheidungen und Restumfang separat dokumentiert."
+    },
+    {
+      "Ziel-ID": "page912_187170",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper",
+      "Karten": "",
+      "Prüfstatus": "MA-100: open_connection_question. GS verlangt Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Voraussetzungen: Weitere Körper und die jeweils ausgewählte Zielhandlung getrennt festlegen; Erkennen/Benennen ist nicht automatisch Herstellen oder Zeichnen. Rest: Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung. Nachprüfung: Prüfen, welche der fünf GS-Handlungen durch35454 oder35459 an einem konkreten Körper getragen wird; die drei GS-Unterformen separat entscheiden."
+    },
+    {
+      "Ziel-ID": "page912_187171",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Pyramide",
+      "Karten": "",
+      "Prüfstatus": "MA-100: open_connection_question. GS verlangt Pyramide. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Voraussetzungen: Pyramiden mit geeignetem Grundflächen-/Spitzenbezug von Kegeln und Prismen unterscheiden; keine beliebige Fantasieform als Pyramide ausgeben. Rest: Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung. Nachprüfung: Allgemeines Körperziel35454 auf Entdecken/Vergleichen einer Pyramidenform in der Umwelt prüfen;35456 nennt diesen Körper nicht und darf nicht als ausdrücklicher Pyramidenbeleg dienen."
+    },
+    {
+      "Ziel-ID": "page912_187174",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Vergleichen von Eigenschaften",
+      "Karten": "",
+      "Prüfstatus": "MA-100: open_connection_question. GS verlangt Vergleichen von Eigenschaften. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Voraussetzungen: Verglichene Körper, konkrete Eigenschaft und zulässige Darstellung vorab bestimmen; bloßes Benennen ist kein Eigenschaftsvergleich. Rest: Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung. Nachprüfung: Direktes Vergleichen35454 zuerst auf einen gemeinsamen Körper-Eigenschaftsausschnitt prüfen. GS-Kontext weiterer Körper erhalten; Würfel-/Quader-/Kugelmerkmale35456 nicht pauschal substituieren."
+    }
+  ],
+  "context_only_gs_ids": [
+    "page912_2030"
+  ],
+  "existing_cards_rechecked": [
+    "MA-084",
+    "MA-090",
+    "MA-095"
+  ],
+  "existing_card_review": "MA-084/090 betreffen Würfelturm-Baupläne unter operatorlosem35456 und noch festzulegendem Zahlenbereich; sie tragen keine Pyramidenherstellung. MA-095 betrifft qualitative Rechteckseiten unter Gestalten und wird nicht zum Körpervergleich erweitert. Alle101 Bestandskarten und414 bestehenden Lernzielebenen-Einträge unverändert. Keine neue vollständige semantische Bestandsprüfung behauptet.",
+  "limits": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach. Die Fachwort-Nichtanschlussentscheidung187176 bleibt unverändert; das neue FSP-Feinziel verlangt nicht diese Wörter. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorgeschlagen.",
+  "tests": {
+    "status": "passed_local",
+    "checks": [
+      {
+        "script": "update-mathematik.py",
+        "exit_code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit_code": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit_code": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-20\n",
+        "stderr": ""
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit_code": 0,
+        "stdout": "PASS: 102 mathematics cards, 261 source links (259 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit_code": 0,
+        "stdout": "PASS: 102 mathematics cards, 261 source links (259 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\n",
+        "stderr": ""
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit_code": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    ],
+    "browser_local": "check-mathematik-live-ma-102.cjs passed: MA-084/095/102; mobile MA-102320/390; scope on card/goals/output, sources, goal adoption, empty task/aid fields, teacher draft preservation and subject isolation.",
+    "learning_levels": "check-learning-levels.cjs passed:415 cards/830 sides; display/structure regression, not new semantic review of all cards.",
+    "preservation": "All101 prior mathematics cards, all255 prior source links and all414 prior learning-level entries unchanged. Three resolved questions moved with full provenance, no new first reviews;191 inventory rows;11 direct nonmatch decisions unchanged.",
+    "limits": "No UI code change; no full102-card functional browser run. Live verification pending.",
+    "local_html_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.407"
+  },
+  "continuation": {
+    "next_id": "page912_187172",
+    "next_step": "Offene Kegel-/Zylinderanschlüsse187172/187173 separat entscheiden, danach Blickwinkel187175 und Netzfragen2033/2034. MA-102 klärt187170/187171/187174 nur im qualitativen Pyramiden-Quader-Vergleich; keine erneute Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.102 Karten,29 offene Anschlussfragen. App1.407: Tests, Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt."
+  }
+}
