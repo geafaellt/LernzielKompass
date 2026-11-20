@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-097",
+  "last_batch": "MA-098",
   "complete": false,
   "counts": {
-    "cards": 99,
+    "cards": 100,
     "cross_band": 28
   },
   "source_plans": {
@@ -3209,10 +3209,23 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": null,
       "version": "2026"
+    },
+    "page912_187167": {
+      "id": "page912_187167",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Auszählen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187167",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": null,
+      "version": "2026"
     }
   },
-  "next_id": "page912_187167",
-  "next_step": "Als Nächstes GS3 Auszählen187167 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Anzahlen von Flächenteilen, gleiche Einheitsflächen und Maßzahl sorgfältig unterscheiden. MA-099 erfasst187166 nur als Zusammensetzen zweier kongruenter Rechteckflächen zu einer symmetrischen Gesamtfigur. Andere Ergänzungen und Zusammensetzungen bleiben offen. 99 Karten(71 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.404 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich und gezielte Browser-/Lernzielebenenprüfungen öffentlich bestanden; Nachweise in MA-097.",
+  "next_id": "page912_187168",
+  "next_step": "Als Nächstes GS3 Schätzen187168 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Schätzen einer Anzahl, einer Länge und eines Flächeninhalts auseinanderhalten. MA-100 verbindet187167 nur als Anzahlbestimmung gleich großer Teilflächen mit FSP3/4 Zählen bis100. Die GS-Flächenmaßdeutung ist keine belegte FSP-Messkompetenz; weitere Ausschnitte bleiben offen.100 Karten(72 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.405: Veröffentlichung und Liveprüfung ausstehend.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3526,7 +3539,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_097.json",
+  "last_review_file": "review_batch_098.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4641,15 +4654,15 @@
     },
     {
       "gs_id": "page912_2027",
-      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext, keine vollständige Abdeckung. MA-098 erfasst nur kongruente Rechteckhälften, MA-099 deren symmetrisches Zusammensetzen. Weitere Flächenvergleiche/Zerlegungen/Ergänzungen sowie187167–187169 und2029 bleiben offen.",
+      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext, keine vollständige Abdeckung. MA-098/099 erfassen kongruente Rechteckhälften und deren symmetrisches Zusammensetzen; MA-100 zählt gleich große Teilflächen bis100, ohne eine FSP-Flächenmaßkompetenz zu behaupten. Weitere Flächenvergleiche/Zerlegungen/Ergänzungen/Auszählfälle sowie187168/187169/2029 bleiben offen.",
       "status": "offen",
-      "review": "MA-097"
+      "review": "MA-098"
     },
     {
       "gs_id": "page912_2028",
-      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext, keine vollständige Abdeckung. MA-098 erfasst nur kongruente Rechteckhälften, MA-099 deren symmetrisches Zusammensetzen. Weitere Flächenvergleiche/Zerlegungen/Ergänzungen sowie187167–187169 und2029 bleiben offen.",
+      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext, keine vollständige Abdeckung. MA-098/099 erfassen kongruente Rechteckhälften und deren symmetrisches Zusammensetzen; MA-100 zählt gleich große Teilflächen bis100, ohne eine FSP-Flächenmaßkompetenz zu behaupten. Weitere Flächenvergleiche/Zerlegungen/Ergänzungen/Auszählfälle sowie187168/187169/2029 bleiben offen.",
       "status": "offen",
-      "review": "MA-097"
+      "review": "MA-098"
     },
     {
       "gs_id": "page912_187164",
@@ -4668,6 +4681,12 @@
       "scope": "Ergänzen beliebiger fehlender Flächenstücke, Zusammensetzen nicht kongruenter Teilfiguren, mehrteilige und nicht symmetrische Zusammensetzungen, nicht deckungsgleiche flächengleiche Gesamtfiguren, systematische Umlegungen mit Flächenerhaltung und quantitative Flächenmaßverfahren bleiben offen. Die GS-Bemerkung flächengleiche Figuren ist nur am gewählten kongruenten Teilflächenpaar konkretisiert, nicht vollständig ausgeschöpft. Weitere Vergleichs- und Zerlegungsreste aus187164/187165 sowie Auszählen187167 und Schätzen187168 werden nicht automatisch mitgeprüft.",
       "status": "offen",
       "review": "MA-097"
+    },
+    {
+      "gs_id": "page912_187167",
+      "scope": "Andere Gliederungen, verschieden große oder unvollständige Teile, selbstständiges Herstellen einer passenden Zerlegung, Auswahl und Wechsel von Flächeneinheiten, Flächenvergleiche mit wechselnder Einheit, cm²/m², Umfang, Multiplikationsformeln und allgemeine Flächenmaßverfahren bleiben offen. FSP-Anzahl und GS-Flächenmaßdeutung werden nicht gleichgesetzt. Schätzen187168 und Bestimmen/Vergleichen von Umfängen187169 sind nicht mitgeprüft; frühere Vergleichs-, Zerlegungs- und Zusammensetzungsreste bleiben bestehen.",
+      "status": "offen",
+      "review": "MA-098"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4703,7 +4722,7 @@
       "page912_2027"
     ],
     "rows": 179,
-    "note": "MA-097:187166 erstmals begrenzt geprüft; eine Zielzeile und eine neue Karte.2027/2028 nur Kontext, keine erneute Erstzählung.179 Inventurzeilen unverändert, keine Vollabdeckung.",
+    "note": "MA-098:187167 erstmals begrenzt geprüft; eine Zielzeile und eine neue Karte.2027/2028 nur Kontext, keine erneute Erstzählung.179 Inventurzeilen unverändert, keine Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5104,6 +5123,18 @@
         "MA-098"
       ],
       "note": "Qualitative Form-/Lage- und Teil-Ganzes-Beziehung, keine Rechenwerte oder erfundene20/100-Grenze. Alle98 Bestandskarten unverändert."
+    },
+    "follow_up_area_part_counts": {
+      "batch": "MA-098",
+      "cards": {
+        "MA-100": "explicit"
+      },
+      "existing_rechecked": [
+        "MA-087",
+        "MA-098",
+        "MA-099"
+      ],
+      "note": "Bis100 ausdrücklich in35461; gesamte Teilflächenmenge einschließlich relevanter Zwischen-/Endwerte begrenzt. Keine Flächenmaßeinheit daraus abgeleitet. Alle99 Bestandskarten unverändert."
     }
   },
   "publication_recheck": {
@@ -5124,33 +5155,38 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-097",
-    "status": "verified",
-    "app_version": "1.404",
-    "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
-    "pages_run": 44688597423,
-    "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
-    "live_byte_identical": true,
-    "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
-    "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+    "batch": "MA-098",
+    "status": "pending",
+    "app_version": "1.405",
     "previous_publication": {
-      "batch": "MA-096",
+      "batch": "MA-097",
       "status": "verified",
-      "app_version": "1.403",
-      "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
-      "pages_run": 44669748044,
-      "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+      "app_version": "1.404",
+      "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
+      "pages_run": 44688597423,
+      "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
       "live_byte_identical": true,
-      "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
-      "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+      "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
+      "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
       "previous_publication": {
-        "batch": "MA-093",
+        "batch": "MA-096",
         "status": "verified",
-        "app_version": "1.402",
-        "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-        "pages_run": 44621694106,
-        "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-        "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+        "app_version": "1.403",
+        "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+        "pages_run": 44669748044,
+        "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+        "live_byte_identical": true,
+        "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+        "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+        "previous_publication": {
+          "batch": "MA-093",
+          "status": "verified",
+          "app_version": "1.402",
+          "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+          "pages_run": 44621694106,
+          "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+          "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+        }
       }
     }
   },
@@ -5413,6 +5449,14 @@
         "checked_on": "2026-11-20",
         "finding": "PDF S.18/PDF30 erneut visuell: Herstellen35433 unter Kennen35432. Herstellen ist eine Unterzielhandlung, keine eigene Lernzielebene. Definitionen S.V beider Pläne erneut gelesen."
       }
+    },
+    "page139_35461": {
+      "level": "Beherrschen",
+      "target_id": "page139_35461",
+      "checked_on": "2026-11-20",
+      "definition_evidence": "Beide amtlichen Lehrpläne S.V/PDF5: Beherrschen bedeutet routinemäßigen Gebrauch von Handlungs-/Verfahrensweisen; GS Einblick gewinnen grundlegende Orientierung ohne tiefere Reflexion.",
+      "hierarchy_evidence": "FSP S.19/PDF31: Zählen/Abzählen35466 unter Beherrschen35461; GS S.20/PDF30: Auszählen187167 unter Erfassen2028/Einblick gewinnen2027.",
+      "review": "MA-098"
     }
   }
 }

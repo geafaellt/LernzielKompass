@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.404** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.405** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -166,3 +166,6 @@ Mathematik MA-096 ergänzt MA-098: Rechteckfläche in zwei deckungsgleiche Spieg
 
 
 Mathematik MA-097 ergänzt MA-099: spiegelbildliche Rechteckteile zusammensetzen, GS3 → FSP3/4. Lernzielebenen Einblick gewinnen/Kennen getrennt von Zielhandlungen.99 Karten,23 Anschlussfragen; [Prüfpaket](curriculum/mathematik/review_batch_097.json). App1.404: Alle sechs Daten-/Bereichsprüfungen und die Audit-Konsistenzprüfung bestanden. Gezielte Browserprüfung MA-002/098/099 einschließlich mobiler MA-099-Darstellung320px/390px bestanden; Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar. Eigene Texte erhalten, Aufgaben/Hilfsmittel leer. Lernzielebenen-Anzeige aller412 Karten/824 Seiten bestanden; keine neue fachliche Einzelprüfung aller Karten. Keine UI-Codeänderung und kein vollständiger99-Karten-Funktionslauf. App1.404 mit Commit8bdb31f1c7268b6229c3d740ede67a1ea35da152 auf main veröffentlicht; [Pages-Lauf44688597423](https://github.com/geafaellt/LernzielKompass/actions/runs/44688597423) erfolgreich. Live-Datei bytegleich(SHA256 96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03). Gezielte Browserprüfung MA-002/098/099, mobile MA-099-Darstellung320px/390px und Lernzielebenen-Anzeige aller412 Karten/824 Seiten auch öffentlich bestanden.
+
+
+Mathematik MA-098 ergänzt MA-100: gleich große Teilflächen bis100 auszählen, GS3 → FSP3/4. GS-Flächenmaßdeutung von FSP-Anzahlbestimmung und Lernzielebenen von Zielhandlungen getrennt.100 Karten,23 Anschlussfragen; [Prüfpaket](curriculum/mathematik/review_batch_098.json). App1.405: Alle sechs Daten-/Bereichsprüfungen und die Audit-Konsistenzprüfung bestanden. Gezielte Browserprüfung MA-087/099/100 einschließlich mobiler MA-100-Darstellung320px/390px bestanden; Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar. Eigene Texte erhalten, Aufgaben/Hilfsmittel leer. Lernzielebenen-Anzeige aller413 Karten/826 Seiten bestanden; keine neue fachliche Einzelprüfung aller Karten. Keine UI-Codeänderung und kein vollständiger100-Karten-Funktionslauf. Veröffentlichung und Liveprüfung ausstehend.

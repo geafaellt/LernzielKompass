@@ -1,0 +1,393 @@
+{
+  "id": "MA-098",
+  "date": "2026-11-20",
+  "base_commit": "57fa9268c906ccaa347a43de6e275f920d408199",
+  "scope": "GS3 Auszählen187167: Anzahl gleich großer Teilflächen bis 100, FSP-Anzahl und GS-Flächenmaßdeutung getrennt.",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2027": {
+      "id": "page912_2027",
+      "level": 1,
+      "parent_target_id": "page912_2027",
+      "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027"
+    },
+    "page912_2028": {
+      "id": "page912_2028",
+      "level": 2,
+      "parent_target_id": "page912_2027",
+      "target": "Erfassen von Flächeninhalt und Umfang",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2028"
+    },
+    "page912_187167": {
+      "id": "page912_187167",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Auszählen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187167"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_37804": {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804"
+    },
+    "page139_37817": {
+      "id": "page139_37817",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Erfassen von strukturierten Mengen mit bis zu sechs Elementen ohne Abzählen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37817"
+    },
+    "page139_37818": {
+      "id": "page139_37818",
+      "level": 2,
+      "parent_target_id": "page139_37804",
+      "target": "Erstellen von Mächtigkeitsfolgen",
+      "remarks": "Vergleich mehrerer Mengen hinsichtlich ihrer Mächtigkeit durch handelndes, zeichnerisches und abzählendes Zuordnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37818"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937"
+    },
+    "page139_37941": {
+      "id": "page139_37941",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zuordnen von Zahlwort und Zahl zu Mengen",
+      "remarks": "Gliedern, Ordnen Differenzierung: unterschiedliche räumliche Anordnung der Zählobjekte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941"
+    },
+    "page139_37944": {
+      "id": "page139_37944",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Abzählen von Objekten, Zählen",
+      "remarks": "durch räumliches Trennen, Berühren, visuelles Erfassen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37944"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "stage_goal_evidence": {
+    "page139_37739": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+    "page139_35415": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben."
+  },
+  "stage_goal_verification": "Beide übergreifenden Zieltexte37739/35415 im aktuellen normalisierten HTML exakt enthalten. Der ausgewählte FSP-Rahmen bis 100 stammt aus Hauptziel35461, nicht aus35415. Kleinere1/2-Zahlenräume sind kein Ausschlussgrund.",
+  "source_verification": {
+    "html": "Beide Lehrpläne am20.11.2026 frisch abgerufen; Ziel-/Bemerkungsspalten und Kandidaten beider Bänder geprüft.",
+    "pdf": "Vorliegende amtliche GS-PDF aus MA-091 und FSP-PDF aus MA-089 wiederverwendet, kein neuer PDF-Abruf. Definitionstabellen S.V/PDF5 erneut gelesen. GS S.20/PDF30 visuell erneut geprüft; FSP S.19/PDF31 frisch aus derselben PDF gerendert und visuell geprüft: Zählen/Abzählen unter Beherrschen bis100; Menge-Zahl-Zuordnung rechts als Bemerkung. Ein zunächst anhand des Dateinamens geöffnetes älteres Bild gehörte zu Deutsch und wurde nicht als Mathematikbeleg verwendet.",
+    "pdf_sources": [
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+        "sha256": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+        "pages_one_based": [
+          5,
+          30
+        ]
+      },
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+        "pages_one_based": [
+          5,
+          31
+        ]
+      }
+    ]
+  },
+  "learning_level_review": {
+    "new_card_evidence": {
+      "gs": {
+        "evidence": [
+          {
+            "level": "Einblick gewinnen",
+            "row_id": "page912_2027",
+            "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+            "grade": "3",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027"
+          }
+        ]
+      },
+      "fsp": {
+        "evidence": [
+          {
+            "level": "Beherrschen",
+            "row_id": "page139_35461",
+            "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+            "grade": "3/4",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+          }
+        ]
+      }
+    },
+    "finding": "Einblick gewinnen2027/Beherrschen35461. Auszählen,Zählen,Zuordnen sind Zielhandlungen, keine Ersatzebenen. Routiniertes Zählen ist kein Nachweis der GS-Flächenmaßdeutung oder der gesamten FSP-Hauptzielebene."
+  },
+  "new_cards": [
+    "MA-100"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-087",
+    "MA-098",
+    "MA-099"
+  ],
+  "existing_card_review": "MA-087 belegt Anzahlbestimmung bis 100 am Würfelaufbau, nicht automatisch Flächenmaß. MA-098/099 betreffen qualitative Teil-Ganzes-Beziehungen und erhalten keine100-Grenze. Alle99 Karten und ihre Grenzen unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187167",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-100"
+      ],
+      "same_band_candidates": [
+        "page139_35461",
+        "page139_35463",
+        "page139_35466",
+        "page139_35521",
+        "page139_35525",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37804",
+        "page139_37817",
+        "page139_37818",
+        "page139_37931",
+        "page139_37937",
+        "page139_37941",
+        "page139_37944",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Anzahl eindeutig abgegrenzter, gleich großer Teilflächen einer vollständig gegliederten Alltagsfläche bestimmen. GS187167 nennt Auszählen unter Erfassen2028 und Einblick gewinnen2027 in Flächeninhalt und Umfang. Die Auswahl einer lückenlosen Zerlegung in kongruente Quadrate ist eine didaktische Konkretisierung, keine wörtliche Forderung dieser GS3-Zeile. FSP35466 nennt Zählen und Abzählen unter Beherrschen der Zahlen bis 100 in Alltagssituationen35461; die Menge-Zahl-Zuordnung steht in der Bemerkung35463. Eine gegliederte Alltagsfläche ist hier die didaktisch gewählte Darstellung einer endlichen Menge. GS Einblick gewinnen und FSP Beherrschen sind die amtlichen Lernzielebenen; Auszählen, Zählen und Zuordnen sind Zielhandlungen. FSP ausdrücklich bis 100 aus dem Hauptziel; GS187167 und2027/2028 ohne eigene numerische Obergrenze, GS-Feinziel bis 100 didaktisch eingegrenzt. Die1000-Grenze des anderen GS-Zahlziels wird nicht als Grenze dieser Geometriezeile übernommen. Keine vollständige GS-Zieldeckung: FSP belegt die Anzahlbestimmung, nicht die Deutung als Flächenmaß, die Wahl einer Flächeneinheit oder cm²/m². Die höhere FSP-Lernzielebene beim Zählen ist keine Gleichsetzung der unterschiedlich weit gefassten Hauptziele.",
+      "stage_decision": "Stufengleich35461/35463/35466 wird bevorzugt: allgemeines Zählen in Alltagssituationen mit Menge-Zahl-Zuordnung trägt die eng gewählte Teilflächenmenge. FSP1/2 37931/37937/37941/37944 belegt Zählhandlungen beim Erkunden der Natur; dieser Naturkontext darf nicht für beliebige Flächen stillschweigend entfallen. 37804/37818 nennt Mengen im Alltag und Mächtigkeitsfolgen mit abzählendem Zuordnen in der Bemerkung, verlangt jedoch Mengenvergleich und belegt kein Flächenmaß. 37817 nennt ausdrücklich Erfassen ohne Abzählen und ist kein Verfahrensbeleg für Auszählen. 38011/38015 im Wahlbereich3 Muster belegt Flächengestaltung mit Parkettierung in der Bemerkung; das allein belegt keine Anzahlbestimmung oder Maßzahl. FSP3/4 35521/35535 nennt Muster aus ebenen Figuren,35525 Merkmale von Rechteck/Quadrat mit gegenüberliegenden Seiten in der Bemerkung; auch das ist kein eigenständiges Flächenmaßziel. Kein pauschaler Nichtanschluss für1/2 und kein Ausschluss allein wegen kleinerer Zahlenräume. Die gewählten Pflichtziele35461/35463/35466 benötigen keine Wahlbereichsvoraussetzung.",
+      "prerequisites": "Die betrachtete Alltagsfläche ist bereits vollständig in eindeutig erkennbare kongruente quadratische Teilflächen gegliedert. Alle Teile sind ganz, gleich groß und gehören zur Gesamtfläche; ihre Innenbereiche überlappen nicht und es fehlen keine Zwischenräume. Die gesamte Teilflächenmenge ist bekannt. Gleiche Größe ist Voraussetzung der GS-Flächendeutung, keine zusätzlich belegte FSP-Messleistung. Es werden Teilflächen, nicht Gitterpunkte, Begrenzungslinien oder nur Randteile gezählt. Kein bestimmtes Material, Auslege-, Markier- oder Zählverfahren wird vorgegeben.",
+      "uncertainty": "Die quadratische Gliederung einer Alltagsfläche und die GS-Deutung der Anzahl als relative Flächengröße sind didaktische Konkretisierungen. FSP belegt ausschließlich Anzahl/Menge-Zahl-Zuordnung. Kein eigener FSP-Flächenmaßauftrag erfunden; keine GS4-Einheitsforderung in GS3 übernommen.",
+      "remaining_scope": "Andere Gliederungen, verschieden große oder unvollständige Teile, selbstständiges Herstellen einer passenden Zerlegung, Auswahl und Wechsel von Flächeneinheiten, Flächenvergleiche mit wechselnder Einheit, cm²/m², Umfang, Multiplikationsformeln und allgemeine Flächenmaßverfahren bleiben offen. FSP-Anzahl und GS-Flächenmaßdeutung werden nicht gleichgesetzt. Schätzen187168 und Bestimmen/Vergleichen von Umfängen187169 sind nicht mitgeprüft; frühere Vergleichs-, Zerlegungs- und Zusammensetzungsreste bleiben bestehen."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2027",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "Karten": "",
+      "Prüfstatus": "MA-097: übergeordneter Kontext zu187164/187165/187166; Gesamtumfang offen. Keine zusätzliche Erstentscheidung oder Kartenabdeckung. Einblick gewinnen stammt aus2027, Erfassen ist eine Zielhandlung. Weitere Vergleiche, Zerlegungen und Zusammensetzungen sowie187167–187169/2029 bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_2028",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erfassen von Flächeninhalt und Umfang",
+      "Karten": "",
+      "Prüfstatus": "MA-097: übergeordneter Kontext zu187164/187165/187166; Gesamtumfang offen. Keine zusätzliche Erstentscheidung oder Kartenabdeckung. Einblick gewinnen stammt aus2027, Erfassen ist eine Zielhandlung. Weitere Vergleiche, Zerlegungen und Zusammensetzungen sowie187167–187169/2029 bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_187167",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Auszählen",
+      "Karten": "",
+      "Prüfstatus": "MA-094: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Prüffortschritt aus fehlender Karte abgeleitet."
+    }
+  ],
+  "context_only_gs_ids": [
+    "page912_2027",
+    "page912_2028"
+  ],
+  "number_scope_review": {
+    "status": "explicit",
+    "summary": "Bis100 · ausdrücklich im FSP-Hauptziel · Anzahlen, kein Flächenmaß",
+    "detail": "35461 begrenzt Zählen/Abzählen35466 und die Menge-Zahl-Zuordnung35463 ausdrücklich auf Zahlen bis 100 in Alltagssituationen. Keine Ableitung aus dem übergreifenden Stufenbandziel35415. Die Grenze betrifft sämtliche Teil-/Gesamtanzahlen und Zahlzuordnungen, keine Seitenlängen oder Quadratmaße. GS187167 und2027/2028 enthalten keine eigene Obergrenze; die GS-Eingrenzung bis 100 ist didaktisch. Keine Übertragung der1000-Grenze des anderen GS-Zahlziels auf diese Zielzeile.",
+    "max_value": 100,
+    "source_ids": [
+      "Q-MA-page139_35461"
+    ],
+    "planning_rule": "Die betrachtete Alltagsfläche ist bereits vollständig in eindeutig erkennbare kongruente quadratische Teilflächen gegliedert. Alle Teile sind ganz, gleich groß und gehören zur Gesamtfläche; ihre Innenbereiche überlappen nicht und es fehlen keine Zwischenräume. Die gesamte Teilflächenmenge ist bekannt. Gleiche Größe ist Voraussetzung der GS-Flächendeutung, keine zusätzlich belegte FSP-Messleistung. Es werden Teilflächen, nicht Gitterpunkte, Begrenzungslinien oder nur Randteile gezählt. Kein bestimmtes Material, Auslege-, Markier- oder Zählverfahren wird vorgegeben. Alle Ausgangs- und Teilanzahlen, gesamte Teilflächenzahl, Zahlzuordnungen und relevanten Zwischen-/Endwerte bleiben bis 100. Nicht nur die Zahl pro Reihe begrenzen, während die Gesamtzahl100 überschreitet. Keine Bruchteile, Flächenmaßeinheiten oder Rechenoperationen zusätzlich voraussetzen. Das FSP-Ergebnis ist eine Anzahl; die GS-Deutung als Flächengröße im festgelegten Teilflächenbezug ist damit nicht als FSP-Kompetenz nachgewiesen. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert."
+  },
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_partially_reviewed_rows": 1,
+    "distinct_connection_scopes": 1,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 100,
+    "same_band_cards": 72,
+    "cross_band_cards": 28,
+    "source_links": 253,
+    "target_anchors": 251,
+    "new_unique_gs_anchors": 1,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 179,
+    "open_connection_questions": 23,
+    "documented_no_direct_connection_rows": 8
+  },
+  "continuation": {
+    "next_id": "page912_187168",
+    "next_step": "Als Nächstes GS3 Schätzen187168 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Schätzen einer Anzahl, einer Länge und eines Flächeninhalts auseinanderhalten. MA-100 verbindet187167 nur als Anzahlbestimmung gleich großer Teilflächen mit FSP3/4 Zählen bis 100. Die GS-Flächenmaßdeutung ist keine belegte FSP-Messkompetenz; weitere Ausschnitte bleiben offen.100 Karten(72 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.405: Veröffentlichung und Liveprüfung ausstehend."
+  },
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "update-mathematik": {
+        "exit_code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      "check-deutsch": {
+        "exit_code": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      "prepare-pages": {
+        "exit_code": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-20\n",
+        "stderr": ""
+      },
+      "check-mathematik": {
+        "exit_code": 0,
+        "stdout": "PASS: 100 mathematics cards, 253 source links (251 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      "test-mathematik-scope": {
+        "exit_code": 0,
+        "stdout": "PASS: 100 mathematics cards, 253 source links (251 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\n",
+        "stderr": ""
+      },
+      "check-learning-objects": {
+        "exit_code": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    },
+    "browser_local": "PASS targeted MA-087/099/100; scope in card/goals/output, source links, adoption, empty task/aid fields, preserved teacher drafts, subject isolation; MA-100 mobile320/390. PASS learning-level display413 cards/826 sides, actions excluded.",
+    "preservation": {
+      "changed": [
+        "README.md",
+        "curriculum/learning_levels.json",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/mathematik_module.json",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv",
+        "dist/index.html",
+        "index.html"
+      ],
+      "new": [
+        "scripts/check-mathematik-live-ma-100.cjs",
+        "curriculum/mathematik/review_batch_098.json"
+      ],
+      "unchanged_prior_cards": 99,
+      "unchanged_prior_level_entries": 412,
+      "audit_changed": [
+        "page912_2027",
+        "page912_2028",
+        "page912_187167"
+      ],
+      "open_questions": 23,
+      "no_direct": 8,
+      "html_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10"
+    },
+    "correction": "Initial check found missing space in the new goal range wording bis100. New-card wording corrected to bis 100; complete six-script sequence rerun successfully. No validation rule weakened.",
+    "limits": "No UI code change; no full100-card functional run and no fresh substantive review of all413 cards. Live publication checks pending."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.405"
+  }
+}
