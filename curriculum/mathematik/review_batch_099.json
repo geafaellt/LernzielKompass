@@ -1,0 +1,453 @@
+{
+  "id": "MA-099",
+  "date": "2026-11-20",
+  "base_commit": "18ec223ed56defc2b91f316137fcc0d4516e3e8e",
+  "scope": "Schätzen im Flächeninhalt-/Umfangskontext: Reichweite von Längenschätzung und Längenrechnung für einen gesamten geschlossenen Rand; Flächeninhaltsschätzung getrennt.",
+  "change_type": "audit_only",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2027": {
+      "id": "page912_2027",
+      "level": 1,
+      "parent_target_id": "page912_2027",
+      "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027"
+    },
+    "page912_2028": {
+      "id": "page912_2028",
+      "level": 2,
+      "parent_target_id": "page912_2027",
+      "target": "Erfassen von Flächeninhalt und Umfang",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2028"
+    },
+    "page912_187168": {
+      "id": "page912_187168",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Schätzen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187168"
+    },
+    "page139_35511": {
+      "id": "page139_35511",
+      "level": 1,
+      "parent_target_id": "page139_35511",
+      "target": "Übertragen des Wissens über Längen auf das Ermitteln von Strecken in der Umwelt",
+      "remarks": "Schulhof, -garten, Sportplatz, Schulweg, Wanderung ⇒ Bildung für nachhaltige Entwicklung ➔ SPO, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35511"
+    },
+    "page139_35514": {
+      "id": "page139_35514",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Schätzen, Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Schaffen von Größenvorstellungen Experimentieren mit Körpermaßen, Stock- und Bandlänge Meter- und Zentimeterangabe",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35514"
+    },
+    "page139_35515": {
+      "id": "page139_35515",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Einheit Zentimeter (cm), Beziehung: 1 m = 100 cm",
+      "remarks": "typische Repräsentanten: Daumenbreite, Fingerspanne, Schrittlänge, Armlänge, Handspanne sachgerechte Handhabung von Messgeräten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35515"
+    },
+    "page139_35518": {
+      "id": "page139_35518",
+      "level": 3,
+      "parent_target_id": "page139_35511",
+      "target": "Kommaschreibweise der Einheit Meter mit zwei Dezimalstellen",
+      "remarks": "2,50 m; 2,05 m verschiedene Schreib- und Sprechweisen keine Umwandlung Körpergrößen der Mitschüler, Ergebnisse von Weitsprung, -wurf",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35518"
+    },
+    "page139_35520": {
+      "id": "page139_35520",
+      "level": 2,
+      "parent_target_id": "page139_35511",
+      "target": "Rechnen mit Längen in Sachzusammenhängen",
+      "remarks": "Festigen der Strategien",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35520"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_35470": {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470"
+    },
+    "page139_35487": {
+      "id": "page139_35487",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": "Partner- und Selbstkontrolle Taschenrechner möglich Differenzierung: Genauigkeit beim Abschätzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35487"
+    },
+    "page139_35539": {
+      "id": "page139_35539",
+      "level": 1,
+      "parent_target_id": "page139_35539",
+      "target": "Anwenden von Zeitvorstellungen auf das Planen der eigenen Zeit",
+      "remarks": "Schul- und Freizeit ⇒ Werteorientierung ➔ ETH, Kl. 3/4, LB 4",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35539"
+    },
+    "page139_35552": {
+      "id": "page139_35552",
+      "level": 2,
+      "parent_target_id": "page139_35539",
+      "target": "Zeitspannen schätzen, vergleichen und berechnen, Zeitpunkt bestimmen",
+      "remarks": "in vollen Stunden Zeitgefühl weiterentwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35552"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35558": {
+      "id": "page139_35558",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Überschlagsrechnen in Sachzusammenhängen",
+      "remarks": "Geldmengen schätzen, überschlagen Öffnungszeiten, Haltbarkeitsfristen Abschätzen, ob das Geld ausreicht ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35558"
+    },
+    "page139_37913": {
+      "id": "page139_37913",
+      "level": 1,
+      "parent_target_id": "page139_37913",
+      "target": "Einblick gewinnen in den Wert des Geldes",
+      "remarks": "Kaufmannsladen, Essen- und Milchgeld, Märkte Taschengeld, Sparen Vergleich: billig – teuer, arm – reich szenisches Spiel ⇒ Werteorientierung ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37913"
+    },
+    "page139_37926": {
+      "id": "page139_37926",
+      "level": 2,
+      "parent_target_id": "page139_37913",
+      "target": "Legen, Zählen, Vergleichen, Ordnen, Wechseln von Geldbeträgen",
+      "remarks": "Zahlenraum beachten Differenzierung: Abschätzen von Preisen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37926"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37944": {
+      "id": "page139_37944",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Abzählen von Objekten, Zählen",
+      "remarks": "durch räumliches Trennen, Berühren, visuelles Erfassen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37944"
+    },
+    "page139_37961": {
+      "id": "page139_37961",
+      "level": 1,
+      "parent_target_id": "page139_37961",
+      "target": "Kennen von Möglichkeiten in der Natur Längen zu ermitteln",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37961"
+    },
+    "page139_37962": {
+      "id": "page139_37962",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "lineare Figuren, Gerade",
+      "remarks": "Entdecken von gekrümmten und geraden Linien an Pflanzen, Wegen, Gleisen, Leitungen, Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37962"
+    },
+    "page139_37967": {
+      "id": "page139_37967",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Messen, Vergleichen und Ordnen von Längen",
+      "remarks": "Experimentieren mit körpereigenen und willkürlichen Einheiten mit Schritt-, Seil-, Stocklänge länger, kürzer, gleich lang Längen mit Meterangabe erste Erfahrungen im Schätzen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37967"
+    },
+    "page139_37974": {
+      "id": "page139_37974",
+      "level": 3,
+      "parent_target_id": "page139_37961",
+      "target": "Maßeinheit Meter (m)",
+      "remarks": "Größenvorstellungen typische Repräsentanten (Tafellineal) Handhabung eines Maßbandes",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37974"
+    },
+    "page139_37976": {
+      "id": "page139_37976",
+      "level": 2,
+      "parent_target_id": "page139_37961",
+      "target": "Rechnen mit Längen in Sachsituationen",
+      "remarks": "Bezug zur Alltags- und Umwelterfahrung ⇒ Bildung für nachhaltige Entwicklung ➔ LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37976"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "stage_goal_evidence": {
+    "page139_37739": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+    "page139_35415": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben."
+  },
+  "stage_goal_verification": "Beide übergreifenden Zieltexte37739/35415 im frisch geladenen HTML bestätigt. Übergreifendes Schätzen von Größen in3/4 ist kein pauschaler Beleg für jede Größe; Zahlenräume werden nicht als Längenobergrenzen umgedeutet.",
+  "source_verification": {
+    "html": "Beide amtlichen HTML-Lehrpläne am20.11.2026 frisch abgerufen; Ziel-/Bemerkungsspalten und Kandidaten beider Bänder geprüft.",
+    "pdf": "Vorliegende amtliche GS-PDF aus MA-091 und FSP-PDF aus MA-089 wiederverwendet; kein neuer PDF-Abruf. Definitionen beider Pläne S.V/PDF5 gelesen. GS S.20/PDF30 sowie FSP S.22/PDF34 anhand bestehender Renderbilder visuell geprüft. FSP S.13/PDF25, S.21/PDF33 und S.23/PDF35 textuell gelesen; Seitenübergang35511→35514 mit HTML abgeglichen.",
+    "pdf_sources": [
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+        "sha256": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+        "pages_one_based": [
+          5,
+          30
+        ]
+      },
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+        "pages_one_based": [
+          5,
+          25,
+          33,
+          34,
+          35
+        ]
+      }
+    ]
+  },
+  "new_cards": [],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-004",
+    "MA-064",
+    "MA-066",
+    "MA-067",
+    "MA-100"
+  ],
+  "existing_card_review": "MA-004 vergleicht Meterlängen, MA-064 misst eine Einzelstrecke; MA-066 trägt erste Meter-Schätzerfahrungen im Naturkontext, MA-067 eine Summe zweier Teilstrecken mit eigenem didaktischem Rechenrahmen. Keine dieser Karten weist bislang die ganze geschlossene Begrenzung einer Figur als Umfang nach. MA-100 zählt Teilflächen bis100 und ist kein Schätznachweis. Alle100 Karten einschließlich Zahlenräumen, Feinzielen und Erfolgskriterien unverändert; keine Bestandskarte als Nichtanschluss gewertet.",
+  "learning_level_review": {
+    "finding": "GS Einblick gewinnen aus2027; Erfassen2028 und Schätzen187168 sind Zielhandlungen. FSP3/4 Übertragen aus35511 für35514/35520; FSP1/2 Kennen aus37961 für37962/37967/37974/37976. Die Schätzerfahrungen37967 stehen in der Bemerkung und erhalten keine eigene Lernzielebene. Rechenkontrolle35487 erbt Übertragen35470, Geld37926 Einblick gewinnen37913, Zeit35552 Anwenden35539 und Einkauf35558 Anwenden35554. Weder Schätzen noch Messen, Vergleichen oder Kontrollieren ersetzen diese Begriffe. Begriffsdefinitionen beider Lehrpläne S.V erneut gelesen; einzelne Tätigkeiten weisen nicht die gesamte übergeordnete Lernzielebene nach.",
+    "gs_main": "page912_2027",
+    "fsp_primary_candidates": [
+      "page139_35511",
+      "page139_37961"
+    ]
+  },
+  "number_scope_review": {
+    "finding": "Die Längen-/Schätzzeilen35514 und37967 nennen keine numerische Höchstlänge, Schätzgenauigkeit oder Trefferquote.1m=100cm ist eine Einheitenbeziehung, keine Obergrenze. Zwei Dezimalstellen35518 sind eine bestimmte Meter-Schreibweise, keine pauschale Präzisionsforderung für jede Schätzung. Ganze cm35516 gehört zum Zeichnen/Messen, nicht automatisch zum Schätzen35514. Weder20 noch100 aus den übergreifenden Zahlzielen darf ohne ausdrückliche didaktische Ableitung als Schätz- oder Umfangsgrenze ausgegeben werden; auch die ausdrücklich bis100 begrenzte Zählkarte MA-100 legt keine Höchstlänge fest. Falls später eine Karte entsteht, Zahlenbereich, Einheiten, Darstellungsform und Genauigkeitsrahmen vorab klären und sämtliche Referenz-, Seiten-, Schätz-, Zwischen- und Endwerte einschließlich Gesamtumfang einbeziehen. Kleine FSP-Zahlenräume sind kein Ausschlussgrund. Keine Zahlgrenze, Aufgabe, Lernhandlung oder Hilfsmittelvorgabe ergänzt.",
+    "all_existing_cards_unchanged": true
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187168",
+      "status": "open_connection_question",
+      "cards": [],
+      "same_band_candidates": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35518",
+        "page139_35520",
+        "page139_35461",
+        "page139_35463",
+        "page139_35466",
+        "page139_35470",
+        "page139_35487",
+        "page139_35539",
+        "page139_35552",
+        "page139_35554",
+        "page139_35558"
+      ],
+      "cross_band_candidates": [
+        "page139_37913",
+        "page139_37926",
+        "page139_37931",
+        "page139_37944",
+        "page139_37961",
+        "page139_37962",
+        "page139_37967",
+        "page139_37974",
+        "page139_37976",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "overarching_candidates": [
+        "page139_37739",
+        "page139_35415"
+      ],
+      "decision": "GS187168 nennt Schätzen unter Erfassen von Flächeninhalt und Umfang2028 und Einblick gewinnen2027. Die Zielzeile spezifiziert weder Schätzobjekt, Einheit noch Verfahren; der gemeinsame Kontext darf nicht auf beliebiges Schätzen von Zahlen reduziert werden. FSP3/4 35514 nennt ausdrücklich Schätzen von Längen unter Übertragen35511 mit Umweltbezug;35520 nennt Rechnen mit Längen. Das sind positive Kandidaten für einen begrenzten Umfangsanschluss, aber kein unmittelbar belegter Flächeninhaltsschätzauftrag. Ein einzelner Seiten-Schätzwert ist noch kein geschätzter Gesamtumfang. FSP1/2 37967 nennt erste Erfahrungen im Schätzen nur in der Bemerkung unter Kennen37961;37962 erwähnt gekrümmte und gerade Linien in der Bemerkung. Der Naturkontext und der Einstiegscharakter bleiben erhalten. Auch dieser Beleg ist nicht pauschal auf einzelne gerade Seiten beschränkt, weist aber noch keinen bestimmten Gesamtumfangsgegenstand aus. Die Kombination von Schätzen und Längenrechnung ist als didaktisch möglicher enger Umfangsanschluss weiter zu klären; vorerst offene Anschlussfrage, keine neue Karte und kein endgültiger Nichtanschluss.",
+      "candidate_exclusions": "Zählen/Abzählen35466 unter Beherrschen35461 sowie37944 unter Beherrschen37931 fordert Anzahlbestimmung, nicht Schätzung. MA-100 darf deshalb nicht durch Austausch des Verbs von Auszählen187167 auf Schätzen187168 erweitert werden. Abschätzen35487 steht als Differenzierung in der Bemerkung einer Rechenkontrolle unter Übertragen35470; daraus folgt kein allgemeiner geometrischer Schätzauftrag. Preise37926 unter Einblick gewinnen37913, Zeitspannen35552 unter Anwenden35539 und Geld-/Überschlagsbezüge35558 unter Anwenden35554 betreffen andere Größen.35554/35558 gehört zum Wahlbereich1 Einkaufsbummel.38011/38015 im FSP1/2-Wahlbereich3 Muster belegt Flächengestaltung/Parkettierung, aber keine konkrete Schätzung von Flächeninhalt oder Teilflächenanzahl. Diese Kandidaten tragen den untersuchten Flächen-Schätzausschnitt nicht allein aufgrund derselben Zielhandlung. Das ist keine pauschale Nichtanschlussentscheidung über beide Bänder.",
+      "prerequisites": "Für einen Umfangsanschluss muss die gesamte geschlossene Begrenzung einer eindeutig festgelegten ebenen Figur Gegenstand sein; einzelne Seiten, Durchmesser, Innenwege, Flächeninhalt und Umfang dürfen nicht verwechselt werden. Umwelt- beziehungsweise Naturbezug, bekannte Referenzlängen, gemeinsame Einheit und ein didaktisch festgelegter Genauigkeitsrahmen sind zu klären. Bei rechnerisch zusammengesetzten Schätzungen müssen alle Randabschnitte genau einmal eingehen; Teilwerte, Summen und gesamter Umfang gehören zum Planungsbereich. Die genaue Zahl oder Form der Seiten wird hier nicht vorgegeben. Eine Schätzung bleibt eine ungefähre Angabe und wird nicht zum exakten Messwert erklärt.",
+      "uncertainty": "Zu entscheiden ist die konkrete didaktische Verbindung eines vollständigen Randes mit dem belegten Längen-Schätz-/Rechengegenstand; keine Behauptung, dass geschlossene Linien grundsätzlich ausgeschlossen seien. Flächeninhalt wird davon unabhängig geprüft.",
+      "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird.",
+      "remaining_scope": "Der Anschlussentscheid zu187168 bleibt offen; keine neue GS-Zieldeckung. Flächeninhaltsschätzung, Schätzung eines gesamten Umfangs und Schätzung von Teilflächenanzahlen bleiben getrennt zu entscheiden.187169 Bestimmen/Vergleichen von Umfängen und2029 Fachbegriffe folgen separat. Alle bestehenden begrenzten Anschlüsse und Restumfänge bleiben erhalten."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2027",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "Karten": "",
+      "Prüfstatus": "MA-098: übergeordneter Kontext zu187164–187167; Gesamtumfang offen. Keine zusätzliche Erstentscheidung oder Kartenabdeckung. Einblick gewinnen stammt aus2027, Erfassen ist Zielhandlung. Weitere Vergleiche/Zerlegungen/Zusammensetzungen/Auszählfälle sowie187168/187169/2029 bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_2028",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erfassen von Flächeninhalt und Umfang",
+      "Karten": "",
+      "Prüfstatus": "MA-098: übergeordneter Kontext zu187164–187167; Gesamtumfang offen. Keine zusätzliche Erstentscheidung oder Kartenabdeckung. Einblick gewinnen stammt aus2027, Erfassen ist Zielhandlung. Weitere Vergleiche/Zerlegungen/Zusammensetzungen/Auszählfälle sowie187168/187169/2029 bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_187168",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Schätzen",
+      "Karten": "",
+      "Prüfstatus": "MA-094: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Prüffortschritt aus fehlender Karte abgeleitet."
+    }
+  ],
+  "context_only_gs_ids": [
+    "page912_2027",
+    "page912_2028"
+  ],
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_no_direct_connections": 0,
+    "new_partially_reviewed_rows": 0,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 1,
+    "new_inventory_only_rows": 0,
+    "new_cards": 0,
+    "updated_cards": 0,
+    "cards": 100,
+    "same_band_cards": 72,
+    "cross_band_cards": 28,
+    "source_links": 253,
+    "target_anchors": 251,
+    "audit_rows": 179,
+    "open_connection_questions": 24,
+    "documented_no_direct_connection_rows": 8
+  },
+  "continuation": {
+    "next_id": "page912_187169",
+    "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099, App1.405 unverändert; Veröffentlichung ausstehend."
+  },
+  "tests": {
+    "status": "passed",
+    "scripts": {
+      "update-mathematik": {
+        "exit_code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      "check-deutsch": {
+        "exit_code": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      "prepare-pages": {
+        "exit_code": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-20\n",
+        "stderr": ""
+      },
+      "check-mathematik": {
+        "exit_code": 0,
+        "stdout": "PASS: 100 mathematics cards, 253 source links (251 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      "test-mathematik-scope": {
+        "exit_code": 0,
+        "stdout": "PASS: 100 mathematics cards, 253 source links (251 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\n",
+        "stderr": ""
+      },
+      "check-learning-objects": {
+        "exit_code": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    },
+    "preservation": {
+      "changed": [
+        "README.md",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv"
+      ],
+      "audit_changed": [
+        "page912_2027",
+        "page912_2028",
+        "page912_187168"
+      ],
+      "all100_cards_module_levels_html_unchanged": true,
+      "open_questions": 24,
+      "no_direct": 8,
+      "html_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10"
+    },
+    "browser": "No new browser run: audit only, HTML byte-identical. Latest live targeted/learning-level tests recorded in MA-098.",
+    "limits": "No new app-level or semantic all-card re-review claimed. Reused official PDFs as documented; audit publication still pending."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version_unchanged": "1.405"
+  }
+}

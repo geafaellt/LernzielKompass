@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-098",
+  "last_batch": "MA-099",
   "complete": false,
   "counts": {
     "cards": 100,
@@ -3224,8 +3224,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_187168",
-  "next_step": "Als Nächstes GS3 Schätzen187168 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Schätzen einer Anzahl, einer Länge und eines Flächeninhalts auseinanderhalten. MA-100 verbindet187167 nur als Anzahlbestimmung gleich großer Teilflächen mit FSP3/4 Zählen bis100. Die GS-Flächenmaßdeutung ist keine belegte FSP-Messkompetenz; weitere Ausschnitte bleiben offen.100 Karten(72 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.405 auf main veröffentlicht, Pages erfolgreich, Live-Datei bytegleich und gezielte Browser-/Lernzielebenenprüfungen öffentlich bestanden; Nachweise in MA-098.",
+  "next_id": "page912_187169",
+  "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099, App1.405 unverändert; Veröffentlichung ausstehend.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3539,7 +3539,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_098.json",
+  "last_review_file": "review_batch_099.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4021,6 +4021,41 @@
       ],
       "review": "MA-090",
       "follow_up_evidence": "Bei der abschließenden Nachprüfung prüfen, ob der unveränderte rechteckbezogene Teilgegenstand von MA-094 unter expliziter Kennzeichnung des gemeinsamen Endpunkts für187161 genügt oder ein eigenständig belegter FSP-Schnittlagengegenstand fehlt. Kein Umdeuten in ein zusätzliches FSP-Zeichenziel. Allgemeine Muster-/Werkzeugziele allein tragen nicht jede frei ergänzte Schnittlagenanforderung."
+    },
+    {
+      "gs_id": "page912_187168",
+      "scope": "Schätzen im Flächeninhalt-/Umfangskontext: Reichweite von Längenschätzung und Längenrechnung für einen gesamten geschlossenen Rand; Flächeninhaltsschätzung getrennt.",
+      "status": "offen",
+      "reason": "GS187168 nennt Schätzen unter Erfassen von Flächeninhalt und Umfang2028 und Einblick gewinnen2027. Die Zielzeile spezifiziert weder Schätzobjekt, Einheit noch Verfahren; der gemeinsame Kontext darf nicht auf beliebiges Schätzen von Zahlen reduziert werden. FSP3/4 35514 nennt ausdrücklich Schätzen von Längen unter Übertragen35511 mit Umweltbezug;35520 nennt Rechnen mit Längen. Das sind positive Kandidaten für einen begrenzten Umfangsanschluss, aber kein unmittelbar belegter Flächeninhaltsschätzauftrag. Ein einzelner Seiten-Schätzwert ist noch kein geschätzter Gesamtumfang. FSP1/2 37967 nennt erste Erfahrungen im Schätzen nur in der Bemerkung unter Kennen37961;37962 erwähnt gekrümmte und gerade Linien in der Bemerkung. Der Naturkontext und der Einstiegscharakter bleiben erhalten. Auch dieser Beleg ist nicht pauschal auf einzelne gerade Seiten beschränkt, weist aber noch keinen bestimmten Gesamtumfangsgegenstand aus. Die Kombination von Schätzen und Längenrechnung ist als didaktisch möglicher enger Umfangsanschluss weiter zu klären; vorerst offene Anschlussfrage, keine neue Karte und kein endgültiger Nichtanschluss.",
+      "candidate_ids": [
+        "page139_35511",
+        "page139_35514",
+        "page139_35515",
+        "page139_35518",
+        "page139_35520",
+        "page139_35461",
+        "page139_35463",
+        "page139_35466",
+        "page139_35470",
+        "page139_35487",
+        "page139_35539",
+        "page139_35552",
+        "page139_35554",
+        "page139_35558",
+        "page139_37913",
+        "page139_37926",
+        "page139_37931",
+        "page139_37944",
+        "page139_37961",
+        "page139_37962",
+        "page139_37967",
+        "page139_37974",
+        "page139_37976",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-099",
+      "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird."
     }
   ],
   "remaining_scopes": [
@@ -4654,15 +4689,15 @@
     },
     {
       "gs_id": "page912_2027",
-      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext, keine vollständige Abdeckung. MA-098/099 erfassen kongruente Rechteckhälften und deren symmetrisches Zusammensetzen; MA-100 zählt gleich große Teilflächen bis100, ohne eine FSP-Flächenmaßkompetenz zu behaupten. Weitere Flächenvergleiche/Zerlegungen/Ergänzungen/Auszählfälle sowie187168/187169/2029 bleiben offen.",
+      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext; keine vollständige Abdeckung. Belegte Teilanschlüsse187164–187167 bleiben begrenzt;187168 hat nun eine offene Anschlussfrage.187169 und2029 noch einzeln zu prüfen. Weitere Vergleichs-, Zerlegungs-, Zusammensetzungs- und Auszählreste bleiben offen.",
       "status": "offen",
-      "review": "MA-098"
+      "review": "MA-099"
     },
     {
       "gs_id": "page912_2028",
-      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext, keine vollständige Abdeckung. MA-098/099 erfassen kongruente Rechteckhälften und deren symmetrisches Zusammensetzen; MA-100 zählt gleich große Teilflächen bis100, ohne eine FSP-Flächenmaßkompetenz zu behaupten. Weitere Flächenvergleiche/Zerlegungen/Ergänzungen/Auszählfälle sowie187168/187169/2029 bleiben offen.",
+      "scope": "Hauptziel2027 und Erfassen2028 nur Kontext; keine vollständige Abdeckung. Belegte Teilanschlüsse187164–187167 bleiben begrenzt;187168 hat nun eine offene Anschlussfrage.187169 und2029 noch einzeln zu prüfen. Weitere Vergleichs-, Zerlegungs-, Zusammensetzungs- und Auszählreste bleiben offen.",
       "status": "offen",
-      "review": "MA-098"
+      "review": "MA-099"
     },
     {
       "gs_id": "page912_187164",
@@ -4687,6 +4722,12 @@
       "scope": "Andere Gliederungen, verschieden große oder unvollständige Teile, selbstständiges Herstellen einer passenden Zerlegung, Auswahl und Wechsel von Flächeneinheiten, Flächenvergleiche mit wechselnder Einheit, cm²/m², Umfang, Multiplikationsformeln und allgemeine Flächenmaßverfahren bleiben offen. FSP-Anzahl und GS-Flächenmaßdeutung werden nicht gleichgesetzt. Schätzen187168 und Bestimmen/Vergleichen von Umfängen187169 sind nicht mitgeprüft; frühere Vergleichs-, Zerlegungs- und Zusammensetzungsreste bleiben bestehen.",
       "status": "offen",
       "review": "MA-098"
+    },
+    {
+      "gs_id": "page912_187168",
+      "scope": "Der Anschlussentscheid zu187168 bleibt offen; keine neue GS-Zieldeckung. Flächeninhaltsschätzung, Schätzung eines gesamten Umfangs und Schätzung von Teilflächenanzahlen bleiben getrennt zu entscheiden.187169 Bestimmen/Vergleichen von Umfängen und2029 Fachbegriffe folgen separat. Alle bestehenden begrenzten Anschlüsse und Restumfänge bleiben erhalten.",
+      "status": "offen",
+      "review": "MA-099"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -4722,7 +4763,7 @@
       "page912_2027"
     ],
     "rows": 179,
-    "note": "MA-098:187167 erstmals begrenzt geprüft; eine Zielzeile und eine neue Karte.2027/2028 nur Kontext, keine erneute Erstzählung.179 Inventurzeilen unverändert, keine Vollabdeckung.",
+    "note": "MA-099:187168 erstmals einzeln geprüft, offene Anschlussfrage statt Karte/Nichtanschluss.2027/2028 nur Kontext.179 Inventurzeilen und100 Karten unverändert; keine Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5197,60 +5238,65 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-095",
-    "status": "verified",
-    "app_version_unchanged": "1.402",
-    "audit_commit": "471ce6d1e7bc2e71910b925d66ba2b127a4aaada",
-    "pages_run": 44656090518,
-    "app_unchanged": true,
-    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-    "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
+    "batch": "MA-099",
+    "status": "pending",
+    "app_version_unchanged": "1.405",
     "previous_audit_publication": {
-      "batch": "MA-094",
+      "batch": "MA-095",
       "status": "verified",
       "app_version_unchanged": "1.402",
-      "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
-      "pages_run": 44630955851,
+      "audit_commit": "471ce6d1e7bc2e71910b925d66ba2b127a4aaada",
+      "pages_run": 44656090518,
       "app_unchanged": true,
       "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
       "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
       "previous_audit_publication": {
-        "batch": "MA-090",
+        "batch": "MA-094",
         "status": "verified",
-        "app_version_unchanged": "1.397",
+        "app_version_unchanged": "1.402",
+        "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
+        "pages_run": 44630955851,
+        "app_unchanged": true,
+        "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+        "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
         "previous_audit_publication": {
-          "batch": "MA-079",
+          "batch": "MA-090",
           "status": "verified",
-          "app_version_unchanged": "1.386",
+          "app_version_unchanged": "1.397",
           "previous_audit_publication": {
-            "batch": "MA-078",
+            "batch": "MA-079",
             "status": "verified",
             "app_version_unchanged": "1.386",
             "previous_audit_publication": {
-              "batch": "MA-075",
+              "batch": "MA-078",
               "status": "verified",
-              "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-              "pages_run": 44042551050,
-              "app_unchanged": true,
-              "app_version": "1.384",
-              "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-              "verified_at": "2026-11-17T07:57:40.479941+00:00"
+              "app_version_unchanged": "1.386",
+              "previous_audit_publication": {
+                "batch": "MA-075",
+                "status": "verified",
+                "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+                "pages_run": 44042551050,
+                "app_unchanged": true,
+                "app_version": "1.384",
+                "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+                "verified_at": "2026-11-17T07:57:40.479941+00:00"
+              },
+              "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+              "pages_run": 44069787528,
+              "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+              "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
             },
-            "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-            "pages_run": 44069787528,
+            "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
+            "pages_run": 44111252857,
             "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
             "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
           },
-          "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
-          "pages_run": 44111252857,
-          "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-          "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-        },
-        "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
-        "pages_run": 44567574178,
-        "app_unchanged": true,
-        "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
-        "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+          "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
+          "pages_run": 44567574178,
+          "app_unchanged": true,
+          "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+          "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+        }
       }
     }
   },
