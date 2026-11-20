@@ -3225,7 +3225,7 @@
     }
   },
   "next_id": "page912_187169",
-  "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099, App1.405 unverändert; Veröffentlichung ausstehend.",
+  "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099 auf main veröffentlicht, Pages erfolgreich, unveränderte App1.405 live bytegleich bestätigt; Nachweise in MA-099.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5239,8 +5239,13 @@
   },
   "latest_audit_publication": {
     "batch": "MA-099",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.405",
+    "audit_commit": "e73d3760e88c7317639d6557156ae8ca571575ae",
+    "pages_run": 44697849566,
+    "app_unchanged": true,
+    "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+    "note": "Audit-only; all100 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-098.",
     "previous_audit_publication": {
       "batch": "MA-095",
       "status": "verified",

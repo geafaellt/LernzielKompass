@@ -390,7 +390,7 @@
   },
   "continuation": {
     "next_id": "page912_187169",
-    "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099, App1.405 unverändert; Veröffentlichung ausstehend."
+    "next_step": "Als Nächstes GS3 Bestimmen/Vergleichen von Umfängen187169 gegen beide FSP-Bänder prüfen. Stufengleich35511/35514/35520 zuerst: gesamte Randlänge von Einzellänge und Fläche trennen, didaktischen Umfangsfall begründen. Den möglichen Zusammenhang mit der offenen Schätzfrage187168 ausdrücklich nachprüfen; keine automatische Doppelzuordnung.100 Karten(72 passend,28 stufenübergreifend),24 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. Reiner Audit MA-099 auf main veröffentlicht, Pages erfolgreich, unveränderte App1.405 live bytegleich bestätigt; Nachweise in MA-099."
   },
   "tests": {
     "status": "passed",
@@ -444,10 +444,16 @@
       "html_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10"
     },
     "browser": "No new browser run: audit only, HTML byte-identical. Latest live targeted/learning-level tests recorded in MA-098.",
-    "limits": "No new app-level or semantic all-card re-review claimed. Reused official PDFs as documented; audit publication still pending."
+    "limits": "No new app-level or semantic all-card re-review claimed. Official PDFs reused as documented; audit publication and live byte equality verified."
   },
   "publication": {
-    "status": "pending",
-    "app_version_unchanged": "1.405"
+    "batch": "MA-099",
+    "status": "verified",
+    "app_version_unchanged": "1.405",
+    "audit_commit": "e73d3760e88c7317639d6557156ae8ca571575ae",
+    "pages_run": 44697849566,
+    "app_unchanged": true,
+    "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+    "note": "Audit-only; all100 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-098."
   }
 }
