@@ -295,7 +295,7 @@
   },
   "continuation": {
     "next_id": "page912_187165",
-    "next_step": "Als Nächstes GS3 Zerlegen von Flächen in vergleichbare Teilfiguren187165 unter2027/2028 gegen beide FSP-Bänder prüfen; anschließend Zusammensetzen187166. Offene Anschlussfrage187164 zum qualitativen Flächenvergleich ausdrücklich bewahren und anhand der neuen Evidenz nachprüfen. 97 Karten(69 passend,28 stufenübergreifend),24 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert. Veröffentlichungsnachweis folgt in MA-095."
+    "next_step": "Als Nächstes GS3 Zerlegen von Flächen in vergleichbare Teilfiguren187165 unter2027/2028 gegen beide FSP-Bänder prüfen; anschließend Zusammensetzen187166. Offene Anschlussfrage187164 zum qualitativen Flächenvergleich ausdrücklich bewahren und anhand der neuen Evidenz nachprüfen. 97 Karten(69 passend,28 stufenübergreifend),24 Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss; App1.402 unverändert. Audit auf main veröffentlicht, Pages erfolgreich und unveränderte Live-App bestätigt; Nachweise in MA-095."
   },
   "tests": {
     "status": "passed",
@@ -328,12 +328,16 @@
     },
     "prepare_pages_note": "Executed successfully on20.11.2026; only the automatic calendar date changed. Both HTML files restored to the verified1.402 bytes after asserting absence of other changes. Remaining read-only checks passed on restored files. No new application publication required.",
     "browser": "No new browser run: audit-only; module, learning-level data, both HTML files byte-identical. Latest live functional/display checks remain MA-093.",
-    "publication": "pending"
+    "publication": "verified audit commit, successful Pages run and byte-identical unchanged live app"
   },
   "publication": {
     "batch": "MA-095",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.402",
-    "app_unchanged": true
+    "audit_commit": "471ce6d1e7bc2e71910b925d66ba2b127a4aaada",
+    "pages_run": 44656090518,
+    "app_unchanged": true,
+    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+    "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093."
   }
 }
