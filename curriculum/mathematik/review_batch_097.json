@@ -1,0 +1,403 @@
+{
+  "id": "MA-097",
+  "date": "2026-11-20",
+  "base_commit": "7584a6a5dcf5788acab84b46b26a70ba0cc09a15",
+  "scope": "GS3 Ergänzen/Zusammensetzen von Flächen187166: zwei kongruente Rechteckteile zu einer symmetrischen Gesamtfigur.",
+  "source_checked_online": true,
+  "sources": {
+    "gs": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912",
+    "fsp": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139"
+  },
+  "source_fingerprints": {
+    "gs": "f9f56d469f5fc57826ad38e1b562427c0c8ced072bc3f690910d6a2d7cff0f78",
+    "fsp": "1fcc19032bb0664363ad641601ccbc137182b2b663306c93ec6ac248b9542992"
+  },
+  "source_excerpts": {
+    "page912_2027": {
+      "id": "page912_2027",
+      "level": 1,
+      "parent_target_id": "page912_2027",
+      "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027"
+    },
+    "page912_2028": {
+      "id": "page912_2028",
+      "level": 2,
+      "parent_target_id": "page912_2027",
+      "target": "Erfassen von Flächeninhalt und Umfang",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2028"
+    },
+    "page912_187166": {
+      "id": "page912_187166",
+      "level": 3,
+      "parent_target_id": "page912_2027",
+      "target": "Ergänzen, Zusammensetzen von Flächen",
+      "remarks": "flächengleiche Figuren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187166"
+    },
+    "page139_35432": {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432"
+    },
+    "page139_35433": {
+      "id": "page139_35433",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433"
+    },
+    "page139_35434": {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38014": {
+      "id": "page139_38014",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Entdecken von Ornamenten an Gegenständen und in bildhaften Darstellungen",
+      "remarks": "Gebäude, Kleidung Linien, Flächen, Farben Abzeichnen, Fotografieren Harmonie und Balance beachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38014"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "stage_goal_evidence": {
+    "page139_37739": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erweitern ihr Vorstellungsvermögen über Raum-Lage-Beziehungen am eigenen Körper und lernen sich in ihrem Umfeld bewusst zu orientieren, entwickeln Vorstellungen von äußeren Merkmalen zur Unterscheidung von Objekten und untersuchen dabei auch die Beziehung zwischen der Struktur einer Menge und deren Elementen, erlangen über Handlungen und bildhafte Darstellungen Vorstellungen über Mengen und die Operationen der Addition und Subtraktion im Zahlenraum bis 20, entwickeln erste Größenvorstellungen zu ausgewählten Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler erwerben Verständnis für den Aufbau der Zahlen bis 20 und können in diesem Zahlenraum Aufgaben der Addition und Subtraktion lösen, beherrschen die Grundaufgaben des Einspluseins bis 10, lernen ausgewählte Einheiten der Länge, der Zeit und des Geldes kennen und entwickeln die Fähigkeit zum Messen in Alltagssituationen, lernen lineare und ebene Figuren kennen und können sie nach Merkmalen unterscheiden. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler kennen Arbeitsweisen wie Vergleichen, Ordnen, Bündeln, Zerlegen, Übertragen und Kontrollieren, lösen einfache mathematische Aufgaben nach Schrittfolgen, lernen gemeinsam in Sachsituationen einfache mathematische Inhalte zu erkennen, mit mathematischen Mitteln darzustellen, zu lösen und das Ergebnis zu prüfen, erleben, dass durch Probieren, sorgfältiges und ausdauerndes Arbeiten mathematische Lösungen zu finden sind, handhaben Lineal und Schablonen zunehmend sachgerecht, lernen Bedienhandlungen kennen, um digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben zu nutzen. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler lernen ihre Wahrnehmungen und Beobachtungen sprachlich darzustellen, geometrische und arithmetische Lösungswege sprachlich zu begleiten und mit Unterstützung umgangssprachlich zu erklären.",
+    "page139_35415": "Ziele Entwickeln des mathematischen Vorstellungsvermögens auf der Basis einer differenzierten Wahrnehmung und einer eigenständig-konstruktiven Auseinandersetzung mit der Umwelt Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen, erweitern ihr Vorstellungsvermögen über Mengen und Zahlen, vertiefen und erweitern ihre Vorstellungen über die vier Grundrechenoperationen im Zahlenraum bis 100 auf der Basis gegenständlich-praktischen Handelns, erwerben grundlegende Größenvorstellungen zu den Einheiten der Währung, Länge und Zeit. Erwerben von grundlegendem Wissen zu den Grundrechenarten, zu Größen und geometrischen Sachverhalten Die Schüler beherrschen die Additions- und Subtraktionsaufgaben im Zahlenraum bis 20, lernen Beziehungen zwischen den Zahlen im Zahlenraum bis 100 kennen und können die Zahlen auf den verschiedenen Abstraktionsebenen darstellen, kennen die Grundrechenarten und erkennen deren Zusammenhänge, nutzen individuelle Rechenwege und entsprechende Regeln zum vorteilhaften Lösen von Aufgaben, verwenden die schriftlichen Rechenverfahren der Addition und Subtraktion, können in lebensnahen Sachverhalten mit weiteren Einheiten der Länge, der Zeit und des Geldes umgehen und wenden ihre Größenvorstellungen beim Messen an und entwickeln die Fähigkeit zum Schätzen, können ebene Figuren nach ihren Merkmalen genauer unterscheiden und lernen Würfel, Quader und Kugel kennen. Entwickeln von Strategien zum handelnden, bildlichen und symbolischen Lösen mathematischer Probleme Die Schüler können die bekannten Arbeitsweisen und die Grundaufgaben des Einspluseins auf das Rechnen im erweiterten Zahlenraum übertragen, arbeiten beim Lösen von Aufgaben zunehmend ausdauernd, sorgfältig und planmäßig und lernen dabei Arbeitstechniken wie Probieren, Tabellieren und Skizzieren kennen, handhaben den Zirkel sachgerecht, sind in der Lage, einfache mathematische Zusammenhänge aus Situationen und Texten gemeinsam zu erschließen, mit mathematischen Mitteln darzustellen, zu lösen und sowohl den Lösungsweg als auch das Ergebnis auf Plausibilität zu prüfen; können dabei den Taschenrechner als Hilfsmittel gebrauchen, kennen digitale Medien zum Lösen, Kontrollieren und Üben von mathematischen Aufgaben. Entwickeln von Fähigkeiten, sich sach- und fachgerecht zu äußern Die Schüler verstehen zunehmend den mathematischen Inhalt von Fachbegriffen der Grundrechenarten und der bekannten geometrischen Objekte, können eigene Rechenwege umgangssprachlich beschreiben und begründen, können Lagebeziehungen und mathematische Sachverhalte beschreiben."
+  },
+  "stage_goal_verification": "Beide übergreifenden Zieltexte37739/35415 im aktuellen normalisierten HTML exakt enthalten. Ihre Zahl-/Operationsräume werden nicht auf den qualitativen Symmetriegegenstand übertragen.",
+  "source_verification": {
+    "html": "Beide Lehrpläne am20.11.2026 frisch abgerufen; ausgewählte Ziel-/Bemerkungsspalten und Kandidaten beider Bänder geprüft.",
+    "pdf": "Vorliegende amtliche GS-PDF aus MA-091 und FSP-PDF aus MA-089 wiederverwendet, kein neuer PDF-Abruf. Definitionstabellen S.V/PDF5 erneut gelesen. FSP S.18/PDF30 visuell erneut geprüft; GS S.20/PDF30 textuell gelesen und mit HTML abgeglichen, visuelle GS-Hierarchieprüfung aus MA-096 bleibt dokumentiert.",
+    "pdf_sources": [
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+        "sha256": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+        "pages_one_based": [
+          5,
+          30
+        ]
+      },
+      {
+        "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "sha256": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2",
+        "pages_one_based": [
+          5,
+          30
+        ]
+      }
+    ]
+  },
+  "learning_level_review": {
+    "new_card_evidence": {
+      "gs": {
+        "evidence": [
+          {
+            "level": "Einblick gewinnen",
+            "row_id": "page912_2027",
+            "target": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+            "grade": "3",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2027"
+          }
+        ]
+      },
+      "fsp": {
+        "evidence": [
+          {
+            "level": "Kennen",
+            "row_id": "page139_35432",
+            "target": "Kennen von Spiegelbildern",
+            "grade": "3/4",
+            "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432"
+          }
+        ]
+      }
+    },
+    "finding": "Einblick gewinnen2027/Kennen35432. Ergänzen,Zusammensetzen,Entdecken,Herstellen sind Zielhandlungen, keine Ersatzebenen. Unterziel35433 nicht mit Halbieren35434 oder nachfolgendem arithmetischem Einblick35435 vertauscht."
+  },
+  "new_cards": [
+    "MA-099"
+  ],
+  "updated_cards": [],
+  "existing_cards_rechecked": [
+    "MA-002",
+    "MA-088",
+    "MA-097",
+    "MA-098"
+  ],
+  "existing_card_review": "MA-002 erkennt Achsen, MA-088 eine Symmetrie in einer Gebäudeansicht, MA-097 ergänzt den Umriss einer einzelnen Dreiecksfigur und MA-098 zerlegt eine Rechteckfläche. Diese Nachweise ersetzen weder das Herstellen der Symmetrie noch das Zusammensetzen der Teilflächen. Alle98 Karten und Grenzen unverändert.",
+  "decisions": [
+    {
+      "gs_id": "page912_187166",
+      "status": "partially_reviewed",
+      "cards": [
+        "MA-099"
+      ],
+      "same_band_candidates": [
+        "page139_35432",
+        "page139_35433",
+        "page139_35434",
+        "page139_35521",
+        "page139_35524",
+        "page139_35527",
+        "page139_35535"
+      ],
+      "cross_band_candidates": [
+        "page139_37821",
+        "page139_37832",
+        "page139_37836",
+        "page139_37844",
+        "page139_37981",
+        "page139_37984",
+        "page139_38011",
+        "page139_38014",
+        "page139_38015"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: zwei deckungsgleiche rechteckige Teilflächen zu einer achsensymmetrischen Rechteckfläche zusammensetzen. GS187166 nennt Ergänzen und Zusammensetzen von Flächen unter Einblick gewinnen2027 und Erfassen2028; flächengleiche Figuren steht in der Bemerkung. FSP35433 nennt ausdrücklich Entdecken und Herstellen von Symmetrien unter Kennen von Spiegelbildern35432. Ausgewählt wird das Herstellen, nicht allein das Erkennen einer vorhandenen Achse. Die beiden Rechteckteile und ihre spiegelbildliche Anordnung sind didaktische Konkretisierungen; die Quellen schreiben keine bestimmte Rechteckzerlegung vor. Die Teilflächen stimmen in Form und Größe überein und haben deshalb denselben Flächeninhalt. Diese mathematische Eigenschaft konkretisiert hier nur die flächengleichen Teilfiguren; unterschiedliche flächengleiche Gesamtfiguren sind nicht mit erfasst. Einblick gewinnen und Kennen sind die amtlichen Lernzielebenen. Ergänzen, Zusammensetzen, Entdecken und Herstellen sind Zielhandlungen. Keine vollständige GS-Zieldeckung und kein vollständiger Nachweis der übergeordneten Lernzielebenen.",
+      "stage_decision": "Stufengleich wird Herstellen von Symmetrien35433 gewählt, weil der konkrete gemeinsame Gegenstand eine aus zwei spiegelbildlichen Teilflächen zusammengesetzte Figur ist. Halbieren35434 auf MA-098 ist die andere Zielhandlung und wird nicht allein durch Umkehrung zum Herstellungsbeleg. FSP3/4 35535 unter Gestalten35521 nennt ausdrücklich Muster/Fantasiebilder aus ebenen Figuren;35527 die Darstellung von Rechtecken/Quadraten. Beides ist positiv verwandt, verlangt aber einen jeweils eigenen Darstellungs-/Gestaltungsausschnitt. FSP1/2 37844 unter Kennen37821 nennt Darstellen von Figuren/Mustern mit Zusammensetzen von Grundformen in der Bemerkung;37984 unter Gestalten37981 nennt Muster mit Zusammensetzen in der Bemerkung. 38011/38015 im Wahlbereich3 Muster nennt Flächengestaltung und Parkettierung. Diese Belege erlauben keine pauschale Behauptung fehlender Zusammensetzungsanschlüsse in1/2. Für den hier ausgewählten Symmetrieausschnitt ist jedoch35433 im passenden Band ausdrücklich belegt und wird bevorzugt. Keine Zahlenraumdifferenz entscheidet die Bandwahl; keine Wahlbereichsvoraussetzung für35432/35433.",
+      "prerequisites": "Vorausgesetzt sind vertraute, deckungsgleiche Rechteckflächen und ein geklärter Bezug zwischen Teilfläche und Gesamtfläche. Die gemeinsame vollständige Seite bildet in der ausgewählten Anordnung die Spiegelachse der Gesamtfigur. Die Innenbereiche der Teilflächen überlappen nicht; es bleiben keine Lücken und keine zusätzlichen oder entfernten Flächenteile. Gleiche Form und Größe allein reicht für die Symmetrieanordnung nicht aus: Auch die Lage beider Teile zur gemeinsamen Achse muss passen.",
+      "uncertainty": "Rechteckteile, vollständige gemeinsame Seite und Spiegelanordnung sind didaktische Eingrenzungen. Kein wörtlicher FSP-Zusammensetzungsunterpunkt und keine allgemeine Flächeninvarianz behauptet. FSP1/2-Bemerkungsbelege bleiben als weitere Kandidaten für andere Ausschnitte erhalten.",
+      "remaining_scope": "Ergänzen beliebiger fehlender Flächenstücke, Zusammensetzen nicht kongruenter Teilfiguren, mehrteilige und nicht symmetrische Zusammensetzungen, nicht deckungsgleiche flächengleiche Gesamtfiguren, systematische Umlegungen mit Flächenerhaltung und quantitative Flächenmaßverfahren bleiben offen. Die GS-Bemerkung flächengleiche Figuren ist nur am gewählten kongruenten Teilflächenpaar konkretisiert, nicht vollständig ausgeschöpft. Weitere Vergleichs- und Zerlegungsreste aus187164/187165 sowie Auszählen187167 und Schätzen187168 werden nicht automatisch mitgeprüft."
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2027",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Einblick gewinnen in Flächeninhalt und Umfang ebener Figuren",
+      "Karten": "",
+      "Prüfstatus": "MA-096: übergeordneter Kontext zu187164/187165; Gesamtumfang offen. Keine zusätzliche Erstentscheidung oder Kartenabdeckung. Einblick gewinnen stammt aus2027, Erfassen ist eine Zielhandlung. Weitere Vergleiche und Zerlegungen sowie187166–187169/2029 bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_2028",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erfassen von Flächeninhalt und Umfang",
+      "Karten": "",
+      "Prüfstatus": "MA-096: übergeordneter Kontext zu187164/187165; Gesamtumfang offen. Keine zusätzliche Erstentscheidung oder Kartenabdeckung. Einblick gewinnen stammt aus2027, Erfassen ist eine Zielhandlung. Weitere Vergleiche und Zerlegungen sowie187166–187169/2029 bleiben offen."
+    },
+    {
+      "Ziel-ID": "page912_187166",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Ergänzen, Zusammensetzen von Flächen",
+      "Karten": "",
+      "Prüfstatus": "MA-094: nur inventarisiert; Einzelprüfung offen. Kein Nichtanschluss und kein fachlicher Prüffortschritt aus fehlender Karte abgeleitet."
+    }
+  ],
+  "context_only_gs_ids": [
+    "page912_2027",
+    "page912_2028"
+  ],
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: symmetrisches Zusammensetzen zweier Rechteckteile ohne Messzahlen",
+    "detail": "35433 belegt Herstellen von Symmetrien. Der gespeicherte Ausschnitt betrifft Form, Lage und qualitative Teil-Ganzes-Beziehung zweier kongruenter Rechteckflächen. Zwei bezeichnet die gewählte Struktur, keine Zahlenraumobergrenze. Weder20/100 aus Zahlzielen noch m/cm aus Längenzielen werden als Grenze übernommen. GS187166 nennt ebenfalls keine numerische Obergrenze. Deckungsgleichheit und Flächengleichheit der Teilrechtecke sind mathematische Eigenschaften der didaktisch gewählten Figur; kein allgemeiner Flächenmaßbeleg.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35432",
+      "Q-MA-page139_35433"
+    ],
+    "planning_rule": "Vorausgesetzt sind vertraute, deckungsgleiche Rechteckflächen und ein geklärter Bezug zwischen Teilfläche und Gesamtfläche. Die gemeinsame vollständige Seite bildet in der ausgewählten Anordnung die Spiegelachse der Gesamtfigur. Die Innenbereiche der Teilflächen überlappen nicht; es bleiben keine Lücken und keine zusätzlichen oder entfernten Flächenteile. Gleiche Form und Größe allein reicht für die Symmetrieanordnung nicht aus: Auch die Lage beider Teile zur gemeinsamen Achse muss passen. Nur den qualitativen Herstellungs- und Zusammensetzungsfall beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Seitenmaße, Umfangs- oder Flächenberechnungen Bestandteil des Feinziels. Numerische Erweiterungen benötigen einen eigenen belegten oder ausdrücklich didaktisch festgelegten Bereich einschließlich aller relevanten Ergebnisse. Beispiele für Falt-, Schneide- oder Klecksarbeiten in der Bemerkung sind keine automatischen Methoden- oder Hilfsmittelvorgaben. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert."
+  },
+  "counts": {
+    "new_individually_examined_target_rows": 1,
+    "new_partially_reviewed_rows": 1,
+    "distinct_connection_scopes": 1,
+    "new_fully_covered_rows": 0,
+    "new_open_connection_questions": 0,
+    "new_inventory_only_rows": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards": 99,
+    "same_band_cards": 71,
+    "cross_band_cards": 28,
+    "source_links": 252,
+    "target_anchors": 250,
+    "new_unique_gs_anchors": 1,
+    "new_unique_fsp_anchors": 0,
+    "audit_rows": 179,
+    "open_connection_questions": 23,
+    "documented_no_direct_connection_rows": 8
+  },
+  "continuation": {
+    "next_id": "page912_187167",
+    "next_step": "Als Nächstes GS3 Auszählen187167 im Flächeninhalt-/Umfangskontext2027/2028 gegen beide FSP-Bänder prüfen; Anzahlen von Flächenteilen, gleiche Einheitsflächen und Maßzahl sorgfältig unterscheiden. MA-099 erfasst187166 nur als Zusammensetzen zweier kongruenter Rechteckflächen zu einer symmetrischen Gesamtfigur. Andere Ergänzungen und Zusammensetzungen bleiben offen. 99 Karten(71 passend,28 stufenübergreifend),23 offene Anschlussfragen,179 Inventurzeilen,8 Nichtanschlussentscheidungen. Kein Gesamtabschluss. App1.404: Veröffentlichung und Liveprüfung ausstehend."
+  },
+  "tests": {
+    "status": "passed_local",
+    "scripts": {
+      "update-mathematik": {
+        "exit_code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      "check-deutsch": {
+        "exit_code": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      "prepare-pages": {
+        "exit_code": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-20\n",
+        "stderr": ""
+      },
+      "check-mathematik": {
+        "exit_code": 0,
+        "stdout": "PASS: 99 mathematics cards, 252 source links (250 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      "test-mathematik-scope": {
+        "exit_code": 0,
+        "stdout": "PASS: 99 mathematics cards, 252 source links (250 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\n",
+        "stderr": ""
+      },
+      "check-learning-objects": {
+        "exit_code": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    },
+    "browser_local": "PASS targeted MA-002/098/099; scope in card/goals/output, sources, adoption, empty task/aid fields, preserved teacher drafts, subject isolation; MA-099 mobile320/390. PASS learning-level display412 cards/824 sides; actions excluded.",
+    "preservation": {
+      "changed": [
+        "README.md",
+        "curriculum/learning_levels.json",
+        "curriculum/mathematik/README.md",
+        "curriculum/mathematik/mathematik_module.json",
+        "curriculum/mathematik/review_progress.json",
+        "curriculum/mathematik/row_audit.csv",
+        "dist/index.html",
+        "index.html"
+      ],
+      "new": [
+        "scripts/check-mathematik-live-ma-099.cjs",
+        "curriculum/mathematik/review_batch_097.json"
+      ],
+      "unchanged_prior_cards": 98,
+      "unchanged_prior_level_entries": 411,
+      "audit_changed": [
+        "page912_2027",
+        "page912_2028",
+        "page912_187166"
+      ],
+      "open_questions": 23,
+      "no_direct": 8,
+      "html_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03"
+    },
+    "limits": "No UI code change; no full99-card functional run and no fresh substantive review of all412 cards. Live publication checks pending."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.404"
+  }
+}

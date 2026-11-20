@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-20.1",
+  "version": "MA-2026-11-20.2",
   "checked_on": "2026-11-20",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1615,6 +1615,12 @@
       "id": "Q-MA-page912_187165",
       "title": "GS Mathematik3 · Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187165",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187166",
+      "title": "GS Mathematik3 · Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187166",
       "version": "2026"
     }
   ],
@@ -9543,6 +9549,82 @@
         "context_only_gs_ids": [
           "page912_2027",
           "page912_2028"
+        ]
+      }
+    },
+    {
+      "id": "MA-099",
+      "subject": "Mathematik",
+      "theme": "Spiegelbildliche Teilflächen zusammensetzen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · symmetrische Rechteckfläche · qualitative Teil-Ganzes-Beziehung",
+      "gs_anchor": "GS Mathematik Kl.3 · Raum und Form · Ergänzen/Zusammensetzen187166 unter Einblick gewinnen2027; Erfassen2028 als Kontext; flächengleiche Figuren in der Bemerkung",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Einer braucht den anderen · Herstellen von Symmetrien35433 unter Kennen von Spiegelbildern35432",
+      "gs_operator": "Einblick gewinnen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "Lernzielebenen: GS Einblick gewinnen · FSP Kennen. Stufenbandpassender Teilanschluss GS3 → FSP3/4: zwei deckungsgleiche rechteckige Teilflächen zu einer achsensymmetrischen Rechteckfläche zusammensetzen. GS187166 nennt Ergänzen und Zusammensetzen von Flächen unter Einblick gewinnen2027 und Erfassen2028; flächengleiche Figuren steht in der Bemerkung. FSP35433 nennt ausdrücklich Entdecken und Herstellen von Symmetrien unter Kennen von Spiegelbildern35432. Ausgewählt wird das Herstellen, nicht allein das Erkennen einer vorhandenen Achse. Die beiden Rechteckteile und ihre spiegelbildliche Anordnung sind didaktische Konkretisierungen; die Quellen schreiben keine bestimmte Rechteckzerlegung vor. Die Teilflächen stimmen in Form und Größe überein und haben deshalb denselben Flächeninhalt. Diese mathematische Eigenschaft konkretisiert hier nur die flächengleichen Teilfiguren; unterschiedliche flächengleiche Gesamtfiguren sind nicht mit erfasst. Einblick gewinnen und Kennen sind die amtlichen Lernzielebenen. Ergänzen, Zusammensetzen, Entdecken und Herstellen sind Zielhandlungen. Keine vollständige GS-Zieldeckung und kein vollständiger Nachweis der übergeordneten Lernzielebenen.",
+      "gs_target_ids": [
+        "page912_2027",
+        "page912_2028",
+        "page912_187166"
+      ],
+      "fsp_target_ids": [
+        "page139_35432",
+        "page139_35433"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2027",
+        "Q-MA-page912_2028",
+        "Q-MA-page912_187166",
+        "Q-MA-page139_35432",
+        "Q-MA-page139_35433"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: zwei deckungsgleiche rechteckige Teilflächen zu einer achsensymmetrischen Rechteckfläche zusammensetzen. GS187166 nennt Ergänzen und Zusammensetzen von Flächen unter Einblick gewinnen2027 und Erfassen2028; flächengleiche Figuren steht in der Bemerkung. FSP35433 nennt ausdrücklich Entdecken und Herstellen von Symmetrien unter Kennen von Spiegelbildern35432. Ausgewählt wird das Herstellen, nicht allein das Erkennen einer vorhandenen Achse. Die beiden Rechteckteile und ihre spiegelbildliche Anordnung sind didaktische Konkretisierungen; die Quellen schreiben keine bestimmte Rechteckzerlegung vor. Die Teilflächen stimmen in Form und Größe überein und haben deshalb denselben Flächeninhalt. Diese mathematische Eigenschaft konkretisiert hier nur die flächengleichen Teilfiguren; unterschiedliche flächengleiche Gesamtfiguren sind nicht mit erfasst. Einblick gewinnen und Kennen sind die amtlichen Lernzielebenen. Ergänzen, Zusammensetzen, Entdecken und Herstellen sind Zielhandlungen. Keine vollständige GS-Zieldeckung und kein vollständiger Nachweis der übergeordneten Lernzielebenen. Vorausgesetzt sind vertraute, deckungsgleiche Rechteckflächen und ein geklärter Bezug zwischen Teilfläche und Gesamtfläche. Die gemeinsame vollständige Seite bildet in der ausgewählten Anordnung die Spiegelachse der Gesamtfigur. Die Innenbereiche der Teilflächen überlappen nicht; es bleiben keine Lücken und keine zusätzlichen oder entfernten Flächenteile. Gleiche Form und Größe allein reicht für die Symmetrieanordnung nicht aus: Auch die Lage beider Teile zur gemeinsamen Achse muss passen. Rest: Ergänzen beliebiger fehlender Flächenstücke, Zusammensetzen nicht kongruenter Teilfiguren, mehrteilige und nicht symmetrische Zusammensetzungen, nicht deckungsgleiche flächengleiche Gesamtfiguren, systematische Umlegungen mit Flächenerhaltung und quantitative Flächenmaßverfahren bleiben offen. Die GS-Bemerkung flächengleiche Figuren ist nur am gewählten kongruenten Teilflächenpaar konkretisiert, nicht vollständig ausgeschöpft. Weitere Vergleichs- und Zerlegungsreste aus187164/187165 sowie Auszählen187167 und Schätzen187168 werden nicht automatisch mitgeprüft.",
+      "shared_object_suggestion": "Eine achsensymmetrische Rechteckfläche aus zwei deckungsgleichen Teilrechtecken.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind setzt zwei deckungsgleiche Rechteckflächen zu einer größeren Rechteckfläche zusammen und erkennt die beiden gleich großen Teilflächen innerhalb der Gesamtfläche.",
+          "criterion": "Die beiden unveränderten Teilrechtecke bilden lückenlos und ohne Überlappung ihrer Innenbereiche die Gesamtfläche. Ihre gemeinsame vollständige Seite trennt die Gesamtfläche in zwei deckungsgleiche Teile. Die Teile werden als flächengleich und gemeinsam zur ganzen Fläche gehörig erkannt. Keine Messzahlen, Flächeneinheiten, Formeln oder vollständige Aufzählung aller Zusammensetzungen werden zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung von Zusammensetzen187166 unter Einblick gewinnen2027; flächengleiche Figuren aus der Bemerkung nur als kongruente Teilrechtecke ausgewählt, keine vollständige Deckung der GS-Zielzeile."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt aus zwei vertrauten, deckungsgleichen Rechteckflächen eine achsensymmetrische Rechteckfigur her, deren gemeinsame Seite die Spiegelachse bildet.",
+          "criterion": "Die Teilrechtecke liegen spiegelbildlich an der gemeinsamen vollständigen Seite. Sie ergeben ohne Lücken oder Überlappung ihrer Innenbereiche die rechteckige Gesamtfigur. Eine bloße Verschiebung der Teile gegeneinander genügt nicht. Keine Messzahlen, feste Falt- oder Zeichenmethode, Untersuchung aller Achsen oder eigenständige Gestaltung eines vollständigen Ornaments werden zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des Herstellens von Symmetrien35433 unter Kennen35432. Die Rechteckteile und ihre konkrete Anordnung sind ausgewählt, nicht als zusätzliche wörtliche Lehrplanforderung ausgegeben."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: symmetrisches Zusammensetzen zweier Rechteckteile ohne Messzahlen",
+        "detail": "35433 belegt Herstellen von Symmetrien. Der gespeicherte Ausschnitt betrifft Form, Lage und qualitative Teil-Ganzes-Beziehung zweier kongruenter Rechteckflächen. Zwei bezeichnet die gewählte Struktur, keine Zahlenraumobergrenze. Weder20/100 aus Zahlzielen noch m/cm aus Längenzielen werden als Grenze übernommen. GS187166 nennt ebenfalls keine numerische Obergrenze. Deckungsgleichheit und Flächengleichheit der Teilrechtecke sind mathematische Eigenschaften der didaktisch gewählten Figur; kein allgemeiner Flächenmaßbeleg.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35432",
+          "Q-MA-page139_35433"
+        ],
+        "planning_rule": "Vorausgesetzt sind vertraute, deckungsgleiche Rechteckflächen und ein geklärter Bezug zwischen Teilfläche und Gesamtfläche. Die gemeinsame vollständige Seite bildet in der ausgewählten Anordnung die Spiegelachse der Gesamtfigur. Die Innenbereiche der Teilflächen überlappen nicht; es bleiben keine Lücken und keine zusätzlichen oder entfernten Flächenteile. Gleiche Form und Größe allein reicht für die Symmetrieanordnung nicht aus: Auch die Lage beider Teile zur gemeinsamen Achse muss passen. Nur den qualitativen Herstellungs- und Zusammensetzungsfall beurteilen. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Seitenmaße, Umfangs- oder Flächenberechnungen Bestandteil des Feinziels. Numerische Erweiterungen benötigen einen eigenen belegten oder ausdrücklich didaktisch festgelegten Bereich einschließlich aller relevanten Ergebnisse. Beispiele für Falt-, Schneide- oder Klecksarbeiten in der Bemerkung sind keine automatischen Methoden- oder Hilfsmittelvorgaben. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert."
+      },
+      "evidence_classification": {
+        "gs": "2027 Hauptziel Einblick gewinnen und2028 Erfassen nur Kontext.187166 ist die begrenzt zugeordnete Unterzielzeile. Flächengleiche Figuren steht in der Bemerkung; die Auswahl kongruenter Teilrechtecke ist didaktisch.",
+        "fsp": "35432 Hauptziel Kennen;35433 Entdecken/Herstellen von Symmetrien als ausdrückliches Unterziel, ausgewählt Herstellen. Die Bemerkung nennt Ornamente/Gebäude und Methodenbeispiele, keine Pflicht zu einer bestimmten Herstellungsmethode. Rechteckzusammensetzung ist eine didaktische Auswahl des Symmetriegegenstands.",
+        "context_only_gs_ids": [
+          "page912_2027",
+          "page912_2028"
+        ],
+        "gs_remark_anchors": [
+          "page912_187166"
         ]
       }
     }
