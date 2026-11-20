@@ -9,4 +9,4 @@ Vor Veröffentlichung: python3 scripts/check-deutsch.py; python3 scripts/prepare
 
 ## Sicherungsstand MA-100
 
-Der Originalentwurf `curriculum/mathematik/drafts/review_batch_100_2026-11-20.json` ist in `review_batch_100.json`, Modul, Zeilenaudit und Fortschritt integriert. Nicht erneut anwenden oder zählen. Der aktuelle Veröffentlichungsnachweis steht in review_progress.json; die fachliche Fortsetzung ist 2034, danach 2035. Sieben neue Anschlussfragen bleiben offen; Deutsch-Abschluss DE-UZ-052 bewahren.
+Der Originalentwurf `curriculum/mathematik/drafts/review_batch_100_2026-11-20.json` ist in `review_batch_100.json`, Modul, Zeilenaudit und Fortschritt integriert. Nicht erneut anwenden oder zählen. Der aktuelle Veröffentlichungsnachweis steht in review_progress.json; MA-101 hat 2034/2035 geprüft. Die aktuelle Fortsetzung ist die Klärung der Körperfragen 187170–187175, danach der Netzfragen 2033/2034. Insgesamt 32 Anschlussfragen bleiben offen; Deutsch-Abschluss DE-UZ-052 bewahren.
