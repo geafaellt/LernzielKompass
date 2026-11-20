@@ -459,7 +459,7 @@
   "existing_card_review": "MA-084/090 betreffen Würfelturm-Baupläne unter operatorlosem35456 und noch festzulegendem Zahlenbereich; sie tragen keine Pyramidenherstellung. MA-095 betrifft qualitative Rechteckseiten unter Gestalten und wird nicht zum Körpervergleich erweitert. Alle101 Bestandskarten und414 bestehenden Lernzielebenen-Einträge unverändert. Keine neue vollständige semantische Bestandsprüfung behauptet.",
   "limits": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach. Die Fachwort-Nichtanschlussentscheidung187176 bleibt unverändert; das neue FSP-Feinziel verlangt nicht diese Wörter. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorgeschlagen.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_live",
     "checks": [
       {
         "script": "update-mathematik.py",
@@ -501,15 +501,23 @@
     "browser_local": "check-mathematik-live-ma-102.cjs passed: MA-084/095/102; mobile MA-102320/390; scope on card/goals/output, sources, goal adoption, empty task/aid fields, teacher draft preservation and subject isolation.",
     "learning_levels": "check-learning-levels.cjs passed:415 cards/830 sides; display/structure regression, not new semantic review of all cards.",
     "preservation": "All101 prior mathematics cards, all255 prior source links and all414 prior learning-level entries unchanged. Three resolved questions moved with full provenance, no new first reviews;191 inventory rows;11 direct nonmatch decisions unchanged.",
-    "limits": "No UI code change; no full102-card functional browser run. Live verification pending.",
-    "local_html_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9"
+    "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+    "local_html_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
+    "browser_live": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.407"
+    "batch": "MA-102",
+    "status": "verified",
+    "app_version": "1.407",
+    "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
+    "pages_run": 44777080601,
+    "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
+    "live_byte_identical": true,
+    "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
+    "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open."
   },
   "continuation": {
     "next_id": "page912_187172",
-    "next_step": "Offene Kegel-/Zylinderanschlüsse187172/187173 separat entscheiden, danach Blickwinkel187175 und Netzfragen2033/2034. MA-102 klärt187170/187171/187174 nur im qualitativen Pyramiden-Quader-Vergleich; keine erneute Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.102 Karten,29 offene Anschlussfragen. App1.407: Tests, Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt."
+    "next_step": "Offene Kegel-/Zylinderanschlüsse187172/187173 separat entscheiden, danach Blickwinkel187175 und Netzfragen2033/2034. MA-102 klärt187170/187171/187174 nur im qualitativen Pyramiden-Quader-Vergleich; keine erneute Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.102 Karten,29 offene Anschlussfragen. App1.407 veröffentlicht; Datenprüfungen, Pages und tatsächlich ausgelieferte App einschließlich Browserprüfungen bestätigt. Deutsch-Abschluss DE-UZ-052 bewahrt."
   }
 }

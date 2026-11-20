@@ -3329,7 +3329,7 @@
     }
   },
   "next_id": "page912_187172",
-  "next_step": "Offene Kegel-/Zylinderanschlüsse187172/187173 separat entscheiden, danach Blickwinkel187175 und Netzfragen2033/2034. MA-102 klärt187170/187171/187174 nur im qualitativen Pyramiden-Quader-Vergleich; keine erneute Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.102 Karten,29 offene Anschlussfragen. App1.407: Tests, Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt.",
+  "next_step": "Offene Kegel-/Zylinderanschlüsse187172/187173 separat entscheiden, danach Blickwinkel187175 und Netzfragen2033/2034. MA-102 klärt187170/187171/187174 nur im qualitativen Pyramiden-Quader-Vergleich; keine erneute Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.102 Karten,29 offene Anschlussfragen. App1.407 veröffentlicht; Datenprüfungen, Pages und tatsächlich ausgelieferte App einschließlich Browserprüfungen bestätigt. Deutsch-Abschluss DE-UZ-052 bewahrt.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5513,8 +5513,14 @@
   },
   "latest_publication": {
     "batch": "MA-102",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.407",
+    "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
+    "pages_run": 44777080601,
+    "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
+    "live_byte_identical": true,
+    "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
+    "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
     "previous_publication": {
       "batch": "MA-100",
       "status": "verified",
