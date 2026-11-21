@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.407** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.408** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -181,3 +181,6 @@ Mathematik MA-101: Eigenschaften und Fachbegriffe von Körpernetzen geprüft.203
 
 
 Mathematik MA-102: begrenzter Pyramiden-Quader-Vergleich MA-102; drei offene Fragen mit Restumfang geklärt, keine neuen Erstprüfungen.102 Karten,29 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_102.json). App1.407: Alle sechs Daten-/Bereichsprüfungen und Audit-Konsistenzprüfung bestanden. Gezielte Browserprüfung MA-084/095/102 einschließlich mobiler MA-102-Darstellung320px/390px bestanden; Geltungsbereich auf Karte, bei Zielen und im Planungsoutput sichtbar, eigene Texte erhalten und Aufgaben/Hilfsmittel leer. Lernzielebenen-Anzeige aller415 Karten/830 Seiten bestanden; keine neue fachliche Einzelprüfung aller Karten. Keine UI-Codeänderung und kein vollständiger102-Karten-Funktionslauf. App1.407 mit Commit77c4c2e037e1e3a440d5e8384acb611d859aabfa auf main veröffentlicht; [Pages-Lauf44777080601](https://github.com/geafaellt/LernzielKompass/actions/runs/44777080601) erfolgreich. Live-Datei bytegleich(SHA256 90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9). Gezielte Browserprüfung MA-084/095/102, mobile MA-102-Darstellung320px/390px und Lernzielebenen-Anzeige aller415 Karten/830 Seiten auch öffentlich bestanden.
+
+
+Mathematik MA-103: begrenzter Kegel-Zylinder-Vergleich. Zwei Fragen mit Restumfang geklärt, keine neuen Erstprüfungen.103 Karten,27 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_103.json). App1.408: Datenprüfungen, gezielter Browserlauf und Lernzielebenenprüfung bestanden. Veröffentlichung und Liveprüfung ausstehend.

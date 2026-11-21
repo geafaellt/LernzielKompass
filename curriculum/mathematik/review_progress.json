@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-102",
+  "last_batch": "MA-103",
   "complete": false,
   "counts": {
-    "cards": 102,
+    "cards": 103,
     "cross_band": 28
   },
   "source_plans": {
@@ -3326,10 +3326,36 @@
       "area": "Lernbereich 2: Die Welt um mich herum",
       "operator": "",
       "version": "2019"
+    },
+    "page912_187172": {
+      "id": "page912_187172",
+      "level": 3,
+      "parent_target_id": "page912_2030",
+      "target": "Kegel",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187172",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "",
+      "version": "2026"
+    },
+    "page912_187173": {
+      "id": "page912_187173",
+      "level": 3,
+      "parent_target_id": "page912_2030",
+      "target": "Zylinder",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187173",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "",
+      "version": "2026"
     }
   },
-  "next_id": "page912_187172",
-  "next_step": "Offene Kegel-/Zylinderanschlüsse187172/187173 separat entscheiden, danach Blickwinkel187175 und Netzfragen2033/2034. MA-102 klärt187170/187171/187174 nur im qualitativen Pyramiden-Quader-Vergleich; keine erneute Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.102 Karten,29 offene Anschlussfragen. App1.407 veröffentlicht; Datenprüfungen, Pages und tatsächlich ausgelieferte App einschließlich Browserprüfungen bestätigt. Deutsch-Abschluss DE-UZ-052 bewahrt.",
+  "next_id": "page912_187175",
+  "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408: Datenprüfungen, gezielter Browserlauf und Lernzielebenenprüfung bestanden. Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3643,7 +3669,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_102.json",
+  "last_review_file": "review_batch_103.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4161,50 +4187,6 @@
       "review": "MA-099",
       "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird.",
       "follow_up_in_MA100": "MA-101 bestätigt einen didaktisch begrenzten geschlossenen Rand als Gesamtlängenfall. Die frühere grundsätzliche Randlinienfrage ist damit für diesen Dreiecksfall geklärt. Offen bleibt die eigene Konkretisierung für Schätzwerte mit Referenzbezug/Genauigkeitsrahmen; exakte Werte nicht nur umbenennen. Flächeninhaltsschätzung bleibt unabhängig offen."
-    },
-    {
-      "gs_id": "page912_187172",
-      "scope": "Kegel",
-      "status": "offen",
-      "reason": "GS verlangt Kegel. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
-      "candidate_ids": [
-        "page139_35451",
-        "page139_35454",
-        "page139_35456",
-        "page139_35459",
-        "page139_35521",
-        "page139_35527",
-        "page139_37821",
-        "page139_37832",
-        "page139_37844",
-        "page139_37981",
-        "page139_38011",
-        "page139_38015"
-      ],
-      "review": "MA-100",
-      "follow_up_evidence": "Prüfen, ob35454 einen eng begrenzten Umwelt-Kegelformvergleich trägt; fehlende ausdrückliche Kegelnennung nicht allein zum Ausschluss machen, aber kein Kegel-Herstellungsziel erfinden."
-    },
-    {
-      "gs_id": "page912_187173",
-      "scope": "Zylinder",
-      "status": "offen",
-      "reason": "GS verlangt Zylinder. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
-      "candidate_ids": [
-        "page139_35451",
-        "page139_35454",
-        "page139_35456",
-        "page139_35459",
-        "page139_35521",
-        "page139_35527",
-        "page139_37821",
-        "page139_37832",
-        "page139_37844",
-        "page139_37981",
-        "page139_38011",
-        "page139_38015"
-      ],
-      "review": "MA-100",
-      "follow_up_evidence": "Reichweite35454 für Zylinderformen im Umweltkontext gesondert prüfen; Kreis/ Rechteck aus1/2 belegt allein keine Körperkompetenz."
     },
     {
       "gs_id": "page912_187175",
@@ -4970,9 +4952,9 @@
     },
     {
       "gs_id": "page912_187170",
-      "scope": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert. Für187170/187174 bleibt zusätzlich der Pyramiden-Quader-Ausschnitt MA-102 erhalten.",
       "status": "offen",
-      "review": "MA-102"
+      "review": "MA-103"
     },
     {
       "gs_id": "page912_187171",
@@ -4982,21 +4964,21 @@
     },
     {
       "gs_id": "page912_187172",
-      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert. Für187170/187174 bleibt zusätzlich der Pyramiden-Quader-Ausschnitt MA-102 erhalten.",
       "status": "offen",
-      "review": "MA-100"
+      "review": "MA-103"
     },
     {
       "gs_id": "page912_187173",
-      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert. Für187170/187174 bleibt zusätzlich der Pyramiden-Quader-Ausschnitt MA-102 erhalten.",
       "status": "offen",
-      "review": "MA-100"
+      "review": "MA-103"
     },
     {
       "gs_id": "page912_187174",
-      "scope": "Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach.",
+      "scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert. Für187170/187174 bleibt zusätzlich der Pyramiden-Quader-Ausschnitt MA-102 erhalten.",
       "status": "offen",
-      "review": "MA-102"
+      "review": "MA-103"
     },
     {
       "gs_id": "page912_187175",
@@ -5512,63 +5494,68 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-102",
-    "status": "verified",
-    "app_version": "1.407",
-    "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
-    "pages_run": 44777080601,
-    "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
-    "live_byte_identical": true,
-    "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
-    "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+    "batch": "MA-103",
+    "status": "pending",
+    "app_version": "1.408",
     "previous_publication": {
-      "batch": "MA-100",
+      "batch": "MA-102",
       "status": "verified",
-      "app_version": "1.406",
-      "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
-      "pages_run": 44727254718,
-      "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+      "app_version": "1.407",
+      "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
+      "pages_run": 44777080601,
+      "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
       "live_byte_identical": true,
-      "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
-      "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+      "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
+      "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
       "previous_publication": {
-        "batch": "MA-098",
+        "batch": "MA-100",
         "status": "verified",
-        "app_version": "1.405",
-        "commit": "b03ad838651acbe36e955787111ef54744048c0c",
-        "pages_run": 44691360865,
-        "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+        "app_version": "1.406",
+        "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
+        "pages_run": 44727254718,
+        "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
         "live_byte_identical": true,
-        "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
-        "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+        "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
+        "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
         "previous_publication": {
-          "batch": "MA-097",
+          "batch": "MA-098",
           "status": "verified",
-          "app_version": "1.404",
-          "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
-          "pages_run": 44688597423,
-          "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
+          "app_version": "1.405",
+          "commit": "b03ad838651acbe36e955787111ef54744048c0c",
+          "pages_run": 44691360865,
+          "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
           "live_byte_identical": true,
-          "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
-          "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+          "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
+          "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
           "previous_publication": {
-            "batch": "MA-096",
+            "batch": "MA-097",
             "status": "verified",
-            "app_version": "1.403",
-            "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
-            "pages_run": 44669748044,
-            "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+            "app_version": "1.404",
+            "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
+            "pages_run": 44688597423,
+            "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
             "live_byte_identical": true,
-            "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
-            "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+            "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
+            "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
             "previous_publication": {
-              "batch": "MA-093",
+              "batch": "MA-096",
               "status": "verified",
-              "app_version": "1.402",
-              "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-              "pages_run": 44621694106,
-              "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-              "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+              "app_version": "1.403",
+              "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+              "pages_run": 44669748044,
+              "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+              "live_byte_identical": true,
+              "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+              "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+              "previous_publication": {
+                "batch": "MA-093",
+                "status": "verified",
+                "app_version": "1.402",
+                "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+                "pages_run": 44621694106,
+                "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+                "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+              }
             }
           }
         }
@@ -5890,6 +5877,72 @@
         "follow_up_evidence": "Direktes Vergleichen35454 zuerst auf einen gemeinsamen Körper-Eigenschaftsausschnitt prüfen. GS-Kontext weiterer Körper erhalten; Würfel-/Quader-/Kugelmerkmale35456 nicht pauschal substituieren."
       },
       "review_file": "review_batch_102.json"
+    },
+    {
+      "gs_id": "page912_187172",
+      "opened_in": "MA-100",
+      "resolved_in": "MA-103",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-103"
+      ],
+      "scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert.",
+      "previous_question": {
+        "gs_id": "page912_187172",
+        "scope": "Kegel",
+        "status": "offen",
+        "reason": "GS verlangt Kegel. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+        "candidate_ids": [
+          "page139_35451",
+          "page139_35454",
+          "page139_35456",
+          "page139_35459",
+          "page139_35521",
+          "page139_35527",
+          "page139_37821",
+          "page139_37832",
+          "page139_37844",
+          "page139_37981",
+          "page139_38011",
+          "page139_38015"
+        ],
+        "review": "MA-100",
+        "follow_up_evidence": "Prüfen, ob35454 einen eng begrenzten Umwelt-Kegelformvergleich trägt; fehlende ausdrückliche Kegelnennung nicht allein zum Ausschluss machen, aber kein Kegel-Herstellungsziel erfinden."
+      },
+      "review_file": "review_batch_103.json"
+    },
+    {
+      "gs_id": "page912_187173",
+      "opened_in": "MA-100",
+      "resolved_in": "MA-103",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-103"
+      ],
+      "scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert.",
+      "previous_question": {
+        "gs_id": "page912_187173",
+        "scope": "Zylinder",
+        "status": "offen",
+        "reason": "GS verlangt Zylinder. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+        "candidate_ids": [
+          "page139_35451",
+          "page139_35454",
+          "page139_35456",
+          "page139_35459",
+          "page139_35521",
+          "page139_35527",
+          "page139_37821",
+          "page139_37832",
+          "page139_37844",
+          "page139_37981",
+          "page139_38011",
+          "page139_38015"
+        ],
+        "review": "MA-100",
+        "follow_up_evidence": "Reichweite35454 für Zylinderformen im Umweltkontext gesondert prüfen; Kreis/ Rechteck aus1/2 belegt allein keine Körperkompetenz."
+      },
+      "review_file": "review_batch_103.json"
     }
   ],
   "learning_level_reviews": {
@@ -5965,18 +6018,18 @@
     "page912_2030": {
       "level": "Kennen",
       "target_id": "page912_2030",
-      "checked_on": "2026-11-20",
+      "checked_on": "2026-11-21",
       "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Kennen: begrenztes Gebiet im gelernten Kontext.",
       "hierarchy_evidence": "GS S.21/PDF31 visuell: Kennen geometrischer Körper über187170–187174. Tätigkeiten und Körpernamen sind keine Lernzielebenen.",
-      "review": "MA-102"
+      "review": "MA-103"
     },
     "page139_35451": {
       "level": "Anwenden",
       "target_id": "page139_35451",
-      "checked_on": "2026-11-20",
+      "checked_on": "2026-11-21",
       "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Anwenden: Abstraktion und Transfer in unbekannten Kontexten.",
       "hierarchy_evidence": "FSP S.19/PDF31 visuell:35454 unter Anwenden35451;35456 danach eigenständiger operatorloser Inhaltsblock.",
-      "review": "MA-102"
+      "review": "MA-103"
     }
   }
 }

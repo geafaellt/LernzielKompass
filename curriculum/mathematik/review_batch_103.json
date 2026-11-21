@@ -1,0 +1,479 @@
+{
+  "id": "MA-103",
+  "date": "2026-11-21",
+  "base_commit": "14d2a319d1de883b6ccd0bfcd538d68ad4f4b8c5",
+  "scope": "GS3 Kegel/Zylinder: zwei offene Anschlussfragen zum qualitativen Formvergleich",
+  "source_verification": {
+    "html": "Amtliche HTML-Fassungen aus dem begonnenen MA-103-Abruf am20.11. erneut zeilenweise gelesen; beide URLs zusätzlich online geöffnet.",
+    "pdf": "Amtliche Bestands-PDFs wiederverwendet, kein neuer PDF-Abruf. GS S.21/PDF31 und FSP S.19/PDF31 vorhandene Darstellungen erneut visuell geprüft; Definitionen beider Pläne S.V/PDF5 textuell gelesen."
+  },
+  "source_sha256": {
+    "gs": "661c6d02c9b763f8f9ad1d02ce6eec7223a6dcbb49ced46526ad5777413a5f89",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_2030": {
+      "id": "page912_2030",
+      "level": 1,
+      "parent_target_id": "page912_2030",
+      "target": "Kennen geometrischer Körper",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2030"
+    },
+    "page912_187170": {
+      "id": "page912_187170",
+      "level": 2,
+      "parent_target_id": "page912_2030",
+      "target": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper",
+      "remarks": "in der Umwelt entdecken Vollmodelle, Flächenmodelle, Kantenmodelle",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187170"
+    },
+    "page912_187172": {
+      "id": "page912_187172",
+      "level": 3,
+      "parent_target_id": "page912_2030",
+      "target": "Kegel",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187172"
+    },
+    "page912_187173": {
+      "id": "page912_187173",
+      "level": 3,
+      "parent_target_id": "page912_2030",
+      "target": "Zylinder",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187173"
+    },
+    "page912_187174": {
+      "id": "page912_187174",
+      "level": 2,
+      "parent_target_id": "page912_2030",
+      "target": "Vergleichen von Eigenschaften",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187174"
+    },
+    "page139_35451": {
+      "id": "page139_35451",
+      "level": 1,
+      "parent_target_id": "page139_35451",
+      "target": "Anwenden des Wissens über ebene Figuren auf das Bestimmen der Formen von Gegenständen",
+      "remarks": "Gebrauchsgegenstände, Spiel- und Schulsachen, Verpackungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35451"
+    },
+    "page139_35454": {
+      "id": "page139_35454",
+      "level": 2,
+      "parent_target_id": "page139_35451",
+      "target": "Entdecken, Vergleichen, Sortieren und Benennen von Körpern",
+      "remarks": "Unterscheiden nach selbst gefundenen und nach vorgegebenen Merkmalen Messen von Kantenlängen bis zu einem Meter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35454"
+    },
+    "page912_187171": {
+      "id": "page912_187171",
+      "level": 3,
+      "parent_target_id": "page912_2030",
+      "target": "Pyramide",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187171"
+    },
+    "page139_35456": {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456"
+    },
+    "page139_35459": {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35568": {
+      "id": "page139_35568",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Vergleich von Verpackungen",
+      "remarks": "Festigen von Merkmalen der Körper und ihrer Seitenflächen kritischer Vergleich von Verpackungsgröße und Inhalt Vermeidung von Verpackungsmüll ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35568"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37824": {
+      "id": "page139_37824",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Erkennen und Benennen der Merkmale von Objekten",
+      "remarks": "Gebrauchsgegenstände, Spielsachen gezieltes Beobachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37824"
+    },
+    "page139_37827": {
+      "id": "page139_37827",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Sortieren nach Größe, Farbe, Form, Oberfläche",
+      "remarks": "Gliedern, Ordnen, Zuordnen ➔ DE - HKS, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37827"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37997": {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997"
+    },
+    "page139_38004": {
+      "id": "page139_38004",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Entdecken, Zeichnen von Mustern und Ornamenten und Bauen räumlicher Objekte",
+      "remarks": "Kleidung, Pfefferkuchenhaus, Burgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38004"
+    },
+    "page139_38005": {
+      "id": "page139_38005",
+      "level": 1,
+      "parent_target_id": "page139_38005",
+      "target": "Anwenden mathematischer Sachverhalte im Spiel",
+      "remarks": "Schule und Freizeit Arbeit an Stationen, Mathematikolympiade ⇒ Förderung des sozial-emotionalen Verhaltens",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38005"
+    },
+    "page139_38009": {
+      "id": "page139_38009",
+      "level": 2,
+      "parent_target_id": "page139_38005",
+      "target": "Spiele mit geometrischen Inhalten",
+      "remarks": "Tangram, Domino freies Bauen und Bauen nach Anleitung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38009"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187172",
+      "status": "resolved_with_limited_connection",
+      "first_review": false,
+      "cards": [
+        "MA-103"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: qualitative Formen eindeutig geformter Alltagsgegenstände als gerader Kreiskegel und gerader Kreiszylinder vergleichen. GS187170 nennt Erkennen/Benennen/Beschreiben neben Darstellen/Herstellen,187172 und187173 konkretisieren die Körper,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 belegt den allgemeinen Körpervergleich unter Anwenden35451 im Gegenstandskontext; das Unterscheiden nach gefundenen oder vorgegebenen Merkmalen steht in der Bemerkung. Diese allgemeine Zeile trägt die offengelegte didaktische Auswahl der beiden Formen und ihres Vergleichsaspekts; sie schreibt Kegel/Zylinder nicht ausdrücklich als besondere FSP-Körperarten vor. Der nachfolgende operatorlose Block35456 mit Würfel/Quader/Kugel wird weder als Kegel-/Zylinderbeleg noch als abschließende Einschränkung der vorherigen allgemeinen Zeile verwendet.",
+      "prerequisites": "Vorausgesetzt sind bekannte Kreisflächen und ein geklärter räumlicher Bezug zwischen ebenen Begrenzungsflächen und gekrümmtem Mantel. Beschränkt auf eindeutig geformte Alltagsgegenstände in Form eines geraden Kreiskegels beziehungsweise geraden Kreiszylinders; diese Auswahl ist didaktisch und keine Definition sämtlicher Kegel/Zylinder. Abgeschnittene, abgerundete, zusammengesetzte oder hohle Formen mit zusätzlichen Begrenzungsflächen sind nicht umfasst. Die räumlichen Flächenbeziehungen müssen erkennbar oder bekannt sein; aus einem einzelnen Umriss werden keine verborgenen Eigenschaften erschlossen.",
+      "uncertainty": "Kegel-/Zylinderformen sind begründete didaktische Auswahlen unter dem allgemeinen FSP-Körpervergleich, keine ausdrücklich genannten besonderen FSP-Pflichtkörper.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    },
+    {
+      "gs_id": "page912_187173",
+      "status": "resolved_with_limited_connection",
+      "first_review": false,
+      "cards": [
+        "MA-103"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: qualitative Formen eindeutig geformter Alltagsgegenstände als gerader Kreiskegel und gerader Kreiszylinder vergleichen. GS187170 nennt Erkennen/Benennen/Beschreiben neben Darstellen/Herstellen,187172 und187173 konkretisieren die Körper,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 belegt den allgemeinen Körpervergleich unter Anwenden35451 im Gegenstandskontext; das Unterscheiden nach gefundenen oder vorgegebenen Merkmalen steht in der Bemerkung. Diese allgemeine Zeile trägt die offengelegte didaktische Auswahl der beiden Formen und ihres Vergleichsaspekts; sie schreibt Kegel/Zylinder nicht ausdrücklich als besondere FSP-Körperarten vor. Der nachfolgende operatorlose Block35456 mit Würfel/Quader/Kugel wird weder als Kegel-/Zylinderbeleg noch als abschließende Einschränkung der vorherigen allgemeinen Zeile verwendet.",
+      "prerequisites": "Vorausgesetzt sind bekannte Kreisflächen und ein geklärter räumlicher Bezug zwischen ebenen Begrenzungsflächen und gekrümmtem Mantel. Beschränkt auf eindeutig geformte Alltagsgegenstände in Form eines geraden Kreiskegels beziehungsweise geraden Kreiszylinders; diese Auswahl ist didaktisch und keine Definition sämtlicher Kegel/Zylinder. Abgeschnittene, abgerundete, zusammengesetzte oder hohle Formen mit zusätzlichen Begrenzungsflächen sind nicht umfasst. Die räumlichen Flächenbeziehungen müssen erkennbar oder bekannt sein; aus einem einzelnen Umriss werden keine verborgenen Eigenschaften erschlossen.",
+      "uncertainty": "Kegel-/Zylinderformen sind begründete didaktische Auswahlen unter dem allgemeinen FSP-Körpervergleich, keine ausdrücklich genannten besonderen FSP-Pflichtkörper.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "band_selection": "FSP3/4 35454 wird bevorzugt: ausdrücklich Körper vergleichen im Gegenstandskontext, während35456/35459 ausdrücklich bestimmte Körpermerkmale und Bauen betreffen und nicht als Kegel-/Zylinder-Herstellungsbeleg genutzt werden.35525/35527 beschreibt ebene Rechtecke/Quadrate, kein allgemeiner Körpervergleich.35568 vergleicht Verpackungen im Wahlbereich1 Einkaufsbummel; dieser zusätzliche Kontext ist für den gewählten Gegenstandsvergleich nicht nötig. FSP1/2 37824/37827 belegt positiv allgemeine Objektmerkmale/Sortieren,37836 Figurenmerkmale unter Kennen37821;37844 und37981 betreffen ebene Darstellung.38004 belegt räumliches Bauen im Märchen-Wahlbereich1,38009 geometrische Spiele mit Bauen als Bemerkung im Wahlbereich2;38015 Flächengestaltung im Wahlbereich3. Diese Bau-/Gestaltungsfälle tragen nicht allein den gewählten qualitativen Körpervergleich; der allgemeine Objektmerkmalsbezug1/2 wird nicht pauschal ausgeschlossen. Kein Ausschluss wegen kleinerer Zahlenräume. Beide gebündelten Bänder bleiben erhalten.",
+  "learning_level_review": {
+    "gs": {
+      "level": "Kennen",
+      "target_id": "page912_2030",
+      "checked_on": "2026-11-21",
+      "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Kennen: begrenztes Gebiet im gelernten Kontext.",
+      "hierarchy_evidence": "GS S.21/PDF31 visuell: Kennen geometrischer Körper über187170–187174. Tätigkeiten und Körpernamen sind keine Lernzielebenen.",
+      "review": "MA-103"
+    },
+    "fsp": {
+      "level": "Anwenden",
+      "target_id": "page139_35451",
+      "checked_on": "2026-11-21",
+      "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Anwenden: Abstraktion und Transfer in unbekannten Kontexten.",
+      "hierarchy_evidence": "FSP S.19/PDF31 visuell:35454 unter Anwenden35451;35456 danach eigenständiger operatorloser Inhaltsblock.",
+      "review": "MA-103"
+    },
+    "separation": "Erkennen, Benennen, Beschreiben, Vergleichen und Unterscheiden sind Zielhandlungen, keine Ersatz-Lernzielebenen. GS Kennen und FSP Anwenden bleiben getrennt belegt."
+  },
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: qualitativer Körperformvergleich ohne Messzahlen",
+    "detail": "FSP35454 belegt den Körpervergleich, die ausgewählten Formen und Merkmale sind didaktische Konkretisierungen. GS187170/187172/187173/187174 und FSP35454 nennen für diesen qualitativen Ausschnitt keine Zahlenobergrenze. Eine beziehungsweise zwei Kreisflächen beschreiben die Formstruktur, keinen Zahlenraum. Die Meterangabe in der FSP-Bemerkung betrifft das Messen von Kantenlängen; sie wird diesem Formvergleich nicht als Grenze zugewiesen. Keine Übernahme übergreifender Zahlenräume20/100.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35451",
+      "Q-MA-page139_35454"
+    ],
+    "planning_rule": "Vorausgesetzt sind bekannte Kreisflächen und ein geklärter räumlicher Bezug zwischen ebenen Begrenzungsflächen und gekrümmtem Mantel. Beschränkt auf eindeutig geformte Alltagsgegenstände in Form eines geraden Kreiskegels beziehungsweise geraden Kreiszylinders; diese Auswahl ist didaktisch und keine Definition sämtlicher Kegel/Zylinder. Abgeschnittene, abgerundete, zusammengesetzte oder hohle Formen mit zusätzlichen Begrenzungsflächen sind nicht umfasst. Die räumlichen Flächenbeziehungen müssen erkennbar oder bekannt sein; aus einem einzelnen Umriss werden keine verborgenen Eigenschaften erschlossen. Der ausgewählte Kegel hat eine ebene kreisförmige Grundfläche und einen gekrümmten Mantel, der in einer Spitze außerhalb der Grundfläche zusammenläuft. Der ausgewählte Zylinder hat zwei gleich große parallele kreisförmige ebene Begrenzungsflächen und einen verbindenden gekrümmten Mantel ohne solche Spitze. Kreisfläche und räumlicher Körper bleiben getrennt; ein dreieckiger Umriss ist kein Nachweis einer Kegelform. Der gekrümmte Kegelmantel wird nicht mit den ebenen dreieckigen Seitenflächen einer Pyramide gleichgesetzt. Keine Messzahlen, Rechnungen oder numerischen Ausgangs-, Zwischen- und Endergebnisse Bestandteil dieses Feinziels; Flächenanzahlen nur als Formmerkmal, keine gesonderte Zählübung. Numerische Erweiterungen benötigen eine gesonderte belegte oder ausdrücklich didaktisch festgelegte Grenze einschließlich relevanter Ergebnisse. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+  },
+  "new_cards": [
+    "MA-103"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "revisited_questions": 2,
+    "resolved_questions": 2,
+    "new_cards": 1,
+    "cards_total": 103,
+    "same_band": 75,
+    "cross_band": 28,
+    "open_questions_total": 27,
+    "no_direct_connections_total": 11,
+    "inventory_rows": 191,
+    "new_inventory_rows": 0,
+    "source_links": 263,
+    "target_anchors": 261
+  },
+  "previous_questions": {
+    "page912_187172": {
+      "gs_id": "page912_187172",
+      "scope": "Kegel",
+      "status": "offen",
+      "reason": "GS verlangt Kegel. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Prüfen, ob35454 einen eng begrenzten Umwelt-Kegelformvergleich trägt; fehlende ausdrückliche Kegelnennung nicht allein zum Ausschluss machen, aber kein Kegel-Herstellungsziel erfinden."
+    },
+    "page912_187173": {
+      "gs_id": "page912_187173",
+      "scope": "Zylinder",
+      "status": "offen",
+      "reason": "GS verlangt Zylinder. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit.",
+      "candidate_ids": [
+        "page139_35451",
+        "page139_35454",
+        "page139_35456",
+        "page139_35459",
+        "page139_35521",
+        "page139_35527",
+        "page139_37821",
+        "page139_37832",
+        "page139_37844",
+        "page139_37981",
+        "page139_38011",
+        "page139_38015"
+      ],
+      "review": "MA-100",
+      "follow_up_evidence": "Reichweite35454 für Zylinderformen im Umweltkontext gesondert prüfen; Kreis/ Rechteck aus1/2 belegt allein keine Körperkompetenz."
+    }
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187170",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Erkennen, Benennen, Beschreiben, Darstellen und Herstellen weiterer Körper",
+      "Karten": "MA-102",
+      "Prüfstatus": "MA-102: begrenzter stufenbandpassender Anschluss MA-102; Wiederentscheidung, keine neue Erstprüfung. Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben. Voraussetzungen: Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden. Rest: Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach."
+    },
+    {
+      "Ziel-ID": "page912_187172",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Kegel",
+      "Karten": "",
+      "Prüfstatus": "MA-100: open_connection_question. GS verlangt Kegel. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Voraussetzungen: Kegelform, kreisförmige Grundfläche und gekrümmte Mantelfläche nicht mit einem Dreieck oder einer Pyramide verwechseln. Rest: Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung. Nachprüfung: Prüfen, ob35454 einen eng begrenzten Umwelt-Kegelformvergleich trägt; fehlende ausdrückliche Kegelnennung nicht allein zum Ausschluss machen, aber kein Kegel-Herstellungsziel erfinden."
+    },
+    {
+      "Ziel-ID": "page912_187173",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "3",
+      "Ziel": "Zylinder",
+      "Karten": "",
+      "Prüfstatus": "MA-100: open_connection_question. GS verlangt Zylinder. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Voraussetzungen: Zylinderkörper von Kreisfläche unterscheiden; Grund-/Deckfläche und Mantelfläche gehören nicht zum selben ebenen Gegenstand. Rest: Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung. Nachprüfung: Reichweite35454 für Zylinderformen im Umweltkontext gesondert prüfen; Kreis/ Rechteck aus1/2 belegt allein keine Körperkompetenz."
+    },
+    {
+      "Ziel-ID": "page912_187174",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Vergleichen von Eigenschaften",
+      "Karten": "MA-102",
+      "Prüfstatus": "MA-102: begrenzter stufenbandpassender Anschluss MA-102; Wiederentscheidung, keine neue Erstprüfung. Stufenbandpassender Teilanschluss GS3 → FSP3/4: die Körperform eines Gegenstands mit quadratischer Pyramidenform und eines Quaders qualitativ vergleichen. GS187170 nennt Erkennen, Benennen und Beschreiben neben Darstellen/Herstellen weiterer Körper;187171 konkretisiert Pyramide,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 nennt ausdrücklich Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451; Unterscheiden nach vorgegebenen oder selbst gefundenen Merkmalen steht in der Bemerkung. Deshalb trägt die allgemeine Körpervergleichszeile einen konkret begrenzten Vergleich von Gegenstandsformen. Die Auswahl einer quadratischen Pyramide ist eine didaktische Konkretisierung des allgemeinen FSP-Körperziels, keine ausdrücklich vorgeschriebene FSP-Körperart. Der separate, operatorlose Inhaltsblock35456 nennt Würfel/Quader/Kugel; er wird weder zum Pyramidenbeleg noch zur abschließenden Einschränkung der vorherigen allgemeinen Vergleichszeile erklärt. Dreieckige Seitenflächen, die außerhalb der Grundfläche in einer gemeinsamen Spitze zusammentreffen, bilden den ausgewählten Vergleichsaspekt. Beim Quader gibt es keine gemeinsame Spitze aller seitlichen Flächen. Eine beliebige Ecke genügt nicht als Unterscheidungsmerkmal, denn auch ein Quader hat Ecken. Pyramide als GS-Fachbezeichnung bleibt von einer sachgerechten FSP-Merkmalsbeschreibung getrennt; die Fachwörter Pyramide und Spitze werden nicht als verbindliche FSP-Wortanforderung ausgegeben. Voraussetzungen: Vorausgesetzt sind bekannte ebene Grundformen sowie ein geklärter räumlicher Bezug zwischen Grundfläche und seitlichen Flächen. Gegenstände müssen die gewählte quadratische Pyramidenform beziehungsweise Quaderform eindeutig verkörpern; abgerundete, abgeschnittene, zusammengesetzte oder nur perspektivisch ähnlich wirkende Formen sind nicht umfasst. Grundfläche, seitliche Flächen und deren gemeinsamer Treffpunkt müssen im räumlichen Zusammenhang erkennbar sein; ein dreieckiger Umriss allein genügt nicht. Die Beschränkung auf eine quadratische Pyramidenform ist didaktisch, keine allgemeine Definition aller Pyramiden. Rest: Keine vollständige GS-Zieldeckung: andere Pyramidenformen, Kegel/Zylinder, Herstellen und Darstellen von Körpern, vollständige Merkmalslisten, wechselnde Blickwinkel, Körpernetze, Messungen, Flächen- und Volumenberechnungen bleiben offen. Die konkrete Anschlussfrage ist mit diesem Ausschnitt geklärt; die darüber hinausgehenden Zielanteile bleiben als Restumfang erhalten. GS Kennen und FSP Anwenden sind unterschiedliche amtliche Lernzielebenen; der begrenzte Merkmalsvergleich weist das jeweilige Hauptziel nicht vollständig nach."
+    }
+  ],
+  "context_only_gs_ids": [
+    "page912_2030"
+  ],
+  "existing_cards_rechecked": [
+    "MA-084",
+    "MA-102"
+  ],
+  "existing_card_review": "MA-102 bleibt qualitativer Pyramiden-Quader-Vergleich mit Kennen/Anwenden und domain_specific ohne Zahlenobergrenze; die ebene Pyramiden-Seitenfläche wird nicht zum gekrümmten Kegelmantel. MA-084 bleibt operatorloser Würfelturm-Bauplan unter35456 mit noch festzulegendem Zahlenbereich. Kein neuer Körperherstellungsbeleg. Alle102 Bestandskarten und415 bestehenden Lernzielebenen-Einträge unverändert. Keine vollständige semantische Bestandsprüfung behauptet.",
+  "limits": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorgeschlagen.",
+  "tests": {
+    "status": "passed_local",
+    "checks": [
+      {
+        "script": "update-mathematik.py",
+        "exit_code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit_code": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit_code": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-21\n",
+        "stderr": ""
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit_code": 0,
+        "stdout": "PASS: 103 mathematics cards, 263 source links (261 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit_code": 0,
+        "stdout": "PASS: 103 mathematics cards, 263 source links (261 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\n",
+        "stderr": ""
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit_code": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    ],
+    "browser_local": "check-mathematik-live-ma-103.cjs passed: MA-084/102/103, mobile MA-103320/390; scope on card/goals/output, source links, goal adoption, blank task/aid fields, teacher drafts and subject isolation.",
+    "learning_levels": "check-learning-levels.cjs passed:416 cards/832 sides; display and evidence structure, not a new semantic review of all cards.",
+    "preservation": "All102 prior math cards,261 prior sources,415 prior level entries unchanged.191 inventory rows; two questions resolved with full provenance; no first reviews;11 nonmatch decisions unchanged.",
+    "initial_failures": "Initial browser timeouts on navigation. Subsequent run found320px overflow in concatenated GS source labels; fixed using spaces and commas in new card only. Targeted full rerun then passed. One diagnostic launch not executed due to approval-review transport failure; later approved diagnostic succeeded.",
+    "limits": "No UI code change; no full103-card functional browser run. Live verification pending.",
+    "local_html_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.408"
+  },
+  "continuation": {
+    "next_id": "page912_187175",
+    "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408: Datenprüfungen, gezielter Browserlauf und Lernzielebenenprüfung bestanden. Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt."
+  }
+}

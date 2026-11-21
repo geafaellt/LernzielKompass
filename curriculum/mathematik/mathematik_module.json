@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-20.5",
-  "checked_on": "2026-11-20",
+  "version": "MA-2026-11-21.1",
+  "checked_on": "2026-11-21",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1676,6 +1676,18 @@
       "title": "FSP Lernen Mathematik 3/4 · Lernbereich 2: Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35454",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187172",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187172",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187173",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187173",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -9915,6 +9927,85 @@
       "evidence_classification": {
         "gs": "2030 Hauptziel Kennen nur Kontext;187170 begrenzt Erkennen/Benennen/Beschreiben,187171 ausgewählte Pyramidenform,187174 qualitativer Vergleich. Umweltentdeckung und Modellarten stehen in Bemerkung187170.",
         "fsp": "35451 Hauptziel Anwenden;35454 ausdrückliches allgemeines Körpervergleichsziel. Vorgegebene Merkmale in der Bemerkung. Pyramidenform und qualitative Flächenbeziehung als offengelegte didaktische Konkretisierung, keine eigene ausdrückliche Pyramiden-Fachwortforderung.",
+        "context_only_gs_ids": [
+          "page912_2030"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35454"
+        ]
+      }
+    },
+    {
+      "id": "MA-103",
+      "subject": "Mathematik",
+      "theme": "Kegelform und Zylinderform vergleichen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · didaktisch gewählter Körperformvergleich",
+      "gs_anchor": "GS Mathematik Kl. 3 · Raum und Form · weitere Körper 187170, Kegel 187172, Zylinder 187173 und Vergleich 187174 unter Kennen 2030",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Die Welt um mich herum · Körpervergleich35454 unter Anwenden35451; Kegel-/Zylinderform didaktisch gewählt",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "Lernzielebenen: GS Kennen · FSP Anwenden. Stufenbandpassender Teilanschluss GS3 → FSP3/4: qualitative Formen eindeutig geformter Alltagsgegenstände als gerader Kreiskegel und gerader Kreiszylinder vergleichen. GS187170 nennt Erkennen/Benennen/Beschreiben neben Darstellen/Herstellen,187172 und187173 konkretisieren die Körper,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 belegt den allgemeinen Körpervergleich unter Anwenden35451 im Gegenstandskontext; das Unterscheiden nach gefundenen oder vorgegebenen Merkmalen steht in der Bemerkung. Diese allgemeine Zeile trägt die offengelegte didaktische Auswahl der beiden Formen und ihres Vergleichsaspekts; sie schreibt Kegel/Zylinder nicht ausdrücklich als besondere FSP-Körperarten vor. Der nachfolgende operatorlose Block35456 mit Würfel/Quader/Kugel wird weder als Kegel-/Zylinderbeleg noch als abschließende Einschränkung der vorherigen allgemeinen Zeile verwendet. Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert.",
+      "gs_target_ids": [
+        "page912_2030",
+        "page912_187170",
+        "page912_187172",
+        "page912_187173",
+        "page912_187174"
+      ],
+      "fsp_target_ids": [
+        "page139_35451",
+        "page139_35454"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2030",
+        "Q-MA-page912_187170",
+        "Q-MA-page912_187172",
+        "Q-MA-page912_187173",
+        "Q-MA-page912_187174",
+        "Q-MA-page139_35451",
+        "Q-MA-page139_35454"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: qualitative Formen eindeutig geformter Alltagsgegenstände als gerader Kreiskegel und gerader Kreiszylinder vergleichen. GS187170 nennt Erkennen/Benennen/Beschreiben neben Darstellen/Herstellen,187172 und187173 konkretisieren die Körper,187174 den Eigenschaftsvergleich unter Kennen2030. FSP35454 belegt den allgemeinen Körpervergleich unter Anwenden35451 im Gegenstandskontext; das Unterscheiden nach gefundenen oder vorgegebenen Merkmalen steht in der Bemerkung. Diese allgemeine Zeile trägt die offengelegte didaktische Auswahl der beiden Formen und ihres Vergleichsaspekts; sie schreibt Kegel/Zylinder nicht ausdrücklich als besondere FSP-Körperarten vor. Der nachfolgende operatorlose Block35456 mit Würfel/Quader/Kugel wird weder als Kegel-/Zylinderbeleg noch als abschließende Einschränkung der vorherigen allgemeinen Zeile verwendet. Vorausgesetzt sind bekannte Kreisflächen und ein geklärter räumlicher Bezug zwischen ebenen Begrenzungsflächen und gekrümmtem Mantel. Beschränkt auf eindeutig geformte Alltagsgegenstände in Form eines geraden Kreiskegels beziehungsweise geraden Kreiszylinders; diese Auswahl ist didaktisch und keine Definition sämtlicher Kegel/Zylinder. Abgeschnittene, abgerundete, zusammengesetzte oder hohle Formen mit zusätzlichen Begrenzungsflächen sind nicht umfasst. Die räumlichen Flächenbeziehungen müssen erkennbar oder bekannt sein; aus einem einzelnen Umriss werden keine verborgenen Eigenschaften erschlossen. Der ausgewählte Kegel hat eine ebene kreisförmige Grundfläche und einen gekrümmten Mantel, der in einer Spitze außerhalb der Grundfläche zusammenläuft. Der ausgewählte Zylinder hat zwei gleich große parallele kreisförmige ebene Begrenzungsflächen und einen verbindenden gekrümmten Mantel ohne solche Spitze. Kreisfläche und räumlicher Körper bleiben getrennt; ein dreieckiger Umriss ist kein Nachweis einer Kegelform. Der gekrümmte Kegelmantel wird nicht mit den ebenen dreieckigen Seitenflächen einer Pyramide gleichgesetzt. Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert.",
+      "shared_object_suggestion": "Die räumliche Form eines geraden Kreiskegels im Vergleich zu einem geraden Kreiszylinder an eindeutig geformten Alltagsgegenständen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt die ausgewählte Kegel- und Zylinderform an geeigneten Alltagsgegenständen, benennt sie und beschreibt den Unterschied ihrer ebenen Begrenzungsflächen und ihres gekrümmten Mantels.",
+          "criterion": "Der ausgewählte Kegel hat eine ebene kreisförmige Grundfläche und einen gekrümmten Mantel, der in einer Spitze außerhalb der Grundfläche zusammenläuft. Der ausgewählte Zylinder hat zwei gleich große parallele kreisförmige ebene Begrenzungsflächen und einen verbindenden gekrümmten Mantel ohne solche Spitze. Kreisfläche und räumlicher Körper bleiben getrennt; ein dreieckiger Umriss ist kein Nachweis einer Kegelform. Der gekrümmte Kegelmantel wird nicht mit den ebenen dreieckigen Seitenflächen einer Pyramide gleichgesetzt. Keine Messung, Herstellung oder vollständige Merkmalsliste verlangt.",
+          "status": "Didaktischer Ausschnitt von187170/187172/187173/187174 unter Kennen2030; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wendet bekannte Merkmale ebener Figuren auf die Formen ausgewählter Alltagsgegenstände an und vergleicht die ausgewählte Kegel- und Zylinderform anhand der Kreisflächen und des gekrümmten Mantels.",
+          "criterion": "Der ausgewählte Kegel hat eine ebene kreisförmige Grundfläche und einen gekrümmten Mantel, der in einer Spitze außerhalb der Grundfläche zusammenläuft. Der ausgewählte Zylinder hat zwei gleich große parallele kreisförmige ebene Begrenzungsflächen und einen verbindenden gekrümmten Mantel ohne solche Spitze. Kreisfläche und räumlicher Körper bleiben getrennt; ein dreieckiger Umriss ist kein Nachweis einer Kegelform. Der gekrümmte Kegelmantel wird nicht mit den ebenen dreieckigen Seitenflächen einer Pyramide gleichgesetzt. Eine sachgerechte Beschreibung der Unterschiede genügt; die Fachwörter Kegel, Zylinder und Spitze werden nicht zusätzlich verlangt. Keine Messung, Rechnung, Herstellung oder vollständige Merkmalsliste.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung des allgemeinen Körpervergleichs35454 unter Anwenden35451. Die ausgewählten geraden Kreisformen und Vergleichsmerkmale sind keine zusätzlichen amtlichen Pflichtinhalte; kein vollständiger Anwenden-Nachweis."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitativer Körperformvergleich ohne Messzahlen",
+        "detail": "FSP35454 belegt den Körpervergleich, die ausgewählten Formen und Merkmale sind didaktische Konkretisierungen. GS187170/187172/187173/187174 und FSP35454 nennen für diesen qualitativen Ausschnitt keine Zahlenobergrenze. Eine beziehungsweise zwei Kreisflächen beschreiben die Formstruktur, keinen Zahlenraum. Die Meterangabe in der FSP-Bemerkung betrifft das Messen von Kantenlängen; sie wird diesem Formvergleich nicht als Grenze zugewiesen. Keine Übernahme übergreifender Zahlenräume20/100.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35451",
+          "Q-MA-page139_35454"
+        ],
+        "planning_rule": "Vorausgesetzt sind bekannte Kreisflächen und ein geklärter räumlicher Bezug zwischen ebenen Begrenzungsflächen und gekrümmtem Mantel. Beschränkt auf eindeutig geformte Alltagsgegenstände in Form eines geraden Kreiskegels beziehungsweise geraden Kreiszylinders; diese Auswahl ist didaktisch und keine Definition sämtlicher Kegel/Zylinder. Abgeschnittene, abgerundete, zusammengesetzte oder hohle Formen mit zusätzlichen Begrenzungsflächen sind nicht umfasst. Die räumlichen Flächenbeziehungen müssen erkennbar oder bekannt sein; aus einem einzelnen Umriss werden keine verborgenen Eigenschaften erschlossen. Der ausgewählte Kegel hat eine ebene kreisförmige Grundfläche und einen gekrümmten Mantel, der in einer Spitze außerhalb der Grundfläche zusammenläuft. Der ausgewählte Zylinder hat zwei gleich große parallele kreisförmige ebene Begrenzungsflächen und einen verbindenden gekrümmten Mantel ohne solche Spitze. Kreisfläche und räumlicher Körper bleiben getrennt; ein dreieckiger Umriss ist kein Nachweis einer Kegelform. Der gekrümmte Kegelmantel wird nicht mit den ebenen dreieckigen Seitenflächen einer Pyramide gleichgesetzt. Keine Messzahlen, Rechnungen oder numerischen Ausgangs-, Zwischen- und Endergebnisse Bestandteil dieses Feinziels; Flächenanzahlen nur als Formmerkmal, keine gesonderte Zählübung. Numerische Erweiterungen benötigen eine gesonderte belegte oder ausdrücklich didaktisch festgelegte Grenze einschließlich relevanter Ergebnisse. Eigene Lehrkraftentwürfe bleiben erhalten und gesondert fachlich zu prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "2030 Hauptziel Kennen nur Kontext;187170 begrenzt Erkennen/Benennen/Beschreiben,187172 Kegel,187173 Zylinder,187174 Vergleich. Umwelt-/Modellhinweise stehen in Bemerkung187170.",
+        "fsp": "35451 Hauptziel Anwenden;35454 allgemeines Körpervergleichsziel. Merkmalsauswahl in der Bemerkung. Konkrete gerade Kreisformen und Flächenbeziehungen didaktisch gewählt, keine ausdrückliche FSP-Fachwortforderung.",
         "context_only_gs_ids": [
           "page912_2030"
         ],
