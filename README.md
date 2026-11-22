@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.410** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.411** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -193,3 +193,6 @@ Mathematik MA-105: Netzherstellung/-zeichnung/-prüfung2033 als begründeter Nic
 
 
 Mathematik MA-106: quadratische Würfelseitenflächen bei vorgegebener Netzzuordnung.105 Karten,24 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_106.json). App1.410: Auf main veröffentlicht mit28343d285ad4a1915d71414ad3b4afdac26b3f7e; [Pages45041439907](https://github.com/geafaellt/LernzielKompass/actions/runs/45041439907) erfolgreich. Ausgelieferte App1.410 bytegleich. Datenprüfungen, gezielter Browserlauf und Lernzielebenenanzeige aller418 Karten/836 Seiten lokal und live bestanden. Keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller105 Mathematikkarten. Alle104 Bestandskarten unverändert. Weitergehende Restumfänge und24 Anschlussfragen bleiben offen.
+
+
+Mathematik MA-107: eigenes spiegelgleiches Bandornament entwickeln und fortsetzen.106 Karten,25 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_107.json). App1.411: Lokale Datenprüfungen und Browserprüfungen bestanden. Veröffentlichung und Liveprüfung ausstehend.

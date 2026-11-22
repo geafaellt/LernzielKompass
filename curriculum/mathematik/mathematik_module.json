@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-22.2",
+  "version": "MA-2026-11-22.3",
   "checked_on": "2026-11-22",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1706,6 +1706,30 @@
       "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2034",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187177",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187177",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187178",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187178",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187179",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187179",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35535",
+      "title": "FSP Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -10197,6 +10221,82 @@
         "target_id": "page139_35456",
         "source_id": "Q-MA-page139_35456",
         "remark_excerpt": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung"
+      }
+    },
+    {
+      "id": "MA-106",
+      "subject": "Mathematik",
+      "theme": "Spiegelgleiches Bandornament entwickeln und fortsetzen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · eigene Musterentwicklung mit Längsspiegelachse",
+      "gs_anchor": "GS Mathematik Kl. 3 · Raum und Form · Bandornamente 187178 und Achsensymmetrie aus 187179 unter Übertragen 187177",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Wünsche, Träume, Fantasie · Vervollständigen und Erfinden 35535 unter Gestalten 35521; Symmetrie in Bemerkung 35535",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Gestalten",
+      "operator_relation": "Lernzielebenen: GS Übertragen · FSP Gestalten. Entwickeln, Beschreiben, Fortsetzen, Vervollständigen und Erfinden sind konkrete Zielhandlungen; sie ersetzen keine Lernzielebene. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: ein eigenes Bandornament aus bekannten ebenen Figuren mit wiederkehrendem Motiv und Spiegelgleichheit an einer gemeinsamen Längsachse entwickeln und passend fortsetzen. GS 187178 nennt Entwickeln, Beschreiben und Fortsetzen von Bandornamenten;187179 nennt unter anderem Achsensymmetrie. Beide stehen unter Übertragen 187177. FSP 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren unter Gestalten 35521; Symmetrie steht ausdrücklich in seiner Bemerkung, Figuren/Muster/Reihen in der Hauptzielbemerkung. Die Wahl eines spiegelgleichen Bandmusters und seiner Längsachse ist didaktische Konkretisierung dieses Symmetriebezugs. Fortsetzen ist hier ein ausgewählter Fall des Vervollständigens; die beiden Handlungen werden nicht allgemein gleichgesetzt. Der eigene Entwurf bleibt erhalten, statt das Erfinden auf bloßes Nachahmen zu reduzieren. Keine vollständige GS-Zieldeckung: Die Karte erfasst nur ein Bandornament mit gemeinsamer Längsspiegelachse. Andere Ornamentstrukturen und Achslagen, systematisches Nutzen oder Unterscheiden von Schiebe- und Drehsymmetrie sowie die vollständige Beschreibung aller Bandornament-Eigenschaften bleiben außerhalb. Die sprachliche Beschreibung ist GS-Feinziel; FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungsauftrag. Die Fachwörter gespiegelt, gedreht und verschoben aus187180 werden nicht als zusätzlich belegte FSP-Wortanforderung ausgegeben. Eine regelmäßige Wiederholung allein belegt noch keine bewusst genutzte Schiebesymmetrie. Kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+      "gs_target_ids": [
+        "page912_187177",
+        "page912_187178",
+        "page912_187179"
+      ],
+      "fsp_target_ids": [
+        "page139_35521",
+        "page139_35535"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187177",
+        "Q-MA-page912_187178",
+        "Q-MA-page912_187179",
+        "Q-MA-page139_35521",
+        "Q-MA-page139_35535"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: ein eigenes Bandornament aus bekannten ebenen Figuren mit wiederkehrendem Motiv und Spiegelgleichheit an einer gemeinsamen Längsachse entwickeln und passend fortsetzen. GS 187178 nennt Entwickeln, Beschreiben und Fortsetzen von Bandornamenten;187179 nennt unter anderem Achsensymmetrie. Beide stehen unter Übertragen 187177. FSP 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren unter Gestalten 35521; Symmetrie steht ausdrücklich in seiner Bemerkung, Figuren/Muster/Reihen in der Hauptzielbemerkung. Die Wahl eines spiegelgleichen Bandmusters und seiner Längsachse ist didaktische Konkretisierung dieses Symmetriebezugs. Fortsetzen ist hier ein ausgewählter Fall des Vervollständigens; die beiden Handlungen werden nicht allgemein gleichgesetzt. Der eigene Entwurf bleibt erhalten, statt das Erfinden auf bloßes Nachahmen zu reduzieren. Bekannte ebene Figuren, ein verstandener Wiederholungsbezug und bekannte Spiegelgleichheit an einer festgelegten geraden Achse. Betrachtet wird ein endlicher zusammenhängender Bandabschnitt; die gemeinsame Spiegelachse verläuft längs durch das gesamte Band. Das Motiv wird innerhalb dieses Rahmens selbst gewählt. Form, Größe, Lage und Abstand der Wiederholung sowie die beidseitige Spiegelbeziehung müssen qualitativ unterscheidbar sein. Eine bloße Farbfolge ohne geometrischen Symmetriebezug genügt nicht. Darstellungsqualität und Umfang sind vorab passend zu den Lernvoraussetzungen festzulegen; keine amtliche Maßtoleranz erfinden. Keine vollständige GS-Zieldeckung: Die Karte erfasst nur ein Bandornament mit gemeinsamer Längsspiegelachse. Andere Ornamentstrukturen und Achslagen, systematisches Nutzen oder Unterscheiden von Schiebe- und Drehsymmetrie sowie die vollständige Beschreibung aller Bandornament-Eigenschaften bleiben außerhalb. Die sprachliche Beschreibung ist GS-Feinziel; FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungsauftrag. Die Fachwörter gespiegelt, gedreht und verschoben aus187180 werden nicht als zusätzlich belegte FSP-Wortanforderung ausgegeben. Eine regelmäßige Wiederholung allein belegt noch keine bewusst genutzte Schiebesymmetrie. Kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+      "shared_object_suggestion": "Die wiederkehrende Motivstruktur und die Spiegelgleichheit eines selbst entwickelten Bandornaments an seiner gemeinsamen Längsachse.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte Achsensymmetrie auf ein eigenes Bandornament aus ebenen Figuren, beschreibt dessen Wiederholungs- und Spiegelregel und setzt es regelgerecht fort.",
+          "criterion": "Das selbst gewählte Motiv kehrt mit derselben Form, Größe, Orientierung und gleichbleibender Anordnung entlang des Bandes wieder; die Fortsetzung hält diese Struktur ein. Die Teile beiderseits der gemeinsamen Längsachse entsprechen einander spiegelbildlich in Form, Größe und Lage mit gleichem senkrechten Abstand zur Achse. Nur gleich viele Figuren auf beiden Seiten reichen nicht. Das eigene Ergebnis entspricht der gewählten Regel; Abweichungen werden erkannt und berichtigt. Numerische Maß-, Winkel- oder Anzahlwerte sowie ein bestimmtes Darstellungsverfahren werden nicht zusätzlich verlangt. Die Beschreibung benennt das wiederkehrende Motiv und seine Spiegelbeziehung zur gemeinsamen Längsachse sachgerecht.",
+          "status": "Didaktischer Ausschnitt von187178 und Achsensymmetrie aus187179 unter Übertragen187177; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind entwickelt ein eigenes wiederkehrendes Bandmuster aus bekannten ebenen Figuren mit Spiegelgleichheit an einer gemeinsamen Längsachse und vervollständigt es durch eine passende Fortsetzung.",
+          "criterion": "Das selbst gewählte Motiv kehrt mit derselben Form, Größe, Orientierung und gleichbleibender Anordnung entlang des Bandes wieder; die Fortsetzung hält diese Struktur ein. Die Teile beiderseits der gemeinsamen Längsachse entsprechen einander spiegelbildlich in Form, Größe und Lage mit gleichem senkrechten Abstand zur Achse. Nur gleich viele Figuren auf beiden Seiten reichen nicht. Das eigene Ergebnis entspricht der gewählten Regel; Abweichungen werden erkannt und berichtigt. Numerische Maß-, Winkel- oder Anzahlwerte sowie ein bestimmtes Darstellungsverfahren werden nicht zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung von Vervollständigen und Erfinden35535 unter Gestalten35521; Symmetrie aus der Bemerkung, Bandform und Längsachse ausgewählt. Eigene Musterentscheidung und Kontrolle bleiben enthalten; kein vollständiger Nachweis des Hauptziels Gestalten/Problemlösen und kein zusätzlicher verbindlicher FSP-Beschreibungs- oder Fachwortauftrag."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Wiederholung und Spiegelgleichheit eines Bandornaments",
+        "detail": "GS187178/187179 und FSP35521/35535 nennen für diesen Form- und Lageausschnitt keine Zahlenobergrenze. Bandlänge, Motivanzahl und Abstände werden nicht als numerische Lernziele beurteilt. Gleichheit von Form, Größe und Abstand ist eine qualitative Strukturbedingung, keine erfundene Zahlenraumgrenze. Keine20/100-Grenze aus anderen Zahlzielen und keine Messvorgaben des benachbarten Längenbereichs übernehmen.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35521",
+          "Q-MA-page139_35535"
+        ],
+        "planning_rule": "Bekannte ebene Figuren, ein verstandener Wiederholungsbezug und bekannte Spiegelgleichheit an einer festgelegten geraden Achse. Betrachtet wird ein endlicher zusammenhängender Bandabschnitt; die gemeinsame Spiegelachse verläuft längs durch das gesamte Band. Das Motiv wird innerhalb dieses Rahmens selbst gewählt. Form, Größe, Lage und Abstand der Wiederholung sowie die beidseitige Spiegelbeziehung müssen qualitativ unterscheidbar sein. Eine bloße Farbfolge ohne geometrischen Symmetriebezug genügt nicht. Darstellungsqualität und Umfang sind vorab passend zu den Lernvoraussetzungen festzulegen; keine amtliche Maßtoleranz erfinden. Nur qualitative Form-, Wiederholungs- und Spiegelbeziehungen als Ergebnismerkmale verwenden. Keine numerischen Ausgangs-, Zwischen- oder Endwerte, Messzahlen oder Anzahlrechnungen Bestandteil der hinterlegten Feinziele. Numerische Erweiterungen benötigen einen gesondert belegten oder ausdrücklich didaktisch festgelegten Rahmen einschließlich relevanter Zwischen- und Endergebnisse; Einheiten und Schreibweisen gesondert behandeln. Angaben zu Geräten, Falten oder Schneiden in den Bemerkungen sind keine Pflichtvorgaben. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187177 Hauptziel Übertragen nur Kontext;187178 Zielhandlungen am Bandornament;187179 nennt drei Symmetriearten, hier nur Achsensymmetrie ausgewählt.187180 Fachwörter getrennt offen.",
+        "fsp": "35521 Hauptziel Gestalten;35535 Unterziel Vervollständigen und Erfinden. Symmetrie ist Bemerkung35535, Reihen sind Bemerkung35521. Spiegelgleiches Band mit Längsachse und qualitative Ergebnismerkmale sind didaktische Auswahl; keine zusätzliche amtliche Einzelzeile behauptet.",
+        "context_only_gs_ids": [
+          "page912_187177"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35521",
+          "page139_35535"
+        ]
       }
     }
   ]
