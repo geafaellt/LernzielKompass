@@ -3368,7 +3368,7 @@
     }
   },
   "next_id": "page912_2034",
-  "next_step": "2034 fortsetzen: quadratische Teilflächen eines bereits gültigen Würfelnetzes mit vorgegebener Körperflächenzuordnung gegen35456 prüfen; alternativ35568 nur mit Wahlbereich-/Verpackungsvergleich.2033 Herstellung/Zeichnen/Prüfen als Nichtanschluss entschieden, nicht erneut zählen. Danach GS3-Ornamente187177–187180 inventarisieren und einzeln prüfen.104 Karten,25 Anschlussfragen,12 direkte Nichtanschlüsse. Audit-only; App1.409 unverändert. Tests und Auditveröffentlichung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "2034 fortsetzen: quadratische Teilflächen eines bereits gültigen Würfelnetzes mit vorgegebener Körperflächenzuordnung gegen35456 prüfen; alternativ35568 nur mit Wahlbereich-/Verpackungsvergleich.2033 Herstellung/Zeichnen/Prüfen als Nichtanschluss entschieden, nicht erneut zählen. Danach GS3-Ornamente187177–187180 inventarisieren und einzeln prüfen.104 Karten,25 Anschlussfragen,12 direkte Nichtanschlüsse. Audit-only; App1.409 unverändert. Datenprüfungen bestanden; Audit auf main veröffentlicht, Pages erfolgreich, unveränderte Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5557,8 +5557,13 @@
   },
   "latest_audit_publication": {
     "batch": "MA-105",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.409",
+    "audit_commit": "cf34442a048b33728c27639288e35acee39f76a7",
+    "pages_run": 45012244520,
+    "app_unchanged": true,
+    "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
+    "note": "Audit-only; all104 cards, math module,417 learning-level entries and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; corresponding local/live/mobile/learning-level checks passed MA-104.",
     "previous_audit_publication": {
       "batch": "MA-101",
       "status": "verified",
