@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-105",
+  "last_batch": "MA-106",
   "complete": false,
   "counts": {
-    "cards": 104,
+    "cards": 105,
     "cross_band": 28
   },
   "source_plans": {
@@ -3365,10 +3365,36 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": "",
       "version": "2026"
+    },
+    "page912_2032": {
+      "id": "page912_2032",
+      "level": 1,
+      "parent_target_id": "page912_2032",
+      "target": "Übertragen des Wissens über Körper auf Körpernetze",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2032",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "Übertragen",
+      "version": "2026"
+    },
+    "page912_2034": {
+      "id": "page912_2034",
+      "level": 2,
+      "parent_target_id": "page912_2032",
+      "target": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2034",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "",
+      "version": "2026"
     }
   },
-  "next_id": "page912_2034",
-  "next_step": "2034 fortsetzen: quadratische Teilflächen eines bereits gültigen Würfelnetzes mit vorgegebener Körperflächenzuordnung gegen35456 prüfen; alternativ35568 nur mit Wahlbereich-/Verpackungsvergleich.2033 Herstellung/Zeichnen/Prüfen als Nichtanschluss entschieden, nicht erneut zählen. Danach GS3-Ornamente187177–187180 inventarisieren und einzeln prüfen.104 Karten,25 Anschlussfragen,12 direkte Nichtanschlüsse. Audit-only; App1.409 unverändert. Datenprüfungen bestanden; Audit auf main veröffentlicht, Pages erfolgreich, unveränderte Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_id": "page912_187177",
+  "next_step": "GS3-Ornamente 187177–187180 einzeln gegen beide FSP-Bänder prüfen. 2034 ist nur für quadratische Würfelseitenflächen mit vorgegebener Netzzuordnung geklärt; weitergehender Rest bleibt offen. 105 Karten,24 Anschlussfragen,12 direkte Nichtanschlüsse,195 Inventurzeilen. App1.410: Lokale Prüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3682,7 +3708,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_105.json",
+  "last_review_file": "review_batch_106.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4200,44 +4226,6 @@
       "review": "MA-099",
       "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird.",
       "follow_up_in_MA100": "MA-101 bestätigt einen didaktisch begrenzten geschlossenen Rand als Gesamtlängenfall. Die frühere grundsätzliche Randlinienfrage ist damit für diesen Dreiecksfall geklärt. Offen bleibt die eigene Konkretisierung für Schätzwerte mit Referenzbezug/Genauigkeitsrahmen; exakte Werte nicht nur umbenennen. Flächeninhaltsschätzung bleibt unabhängig offen."
-    },
-    {
-      "gs_id": "page912_2034",
-      "scope": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
-      "status": "offen",
-      "reason": "GS2034 verlangt das Beschreiben von Eigenschaften von Würfel- und Quadernetzen unter Übertragen2032. FSP3/4 35456 nennt Körpermerkmale; Rechteck und Quadrat als Seitenbegrenzung stehen in der Bemerkung.35459 nennt Nachformen und Bauen mit Würfelturm-Bauplänen in der Bemerkung. Das sind positive Belege für Körper-Seitenflächen-Beziehungen, aber noch keine belegte Beziehung zwischen einem vollständigen zusammenhängenden Netz und seinem Körper. FSP35525 vergleicht und benennt Rechteck-/Quadratmerkmale im Gestaltungskontext,35527 stellt diese Figuren dar; Gitternetz bedeutet dort Zeichengrund, nicht Körpernetz. Verpackungsvergleich35568 nennt Körper und Seitenflächen in der Bemerkung und ist ein positiver Kandidat im Wahlbereich1 Einkaufsbummel; bloße Verpackungsgröße oder einzelne Rechtecke beschreiben noch keine Netzeigenschaft. Ein enger Seitenflächenanschluss wird daher nicht ausgeschlossen, sein konkreter gemeinsamer Gegenstand ist aber noch zu klären. FSP1/2 37824/37827 betrifft allgemeine Objektmerkmale,37832/37836 Figuren und Merkmale,37844 Darstellen mit Falten und Zusammensetzen nur in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt ausdrücklich räumliches Bauen im Wahlbereich1 Im Märchenland;38009 nennt geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 Sport und Spiel. FSP1/2 ist deshalb nicht pauschal auf ebene Figuren beschränkt. Diese allgemeinen Bau-/Figurenbelege bestimmen aber weder ein Körpernetz noch die Zuordnung seiner Teilflächen zum geschlossenen Körper.38011/38015 im Wahlbereich3 Muster betrifft Flächengestaltung und Parkettierung; eine lückenlose ebene Flächenanordnung ist nicht automatisch ein faltbares Netz.",
-      "candidate_ids": [
-        "page139_35451",
-        "page139_35454",
-        "page139_35456",
-        "page139_35459",
-        "page139_35521",
-        "page139_35524",
-        "page139_35525",
-        "page139_35527",
-        "page139_35554",
-        "page139_35568",
-        "page139_37821",
-        "page139_37824",
-        "page139_37827",
-        "page139_37832",
-        "page139_37836",
-        "page139_37844",
-        "page139_37981",
-        "page139_37997",
-        "page139_38004",
-        "page139_38005",
-        "page139_38009",
-        "page139_38011",
-        "page139_38015"
-      ],
-      "review": "MA-101",
-      "follow_up_evidence": "Stufenpassend zuerst35456 zusammen mit35459 und alternativ35568 darauf prüfen, ob das Benennen beziehungsweise qualitative Vergleichen der Seitenflächen eines bereits gültig vorgegebenen Netzes und seines zugehörigen Körpers als begrenzter gemeinsamer Ausschnitt trägt. Die konkrete Beziehung und Zielhandlung explizit belegen; allein das Wort Rechteck genügt nicht. FSP-Netzgültigkeit, eigenständiges Erzeugen eines Netzes und allgemeine Faltbarkeitsprüfung nicht voraussetzen.35525 nur bei begründet erhaltenem Gestaltungskontext nutzen. Erst danach1/2-Objekt-/Baukandidaten mit ihren Wahlbereichsvoraussetzungen prüfen. Bleibt auch dieser konkrete Ausschnitt unbelegt, einen begründeten Nichtanschluss dokumentieren; keine Endlosschleife durch unveränderte offene Frage.",
-      "follow_up_in_MA105": {
-        "positive_evidence": "FSP3/4 35456 belegt Merkmale von Würfel/Quader/Kugel; Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung.35459 nennt Nachformen und Bauen, Würfelturm-Baupläne und eigene Baupläne in der Bemerkung.35527 belegt Rechteck-/Quadratdarstellung unter Gestalten35521; Gitternetz ist dort Zeichengrund, kein Körpernetz.35568 vergleicht Verpackungen unter Anwenden35554 im Wahlbereich1 Einkaufsbummel und nennt Körper-/Seitenflächenmerkmale in der Bemerkung. Diese positiven Vorläuferbelege bleiben erhalten. FSP1/2 37824/37827 belegt Objektmerkmale,37832/37836 ebene Formen und ihre Merkmale unter Kennen37821;37844 ebene Darstellung mit Falten/Zeichnen/Zusammensetzen in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt räumliches Bauen im Märchen-Wahlbereich1 unter Einblick37997;38009 geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 unter Anwenden38005.38011/38015 betrifft Flächengestaltung und Muster im Wahlbereich3. FSP1/2 wird nicht pauschal auf ebene Inhalte reduziert.",
-        "next_check": "2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet.",
-        "review_file": "review_batch_105.json"
-      }
     }
   ],
   "remaining_scopes": [
@@ -4973,9 +4961,9 @@
     },
     {
       "gs_id": "page912_2034",
-      "scope": "2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet.",
+      "scope": "Keine vollständige GS-Zieldeckung: allgemeine Quadernetze, Anordnung und Kongruenz der Flächen, Flächenanzahlen, selbstständiges Zuordnen, Faltbarkeit, Vollständigkeitsprüfung, Herstellen und Zeichnen von Netzen sowie Fachwortanforderungen Würfelnetz/Quadernetz sind nicht abgedeckt. Keine vollständige Beherrschung des GS-Hauptziels Übertragen behauptet. Die Entscheidungen zu 2033 und 2035 bleiben unverändert; der weitere Inhalt von 2034 bleibt außerhalb dieses engen Teilanschlusses.",
       "status": "offen",
-      "review": "MA-105"
+      "review": "MA-106"
     },
     {
       "gs_id": "page912_2035",
@@ -5020,8 +5008,8 @@
       "page912_187446",
       "page912_2027"
     ],
-    "rows": 179,
-    "note": "MA-100: gesicherten Entwurf einmalig integriert.10 Erstprüfungen:1 begrenzter Anschluss,7 offene Fragen,2 direkte Fachwort-Nichtanschlüsse.12 neue Inventurzeilen, davon2 Hauptzielkontexte und2034/2035 nur inventarisiert.191 Inventurzeilen insgesamt; keine Vollabdeckung.",
+    "rows": 195,
+    "note": "MA-106:195 Inventurzeilen. Vier Ornamentzeilen187177–187180 neu nur inventarisiert, keine Erstprüfung oder Anschlussentscheidung;2034 wiederentschieden. Frühere 191 Zeilen erhalten.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5468,92 +5456,98 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-104",
-    "status": "verified",
-    "app_version": "1.409",
-    "commit": "ea082073e453203087e5012da729ea12c95d00b7",
-    "pages_run": 45011489623,
-    "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
-    "live_byte_identical": true,
-    "live_browser": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden.",
-    "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
-    "verified_on": "2026-11-22",
+    "batch": "MA-106",
+    "status": "pending",
+    "app_version": "1.410",
     "previous_publication": {
-      "batch": "MA-103",
-      "status": "verified_with_documented_test_limit",
-      "app_version": "1.408",
-      "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
-      "pages_run": 44950269901,
-      "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
+      "batch": "MA-104",
+      "status": "verified",
+      "app_version": "1.409",
+      "commit": "ea082073e453203087e5012da729ea12c95d00b7",
+      "pages_run": 45011489623,
+      "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
       "live_byte_identical": true,
-      "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
-      "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+      "live_browser": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden.",
+      "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
       "verified_on": "2026-11-22",
       "previous_publication": {
-        "batch": "MA-102",
-        "status": "verified",
-        "app_version": "1.407",
-        "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
-        "pages_run": 44777080601,
-        "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
+        "batch": "MA-103",
+        "status": "verified_with_documented_test_limit",
+        "app_version": "1.408",
+        "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
+        "pages_run": 44950269901,
+        "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
         "live_byte_identical": true,
-        "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
-        "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+        "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
+        "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+        "verified_on": "2026-11-22",
         "previous_publication": {
-          "batch": "MA-100",
+          "batch": "MA-102",
           "status": "verified",
-          "app_version": "1.406",
-          "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
-          "pages_run": 44727254718,
-          "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+          "app_version": "1.407",
+          "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
+          "pages_run": 44777080601,
+          "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
           "live_byte_identical": true,
-          "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
-          "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+          "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
+          "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
           "previous_publication": {
-            "batch": "MA-098",
+            "batch": "MA-100",
             "status": "verified",
-            "app_version": "1.405",
-            "commit": "b03ad838651acbe36e955787111ef54744048c0c",
-            "pages_run": 44691360865,
-            "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+            "app_version": "1.406",
+            "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
+            "pages_run": 44727254718,
+            "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
             "live_byte_identical": true,
-            "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
-            "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+            "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
+            "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
             "previous_publication": {
-              "batch": "MA-097",
+              "batch": "MA-098",
               "status": "verified",
-              "app_version": "1.404",
-              "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
-              "pages_run": 44688597423,
-              "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
+              "app_version": "1.405",
+              "commit": "b03ad838651acbe36e955787111ef54744048c0c",
+              "pages_run": 44691360865,
+              "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
               "live_byte_identical": true,
-              "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
-              "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+              "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
+              "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
               "previous_publication": {
-                "batch": "MA-096",
+                "batch": "MA-097",
                 "status": "verified",
-                "app_version": "1.403",
-                "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
-                "pages_run": 44669748044,
-                "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+                "app_version": "1.404",
+                "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
+                "pages_run": 44688597423,
+                "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
                 "live_byte_identical": true,
-                "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
-                "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
+                "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
                 "previous_publication": {
-                  "batch": "MA-093",
+                  "batch": "MA-096",
                   "status": "verified",
-                  "app_version": "1.402",
-                  "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-                  "pages_run": 44621694106,
-                  "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-                  "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+                  "app_version": "1.403",
+                  "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+                  "pages_run": 44669748044,
+                  "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+                  "live_byte_identical": true,
+                  "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+                  "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                  "previous_publication": {
+                    "batch": "MA-093",
+                    "status": "verified",
+                    "app_version": "1.402",
+                    "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+                    "pages_run": 44621694106,
+                    "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+                    "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+                  }
                 }
               }
             }
           }
         }
       }
-    }
+    },
+    "local_tests": "passed"
   },
   "latest_audit_publication": {
     "batch": "MA-105",
@@ -6012,6 +6006,55 @@
         "follow_up_in_MA101": "Zusätzlich35568 (3/4 Wahlbereich1),37824/37827 sowie38004 und38009 (1/2 Wahlbereiche1/2) geprüft. Räumliches Bauen in1/2 ist positiv belegt, aber noch kein spezifischer Netzzusammenhang. Gitternetz35527 ist kein Körpernetz.2034 erhält eine getrennte Frage zum Beschreiben; diese Nachschärfung zählt2033 nicht erneut als Erstprüfung."
       },
       "review_file": "review_batch_105.json"
+    },
+    {
+      "gs_id": "page912_2034",
+      "opened_in": "MA-101",
+      "resolved_in": "MA-106",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-105"
+      ],
+      "scope": "Keine vollständige GS-Zieldeckung: allgemeine Quadernetze, Anordnung und Kongruenz der Flächen, Flächenanzahlen, selbstständiges Zuordnen, Faltbarkeit, Vollständigkeitsprüfung, Herstellen und Zeichnen von Netzen sowie Fachwortanforderungen Würfelnetz/Quadernetz sind nicht abgedeckt. Keine vollständige Beherrschung des GS-Hauptziels Übertragen behauptet. Die Entscheidungen zu 2033 und 2035 bleiben unverändert; der weitere Inhalt von 2034 bleibt außerhalb dieses engen Teilanschlusses.",
+      "previous_question": {
+        "gs_id": "page912_2034",
+        "scope": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
+        "status": "offen",
+        "reason": "GS2034 verlangt das Beschreiben von Eigenschaften von Würfel- und Quadernetzen unter Übertragen2032. FSP3/4 35456 nennt Körpermerkmale; Rechteck und Quadrat als Seitenbegrenzung stehen in der Bemerkung.35459 nennt Nachformen und Bauen mit Würfelturm-Bauplänen in der Bemerkung. Das sind positive Belege für Körper-Seitenflächen-Beziehungen, aber noch keine belegte Beziehung zwischen einem vollständigen zusammenhängenden Netz und seinem Körper. FSP35525 vergleicht und benennt Rechteck-/Quadratmerkmale im Gestaltungskontext,35527 stellt diese Figuren dar; Gitternetz bedeutet dort Zeichengrund, nicht Körpernetz. Verpackungsvergleich35568 nennt Körper und Seitenflächen in der Bemerkung und ist ein positiver Kandidat im Wahlbereich1 Einkaufsbummel; bloße Verpackungsgröße oder einzelne Rechtecke beschreiben noch keine Netzeigenschaft. Ein enger Seitenflächenanschluss wird daher nicht ausgeschlossen, sein konkreter gemeinsamer Gegenstand ist aber noch zu klären. FSP1/2 37824/37827 betrifft allgemeine Objektmerkmale,37832/37836 Figuren und Merkmale,37844 Darstellen mit Falten und Zusammensetzen nur in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt ausdrücklich räumliches Bauen im Wahlbereich1 Im Märchenland;38009 nennt geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 Sport und Spiel. FSP1/2 ist deshalb nicht pauschal auf ebene Figuren beschränkt. Diese allgemeinen Bau-/Figurenbelege bestimmen aber weder ein Körpernetz noch die Zuordnung seiner Teilflächen zum geschlossenen Körper.38011/38015 im Wahlbereich3 Muster betrifft Flächengestaltung und Parkettierung; eine lückenlose ebene Flächenanordnung ist nicht automatisch ein faltbares Netz.",
+        "candidate_ids": [
+          "page139_35451",
+          "page139_35454",
+          "page139_35456",
+          "page139_35459",
+          "page139_35521",
+          "page139_35524",
+          "page139_35525",
+          "page139_35527",
+          "page139_35554",
+          "page139_35568",
+          "page139_37821",
+          "page139_37824",
+          "page139_37827",
+          "page139_37832",
+          "page139_37836",
+          "page139_37844",
+          "page139_37981",
+          "page139_37997",
+          "page139_38004",
+          "page139_38005",
+          "page139_38009",
+          "page139_38011",
+          "page139_38015"
+        ],
+        "review": "MA-101",
+        "follow_up_evidence": "Stufenpassend zuerst35456 zusammen mit35459 und alternativ35568 darauf prüfen, ob das Benennen beziehungsweise qualitative Vergleichen der Seitenflächen eines bereits gültig vorgegebenen Netzes und seines zugehörigen Körpers als begrenzter gemeinsamer Ausschnitt trägt. Die konkrete Beziehung und Zielhandlung explizit belegen; allein das Wort Rechteck genügt nicht. FSP-Netzgültigkeit, eigenständiges Erzeugen eines Netzes und allgemeine Faltbarkeitsprüfung nicht voraussetzen.35525 nur bei begründet erhaltenem Gestaltungskontext nutzen. Erst danach1/2-Objekt-/Baukandidaten mit ihren Wahlbereichsvoraussetzungen prüfen. Bleibt auch dieser konkrete Ausschnitt unbelegt, einen begründeten Nichtanschluss dokumentieren; keine Endlosschleife durch unveränderte offene Frage.",
+        "follow_up_in_MA105": {
+          "positive_evidence": "FSP3/4 35456 belegt Merkmale von Würfel/Quader/Kugel; Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung.35459 nennt Nachformen und Bauen, Würfelturm-Baupläne und eigene Baupläne in der Bemerkung.35527 belegt Rechteck-/Quadratdarstellung unter Gestalten35521; Gitternetz ist dort Zeichengrund, kein Körpernetz.35568 vergleicht Verpackungen unter Anwenden35554 im Wahlbereich1 Einkaufsbummel und nennt Körper-/Seitenflächenmerkmale in der Bemerkung. Diese positiven Vorläuferbelege bleiben erhalten. FSP1/2 37824/37827 belegt Objektmerkmale,37832/37836 ebene Formen und ihre Merkmale unter Kennen37821;37844 ebene Darstellung mit Falten/Zeichnen/Zusammensetzen in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt räumliches Bauen im Märchen-Wahlbereich1 unter Einblick37997;38009 geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 unter Anwenden38005.38011/38015 betrifft Flächengestaltung und Muster im Wahlbereich3. FSP1/2 wird nicht pauschal auf ebene Inhalte reduziert.",
+          "next_check": "2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet.",
+          "review_file": "review_batch_105.json"
+        }
+      },
+      "review_file": "review_batch_106.json"
     }
   ],
   "learning_level_reviews": {
@@ -6099,6 +6142,39 @@
       "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Anwenden: Abstraktion und Transfer in unbekannten Kontexten.",
       "hierarchy_evidence": "FSP S.19/PDF31 visuell:35454 unter Anwenden35451;35456 danach eigenständiger operatorloser Inhaltsblock.",
       "review": "MA-104"
+    },
+    "page139_35456": {
+      "checked_on": "2026-11-22",
+      "review": "MA-106",
+      "finding": "Onlinezeile 35456 und PDF S.19/PDF31 führen den Inhaltsblock Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung gehört zur Bemerkung derselben Zeile. Anwenden 35451 steht auf derselben Einrückungsebene und wird nicht als gesicherte übergeordnete Lernzielebene übernommen. Nachformen und Bauen 35459 ist ein anderes Unterziel und kein notwendiger Beleg für den Seitenflächenanschluss.",
+      "level": null,
+      "target_id": "page139_35456",
+      "definition_evidence": "Wiedererkennen gehört nicht zu den amtlichen Lernzielebenen der Definitionstabelle S.V.",
+      "hierarchy_evidence": "FSP S.19/PDF31 visuell: nominaler Inhaltsblock gleichrangig zum vorherigen Anwenden-Ziel35451; keine eindeutige eigene Lernzielebene."
+    },
+    "page912_2032": {
+      "checked_on": "2026-11-22",
+      "review": "MA-106",
+      "level": "Übertragen",
+      "finding": "Übertragen ist amtliche Lernzielebene des Hauptziels 2032; Beschreiben in Unterziel 2034 bleibt Zielhandlung. Definition: Wissen in vergleichbaren Kontexten verwenden, PDF S.V.",
+      "target_id": "page912_2032",
+      "definition_evidence": "Beide amtlichen PDFs S.V/PDF5: Übertragen verwendet Kenntnisse in vergleichbaren Kontexten.",
+      "hierarchy_evidence": "GS S.21/PDF31: Hauptziel2032 über Beschreiben2034; Beschreiben bleibt Zielhandlung."
+    }
+  },
+  "single_row_operator_evidence": {
+    "page139_35456": {
+      "status": "not_stated",
+      "parent_target_id": "page139_35456",
+      "source_ids": [
+        "Q-MA-page139_35456"
+      ],
+      "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+      "pdf_page_one_based": 31,
+      "printed_page": "19",
+      "checked_on": "2026-11-22",
+      "notice": "Kein eigener Operator ausgewiesen",
+      "finding": "Onlinezeile 35456 und PDF S.19/PDF31 führen den Inhaltsblock Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung gehört zur Bemerkung derselben Zeile. Anwenden 35451 steht auf derselben Einrückungsebene und wird nicht als gesicherte übergeordnete Lernzielebene übernommen. Nachformen und Bauen 35459 ist ein anderes Unterziel und kein notwendiger Beleg für den Seitenflächenanschluss."
     }
   }
 }

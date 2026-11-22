@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-22.1",
+  "version": "MA-2026-11-22.2",
   "checked_on": "2026-11-22",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1693,6 +1693,18 @@
       "id": "Q-MA-page912_187175",
       "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187175",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2032",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2032",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2034",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2034",
       "version": "2026"
     }
   ],
@@ -10097,6 +10109,95 @@
       "context_source_ids": [
         "Q-MA-page139_35415"
       ]
+    },
+    {
+      "id": "MA-105",
+      "subject": "Mathematik",
+      "theme": "Quadratische Seitenflächen im vorgegebenen Würfelnetz",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Seitenflächenbezug ohne eigene FSP-Lernzielebene",
+      "gs_anchor": "GS Mathematik Kl. 3 · Raum und Form · Netzeigenschaften 2034 unter Übertragen 2032",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Inhaltsblock 35456, Quadrat als Seitenbegrenzung in der Bemerkung; Kein eigener Operator ausgewiesen",
+      "gs_operator": "Übertragen",
+      "fsp_operator": null,
+      "operator_relation": "Lernzielebenen: GS Übertragen · FSP: Kein eigener Operator ausgewiesen. Beschreiben und Wiedererkennen sind Zielhandlungen, keine Lernzielebenen. Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 über die quadratische Form der Würfelseitenflächen. GS 2034 beschreibt Netzeigenschaften unter Übertragen 2032. FSP 35456 nennt Merkmale von Würfel, Quader und Kugel; das Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung. Gewählt ist nur das Quadrat als Seitenfläche des Würfels und die Form der zugehörigen, bereits eindeutig zugeordneten Teilfläche eines gültigen Würfelnetzes. Diese Verwendung des Netzes als Darstellung bekannter Körperflächen ist eine didaktische Konkretisierung, kein ausdrücklich formuliertes FSP-Netzziel. Die Zuordnung ist Voraussetzung, keine behauptete selbstständige FSP-Transferleistung. Ein isoliertes Quadrat ohne Körperbezug genügt nicht. Keine vollständige GS-Zieldeckung: allgemeine Quadernetze, Anordnung und Kongruenz der Flächen, Flächenanzahlen, selbstständiges Zuordnen, Faltbarkeit, Vollständigkeitsprüfung, Herstellen und Zeichnen von Netzen sowie Fachwortanforderungen Würfelnetz/Quadernetz sind nicht abgedeckt. Keine vollständige Beherrschung des GS-Hauptziels Übertragen behauptet. Die Entscheidungen zu 2033 und 2035 bleiben unverändert; der weitere Inhalt von 2034 bleibt außerhalb dieses engen Teilanschlusses.",
+      "gs_target_ids": [
+        "page912_2032",
+        "page912_2034"
+      ],
+      "fsp_target_ids": [
+        "page139_35456"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2032",
+        "Q-MA-page912_2034",
+        "Q-MA-page139_35456"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 über die quadratische Form der Würfelseitenflächen. GS 2034 beschreibt Netzeigenschaften unter Übertragen 2032. FSP 35456 nennt Merkmale von Würfel, Quader und Kugel; das Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung. Gewählt ist nur das Quadrat als Seitenfläche des Würfels und die Form der zugehörigen, bereits eindeutig zugeordneten Teilfläche eines gültigen Würfelnetzes. Diese Verwendung des Netzes als Darstellung bekannter Körperflächen ist eine didaktische Konkretisierung, kein ausdrücklich formuliertes FSP-Netzziel. Die Zuordnung ist Voraussetzung, keine behauptete selbstständige FSP-Transferleistung. Ein isoliertes Quadrat ohne Körperbezug genügt nicht. Bekannter Würfel mit bekannten quadratischen Seitenflächen; ein vollständiges, zusammenhängendes, bereits als gültig feststehendes Würfelnetz. Die Zuordnung jeder betrachteten Netzteilfläche zur entsprechenden Würfelseitenfläche ist vorgegeben und verstanden. Die äußere Umrissform des gesamten Netzes, Seiten einer Teilfläche und Körperkanten werden von der Form der einzelnen Seitenflächen unterschieden. Keine vollständige GS-Zieldeckung: allgemeine Quadernetze, Anordnung und Kongruenz der Flächen, Flächenanzahlen, selbstständiges Zuordnen, Faltbarkeit, Vollständigkeitsprüfung, Herstellen und Zeichnen von Netzen sowie Fachwortanforderungen Würfelnetz/Quadernetz sind nicht abgedeckt. Keine vollständige Beherrschung des GS-Hauptziels Übertragen behauptet. Die Entscheidungen zu 2033 und 2035 bleiben unverändert; der weitere Inhalt von 2034 bleibt außerhalb dieses engen Teilanschlusses.",
+      "shared_object_suggestion": "Die quadratische Form einer Würfelseitenfläche und ihrer bereits eindeutig zugeordneten Teilfläche im gültigen Würfelnetz.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt sein Wissen über die quadratischen Seitenflächen eines Würfels auf die Beschreibung der zugehörigen Teilflächen eines vorgegebenen gültigen Würfelnetzes.",
+          "criterion": "Die betrachteten Teilflächen werden bei vorgegebener Zuordnung zu den Würfelseitenflächen als Quadrate beschrieben. Die Beschreibung bezieht sich auf die einzelnen Teilflächen, nicht auf den gesamten Netzumriss. Weitere Netzeigenschaften und eine selbstständige Netzprüfung werden nicht verlangt.",
+          "status": "Didaktischer Teilanschluss von 2034 unter Übertragen 2032; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt das Quadrat als Seitenfläche des bekannten Würfels und als Form der bereits eindeutig zugeordneten Teilfläche in dessen vorgegebenem gültigem Netz wieder.",
+          "criterion": "Die quadratische Form wird an der Würfelseitenfläche und der bereits zugeordneten Netzteilfläche zutreffend wiedererkannt. Der Körperbezug ist vorgegeben; seine selbstständige Herstellung wird nicht als Leistung gewertet. Keine Kongruenz-, Zähl-, Mess-, Faltbarkeits- oder Vollständigkeitsprüfung gefordert.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung der Bemerkung zu 35456; Netz als Darstellung bekannter Seitenflächen, kein amtliches FSP-Netzziel. Keine eigene Lernzielebene ausgewiesen; kein zusätzlicher Selbstständigkeitsgrad ergänzt."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: quadratische Würfelseitenflächen und bereits zugeordnete Netzteilflächen",
+        "detail": "GS 2034 und FSP 35456 weisen für diese qualitative Formbeziehung keine Zahlenobergrenze aus. Es wird kein Zahlenraum erfunden. Die Zahlen bis 100 aus anderen FSP-Zielen und die Meterangabe aus dem benachbarten Körpervergleich sind hier keine Grenze. Formbegriffe und die vorgegebene Körper-Netz-Zuordnung werden gesondert behandelt.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35456"
+        ],
+        "planning_rule": "Bekannter Würfel mit bekannten quadratischen Seitenflächen; ein vollständiges, zusammenhängendes, bereits als gültig feststehendes Würfelnetz. Die Zuordnung jeder betrachteten Netzteilfläche zur entsprechenden Würfelseitenfläche ist vorgegeben und verstanden. Die äußere Umrissform des gesamten Netzes, Seiten einer Teilfläche und Körperkanten werden von der Form der einzelnen Seitenflächen unterschieden. Nur qualitative Formerkennung; keine Messzahlen, Winkelgrade, Zähl- oder Rechenergebnisse als Erfolgskriterium. Numerische Erweiterungen benötigen gesonderte Grenzen einschließlich aller relevanten Zwischen- und Endergebnisse. Keine selbstständige FSP-Netzzuordnung oder Netzprüfung voraussetzen. Eigene Lehrkraftentwürfe erhalten und gesondert fachlich prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+      },
+      "fsp_operator_evidence": {
+        "status": "not_stated",
+        "parent_target_id": "page139_35456",
+        "source_ids": [
+          "Q-MA-page139_35456"
+        ],
+        "pdf_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+        "pdf_page_one_based": 31,
+        "printed_page": "19",
+        "checked_on": "2026-11-22",
+        "notice": "Kein eigener Operator ausgewiesen",
+        "finding": "Onlinezeile 35456 und PDF S.19/PDF31 führen den Inhaltsblock Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung gehört zur Bemerkung derselben Zeile. Anwenden 35451 steht auf derselben Einrückungsebene und wird nicht als gesicherte übergeordnete Lernzielebene übernommen. Nachformen und Bauen 35459 ist ein anderes Unterziel und kein notwendiger Beleg für den Seitenflächenanschluss."
+      },
+      "evidence_classification": {
+        "gs": "2032 Hauptziel Übertragen nur Kontext; 2034 Unterziel Netzeigenschaften. Quadratische Teilflächen eines vorgegebenen Würfelnetzes sind ein didaktischer Ausschnitt.",
+        "fsp": "35456 nominaler Inhaltsblock ohne eigene Lernzielebene; Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung ist Bemerkung. Würfelseitenflächenbezug belegt; vorgegebene Netzrepräsentation didaktisch, keine eigenständige Netzzielzeile.",
+        "context_only_gs_ids": [
+          "page912_2032"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35456"
+        ]
+      },
+      "fsp_single_row_evidence": {
+        "basis": "main_target_with_remark",
+        "target_id": "page139_35456",
+        "source_id": "Q-MA-page139_35456",
+        "remark_excerpt": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung"
+      }
     }
   ]
 }

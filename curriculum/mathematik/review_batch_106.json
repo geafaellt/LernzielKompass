@@ -1,0 +1,433 @@
+{
+  "id": "MA-106",
+  "date": "2026-11-22",
+  "base_commit": "e4d2c9051f2f52927f92fe86e5c9c329da8dd8e6",
+  "scope": "GS3 Netzeigenschaften2034: quadratische Seitenflächen bei vorgegebener Netzzuordnung",
+  "source_verification": {
+    "html": "Amtliche Onlinepläne erneut geöffnet; gespeicherte HTML-Ziel-/Bemerkungszellen dieses Tages mit den Quellen abgeglichen.",
+    "pdf": "Bestands-PDFs GS S.21/PDF31 und FSP S.19/PDF31 sowie beide Definitionstabellen S.V/PDF5 textuell erneut gelesen. Bestehenden Render FSP S.19 visuell geprüft: Inhaltsblock35456 gleichrangig zum vorherigen Anwenden-Ziel. Kein neuer PDF-Download behauptet."
+  },
+  "source_sha256": {
+    "gs": "d18d132ee3cb465ce3baca6872ac5b4d9b110db9d56af918445f7677f6354ca3",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_2032": {
+      "id": "page912_2032",
+      "level": 1,
+      "parent_target_id": "page912_2032",
+      "target": "Übertragen des Wissens über Körper auf Körpernetze",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2032"
+    },
+    "page912_2033": {
+      "id": "page912_2033",
+      "level": 2,
+      "parent_target_id": "page912_2032",
+      "target": "Herstellen, Zeichnen und Prüfen von Würfel- und Quadernetzen",
+      "remarks": "handelnd und in der Vorstellung Falten, Kippen ⇒ Medienbildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2033"
+    },
+    "page912_2034": {
+      "id": "page912_2034",
+      "level": 2,
+      "parent_target_id": "page912_2032",
+      "target": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2034"
+    },
+    "page912_2035": {
+      "id": "page912_2035",
+      "level": 2,
+      "parent_target_id": "page912_2032",
+      "target": "Verwenden der Fachbegriffe: Würfelnetz, Quadernetz",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2035"
+    },
+    "page139_35451": {
+      "id": "page139_35451",
+      "level": 1,
+      "parent_target_id": "page139_35451",
+      "target": "Anwenden des Wissens über ebene Figuren auf das Bestimmen der Formen von Gegenständen",
+      "remarks": "Gebrauchsgegenstände, Spiel- und Schulsachen, Verpackungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35451"
+    },
+    "page139_35454": {
+      "id": "page139_35454",
+      "level": 2,
+      "parent_target_id": "page139_35451",
+      "target": "Entdecken, Vergleichen, Sortieren und Benennen von Körpern",
+      "remarks": "Unterscheiden nach selbst gefundenen und nach vorgegebenen Merkmalen Messen von Kantenlängen bis zu einem Meter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35454"
+    },
+    "page139_35456": {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456"
+    },
+    "page139_35459": {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35525": {
+      "id": "page139_35525",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Vergleichen und Benennen der Merkmale von Rechteck und Quadrat",
+      "remarks": "Messen und Vergleichen der gegenüberliegenden Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35525"
+    },
+    "page139_35527": {
+      "id": "page139_35527",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Rechtecken und Quadraten",
+      "remarks": "Geobrett, Falten, Gitternetz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35527"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35568": {
+      "id": "page139_35568",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Vergleich von Verpackungen",
+      "remarks": "Festigen von Merkmalen der Körper und ihrer Seitenflächen kritischer Vergleich von Verpackungsgröße und Inhalt Vermeidung von Verpackungsmüll ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35568"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37824": {
+      "id": "page139_37824",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Erkennen und Benennen der Merkmale von Objekten",
+      "remarks": "Gebrauchsgegenstände, Spielsachen gezieltes Beobachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37824"
+    },
+    "page139_37827": {
+      "id": "page139_37827",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Sortieren nach Größe, Farbe, Form, Oberfläche",
+      "remarks": "Gliedern, Ordnen, Zuordnen ➔ DE - HKS, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37827"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37997": {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997"
+    },
+    "page139_38004": {
+      "id": "page139_38004",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Entdecken, Zeichnen von Mustern und Ornamenten und Bauen räumlicher Objekte",
+      "remarks": "Kleidung, Pfefferkuchenhaus, Burgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38004"
+    },
+    "page139_38005": {
+      "id": "page139_38005",
+      "level": 1,
+      "parent_target_id": "page139_38005",
+      "target": "Anwenden mathematischer Sachverhalte im Spiel",
+      "remarks": "Schule und Freizeit Arbeit an Stationen, Mathematikolympiade ⇒ Förderung des sozial-emotionalen Verhaltens",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38005"
+    },
+    "page139_38009": {
+      "id": "page139_38009",
+      "level": 2,
+      "parent_target_id": "page139_38005",
+      "target": "Spiele mit geometrischen Inhalten",
+      "remarks": "Tangram, Domino freies Bauen und Bauen nach Anleitung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38009"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_2034",
+      "first_review": false,
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-105"
+      ],
+      "decision": "Stufenbandpassender begrenzter Anschluss GS 3 → FSP 3/4 über die quadratische Form der Würfelseitenflächen. GS 2034 beschreibt Netzeigenschaften unter Übertragen 2032. FSP 35456 nennt Merkmale von Würfel, Quader und Kugel; das Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung. Gewählt ist nur das Quadrat als Seitenfläche des Würfels und die Form der zugehörigen, bereits eindeutig zugeordneten Teilfläche eines gültigen Würfelnetzes. Diese Verwendung des Netzes als Darstellung bekannter Körperflächen ist eine didaktische Konkretisierung, kein ausdrücklich formuliertes FSP-Netzziel. Die Zuordnung ist Voraussetzung, keine behauptete selbstständige FSP-Transferleistung. Ein isoliertes Quadrat ohne Körperbezug genügt nicht.",
+      "prerequisites": "Bekannter Würfel mit bekannten quadratischen Seitenflächen; ein vollständiges, zusammenhängendes, bereits als gültig feststehendes Würfelnetz. Die Zuordnung jeder betrachteten Netzteilfläche zur entsprechenden Würfelseitenfläche ist vorgegeben und verstanden. Die äußere Umrissform des gesamten Netzes, Seiten einer Teilfläche und Körperkanten werden von der Form der einzelnen Seitenflächen unterschieden.",
+      "uncertainty": "Netzrepräsentation didaktisch, kein wörtliches FSP-Netzziel. Ohne vorgegebenen und verstandenen Seitenflächenbezug ist dieser Anschluss nicht gedeckt.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: allgemeine Quadernetze, Anordnung und Kongruenz der Flächen, Flächenanzahlen, selbstständiges Zuordnen, Faltbarkeit, Vollständigkeitsprüfung, Herstellen und Zeichnen von Netzen sowie Fachwortanforderungen Würfelnetz/Quadernetz sind nicht abgedeckt. Keine vollständige Beherrschung des GS-Hauptziels Übertragen behauptet. Die Entscheidungen zu 2033 und 2035 bleiben unverändert; der weitere Inhalt von 2034 bleibt außerhalb dieses engen Teilanschlusses.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "band_selection": "FSP3/4 bevorzugt:35456 bestimmt Körpermerkmale und Quadrat als Seitenbegrenzung unmittelbar.35454 allgemeiner Körpervergleich unter Anwenden35451 ist weniger spezifisch;35459 Bauen belegt keine Netzzuordnung.35525/35527 unter Gestalten35521 betreffen ebene Merkmale/Darstellung; kein Netzzusammenhang.35568 unter Anwenden35554 wäre nur bei tatsächlichem Verpackungsvergleich im Wahlbereich1 einschlägig. FSP1/2:37824/37827 allgemeine Objektmerkmale,37832/37836 Figurenmerkmale und37844 Figurendarstellung unter Kennen37821;37981 Fantasieformen in der Ebene.38004 räumliches Bauen unter Einblick37997 und38009 Spiele mit Bauen unter Anwenden38005 sind positive Raumbelege, aber ohne ebenso spezifische Würfel-Seitenflächenbeziehung.38015 unter Anwenden38011 betrifft Muster/Flächengestaltung. Kein Ausschluss wegen kleinerer Zahlenräume und keine pauschale Reduktion von1/2 auf ebene Inhalte.",
+  "learning_level_review": {
+    "gs": "Übertragen2032; Beschreiben2034 ist Handlung.",
+    "fsp": "Onlinezeile 35456 und PDF S.19/PDF31 führen den Inhaltsblock Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung gehört zur Bemerkung derselben Zeile. Anwenden 35451 steht auf derselben Einrückungsebene und wird nicht als gesicherte übergeordnete Lernzielebene übernommen. Nachformen und Bauen 35459 ist ein anderes Unterziel und kein notwendiger Beleg für den Seitenflächenanschluss.",
+    "definitions": "Beide Lehrpläne S.V: Übertragen verwendet Wissen in vergleichbaren Kontexten. Keine Lernzielebene aus der Handlung Wiedererkennen abgeleitet."
+  },
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: quadratische Würfelseitenflächen und bereits zugeordnete Netzteilflächen",
+    "detail": "GS 2034 und FSP 35456 weisen für diese qualitative Formbeziehung keine Zahlenobergrenze aus. Es wird kein Zahlenraum erfunden. Die Zahlen bis 100 aus anderen FSP-Zielen und die Meterangabe aus dem benachbarten Körpervergleich sind hier keine Grenze. Formbegriffe und die vorgegebene Körper-Netz-Zuordnung werden gesondert behandelt.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35456"
+    ],
+    "planning_rule": "Bekannter Würfel mit bekannten quadratischen Seitenflächen; ein vollständiges, zusammenhängendes, bereits als gültig feststehendes Würfelnetz. Die Zuordnung jeder betrachteten Netzteilfläche zur entsprechenden Würfelseitenfläche ist vorgegeben und verstanden. Die äußere Umrissform des gesamten Netzes, Seiten einer Teilfläche und Körperkanten werden von der Form der einzelnen Seitenflächen unterschieden. Nur qualitative Formerkennung; keine Messzahlen, Winkelgrade, Zähl- oder Rechenergebnisse als Erfolgskriterium. Numerische Erweiterungen benötigen gesonderte Grenzen einschließlich aller relevanten Zwischen- und Endergebnisse. Keine selbstständige FSP-Netzzuordnung oder Netzprüfung voraussetzen. Eigene Lehrkraftentwürfe erhalten und gesondert fachlich prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+  },
+  "new_cards": [
+    "MA-105"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "revisited_questions": 1,
+    "resolved_questions": 1,
+    "new_cards": 1,
+    "cards_total": 105,
+    "same_band": 77,
+    "cross_band": 28,
+    "open_questions_total": 24,
+    "no_direct_connections_total": 12,
+    "inventory_rows": 195,
+    "new_inventory_rows": 4,
+    "source_links": 266,
+    "target_anchors": 264
+  },
+  "previous_question": {
+    "gs_id": "page912_2034",
+    "scope": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
+    "status": "offen",
+    "reason": "GS2034 verlangt das Beschreiben von Eigenschaften von Würfel- und Quadernetzen unter Übertragen2032. FSP3/4 35456 nennt Körpermerkmale; Rechteck und Quadrat als Seitenbegrenzung stehen in der Bemerkung.35459 nennt Nachformen und Bauen mit Würfelturm-Bauplänen in der Bemerkung. Das sind positive Belege für Körper-Seitenflächen-Beziehungen, aber noch keine belegte Beziehung zwischen einem vollständigen zusammenhängenden Netz und seinem Körper. FSP35525 vergleicht und benennt Rechteck-/Quadratmerkmale im Gestaltungskontext,35527 stellt diese Figuren dar; Gitternetz bedeutet dort Zeichengrund, nicht Körpernetz. Verpackungsvergleich35568 nennt Körper und Seitenflächen in der Bemerkung und ist ein positiver Kandidat im Wahlbereich1 Einkaufsbummel; bloße Verpackungsgröße oder einzelne Rechtecke beschreiben noch keine Netzeigenschaft. Ein enger Seitenflächenanschluss wird daher nicht ausgeschlossen, sein konkreter gemeinsamer Gegenstand ist aber noch zu klären. FSP1/2 37824/37827 betrifft allgemeine Objektmerkmale,37832/37836 Figuren und Merkmale,37844 Darstellen mit Falten und Zusammensetzen nur in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt ausdrücklich räumliches Bauen im Wahlbereich1 Im Märchenland;38009 nennt geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 Sport und Spiel. FSP1/2 ist deshalb nicht pauschal auf ebene Figuren beschränkt. Diese allgemeinen Bau-/Figurenbelege bestimmen aber weder ein Körpernetz noch die Zuordnung seiner Teilflächen zum geschlossenen Körper.38011/38015 im Wahlbereich3 Muster betrifft Flächengestaltung und Parkettierung; eine lückenlose ebene Flächenanordnung ist nicht automatisch ein faltbares Netz.",
+    "candidate_ids": [
+      "page139_35451",
+      "page139_35454",
+      "page139_35456",
+      "page139_35459",
+      "page139_35521",
+      "page139_35524",
+      "page139_35525",
+      "page139_35527",
+      "page139_35554",
+      "page139_35568",
+      "page139_37821",
+      "page139_37824",
+      "page139_37827",
+      "page139_37832",
+      "page139_37836",
+      "page139_37844",
+      "page139_37981",
+      "page139_37997",
+      "page139_38004",
+      "page139_38005",
+      "page139_38009",
+      "page139_38011",
+      "page139_38015"
+    ],
+    "review": "MA-101",
+    "follow_up_evidence": "Stufenpassend zuerst35456 zusammen mit35459 und alternativ35568 darauf prüfen, ob das Benennen beziehungsweise qualitative Vergleichen der Seitenflächen eines bereits gültig vorgegebenen Netzes und seines zugehörigen Körpers als begrenzter gemeinsamer Ausschnitt trägt. Die konkrete Beziehung und Zielhandlung explizit belegen; allein das Wort Rechteck genügt nicht. FSP-Netzgültigkeit, eigenständiges Erzeugen eines Netzes und allgemeine Faltbarkeitsprüfung nicht voraussetzen.35525 nur bei begründet erhaltenem Gestaltungskontext nutzen. Erst danach1/2-Objekt-/Baukandidaten mit ihren Wahlbereichsvoraussetzungen prüfen. Bleibt auch dieser konkrete Ausschnitt unbelegt, einen begründeten Nichtanschluss dokumentieren; keine Endlosschleife durch unveränderte offene Frage.",
+    "follow_up_in_MA105": {
+      "positive_evidence": "FSP3/4 35456 belegt Merkmale von Würfel/Quader/Kugel; Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung.35459 nennt Nachformen und Bauen, Würfelturm-Baupläne und eigene Baupläne in der Bemerkung.35527 belegt Rechteck-/Quadratdarstellung unter Gestalten35521; Gitternetz ist dort Zeichengrund, kein Körpernetz.35568 vergleicht Verpackungen unter Anwenden35554 im Wahlbereich1 Einkaufsbummel und nennt Körper-/Seitenflächenmerkmale in der Bemerkung. Diese positiven Vorläuferbelege bleiben erhalten. FSP1/2 37824/37827 belegt Objektmerkmale,37832/37836 ebene Formen und ihre Merkmale unter Kennen37821;37844 ebene Darstellung mit Falten/Zeichnen/Zusammensetzen in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt räumliches Bauen im Märchen-Wahlbereich1 unter Einblick37997;38009 geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 unter Anwenden38005.38011/38015 betrifft Flächengestaltung und Muster im Wahlbereich3. FSP1/2 wird nicht pauschal auf ebene Inhalte reduziert.",
+      "next_check": "2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet.",
+      "review_file": "review_batch_105.json"
+    }
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2032",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Übertragen des Wissens über Körper auf Körpernetze",
+      "Karten": "",
+      "Prüfstatus": "MA-105: Hauptziel Übertragen nur Kontext, keine Erstzählung oder Kartenabdeckung.2033 begründeter Nichtanschluss;2034 engere Seitenflächenfrage offen;2035 Fachwort-Nichtanschluss. Vollständige Hauptzieldeckung nicht behauptet."
+    },
+    {
+      "Ziel-ID": "page912_2034",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
+      "Karten": "",
+      "Prüfstatus": "MA-101: open_connection_question. GS2034 verlangt das Beschreiben von Eigenschaften von Würfel- und Quadernetzen unter Übertragen2032. FSP3/4 35456 nennt Körpermerkmale; Rechteck und Quadrat als Seitenbegrenzung stehen in der Bemerkung.35459 nennt Nachformen und Bauen mit Würfelturm-Bauplänen in der Bemerkung. Das sind positive Belege für Körper-Seitenflächen-Beziehungen, aber noch keine belegte Beziehung zwischen einem vollständigen zusammenhängenden Netz und seinem Körper. FSP35525 vergleicht und benennt Rechteck-/Quadratmerkmale im Gestaltungskontext,35527 stellt diese Figuren dar; Gitternetz bedeutet dort Zeichengrund, nicht Körpernetz. Verpackungsvergleich35568 nennt Körper und Seitenflächen in der Bemerkung und ist ein positiver Kandidat im Wahlbereich1 Einkaufsbummel; bloße Verpackungsgröße oder einzelne Rechtecke beschreiben noch keine Netzeigenschaft. Ein enger Seitenflächenanschluss wird daher nicht ausgeschlossen, sein konkreter gemeinsamer Gegenstand ist aber noch zu klären. FSP1/2 37824/37827 betrifft allgemeine Objektmerkmale,37832/37836 Figuren und Merkmale,37844 Darstellen mit Falten und Zusammensetzen nur in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt ausdrücklich räumliches Bauen im Wahlbereich1 Im Märchenland;38009 nennt geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 Sport und Spiel. FSP1/2 ist deshalb nicht pauschal auf ebene Figuren beschränkt. Diese allgemeinen Bau-/Figurenbelege bestimmen aber weder ein Körpernetz noch die Zuordnung seiner Teilflächen zum geschlossenen Körper.38011/38015 im Wahlbereich3 Muster betrifft Flächengestaltung und Parkettierung; eine lückenlose ebene Flächenanordnung ist nicht automatisch ein faltbares Netz. Voraussetzungen: Bei einer späteren didaktischen Eingrenzung muss ein tatsächlich gültiges, zusammenhängendes Würfel- oder Quadernetz mit eindeutigem Bezug zum zugehörigen Körper vorliegen. Teilflächen des Netzes, Seiten der Teilflächen, äußere Randstücke und Körperkanten unterscheiden. Faltbarkeit und vollständiger Körper sind Voraussetzungen eines gültigen Beispiels und dürfen nicht ohne eigenen Beleg als FSP-Prüfleistung verlangt werden. Der jeweilige Umwelt-, Gestaltungs- oder Wahlbereichskontext muss erhalten bleiben. Rest: Gesamter Anschlussentscheid2034 offen. Keine Kartenabdeckung für Netz-Zusammenhang, Anordnung und Zuordnung der Seitenflächen, Faltbarkeit, Vollständigkeit oder Beschreibung entsprechender Eigenschaften behauptet.2033 Herstellen/Zeichnen/Prüfen bleibt eine eigene offene Frage. Lernzielebene Übertragen2032; keine Tätigkeitsangabe als Ebene. | MA-105: gezielte Nachprüfung, Frage weiter offen und nicht erneut gezählt. 2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-084",
+    "MA-085",
+    "MA-086",
+    "MA-090"
+  ],
+  "existing_card_review": "Diese Bestandskarten verwenden35456/35459 ohne eigene Lernzielebene; Bauziele und ihre offenen Zahlen-/Darstellungsgrenzen bleiben getrennt vom neuen qualitativen Seitenflächenanschluss. Alle104 Bestandskarten und417 bisherigen Lernzielebenen-Einträge bleiben unverändert. Keine neue semantische Gesamtprüfung behauptet.",
+  "validation_change": "Ein einzelner operatorloser Inhaltsblock mit eigenem Bemerkungsbeleg ist zulässig, wenn die zeilenspezifische Evidenz exakt zum geprüften Fortschrittsnachweis passt. Kein sachfremdes Bau-Unterziel allein für die bisherige technische Mindestzahl von Quellen ergänzen. Mehrzeilige Bestandsnachweise bleiben unverändert streng.",
+  "limits": "Keine vollständige GS-Zieldeckung: allgemeine Quadernetze, Anordnung und Kongruenz der Flächen, Flächenanzahlen, selbstständiges Zuordnen, Faltbarkeit, Vollständigkeitsprüfung, Herstellen und Zeichnen von Netzen sowie Fachwortanforderungen Würfelnetz/Quadernetz sind nicht abgedeckt. Keine vollständige Beherrschung des GS-Hauptziels Übertragen behauptet. Die Entscheidungen zu 2033 und 2035 bleiben unverändert; der weitere Inhalt von 2034 bleibt außerhalb dieses engen Teilanschlusses.",
+  "tests": {
+    "status": "passed_local",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "out": "",
+        "err": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "out": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "err": ""
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "out": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-22\n",
+        "err": ""
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "out": "PASS: 105 mathematics cards, 266 source links (264 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "err": ""
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "out": "PASS: 105 mathematics cards, 266 source links (264 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n",
+        "err": ""
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "out": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "err": ""
+      }
+    },
+    "targeted_browser": "PASS MA-084,MA-104,MA-105: Quellen, Geltungsbereich Karte/Ziele/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, Lehrkrafttexte, Fachwechsel und Mobil320/390.",
+    "learning_levels_browser": "PASS 418 Karten/836 Kartenseiten: amtliche Ebenenbelege, Ausschluss von Zielhandlungen, Vererbung und Fachwechsel.",
+    "preservation": "104 Bestandskarten,264 Bestandsquellen,417 bisherige Lernzielebenen-Einträge und sämtliche Deutschdateien unverändert; index.html und dist/index.html bytegleich.",
+    "initial_failure_fixed": "Fortsetzung187177 war noch nicht im Zeilenaudit. Vier amtliche Ornamentzeilen nur inventarisiert und als offen gekennzeichnet; Inventurzahl195, keine neuen Erstprüfungen. Danach alle Datenprüfungen bestanden.",
+    "limits": "Keine UI-Codeänderung; kein neuer vollständiger check-mathematik-browser.cjs-Funktionslauf. Gezielter Browserlauf plus vollständige Lernzielebenenanzeige. Keine vollständige neue semantische Prüfung aller Bestandskarten."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.410"
+  },
+  "continuation": {
+    "next_id": "page912_187177",
+    "next_step": "GS3-Ornamente 187177–187180 einzeln gegen beide FSP-Bänder prüfen. 2034 ist nur für quadratische Würfelseitenflächen mit vorgegebener Netzzuordnung geklärt; weitergehender Rest bleibt offen. 105 Karten,24 Anschlussfragen,12 direkte Nichtanschlüsse,195 Inventurzeilen. App1.410: Lokale Prüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  },
+  "inventory_only": {
+    "page912_187177": {
+      "id": "page912_187177",
+      "level": 1,
+      "parent_target_id": "page912_187177",
+      "target": "Übertragen des Wissens über Symmetrien auf Ornamente",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187177"
+    },
+    "page912_187178": {
+      "id": "page912_187178",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Entwickeln, Beschreiben und Fortsetzen von Bandornamenten",
+      "remarks": "➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187178"
+    },
+    "page912_187179": {
+      "id": "page912_187179",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Nutzen von Achsen-, Schiebe- und Drehsymmetrie",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187179"
+    },
+    "page912_187180": {
+      "id": "page912_187180",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Verwenden der Fachbegriffe: gespiegelt, gedreht, verschoben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187180"
+    }
+  }
+}

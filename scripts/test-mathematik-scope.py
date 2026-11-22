@@ -147,3 +147,24 @@ for cid in ['MA-093', 'MA-094']:
     except AssertionError: pass
     else: raise AssertionError('Gestalten accepted without main-row evidence')
 print('PASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.')
+
+# A nominal main row needs its own remark proof, not an unrelated child target.
+valid = cards['MA-105']
+parent = checks['anchors']['page139_35456']
+validate_operator(valid, 'fsp', parent)
+cases = []
+c = copy.deepcopy(valid); del c['fsp_operator_evidence']; cases.append(c)
+c = copy.deepcopy(valid); c['fsp_operator'] = 'Anwenden'; cases.append(c)
+c = copy.deepcopy(valid); c['fsp_operator_evidence']['parent_target_id'] = 'page139_35451'; cases.append(c)
+c = copy.deepcopy(valid); c['fsp_operator_evidence']['source_ids'] = ['Q-MA-page139_35459']; cases.append(c)
+c = copy.deepcopy(valid); del c['fsp_single_row_evidence']; cases.append(c)
+c = copy.deepcopy(valid); c['fsp_single_row_evidence']['remark_excerpt'] = 'freies Bauen'; cases.append(c)
+c = copy.deepcopy(valid); c['fsp_target_ids'].append('page139_35459'); cases.append(c)
+for c in cases:
+    try:
+        validate_operator(c, 'fsp', parent)
+    except (AssertionError, KeyError):
+        pass
+    else:
+        raise AssertionError('Invalid single-row operator evidence accepted')
+print('PASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.')

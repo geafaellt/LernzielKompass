@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.409** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.410** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -190,3 +190,6 @@ Mathematik MA-104: bekannte Pyramidenform bei verändertem Blickwinkel wiedererk
 
 
 Mathematik MA-105: Netzherstellung/-zeichnung/-prüfung2033 als begründeter Nichtanschluss; Netzeigenschaften2034 bleiben separat offen.25 Anschlussfragen,104 Karten; App1.409 unverändert. [Prüfpaket](curriculum/mathematik/review_batch_105.json). Datenprüfungen und Bestandserhalt bestanden; Auditcommit cf34442a048b33728c27639288e35acee39f76a7 auf main veröffentlicht. [Pages45012244520](https://github.com/geafaellt/LernzielKompass/actions/runs/45012244520) erfolgreich; unveränderte Live-App1.409 bytegleich bestätigt. Kein neuer Browserlauf für reine Auditänderungen; entsprechende Live-Prüfungen in MA-104 bestanden.
+
+
+Mathematik MA-106: quadratische Würfelseitenflächen bei vorgegebener Netzzuordnung.105 Karten,24 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_106.json). App1.410: Lokale Datenprüfungen und Browserprüfungen bestanden. Veröffentlichung und Liveprüfung ausstehend.

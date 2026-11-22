@@ -75,11 +75,17 @@ def check_operator_evidence(card, side, parent):
     if parent['operator'] is None:
         assert side == 'fsp' and value is None, (card['id'], 'invented operator')
         assert evidence and evidence['status'] == 'not_stated', card['id']
-        assert evidence == progress.get('operator_evidence', {}).get(parent['id']), card['id']
+        single = len(card[side + '_target_ids']) == 1
+        evidence_table = 'single_row_operator_evidence' if single else 'operator_evidence'
+        assert evidence == progress.get(evidence_table, {}).get(parent['id']), card['id']
         assert evidence['parent_target_id'] == parent['id'], card['id']
         assert evidence['notice'] == 'Kein eigener Operator ausgewiesen', card['id']
         source_ids = set(evidence['source_ids'])
-        assert 'Q-MA-' + parent['id'] in source_ids and len(source_ids) >= 2, card['id']
+        if single:
+            assert source_ids == {'Q-MA-' + parent['id']}, card['id']
+            check_primary_target_group(card, side)
+        else:
+            assert 'Q-MA-' + parent['id'] in source_ids and len(source_ids) >= 2, card['id']
         assert source_ids.issubset({'Q-MA-' + i for i in card[side + '_target_ids']}), card['id']
         assert source_ids.issubset(card['source_ids']), card['id']
         assert evidence['pdf_url'].startswith('https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/'), card['id']
