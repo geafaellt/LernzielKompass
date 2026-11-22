@@ -1,0 +1,426 @@
+{
+  "id": "MA-104",
+  "date": "2026-11-22",
+  "base_commit": "f5ab381ab6fe0e562c2389bb67c3002a0dc99532",
+  "scope": "GS3 Blickwinkel187175: begrenzte Klärung einer offenen Frage",
+  "source_verification": {
+    "html": "Beide amtlichen HTML-Pläne frisch abgerufen; Ziele, Bemerkungen und Hauptzeilen getrennt gelesen.",
+    "pdf": "Bestands-PDF FSP S.17/PDF29 mit übergreifendem Sichtwechsel textuell abgeglichen; GS S.21/PDF31 und FSP S.19/PDF31 aus MA-103 visuell belegte Hierarchie unverändert. Definitionen Kennen/Anwenden aus S.V/PDF5 wie MA-103. Kein neuer PDF-Abruf und keine neue Renderprüfung behauptet."
+  },
+  "source_sha256": {
+    "gs": "e19ff49b847a10e8a0b92eb280e7a4181406da6633ab2be43fbdb55c24fd448e",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_2030": {
+      "id": "page912_2030",
+      "level": 1,
+      "parent_target_id": "page912_2030",
+      "target": "Kennen geometrischer Körper",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2030"
+    },
+    "page912_187175": {
+      "id": "page912_187175",
+      "level": 2,
+      "parent_target_id": "page912_2030",
+      "target": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
+      "remarks": "Vorstellungsvermögen durch gedankliches Operieren ausbilden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187175"
+    },
+    "page139_35451": {
+      "id": "page139_35451",
+      "level": 1,
+      "parent_target_id": "page139_35451",
+      "target": "Anwenden des Wissens über ebene Figuren auf das Bestimmen der Formen von Gegenständen",
+      "remarks": "Gebrauchsgegenstände, Spiel- und Schulsachen, Verpackungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35451"
+    },
+    "page139_35454": {
+      "id": "page139_35454",
+      "level": 2,
+      "parent_target_id": "page139_35451",
+      "target": "Entdecken, Vergleichen, Sortieren und Benennen von Körpern",
+      "remarks": "Unterscheiden nach selbst gefundenen und nach vorgegebenen Merkmalen Messen von Kantenlängen bis zu einem Meter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35454"
+    },
+    "page139_35456": {
+      "id": "page139_35456",
+      "level": 1,
+      "parent_target_id": "page139_35456",
+      "target": "Merkmale von Würfel, Quader und Kugel",
+      "remarks": "Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung Anzahl von Ecken und Kanten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35456"
+    },
+    "page139_35459": {
+      "id": "page139_35459",
+      "level": 2,
+      "parent_target_id": "page139_35456",
+      "target": "Nachformen und Bauen",
+      "remarks": "freies Bauen, Bauen von Würfeltürmen nach Plänen Differenzierung: Bauen nach verbaler Vorschrift, Umbauen, Finden eigener Baupläne ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35459"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35563": {
+      "id": "page139_35563",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Orientierung",
+      "remarks": "Wege zu und in Einkaufseinrichtungen ➔ DE - HKS, Kl. 3/4, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35563"
+    },
+    "page139_35568": {
+      "id": "page139_35568",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Vergleich von Verpackungen",
+      "remarks": "Festigen von Merkmalen der Körper und ihrer Seitenflächen kritischer Vergleich von Verpackungsgröße und Inhalt Vermeidung von Verpackungsmüll ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35568"
+    },
+    "page139_37759": {
+      "id": "page139_37759",
+      "level": 1,
+      "parent_target_id": "page139_37759",
+      "target": "Kennen des eigenen Körpers",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ Sprachförderung ➔ DE - HKS, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 1 ➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37759"
+    },
+    "page139_37765": {
+      "id": "page139_37765",
+      "level": 2,
+      "parent_target_id": "page139_37759",
+      "target": "Orientierung am eigenen Körper",
+      "remarks": "Raum-Lage-Beziehungen: oben, unten, vorn, hinten, rechts, links",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37765"
+    },
+    "page139_37773": {
+      "id": "page139_37773",
+      "level": 2,
+      "parent_target_id": "page139_37759",
+      "target": "Beziehung des eigenen Körpers zur Umgebung",
+      "remarks": "links von mir ..., rechts von mir ..., neben mir ... ➔ WE, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37773"
+    },
+    "page139_37779": {
+      "id": "page139_37779",
+      "level": 1,
+      "parent_target_id": "page139_37779",
+      "target": "Übertragen des Wissens über Raum-Lage-Beziehungen auf die Orientierung in der Schule",
+      "remarks": "⇒ Sprachförderung ➔ DE - HKS, Kl. 1/2, LB 5 ➔ SPO, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37779"
+    },
+    "page139_37786": {
+      "id": "page139_37786",
+      "level": 2,
+      "parent_target_id": "page139_37779",
+      "target": "Lagebeziehung zwischen Objekten im Raum",
+      "remarks": "Klassenraum, Turnhalle, Schulhaus",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37786"
+    },
+    "page139_37788": {
+      "id": "page139_37788",
+      "level": 3,
+      "parent_target_id": "page139_37779",
+      "target": "Entdecken von Räumen, Handeln nach Anweisung",
+      "remarks": "Bewegung nach freier Wahl, Lauf-, Fang-, Wurf- und Versteckspiele, Interaktionsspiele Benennen von Lagebeziehungen: links von ..., rechts von ..., über, unter, vor, hinter, zwischen, im, am Formulierungshilfen geben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37788"
+    },
+    "page139_37789": {
+      "id": "page139_37789",
+      "level": 2,
+      "parent_target_id": "page139_37779",
+      "target": "Entdecken von Lagebeziehungen im Schulgelände",
+      "remarks": "Bewegung nach Anweisung in alltäglichen Situationen ⇒ Förderung motorischer Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37789"
+    },
+    "page139_37794": {
+      "id": "page139_37794",
+      "level": 3,
+      "parent_target_id": "page139_37779",
+      "target": "gedankliche Orientierung im Raum",
+      "remarks": "Entwickeln der Fähigkeit zum räumlichen Denken Fantasiereisen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37794"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37824": {
+      "id": "page139_37824",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Erkennen und Benennen der Merkmale von Objekten",
+      "remarks": "Gebrauchsgegenstände, Spielsachen gezieltes Beobachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37824"
+    },
+    "page139_37827": {
+      "id": "page139_37827",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Sortieren nach Größe, Farbe, Form, Oberfläche",
+      "remarks": "Gliedern, Ordnen, Zuordnen ➔ DE - HKS, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37827"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37997": {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997"
+    },
+    "page139_38002": {
+      "id": "page139_38002",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "gedankliche Orientierung im Raum",
+      "remarks": "Orientierungsübungen im Märchenwald, Wege gehen und beschreiben, Labyrinth Brettspiele, Spiele am Computer",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38002"
+    },
+    "page139_38004": {
+      "id": "page139_38004",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Entdecken, Zeichnen von Mustern und Ornamenten und Bauen räumlicher Objekte",
+      "remarks": "Kleidung, Pfefferkuchenhaus, Burgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38004"
+    },
+    "page139_38005": {
+      "id": "page139_38005",
+      "level": 1,
+      "parent_target_id": "page139_38005",
+      "target": "Anwenden mathematischer Sachverhalte im Spiel",
+      "remarks": "Schule und Freizeit Arbeit an Stationen, Mathematikolympiade ⇒ Förderung des sozial-emotionalen Verhaltens",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38005"
+    },
+    "page139_38007": {
+      "id": "page139_38007",
+      "level": 2,
+      "parent_target_id": "page139_38005",
+      "target": "Spiele zur räumlichen Orientierung",
+      "remarks": "Ballspiele, Reaktionsspiele, Schulhofspiele",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38007"
+    },
+    "page139_38009": {
+      "id": "page139_38009",
+      "level": 2,
+      "parent_target_id": "page139_38005",
+      "target": "Spiele mit geometrischen Inhalten",
+      "remarks": "Tangram, Domino freies Bauen und Bauen nach Anleitung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38009"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    }
+  },
+  "overarching_evidence": {
+    "id": "page139_35415",
+    "grade": "3/4",
+    "kind": "stage_goals",
+    "text": "Die Schüler erkennen Lagebeziehungen von Objekten im Raum und können auch gedanklich wechselnde Sichtweisen einnehmen und sich Wege im Raum vorstellen.",
+    "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+    "separation": "Übergreifender räumlicher Beleg; nicht als Zielzeilenoperator, Zahlenobergrenze oder ausdrücklich benannte Pyramiden-Ansichtszeile ausgegeben."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187175",
+      "first_review": false,
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-104"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die bekannte quadratische Pyramidenform desselben eindeutig geformten Alltagsgegenstands bei veränderter Ansicht wiedererkennen. GS187175 nennt ausdrücklich das Erkennen von Körpern aus unterschiedlichen Blickwinkeln unter Kennen2030; gedankliches Operieren steht in seiner Bemerkung. FSP35454 belegt allgemeines Entdecken/Vergleichen/Benennen von Körpern unter Anwenden35451 im Gegenstandskontext. Das übergreifende Bandziel35415 nennt ausdrücklich gedanklich wechselnde Sichtweisen bei räumlichen Lagebeziehungen. Die Verknüpfung von Körperform und Sichtwechsel ist eine offengelegte didaktische Konkretisierung beider Belege;35415 ist keine einzelne Körperzielzeile und liefert keine zusätzliche Lernzielebene. Der allgemeine Körpervergleich allein würde den Blickwinkelwechsel nicht belegen. Die quadratische Pyramidenform ist eine didaktische Auswahl, keine ausdrücklich vorgeschriebene FSP-Körperart.",
+      "prerequisites": "Bekannte quadratische Pyramidenform an einem eindeutig geformten Alltagsgegenstand; räumlicher Bezug zwischen Grundfläche, ebenen dreieckigen Seitenflächen und gemeinsamer Spitze bereits geklärt. Die Ansichten und Blickrichtungen gehören eindeutig zu demselben unveränderten Gegenstand. In jeder ausgewählten Ansicht müssen charakteristische räumliche Beziehungen hinreichend erkennbar sein; eine reine Ansicht der Grundfläche oder ein einzelner dreieckiger Umriss genügt nicht. Keine abgeschnittenen, abgerundeten, zusammengesetzten oder mehrdeutigen Formen. Der Zusammenhang der Ansichten ist Voraussetzung; eine individuelle Objektidentität wird nicht aus äußerlich gleichen Körpern erschlossen.",
+      "uncertainty": "Die Verknüpfung zweier FSP-Belege und die gewählte bekannte Pyramidenform sind didaktische Auslegung, keine wörtliche FSP-Einzelzeile. Eindeutige räumliche Beziehungen müssen erhalten sein.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "band_selection": "FSP3/4 bevorzugt: allgemeiner Körpervergleich35454 im Gegenstandskontext plus ausdrücklich räumliche Sichtweisen35415.35456/35459 nennen bestimmte Körpermerkmale/Bauen, liefern keinen eigenen Blickwinkeloperator. Orientierung35563 und Verpackungen35568 stehen unter Anwenden35554 im Wahlbereich1 Einkaufsbummel; dessen Kontext ist für den gewählten Alltagsgegenstand nicht erforderlich. MA-083 bleibt deshalb eigener Lagebeschreibungsanschluss im Wahlbereich. FSP1/2 hat positive Raumbelege:37765/37773 unter Kennen37759 eigener Körper/Umgebung,37786/37794 unter Übertragen37779 Objektlage/gedankliche Orientierung in der Schule;38002/38004 unter Einblick37997 Märchenwege/räumliches Bauen und38007/38009 unter Anwenden38005 räumliche Spiele/Bauen im Wahlkontext.37824/37827 allgemeine Objektmerkmale,37836 Figurenmerkmale unter Kennen37821. Diese Anker werden nicht pauschal als eben ausgeschlossen, legen aber den Wechsel der Ansicht einer ausgewählten geometrischen Körperform weniger unmittelbar fest als die Verbindung3/4.37844/37981/38015 betreffen ebene Darstellung/Gestaltung. Kein Ausschluss wegen kleinerer Zahlenräume; beide Stufenbänder bleiben gebündelt.",
+  "learning_level_review": {
+    "gs": "Kennen2030; Erkennen ist Handlung unter diesem Hauptziel.",
+    "fsp": "Anwenden35451;35454-Handlungen und35415-Sichtwechsel sind keine Lernzielebenen.",
+    "previous_gap_closed": "check-learning-levels.cjs live für App1.408 nachgeholt:416 Karten/832 Seiten bestanden; MA-103-Fehler historisch erhalten."
+  },
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: qualitative Formerkennung bei verändertem Blickwinkel",
+    "detail": "GS187175 und die FSP-Verknüpfung35454 mit übergreifendem Sichtwechsel35415 enthalten für diesen qualitativen Ausschnitt keine Zahlenobergrenze. Der räumliche Teil des Bandziels wird verwendet, nicht dessen Operationsgrenze bis100. Die Meterangabe in Bemerkung35454 gilt für das Messen von Kantenlängen und wird nicht zur Formerkennungsgrenze. Anzahl der Ansichten ist didaktisch zu bestimmen, keine amtliche Zahlenraumgrenze.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35451",
+      "Q-MA-page139_35454",
+      "Q-MA-page139_35415"
+    ],
+    "planning_rule": "Bekannte quadratische Pyramidenform an einem eindeutig geformten Alltagsgegenstand; räumlicher Bezug zwischen Grundfläche, ebenen dreieckigen Seitenflächen und gemeinsamer Spitze bereits geklärt. Die Ansichten und Blickrichtungen gehören eindeutig zu demselben unveränderten Gegenstand. In jeder ausgewählten Ansicht müssen charakteristische räumliche Beziehungen hinreichend erkennbar sein; eine reine Ansicht der Grundfläche oder ein einzelner dreieckiger Umriss genügt nicht. Keine abgeschnittenen, abgerundeten, zusammengesetzten oder mehrdeutigen Formen. Der Zusammenhang der Ansichten ist Voraussetzung; eine individuelle Objektidentität wird nicht aus äußerlich gleichen Körpern erschlossen. Nur qualitative Formbeziehungen; keine Messzahlen, Entfernungen, Winkelgrade, Anzahlenaufgaben oder numerischen Ausgangs-, Zwischen- und Endergebnisse. Numerische Erweiterungen benötigen gesonderte belegte oder ausdrücklich didaktisch festgelegte Grenzen. Die Fachwörter Pyramide und Spitze sind keine zusätzliche verbindliche FSP-Wortanforderung. Eigene Lehrkraftentwürfe erhalten und gesondert fachlich prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+  },
+  "new_cards": [
+    "MA-104"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "revisited_questions": 1,
+    "resolved_questions": 1,
+    "new_cards": 1,
+    "cards_total": 104,
+    "same_band": 76,
+    "cross_band": 28,
+    "open_questions_total": 26,
+    "no_direct_connections_total": 11,
+    "inventory_rows": 191,
+    "new_inventory_rows": 0,
+    "source_links": 264,
+    "target_anchors": 262
+  },
+  "previous_question": {
+    "gs_id": "page912_187175",
+    "scope": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
+    "status": "offen",
+    "reason": "GS verlangt Erkennen von Körpern aus unterschiedlichen Blick­winkeln. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Übergreifende räumliche Sichtweisen3/4 sind Kontext, kein automatischer Nachweis des Erkennens dieser Körper aus wechselnden Blickwinkeln.",
+    "candidate_ids": [
+      "page139_35451",
+      "page139_35454",
+      "page139_35456",
+      "page139_35459",
+      "page139_35521",
+      "page139_35527",
+      "page139_37821",
+      "page139_37832",
+      "page139_37844",
+      "page139_37981",
+      "page139_38011",
+      "page139_38015"
+    ],
+    "review": "MA-100",
+    "follow_up_evidence": "Übergreifende räumliche Sichtweisen35415 als Kontext hinzunehmen und prüfen, ob zusammen mit35454 ein bestimmter Ansichtserkennungsfall belegbar ist; keine vollständige Perspektivkompetenz ableiten."
+  },
+  "previous_audit_row": {
+    "Ziel-ID": "page912_187175",
+    "Klasse": "3",
+    "Lernbereich": "Raum und Form",
+    "Ebene": "2",
+    "Ziel": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
+    "Karten": "",
+    "Prüfstatus": "MA-100: open_connection_question. GS verlangt Erkennen von Körpern aus unterschiedlichen Blick­winkeln. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Übergreifende räumliche Sichtweisen3/4 sind Kontext, kein automatischer Nachweis des Erkennens dieser Körper aus wechselnden Blickwinkeln. Voraussetzungen: Derselbe Körper muss trotz veränderter Ansicht erkennbar bleiben; Wechsel der Ansicht von bloßem Vergleich verschiedener Körper trennen. Rest: Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung. Nachprüfung: Übergreifende räumliche Sichtweisen35415 als Kontext hinzunehmen und prüfen, ob zusammen mit35454 ein bestimmter Ansichtserkennungsfall belegbar ist; keine vollständige Perspektivkompetenz ableiten."
+  },
+  "existing_cards_rechecked": [
+    "MA-083",
+    "MA-102",
+    "MA-103"
+  ],
+  "existing_card_review": "MA-083: Lagebeschreibung im Einkaufs-Wahlbereich, ausdrücklich kein allgemeiner Körperansichtenbeleg. MA-102/103 qualitative Formvergleiche mit domain_specific ohne erfundene Obergrenze, ohne Blickwechseldeckung; unverändert. Alle103 Bestandskarten und416 bisherigen Lernzielebenen-Einträge unverändert. Titel der vorhandenen Kontextquelle35415 um räumliche Sichtweisen erweitert; ID, URL, Status und bisherige Bezüge erhalten.",
+  "limits": "Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
+  "tests": {
+    "status": "passed_local",
+    "checks": [
+      {
+        "script": "update-mathematik.py",
+        "exit_code": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit_code": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit_code": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-22\n",
+        "stderr": ""
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit_code": 0,
+        "stdout": "PASS: 104 mathematics cards, 264 source links (262 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit_code": 0,
+        "stdout": "PASS: 104 mathematics cards, 264 source links (262 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\n",
+        "stderr": ""
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit_code": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    ],
+    "browser_local": "check-mathematik-live-ma-104.cjs: MA-084/103/104; mobile320/390, scope on card/goals/output, source links, goal adoption, blank tasks/aids, teacher draft preservation and subject isolation passed.",
+    "learning_levels": "check-learning-levels.cjs:417 cards/834 sides passed; evidence/display check, not full new semantic review.",
+    "preservation": "103 prior math cards and416 prior learning-level entries unchanged. Existing context source35415 title extended, ID/URL/kind retained. One question resolved, zero first reviews;191 audit rows and11 direct nonmatches unchanged.",
+    "limits": "No UI code change; no full104-card functional browser run. Live verification pending.",
+    "local_html_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f"
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.409"
+  },
+  "continuation": {
+    "next_id": "page912_2033",
+    "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409: Tests, Veröffentlichung und Liveprüfung ausstehend. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

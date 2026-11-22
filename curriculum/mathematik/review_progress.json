@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-103",
+  "last_batch": "MA-104",
   "complete": false,
   "counts": {
-    "cards": 103,
+    "cards": 104,
     "cross_band": 28
   },
   "source_plans": {
@@ -3352,10 +3352,23 @@
       "area": "Lernbereich 1: Raum und Form",
       "operator": "",
       "version": "2026"
+    },
+    "page912_187175": {
+      "id": "page912_187175",
+      "level": 2,
+      "parent_target_id": "page912_2030",
+      "target": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
+      "remarks": "Vorstellungsvermögen durch gedankliches Operieren ausbilden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187175",
+      "grade": "3",
+      "area_id": "MA-page912_1998",
+      "area": "Lernbereich 1: Raum und Form",
+      "operator": "",
+      "version": "2026"
     }
   },
-  "next_id": "page912_187175",
-  "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408 veröffentlicht; Datenprüfungen, lokale Lernzielebenenprüfung und gezielter lokaler/Live-Browserlauf bestanden. Pages erfolgreich und Live-HTML bytegleich. Zusätzlicher Lernzielebenen-Live-Gesamtlauf wegen Browserstartfehler unvollständig; beim nächsten Lauf nachholen. Deutsch-Abschluss DE-UZ-052 bewahrt.",
+  "next_id": "page912_2033",
+  "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409: Tests, Veröffentlichung und Liveprüfung ausstehend. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3669,7 +3682,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_103.json",
+  "last_review_file": "review_batch_104.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4187,28 +4200,6 @@
       "review": "MA-099",
       "follow_up_evidence": "Bei der anschließenden Prüfung187169 zuerst FSP3/4 35511/35514/35520 auf einen konkreten geschlossenen Randlinien- beziehungsweise Seitenlängensummen-Ausschnitt prüfen. Fehlende wörtliche Nennung Umfang allein ist kein Ausschluss; mathematisch begründen, ob die gewählte Gesamtlänge als didaktischer Umfangsfall tragfähig ist. Schätzen und Rechnen dürfen kombiniert werden, sofern beide Belege, Einheit, Referenzbezug und alle Zwischen-/Endwerte ausdrücklich berücksichtigt sind; keine unbekannte Umfangsformel hinzufügen. Danach entscheiden, ob derselbe festgelegte Gegenstand mit Schätzwerten auch187168 begrenzt trägt. Als Alternative FSP1/2 37961/37962/37967/37976 mit Naturkontext und ersten Schätzerfahrungen prüfen. MA-066/067 nur nach Prüfung ihres tatsächlichen Gegenstands wiederverwenden; keine automatische Deckung durch allgemeines Schätzen oder Addieren. Den Flächeninhaltsschätzanteil unabhängig vom Umfang offen halten, sofern dafür kein eigener belegter Teilanschluss gefunden wird.",
       "follow_up_in_MA100": "MA-101 bestätigt einen didaktisch begrenzten geschlossenen Rand als Gesamtlängenfall. Die frühere grundsätzliche Randlinienfrage ist damit für diesen Dreiecksfall geklärt. Offen bleibt die eigene Konkretisierung für Schätzwerte mit Referenzbezug/Genauigkeitsrahmen; exakte Werte nicht nur umbenennen. Flächeninhaltsschätzung bleibt unabhängig offen."
-    },
-    {
-      "gs_id": "page912_187175",
-      "scope": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
-      "status": "offen",
-      "reason": "GS verlangt Erkennen von Körpern aus unterschiedlichen Blick­winkeln. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Übergreifende räumliche Sichtweisen3/4 sind Kontext, kein automatischer Nachweis des Erkennens dieser Körper aus wechselnden Blickwinkeln.",
-      "candidate_ids": [
-        "page139_35451",
-        "page139_35454",
-        "page139_35456",
-        "page139_35459",
-        "page139_35521",
-        "page139_35527",
-        "page139_37821",
-        "page139_37832",
-        "page139_37844",
-        "page139_37981",
-        "page139_38011",
-        "page139_38015"
-      ],
-      "review": "MA-100",
-      "follow_up_evidence": "Übergreifende räumliche Sichtweisen35415 als Kontext hinzunehmen und prüfen, ob zusammen mit35454 ein bestimmter Ansichtserkennungsfall belegbar ist; keine vollständige Perspektivkompetenz ableiten."
     },
     {
       "gs_id": "page912_2033",
@@ -4982,9 +4973,9 @@
     },
     {
       "gs_id": "page912_187175",
-      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
+      "scope": "Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
       "status": "offen",
-      "review": "MA-100"
+      "review": "MA-104"
     },
     {
       "gs_id": "page912_187176",
@@ -5070,7 +5061,7 @@
     },
     "Q-MA-page139_35415": {
       "id": "Q-MA-page139_35415",
-      "title": "FSP Mathematik 3/4 · übergreifende Ziele: Operationsvorstellungen bis 100",
+      "title": "FSP Mathematik 3/4 · übergreifende Ziele: räumliche Sichtweisen und Operationsvorstellungen bis 100",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
       "version": "2019",
       "kind": "stage_goals",
@@ -5494,74 +5485,79 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-103",
-    "status": "verified_with_documented_test_limit",
-    "app_version": "1.408",
-    "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
-    "pages_run": 44950269901,
-    "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
-    "live_byte_identical": true,
-    "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
-    "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
-    "verified_on": "2026-11-22",
+    "batch": "MA-104",
+    "status": "pending",
+    "app_version": "1.409",
     "previous_publication": {
-      "batch": "MA-102",
-      "status": "verified",
-      "app_version": "1.407",
-      "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
-      "pages_run": 44777080601,
-      "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
+      "batch": "MA-103",
+      "status": "verified_with_documented_test_limit",
+      "app_version": "1.408",
+      "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
+      "pages_run": 44950269901,
+      "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
       "live_byte_identical": true,
-      "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
-      "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+      "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
+      "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+      "verified_on": "2026-11-22",
       "previous_publication": {
-        "batch": "MA-100",
+        "batch": "MA-102",
         "status": "verified",
-        "app_version": "1.406",
-        "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
-        "pages_run": 44727254718,
-        "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+        "app_version": "1.407",
+        "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
+        "pages_run": 44777080601,
+        "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
         "live_byte_identical": true,
-        "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
-        "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+        "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
+        "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
         "previous_publication": {
-          "batch": "MA-098",
+          "batch": "MA-100",
           "status": "verified",
-          "app_version": "1.405",
-          "commit": "b03ad838651acbe36e955787111ef54744048c0c",
-          "pages_run": 44691360865,
-          "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+          "app_version": "1.406",
+          "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
+          "pages_run": 44727254718,
+          "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
           "live_byte_identical": true,
-          "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
-          "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+          "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
+          "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
           "previous_publication": {
-            "batch": "MA-097",
+            "batch": "MA-098",
             "status": "verified",
-            "app_version": "1.404",
-            "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
-            "pages_run": 44688597423,
-            "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
+            "app_version": "1.405",
+            "commit": "b03ad838651acbe36e955787111ef54744048c0c",
+            "pages_run": 44691360865,
+            "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
             "live_byte_identical": true,
-            "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
-            "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+            "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
+            "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
             "previous_publication": {
-              "batch": "MA-096",
+              "batch": "MA-097",
               "status": "verified",
-              "app_version": "1.403",
-              "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
-              "pages_run": 44669748044,
-              "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+              "app_version": "1.404",
+              "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
+              "pages_run": 44688597423,
+              "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
               "live_byte_identical": true,
-              "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
-              "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+              "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
+              "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
               "previous_publication": {
-                "batch": "MA-093",
+                "batch": "MA-096",
                 "status": "verified",
-                "app_version": "1.402",
-                "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-                "pages_run": 44621694106,
-                "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-                "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+                "app_version": "1.403",
+                "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+                "pages_run": 44669748044,
+                "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+                "live_byte_identical": true,
+                "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+                "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                "previous_publication": {
+                  "batch": "MA-093",
+                  "status": "verified",
+                  "app_version": "1.402",
+                  "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+                  "pages_run": 44621694106,
+                  "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+                  "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+                }
               }
             }
           }
@@ -5950,6 +5946,39 @@
         "follow_up_evidence": "Reichweite35454 für Zylinderformen im Umweltkontext gesondert prüfen; Kreis/ Rechteck aus1/2 belegt allein keine Körperkompetenz."
       },
       "review_file": "review_batch_103.json"
+    },
+    {
+      "gs_id": "page912_187175",
+      "opened_in": "MA-100",
+      "resolved_in": "MA-104",
+      "status": "resolved_with_limited_connection",
+      "cards": [
+        "MA-104"
+      ],
+      "scope": "Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
+      "previous_question": {
+        "gs_id": "page912_187175",
+        "scope": "Erkennen von Körpern aus unterschiedlichen Blick­winkeln",
+        "status": "offen",
+        "reason": "GS verlangt Erkennen von Körpern aus unterschiedlichen Blick­winkeln. FSP3/4 35454 nennt allgemein Entdecken, Vergleichen, Sortieren und Benennen von Körpern unter Anwenden35451;35456 konkretisiert Würfel, Quader und Kugel,35459 Nachformen/Bauen. FSP1/2 37832/37844 und37981 betreffen ebene Grundformen, keine gleichwertige Körperanforderung. Das allgemeine FSP-Körperziel darf weder ungeprüft auf Pyramide/Kegel/Zylinder ausgeweitet noch pauschal auf die drei benannten Körper verengt werden. Offene Anschlussfrage: konkreten gemeinsamen Körper und jeweilige Zielhandlung festlegen; keine Karte aus bloßer Wortähnlichkeit. Übergreifende räumliche Sichtweisen3/4 sind Kontext, kein automatischer Nachweis des Erkennens dieser Körper aus wechselnden Blickwinkeln.",
+        "candidate_ids": [
+          "page139_35451",
+          "page139_35454",
+          "page139_35456",
+          "page139_35459",
+          "page139_35521",
+          "page139_35527",
+          "page139_37821",
+          "page139_37832",
+          "page139_37844",
+          "page139_37981",
+          "page139_38011",
+          "page139_38015"
+        ],
+        "review": "MA-100",
+        "follow_up_evidence": "Übergreifende räumliche Sichtweisen35415 als Kontext hinzunehmen und prüfen, ob zusammen mit35454 ein bestimmter Ansichtserkennungsfall belegbar ist; keine vollständige Perspektivkompetenz ableiten."
+      },
+      "review_file": "review_batch_104.json"
     }
   ],
   "learning_level_reviews": {
@@ -6025,18 +6054,18 @@
     "page912_2030": {
       "level": "Kennen",
       "target_id": "page912_2030",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Kennen: begrenztes Gebiet im gelernten Kontext.",
       "hierarchy_evidence": "GS S.21/PDF31 visuell: Kennen geometrischer Körper über187170–187174. Tätigkeiten und Körpernamen sind keine Lernzielebenen.",
-      "review": "MA-103"
+      "review": "MA-104"
     },
     "page139_35451": {
       "level": "Anwenden",
       "target_id": "page139_35451",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "definition_evidence": "Beide amtlichen PDFs S.V/PDF5 erneut gelesen. Anwenden: Abstraktion und Transfer in unbekannten Kontexten.",
       "hierarchy_evidence": "FSP S.19/PDF31 visuell:35454 unter Anwenden35451;35456 danach eigenständiger operatorloser Inhaltsblock.",
-      "review": "MA-103"
+      "review": "MA-104"
     }
   }
 }

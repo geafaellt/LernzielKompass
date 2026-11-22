@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.408** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.409** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -184,3 +184,6 @@ Mathematik MA-102: begrenzter Pyramiden-Quader-Vergleich MA-102; drei offene Fra
 
 
 Mathematik MA-103: begrenzter Kegel-Zylinder-Vergleich. Zwei Fragen mit Restumfang geklärt, keine neuen Erstprüfungen.103 Karten,27 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_103.json). App1.408: Datenprüfungen und lokale Lernzielebenenprüfung bestanden. Veröffentlicht mit b5c89ef1834cf5d141c3b480067c38a49419fd93; [Pages44950269901](https://github.com/geafaellt/LernzielKompass/actions/runs/44950269901) erfolgreich. Live-HTML bytegleich; gezielter Live-Browserlauf einschließlich Mobilansicht bestanden. Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.
+
+
+Mathematik MA-104: bekannte Pyramidenform bei verändertem Blickwinkel wiedererkennen; begrenzter Anschluss mit getrenntem übergreifendem Sichtwechselbeleg.104 Karten,26 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_104.json). App1.409: Datenprüfungen und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend.

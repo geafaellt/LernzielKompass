@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-21.1",
-  "checked_on": "2026-11-21",
+  "version": "MA-2026-11-22.1",
+  "checked_on": "2026-11-22",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -579,7 +579,7 @@
     },
     {
       "id": "Q-MA-page139_35415",
-      "title": "FSP Mathematik 3/4 · übergreifende Ziele: Operationsvorstellungen bis 100",
+      "title": "FSP Mathematik 3/4 · übergreifende Ziele: räumliche Sichtweisen und Operationsvorstellungen bis 100",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
       "version": "2019",
       "kind": "stage_goals",
@@ -1687,6 +1687,12 @@
       "id": "Q-MA-page912_187173",
       "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187173",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187175",
+      "title": "GS Mathematik 3 · Lernbereich 1: Raum und Form",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187175",
       "version": "2026"
     }
   ],
@@ -10013,6 +10019,84 @@
           "page139_35454"
         ]
       }
+    },
+    {
+      "id": "MA-104",
+      "subject": "Mathematik",
+      "theme": "Pyramidenform bei verändertem Blickwinkel wiedererkennen",
+      "app_area": "MA-page912_1998",
+      "status": "Begrenzter Anschluss · Verknüpfung mit übergreifendem Sichtwechselziel",
+      "gs_anchor": "GS Mathematik Kl. 3 · Raum und Form · Blickwinkel 187175 unter Kennen 2030",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Körpervergleich 35454 unter Anwenden 35451; räumliche Sichtweisen aus übergreifendem Ziel 35415",
+      "gs_operator": "Kennen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "Lernzielebenen: GS Kennen · FSP Anwenden. Stufenbandpassender Teilanschluss GS3 → FSP3/4: die bekannte quadratische Pyramidenform desselben eindeutig geformten Alltagsgegenstands bei veränderter Ansicht wiedererkennen. GS187175 nennt ausdrücklich das Erkennen von Körpern aus unterschiedlichen Blickwinkeln unter Kennen2030; gedankliches Operieren steht in seiner Bemerkung. FSP35454 belegt allgemeines Entdecken/Vergleichen/Benennen von Körpern unter Anwenden35451 im Gegenstandskontext. Das übergreifende Bandziel35415 nennt ausdrücklich gedanklich wechselnde Sichtweisen bei räumlichen Lagebeziehungen. Die Verknüpfung von Körperform und Sichtwechsel ist eine offengelegte didaktische Konkretisierung beider Belege;35415 ist keine einzelne Körperzielzeile und liefert keine zusätzliche Lernzielebene. Der allgemeine Körpervergleich allein würde den Blickwinkelwechsel nicht belegen. Die quadratische Pyramidenform ist eine didaktische Auswahl, keine ausdrücklich vorgeschriebene FSP-Körperart. Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
+      "gs_target_ids": [
+        "page912_2030",
+        "page912_187175"
+      ],
+      "fsp_target_ids": [
+        "page139_35451",
+        "page139_35454"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2030",
+        "Q-MA-page912_187175",
+        "Q-MA-page139_35451",
+        "Q-MA-page139_35454",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4: die bekannte quadratische Pyramidenform desselben eindeutig geformten Alltagsgegenstands bei veränderter Ansicht wiedererkennen. GS187175 nennt ausdrücklich das Erkennen von Körpern aus unterschiedlichen Blickwinkeln unter Kennen2030; gedankliches Operieren steht in seiner Bemerkung. FSP35454 belegt allgemeines Entdecken/Vergleichen/Benennen von Körpern unter Anwenden35451 im Gegenstandskontext. Das übergreifende Bandziel35415 nennt ausdrücklich gedanklich wechselnde Sichtweisen bei räumlichen Lagebeziehungen. Die Verknüpfung von Körperform und Sichtwechsel ist eine offengelegte didaktische Konkretisierung beider Belege;35415 ist keine einzelne Körperzielzeile und liefert keine zusätzliche Lernzielebene. Der allgemeine Körpervergleich allein würde den Blickwinkelwechsel nicht belegen. Die quadratische Pyramidenform ist eine didaktische Auswahl, keine ausdrücklich vorgeschriebene FSP-Körperart. Bekannte quadratische Pyramidenform an einem eindeutig geformten Alltagsgegenstand; räumlicher Bezug zwischen Grundfläche, ebenen dreieckigen Seitenflächen und gemeinsamer Spitze bereits geklärt. Die Ansichten und Blickrichtungen gehören eindeutig zu demselben unveränderten Gegenstand. In jeder ausgewählten Ansicht müssen charakteristische räumliche Beziehungen hinreichend erkennbar sein; eine reine Ansicht der Grundfläche oder ein einzelner dreieckiger Umriss genügt nicht. Keine abgeschnittenen, abgerundeten, zusammengesetzten oder mehrdeutigen Formen. Der Zusammenhang der Ansichten ist Voraussetzung; eine individuelle Objektidentität wird nicht aus äußerlich gleichen Körpern erschlossen. Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
+      "shared_object_suggestion": "Die bekannte quadratische Pyramidenform desselben unveränderten Alltagsgegenstands aus unterschiedlichen eindeutig bestimmten Blickwinkeln.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt die bekannte quadratische Pyramidenform desselben geeigneten Alltagsgegenstands aus unterschiedlichen eindeutig bestimmten Blickwinkeln wieder.",
+          "criterion": "Die Körperform wird trotz veränderter Ansicht wiedererkannt. Als bleibende Formbeziehung werden ebene dreieckige Seitenflächen mit gemeinsamem Treffpunkt außerhalb der Grundfläche sachgerecht beschrieben; ihre scheinbare Breite und die jeweils sichtbaren Flächen dürfen sich ändern. Ein dreieckiger Umriss allein oder eine beliebige Ecke wird nicht als Nachweis gewertet. Verdeckte Flächen, vollständige räumliche Rekonstruktion und numerische Winkelangaben werden nicht verlangt.",
+          "status": "Didaktischer Ausschnitt von187175 unter Kennen2030; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wendet bekannte Formmerkmale auf denselben geeigneten Alltagsgegenstand aus unterschiedlichen eindeutig bestimmten Sichtweisen an und erkennt dessen bekannte quadratische Pyramidenform wieder.",
+          "criterion": "Die Körperform wird trotz veränderter Ansicht wiedererkannt. Als bleibende Formbeziehung werden ebene dreieckige Seitenflächen mit gemeinsamem Treffpunkt außerhalb der Grundfläche sachgerecht beschrieben; ihre scheinbare Breite und die jeweils sichtbaren Flächen dürfen sich ändern. Ein dreieckiger Umriss allein oder eine beliebige Ecke wird nicht als Nachweis gewertet. Verdeckte Flächen, vollständige räumliche Rekonstruktion und numerische Winkelangaben werden nicht verlangt. Eine sachgerechte Merkmalsbeschreibung genügt; die Fachwörter Pyramide und Spitze werden nicht zusätzlich verlangt.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Verknüpfung von Körpervergleich35454 unter Anwenden35451 mit räumlichem Sichtwechsel aus übergreifendem Ziel35415; kein wörtliches zusätzliches FSP-Einzelziel und kein vollständiger Anwenden-Nachweis."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: qualitative Formerkennung bei verändertem Blickwinkel",
+        "detail": "GS187175 und die FSP-Verknüpfung35454 mit übergreifendem Sichtwechsel35415 enthalten für diesen qualitativen Ausschnitt keine Zahlenobergrenze. Der räumliche Teil des Bandziels wird verwendet, nicht dessen Operationsgrenze bis100. Die Meterangabe in Bemerkung35454 gilt für das Messen von Kantenlängen und wird nicht zur Formerkennungsgrenze. Anzahl der Ansichten ist didaktisch zu bestimmen, keine amtliche Zahlenraumgrenze.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_35451",
+          "Q-MA-page139_35454",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Bekannte quadratische Pyramidenform an einem eindeutig geformten Alltagsgegenstand; räumlicher Bezug zwischen Grundfläche, ebenen dreieckigen Seitenflächen und gemeinsamer Spitze bereits geklärt. Die Ansichten und Blickrichtungen gehören eindeutig zu demselben unveränderten Gegenstand. In jeder ausgewählten Ansicht müssen charakteristische räumliche Beziehungen hinreichend erkennbar sein; eine reine Ansicht der Grundfläche oder ein einzelner dreieckiger Umriss genügt nicht. Keine abgeschnittenen, abgerundeten, zusammengesetzten oder mehrdeutigen Formen. Der Zusammenhang der Ansichten ist Voraussetzung; eine individuelle Objektidentität wird nicht aus äußerlich gleichen Körpern erschlossen. Nur qualitative Formbeziehungen; keine Messzahlen, Entfernungen, Winkelgrade, Anzahlenaufgaben oder numerischen Ausgangs-, Zwischen- und Endergebnisse. Numerische Erweiterungen benötigen gesonderte belegte oder ausdrücklich didaktisch festgelegte Grenzen. Die Fachwörter Pyramide und Spitze sind keine zusätzliche verbindliche FSP-Wortanforderung. Eigene Lehrkraftentwürfe erhalten und gesondert fachlich prüfen; Freitext ist nicht automatisch validiert. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft."
+      },
+      "evidence_classification": {
+        "gs": "2030 Kennen nur Hauptzielkontext;187175 verbindliches Blickwinkelziel. Gedankliches Operieren ist Bemerkung. Gewählte Pyramidenform didaktisch.",
+        "fsp": "35451 Anwenden und35454 allgemeiner Körpervergleich;35415 ausdrücklich übergreifendes räumliches Sichtwechselziel, keine neue Lernzielebene und keine Zeilenobergrenze. Körperform, Ansichten und deren enge Verknüpfung didaktisch konkretisiert.",
+        "context_only_gs_ids": [
+          "page912_2030"
+        ],
+        "fsp_remark_anchors": [
+          "page139_35454"
+        ]
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ]
     }
   ]
 }
