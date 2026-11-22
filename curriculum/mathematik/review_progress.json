@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-104",
+  "last_batch": "MA-105",
   "complete": false,
   "counts": {
     "cards": 104,
@@ -3367,8 +3367,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_2033",
-  "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409 veröffentlicht; Datenprüfungen, gezielter lokaler/Live-Browserlauf und Lernzielebenenanzeige aller417 Karten/834 Seiten bestanden. Pages erfolgreich und Live-HTML bytegleich. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_id": "page912_2034",
+  "next_step": "2034 fortsetzen: quadratische Teilflächen eines bereits gültigen Würfelnetzes mit vorgegebener Körperflächenzuordnung gegen35456 prüfen; alternativ35568 nur mit Wahlbereich-/Verpackungsvergleich.2033 Herstellung/Zeichnen/Prüfen als Nichtanschluss entschieden, nicht erneut zählen. Danach GS3-Ornamente187177–187180 inventarisieren und einzeln prüfen.104 Karten,25 Anschlussfragen,12 direkte Nichtanschlüsse. Audit-only; App1.409 unverändert. Tests und Auditveröffentlichung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3682,7 +3682,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_104.json",
+  "last_review_file": "review_batch_105.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4202,29 +4202,6 @@
       "follow_up_in_MA100": "MA-101 bestätigt einen didaktisch begrenzten geschlossenen Rand als Gesamtlängenfall. Die frühere grundsätzliche Randlinienfrage ist damit für diesen Dreiecksfall geklärt. Offen bleibt die eigene Konkretisierung für Schätzwerte mit Referenzbezug/Genauigkeitsrahmen; exakte Werte nicht nur umbenennen. Flächeninhaltsschätzung bleibt unabhängig offen."
     },
     {
-      "gs_id": "page912_2033",
-      "scope": "Herstellen, Zeichnen und Prüfen von Würfel- und Quadernetzen",
-      "status": "offen",
-      "reason": "Würfel und Quader sind in FSP3/4 35456 belegt; Nachformen/Bauen35459 und Wiedererkennen von Rechteck/Quadrat als Seitenbegrenzung stehen im zugehörigen Ziel-/Bemerkungskontext. Das belegt nicht bereits Herstellen, Zeichnen und Prüfen eines vollständigen zusammenhängenden Netzes. FSP1/2-Falten37844 betrifft ebene Figuren. Offene Anschlussfrage: eng begrenzter Teilanschluss über Seitenflächen möglich, aber Netz-Zusammenhang, Faltbarkeit und Vollständigkeitskontrolle nicht automatisch mitgedeckt.",
-      "candidate_ids": [
-        "page139_35451",
-        "page139_35454",
-        "page139_35456",
-        "page139_35459",
-        "page139_35521",
-        "page139_35527",
-        "page139_37821",
-        "page139_37832",
-        "page139_37844",
-        "page139_37981",
-        "page139_38011",
-        "page139_38015"
-      ],
-      "review": "MA-100",
-      "follow_up_evidence": "35456/35459 und35527 gegen einen konkreten Seitenflächen-Netz-Ausschnitt prüfen; der operatorlose Block35456 bleibt ohne erfundene Lernzielebene. Falten37844 betrifft zunächst ebene Figuren; daraus keine allgemeine Netzprüfung ableiten.",
-      "follow_up_in_MA101": "Zusätzlich35568 (3/4 Wahlbereich1),37824/37827 sowie38004 und38009 (1/2 Wahlbereiche1/2) geprüft. Räumliches Bauen in1/2 ist positiv belegt, aber noch kein spezifischer Netzzusammenhang. Gitternetz35527 ist kein Körpernetz.2034 erhält eine getrennte Frage zum Beschreiben; diese Nachschärfung zählt2033 nicht erneut als Erstprüfung."
-    },
-    {
       "gs_id": "page912_2034",
       "scope": "Beschreiben von Eigenschaften von Würfel- und Quadernetzen",
       "status": "offen",
@@ -4255,7 +4232,12 @@
         "page139_38015"
       ],
       "review": "MA-101",
-      "follow_up_evidence": "Stufenpassend zuerst35456 zusammen mit35459 und alternativ35568 darauf prüfen, ob das Benennen beziehungsweise qualitative Vergleichen der Seitenflächen eines bereits gültig vorgegebenen Netzes und seines zugehörigen Körpers als begrenzter gemeinsamer Ausschnitt trägt. Die konkrete Beziehung und Zielhandlung explizit belegen; allein das Wort Rechteck genügt nicht. FSP-Netzgültigkeit, eigenständiges Erzeugen eines Netzes und allgemeine Faltbarkeitsprüfung nicht voraussetzen.35525 nur bei begründet erhaltenem Gestaltungskontext nutzen. Erst danach1/2-Objekt-/Baukandidaten mit ihren Wahlbereichsvoraussetzungen prüfen. Bleibt auch dieser konkrete Ausschnitt unbelegt, einen begründeten Nichtanschluss dokumentieren; keine Endlosschleife durch unveränderte offene Frage."
+      "follow_up_evidence": "Stufenpassend zuerst35456 zusammen mit35459 und alternativ35568 darauf prüfen, ob das Benennen beziehungsweise qualitative Vergleichen der Seitenflächen eines bereits gültig vorgegebenen Netzes und seines zugehörigen Körpers als begrenzter gemeinsamer Ausschnitt trägt. Die konkrete Beziehung und Zielhandlung explizit belegen; allein das Wort Rechteck genügt nicht. FSP-Netzgültigkeit, eigenständiges Erzeugen eines Netzes und allgemeine Faltbarkeitsprüfung nicht voraussetzen.35525 nur bei begründet erhaltenem Gestaltungskontext nutzen. Erst danach1/2-Objekt-/Baukandidaten mit ihren Wahlbereichsvoraussetzungen prüfen. Bleibt auch dieser konkrete Ausschnitt unbelegt, einen begründeten Nichtanschluss dokumentieren; keine Endlosschleife durch unveränderte offene Frage.",
+      "follow_up_in_MA105": {
+        "positive_evidence": "FSP3/4 35456 belegt Merkmale von Würfel/Quader/Kugel; Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung steht in seiner Bemerkung.35459 nennt Nachformen und Bauen, Würfelturm-Baupläne und eigene Baupläne in der Bemerkung.35527 belegt Rechteck-/Quadratdarstellung unter Gestalten35521; Gitternetz ist dort Zeichengrund, kein Körpernetz.35568 vergleicht Verpackungen unter Anwenden35554 im Wahlbereich1 Einkaufsbummel und nennt Körper-/Seitenflächenmerkmale in der Bemerkung. Diese positiven Vorläuferbelege bleiben erhalten. FSP1/2 37824/37827 belegt Objektmerkmale,37832/37836 ebene Formen und ihre Merkmale unter Kennen37821;37844 ebene Darstellung mit Falten/Zeichnen/Zusammensetzen in der Bemerkung.37981 betrifft Fantasieformen in der Ebene.38004 belegt räumliches Bauen im Märchen-Wahlbereich1 unter Einblick37997;38009 geometrische Spiele mit Bauen in der Bemerkung im Wahlbereich2 unter Anwenden38005.38011/38015 betrifft Flächengestaltung und Muster im Wahlbereich3. FSP1/2 wird nicht pauschal auf ebene Inhalte reduziert.",
+        "next_check": "2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet.",
+        "review_file": "review_batch_105.json"
+      }
     }
   ],
   "remaining_scopes": [
@@ -4985,15 +4967,15 @@
     },
     {
       "gs_id": "page912_2033",
-      "scope": "Gesamter Anschlussentscheid dieser Zeile offen; keine neue Kartenabdeckung.",
-      "status": "offen",
-      "review": "MA-100"
+      "scope": "2033 bleibt ohne direkte Kartenabdeckung: Herstellung, zeichnerische Darstellung und Netzprüfung sind für die geprüften FSP-Bänder nicht hinreichend belegt. Dies ist keine Untersagung didaktischer Netzarbeit und keine Behauptung, FSP-Lernende könnten keine Netze bearbeiten. Inhaltsfrage2034 über Eigenschaften und vorgegebene Seitenflächenbezüge wird getrennt fortgesetzt; Fachwortentscheidung2035 bleibt unverändert.",
+      "status": "kein direkter Anschluss",
+      "review": "MA-105"
     },
     {
       "gs_id": "page912_2034",
-      "scope": "Gesamter Anschlussentscheid2034 offen. Keine Kartenabdeckung für Netz-Zusammenhang, Anordnung und Zuordnung der Seitenflächen, Faltbarkeit, Vollständigkeit oder Beschreibung entsprechender Eigenschaften behauptet.2033 Herstellen/Zeichnen/Prüfen bleibt eine eigene offene Frage.",
+      "scope": "2034 bleibt offen, nun enger: Ein bereits gültiges Würfelnetz und die Zuordnung seiner Teilflächen zu den Seitenflächen des zugehörigen Würfels können Voraussetzungen sein. Zu prüfen ist dann, ob eine Beschreibung der quadratischen Teilflächen als begrenzte Netzeigenschaft einen belegten gemeinsamen Ausschnitt mit Wiedererkennen von Quadrat als Seitenbegrenzung35456 bildet. Nur einzelne Quadrate ohne erhaltenen Körper-Netz-Bezug reichen nicht. Die vorgegebene Zuordnung darf nicht zugleich als selbstständige FSP-Transferleistung behauptet werden. Alternative35568 setzt den Wahlbereich Einkaufsbummel und tatsächlichen Verpackungsvergleich voraus; ein einzelnes Netz ist noch kein Verpackungsvergleich. Würfel zunächst von allgemeinen Quadernetzen trennen; keine Kongruenz-, Zähl-, Faltbarkeits- oder Vollständigkeitsforderung automatisch ergänzen. Kein Kartenanschluss oder neuer Nichtanschluss2034 in MA-105 behauptet.",
       "status": "offen",
-      "review": "MA-101"
+      "review": "MA-105"
     },
     {
       "gs_id": "page912_2035",
@@ -5013,7 +4995,8 @@
     "page912_187452",
     "page912_2029",
     "page912_187176",
-    "page912_2035"
+    "page912_2035",
+    "page912_2033"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -5573,78 +5556,83 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-101",
-    "status": "verified",
-    "app_version_unchanged": "1.406",
-    "audit_commit": "353498f4d92c4ad5738aa9e9075c8306c0b5fac1",
-    "pages_run": 44775758080,
-    "app_unchanged": true,
-    "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
-    "note": "Audit-only; all101 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-100.",
+    "batch": "MA-105",
+    "status": "pending",
+    "app_version_unchanged": "1.409",
     "previous_audit_publication": {
-      "batch": "MA-099",
+      "batch": "MA-101",
       "status": "verified",
-      "app_version_unchanged": "1.405",
-      "audit_commit": "e73d3760e88c7317639d6557156ae8ca571575ae",
-      "pages_run": 44697849566,
+      "app_version_unchanged": "1.406",
+      "audit_commit": "353498f4d92c4ad5738aa9e9075c8306c0b5fac1",
+      "pages_run": 44775758080,
       "app_unchanged": true,
-      "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
-      "note": "Audit-only; all100 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-098.",
+      "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+      "note": "Audit-only; all101 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-100.",
       "previous_audit_publication": {
-        "batch": "MA-095",
+        "batch": "MA-099",
         "status": "verified",
-        "app_version_unchanged": "1.402",
-        "audit_commit": "471ce6d1e7bc2e71910b925d66ba2b127a4aaada",
-        "pages_run": 44656090518,
+        "app_version_unchanged": "1.405",
+        "audit_commit": "e73d3760e88c7317639d6557156ae8ca571575ae",
+        "pages_run": 44697849566,
         "app_unchanged": true,
-        "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-        "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
+        "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+        "note": "Audit-only; all100 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-098.",
         "previous_audit_publication": {
-          "batch": "MA-094",
+          "batch": "MA-095",
           "status": "verified",
           "app_version_unchanged": "1.402",
-          "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
-          "pages_run": 44630955851,
+          "audit_commit": "471ce6d1e7bc2e71910b925d66ba2b127a4aaada",
+          "pages_run": 44656090518,
           "app_unchanged": true,
           "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
           "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
           "previous_audit_publication": {
-            "batch": "MA-090",
+            "batch": "MA-094",
             "status": "verified",
-            "app_version_unchanged": "1.397",
+            "app_version_unchanged": "1.402",
+            "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
+            "pages_run": 44630955851,
+            "app_unchanged": true,
+            "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+            "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
             "previous_audit_publication": {
-              "batch": "MA-079",
+              "batch": "MA-090",
               "status": "verified",
-              "app_version_unchanged": "1.386",
+              "app_version_unchanged": "1.397",
               "previous_audit_publication": {
-                "batch": "MA-078",
+                "batch": "MA-079",
                 "status": "verified",
                 "app_version_unchanged": "1.386",
                 "previous_audit_publication": {
-                  "batch": "MA-075",
+                  "batch": "MA-078",
                   "status": "verified",
-                  "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-                  "pages_run": 44042551050,
-                  "app_unchanged": true,
-                  "app_version": "1.384",
-                  "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-                  "verified_at": "2026-11-17T07:57:40.479941+00:00"
+                  "app_version_unchanged": "1.386",
+                  "previous_audit_publication": {
+                    "batch": "MA-075",
+                    "status": "verified",
+                    "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
+                    "pages_run": 44042551050,
+                    "app_unchanged": true,
+                    "app_version": "1.384",
+                    "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
+                    "verified_at": "2026-11-17T07:57:40.479941+00:00"
+                  },
+                  "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
+                  "pages_run": 44069787528,
+                  "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
+                  "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
                 },
-                "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-                "pages_run": 44069787528,
+                "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
+                "pages_run": 44111252857,
                 "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
                 "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
               },
-              "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
-              "pages_run": 44111252857,
-              "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-              "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-            },
-            "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
-            "pages_run": 44567574178,
-            "app_unchanged": true,
-            "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
-            "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+              "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
+              "pages_run": 44567574178,
+              "app_unchanged": true,
+              "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
+              "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
+            }
           }
         }
       }
@@ -5986,6 +5974,39 @@
         "follow_up_evidence": "Übergreifende räumliche Sichtweisen35415 als Kontext hinzunehmen und prüfen, ob zusammen mit35454 ein bestimmter Ansichtserkennungsfall belegbar ist; keine vollständige Perspektivkompetenz ableiten."
       },
       "review_file": "review_batch_104.json"
+    },
+    {
+      "gs_id": "page912_2033",
+      "opened_in": "MA-100",
+      "resolved_in": "MA-105",
+      "status": "resolved_no_direct_connection",
+      "cards": [],
+      "scope": "2033 bleibt ohne direkte Kartenabdeckung: Herstellung, zeichnerische Darstellung und Netzprüfung sind für die geprüften FSP-Bänder nicht hinreichend belegt. Dies ist keine Untersagung didaktischer Netzarbeit und keine Behauptung, FSP-Lernende könnten keine Netze bearbeiten. Inhaltsfrage2034 über Eigenschaften und vorgegebene Seitenflächenbezüge wird getrennt fortgesetzt; Fachwortentscheidung2035 bleibt unverändert.",
+      "decision": "2033: kein hinreichend belegter direkter Anschluss für Herstellen, Zeichnen oder Prüfen eines vollständigen Würfel-/Quadernetzes in FSP1/2 oder3/4. Ein Netz verlangt eine zusammenhängende Anordnung der passenden Körperflächen, deren Zusammenhang mit dem geschlossenen Körper sowie bei der Prüfung Faltbarkeit und Vollständigkeit. Die geprüften FSP-Zeilen liefern hierzu keine ausreichend bestimmte Verknüpfung. Räumliches Bauen ist nicht bereits die Herstellung eines ebenen Netzes; das Zeichnen einzelner Rechtecke oder Quadrate nicht die Zeichnung ihrer netzgerechten Anordnung; Körpermerkmalsvergleich nicht die Prüfung der Faltbarkeit. Auch die Kombination allgemeiner Bau-, Figuren- und Verpackungsziele schließt diese Lücke für die drei Handlungen nicht. Ausschlaggebend ist die zusätzliche Inhalts-/Verfahrensbeziehung, nicht allein das fehlende Wort Netz, eine fehlende Karte oder ein kleinerer Zahlenraum.",
+      "previous_question": {
+        "gs_id": "page912_2033",
+        "scope": "Herstellen, Zeichnen und Prüfen von Würfel- und Quadernetzen",
+        "status": "offen",
+        "reason": "Würfel und Quader sind in FSP3/4 35456 belegt; Nachformen/Bauen35459 und Wiedererkennen von Rechteck/Quadrat als Seitenbegrenzung stehen im zugehörigen Ziel-/Bemerkungskontext. Das belegt nicht bereits Herstellen, Zeichnen und Prüfen eines vollständigen zusammenhängenden Netzes. FSP1/2-Falten37844 betrifft ebene Figuren. Offene Anschlussfrage: eng begrenzter Teilanschluss über Seitenflächen möglich, aber Netz-Zusammenhang, Faltbarkeit und Vollständigkeitskontrolle nicht automatisch mitgedeckt.",
+        "candidate_ids": [
+          "page139_35451",
+          "page139_35454",
+          "page139_35456",
+          "page139_35459",
+          "page139_35521",
+          "page139_35527",
+          "page139_37821",
+          "page139_37832",
+          "page139_37844",
+          "page139_37981",
+          "page139_38011",
+          "page139_38015"
+        ],
+        "review": "MA-100",
+        "follow_up_evidence": "35456/35459 und35527 gegen einen konkreten Seitenflächen-Netz-Ausschnitt prüfen; der operatorlose Block35456 bleibt ohne erfundene Lernzielebene. Falten37844 betrifft zunächst ebene Figuren; daraus keine allgemeine Netzprüfung ableiten.",
+        "follow_up_in_MA101": "Zusätzlich35568 (3/4 Wahlbereich1),37824/37827 sowie38004 und38009 (1/2 Wahlbereiche1/2) geprüft. Räumliches Bauen in1/2 ist positiv belegt, aber noch kein spezifischer Netzzusammenhang. Gitternetz35527 ist kein Körpernetz.2034 erhält eine getrennte Frage zum Beschreiben; diese Nachschärfung zählt2033 nicht erneut als Erstprüfung."
+      },
+      "review_file": "review_batch_105.json"
     }
   ],
   "learning_level_reviews": {

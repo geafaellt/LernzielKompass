@@ -187,3 +187,6 @@ Mathematik MA-103: begrenzter Kegel-Zylinder-Vergleich. Zwei Fragen mit Restumfa
 
 
 Mathematik MA-104: bekannte Pyramidenform bei verändertem Blickwinkel wiedererkennen; begrenzter Anschluss mit getrenntem übergreifendem Sichtwechselbeleg.104 Karten,26 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_104.json). App1.409: Datenprüfungen, gezielter lokaler/Live-Browserlauf und Lernzielebenenanzeige417 Karten/834 Seiten bestanden. Veröffentlicht mit ea082073e453203087e5012da729ea12c95d00b7; [Pages45011489623](https://github.com/geafaellt/LernzielKompass/actions/runs/45011489623) erfolgreich. Live-HTML bytegleich. Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.
+
+
+Mathematik MA-105: Netzherstellung/-zeichnung/-prüfung2033 als begründeter Nichtanschluss; Netzeigenschaften2034 bleiben separat offen.25 Anschlussfragen,104 Karten; App1.409 unverändert. [Prüfpaket](curriculum/mathematik/review_batch_105.json). Datenprüfungen und Bestandserhalt bestanden; Auditveröffentlichung ausstehend.
