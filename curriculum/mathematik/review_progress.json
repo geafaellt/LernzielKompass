@@ -3394,7 +3394,7 @@
     }
   },
   "next_id": "page912_187177",
-  "next_step": "GS3-Ornamente 187177–187180 einzeln gegen beide FSP-Bänder prüfen. 2034 ist nur für quadratische Würfelseitenflächen mit vorgegebener Netzzuordnung geklärt; weitergehender Rest bleibt offen. 105 Karten,24 Anschlussfragen,12 direkte Nichtanschlüsse,195 Inventurzeilen. App1.410: Lokale Prüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3-Ornamente 187177–187180 einzeln gegen beide FSP-Bänder prüfen. 2034 ist nur für quadratische Würfelseitenflächen mit vorgegebener Netzzuordnung geklärt; weitergehender Rest bleibt offen. 105 Karten,24 Anschlussfragen,12 direkte Nichtanschlüsse,195 Inventurzeilen. App1.410 auf main veröffentlicht; Pages erfolgreich, ausgelieferte App bytegleich und gezielte Browserprüfung sowie Lernzielebenenanzeige aller418 Karten lokal und live bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5457,8 +5457,19 @@
   },
   "latest_publication": {
     "batch": "MA-106",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.410",
+    "commit": "28343d285ad4a1915d71414ad3b4afdac26b3f7e",
+    "pages_run_id": 45041439907,
+    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45041439907",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html_sha256": "ab274399c4a0f1aeaf21cd56e5d25d87101cf8026500aef859d0cb000b3b81e4",
+    "live_html_byte_equal": true,
+    "checked_on": "2026-11-22",
+    "targeted_live_browser": "PASS MA-084,MA-104,MA-105; Quellen, Geltungsbereich Karte/Ziele/Output, Lehrkrafttexte, leere Aufgaben/Hilfsmittel und Mobil320/390.",
+    "learning_levels_live_browser": "PASS 418 Karten/836 Kartenseiten; amtliche Lernzielebenen und fehlende Ebenen transparent.",
+    "limits": "Daten- und Prüfregeländerungen, keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller105 Mathematikkarten. Semantische Bestandsprüfung bleibt fortlaufende Aufgabe.",
     "previous_publication": {
       "batch": "MA-104",
       "status": "verified",
@@ -5546,8 +5557,7 @@
           }
         }
       }
-    },
-    "local_tests": "passed"
+    }
   },
   "latest_audit_publication": {
     "batch": "MA-105",
