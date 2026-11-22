@@ -3368,7 +3368,7 @@
     }
   },
   "next_id": "page912_2033",
-  "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409: Tests, Veröffentlichung und Liveprüfung ausstehend. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409 veröffentlicht; Datenprüfungen, gezielter lokaler/Live-Browserlauf und Lernzielebenenanzeige aller417 Karten/834 Seiten bestanden. Pages erfolgreich und Live-HTML bytegleich. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5486,8 +5486,15 @@
   },
   "latest_publication": {
     "batch": "MA-104",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.409",
+    "commit": "ea082073e453203087e5012da729ea12c95d00b7",
+    "pages_run": 45011489623,
+    "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
+    "live_byte_identical": true,
+    "live_browser": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden.",
+    "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
+    "verified_on": "2026-11-22",
     "previous_publication": {
       "batch": "MA-103",
       "status": "verified_with_documented_test_limit",

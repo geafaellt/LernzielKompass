@@ -370,7 +370,7 @@
   "existing_card_review": "MA-083: Lagebeschreibung im Einkaufs-Wahlbereich, ausdrücklich kein allgemeiner Körperansichtenbeleg. MA-102/103 qualitative Formvergleiche mit domain_specific ohne erfundene Obergrenze, ohne Blickwechseldeckung; unverändert. Alle103 Bestandskarten und416 bisherigen Lernzielebenen-Einträge unverändert. Titel der vorhandenen Kontextquelle35415 um räumliche Sichtweisen erweitert; ID, URL, Status und bisherige Bezüge erhalten.",
   "limits": "Keine vollständige GS-Zieldeckung: beliebige oder mehrdeutige Ansichten, reine Grundflächenansichten, verdeckte Flächen, mentale Rekonstruktion/Rotation ohne erkennbare Formbeziehungen, andere Körperformen, Körpernetze und Zeichnen von Ansichten bleiben außerhalb.187175 ist nur mit diesem engen Wiedererkennungsausschnitt geklärt. GS Kennen und FSP Anwenden stammen aus2030 beziehungsweise35451; die Zielhandlung Erkennen und die Formulierung wechselnde Sichtweisen sind keine Ersatz-Lernzielebenen. Kein vollständiger Nachweis der beiden Hauptziele oder des gesamten übergreifenden FSP-Ziels.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_live",
     "checks": [
       {
         "script": "update-mathematik.py",
@@ -412,15 +412,24 @@
     "browser_local": "check-mathematik-live-ma-104.cjs: MA-084/103/104; mobile320/390, scope on card/goals/output, source links, goal adoption, blank tasks/aids, teacher draft preservation and subject isolation passed.",
     "learning_levels": "check-learning-levels.cjs:417 cards/834 sides passed; evidence/display check, not full new semantic review.",
     "preservation": "103 prior math cards and416 prior learning-level entries unchanged. Existing context source35415 title extended, ID/URL/kind retained. One question resolved, zero first reviews;191 audit rows and11 direct nonmatches unchanged.",
-    "limits": "No UI code change; no full104-card functional browser run. Live verification pending.",
-    "local_html_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f"
+    "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
+    "local_html_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
+    "browser_live": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.409"
+    "batch": "MA-104",
+    "status": "verified",
+    "app_version": "1.409",
+    "commit": "ea082073e453203087e5012da729ea12c95d00b7",
+    "pages_run": 45011489623,
+    "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
+    "live_byte_identical": true,
+    "live_browser": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden.",
+    "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
+    "verified_on": "2026-11-22"
   },
   "continuation": {
     "next_id": "page912_2033",
-    "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409: Tests, Veröffentlichung und Liveprüfung ausstehend. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "Netzfragen2033/2034 gemeinsam prüfen: Herstellung/Zeichnen/Prüfen getrennt von Eigenschaften und Körper-Seitenflächen-Bezug. MA-104 klärt187175 nur im engen qualitativen Wiedererkennungsfall; kein neuer Erstprüfungszählpunkt.104 Karten,26 Anschlussfragen. App1.409 veröffentlicht; Datenprüfungen, gezielter lokaler/Live-Browserlauf und Lernzielebenenanzeige aller417 Karten/834 Seiten bestanden. Pages erfolgreich und Live-HTML bytegleich. Fehlende Live-Lernzielebenenprüfung der App1.408 nachgeholt und bestanden. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }
