@@ -3446,7 +3446,7 @@
     }
   },
   "next_id": "page912_187180",
-  "next_step": "GS3-Ornament-Fachwörter187180 einzeln prüfen; danach die offene Teilfrage Schiebe-/Drehsymmetrie187179 gezielt klären. MA-107 hat187178 und187179 erstmals geprüft und nur ein eigenes Bandornament mit Längsspiegelachse aufMA-106 zugeordnet.106 Karten,25 Anschlussfragen,12 direkte Nichtanschlüsse,195 Inventurzeilen. App1.411: Lokale Prüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3-Ornament-Fachwörter187180 einzeln prüfen; danach die offene Teilfrage Schiebe-/Drehsymmetrie187179 gezielt klären. MA-107 hat187178 und187179 erstmals geprüft und nur ein eigenes Bandornament mit Längsspiegelachse aufMA-106 zugeordnet.106 Karten,25 Anschlussfragen,12 direkte Nichtanschlüsse,195 Inventurzeilen. App1.411 auf main veröffentlicht; Pages erfolgreich, ausgelieferte App bytegleich und gezielter Browserlauf sowie Lernzielebenenanzeige aller419 Karten lokal und live bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5540,8 +5540,19 @@
   },
   "latest_publication": {
     "batch": "MA-107",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.411",
+    "commit": "8a8993f895f68ccae6bfae03dbf1a593acd549af",
+    "pages_run_id": 45042409919,
+    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45042409919",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html_sha256": "fb9d666eff7d0b35035790fecab7d5ffe9265ed89e5ca27fd69129bfc02a7f5d",
+    "live_html_byte_equal": true,
+    "checked_on": "2026-11-22",
+    "targeted_live_browser": "PASS MA-099,MA-105,MA-106; Quellen, Geltungsbereich Karte/Ziele/Output, Feinzielübernahme, Lehrkrafttexte, leere Aufgaben/Hilfsmittel und Mobil320/390.",
+    "learning_levels_live_browser": "PASS 419 Karten/838 Kartenseiten; amtliche Lernzielebenen, fehlende Ebenen, Ausschluss von Zielhandlungen und Fachwechsel.",
+    "limits": "Keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller106 Mathematikkarten. Semantische Bestandsprüfung bleibt fortlaufende Aufgabe.",
     "previous_publication": {
       "batch": "MA-106",
       "status": "verified",
@@ -5645,8 +5656,7 @@
           }
         }
       }
-    },
-    "local_tests": "passed"
+    }
   },
   "latest_audit_publication": {
     "batch": "MA-105",
