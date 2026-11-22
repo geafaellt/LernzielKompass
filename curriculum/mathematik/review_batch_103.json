@@ -422,7 +422,7 @@
   "existing_card_review": "MA-102 bleibt qualitativer Pyramiden-Quader-Vergleich mit Kennen/Anwenden und domain_specific ohne Zahlenobergrenze; die ebene Pyramiden-Seitenfläche wird nicht zum gekrümmten Kegelmantel. MA-084 bleibt operatorloser Würfelturm-Bauplan unter35456 mit noch festzulegendem Zahlenbereich. Kein neuer Körperherstellungsbeleg. Alle102 Bestandskarten und415 bestehenden Lernzielebenen-Einträge unverändert. Keine vollständige semantische Bestandsprüfung behauptet.",
   "limits": "Keine vollständige GS-Zieldeckung: andere Kegel-/Zylinderformen, Darstellen und Herstellen, vollständige Merkmalslisten, Erkennen aus wechselnden Blickwinkeln, Körpernetze, Maße, Formeln und Flächen-/Volumenberechnungen bleiben offen. Die Anschlussfragen187172/187173 sind nur für den qualitativen Formvergleich geklärt. Kennen2030 und Anwenden35451 sind unterschiedliche amtliche Lernzielebenen; der Ausschnitt weist keines der beiden Hauptziele vollständig nach. Die Fachwörter Kegel, Zylinder und Spitze werden für GS verwendet, aber nicht als zusätzliche verbindliche FSP-Wortanforderung bewertet. Die separate Fachwortentscheidung187176 bleibt unverändert. Keine Aufgaben, Lernhandlungen oder Hilfsmittel vorgeschlagen.",
   "tests": {
-    "status": "passed_local",
+    "status": "passed_local_and_targeted_live",
     "checks": [
       {
         "script": "update-mathematik.py",
@@ -464,16 +464,25 @@
     "browser_local": "check-mathematik-live-ma-103.cjs passed: MA-084/102/103, mobile MA-103320/390; scope on card/goals/output, source links, goal adoption, blank task/aid fields, teacher drafts and subject isolation.",
     "learning_levels": "check-learning-levels.cjs passed:416 cards/832 sides; display and evidence structure, not a new semantic review of all cards.",
     "preservation": "All102 prior math cards,261 prior sources,415 prior level entries unchanged.191 inventory rows; two questions resolved with full provenance; no first reviews;11 nonmatch decisions unchanged.",
-    "initial_failures": "Initial browser timeouts on navigation. Subsequent run found320px overflow in concatenated GS source labels; fixed using spaces and commas in new card only. Targeted full rerun then passed. One diagnostic launch not executed due to approval-review transport failure; later approved diagnostic succeeded.",
-    "limits": "No UI code change; no full103-card functional browser run. Live verification pending.",
-    "local_html_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e"
+    "initial_failures": "Initial browser timeouts on navigation. Subsequent run found320px overflow in concatenated GS source labels; fixed using spaces and commas in new card only. Targeted full rerun then passed. One diagnostic launch not executed due to approval-review transport failure; later approved diagnostic succeeded. Live: erster Seitenabruf Zeitlimit, Wiederholung bestanden; zusätzliche Lernzielebenen-Liveprüfung zunächst Freigabe-Verbindungsfehler, danach Browserstart-Zeitlimit/EGL. Kein Live-Gesamterfolg behauptet.",
+    "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+    "local_html_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
+    "browser_live": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.408"
+    "batch": "MA-103",
+    "status": "verified_with_documented_test_limit",
+    "app_version": "1.408",
+    "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
+    "pages_run": 44950269901,
+    "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
+    "live_byte_identical": true,
+    "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
+    "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+    "verified_on": "2026-11-22"
   },
   "continuation": {
     "next_id": "page912_187175",
-    "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408: Datenprüfungen, gezielter Browserlauf und Lernzielebenenprüfung bestanden. Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt."
+    "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408 veröffentlicht; Datenprüfungen, lokale Lernzielebenenprüfung und gezielter lokaler/Live-Browserlauf bestanden. Pages erfolgreich und Live-HTML bytegleich. Zusätzlicher Lernzielebenen-Live-Gesamtlauf wegen Browserstartfehler unvollständig; beim nächsten Lauf nachholen. Deutsch-Abschluss DE-UZ-052 bewahrt."
   }
 }

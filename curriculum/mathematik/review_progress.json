@@ -3355,7 +3355,7 @@
     }
   },
   "next_id": "page912_187175",
-  "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408: Datenprüfungen, gezielter Browserlauf und Lernzielebenenprüfung bestanden. Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahrt.",
+  "next_step": "Blickwinkel187175, danach Netzfragen2033/2034 prüfen. MA-103 klärt187172/187173 nur im qualitativen Kegel-Zylinder-Vergleich;187170/187174 erhalten eine zweite Kartenreferenz ohne erneute Frage-/Erstzählung. Weitergehende Körperhandlungen und Eigenschaften bleiben Restumfang.103 Karten,27 offene Anschlussfragen. App1.408 veröffentlicht; Datenprüfungen, lokale Lernzielebenenprüfung und gezielter lokaler/Live-Browserlauf bestanden. Pages erfolgreich und Live-HTML bytegleich. Zusätzlicher Lernzielebenen-Live-Gesamtlauf wegen Browserstartfehler unvollständig; beim nächsten Lauf nachholen. Deutsch-Abschluss DE-UZ-052 bewahrt.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5495,8 +5495,15 @@
   },
   "latest_publication": {
     "batch": "MA-103",
-    "status": "pending",
+    "status": "verified_with_documented_test_limit",
     "app_version": "1.408",
+    "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
+    "pages_run": 44950269901,
+    "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
+    "live_byte_identical": true,
+    "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
+    "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+    "verified_on": "2026-11-22",
     "previous_publication": {
       "batch": "MA-102",
       "status": "verified",
