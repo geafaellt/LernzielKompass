@@ -3446,7 +3446,7 @@
     }
   },
   "next_id": "page912_187179",
-  "next_step": "Drehsymmetrie-Teil von 187179 prüfen: festes Zentrum und gemeinsame Drehbeziehung. Achsensymmetrie MA-106 und gleiche Verschiebung im eigenen Bandmuster MA-107 nur begrenzt zugeordnet; 187180 bleibt getrennt als direkter Fachwortanschluss verneint. Keine erneute Erstzählung dieser Zeilen. 107 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. App1.412: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "Drehsymmetrie-Teil von 187179 prüfen: festes Zentrum und gemeinsame Drehbeziehung. Achsensymmetrie MA-106 und gleiche Verschiebung im eigenen Bandmuster MA-107 nur begrenzt zugeordnet; 187180 bleibt getrennt als direkter Fachwortanschluss verneint. Keine erneute Erstzählung dieser Zeilen. 107 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. App1.412: Datenprüfungen sowie lokale und Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5552,8 +5552,19 @@
   },
   "latest_publication": {
     "batch": "MA-109",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.412",
+    "commit": "8bd7fe5cd4d01437c27f91b9fccdb41b5b7a4d0e",
+    "pages_run_id": 45142667257,
+    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45142667257",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html_sha256": "8dcebb996475cd3961ba87fbbd71235a7fabefe01d44f97c98408a69e6ab2654",
+    "live_html_byte_equal": true,
+    "checked_on": "2026-11-23",
+    "targeted_live_browser": "PASS MA-105,MA-106,MA-107: Quellen, Geltungsbereich Karte/Ziele/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, erhaltene Lehrkrafttexte und Mobil320/390.",
+    "learning_levels_live_browser": "PASS420 Karten/840 Kartenseiten: amtliche Lernzielebenenbelege, fehlende Ebenen, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "limits": "Keine neue vollständige semantische Prüfung aller Bestandskarten; kein vollständiger Funktionslauf aller107 Mathematikkarten. Quellen- und Prüfgrenzen im Prüfpaket.",
     "previous_publication": {
       "batch": "MA-107",
       "status": "verified",
