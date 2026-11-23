@@ -1,0 +1,274 @@
+{
+  "id": "MA-111",
+  "date": "2026-11-23",
+  "base_commit": "41cd08af4bc883d9af1891e2d1b04b025199de6e",
+  "scope": "GS3 Zahlen in der Umwelt2038: Anzahl/Position und numerische Kennzeichnung getrennt",
+  "source_verification": {
+    "html": "Beide amtlichen Onlinepläne geöffnet; GS2037/2038,FSP35461/35463 und37931/37959 gelesen und mit gespeicherten HTML-Zeilen vom22.11 abgeglichen. FSP-Webansicht drei Tage alter Crawl; kein neuer vollständiger HTML-Download behauptet.",
+    "pdf": "Bestands-PDFs textuell gelesen: GS S.21/PDF31;FSP S.19/PDF31,S.13/PDF25,S.17/PDF29 und Definition Beherrschen in beiden Plänen S.V/PDF5. Kein neuer PDF-Download oder Render."
+  },
+  "source_sha256": {
+    "gs": "d18d132ee3cb465ce3baca6872ac5b4d9b110db9d56af918445f7677f6354ca3",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_2037": {
+      "id": "page912_2037",
+      "level": 1,
+      "parent_target_id": "page912_2037",
+      "target": "Beherrschen von Zahldarstellungen im Zahlenraum bis 1 000",
+      "remarks": "Zahlverständnis Menge, Wort, Symbol",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2037"
+    },
+    "page912_2038": {
+      "id": "page912_2038",
+      "level": 2,
+      "parent_target_id": "page912_2037",
+      "target": "Erkennen von Zahlen in der Umwelt in ihrer Bedeutungsvielfalt",
+      "remarks": "Lebensweltbezug",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2038"
+    },
+    "page912_2040": {
+      "id": "page912_2040",
+      "level": 3,
+      "parent_target_id": "page912_2037",
+      "target": "Lesen und Sprechen von Zahlen und Zahlwörtern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2040"
+    },
+    "page912_2041": {
+      "id": "page912_2041",
+      "level": 3,
+      "parent_target_id": "page912_2037",
+      "target": "Schreiben von Zahlen und Zahlwörtern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2041"
+    },
+    "page912_2044": {
+      "id": "page912_2044",
+      "level": 2,
+      "parent_target_id": "page912_2037",
+      "target": "Vernetzen von Darstellungen",
+      "remarks": "flexibles Wechseln zwischen Handlung, Bild, Sprache, Symbol und Sachsituation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2044"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken von Strukturelementen im Zahlenaufbau",
+      "remarks": "Bündelung, Hunderterfeld, -tafel dekadisches Positionssystem, Stellentafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937"
+    },
+    "page139_37941": {
+      "id": "page139_37941",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zuordnen von Zahlwort und Zahl zu Mengen",
+      "remarks": "Gliedern, Ordnen Differenzierung: unterschiedliche räumliche Anordnung der Zählobjekte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941"
+    },
+    "page139_37959": {
+      "id": "page139_37959",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Herausfinden, Veranschaulichen, Darstellen und Deuten von Daten in der Umwelt",
+      "remarks": "Uhr, Kalender, Straßenbahn- und Buslinien, Würfel, Farbkasten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37959"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_2038",
+      "first_review": true,
+      "status": "limited_connection",
+      "cards": [
+        "MA-109",
+        "MA-110"
+      ],
+      "aspects": [
+        {
+          "card": "MA-109",
+          "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die Bedeutung einer natürlichen Zahl als Anzahl oder Position in einem vertrauten Alltagszusammenhang erkennen und passend zuordnen. GS 2038 steht unter Beherrschen von Zahldarstellungen bis 1 000 (2037). FSP 35463 nennt Entdecken,Vergleichen,Ordnen von Mengen und Zahlen unter Beherrschen bis 100 (35461); Zuordnung zwischen Mengen und Zahlen sowie kardinaler und ordinaler Zahlaspekt stehen in der Bemerkung. Die Alltagseinbettung ist im Hauptziel und seiner Bemerkung belegt. Die beiden Zahlbedeutungen sind ein didaktisch ausgewählter Ausschnitt, keine vollständige Bedeutungsvielfalt.",
+          "prerequisites": "Ein vertrauter Kontext muss erkennen lassen, welche Menge beziehungsweise welche geordnete Folge gemeint ist. Bei Positionsangaben müssen Ordnung und Anfang feststehen; die Position darf nicht mit der Gesamtanzahl gleichgesetzt werden. Die bloße Ziffernfolge ohne Bezug genügt nicht. Schriftliche Zahlwörter, Maßeinheiten, Rechnen mit Angaben und beliebige neue Kennzeichnungssysteme werden nicht vorausgesetzt.",
+          "remaining_scope": "Keine vollständige GS-Zieldeckung: Anzahl und Position nur im gewählten Alltagsbezug; FSP bis 100 gegenüber GS bis 1 000. Maßzahlen, Geld-/Zeit-/Datumsangaben, Rechenaspekte und die ganze Bedeutungsvielfalt sind nicht abgedeckt. Kennzahlen werden getrennt auf MA-110 behandelt. Lesen/Sprechen/Schreiben als eigene Unterzielanforderungen2040/2041 und Darstellungsvernetzung2044 bleiben gesondert offen. Gleiche Lernzielebene Beherrschen bedeutet keine Gleichheit von Umfang und Anforderungen."
+        },
+        {
+          "card": "MA-110",
+          "decision": "Stufenübergreifender Teilanschluss GS 3 → FSP 1/2: eine vertraute numerische Kennzeichnung als Bezeichnung ihres Bezugs deuten, ohne sie als Anzahl oder Größenwert zu behandeln. GS 2038 umfasst die Bedeutungsvielfalt von Umweltzahlen unter Beherrschen2037. FSP 37959 nennt das Deuten von Daten in der Umwelt unter Beherrschen37931; Straßenbahn- und Buslinien stehen ausdrücklich in der Bemerkung und belegen eine Kennzeichnungsfunktion. Das ist eine begrenzte didaktische Auswahl, keine allgemeine Kodierungskompetenz. Die Lernzielebene stammt vom tatsächlichen Hauptziel37931; Deuten ist die konkrete Handlung.",
+          "prerequisites": "Das konkrete Kennzeichnungssystem und sein Bezug müssen vertraut und eindeutig sein. Betrachtet werden einfache rein numerische Kennzeichnungen in gewöhnlicher Ziffernschreibweise. Eine Kennzeichnung identifiziert innerhalb ihres Systems einen Bezug; eine größere Kennzahl bedeutet nicht mehr Gegenstände,größere Menge oder höhere Position. Dieselbe Kennzahl in einem anderen System kann einen anderen Bezug haben. Alphanumerische Codes,führende Nullen,Prüfziffern und besondere Notationsregeln bleiben außerhalb dieser didaktischen Auswahl.",
+          "remaining_scope": "Keine vollständige GS-Zieldeckung: nur die Kennzeichnungsfunktion im vertrauten System. GS2037 hat den Rahmen bis 1 000; die FSP-Zielzeile37959 nennt keine Zahlenobergrenze für Kennzeichnungen. Daraus folgt weder eine unbegrenzte FSP-Zahlkompetenz noch eine Rechenanforderung bis 1 000. Mengen-/Positionsbedeutungen werden aufMA-109 getrennt geprüft. Maßeinheiten,Geld,Zeit,Datum,Operationen und unbekannte Codes sind nicht abgedeckt;2040/2041/2044 bleiben gesondert offen."
+        }
+      ],
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "remaining_scope": "2038 nur für Anzahl/Position aufMA-109 und vertraute numerische Kennzeichnungen aufMA-110 begrenzt geprüft. GS bis1000, FSP3/4-Anzahlen/Positionen bis100 ausdrücklich; FSP1/2-Kennzeichnungszeile ohne belegte Obergrenze, keine erfundene20-Grenze. Maßzahlen,Geld-/Zeit-/Datumsangaben,Operationsaspekte und weitere Kontexte bleiben als Restumfang offen; vorhandene Größenkarten sind keine pauschale Deckung dieser Bedeutungszeile. Lesen/Sprechen/Schreiben2040/2041 und Darstellungsvernetzung2044 gesondert prüfen. Kein vollständiger Hauptzielnachweis."
+    }
+  ],
+  "context_only": [
+    "page912_2037"
+  ],
+  "not_yet_reviewed": [
+    "page912_2040",
+    "page912_2041",
+    "page912_2044"
+  ],
+  "band_selection": "Beide Bänder geprüft. Für kardinalen/ordinalen Alltagsbezug stufenpassend35461/35463 bevorzugt; FSP1/2-Zahlbegriffsbildung37937 und Zuordnung37941 sind positive verwandte Kandidaten, nicht wegen kleinerer Zahlenräume ausgeschlossen. Für Kennzeichnung ist37959 mit Straßenbahn-/Buslinien-Bemerkung konkreter als die3/4-Beispiele in35461; deshalb gesondert stufenübergreifend. Seitenzahlen sind im gewählten3/4-Ausschnitt Positionsangaben,keine beliebigen Identifikationscodes. Es wird nicht behauptet,dass FSP3/4 keine Kennzeichnungen behandeln dürfe.35466 Zählen und35468 Zahlaufbau allein belegen keine gesamte Bedeutungsvielfalt.",
+  "learning_level_review": "Beide Seiten Beherrschen aus2037 und35461 beziehungsweise37931. Zielhandlungen nicht als Lernzielebenen verwenden; gleicher Ebenenbegriff bedeutet keine gleiche Zieldeckung.",
+  "number_scope_review": {
+    "MA-109": {
+      "status": "explicit",
+      "summary": "Ausdrücklich belegt: Anzahlen und Positionen bis 100",
+      "detail": "FSP 35461 nennt bis 100 direkt im ausgewählten Hauptziel;35463 konkretisiert Mengen-/Zahlzuordnung und kardinalen/ordinalen Aspekt in der Bemerkung. Die Grenze wird nicht aus dem übergreifenden Bandziel abgeleitet. GS 2037 nennt bis 1 000; die vollständige GS-Zieldeckung fehlt.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35461"
+      ],
+      "planning_rule": "Ein vertrauter Kontext muss erkennen lassen, welche Menge beziehungsweise welche geordnete Folge gemeint ist. Bei Positionsangaben müssen Ordnung und Anfang feststehen; die Position darf nicht mit der Gesamtanzahl gleichgesetzt werden. Die bloße Ziffernfolge ohne Bezug genügt nicht. Schriftliche Zahlwörter, Maßeinheiten, Rechnen mit Angaben und beliebige neue Kennzeichnungssysteme werden nicht vorausgesetzt. Alle für das FSP-Feinziel relevanten Zahlen,Anzahlen und Positionswerte bleiben bis 100, einschließlich etwaiger Zwischen- und Endergebnisse. Die hinterlegte Konkretisierung verlangt keine Rechnung. Keine Maßeinheiten oder Dezimalschreibweisen ungeprüft ergänzen; dafür gelten eigene Inhalts- und Quellenprüfungen. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+    },
+    "MA-110": {
+      "status": "domain_specific",
+      "summary": "Fachspezifisch: numerische Kennzeichnung; keine FSP-Zeilenobergrenze belegt",
+      "detail": "FSP37959 nennt Daten in der Umwelt, mit Straßenbahn-/Buslinien in der Bemerkung, aber keine obere Kennzahl. Eine Kennzahl bezeichnet einen Bezug und ist hier keine Anzahl oder Rechenzahl. Die übergreifende20-Grenze für Zahlverständnis/Operationen wird nicht als Kennzahlgrenze erfunden. GS2037 nennt bis 1 000; das ist keine FSP-Grenze und keine vollständige GS-Zieldeckung.",
+      "max_value": null,
+      "source_ids": [
+        "Q-MA-page139_37959"
+      ],
+      "planning_rule": "Das konkrete Kennzeichnungssystem und sein Bezug müssen vertraut und eindeutig sein. Betrachtet werden einfache rein numerische Kennzeichnungen in gewöhnlicher Ziffernschreibweise. Eine Kennzeichnung identifiziert innerhalb ihres Systems einen Bezug; eine größere Kennzahl bedeutet nicht mehr Gegenstände,größere Menge oder höhere Position. Dieselbe Kennzahl in einem anderen System kann einen anderen Bezug haben. Alphanumerische Codes,führende Nullen,Prüfziffern und besondere Notationsregeln bleiben außerhalb dieser didaktischen Auswahl. Vor der Planung das konkrete Kennzeichnungssystem und die verständlichen Zeichen festlegen. Keine unbelegte FSP-Obergrenze ergänzen und aus dem Erkennen einer Kennzahl keine Rechenkompetenz ableiten. Keine numerischen Berechnungen oder Zwischen-/Endergebnisse Bestandteil dieses Feinziels. Bei Erweiterungen zu Mengen,Operationen oder Größen ist der passende belegte beziehungsweise ausdrücklich abgeleitete Zahlenraum einschließlich Zwischen- und Endergebnissen gesondert erforderlich; Einheiten und Schreibweisen getrennt behandeln. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+    },
+    "distinction": "100 ausdrücklich aus gewähltem Hauptziel35461; keine Ableitung aus Bandziel35415. Kennzeichnungen37959 sind fachspezifisch ohne numerische Obergrenze,keine Übertragung der20-Grenze oder Erfindung unbegrenzter FSP-Zahlkompetenz."
+  },
+  "new_cards": [
+    "MA-109",
+    "MA-110"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 1,
+    "new_cards": 2,
+    "cards_total": 110,
+    "same_band": 81,
+    "cross_band": 29,
+    "open_questions_total": 24,
+    "no_direct_connections_total": 13,
+    "inventory_rows": 200,
+    "new_inventory_rows": 0,
+    "source_links": 272,
+    "target_anchors": 270
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_2037",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "1",
+      "Ziel": "Beherrschen von Zahldarstellungen im Zahlenraum bis 1 000",
+      "Karten": "",
+      "Prüfstatus": "MA-110: offen; nur inventarisiert, keine fachliche Einzelprüfung oder Anschlussentscheidung."
+    },
+    {
+      "Ziel-ID": "page912_2038",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "2",
+      "Ziel": "Erkennen von Zahlen in der Umwelt in ihrer Bedeutungsvielfalt",
+      "Karten": "",
+      "Prüfstatus": "MA-110: offen; nur inventarisiert, keine fachliche Einzelprüfung oder Anschlussentscheidung."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-012",
+    "MA-013",
+    "MA-016"
+  ],
+  "existing_card_review": "MA-012 bleibt Lesen/Schreiben von Ziffernzahlen GS1/2→FSP3/4 bis100,kein Vollbeleg für die neue Bedeutungszeile. MA-013 bleibt kontextgebundene Umweltdatenbedeutung GS1/2→FSP1/2; ihre fachspezifische Grenze ist kein allgemeiner Rechenraum. MA-016 bleibt Schrittzählen GS3 bis1000/FSP3/4 bis100. NeueKarten präzisieren andereGS-Zeile und Bedeutungsaspekte. Alle108 Bestandskarten und421 Ebeneneinträge unverändert; keine vollständige neue semantische Bestandsprüfung.",
+  "limits": "2038 nur für Anzahl/Position aufMA-109 und vertraute numerische Kennzeichnungen aufMA-110 begrenzt geprüft. GS bis1000, FSP3/4-Anzahlen/Positionen bis100 ausdrücklich; FSP1/2-Kennzeichnungszeile ohne belegte Obergrenze, keine erfundene20-Grenze. Maßzahlen,Geld-/Zeit-/Datumsangaben,Operationsaspekte und weitere Kontexte bleiben als Restumfang offen; vorhandene Größenkarten sind keine pauschale Deckung dieser Bedeutungszeile. Lesen/Sprechen/Schreiben2040/2041 und Darstellungsvernetzung2044 gesondert prüfen. Kein vollständiger Hauptzielnachweis.",
+  "tests": {
+    "status": "passed_local",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "out": "",
+        "err": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "out": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "err": ""
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "out": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-23\n",
+        "err": ""
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "out": "PASS: 110 mathematics cards, 272 source links (270 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "err": ""
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "out": "PASS: 110 mathematics cards, 272 source links (270 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n",
+        "err": ""
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "out": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "err": ""
+      }
+    },
+    "targeted_browser": "PASS MA-013,MA-109,MA-110: Quellen,Zahlenraumhinweise,Geltungsbereich Karte/Ziele/Output,Feinzielübernahme,leere Aufgaben/Hilfsmittel,Lehrkrafttexte,Fachwechsel und Mobil320/390.",
+    "learning_levels_browser": "PASS423 Karten/846 Kartenseiten: amtliche Ebenenbelege,Ausschluss von Zielhandlungen,Quellenvererbung und Fachwechsel.",
+    "preservation": "108 Bestandskarten,270 Bestandsquellen,421 bisherige Ebeneneinträge und sämtliche Deutschdateien unverändert.200 Auditquellzeilen erhalten,nur Status/Kartenreferenz2037/2038 verändert.24 offene Fragen unverändert. index.html/dist/index.html bytegleich.",
+    "limits": "Keine UI-Codeänderung,kein neuer vollständiger check-mathematik-browser.cjs-Funktionslauf;gezielter Funktionslauf plus vollständige Lernzielebenenanzeige. Keine vollständige neue semantische Bestandsprüfung."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.414"
+  },
+  "continuation": {
+    "next_id": "page912_2040",
+    "next_step": "GS3 Lesen und Sprechen von Zahlen und Zahlwörtern2040, danach Schreiben2041 und Darstellungsvernetzung2044 unter Beherrschen2037 prüfen.2038 erstmals nur für Anzahl/Position(MA-109,FSP3/4 bis100) und Kennzeichnung(MA-110,FSP1/2 ohne belegte Kennzahlobergrenze) begrenzt geprüft. Weitergehende Bedeutungen als Restumfang erhalten.110 Karten,24 Anschlussfragen,13 direkte Nichtanschlüsse,200 Inventurzeilen. App1.414: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

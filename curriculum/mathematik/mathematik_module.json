@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-23.2",
+  "version": "MA-2026-11-23.3",
   "checked_on": "2026-11-23",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1730,6 +1730,18 @@
       "title": "FSP Mathematik 3/4 · Lernbereich 4: Wünsche, Träume, Fantasie",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_2037",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2037",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2038",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2038",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -10446,6 +10458,156 @@
         "fsp_remark_anchors": [
           "page139_35535"
         ]
+      }
+    },
+    {
+      "id": "MA-109",
+      "subject": "Mathematik",
+      "theme": "Anzahl und Position in Alltagsangaben · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl. 3 · Zahl und Operation · Bedeutung von Umweltzahlen2038 unter Beherrschen2037 bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Die Welt um mich herum · Mengen und Zahlen35463 unter Beherrschen35461 bis 100; kardinaler und ordinaler Aspekt in Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Lernzielebenen: GS Beherrschen · FSP Beherrschen. Erkennen,Entdecken,Vergleichen und Ordnen sind konkrete Zielhandlungen. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die Bedeutung einer natürlichen Zahl als Anzahl oder Position in einem vertrauten Alltagszusammenhang erkennen und passend zuordnen. GS 2038 steht unter Beherrschen von Zahldarstellungen bis 1 000 (2037). FSP 35463 nennt Entdecken,Vergleichen,Ordnen von Mengen und Zahlen unter Beherrschen bis 100 (35461); Zuordnung zwischen Mengen und Zahlen sowie kardinaler und ordinaler Zahlaspekt stehen in der Bemerkung. Die Alltagseinbettung ist im Hauptziel und seiner Bemerkung belegt. Die beiden Zahlbedeutungen sind ein didaktisch ausgewählter Ausschnitt, keine vollständige Bedeutungsvielfalt. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der reduzierte FSP-Zahlenraum erlaubt den belegten inhaltlichen Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab. Keine vollständige GS-Zieldeckung: Anzahl und Position nur im gewählten Alltagsbezug; FSP bis 100 gegenüber GS bis 1 000. Maßzahlen, Geld-/Zeit-/Datumsangaben, Rechenaspekte und die ganze Bedeutungsvielfalt sind nicht abgedeckt. Kennzahlen werden getrennt auf MA-110 behandelt. Lesen/Sprechen/Schreiben als eigene Unterzielanforderungen2040/2041 und Darstellungsvernetzung2044 bleiben gesondert offen. Gleiche Lernzielebene Beherrschen bedeutet keine Gleichheit von Umfang und Anforderungen.",
+      "gs_target_ids": [
+        "page912_2037",
+        "page912_2038"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2037",
+        "Q-MA-page912_2038",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die Bedeutung einer natürlichen Zahl als Anzahl oder Position in einem vertrauten Alltagszusammenhang erkennen und passend zuordnen. GS 2038 steht unter Beherrschen von Zahldarstellungen bis 1 000 (2037). FSP 35463 nennt Entdecken,Vergleichen,Ordnen von Mengen und Zahlen unter Beherrschen bis 100 (35461); Zuordnung zwischen Mengen und Zahlen sowie kardinaler und ordinaler Zahlaspekt stehen in der Bemerkung. Die Alltagseinbettung ist im Hauptziel und seiner Bemerkung belegt. Die beiden Zahlbedeutungen sind ein didaktisch ausgewählter Ausschnitt, keine vollständige Bedeutungsvielfalt. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der reduzierte FSP-Zahlenraum erlaubt den belegten inhaltlichen Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab. Ein vertrauter Kontext muss erkennen lassen, welche Menge beziehungsweise welche geordnete Folge gemeint ist. Bei Positionsangaben müssen Ordnung und Anfang feststehen; die Position darf nicht mit der Gesamtanzahl gleichgesetzt werden. Die bloße Ziffernfolge ohne Bezug genügt nicht. Schriftliche Zahlwörter, Maßeinheiten, Rechnen mit Angaben und beliebige neue Kennzeichnungssysteme werden nicht vorausgesetzt. Keine vollständige GS-Zieldeckung: Anzahl und Position nur im gewählten Alltagsbezug; FSP bis 100 gegenüber GS bis 1 000. Maßzahlen, Geld-/Zeit-/Datumsangaben, Rechenaspekte und die ganze Bedeutungsvielfalt sind nicht abgedeckt. Kennzahlen werden getrennt auf MA-110 behandelt. Lesen/Sprechen/Schreiben als eigene Unterzielanforderungen2040/2041 und Darstellungsvernetzung2044 bleiben gesondert offen. Gleiche Lernzielebene Beherrschen bedeutet keine Gleichheit von Umfang und Anforderungen.",
+      "shared_object_suggestion": "Die Bedeutung einer Zahl als Anzahl einer Menge oder als Position in einer geordneten Folge im Alltag.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt sicher, ob eine natürliche Zahl bis 1 000 im vertrauten Alltagszusammenhang eine Anzahl oder eine Position angibt, und ordnet sie dem passenden Bezug zu.",
+          "criterion": "Die Bedeutung und die Zuordnung zur gemeinten Menge oder festgelegten geordneten Folge stimmen; eine Position wird nicht mit der Gesamtanzahl gleichgesetzt. Alle verwendeten Zahlwerte und Anzahlen bleiben bis 1 000.",
+          "status": "Didaktischer Ausschnitt von2038 unter Beherrschen2037; keine vollständige Bedeutungsvielfalt."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind ordnet eine natürliche Zahl bis 100 im vertrauten Alltagszusammenhang sicher der gemeinten Anzahl oder Position zu.",
+          "criterion": "Zahl und gemeinte Menge beziehungsweise Position in der festgelegten Folge passen zusammen; Positionswert und Gesamtanzahl werden nicht verwechselt. Alle relevanten Zahlen,Anzahlen,Positionswerte sowie etwaige Zwischen- und Endergebnisse bleiben bis 100.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung aus35463 mit kardinalem/ordinalem Aspekt in der Bemerkung unter Beherrschen35461; kein zusätzlich vorgeschriebener Fachwortgebrauch."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2037",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der reduzierte FSP-Zahlenraum erlaubt den belegten inhaltlichen Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "2037 Hauptziel und Zahlenraum nur Kontext;2038 verbindliches Unterziel, hier Anzahl-/Positionsbedeutung ausgewählt.",
+        "fsp": "35461 Hauptziel mit ausdrücklicher Grenze100 und Alltagsbezug;35463 Unterziel. Mengen-/Zahlzuordnung und kardinaler/ordinaler Aspekt sind Bemerkung, keine eigenständigen Lernzielebenen.",
+        "context_only_gs_ids": [
+          "page912_2037"
+        ],
+        "fsp_remark_anchor": "page139_35463"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Anzahlen und Positionen bis 100",
+        "detail": "FSP 35461 nennt bis 100 direkt im ausgewählten Hauptziel;35463 konkretisiert Mengen-/Zahlzuordnung und kardinalen/ordinalen Aspekt in der Bemerkung. Die Grenze wird nicht aus dem übergreifenden Bandziel abgeleitet. GS 2037 nennt bis 1 000; die vollständige GS-Zieldeckung fehlt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Ein vertrauter Kontext muss erkennen lassen, welche Menge beziehungsweise welche geordnete Folge gemeint ist. Bei Positionsangaben müssen Ordnung und Anfang feststehen; die Position darf nicht mit der Gesamtanzahl gleichgesetzt werden. Die bloße Ziffernfolge ohne Bezug genügt nicht. Schriftliche Zahlwörter, Maßeinheiten, Rechnen mit Angaben und beliebige neue Kennzeichnungssysteme werden nicht vorausgesetzt. Alle für das FSP-Feinziel relevanten Zahlen,Anzahlen und Positionswerte bleiben bis 100, einschließlich etwaiger Zwischen- und Endergebnisse. Die hinterlegte Konkretisierung verlangt keine Rechnung. Keine Maßeinheiten oder Dezimalschreibweisen ungeprüft ergänzen; dafür gelten eigene Inhalts- und Quellenprüfungen. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-110",
+      "subject": "Mathematik",
+      "theme": "Numerische Kennzeichnungen im Alltag · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · stufenübergreifend GS 3 → FSP 1/2",
+      "gs_anchor": "GS Mathematik Kl. 3 · Zahl und Operation · Kennzeichnungsaspekt aus2038 unter Beherrschen2037; GS-Rahmen bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 1/2 · Natur entdecken und erleben · Deuten von Umweltdaten37959 unter Beherrschen37931; Linienkennzeichnung in Bemerkung, ohne belegte Kennzahlobergrenze",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Lernzielebenen: GS Beherrschen · FSP Beherrschen. Erkennen und Deuten sind Zielhandlungen, keine eigenen Ebenen. Stufenübergreifender Teilanschluss GS 3 → FSP 1/2: eine vertraute numerische Kennzeichnung als Bezeichnung ihres Bezugs deuten, ohne sie als Anzahl oder Größenwert zu behandeln. GS 2038 umfasst die Bedeutungsvielfalt von Umweltzahlen unter Beherrschen2037. FSP 37959 nennt das Deuten von Daten in der Umwelt unter Beherrschen37931; Straßenbahn- und Buslinien stehen ausdrücklich in der Bemerkung und belegen eine Kennzeichnungsfunktion. Das ist eine begrenzte didaktische Auswahl, keine allgemeine Kodierungskompetenz. Die Lernzielebene stammt vom tatsächlichen Hauptziel37931; Deuten ist die konkrete Handlung. Keine vollständige GS-Zieldeckung: nur die Kennzeichnungsfunktion im vertrauten System. GS2037 hat den Rahmen bis 1 000; die FSP-Zielzeile37959 nennt keine Zahlenobergrenze für Kennzeichnungen. Daraus folgt weder eine unbegrenzte FSP-Zahlkompetenz noch eine Rechenanforderung bis 1 000. Mengen-/Positionsbedeutungen werden aufMA-109 getrennt geprüft. Maßeinheiten,Geld,Zeit,Datum,Operationen und unbekannte Codes sind nicht abgedeckt;2040/2041/2044 bleiben gesondert offen.",
+      "gs_target_ids": [
+        "page912_2037",
+        "page912_2038"
+      ],
+      "fsp_target_ids": [
+        "page139_37931",
+        "page139_37959"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2037",
+        "Q-MA-page912_2038",
+        "Q-MA-page139_37931",
+        "Q-MA-page139_37959"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "1/2"
+        ],
+        "relation": "cross-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenübergreifender Teilanschluss GS 3 → FSP 1/2: eine vertraute numerische Kennzeichnung als Bezeichnung ihres Bezugs deuten, ohne sie als Anzahl oder Größenwert zu behandeln. GS 2038 umfasst die Bedeutungsvielfalt von Umweltzahlen unter Beherrschen2037. FSP 37959 nennt das Deuten von Daten in der Umwelt unter Beherrschen37931; Straßenbahn- und Buslinien stehen ausdrücklich in der Bemerkung und belegen eine Kennzeichnungsfunktion. Das ist eine begrenzte didaktische Auswahl, keine allgemeine Kodierungskompetenz. Die Lernzielebene stammt vom tatsächlichen Hauptziel37931; Deuten ist die konkrete Handlung. Das konkrete Kennzeichnungssystem und sein Bezug müssen vertraut und eindeutig sein. Betrachtet werden einfache rein numerische Kennzeichnungen in gewöhnlicher Ziffernschreibweise. Eine Kennzeichnung identifiziert innerhalb ihres Systems einen Bezug; eine größere Kennzahl bedeutet nicht mehr Gegenstände,größere Menge oder höhere Position. Dieselbe Kennzahl in einem anderen System kann einen anderen Bezug haben. Alphanumerische Codes,führende Nullen,Prüfziffern und besondere Notationsregeln bleiben außerhalb dieser didaktischen Auswahl. Keine vollständige GS-Zieldeckung: nur die Kennzeichnungsfunktion im vertrauten System. GS2037 hat den Rahmen bis 1 000; die FSP-Zielzeile37959 nennt keine Zahlenobergrenze für Kennzeichnungen. Daraus folgt weder eine unbegrenzte FSP-Zahlkompetenz noch eine Rechenanforderung bis 1 000. Mengen-/Positionsbedeutungen werden aufMA-109 getrennt geprüft. Maßeinheiten,Geld,Zeit,Datum,Operationen und unbekannte Codes sind nicht abgedeckt;2040/2041/2044 bleiben gesondert offen.",
+      "shared_object_suggestion": "Die Zuordnung einer numerischen Kennzeichnung zu ihrem bezeichneten Bezug innerhalb eines vertrauten Systems.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind erkennt sicher die Kennzeichnungsfunktion einer numerischen Umweltangabe im GS-Rahmen bis 1 000 und ordnet sie ihrem Bezug im vertrauten System zu.",
+          "criterion": "Die Kennzeichnung und ihr bezeichneter Bezug stimmen überein. Aus dem Zahlwert wird keine Anzahl,Größe oder Position abgeleitet; die ausgewählte GS-Kennzahl liegt bis 1 000.",
+          "status": "Didaktischer Kennzeichnungs-Ausschnitt von2038 unter Beherrschen2037; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind deutet eine vertraute numerische Kennzeichnung aus der Umwelt sicher als Bezeichnung ihres Bezugs im bekannten System.",
+          "criterion": "Die numerische Kennzeichnung wird ihrem richtigen Bezug zugeordnet. Sie wird nicht als Anzahl,Größenwert oder Rang ausgelegt. Der Erfolg gilt für das festgelegte vertraute System und seine ausgewählten Zeichen, nicht für beliebig große Zahlen oder unbekannte Codes.",
+          "scope_status": "domain_specific",
+          "status": "Didaktische Konkretisierung von37959 unter Beherrschen37931; Kennzeichnungsaspekt aus der Linien-Bemerkung. Keine eigene amtliche Kennzahlobergrenze und keine zusätzliche Rechenanforderung."
+        }
+      ],
+      "fsp_scope": {
+        "status": "domain_specific",
+        "summary": "Fachspezifisch: numerische Kennzeichnung; keine FSP-Zeilenobergrenze belegt",
+        "detail": "FSP37959 nennt Daten in der Umwelt, mit Straßenbahn-/Buslinien in der Bemerkung, aber keine obere Kennzahl. Eine Kennzahl bezeichnet einen Bezug und ist hier keine Anzahl oder Rechenzahl. Die übergreifende20-Grenze für Zahlverständnis/Operationen wird nicht als Kennzahlgrenze erfunden. GS2037 nennt bis 1 000; das ist keine FSP-Grenze und keine vollständige GS-Zieldeckung.",
+        "max_value": null,
+        "source_ids": [
+          "Q-MA-page139_37959"
+        ],
+        "planning_rule": "Das konkrete Kennzeichnungssystem und sein Bezug müssen vertraut und eindeutig sein. Betrachtet werden einfache rein numerische Kennzeichnungen in gewöhnlicher Ziffernschreibweise. Eine Kennzeichnung identifiziert innerhalb ihres Systems einen Bezug; eine größere Kennzahl bedeutet nicht mehr Gegenstände,größere Menge oder höhere Position. Dieselbe Kennzahl in einem anderen System kann einen anderen Bezug haben. Alphanumerische Codes,führende Nullen,Prüfziffern und besondere Notationsregeln bleiben außerhalb dieser didaktischen Auswahl. Vor der Planung das konkrete Kennzeichnungssystem und die verständlichen Zeichen festlegen. Keine unbelegte FSP-Obergrenze ergänzen und aus dem Erkennen einer Kennzahl keine Rechenkompetenz ableiten. Keine numerischen Berechnungen oder Zwischen-/Endergebnisse Bestandteil dieses Feinziels. Bei Erweiterungen zu Mengen,Operationen oder Größen ist der passende belegte beziehungsweise ausdrücklich abgeleitete Zahlenraum einschließlich Zwischen- und Endergebnissen gesondert erforderlich; Einheiten und Schreibweisen getrennt behandeln. Aufgaben,Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "2037 Hauptziel und Rahmen bis1000 nur Kontext;2038 Bedeutungsvielfalt, hier Kennzeichnung ausgewählt.",
+        "fsp": "37931 Hauptziel Beherrschen;37959 verbindliches Deuten von Umweltdaten. Linien sind Bemerkungsbeispiele; Kennzeichnungsfunktion und Auswahl gewöhnlicher Ziffernkennzeichnungen didaktisch konkretisiert. Keine Ersetzung der Lernzielebene durch Deuten.",
+        "context_only_gs_ids": [
+          "page912_2037"
+        ],
+        "fsp_remark_anchor": "page139_37959"
       }
     }
   ]
