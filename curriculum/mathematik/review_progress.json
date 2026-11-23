@@ -3446,7 +3446,7 @@
     }
   },
   "next_id": "page912_187179",
-  "next_step": "Offenen Schiebe-/Drehsymmetrie-Teil187179 getrennt prüfen: Translation mit gleichbleibendem Motiv, Orientierung und gemeinsamer Verschiebung; Rotation um festes Zentrum.187180 ist als direkter Fachwortanschluss für gespiegelt/gedreht/verschoben verneint, nicht erneut als Erstprüfung zählen. Inhalt und aktiver Wortgebrauch bleiben getrennt.106 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. Audit-only; App1.411 unverändert. Datenprüfungen bestanden; Auditveröffentlichung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "Offenen Schiebe-/Drehsymmetrie-Teil187179 getrennt prüfen: Translation mit gleichbleibendem Motiv, Orientierung und gemeinsamer Verschiebung; Rotation um festes Zentrum.187180 ist als direkter Fachwortanschluss für gespiegelt/gedreht/verschoben verneint, nicht erneut als Erstprüfung zählen. Inhalt und aktiver Wortgebrauch bleiben getrennt.106 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. Audit-only; App1.411 unverändert. Datenprüfungen bestanden; Audit auf main veröffentlicht, Pages erfolgreich und unveränderte Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5667,8 +5667,20 @@
   },
   "latest_audit_publication": {
     "batch": "MA-108",
-    "status": "pending",
+    "status": "verified",
     "app_version_unchanged": "1.411",
+    "app_unchanged": true,
+    "commit": "ff77384acb48efdd5a2da85521054c35a1192235",
+    "pages_run_id": 45107484071,
+    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45107484071",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html_sha256": "fb9d666eff7d0b35035790fecab7d5ffe9265ed89e5ca27fd69129bfc02a7f5d",
+    "live_html_byte_equal": true,
+    "checked_on": "2026-11-23",
+    "tests": "Sechs Daten-/Bestandsprüfungen bestanden; Modul, Karten, Lernzielebenen und beide HTML-Dateien unverändert.",
+    "browser": "Kein neuer Browserlauf bei reiner Auditänderung. Identische App1.411 inMA-107 lokal und live geprüft, einschließlich419 Karten/838 Lernzielebenen-Seiten.",
+    "limits": "Keine neue vollständige semantische Bestandsprüfung; Quellenzugriff und PDF-Bestandsprüfung im Prüfpaket ausgewiesen.",
     "previous_audit_publication": {
       "batch": "MA-105",
       "status": "verified",
@@ -5756,8 +5768,7 @@
           }
         }
       }
-    },
-    "tests": "passed"
+    }
   },
   "continuation_correction": {
     "batch": "MA-067",
