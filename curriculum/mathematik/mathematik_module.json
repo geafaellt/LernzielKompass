@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-23.5",
+  "version": "MA-2026-11-23.6",
   "checked_on": "2026-11-23",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1759,6 +1759,12 @@
       "id": "Q-MA-page912_2044",
       "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2044",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187184",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187184",
       "version": "2026"
     }
   ],
@@ -10791,6 +10797,88 @@
           "Q-MA-page139_35461"
         ],
         "planning_rule": "Vertrauter Alltagsbezug und eindeutige Festlegung, welche dargestellten Elemente zur betrachteten Menge gehören. In diesem didaktischen Ausschnitt repräsentiert jedes dargestellte Element genau eine Einheit; keine Skalen, gewichteten Bildzeichen oder besonderen Kodierungen. Die natürliche Zahl bezeichnet die Anzahl dieser Menge, keine Position oder Kennzeichnung. Hin- und Rückrichtung müssen dieselbe Anzahl erhalten; eine nur einseitige Zuordnung weist das Feinziel nicht vollständig nach. Anordnung oder Aussehen sind nicht mit dem Zahlwert gleichzusetzen. Die konkrete Darstellungsform und Umsetzung entscheidet die Lehrkraft. Alle relevanten FSP-Zahlen, Mengenanzahlen und gegebenenfalls Teilanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Das hinterlegte Feinziel verlangt keine Rechnung und keine festgelegte Zählstrategie. Einheiten, Schreibweisen, gewichtete Zeichen und nichtnumerische Darstellungen benötigen gesonderte Inhaltsprüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-113",
+      "subject": "Mathematik",
+      "theme": "Zahlen durch Stellenwertanteile bilden und zerlegen · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl. 3 · Zahl und Operation · Strukturen187183 und Bilden/Zerlegen/Darstellen187184 unter Beherrschen187182 bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Die Welt um mich herum · Zahlenaufbau35468 unter Beherrschen35461 bis 100; dekadisches Positionssystem in Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Lernzielebenen: GS Beherrschen aus187182 · FSP Beherrschen aus35461. Nutzen, Bilden, Zerlegen, Darstellen und Entdecken sind Zielhandlungen; keine Ersetzung der Lernzielebenen durch diese Verben. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die dekadische Stellenwertstruktur zum Bilden, Zerlegen und Darstellen einer natürlichen Zahl nutzen. GS187183 und187184 stehen unter Beherrschen von Zahlbeziehungen und Orientierung bis 1 000 (187182). FSP35468 nennt Entdecken von Strukturelementen im Zahlenaufbau unter Beherrschen der Zahlen bis 100 in Alltagssituationen (35461); Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Gewählt ist die eindeutige Darstellung der Zahl durch ihre Stellenwertanteile und deren Rückbezug auf dieselbe Zahl. Das ist eine didaktische Konkretisierung des Strukturbelegs, kein zusätzlicher amtlicher FSP-Zerlegungsoperator. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den belegten Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab. Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187183",
+        "page912_187184"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35468"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187184",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35468"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die dekadische Stellenwertstruktur zum Bilden, Zerlegen und Darstellen einer natürlichen Zahl nutzen. GS187183 und187184 stehen unter Beherrschen von Zahlbeziehungen und Orientierung bis 1 000 (187182). FSP35468 nennt Entdecken von Strukturelementen im Zahlenaufbau unter Beherrschen der Zahlen bis 100 in Alltagssituationen (35461); Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Gewählt ist die eindeutige Darstellung der Zahl durch ihre Stellenwertanteile und deren Rückbezug auf dieselbe Zahl. Das ist eine didaktische Konkretisierung des Strukturbelegs, kein zusätzlicher amtlicher FSP-Zerlegungsoperator. Lernzielebenen: GS Beherrschen aus187182 · FSP Beherrschen aus35461. Nutzen, Bilden, Zerlegen, Darstellen und Entdecken sind Zielhandlungen; keine Ersetzung der Lernzielebenen durch diese Verben. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den belegten Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab. Vertrauter Alltagsbezug und bekannte Bedeutung der dekadischen Stellen. Gewöhnliche dezimale Zahlenschreibweise, jede Stelle in der üblichen gebündelten Darstellung besetzt; unbesetzte Stellen erhalten den Zahlwert durch Null. Ziffer, Anzahl der Bündel und Wert eines Stellenanteils müssen auseinandergehalten werden. Der Grenzwert100 gehört zum FSP-Rahmen und wird nicht durch eine erfundene99-Grenze ausgeschlossen. Keine beliebigen additiven Zerlegungen, kein Rechenalgorithmus und keine besondere Kennzeichnungsschreibweise in diesem Ausschnitt. Darstellung und Umsetzung legt die Lehrkraft fest. Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+      "shared_object_suggestion": "Die natürliche Zahl und ihre dekadischen Stellenwertanteile als zusammengehörige Darstellung.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind nutzt die dekadische Stellenwertstruktur sicher, um eine natürliche Zahl bis 1 000 in ihre Stellenwertanteile zu zerlegen, entsprechend darzustellen und aus diesen Anteilen wieder zu bilden.",
+          "criterion": "Ziffern, Stellenwerte und Werte der Anteile passen zusammen; die vollständigen Anteile ergeben wieder genau die Ausgangszahl. Unbesetzte Stellen werden korrekt berücksichtigt. Alle relevanten Zahlwerte und Zwischen- und Endergebnisse bleiben bis 1 000.",
+          "status": "Didaktischer Stellenwert-Ausschnitt von187183/187184 unter Beherrschen187182; keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind nutzt die dekadische Stellenwertstruktur sicher, um eine natürliche Zahl bis 100 im vertrauten Alltagsbezug in ihre Stellenwertanteile zu zerlegen, entsprechend darzustellen und aus diesen Anteilen wieder zu bilden.",
+          "criterion": "Ziffern, Stellenwerte und Werte der Anteile passen zusammen; die vollständigen Anteile ergeben wieder genau die Ausgangszahl. Unbesetzte Stellen werden korrekt berücksichtigt. Alle relevanten Zahlen, Werte der Stellenanteile, gegebenenfalls Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung des Zahlenaufbaus35468 mit dekadischem Positionssystem in der Bemerkung unter Beherrschen35461; keine neue amtliche Zerlegungszielzeile."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den belegten Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187182 Hauptziel und Zahlenraum nur Kontext;187183 Strukturunterziel und187184 Bilden/Zerlegen/Darstellen nur für dekadische Stellenwertanteile ausgewählt.",
+        "fsp": "35461 Hauptziel mit ausdrücklicher Grenze100;35468 Unterziel Zahlenaufbau. Dekadisches Positionssystem ist Bemerkung, Stellenwertanteile und Rückbildung didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_187182"
+        ],
+        "fsp_remark_anchor": "page139_35468"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlwerte und Stellenwertanteile bis 100",
+        "detail": "FSP35461 nennt bis100 unmittelbar im ausgewählten Hauptziel;35468 konkretisiert den Zahlenaufbau, das dekadische Positionssystem steht in dessen Bemerkung. Die Zahlgrenze ist ausdrücklich belegt, die ausgewählte Stellenwertzerlegung ist didaktisch konkretisiert. Keine Ableitung aus dem übergreifenden Bandziel. GS187182 nennt bis1 000; vollständige GS-Zieldeckung fehlt.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Vertrauter Alltagsbezug und bekannte Bedeutung der dekadischen Stellen. Gewöhnliche dezimale Zahlenschreibweise, jede Stelle in der üblichen gebündelten Darstellung besetzt; unbesetzte Stellen erhalten den Zahlwert durch Null. Ziffer, Anzahl der Bündel und Wert eines Stellenanteils müssen auseinandergehalten werden. Der Grenzwert100 gehört zum FSP-Rahmen und wird nicht durch eine erfundene99-Grenze ausgeschlossen. Keine beliebigen additiven Zerlegungen, kein Rechenalgorithmus und keine besondere Kennzeichnungsschreibweise in diesem Ausschnitt. Darstellung und Umsetzung legt die Lehrkraft fest. Alle relevanten FSP-Ausgangszahlen, Werte der Stellenanteile und gegebenenfalls Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenwert darf die Grenze überschreiten. Eine korrekte Zerlegung muss beim Zusammenführen wieder genau die Ausgangszahl ergeben. Einheiten, Dezimalbrüche, Kennzeichnungen und nichtnumerische Ziele benötigen gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
       }
     }
   ]

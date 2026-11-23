@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.416** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.417** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -214,3 +214,6 @@ Mathematik MA-112: Ziffernzahlen lesen/sprechen/schreiben in GS3, begrenzter Ans
 
 
 Mathematik MA-113: Bildliche Mengendarstellung ↔ Zahl in GS3 aufMA-112 begrenzt zugeordnet, GS bis1000/FSP3/4 bis100, beide Lernzielebenen Beherrschen.112 Karten,22 offene Fragen; weiter bei187183/187184. [Prüfpaket](curriculum/mathematik/review_batch_113.json). App1.416: Datenprüfungen und gezielter Funktionsbrowser lokal/live bestanden; Lernzielebenen aller425 Karten/850 Seiten geprüft. Veröffentlicht mit d8a5de4875e2e314b5ce6eeccf657f72d471b359; [Pages45198458109](https://github.com/geafaellt/LernzielKompass/actions/runs/45198458109) erfolgreich. Live-HTML bytegleich, SHA256 4e76d06fb268bf02a1ff190cf07afef8bc27f91ed14cff234096f847bfebadb0. Keine vollständige erneute Funktions- oder semantische Prüfung sämtlicher Bestandskarten.
+
+
+Mathematik MA-114: dekadische Stellenwertanteile in GS3 begrenzt zugeordnet (GS1000/FSP3/4 bis100).113 Karten,22 Fragen. Didaktische Kennen-Zuordnungen erhalten und von amtlichen Ebenen getrennt angezeigt. [Prüfpaket](curriculum/mathematik/review_batch_114.json). App1.417: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend.

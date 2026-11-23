@@ -1,0 +1,248 @@
+{
+  "id": "MA-114",
+  "date": "2026-11-23",
+  "base_commit": "bf8aafb718b44d7d687ece362b2b345de9f4be68",
+  "scope": "GS3 Strukturen187183 und Bilden/Zerlegen/Darstellen187184: dekadische Stellenwertanteile. Zusätzlich notwendige Trennung didaktischer Kartenzuordnungen von amtlichen Lernzielebenen.",
+  "source_verification": {
+    "html": "Amtliche GS/FSP-Seiten und konkrete Zielabschnitte geöffnet; beide Bänder geprüft. Gespeicherte Zeilen mit heutigen Webansichten abgeglichen.",
+    "pdf": "Gespeicherte amtliche PDFs: Definitionen S.V, GS S.22/PDF32, FSP S.19/PDF31 und S.12/PDF24 textuell gelesen; kein neuer Download/Render.",
+    "repository_access": "Codeload-Download scheiterte an Namensauflösung; große HTML-Datei vom Fetch-Werkzeug abgelehnt. Alternativ ausgelieferte HTML-Datei geladen, Git-Blob35463002bcfa77961087357ea88f99dc9b58bc03 bestätigt, JSON-Änderungen aus GitHub übernommen und alle Dateien gegen aktuellen Baum geprüft. Kein Zugriffsmangel verdeckt."
+  },
+  "source_sha256": {
+    "gs": "d18d132ee3cb465ce3baca6872ac5b4d9b110db9d56af918445f7677f6354ca3",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_187182": {
+      "id": "page912_187182",
+      "level": 1,
+      "parent_target_id": "page912_187182",
+      "target": "Beherrschen von Zahlbeziehungen und der Orientierung im Zahlenraum bis 1 000",
+      "remarks": "Zahlbeziehung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187182"
+    },
+    "page912_187183": {
+      "id": "page912_187183",
+      "level": 2,
+      "parent_target_id": "page912_187182",
+      "target": "Nutzen von Strukturen in arithmetischen Zahldarstellungen und Anschauungsmitteln",
+      "remarks": "Rechenstrich, Zahlenstrahl, Mehrsystemmaterial ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187183"
+    },
+    "page912_187184": {
+      "id": "page912_187184",
+      "level": 3,
+      "parent_target_id": "page912_187182",
+      "target": "Bilden, Zerlegen und Darstellen von Zahlen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187184"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken von Strukturelementen im Zahlenaufbau",
+      "remarks": "Bündelung, Hunderterfeld, -tafel dekadisches Positionssystem, Stellentafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37871": {
+      "id": "page139_37871",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Erkennen wesentlicher Strukturelemente von zweistelligen Zahlen",
+      "remarks": "Beziehung zum Zahlenaufbau: 10 + 4 = 14 Sprechen, Darstellen, Verwenden von Zehner (Z) und Einer (E), Stellenwerttafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937"
+    },
+    "page139_37941": {
+      "id": "page139_37941",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zuordnen von Zahlwort und Zahl zu Mengen",
+      "remarks": "Gliedern, Ordnen Differenzierung: unterschiedliche räumliche Anordnung der Zählobjekte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187183",
+      "first_review": true,
+      "status": "limited_connection",
+      "cards": [
+        "MA-113"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die dekadische Stellenwertstruktur zum Bilden, Zerlegen und Darstellen einer natürlichen Zahl nutzen. GS187183 und187184 stehen unter Beherrschen von Zahlbeziehungen und Orientierung bis 1 000 (187182). FSP35468 nennt Entdecken von Strukturelementen im Zahlenaufbau unter Beherrschen der Zahlen bis 100 in Alltagssituationen (35461); Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Gewählt ist die eindeutige Darstellung der Zahl durch ihre Stellenwertanteile und deren Rückbezug auf dieselbe Zahl. Das ist eine didaktische Konkretisierung des Strukturbelegs, kein zusätzlicher amtlicher FSP-Zerlegungsoperator.",
+      "prerequisites": "Vertrauter Alltagsbezug und bekannte Bedeutung der dekadischen Stellen. Gewöhnliche dezimale Zahlenschreibweise, jede Stelle in der üblichen gebündelten Darstellung besetzt; unbesetzte Stellen erhalten den Zahlwert durch Null. Ziffer, Anzahl der Bündel und Wert eines Stellenanteils müssen auseinandergehalten werden. Der Grenzwert100 gehört zum FSP-Rahmen und wird nicht durch eine erfundene99-Grenze ausgeschlossen. Keine beliebigen additiven Zerlegungen, kein Rechenalgorithmus und keine besondere Kennzeichnungsschreibweise in diesem Ausschnitt. Darstellung und Umsetzung legt die Lehrkraft fest.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+      "uncertainty": "Stellenwertzerlegung und Rückbildung didaktisch aus dem Strukturbeleg konkretisiert; keine pauschale Deckung aller Zerlegungen.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    },
+    {
+      "gs_id": "page912_187184",
+      "first_review": true,
+      "status": "limited_connection",
+      "cards": [
+        "MA-113"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die dekadische Stellenwertstruktur zum Bilden, Zerlegen und Darstellen einer natürlichen Zahl nutzen. GS187183 und187184 stehen unter Beherrschen von Zahlbeziehungen und Orientierung bis 1 000 (187182). FSP35468 nennt Entdecken von Strukturelementen im Zahlenaufbau unter Beherrschen der Zahlen bis 100 in Alltagssituationen (35461); Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Gewählt ist die eindeutige Darstellung der Zahl durch ihre Stellenwertanteile und deren Rückbezug auf dieselbe Zahl. Das ist eine didaktische Konkretisierung des Strukturbelegs, kein zusätzlicher amtlicher FSP-Zerlegungsoperator.",
+      "prerequisites": "Vertrauter Alltagsbezug und bekannte Bedeutung der dekadischen Stellen. Gewöhnliche dezimale Zahlenschreibweise, jede Stelle in der üblichen gebündelten Darstellung besetzt; unbesetzte Stellen erhalten den Zahlwert durch Null. Ziffer, Anzahl der Bündel und Wert eines Stellenanteils müssen auseinandergehalten werden. Der Grenzwert100 gehört zum FSP-Rahmen und wird nicht durch eine erfundene99-Grenze ausgeschlossen. Keine beliebigen additiven Zerlegungen, kein Rechenalgorithmus und keine besondere Kennzeichnungsschreibweise in diesem Ausschnitt. Darstellung und Umsetzung legt die Lehrkraft fest.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+      "uncertainty": "Stellenwertzerlegung und Rückbildung didaktisch aus dem Strukturbeleg konkretisiert; keine pauschale Deckung aller Zerlegungen.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "context_only": [
+    "page912_187182"
+  ],
+  "band_selection": "Stufenpassend3/4 zuerst:35468 belegt Zahlenaufbau mit Bündelung und dekadischem Positionssystem in der Bemerkung unter Beherrschen35461. FSP1/2 37871 ist ein positiver verwandter Beleg für zweistellige Zahlstruktur mit Zehnern/Einern; die tatsächliche Hauptzielebene ist Einblick gewinnen37851. Nicht wegen eines kleineren Zahlenraums verworfen. Der passendere3/4-Beleg mit Zahlenaufbau bis100 wird bevorzugt.37937/37941 belegen Mengen-/Zahlwortzuordnung, nicht allein die positionsbezogene Zerlegung. Keine stufenübergreifende Zuordnung erforderlich.",
+  "learning_level_review": "Lernzielebenen: GS Beherrschen aus187182 · FSP Beherrschen aus35461. Nutzen, Bilden, Zerlegen, Darstellen und Entdecken sind Zielhandlungen; keine Ersetzung der Lernzielebenen durch diese Verben.",
+  "number_scope_review": {
+    "status": "explicit",
+    "summary": "Ausdrücklich belegt: Zahlwerte und Stellenwertanteile bis 100",
+    "detail": "FSP35461 nennt bis100 unmittelbar im ausgewählten Hauptziel;35468 konkretisiert den Zahlenaufbau, das dekadische Positionssystem steht in dessen Bemerkung. Die Zahlgrenze ist ausdrücklich belegt, die ausgewählte Stellenwertzerlegung ist didaktisch konkretisiert. Keine Ableitung aus dem übergreifenden Bandziel. GS187182 nennt bis1 000; vollständige GS-Zieldeckung fehlt.",
+    "max_value": 100,
+    "source_ids": [
+      "Q-MA-page139_35461"
+    ],
+    "planning_rule": "Vertrauter Alltagsbezug und bekannte Bedeutung der dekadischen Stellen. Gewöhnliche dezimale Zahlenschreibweise, jede Stelle in der üblichen gebündelten Darstellung besetzt; unbesetzte Stellen erhalten den Zahlwert durch Null. Ziffer, Anzahl der Bündel und Wert eines Stellenanteils müssen auseinandergehalten werden. Der Grenzwert100 gehört zum FSP-Rahmen und wird nicht durch eine erfundene99-Grenze ausgeschlossen. Keine beliebigen additiven Zerlegungen, kein Rechenalgorithmus und keine besondere Kennzeichnungsschreibweise in diesem Ausschnitt. Darstellung und Umsetzung legt die Lehrkraft fest. Alle relevanten FSP-Ausgangszahlen, Werte der Stellenanteile und gegebenenfalls Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenwert darf die Grenze überschreiten. Eine korrekte Zerlegung muss beim Zusammenführen wieder genau die Ausgangszahl ergeben. Einheiten, Dezimalbrüche, Kennzeichnungen und nichtnumerische Ziele benötigen gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+  },
+  "new_cards": [
+    "MA-113"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 2,
+    "new_cards": 1,
+    "cards_total": 113,
+    "same_band": 84,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 13,
+    "inventory_rows": 206,
+    "new_inventory_rows": 0,
+    "source_links": 276,
+    "target_anchors": 274
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187182",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "1",
+      "Ziel": "Beherrschen von Zahlbeziehungen und der Orientierung im Zahlenraum bis 1 000",
+      "Karten": "",
+      "Prüfstatus": "MA-007: Kontextanker für Zahlenraum und Operator; übrige Ausschnitte offen"
+    },
+    {
+      "Ziel-ID": "page912_187183",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "2",
+      "Ziel": "Nutzen von Strukturen in arithmetischen Zahldarstellungen und Anschauungsmitteln",
+      "Karten": "",
+      "Prüfstatus": "MA-007: Kontextanker für Zahlenraum und Operator; übrige Ausschnitte offen"
+    },
+    {
+      "Ziel-ID": "page912_187185",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "3",
+      "Ziel": "Vorwärts- und Rückwärtszählen in Schritten",
+      "Karten": "MA-016",
+      "Prüfstatus": "MA-007: fachlicher Teilanschluss bei unterschiedlichem Zahlenraum (GS bis 1 000; FSP3/4 bis 100); größere GS-Zahlenräume nicht gleichgesetzt; MA-009: FSP-Geltungsbereich der zugeordneten Karte und Feinziele/Kriterien geprüft; bisheriger Restumfang bleibt bestehen"
+    },
+    {
+      "Ziel-ID": "page912_187184",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "3",
+      "Ziel": "Bilden, Zerlegen und Darstellen von Zahlen",
+      "Karten": "",
+      "Prüfstatus": "MA-113: offen; nur inventarisiert, keine fachliche Einzelprüfung oder Anschlussentscheidung."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-016",
+    "MA-017",
+    "MA-084",
+    "MA-085",
+    "MA-086",
+    "MA-090",
+    "MA-105"
+  ],
+  "existing_card_review": "MA-016/017 bleiben Schrittzählen beziehungsweise Vergleichen/Ordnen; neue Karte erfasst einen anderen Ausschnitt. Deren vertiefte Einzelprüfung folgt als nächster Schritt. Alle112 Bestandskarten einschließlich zwischenzeitlicher Kennen-Hinweise, alle bisherigen Feinziele/Geltungsbereiche und425 Ebeneneinträge unverändert. Die fünf didaktischen Zuordnungen werden ausschließlich in der UI getrennt. Keine erneute vollständige semantische Prüfung sämtlicher Bestandskarten.",
+  "ui_learning_level_separation": "Zwischenstände27b5412 undbf8aafb vollständig übernommen und sämtliche333 lokalen Dateien gegen den Remote-Baum geprüft (Textzeilenenden normalisiert). Fünf didaktische Kennen-Zuordnungen bleiben als assignment samt Notiz unverändert erhalten. Sie werden nicht in amtliche evidence umgewandelt. Die Anzeige und automatische Rasterbegründung nutzen nur amtliche evidence; didaktische Angaben erscheinen gesondert auf der Karte, bei Zielen und im Planungsoutput. Gespeicherte manuelle Rasterwahl und Lehrkrafttexte bleiben erhalten. Damit wird die gespeicherte Nutzerregel zur Trennung amtlicher Lernzielebenen umgesetzt, ohne die didaktischen Zuordnungen zu löschen.",
+  "limits": "Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+  "tests": {
+    "status": "local_passed_live_pending",
+    "commands": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-23\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 113 mathematics cards, 276 source links (274 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 113 mathematics cards, 276 source links (274 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "browser_local": {
+      "check-mathematik-browser.cjs": "PASS: alle113 Mathematikkarten, Scope auf Karte/Zielen/Output, Quellen, Übernahme, leere Aufgaben/Hilfsmittel, Entwurfserhalt, Fachwechsel, mobile320/390.",
+      "check-learning-levels.cjs": "PASS:426 Karten/852 Seiten gegen gespeicherte amtliche Ebenenbelege; keine erneute semantische Gesamtprüfung.",
+      "check-learning-level-assignments.cjs": "PASS:5 erhaltene didaktische Kennen-Zuordnungen separat in Karte/Zielen/Output; kein falscher amtlicher Rasterbeleg; gespeicherte manuelle Auswahl und eigener Bewertungstext erhalten; mobile320/390, Kartenwechsel."
+    },
+    "preservation": "112 Bestandskarten und425 bisherige kanonische Ebeneneinträge unverändert;206 Zeilen mit ursprünglichen Quellspalten erhalten; Deutsch/Sachunterricht unverändert.",
+    "limits": "Quellenprüfung des gewählten Pakets; kein vollständiger fachlicher Abschluss aller Bestandskarten."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.417"
+  },
+  "continuation": {
+    "next_id": "page912_187185",
+    "next_step": "GS3 bereits zugeordnete187185/187186 (MA-016/017: Schrittzählen, Vergleichen/Ordnen) erneut einzeln prüfen; danach187187–187191.187183/187184 aufMA-113 nur dekadische Stellenwertanteile (GS1000/FSP3/4 bis100); weitere Strukturen und Zerlegungen bleiben Restumfang.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.417: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Zwischenzeitliche didaktische Kennen-Zuordnungen beiMA-084/085/086/090/105 erhalten, aber von amtlicher Ebenenanzeige getrennt. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}
