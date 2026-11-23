@@ -3511,7 +3511,7 @@
     }
   },
   "next_id": "page912_187183",
-  "next_step": "GS3 Nutzen von Strukturen187183 und Bilden/Zerlegen/Darstellen187184 unter Beherrschen187182 bis1000 prüfen. Anschließend bereits zugeordnete187185/187186 (MA-016/017) erneut einzeln prüfen, dann187187–187191. Sechs fehlende Zeilen dieses Blocks nur inventarisiert; kein Prüfabschluss behauptet.2044 aufMA-112 nur Bild ↔ Zahl (GS1000/FSP3/4 bis100), übrige Darstellungsvernetzung bleibt Restumfang.112 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.416: Lokale Daten-/Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 Nutzen von Strukturen187183 und Bilden/Zerlegen/Darstellen187184 unter Beherrschen187182 bis1000 prüfen. Anschließend bereits zugeordnete187185/187186 (MA-016/017) erneut einzeln prüfen, dann187187–187191. Sechs fehlende Zeilen dieses Blocks nur inventarisiert; kein Prüfabschluss behauptet.2044 aufMA-112 nur Bild ↔ Zahl (GS1000/FSP3/4 bis100), übrige Darstellungsvernetzung bleibt Restumfang.112 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.416: Datenprüfungen sowie lokale und Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5625,8 +5625,20 @@
   },
   "latest_publication": {
     "batch": "MA-113",
-    "status": "local_checks_passed",
+    "status": "success",
     "app_version": "1.416",
+    "commit": "d8a5de4875e2e314b5ce6eeccf657f72d471b359",
+    "tree": "7ac8f0b33d260e61c8a1a3fdf1101101d1d31368",
+    "html_blob": "07e12a9fe88cc1f443e068e69ad10b1072fe90b1",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45198458109",
+    "workflow_status": "completed",
+    "workflow_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html": "bytegleich mit lokal geprüfter App1.416 und dist/index.html",
+    "live_html_sha256": "4e76d06fb268bf02a1ff190cf07afef8bc27f91ed14cff234096f847bfebadb0",
+    "live_browser": "PASS MA-010/109/110/111/112: Quellen, Lernzielebenen, Scope an allen drei Stellen, Zielübernahme, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Neuladen; MA-112 mobil320/390.",
+    "live_learning_levels": "PASS425 Karten/850 Seiten; amtliche Belege und Ausschluss von Zielhandlungen.",
+    "limits": "Keine UI-Codeänderung und kein erneuter vollständiger Funktionslauf aller112 Mathematikkarten. Keine erneute vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich weiterhin unvollständig.",
     "previous_publication": {
       "batch": "MA-112",
       "status": "success",
