@@ -202,7 +202,7 @@
   "ui_learning_level_separation": "Zwischenstände27b5412 undbf8aafb vollständig übernommen und sämtliche333 lokalen Dateien gegen den Remote-Baum geprüft (Textzeilenenden normalisiert). Fünf didaktische Kennen-Zuordnungen bleiben als assignment samt Notiz unverändert erhalten. Sie werden nicht in amtliche evidence umgewandelt. Die Anzeige und automatische Rasterbegründung nutzen nur amtliche evidence; didaktische Angaben erscheinen gesondert auf der Karte, bei Zielen und im Planungsoutput. Gespeicherte manuelle Rasterwahl und Lehrkrafttexte bleiben erhalten. Damit wird die gespeicherte Nutzerregel zur Trennung amtlicher Lernzielebenen umgesetzt, ohne die didaktischen Zuordnungen zu löschen.",
   "limits": "Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "passed_local_and_live",
     "commands": {
       "update-mathematik.py": {
         "exit": 0,
@@ -235,14 +235,30 @@
       "check-learning-level-assignments.cjs": "PASS:5 erhaltene didaktische Kennen-Zuordnungen separat in Karte/Zielen/Output; kein falscher amtlicher Rasterbeleg; gespeicherte manuelle Auswahl und eigener Bewertungstext erhalten; mobile320/390, Kartenwechsel."
     },
     "preservation": "112 Bestandskarten und425 bisherige kanonische Ebeneneinträge unverändert;206 Zeilen mit ursprünglichen Quellspalten erhalten; Deutsch/Sachunterricht unverändert.",
-    "limits": "Quellenprüfung des gewählten Pakets; kein vollständiger fachlicher Abschluss aller Bestandskarten."
+    "limits": "Quellenprüfung des gewählten Pakets; kein vollständiger fachlicher Abschluss aller Bestandskarten.",
+    "browser_live": {
+      "check-mathematik-browser.cjs": "PASS: alle113 Mathematikkarten, Scope auf Karte/Zielen/Output, Quellen, Übernahme, leere Aufgaben/Hilfsmittel, Entwurfserhalt, Fachwechsel, mobile320/390.",
+      "check-learning-levels.cjs": "PASS:426 Karten/852 Seiten gegen gespeicherte amtliche Ebenenbelege; keine erneute semantische Gesamtprüfung.",
+      "check-learning-level-assignments.cjs": "PASS:5 erhaltene didaktische Kennen-Zuordnungen separat in Karte/Zielen/Output; kein falscher amtlicher Rasterbeleg; gespeicherte manuelle Auswahl und eigener Bewertungstext erhalten; mobile320/390, Kartenwechsel."
+    }
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.417"
+    "status": "published_verified",
+    "app_version": "1.417",
+    "commit": "2a6f3ad2a857c72ca54dad9fe463a50a903aedd5",
+    "tree": "9419deff78573e92722e1f773884c56b339e0833",
+    "pages_run_id": 45225266673,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45225266673",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "35da2131fd75e26540b828b4b08561f80ad79fac21666295d6778e5396ad2c02",
+    "bytes": 5565886,
+    "live_browser": "PASS: vollständige Mathematikprüfung113Karten; Ebenenprüfung426Karten/852Seiten; gezielte Prüfung5didaktischerZuordnungen samt gespeichertem manuellem Raster/Lehrkrafttext und mobile320/390.",
+    "verified_on": "2026-11-23"
   },
   "continuation": {
     "next_id": "page912_187185",
-    "next_step": "GS3 bereits zugeordnete187185/187186 (MA-016/017: Schrittzählen, Vergleichen/Ordnen) erneut einzeln prüfen; danach187187–187191.187183/187184 aufMA-113 nur dekadische Stellenwertanteile (GS1000/FSP3/4 bis100); weitere Strukturen und Zerlegungen bleiben Restumfang.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.417: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Zwischenzeitliche didaktische Kennen-Zuordnungen beiMA-084/085/086/090/105 erhalten, aber von amtlicher Ebenenanzeige getrennt. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 bereits zugeordnete187185/187186 (MA-016/017: Schrittzählen, Vergleichen/Ordnen) erneut einzeln prüfen; danach187187–187191.187183/187184 aufMA-113 nur dekadische Stellenwertanteile (GS1000/FSP3/4 bis100); weitere Strukturen und Zerlegungen bleiben Restumfang.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.417: Daten- und lokale sowie Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und ausgelieferte App bytegleich bestätigt. Zwischenzeitliche didaktische Kennen-Zuordnungen beiMA-084/085/086/090/105 erhalten, aber von amtlicher Ebenenanzeige getrennt. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }

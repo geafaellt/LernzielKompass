@@ -3524,7 +3524,7 @@
     }
   },
   "next_id": "page912_187185",
-  "next_step": "GS3 bereits zugeordnete187185/187186 (MA-016/017: Schrittzählen, Vergleichen/Ordnen) erneut einzeln prüfen; danach187187–187191.187183/187184 aufMA-113 nur dekadische Stellenwertanteile (GS1000/FSP3/4 bis100); weitere Strukturen und Zerlegungen bleiben Restumfang.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.417: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Zwischenzeitliche didaktische Kennen-Zuordnungen beiMA-084/085/086/090/105 erhalten, aber von amtlicher Ebenenanzeige getrennt. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 bereits zugeordnete187185/187186 (MA-016/017: Schrittzählen, Vergleichen/Ordnen) erneut einzeln prüfen; danach187187–187191.187183/187184 aufMA-113 nur dekadische Stellenwertanteile (GS1000/FSP3/4 bis100); weitere Strukturen und Zerlegungen bleiben Restumfang.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.417: Daten- und lokale sowie Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und ausgelieferte App bytegleich bestätigt. Zwischenzeitliche didaktische Kennen-Zuordnungen beiMA-084/085/086/090/105 erhalten, aber von amtlicher Ebenenanzeige getrennt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5650,8 +5650,19 @@
   },
   "latest_publication": {
     "batch": "MA-114",
-    "status": "local_tests_passed_publication_pending",
+    "status": "published_verified",
     "app_version": "1.417",
+    "commit": "2a6f3ad2a857c72ca54dad9fe463a50a903aedd5",
+    "tree": "9419deff78573e92722e1f773884c56b339e0833",
+    "pages_run_id": 45225266673,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45225266673",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "35da2131fd75e26540b828b4b08561f80ad79fac21666295d6778e5396ad2c02",
+    "bytes": 5565886,
+    "live_browser": "PASS: vollständige Mathematikprüfung113Karten; Ebenenprüfung426Karten/852Seiten; gezielte Prüfung5didaktischerZuordnungen samt gespeichertem manuellem Raster/Lehrkrafttext und mobile320/390.",
+    "verified_on": "2026-11-23",
     "previous_publication": {
       "batch": "MA-113",
       "status": "success",
@@ -5856,109 +5867,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-108",
-    "status": "verified",
-    "app_version_unchanged": "1.411",
-    "app_unchanged": true,
-    "commit": "ff77384acb48efdd5a2da85521054c35a1192235",
-    "pages_run_id": 45107484071,
-    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45107484071",
-    "pages_status": "success",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "live_html_sha256": "fb9d666eff7d0b35035790fecab7d5ffe9265ed89e5ca27fd69129bfc02a7f5d",
-    "live_html_byte_equal": true,
-    "checked_on": "2026-11-23",
-    "tests": "Sechs Daten-/Bestandsprüfungen bestanden; Modul, Karten, Lernzielebenen und beide HTML-Dateien unverändert.",
-    "browser": "Kein neuer Browserlauf bei reiner Auditänderung. Identische App1.411 inMA-107 lokal und live geprüft, einschließlich419 Karten/838 Lernzielebenen-Seiten.",
-    "limits": "Keine neue vollständige semantische Bestandsprüfung; Quellenzugriff und PDF-Bestandsprüfung im Prüfpaket ausgewiesen.",
-    "previous_audit_publication": {
-      "batch": "MA-105",
-      "status": "verified",
-      "app_version_unchanged": "1.409",
-      "audit_commit": "cf34442a048b33728c27639288e35acee39f76a7",
-      "pages_run": 45012244520,
-      "app_unchanged": true,
-      "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
-      "note": "Audit-only; all104 cards, math module,417 learning-level entries and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; corresponding local/live/mobile/learning-level checks passed MA-104.",
-      "previous_audit_publication": {
-        "batch": "MA-101",
-        "status": "verified",
-        "app_version_unchanged": "1.406",
-        "audit_commit": "353498f4d92c4ad5738aa9e9075c8306c0b5fac1",
-        "pages_run": 44775758080,
-        "app_unchanged": true,
-        "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
-        "note": "Audit-only; all101 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-100.",
-        "previous_audit_publication": {
-          "batch": "MA-099",
-          "status": "verified",
-          "app_version_unchanged": "1.405",
-          "audit_commit": "e73d3760e88c7317639d6557156ae8ca571575ae",
-          "pages_run": 44697849566,
-          "app_unchanged": true,
-          "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
-          "note": "Audit-only; all100 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-098.",
-          "previous_audit_publication": {
-            "batch": "MA-095",
-            "status": "verified",
-            "app_version_unchanged": "1.402",
-            "audit_commit": "471ce6d1e7bc2e71910b925d66ba2b127a4aaada",
-            "pages_run": 44656090518,
-            "app_unchanged": true,
-            "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-            "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
-            "previous_audit_publication": {
-              "batch": "MA-094",
-              "status": "verified",
-              "app_version_unchanged": "1.402",
-              "audit_commit": "311fdf5fe2f281b8fc25979405618eaff9982164",
-              "pages_run": 44630955851,
-              "app_unchanged": true,
-              "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-              "note": "Audit-only; all97 mathematics cards, module, learning-level data and HTML byte-identical. Live file confirmed after successful Pages run. No new browser run; latest corresponding live checks MA-093.",
-              "previous_audit_publication": {
-                "batch": "MA-090",
-                "status": "verified",
-                "app_version_unchanged": "1.397",
-                "previous_audit_publication": {
-                  "batch": "MA-079",
-                  "status": "verified",
-                  "app_version_unchanged": "1.386",
-                  "previous_audit_publication": {
-                    "batch": "MA-078",
-                    "status": "verified",
-                    "app_version_unchanged": "1.386",
-                    "previous_audit_publication": {
-                      "batch": "MA-075",
-                      "status": "verified",
-                      "audit_commit": "9ee14231cd31875a0502ef817646c2763add6080",
-                      "pages_run": 44042551050,
-                      "app_unchanged": true,
-                      "app_version": "1.384",
-                      "live_sha256": "0503ca0f6792b3d5a26d9dffbdddb8da73b6cb32aa136e2bb888eea5de1bb9ed",
-                      "verified_at": "2026-11-17T07:57:40.479941+00:00"
-                    },
-                    "audit_commit": "ec5dd04f8c76d76ab232d45d0f6a5af05810a513",
-                    "pages_run": 44069787528,
-                    "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-                    "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-                  },
-                  "audit_commit": "d84a8a0c886a0cabdfeef24067c44f27a3a08d49",
-                  "pages_run": 44111252857,
-                  "live_sha256": "1ad6b7f6f792de9af64b7e87797613aee17b56552e3a57e2aaf85a7fb6b1ba63",
-                  "note": "Audit-only publication; App1.386 and all82 mathematics cards unchanged. No new browser run."
-                },
-                "audit_commit": "80a37d83a7f372dd11d683f951aed1c597528432",
-                "pages_run": 44567574178,
-                "app_unchanged": true,
-                "live_sha256": "0eb6341ecc24cca463c18350f32545b3d1ecf16a758a059ade10f4d1551f4abe",
-                "note": "Audit-only; App1.397, all94 mathematics cards and HTML byte-identical. No new browser run."
-              }
-            }
-          }
-        }
-      }
-    }
+    "batch": "MA-114",
+    "status": "recorded_in_this_commit",
+    "app_commit": "2a6f3ad2a857c72ca54dad9fe463a50a903aedd5",
+    "note": "Dieser Nachweis ergänzt die abgeschlossenen Tests/Liveprüfung; App unverändert. Der eigene Nachweis-Commit ist aus der Git-Historie ersichtlich."
   },
   "continuation_correction": {
     "batch": "MA-067",
