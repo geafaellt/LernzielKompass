@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.415** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.416** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -211,3 +211,6 @@ Mathematik MA-111: Anzahl/Position und numerische Kennzeichnung in GS3 getrennt 
 
 
 Mathematik MA-112: Ziffernzahlen lesen/sprechen/schreiben in GS3, begrenzter Anschluss aufMA-111 an FSP3/4. GS bis1000/FSP bis100, beide Lernzielebenen Beherrschen. Zwei alte Fragen zur schriftlichen Zahlwortform entschieden;111 Karten,22 offene Fragen. [Prüfpaket](curriculum/mathematik/review_batch_112.json). Weiter bei2044. App1.415: Datenprüfungen und gezielter Funktionsbrowser lokal/live bestanden; Lernzielebenen aller424 Karten/848 Seiten geprüft. Veröffentlicht mit f26f818c5ca0a036120a2d17facb662937c3b108; [Pages45196696515](https://github.com/geafaellt/LernzielKompass/actions/runs/45196696515) erfolgreich. Live-HTML bytegleich, SHA256 b7316d3f0d0c6244152e94b01bc3f105e0d263afbcdc49d36e6e2945a94f3e3b. Keine vollständige erneute Funktions- oder semantische Prüfung sämtlicher Bestandskarten.
+
+
+Mathematik MA-113: Bildliche Mengendarstellung ↔ Zahl in GS3 aufMA-112 begrenzt zugeordnet, GS bis1000/FSP3/4 bis100, beide Lernzielebenen Beherrschen.112 Karten,22 offene Fragen; weiter bei187183/187184. [Prüfpaket](curriculum/mathematik/review_batch_113.json). App1.416: Datenprüfungen und gezielter Funktionsbrowser lokal bestanden; Lernzielebenen aller425 Karten/850 Seiten geprüft. Veröffentlichung und Liveprüfung ausstehend.
