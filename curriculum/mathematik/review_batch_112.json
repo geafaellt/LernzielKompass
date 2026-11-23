@@ -1,0 +1,342 @@
+{
+  "id": "MA-112",
+  "date": "2026-11-23",
+  "base_commit": "938f9018112347d4b06c9b518c96c328ee92ccac",
+  "scope": "GS3 Lesen/Sprechen2040 und Schreiben2041; Ziffernschreibweise, mündliche Zahl und ausgeschriebene Wortform getrennt. Alte Schriftform-Fragen187038/187039 erneut geprüft.",
+  "source_verification": {
+    "html": "Beide amtlichen Onlinepläne heute geöffnet und relevante Abschnitte gelesen; Webansichten als heute gecrawlt ausgewiesen. Abgleich mit gespeicherten HTML-Zeilen vom22.11; kein neuer vollständiger HTML-Download behauptet.",
+    "pdf": "Gespeicherte amtliche PDFs textuell erneut gelesen: beide Definitionen S.V/PDF5;GS S.21/PDF31;FSP S.13/PDF25,S.19/PDF31 sowie übergreifende Ziele S.9/PDF21 und S.17/PDF29. Kein neuer PDF-Download/Render.",
+    "word_form_search": "Zusätzlich Ziel-/Bemerkungszeilen beider FSP-Bänder auf Lesen/Schreiben/Zahlwort/Sprechen geprüft. Die negative Schriftform-Entscheidung folgt der inhaltlichen Mehranforderung alphabetischer Wortformen, nicht allein einem fehlenden Suchwort."
+  },
+  "source_sha256": {
+    "gs": "d18d132ee3cb465ce3baca6872ac5b4d9b110db9d56af918445f7677f6354ca3",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_2037": {
+      "id": "page912_2037",
+      "level": 1,
+      "parent_target_id": "page912_2037",
+      "target": "Beherrschen von Zahldarstellungen im Zahlenraum bis 1 000",
+      "remarks": "Zahlverständnis Menge, Wort, Symbol",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2037"
+    },
+    "page912_2038": {
+      "id": "page912_2038",
+      "level": 2,
+      "parent_target_id": "page912_2037",
+      "target": "Erkennen von Zahlen in der Umwelt in ihrer Bedeutungsvielfalt",
+      "remarks": "Lebensweltbezug",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2038"
+    },
+    "page912_2040": {
+      "id": "page912_2040",
+      "level": 3,
+      "parent_target_id": "page912_2037",
+      "target": "Lesen und Sprechen von Zahlen und Zahlwörtern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2040"
+    },
+    "page912_2041": {
+      "id": "page912_2041",
+      "level": 3,
+      "parent_target_id": "page912_2037",
+      "target": "Schreiben von Zahlen und Zahlwörtern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2041"
+    },
+    "page912_2044": {
+      "id": "page912_2044",
+      "level": 2,
+      "parent_target_id": "page912_2037",
+      "target": "Vernetzen von Darstellungen",
+      "remarks": "flexibles Wechseln zwischen Handlung, Bild, Sprache, Symbol und Sachsituation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2044"
+    },
+    "page912_187038": {
+      "id": "page912_187038",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "target": "Lesen und Sprechen von Zahlen und Zahlwörtern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187038"
+    },
+    "page912_187039": {
+      "id": "page912_187039",
+      "level": 3,
+      "parent_target_id": "page912_1833",
+      "target": "Schreiben von Ziffern, Zahlen und Zahlwörtern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187039"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken von Strukturelementen im Zahlenaufbau",
+      "remarks": "Bündelung, Hunderterfeld, -tafel dekadisches Positionssystem, Stellentafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937"
+    },
+    "page139_37941": {
+      "id": "page139_37941",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zuordnen von Zahlwort und Zahl zu Mengen",
+      "remarks": "Gliedern, Ordnen Differenzierung: unterschiedliche räumliche Anordnung der Zählobjekte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37871": {
+      "id": "page139_37871",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Erkennen wesentlicher Strukturelemente von zweistelligen Zahlen",
+      "remarks": "Beziehung zum Zahlenaufbau: 10 + 4 = 14 Sprechen, Darstellen, Verwenden von Zehner (Z) und Einer (E), Stellenwerttafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_2040",
+      "first_review": true,
+      "status": "limited_connection",
+      "cards": [
+        "MA-111"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4 für natürliche Zahlen in gewöhnlicher dezimaler Ziffernschreibweise: Zahlen sicher lesen, als ganze Zahl aussprechen und in Ziffern schreiben. GS 2040/2041 stehen unter Beherrschen von Zahldarstellungen bis 1 000 (2037), mit Umweltbezug2038. FSP 35463 steht unter Beherrschen der Zahlen bis 100 in Alltagssituationen (35461); Lesen und Schreiben von Zahlen steht in der Bemerkung zu35463. Das mündliche Benennen der gelesenen Zahl ist die hier ausgewählte didaktische Konkretisierung des Lesens, keine zusätzliche amtliche FSP-Sprechzielzeile. Beide Lernzielebenen lauten Beherrschen; Lesen, Sprechen, Schreiben, Entdecken, Vergleichen und Ordnen bleiben Zielhandlungen.",
+      "prerequisites": "Vertrauter Alltagsbezug mit eindeutiger Zahlbedeutung. Gewöhnliche dezimale Ziffernschreibweise und gesprochene Zahl werden einander zugeordnet; bloßes Aufsagen einzelner Ziffernnamen genügt nicht als Lesen der ganzen Zahl. Ziffernfolge, Stellenwert und erforderliche Nullen müssen den Zahlwert erhalten. Keine besonderen Kennzeichnungssysteme, führenden Nullen, Einheiten, Kommaschreibweisen, Uhrzeit- oder Datumsnotationen in diesem Ausschnitt. Keine Zeitvorgabe oder zusätzliche Schriftgestaltung als Erfolgskriterium.",
+      "written_word_form_decision": "Für den zusätzlichen Ausschnitt ausgeschriebener Zahlwörter ist im Mathematikplan FSP1/2 oder3/4 kein hinreichend bestimmter direkter Anschluss belegt.37941 verknüpft Zahlwort, Zahl und Menge und kann mündlich erfüllt werden;37871 betrifft den zweistelligen Zahlaufbau und nennt das Sprechen von Zehnern/Einern.35463 nennt Zahlenlesen und -schreiben, legt jedoch keine alphabetische Wortform fest. Die positiven Sprach- und Zahlwortbelege bleiben anerkannt. Das Lesen einer Buchstabenfolge und das Schreiben ihrer Wortform einschließlich Rechtschreibung sind zusätzliche Anforderungen, die aus diesen Belegen nicht zwingend folgen. Übergreifende Sprachziele37739/35415 (Wahrnehmungen, Lösungswege, Fachbegriffe und Sachverhalte versprachlichen) bestimmen ebenfalls keine schriftliche Zahlwortform. Die Entscheidung betrifft nur diesen zusätzlichen Schriftform-Ausschnitt, nicht gesprochene Zahlwörter, nicht die ganze GS-Zeile und nicht die Möglichkeit einer didaktischen Erweiterung durch die Lehrkraft. Keine fachübergreifende Deutsch-Freigabe behauptet.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: FSP bis 100 gegenüber GS bis 1 000; Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Lesen und Schreiben ausgeschriebener Zahlwörter samt Rechtschreibung sind nicht durch diese Karte gedeckt und als gesonderter Schriftform-Ausschnitt ohne hinreichend belegten direkten Anschluss entschieden. Allgemeine Darstellungsvernetzung2044, besondere Schreibweisen und Rechenanforderungen bleiben getrennt zu prüfen. Die engen Feinziele weisen die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    },
+    {
+      "gs_id": "page912_2041",
+      "first_review": true,
+      "status": "limited_connection",
+      "cards": [
+        "MA-111"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4 für natürliche Zahlen in gewöhnlicher dezimaler Ziffernschreibweise: Zahlen sicher lesen, als ganze Zahl aussprechen und in Ziffern schreiben. GS 2040/2041 stehen unter Beherrschen von Zahldarstellungen bis 1 000 (2037), mit Umweltbezug2038. FSP 35463 steht unter Beherrschen der Zahlen bis 100 in Alltagssituationen (35461); Lesen und Schreiben von Zahlen steht in der Bemerkung zu35463. Das mündliche Benennen der gelesenen Zahl ist die hier ausgewählte didaktische Konkretisierung des Lesens, keine zusätzliche amtliche FSP-Sprechzielzeile. Beide Lernzielebenen lauten Beherrschen; Lesen, Sprechen, Schreiben, Entdecken, Vergleichen und Ordnen bleiben Zielhandlungen.",
+      "prerequisites": "Vertrauter Alltagsbezug mit eindeutiger Zahlbedeutung. Gewöhnliche dezimale Ziffernschreibweise und gesprochene Zahl werden einander zugeordnet; bloßes Aufsagen einzelner Ziffernnamen genügt nicht als Lesen der ganzen Zahl. Ziffernfolge, Stellenwert und erforderliche Nullen müssen den Zahlwert erhalten. Keine besonderen Kennzeichnungssysteme, führenden Nullen, Einheiten, Kommaschreibweisen, Uhrzeit- oder Datumsnotationen in diesem Ausschnitt. Keine Zeitvorgabe oder zusätzliche Schriftgestaltung als Erfolgskriterium.",
+      "written_word_form_decision": "Für den zusätzlichen Ausschnitt ausgeschriebener Zahlwörter ist im Mathematikplan FSP1/2 oder3/4 kein hinreichend bestimmter direkter Anschluss belegt.37941 verknüpft Zahlwort, Zahl und Menge und kann mündlich erfüllt werden;37871 betrifft den zweistelligen Zahlaufbau und nennt das Sprechen von Zehnern/Einern.35463 nennt Zahlenlesen und -schreiben, legt jedoch keine alphabetische Wortform fest. Die positiven Sprach- und Zahlwortbelege bleiben anerkannt. Das Lesen einer Buchstabenfolge und das Schreiben ihrer Wortform einschließlich Rechtschreibung sind zusätzliche Anforderungen, die aus diesen Belegen nicht zwingend folgen. Übergreifende Sprachziele37739/35415 (Wahrnehmungen, Lösungswege, Fachbegriffe und Sachverhalte versprachlichen) bestimmen ebenfalls keine schriftliche Zahlwortform. Die Entscheidung betrifft nur diesen zusätzlichen Schriftform-Ausschnitt, nicht gesprochene Zahlwörter, nicht die ganze GS-Zeile und nicht die Möglichkeit einer didaktischen Erweiterung durch die Lehrkraft. Keine fachübergreifende Deutsch-Freigabe behauptet.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: FSP bis 100 gegenüber GS bis 1 000; Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Lesen und Schreiben ausgeschriebener Zahlwörter samt Rechtschreibung sind nicht durch diese Karte gedeckt und als gesonderter Schriftform-Ausschnitt ohne hinreichend belegten direkten Anschluss entschieden. Allgemeine Darstellungsvernetzung2044, besondere Schreibweisen und Rechenanforderungen bleiben getrennt zu prüfen. Die engen Feinziele weisen die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "resolved_previous_questions": [
+    {
+      "gs_id": "page912_187038",
+      "scope": "Lesen ausgeschriebener Zahlwörter",
+      "status": "offen",
+      "reason": "FSP-Zahlwortzuordnung und das Lesen von Zahlen belegen nicht eindeutig das Lesen ausgeschriebener Zahlwörter."
+    },
+    {
+      "gs_id": "page912_187039",
+      "scope": "Schreiben ausgeschriebener Zahlwörter",
+      "status": "offen",
+      "reason": "FSP-Bemerkung nennt Schreiben von Zahlen ohne ausdrückliche Forderung zur Wortschreibung."
+    }
+  ],
+  "written_word_form_decision": "Für den zusätzlichen Ausschnitt ausgeschriebener Zahlwörter ist im Mathematikplan FSP1/2 oder3/4 kein hinreichend bestimmter direkter Anschluss belegt.37941 verknüpft Zahlwort, Zahl und Menge und kann mündlich erfüllt werden;37871 betrifft den zweistelligen Zahlaufbau und nennt das Sprechen von Zehnern/Einern.35463 nennt Zahlenlesen und -schreiben, legt jedoch keine alphabetische Wortform fest. Die positiven Sprach- und Zahlwortbelege bleiben anerkannt. Das Lesen einer Buchstabenfolge und das Schreiben ihrer Wortform einschließlich Rechtschreibung sind zusätzliche Anforderungen, die aus diesen Belegen nicht zwingend folgen. Übergreifende Sprachziele37739/35415 (Wahrnehmungen, Lösungswege, Fachbegriffe und Sachverhalte versprachlichen) bestimmen ebenfalls keine schriftliche Zahlwortform. Die Entscheidung betrifft nur diesen zusätzlichen Schriftform-Ausschnitt, nicht gesprochene Zahlwörter, nicht die ganze GS-Zeile und nicht die Möglichkeit einer didaktischen Erweiterung durch die Lehrkraft. Keine fachübergreifende Deutsch-Freigabe behauptet.",
+  "context_only": [
+    "page912_2037",
+    "page912_2038"
+  ],
+  "not_yet_reviewed": [
+    "page912_2044"
+  ],
+  "band_selection": "FSP3/4 ist stufenpassend und nennt Lesen/Schreiben ausdrücklich in der Bemerkung35463 unter35461. Daher bevorzugt. FSP1/2 liefert positive Zahlwort-/Mengenbezüge37941 unter37931 sowie Sprechen/Darstellen von Zehnern und Einern37871 unter Einblick gewinnen37851. Diese Inhalte werden nicht wegen kleinerer Zahlenräume ausgeschlossen; sie belegen jedoch nicht denselben kombinierten, sicheren Lese-/Schreibausschnitt im Alltagskontext. Kein Bedarf, das klarere stufenpassende Ziel durch einen stufenübergreifenden Anschluss zu ersetzen. Die gebündelten FSP-Bänder werden nicht auf Einzelklassen aufgeteilt.",
+  "learning_level_review": "GS Beherrschen2037 und FSP Beherrschen35461 nach amtlichen Definitionen und Zeilenhierarchie. Gesprochenes Benennen ist didaktische Konkretisierung; kein eigener Sprechoperator oder neue amtliche Lernzielebene. Keine Gleichsetzung der vollständigen Hauptziele.",
+  "number_scope_review": {
+    "status": "explicit",
+    "summary": "Ausdrücklich belegt: Zahlen in Ziffernschreibweise bis 100",
+    "detail": "FSP35461 nennt bis100 unmittelbar im ausgewählten Hauptziel; Lesen und Schreiben konkretisiert dessen Unterziel35463 in der Bemerkung. Keine Ableitung aus dem übergreifenden Bandziel. GS2037 nennt bis1 000; keine vollständige GS-Zieldeckung. Ausgeschriebene Zahlwörter und ihre Rechtschreibung sind nicht Bestandteil dieses Anschlusses.",
+    "max_value": 100,
+    "source_ids": [
+      "Q-MA-page139_35461"
+    ],
+    "planning_rule": "Vertrauter Alltagsbezug mit eindeutiger Zahlbedeutung. Gewöhnliche dezimale Ziffernschreibweise und gesprochene Zahl werden einander zugeordnet; bloßes Aufsagen einzelner Ziffernnamen genügt nicht als Lesen der ganzen Zahl. Ziffernfolge, Stellenwert und erforderliche Nullen müssen den Zahlwert erhalten. Keine besonderen Kennzeichnungssysteme, führenden Nullen, Einheiten, Kommaschreibweisen, Uhrzeit- oder Datumsnotationen in diesem Ausschnitt. Keine Zeitvorgabe oder zusätzliche Schriftgestaltung als Erfolgskriterium. Alle relevanten FSP-Zahlwerte bleiben bis 100, einschließlich etwaiger Zwischen- und Endergebnisse. Das hinterlegte Feinziel verlangt keine Rechnung. Einheiten und besondere Schreibweisen benötigen eine gesonderte Quellenprüfung; aus dem gesprochenen Zahlwort folgt keine alphabetische Schreibanforderung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+  },
+  "new_cards": [
+    "MA-111"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 2,
+    "revisited_connection_questions": 2,
+    "written_word_form_aspect_decisions": 4,
+    "new_cards": 1,
+    "cards_total": 111,
+    "same_band": 82,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 13,
+    "inventory_rows": 200,
+    "new_inventory_rows": 0,
+    "source_links": 274,
+    "target_anchors": 272
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187038",
+      "Klasse": "1/2",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "3",
+      "Ziel": "Lesen und Sprechen von Zahlen und Zahlwörtern",
+      "Karten": "MA-012",
+      "Prüfstatus": "MA-003: Ziffernschreibweise begrenzt geprüft; ausgeschriebene Zahlwörter bleiben offene Anschlussfrage; MA-009: FSP-Geltungsbereich der zugeordneten Karte und Feinziele/Kriterien geprüft; bisheriger Restumfang bleibt bestehen"
+    },
+    {
+      "Ziel-ID": "page912_187039",
+      "Klasse": "1/2",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "3",
+      "Ziel": "Schreiben von Ziffern, Zahlen und Zahlwörtern",
+      "Karten": "MA-012",
+      "Prüfstatus": "MA-003: Ziffernschreibweise begrenzt geprüft; ausgeschriebene Zahlwörter bleiben offene Anschlussfrage; MA-009: FSP-Geltungsbereich der zugeordneten Karte und Feinziele/Kriterien geprüft; bisheriger Restumfang bleibt bestehen"
+    },
+    {
+      "Ziel-ID": "page912_2037",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "1",
+      "Ziel": "Beherrschen von Zahldarstellungen im Zahlenraum bis 1 000",
+      "Karten": "",
+      "Prüfstatus": "MA-111: Hauptziel Beherrschen und GS-Rahmen bis1000 nur Kontext fürMA-109/MA-110; keine eigene Erstprüfung oder vollständige Deckung.2040/2041/2044 offen."
+    },
+    {
+      "Ziel-ID": "page912_2038",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "2",
+      "Ziel": "Erkennen von Zahlen in der Umwelt in ihrer Bedeutungsvielfalt",
+      "Karten": "MA-109;MA-110",
+      "Prüfstatus": "MA-111: erste Einzelprüfung einer Zeile; zwei begrenzte Aspekte, keine Doppelzählung. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: die Bedeutung einer natürlichen Zahl als Anzahl oder Position in einem vertrauten Alltagszusammenhang erkennen und passend zuordnen. GS 2038 steht unter Beherrschen von Zahldarstellungen bis 1 000 (2037). FSP 35463 nennt Entdecken,Vergleichen,Ordnen von Mengen und Zahlen unter Beherrschen bis 100 (35461); Zuordnung zwischen Mengen und Zahlen sowie kardinaler und ordinaler Zahlaspekt stehen in der Bemerkung. Die Alltagseinbettung ist im Hauptziel und seiner Bemerkung belegt. Die beiden Zahlbedeutungen sind ein didaktisch ausgewählter Ausschnitt, keine vollständige Bedeutungsvielfalt. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der reduzierte FSP-Zahlenraum erlaubt den belegten inhaltlichen Teilanschluss, deckt das vollständige GS-Ziel bis 1 000 aber nicht ab. Voraussetzungen: Ein vertrauter Kontext muss erkennen lassen, welche Menge beziehungsweise welche geordnete Folge gemeint ist. Bei Positionsangaben müssen Ordnung und Anfang feststehen; die Position darf nicht mit der Gesamtanzahl gleichgesetzt werden. Die bloße Ziffernfolge ohne Bezug genügt nicht. Schriftliche Zahlwörter, Maßeinheiten, Rechnen mit Angaben und beliebige neue Kennzeichnungssysteme werden nicht vorausgesetzt. Stufenübergreifender Teilanschluss GS 3 → FSP 1/2: eine vertraute numerische Kennzeichnung als Bezeichnung ihres Bezugs deuten, ohne sie als Anzahl oder Größenwert zu behandeln. GS 2038 umfasst die Bedeutungsvielfalt von Umweltzahlen unter Beherrschen2037. FSP 37959 nennt das Deuten von Daten in der Umwelt unter Beherrschen37931; Straßenbahn- und Buslinien stehen ausdrücklich in der Bemerkung und belegen eine Kennzeichnungsfunktion. Das ist eine begrenzte didaktische Auswahl, keine allgemeine Kodierungskompetenz. Die Lernzielebene stammt vom tatsächlichen Hauptziel37931; Deuten ist die konkrete Handlung. Voraussetzungen: Das konkrete Kennzeichnungssystem und sein Bezug müssen vertraut und eindeutig sein. Betrachtet werden einfache rein numerische Kennzeichnungen in gewöhnlicher Ziffernschreibweise. Eine Kennzeichnung identifiziert innerhalb ihres Systems einen Bezug; eine größere Kennzahl bedeutet nicht mehr Gegenstände,größere Menge oder höhere Position. Dieselbe Kennzahl in einem anderen System kann einen anderen Bezug haben. Alphanumerische Codes,führende Nullen,Prüfziffern und besondere Notationsregeln bleiben außerhalb dieser didaktischen Auswahl. Unsicherheiten: kontextgebundene didaktische Auswahl,keine universelle Bedeutungs-/Kodierungskompetenz. Rest: 2038 nur für Anzahl/Position aufMA-109 und vertraute numerische Kennzeichnungen aufMA-110 begrenzt geprüft. GS bis1000, FSP3/4-Anzahlen/Positionen bis100 ausdrücklich; FSP1/2-Kennzeichnungszeile ohne belegte Obergrenze, keine erfundene20-Grenze. Maßzahlen,Geld-/Zeit-/Datumsangaben,Operationsaspekte und weitere Kontexte bleiben als Restumfang offen; vorhandene Größenkarten sind keine pauschale Deckung dieser Bedeutungszeile. Lesen/Sprechen/Schreiben2040/2041 und Darstellungsvernetzung2044 gesondert prüfen. Kein vollständiger Hauptzielnachweis."
+    },
+    {
+      "Ziel-ID": "page912_2040",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "3",
+      "Ziel": "Lesen und Sprechen von Zahlen und Zahlwörtern",
+      "Karten": "",
+      "Prüfstatus": "MA-110: offen; nur inventarisiert, keine fachliche Einzelprüfung oder Anschlussentscheidung."
+    },
+    {
+      "Ziel-ID": "page912_2041",
+      "Klasse": "3",
+      "Lernbereich": "Zahl und Operation",
+      "Ebene": "3",
+      "Ziel": "Schreiben von Zahlen und Zahlwörtern",
+      "Karten": "",
+      "Prüfstatus": "MA-110: offen; nur inventarisiert, keine fachliche Einzelprüfung oder Anschlussentscheidung."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-012",
+    "MA-109",
+    "MA-110"
+  ],
+  "existing_card_review": "MA-012 bleibt GS1/2→FSP3/4 für Ziffernschreibweise bis100; Wortformgrenze bereits sichtbar und beibehalten. MA-109 bleibt Anzahl/Position mit GS1000/FSP100; MA-110 bleibt fachspezifische Kennzeichnung ohne erfundene FSP-Grenze. Nur überholte Verweise auf2040/2041 in zwei Hinweisfeldern dieser beiden Karten aktualisiert; sämtliche bestehenden Feinziele, Kriterien, Quellen und Grenzen unverändert.423 alte Lernzielebenen-Einträge unverändert. Keine vollständige neue semantische Bestandsprüfung.",
+  "limits": "Keine vollständige GS-Zieldeckung: FSP bis 100 gegenüber GS bis 1 000; Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Lesen und Schreiben ausgeschriebener Zahlwörter samt Rechtschreibung sind nicht durch diese Karte gedeckt und als gesonderter Schriftform-Ausschnitt ohne hinreichend belegten direkten Anschluss entschieden. Allgemeine Darstellungsvernetzung2044, besondere Schreibweisen und Rechenanforderungen bleiben getrennt zu prüfen. Die engen Feinziele weisen die ganzen Hauptziele Beherrschen nicht vollständig nach.",
+  "tests": {
+    "status": "pass_local",
+    "commands": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "stdout": "",
+        "stderr": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "stdout": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "stderr": ""
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "stdout": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-23\n",
+        "stderr": ""
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "stdout": "PASS: 111 mathematics cards, 274 source links (272 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "stderr": ""
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "stdout": "PASS: 111 mathematics cards, 274 source links (272 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n",
+        "stderr": ""
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "stdout": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "stderr": ""
+      }
+    },
+    "targeted_browser": "PASS lokal: MA-012/109/110/111, Quellen, echte Lernzielebenen, Zahlenraum auf Karte/Zielen/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe/Fachwechsel/Neuladen; MA-111 bei320/390px ohne horizontalen Überlauf.",
+    "learning_levels_browser": "PASS lokal:424 Karten,848 Seiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "preservation": "110 bestehende Karten: sämtliche Feinziele,Kriterien,Geltungsbereiche,Quellen erhalten; nur zwei Fortsetzungsverweisfelder aufMA-109/110 aktualisiert.423 bestehende Ebeneneinträge, alle Deutschdateien und alle200 Inventur-Quellzeilen unverändert. Remote-Ausgangsdateien geprüft,CSV nach Zeilenenden-Normalisierung identisch.",
+    "limits": "Keine UI-Codeänderung. Gezielter Funktionsbrowser statt erneutem vollständigem Funktionslauf aller111 Mathematikkarten; Lernzielebenen aller424 Karten geprüft. Keine erneute vollständige semantische Prüfung aller Bestandskarten. Liveprüfung ausstehend."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.415",
+    "local_html_sha256": "b7316d3f0d0c6244152e94b01bc3f105e0d263afbcdc49d36e6e2945a94f3e3b"
+  },
+  "continuation": {
+    "next_id": "page912_2044",
+    "next_step": "GS3 Vernetzen von Darstellungen2044 unter Beherrschen2037 prüfen; beide FSP-Bänder, konkrete Darstellungswechsel und jeweilige Grenzen getrennt.2040/2041 aufMA-111 nur Ziffernschreibweise/gesprochene Zahl, GS bis1000/FSP3/4 bis100. Schriftliche Wortform-Ausschnitte2040/2041 sowie alte Fragen187038/187039 ohne hinreichend belegten direkten Anschluss entschieden; keine ganzen Zeilen als Nichtanschluss zählen.111 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,200 Inventurzeilen. App1.415: Lokale Daten-/Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}
