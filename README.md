@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.412** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.413** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -202,3 +202,6 @@ Mathematik MA-108: Fachwortzeile187180 für gespiegelt/gedreht/verschoben getren
 
 
 Mathematik MA-109: gleiche Verschiebung im eigenen Bandmuster als didaktischer Teilanschluss.107 Karten,25 Fragen; Drehsymmetrie bleibt offen. [Prüfpaket](curriculum/mathematik/review_batch_109.json). App1.412: Sechs Datenprüfungen sowie gezielte lokale und Live-Browserprüfungen bestanden, einschließlich420 Karten/840 Lernzielebenen-Seiten. Appcommit 8bd7fe5cd4d01437c27f91b9fccdb41b5b7a4d0e auf main veröffentlicht. [Pages45142667257](https://github.com/geafaellt/LernzielKompass/actions/runs/45142667257) erfolgreich; Live-App1.412 bytegleich bestätigt. Keine UI-Codeänderung und kein vollständiger Funktionslauf aller107 Mathematikkarten; keine vollständige neue semantische Bestandsprüfung.
+
+
+Mathematik MA-110: halbe Drehung im eigenen Ornament als didaktischer Teilanschluss.108 Karten,24 Fragen; weiter bei GS3-Zahldarstellungen2038. [Prüfpaket](curriculum/mathematik/review_batch_110.json). App1.413: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend.
