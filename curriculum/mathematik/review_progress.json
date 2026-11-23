@@ -3472,7 +3472,7 @@
     }
   },
   "next_id": "page912_2040",
-  "next_step": "GS3 Lesen und Sprechen von Zahlen und Zahlwörtern2040, danach Schreiben2041 und Darstellungsvernetzung2044 unter Beherrschen2037 prüfen.2038 erstmals nur für Anzahl/Position(MA-109,FSP3/4 bis100) und Kennzeichnung(MA-110,FSP1/2 ohne belegte Kennzahlobergrenze) begrenzt geprüft. Weitergehende Bedeutungen als Restumfang erhalten.110 Karten,24 Anschlussfragen,13 direkte Nichtanschlüsse,200 Inventurzeilen. App1.414: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 Lesen und Sprechen von Zahlen und Zahlwörtern2040, danach Schreiben2041 und Darstellungsvernetzung2044 unter Beherrschen2037 prüfen.2038 erstmals nur für Anzahl/Position(MA-109,FSP3/4 bis100) und Kennzeichnung(MA-110,FSP1/2 ohne belegte Kennzahlobergrenze) begrenzt geprüft. Weitergehende Bedeutungen als Restumfang erhalten.110 Karten,24 Anschlussfragen,13 direkte Nichtanschlüsse,200 Inventurzeilen. App1.414: Datenprüfungen sowie lokale und Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5568,8 +5568,19 @@
   },
   "latest_publication": {
     "batch": "MA-111",
-    "status": "pending",
+    "status": "verified",
     "app_version": "1.414",
+    "commit": "9577a38dac2a19eee9e9bc6dbc0283764733a72c",
+    "pages_run_id": 45170618379,
+    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45170618379",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html_sha256": "95101f644f241444d9e90fa92ffcf38a991db9ad6a3e47f7b2f627831d6cf3ce",
+    "live_html_byte_equal": true,
+    "checked_on": "2026-11-23",
+    "targeted_live_browser": "PASS MA-013,MA-109,MA-110: Quellen,Zahlenraumhinweise,Geltungsbereich Karte/Ziele/Output,Feinzielübernahme,leere Aufgaben/Hilfsmittel,erhaltene Lehrkrafttexte und Mobil320/390.",
+    "learning_levels_live_browser": "PASS423 Karten/846 Kartenseiten: amtliche Lernzielebenenbelege,fehlende Ebenen,Ausschluss von Zielhandlungen,Quellenvererbung und Fachwechsel.",
+    "limits": "Keine neue vollständige semantische Bestandsprüfung; kein vollständiger Funktionslauf aller110 Mathematikkarten. Quellen- und Prüfgrenzen im Prüfpaket.",
     "previous_publication": {
       "batch": "MA-110",
       "status": "verified",
