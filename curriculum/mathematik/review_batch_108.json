@@ -1,0 +1,426 @@
+{
+  "id": "MA-108",
+  "date": "2026-11-22",
+  "base_commit": "a8f374f0a3bae6ebb64be766f82d305651c0f745",
+  "scope": "GS3-Ornament-Fachwortzeile187180: drei Wörter getrennt, eine Erstprüfung",
+  "source_verification": {
+    "html": "Beide amtlichen Onlinepläne erneut geöffnet; gespeicherte Ziel-/Bemerkungszeilen dieses Tages und die übergreifenden Sprachziele37739/35415 geprüft. Die HTML-Anker der Bandziele sind anhand der umgebenden id-Elemente kontrolliert. Kein neuer HTML-Dateidownload behauptet.",
+    "pdf": "Bestands-PDF GS S.21/PDF31 und Definitionen S.V/PDF5 sowie FSP S.9/PDF21,S.17/PDF29,S.18/PDF30 erneut textuell gelesen. FSP-Musterhierarchie S.22/PDF34 ist aus MA-107 visuell belegt. Keine neue PDF-Herunterladung oder Renderprüfung in MA-108.",
+    "method": "Geprüft wurden Inhalte und sprachlicher Anforderungsumfang beider Bänder einschließlich allgemeiner Sprachziele, nicht nur eine Suche nach Wortformen. Spätere FSP-Stufen außerhalb1/2 und3/4 nicht als Anschlussbelege übernommen."
+  },
+  "source_sha256": {
+    "gs": "d18d132ee3cb465ce3baca6872ac5b4d9b110db9d56af918445f7677f6354ca3",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_187177": {
+      "id": "page912_187177",
+      "level": 1,
+      "parent_target_id": "page912_187177",
+      "target": "Übertragen des Wissens über Symmetrien auf Ornamente",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187177"
+    },
+    "page912_187178": {
+      "id": "page912_187178",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Entwickeln, Beschreiben und Fortsetzen von Bandornamenten",
+      "remarks": "➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187178"
+    },
+    "page912_187179": {
+      "id": "page912_187179",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Nutzen von Achsen-, Schiebe- und Drehsymmetrie",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187179"
+    },
+    "page912_187180": {
+      "id": "page912_187180",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Verwenden der Fachbegriffe: gespiegelt, gedreht, verschoben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187180"
+    },
+    "page139_37759": {
+      "id": "page139_37759",
+      "level": 1,
+      "parent_target_id": "page139_37759",
+      "target": "Kennen des eigenen Körpers",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ Sprachförderung ➔ DE - HKS, Kl. 1/2, LB 4 ➔ SPO, Kl. 1/2, LB 1 ➔ MU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37759"
+    },
+    "page139_37765": {
+      "id": "page139_37765",
+      "level": 2,
+      "parent_target_id": "page139_37759",
+      "target": "Orientierung am eigenen Körper",
+      "remarks": "Raum-Lage-Beziehungen: oben, unten, vorn, hinten, rechts, links",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37765"
+    },
+    "page139_37773": {
+      "id": "page139_37773",
+      "level": 2,
+      "parent_target_id": "page139_37759",
+      "target": "Beziehung des eigenen Körpers zur Umgebung",
+      "remarks": "links von mir ..., rechts von mir ..., neben mir ... ➔ WE, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37773"
+    },
+    "page139_37779": {
+      "id": "page139_37779",
+      "level": 1,
+      "parent_target_id": "page139_37779",
+      "target": "Übertragen des Wissens über Raum-Lage-Beziehungen auf die Orientierung in der Schule",
+      "remarks": "⇒ Sprachförderung ➔ DE - HKS, Kl. 1/2, LB 5 ➔ SPO, Kl. 1/2, LB 5",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37779"
+    },
+    "page139_37786": {
+      "id": "page139_37786",
+      "level": 2,
+      "parent_target_id": "page139_37779",
+      "target": "Lagebeziehung zwischen Objekten im Raum",
+      "remarks": "Klassenraum, Turnhalle, Schulhaus",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37786"
+    },
+    "page139_37794": {
+      "id": "page139_37794",
+      "level": 3,
+      "parent_target_id": "page139_37779",
+      "target": "gedankliche Orientierung im Raum",
+      "remarks": "Entwickeln der Fähigkeit zum räumlichen Denken Fantasiereisen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37794"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37824": {
+      "id": "page139_37824",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Erkennen und Benennen der Merkmale von Objekten",
+      "remarks": "Gebrauchsgegenstände, Spielsachen gezieltes Beobachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37824"
+    },
+    "page139_37827": {
+      "id": "page139_37827",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Sortieren nach Größe, Farbe, Form, Oberfläche",
+      "remarks": "Gliedern, Ordnen, Zuordnen ➔ DE - HKS, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37827"
+    },
+    "page139_37832": {
+      "id": "page139_37832",
+      "level": 2,
+      "parent_target_id": "page139_37821",
+      "target": "Entdecken der Grundformen Viereck, Dreieck, Kreis",
+      "remarks": "an Gegenständen und bildhaften Darstellungen Nutzen digitaler Medien ⇒ Wahrnehmungsförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37832"
+    },
+    "page139_37836": {
+      "id": "page139_37836",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Vergleichen, Sortieren und Benennen der Figuren und ihrer Merkmale",
+      "remarks": "Sortieren nach selbst gefundenen und vorgegebenen Merkmalen Form, Anzahl von Ecken und Seiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37836"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    },
+    "page139_37997": {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997"
+    },
+    "page139_38004": {
+      "id": "page139_38004",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Entdecken, Zeichnen von Mustern und Ornamenten und Bauen räumlicher Objekte",
+      "remarks": "Kleidung, Pfefferkuchenhaus, Burgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38004"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38014": {
+      "id": "page139_38014",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Entdecken von Ornamenten an Gegenständen und in bildhaften Darstellungen",
+      "remarks": "Gebäude, Kleidung Linien, Flächen, Farben Abzeichnen, Fotografieren Harmonie und Balance beachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38014"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    },
+    "page139_38016": {
+      "id": "page139_38016",
+      "level": 1,
+      "parent_target_id": "page139_38016",
+      "target": "Übertragen des Wissens über Muster auf die Reihung von Gegenständen",
+      "remarks": "Schmuckelemente mit verschiedenen Materialien herstellen räumliche Orientierung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38016"
+    },
+    "page139_35432": {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432"
+    },
+    "page139_35433": {
+      "id": "page139_35433",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433"
+    },
+    "page139_35434": {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    }
+  },
+  "overarching_language_evidence": [
+    {
+      "id": "page139_37739",
+      "grade": "1/2",
+      "kind": "stage_goals",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "pdf_page_one_based": 21,
+      "printed_page": "9",
+      "finding": "Wahrnehmungen und Beobachtungen sprachlich darstellen; geometrische und arithmetische Lösungswege sprachlich begleiten und mit Unterstützung umgangssprachlich erklären. Keine festgelegte aktive Verwendung der drei GS-Wörter."
+    },
+    {
+      "id": "page139_35415",
+      "grade": "3/4",
+      "kind": "stage_goals",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "pdf_page_one_based": 29,
+      "printed_page": "17",
+      "finding": "Zunehmendes Verstehen des mathematischen Inhalts von Fachbegriffen der Grundrechenarten und bekannter geometrischer Objekte; Lagebeziehungen und mathematische Sachverhalte beschreiben. Positiver Sprachbeleg, aber kein festgelegter aktiver Wortkatalog gespiegelt/gedreht/verschoben und keine eigene Zeilen-Lernzielebene."
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187180",
+      "status": "no_direct_connection",
+      "first_review": true,
+      "cards": [],
+      "decision": "187180: kein hinreichend belegter direkter Anschluss an den eigenständigen GS-Fachwortauftrag für gespiegelt, gedreht und verschoben in FSP1/2 oder3/4. Die Entscheidung trennt geometrischen Inhalt, Begriffsverstehen, sachgerechtes Beschreiben und die aktive Verwendung genau der ausdrücklich benannten GS-Fachwörter. Ein FSP-Inhaltsziel oder eine sachgerechte Beschreibung kann ohne diese konkrete Wortwahl erfüllt werden. Daher wird die zusätzliche GS-Wortanforderung nicht als amtlich ausgewiesene FSP-Anforderung ausgegeben. Nicht allein das fehlende Vorkommen einer Wortform, eine fehlende Karte oder ein Zahlenraumunterschied begründet die Entscheidung.",
+      "positive_candidates": "FSP3/4 35432 Kennen von Spiegelbildern,35433 Entdecken/Herstellen von Symmetrien in Ornamenten und35434 Finden der Spiegelachse belegen den Spiegelinhalt unmittelbar.35535 belegt Mustervervollständigung und -erfindung unter Gestalten35521 mit Symmetrie in der Bemerkung. Das übergreifende Bandziel35415 enthält zunehmendes Verstehen der Fachbegriffe bekannter geometrischer Objekte und das Beschreiben von Lagebeziehungen und mathematischen Sachverhalten. Diese sprachlichen Belege werden ausdrücklich berücksichtigt; sie sind keine Zeilen-Lernzielebene und kein festgelegter aktiver Wortkatalog. FSP1/2 37824/37836 nennt Benennen von Objekt-/Figurenmerkmalen unter Kennen37821,37844 Figurendarstellung mit Ornamenten/Serien in der Bemerkung.37984 nennt Musterfortsetzung und kreative Entwicklung unter Gestalten37981.38014/38015 nennt Ornamente, Wiederholbarkeit und Richtungsänderung im Wahlbereich3 unter Anwenden38011;38016 ist ein eigenes Übertragen-Ziel zur Reihung von Gegenständen.38004 steht im Märchen-Wahlbereich1 unter Einblick37997. Das übergreifende Ziel37739 unterstützt sprachliche Darstellung und begleitendes, unterstütztes umgangssprachliches Erklären. Raumlageziele37765/37773/37786/37794 enthalten weitere positive Sprach-/Orientierungsbezüge, bestimmen aber nicht die geometrischen Abbildungen mit dem verlangten Fachwortgebrauch.",
+      "word_decisions": [
+        {
+          "term": "gespiegelt",
+          "status": "no_direct_lexical_connection",
+          "positive_source_ids": [
+            "page139_35432",
+            "page139_35433",
+            "page139_35434",
+            "page139_35521",
+            "page139_35535",
+            "page139_35415"
+          ],
+          "reason": "Stärkster inhaltlicher Kandidat: Spiegelbilder und Spiegelachse sind ausdrücklich belegt. Eine Spiegelstruktur erkennen oder herstellen und ihren Zusammenhang sachgerecht beschreiben verlangt jedoch nicht bereits die aktive Verwendung der Wortform gespiegelt. Das übergreifende Fachbegriffsverstehen ist nicht gleichbedeutend mit dieser speziellen produktiven Wortanforderung. Inhaltliche Spiegelanschlüsse bleiben bestehen; eine didaktische Einführung des Wortes ist möglich, wird aber nicht als zusätzlicher amtlicher FSP-Auftrag behauptet."
+        },
+        {
+          "term": "gedreht",
+          "status": "no_direct_lexical_connection",
+          "positive_source_ids": [
+            "page139_35535",
+            "page139_37984",
+            "page139_38015",
+            "page139_37794",
+            "page139_35415",
+            "page139_37739"
+          ],
+          "reason": "Symmetrie, Muster und Richtungsänderung sind positive Inhaltskandidaten, legen aber weder die aktive Verwendung von gedreht als geometrischem Fachwort noch einen eindeutigen Bezug auf Drehzentrum und zugehörige Abbildung fest. Allgemeine räumliche Orientierung und umgangssprachliches Beschreiben ersetzen diese Fachwortforderung nicht. Ob ein enger inhaltlicher Drehanschluss möglich ist, bleibt unter187179 gesondert offen."
+        },
+        {
+          "term": "verschoben",
+          "status": "no_direct_lexical_connection",
+          "positive_source_ids": [
+            "page139_35521",
+            "page139_35535",
+            "page139_37981",
+            "page139_37984",
+            "page139_38015",
+            "page139_38016",
+            "page139_37779",
+            "page139_35415",
+            "page139_37739"
+          ],
+          "reason": "Reihen, Wiederholbarkeit und Reihung von Gegenständen sind positive Kandidaten. Sie bestimmen keine aktive Verwendung von verschoben als Fachwort für eine geometrische Translation mit unveränderter Form und Orientierung sowie gemeinsamer Verschiebung. Die Lernzielebene Übertragen38016 bezeichnet Wissenstransfer und ist kein Beleg für Verschieben als geometrischen Inhalt. Ein möglicher enger inhaltlicher Schiebeanschluss bleibt unter187179 offen."
+        }
+      ],
+      "prerequisites": "Die jeweilige geometrische Beziehung muss vor sprachlicher Bewertung verstanden sein. Eine bloße Alltagshandlung drehen oder schieben ist nicht automatisch eine geometrische Abbildung; Spiegelbildinhalt, beschreibende Alltagssprache, passives Begriffsverstehen und verbindlicher aktiver Fachwortgebrauch bleiben getrennt. Bei gewählten Wahlbereichsbelegen muss deren Kontext erhalten bleiben. Die Lehrkraft kann Fachwörter didaktisch auswählen, ohne daraus eine amtliche FSP-Wortpflicht abzuleiten.",
+      "uncertainty": "Übergreifende Sprachziele lassen fachsprachliche Förderung und eine didaktische Wortauswahl zu. Verneint wird nur der hinreichend belegte direkte Anschluss an diese festgelegte aktive GS-Wortanforderung im geprüften Bandumfang, nicht die Zulässigkeit oder Lernbarkeit der Wörter. Bei neuer amtlicher Evidenz ist die Entscheidung neu zu prüfen. Die noch offene Inhaltsfrage zu Schiebe-/Drehsymmetrie wird durch den Fachwortentscheid nicht vorweggenommen.",
+      "remaining_scope": "Keine direkte Kartenabdeckung des aktiven Fachwortauftrags187180. Inhaltliche Spiegel-/Ornamentanschlüsse aufMA-002,MA-088,MA-098,MA-099 undMA-106 bleiben unverändert; sie belegen keine zusätzliche aktive Wortpflicht. Der Schiebe-/Drehsymmetrie-Teil187179 bleibt offen. Eine didaktische Einführung der Wörter ist nicht ausgeschlossen.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "learning_level_review": {
+    "gs": "Übertragen187177 bleibt die amtliche Lernzielebene für187180. Verwenden ist Zielhandlung; gespiegelt/gedreht/verschoben sind zu verwendende Begriffe, keine Lernzielebenen. Definition Übertragen: Kenntnisse in vergleichbaren Kontexten verwenden.",
+    "fsp": "Kennen35432, Gestalten35521/37981, Kennen37821, Anwenden38011, Übertragen38016 und Einblick37997 bleiben an ihre tatsächlichen Hauptziele gebunden. Allgemeines Beschreiben und Begriffsverstehen aus37739/35415 sind übergreifende Ziele, keine Ersatz-Lernzielebenen. Wissenstransfer Übertragen ist nicht geometrisches Verschieben."
+  },
+  "number_scope_review": "Für die lexikalische Entscheidung sind Zahlenraumgrenzen nicht maßgeblich; keine Obergrenze erfunden. Begriffsverwendung von numerischer Angabe eines Verschiebungsabstands oder Drehwinkels trennen. Bei späterer inhaltlicher Konkretisierung Einheiten, Schreibweisen und alle relevanten Zwischen-/Endwerte gesondert prüfen. Keine der bestehenden FSP-Geltungsbereichsangaben geändert.",
+  "existing_cards_rechecked": [
+    "MA-002",
+    "MA-088",
+    "MA-098",
+    "MA-099",
+    "MA-106"
+  ],
+  "existing_card_review": "Die Spiegelbildkarten behalten Kennen35432;MA-106 behält Gestalten35521 und den qualitativen Bandornament-Ausschnitt ohne zusätzliche FSP-Fachwortpflicht. Gespiegelte/spiegelbildliche Formulierungen in didaktischen Beschreibungen sind keine gesonderte amtliche Wortliste.106 Bestandskarten und419 Lernzielebenen-Einträge unverändert. Keine vollständige semantische Neuprüfung aller Karten behauptet.",
+  "counts": {
+    "first_reviews_this_batch": 1,
+    "word_aspects_reviewed": 3,
+    "new_cards": 0,
+    "cards_total": 106,
+    "same_band": 78,
+    "cross_band": 28,
+    "open_questions_total": 25,
+    "no_direct_connections_total": 13,
+    "new_no_direct_connections": 1,
+    "inventory_rows": 195,
+    "new_inventory_rows": 0,
+    "source_links": 270,
+    "target_anchors": 268
+  },
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187177",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Übertragen des Wissens über Symmetrien auf Ornamente",
+      "Karten": "",
+      "Prüfstatus": "MA-107: nur Hauptzielkontext Übertragen fürMA-106; nicht als vollständig abgedeckte Zielzeile oder Erstprüfung gezählt.187178/187179 begrenzt zugeordnet,187180 offen."
+    },
+    {
+      "Ziel-ID": "page912_187180",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Verwenden der Fachbegriffe: gespiegelt, gedreht, verschoben",
+      "Karten": "",
+      "Prüfstatus": "MA-106: nur inventarisiert; Einzelprüfung offen. Hauptziel Übertragen187177; konkrete Handlungen und Fachwörter sind keine eigenen Lernzielebenen. Keine Anschlussentscheidung vorweggenommen."
+    }
+  ],
+  "tests": {
+    "status": "passed",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "out": "",
+        "err": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "out": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "err": ""
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "out": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-22\n",
+        "err": ""
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "out": "PASS: 106 mathematics cards, 270 source links (268 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "err": ""
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "out": "PASS: 106 mathematics cards, 270 source links (268 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n",
+        "err": ""
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "out": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "err": ""
+      }
+    },
+    "preservation": "App1.411, index.html/dist/index.html, gesamtes Mathematikmodul mit106 Karten,419 Lernzielebenen-Einträge und sämtliche Deutschdateien bytegleich zum Ausgangsstand.195 Audit-Quellzeilen und alle Kartenreferenzen unverändert; nur Prüfstatus187177/187180 geändert.25 offene Fragen unverändert; Nichtanschlussliste enthält13 eindeutige GS-IDs.",
+    "browser": "Kein neuer Browserlauf: reine Auditänderung ohne App-/UI-/Kartendatenänderung. Erfolgreiche lokale und Live-Browserprüfungen der identischen App inMA-107 dokumentiert.",
+    "limits": "Keine neue vollständige semantische Prüfung aller Bestandskarten. Kein neuer PDF-Download; Bestands-PDFs und amtliche Onlinepläne wie im Quellenabschnitt ausgewiesen."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version_unchanged": "1.411",
+    "app_unchanged": true
+  },
+  "continuation": {
+    "next_id": "page912_187179",
+    "next_step": "Offenen Schiebe-/Drehsymmetrie-Teil187179 getrennt prüfen: Translation mit gleichbleibendem Motiv, Orientierung und gemeinsamer Verschiebung; Rotation um festes Zentrum.187180 ist als direkter Fachwortanschluss für gespiegelt/gedreht/verschoben verneint, nicht erneut als Erstprüfung zählen. Inhalt und aktiver Wortgebrauch bleiben getrennt.106 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. Audit-only; App1.411 unverändert. Datenprüfungen bestanden; Auditveröffentlichung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  },
+  "completed_on": "2026-11-23"
+}

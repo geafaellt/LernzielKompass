@@ -196,3 +196,6 @@ Mathematik MA-106: quadratische Würfelseitenflächen bei vorgegebener Netzzuord
 
 
 Mathematik MA-107: eigenes spiegelgleiches Bandornament entwickeln und fortsetzen.106 Karten,25 Anschlussfragen. [Prüfpaket](curriculum/mathematik/review_batch_107.json). App1.411: Auf main veröffentlicht mit8a8993f895f68ccae6bfae03dbf1a593acd549af; [Pages45042409919](https://github.com/geafaellt/LernzielKompass/actions/runs/45042409919) erfolgreich. Ausgelieferte App1.411 bytegleich. Datenprüfungen, gezielter Browserlauf und Lernzielebenenanzeige aller419 Karten/838 Seiten lokal und live bestanden. Keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller106 Mathematikkarten. Alle105 Bestandskarten unverändert. Weitergehende Restumfänge und25 Anschlussfragen bleiben offen.
+
+
+Mathematik MA-108: Fachwortzeile187180 für gespiegelt/gedreht/verschoben getrennt geprüft; kein hinreichend belegter direkter aktiver Fachwortanschluss. Inhaltliche Symmetrieanschlüsse bleiben erhalten.25 Anschlussfragen,106 Karten; App1.411 unverändert. [Prüfpaket](curriculum/mathematik/review_batch_108.json). Datenprüfungen und Bestandserhalt bestanden; Auditveröffentlichung ausstehend.
