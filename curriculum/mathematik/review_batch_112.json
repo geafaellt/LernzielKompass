@@ -292,7 +292,7 @@
   "existing_card_review": "MA-012 bleibt GS1/2→FSP3/4 für Ziffernschreibweise bis100; Wortformgrenze bereits sichtbar und beibehalten. MA-109 bleibt Anzahl/Position mit GS1000/FSP100; MA-110 bleibt fachspezifische Kennzeichnung ohne erfundene FSP-Grenze. Nur überholte Verweise auf2040/2041 in zwei Hinweisfeldern dieser beiden Karten aktualisiert; sämtliche bestehenden Feinziele, Kriterien, Quellen und Grenzen unverändert.423 alte Lernzielebenen-Einträge unverändert. Keine vollständige neue semantische Bestandsprüfung.",
   "limits": "Keine vollständige GS-Zieldeckung: FSP bis 100 gegenüber GS bis 1 000; Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Lesen und Schreiben ausgeschriebener Zahlwörter samt Rechtschreibung sind nicht durch diese Karte gedeckt und als gesonderter Schriftform-Ausschnitt ohne hinreichend belegten direkten Anschluss entschieden. Allgemeine Darstellungsvernetzung2044, besondere Schreibweisen und Rechenanforderungen bleiben getrennt zu prüfen. Die engen Feinziele weisen die ganzen Hauptziele Beherrschen nicht vollständig nach.",
   "tests": {
-    "status": "pass_local",
+    "status": "pass_local_and_live",
     "commands": {
       "update-mathematik.py": {
         "exit": 0,
@@ -328,15 +328,29 @@
     "targeted_browser": "PASS lokal: MA-012/109/110/111, Quellen, echte Lernzielebenen, Zahlenraum auf Karte/Zielen/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe/Fachwechsel/Neuladen; MA-111 bei320/390px ohne horizontalen Überlauf.",
     "learning_levels_browser": "PASS lokal:424 Karten,848 Seiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "preservation": "110 bestehende Karten: sämtliche Feinziele,Kriterien,Geltungsbereiche,Quellen erhalten; nur zwei Fortsetzungsverweisfelder aufMA-109/110 aktualisiert.423 bestehende Ebeneneinträge, alle Deutschdateien und alle200 Inventur-Quellzeilen unverändert. Remote-Ausgangsdateien geprüft,CSV nach Zeilenenden-Normalisierung identisch.",
-    "limits": "Keine UI-Codeänderung. Gezielter Funktionsbrowser statt erneutem vollständigem Funktionslauf aller111 Mathematikkarten; Lernzielebenen aller424 Karten geprüft. Keine erneute vollständige semantische Prüfung aller Bestandskarten. Liveprüfung ausstehend."
+    "limits": "Keine UI-Codeänderung. Gezielter Funktionsbrowser statt erneutem vollständigem Funktionslauf aller111 Mathematikkarten; Lernzielebenen aller424 Karten geprüft. Keine erneute vollständige semantische Prüfung aller Bestandskarten. Liveprüfung der genannten Ausschnitte und aller Lernzielebenen bestanden.",
+    "live_targeted_browser": "PASS MA-012/109/110/111: Quellen, Lernzielebenen, Scope an allen drei Stellen, Zielübernahme, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Neuladen; MA-111 mobil320/390.",
+    "live_learning_levels_browser": "PASS424 Karten/848 Seiten; amtliche Belege und Ausschluss von Zielhandlungen."
   },
   "publication": {
-    "status": "pending",
+    "batch": "MA-112",
+    "status": "success",
     "app_version": "1.415",
-    "local_html_sha256": "b7316d3f0d0c6244152e94b01bc3f105e0d263afbcdc49d36e6e2945a94f3e3b"
+    "commit": "f26f818c5ca0a036120a2d17facb662937c3b108",
+    "tree": "4da2a4143c07e2e469107bf4326dfd2e9839f2ce",
+    "html_blob": "77254b32045ecccaa35760b57f5e37c0fa8bf2ae",
+    "workflow_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45196696515",
+    "workflow_status": "completed",
+    "workflow_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_html": "bytegleich mit lokal geprüfter App1.415 und dist/index.html",
+    "live_html_sha256": "b7316d3f0d0c6244152e94b01bc3f105e0d263afbcdc49d36e6e2945a94f3e3b",
+    "live_browser": "PASS MA-012/109/110/111: Quellen, Lernzielebenen, Scope an allen drei Stellen, Zielübernahme, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Neuladen; MA-111 mobil320/390.",
+    "live_learning_levels": "PASS424 Karten/848 Seiten; amtliche Belege und Ausschluss von Zielhandlungen.",
+    "limits": "Keine UI-Codeänderung und kein erneuter vollständiger Funktionslauf aller111 Mathematikkarten. Keine erneute vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich weiterhin unvollständig."
   },
   "continuation": {
     "next_id": "page912_2044",
-    "next_step": "GS3 Vernetzen von Darstellungen2044 unter Beherrschen2037 prüfen; beide FSP-Bänder, konkrete Darstellungswechsel und jeweilige Grenzen getrennt.2040/2041 aufMA-111 nur Ziffernschreibweise/gesprochene Zahl, GS bis1000/FSP3/4 bis100. Schriftliche Wortform-Ausschnitte2040/2041 sowie alte Fragen187038/187039 ohne hinreichend belegten direkten Anschluss entschieden; keine ganzen Zeilen als Nichtanschluss zählen.111 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,200 Inventurzeilen. App1.415: Lokale Daten-/Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 Vernetzen von Darstellungen2044 unter Beherrschen2037 prüfen; beide FSP-Bänder, konkrete Darstellungswechsel und jeweilige Grenzen getrennt.2040/2041 aufMA-111 nur Ziffernschreibweise/gesprochene Zahl, GS bis1000/FSP3/4 bis100. Schriftliche Wortform-Ausschnitte2040/2041 sowie alte Fragen187038/187039 ohne hinreichend belegten direkten Anschluss entschieden; keine ganzen Zeilen als Nichtanschluss zählen.111 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,200 Inventurzeilen. App1.415: Datenprüfungen sowie lokale und Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }
