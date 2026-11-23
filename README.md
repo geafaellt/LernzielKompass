@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.411** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.412** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -199,3 +199,6 @@ Mathematik MA-107: eigenes spiegelgleiches Bandornament entwickeln und fortsetze
 
 
 Mathematik MA-108: Fachwortzeile187180 für gespiegelt/gedreht/verschoben getrennt geprüft; kein hinreichend belegter direkter aktiver Fachwortanschluss. Inhaltliche Symmetrieanschlüsse bleiben erhalten.25 Anschlussfragen,106 Karten; App1.411 unverändert. [Prüfpaket](curriculum/mathematik/review_batch_108.json). Datenprüfungen und Bestandserhalt bestanden; Auditcommit ff77384acb48efdd5a2da85521054c35a1192235 auf main veröffentlicht. [Pages45107484071](https://github.com/geafaellt/LernzielKompass/actions/runs/45107484071) erfolgreich; unveränderte Live-App1.411 nach dem Build bytegleich bestätigt. Kein neuer Browserlauf für reine Auditänderungen; entsprechende Prüfungen inMA-107 bestanden.
+
+
+Mathematik MA-109: gleiche Verschiebung im eigenen Bandmuster als didaktischer Teilanschluss.107 Karten,25 Fragen; Drehsymmetrie bleibt offen. [Prüfpaket](curriculum/mathematik/review_batch_109.json). App1.412: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend.

@@ -1,0 +1,386 @@
+{
+  "id": "MA-109",
+  "date": "2026-11-23",
+  "base_commit": "1fed6f8842a2f9c0c868261cc9c2a84cda72855b",
+  "scope": "GS3 Schiebesymmetrie-Teil187179 mit Bandornament187178; erneut geprüfter Ausschnitt, Drehfrage bleibt offen",
+  "source_verification": {
+    "html": "Amtliche Onlinepläne912/139 erneut geöffnet, relevante Muster-/Ornamentstellen gelesen und mit gespeicherten HTML-Zeilen vom22.11 abgeglichen. FSP-Webansicht war als drei Tage alter Crawl ausgewiesen; kein frischer vollständiger HTML-Download behauptet.",
+    "pdf": "Bestands-PDFs: Definitionen beider Pläne S.V/PDF5, GS S.21/PDF31, FSP S.14/PDF26, S.15/PDF27 und S.22/PDF34 textuell erneut gelesen; Hierarchie/Bemerkungszuordnung mit HTML und vorherigem visuellen Nachweis MA-107 abgeglichen. Kein neuer PDF-Download oder Render behauptet."
+  },
+  "source_sha256": {
+    "gs": "d18d132ee3cb465ce3baca6872ac5b4d9b110db9d56af918445f7677f6354ca3",
+    "fsp": "85bc5c65fee7c2ad9e772b5284d9c25ae659b246cff760a9f63f3efc34175a12"
+  },
+  "source_excerpts": {
+    "page912_187177": {
+      "id": "page912_187177",
+      "level": 1,
+      "parent_target_id": "page912_187177",
+      "target": "Übertragen des Wissens über Symmetrien auf Ornamente",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187177"
+    },
+    "page912_187178": {
+      "id": "page912_187178",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Entwickeln, Beschreiben und Fortsetzen von Bandornamenten",
+      "remarks": "➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187178"
+    },
+    "page912_187179": {
+      "id": "page912_187179",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Nutzen von Achsen-, Schiebe- und Drehsymmetrie",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187179"
+    },
+    "page912_187180": {
+      "id": "page912_187180",
+      "level": 2,
+      "parent_target_id": "page912_187177",
+      "target": "Verwenden der Fachbegriffe: gespiegelt, gedreht, verschoben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187180"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    },
+    "page139_35432": {
+      "id": "page139_35432",
+      "level": 1,
+      "parent_target_id": "page139_35432",
+      "target": "Kennen von Spiegelbildern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35432"
+    },
+    "page139_35433": {
+      "id": "page139_35433",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Entdecken und Herstellen von Symmetrien",
+      "remarks": "in Ornamenten, an Gebäuden Falt-, Schneide- Klecksarbeiten, pantomimische Darstellung Fehler entdecken",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35433"
+    },
+    "page139_35524": {
+      "id": "page139_35524",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Entdecken von Rechtecken, Quadraten und Kreisornamenten als Gestaltungselement",
+      "remarks": "im Klassenzimmer, an Gebrauchsgegenständen und Gebäuden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35524"
+    },
+    "page139_35529": {
+      "id": "page139_35529",
+      "level": 3,
+      "parent_target_id": "page139_35521",
+      "target": "Darstellen von Kreisen mit dem Zirkel",
+      "remarks": "Beziehung zwischen Radius und Durchmesser Radius und Durchmesser nur als passiven Wortschatz verwenden ➔ WE, Kl. 3/4, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35529"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    },
+    "page139_38011": {
+      "id": "page139_38011",
+      "level": 1,
+      "parent_target_id": "page139_38011",
+      "target": "Anwenden des Wissens über geometrische Objekte bei der Flächengestaltung",
+      "remarks": "⇒ Wahrnehmungsförderung ⇒ ästhetisches Empfinden",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38011"
+    },
+    "page139_38014": {
+      "id": "page139_38014",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Entdecken von Ornamenten an Gegenständen und in bildhaften Darstellungen",
+      "remarks": "Gebäude, Kleidung Linien, Flächen, Farben Abzeichnen, Fotografieren Harmonie und Balance beachten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38014"
+    },
+    "page139_38015": {
+      "id": "page139_38015",
+      "level": 2,
+      "parent_target_id": "page139_38011",
+      "target": "Herstellen und zeichnerisches Darstellen von Mustern und Ornamenten",
+      "remarks": "Wiederholbarkeit, Parkettierung; Legeplättchen, Muggelsteine, Stempel, Stanzer Richtungsänderung, Pfeifenputzer, Faltschnitt, Klecksbilder Muster fortsetzen und selbst entwickeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38015"
+    },
+    "page139_38016": {
+      "id": "page139_38016",
+      "level": 1,
+      "parent_target_id": "page139_38016",
+      "target": "Übertragen des Wissens über Muster auf die Reihung von Gegenständen",
+      "remarks": "Schmuckelemente mit verschiedenen Materialien herstellen räumliche Orientierung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38016"
+    },
+    "page139_37821": {
+      "id": "page139_37821",
+      "level": 1,
+      "parent_target_id": "page139_37821",
+      "target": "Kennen verschiedener Gestaltungselemente in der Umwelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37821"
+    },
+    "page139_37844": {
+      "id": "page139_37844",
+      "level": 3,
+      "parent_target_id": "page139_37821",
+      "target": "Darstellen von ebenen Figuren und Mustern",
+      "remarks": "Legen, Ausmalen, Ausschneiden, Drucken, Falten, Zeichnen, Schablonieren Geobrett Nachlegen, Vollenden von Umrissfiguren Zusammensetzen von Grundformen, Ornamenten Erstellen von Serien ➔ WE, Kl. 1/2, LB 2",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37844"
+    },
+    "page139_37997": {
+      "id": "page139_37997",
+      "level": 1,
+      "parent_target_id": "page139_37997",
+      "target": "Einblick gewinnen in mathematische Bezüge im Märchen",
+      "remarks": "⇒ Förderung des sozial-emotionalen Verhaltens ➔ DE - HKS, Kl. 1/2, LB 7",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37997"
+    },
+    "page139_38004": {
+      "id": "page139_38004",
+      "level": 2,
+      "parent_target_id": "page139_37997",
+      "target": "Entdecken, Zeichnen von Mustern und Ornamenten und Bauen räumlicher Objekte",
+      "remarks": "Kleidung, Pfefferkuchenhaus, Burgen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38004"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187178",
+      "first_review": false,
+      "status": "limited_connection",
+      "cards": [
+        "MA-107"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: ein eigenes Bandmuster aus bekannten ebenen Figuren entwickeln und durch gleichgerichtete Wiederholung desselben Motivs mit gleichbleibendem Abstand vervollständigen. GS 187178 und der Schiebesymmetrie-Anteil von 187179 stehen unter Übertragen 187177. FSP 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern unter Gestalten 35521; Symmetrie ist eine Bemerkung zu 35535, Figuren, Muster und Reihen stehen in der Hauptzielbemerkung. Die translationsgleiche Bandstruktur ist eine didaktische Auswahl dieses belegten Muster- und Symmetriebezugs, kein ausdrücklich benanntes FSP-Einzelziel zur Schiebesymmetrie. Fortsetzen konkretisiert hier das Vervollständigen, ohne beide Handlungen allgemein gleichzusetzen. Eigene Musterentscheidung und Kontrolle bleiben Bestandteil des Ausschnitts.",
+      "prerequisites": "Bekannte ebene Figuren und eine verstandene Wiederholungsregel. Form, Größe, Orientierung und Lage des Motivs müssen unterscheidbar sein. Für die Prüfung der Orientierung muss das Motiv eine erkennbare Ausrichtung besitzen; aus einem rotationssymmetrischen Einzelmotiv allein lässt sich die verwendete Abbildung nicht bestimmen. Betrachtet wird ein endlicher Ausschnitt eines regelmäßig fortsetzbaren Bandmusters. Seine aufeinanderfolgenden Motivlagen entsprechen derselben Verschiebung mit von null verschiedenem Abstand und gleichbleibender Richtung. Der begrenzte gesamte Ausschnitt wird bei einer solchen Verschiebung nicht auf sich selbst abgebildet; geprüft werden Motivbeziehung und Fortsetzungsregel, keine falsche globale Symmetriebehauptung am endlichen Rand. Umfang und Darstellungsqualität legt die Lehrkraft passend fest; keine amtliche Maßtoleranz erfinden.",
+      "uncertainty": "Gleiche Verschiebung als didaktisch ausgewählter FSP-Muster-/Symmetriebezug, nicht als ausdrücklicher FSP-Schiebesymmetrieauftrag. GS-bewusste Nutzung nicht allein aus regelmäßigem Aussehen erschließen.",
+      "remaining_scope": "MA-106 erfasst eigene Bandornamente mit Längsspiegelachse; MA-107 ergänzt die gleiche Verschiebung aufeinanderfolgender Motive. Weitere Strukturen und vollständiger Beschreibungsumfang bleiben offen. Keine vollständige GS-Zieldeckung: nur die gleiche Verschiebung aufeinanderfolgender Motive eines eigenen Bandmusters. Drehsymmetrie, Kombinationen von Abbildungen, weitere Ornamentstrukturen und vollständige Beschreibung bleiben außerhalb. Die Achsensymmetrie-Karte MA-106 bleibt eigenständig; eine Spiegelachse wird hier nicht gefordert. GS muss die Verschiebungsbeziehung bewusst nutzen und sachgerecht beschreiben; regelmäßiges Aussehen allein belegt diese Kompetenz nicht. FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungs-, Transformationsklassifikations- oder Fachwortauftrag. Die getrennte Entscheidung zu 187180 bleibt erhalten. Keine formale Vektornotation und kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    },
+    {
+      "gs_id": "page912_187179",
+      "first_review": false,
+      "status": "limited_connection",
+      "cards": [
+        "MA-107"
+      ],
+      "decision": "Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: ein eigenes Bandmuster aus bekannten ebenen Figuren entwickeln und durch gleichgerichtete Wiederholung desselben Motivs mit gleichbleibendem Abstand vervollständigen. GS 187178 und der Schiebesymmetrie-Anteil von 187179 stehen unter Übertragen 187177. FSP 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern unter Gestalten 35521; Symmetrie ist eine Bemerkung zu 35535, Figuren, Muster und Reihen stehen in der Hauptzielbemerkung. Die translationsgleiche Bandstruktur ist eine didaktische Auswahl dieses belegten Muster- und Symmetriebezugs, kein ausdrücklich benanntes FSP-Einzelziel zur Schiebesymmetrie. Fortsetzen konkretisiert hier das Vervollständigen, ohne beide Handlungen allgemein gleichzusetzen. Eigene Musterentscheidung und Kontrolle bleiben Bestandteil des Ausschnitts.",
+      "prerequisites": "Bekannte ebene Figuren und eine verstandene Wiederholungsregel. Form, Größe, Orientierung und Lage des Motivs müssen unterscheidbar sein. Für die Prüfung der Orientierung muss das Motiv eine erkennbare Ausrichtung besitzen; aus einem rotationssymmetrischen Einzelmotiv allein lässt sich die verwendete Abbildung nicht bestimmen. Betrachtet wird ein endlicher Ausschnitt eines regelmäßig fortsetzbaren Bandmusters. Seine aufeinanderfolgenden Motivlagen entsprechen derselben Verschiebung mit von null verschiedenem Abstand und gleichbleibender Richtung. Der begrenzte gesamte Ausschnitt wird bei einer solchen Verschiebung nicht auf sich selbst abgebildet; geprüft werden Motivbeziehung und Fortsetzungsregel, keine falsche globale Symmetriebehauptung am endlichen Rand. Umfang und Darstellungsqualität legt die Lehrkraft passend fest; keine amtliche Maßtoleranz erfinden.",
+      "uncertainty": "Gleiche Verschiebung als didaktisch ausgewählter FSP-Muster-/Symmetriebezug, nicht als ausdrücklicher FSP-Schiebesymmetrieauftrag. GS-bewusste Nutzung nicht allein aus regelmäßigem Aussehen erschließen.",
+      "remaining_scope": "Achsensymmetrie auf MA-106 nur gemeinsame Längsachse; Schiebesymmetrie auf MA-107 nur gleiche Verschiebung im regelmäßig fortgesetzten eigenen Bandmuster, FSP-Auswahl ausdrücklich didaktisch. Drehsymmetrie bleibt als getrennte Anschlussfrage offen. Keine vollständige GS-Zieldeckung: nur die gleiche Verschiebung aufeinanderfolgender Motive eines eigenen Bandmusters. Drehsymmetrie, Kombinationen von Abbildungen, weitere Ornamentstrukturen und vollständige Beschreibung bleiben außerhalb. Die Achsensymmetrie-Karte MA-106 bleibt eigenständig; eine Spiegelachse wird hier nicht gefordert. GS muss die Verschiebungsbeziehung bewusst nutzen und sachgerecht beschreiben; regelmäßiges Aussehen allein belegt diese Kompetenz nicht. FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungs-, Transformationsklassifikations- oder Fachwortauftrag. Die getrennte Entscheidung zu 187180 bleibt erhalten. Keine formale Vektornotation und kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "context_only": [
+    "page912_187177"
+  ],
+  "band_selection": "Beide Bänder geprüft. FSP3/4 35535 unter Gestalten35521 bevorzugt: stufengleiche eigene Musterentwicklung/-vervollständigung mit Symmetrie-Bemerkung und Reihen-Kontext. Keine ausdrückliche besondere Translation-Zielzeile; die Auswahl wird daher didaktisch begrenzt. FSP1/2 37984 unter Gestalten37981 belegt kreative Musterentwicklung/Fortsetzung mit Reihungen.38015 unter Anwenden38011 im Wahlbereich3 belegt Wiederholbarkeit und eigene Ornamententwicklung; diese positiven Kandidaten werden nicht wegen des Zahlenraums ausgeschlossen.38016 Übertragen ist ein eigenes Hauptziel zum Wissenstransfer auf Reihung von Gegenständen, keine geometrische Translation aufgrund desselben Wortes.37844 unter Kennen37821 enthält Ornamente/Serien als Bemerkung;38004 unter Einblick37997 ist an den Märchen-Wahlbereich gebunden. Der gewählte3/4-Anschluss ist ohne Wahlbereichsvoraussetzung und erhält das gebündelte Band.35432/35433 bleiben Spiegelbildkontext und liefern keinen ausdrücklichen Schiebebeleg. Kreisornamente35524 und Kreisdarstellung35529 lösen die offene Drehfrage nicht automatisch.",
+  "learning_level_review": {
+    "gs": "Übertragen187177: Wissen in vergleichbaren Kontexten verwenden. Entwickeln/Beschreiben/Fortsetzen/Nutzen sind konkrete Handlungen.",
+    "fsp": "Gestalten35521 aus Gestalten/Problemlösen; Definition umfasst selbstständiges Planen,Durchführen,Kontrollieren und neue Deutungen bei komplexen Zusammenhängen. Eigene Musterentscheidung/Kontrolle erhalten, begrenztes Feinziel kein voller Hauptzielnachweis. Vervollständigen/Erfinden35535 keine eigenen Ebenen.",
+    "existing": "MA-105 bleibt GS Übertragen mit FSP ohne eigene ausgewiesene Ebene; MA-106 bleibt Übertragen/Gestalten. Alle106 Bestandskarten und419 bisherigen Ebeneneinträge unverändert; keine neue vollständige semantische Bestandsprüfung."
+  },
+  "number_scope_review": {
+    "status": "domain_specific",
+    "summary": "Fachspezifisch: gleiche Verschiebung im regelmäßig fortgesetzten Bandmuster",
+    "detail": "GS 187178/187179 und FSP 35521/35535 nennen für diesen qualitativen Ausschnitt keine Zahlenobergrenze. Gleichheit von Form, Größe, Orientierung, Richtung und Abstand ist eine Strukturbedingung. Bandlänge, Motivanzahl und Abstände werden nicht numerisch bewertet. Keine 20/100-Grenze aus übergreifenden Zahlzielen und keine Zentimeter- oder Winkelvorgaben aus anderen Zielzeilen übernehmen.",
+    "max_value": null,
+    "source_ids": [
+      "Q-MA-page139_35521",
+      "Q-MA-page139_35535"
+    ],
+    "planning_rule": "Bekannte ebene Figuren und eine verstandene Wiederholungsregel. Form, Größe, Orientierung und Lage des Motivs müssen unterscheidbar sein. Für die Prüfung der Orientierung muss das Motiv eine erkennbare Ausrichtung besitzen; aus einem rotationssymmetrischen Einzelmotiv allein lässt sich die verwendete Abbildung nicht bestimmen. Betrachtet wird ein endlicher Ausschnitt eines regelmäßig fortsetzbaren Bandmusters. Seine aufeinanderfolgenden Motivlagen entsprechen derselben Verschiebung mit von null verschiedenem Abstand und gleichbleibender Richtung. Der begrenzte gesamte Ausschnitt wird bei einer solchen Verschiebung nicht auf sich selbst abgebildet; geprüft werden Motivbeziehung und Fortsetzungsregel, keine falsche globale Symmetriebehauptung am endlichen Rand. Umfang und Darstellungsqualität legt die Lehrkraft passend fest; keine amtliche Maßtoleranz erfinden. Nur qualitative Beziehungen als Ergebnismerkmale verwenden. Keine numerischen Ausgangs-, Zwischen- oder Endwerte Bestandteil der hinterlegten Feinziele. Numerische Erweiterungen benötigen einen gesondert belegten oder ausdrücklich didaktisch festgelegten Rahmen einschließlich relevanter Zwischen- und Endergebnisse; Einheiten und Schreibweisen gesondert behandeln. Angaben zu Geräten oder Verfahren in den Bemerkungen sind keine Pflichtvorgaben. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+  },
+  "new_cards": [
+    "MA-107"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 1,
+    "cards_total": 107,
+    "same_band": 79,
+    "cross_band": 28,
+    "partially_refined_questions": 1,
+    "fully_resolved_questions": 0,
+    "open_questions_total": 25,
+    "no_direct_connections_total": 13,
+    "inventory_rows": 195,
+    "new_inventory_rows": 0,
+    "source_links": 270,
+    "target_anchors": 268
+  },
+  "previous_question": {
+    "gs_id": "page912_187179",
+    "scope": "Nutzen von Schiebe- und Drehsymmetrie in Ornamenten; Achsensymmetrie aufMA-106 nur begrenzt zugeordnet.",
+    "status": "offen",
+    "reason": "FSP35535 nennt Symmetrie allgemein,35433 Symmetrien im Spiegelbildkontext. FSP1/2 37984 und38015 enthalten Muster/Reihung/Wiederholbarkeit. Daraus wird kein ausdrücklicher oder bereits hinreichend konkretisierter Anschluss für bewusstes Nutzen von Schiebe- und Drehsymmetrie abgeleitet. Ein kleinerer Zahlenraum oder das Fehlen der Fachwörter ist allein kein Ausschlussgrund. Repetition beziehungsweise Richtungsänderung von der jeweils mathematisch bestimmten Abbildung trennen.",
+    "candidate_ids": [
+      "page139_35521",
+      "page139_35535",
+      "page139_35432",
+      "page139_35433",
+      "page139_37981",
+      "page139_37984",
+      "page139_38011",
+      "page139_38015",
+      "page139_38016"
+    ],
+    "review": "MA-107",
+    "follow_up_evidence": "Translation mit unverändertem Motiv und konstantem Verschiebungsvektor sowie Rotation um festes Zentrum getrennt prüfen. Zahlen-/Winkelwerte nicht erfinden; kein allgemeines geometrisches Transformationsziel aus Musterarbeit behaupten."
+  },
+  "current_question": {
+    "gs_id": "page912_187179",
+    "scope": "Nutzen von Drehsymmetrie in Ornamenten; Achsensymmetrie auf MA-106 und Schiebesymmetrie auf MA-107 nur begrenzt zugeordnet.",
+    "status": "offen",
+    "reason": "Die Teilfrage zur gleichen Verschiebung im eigenen Bandmuster ist als didaktischer Muster-/Symmetrieausschnitt auf MA-107 begrenzt geklärt. Rotation um ein festes Zentrum gesondert prüfen: allgemeine Symmetrie, Kreisornamente oder Richtungsänderung allein belegen noch keine entsprechend bestimmte Drehbeziehung und deren bewusste Nutzung. Kein Zahlenraumunterschied oder fehlendes Fachwort als alleiniger Ausschlussgrund.",
+    "candidate_ids": [
+      "page139_35521",
+      "page139_35535",
+      "page139_35432",
+      "page139_35433",
+      "page139_37981",
+      "page139_37984",
+      "page139_38011",
+      "page139_38015",
+      "page139_38016"
+    ],
+    "review": "MA-109",
+    "follow_up_evidence": "Drehzentrum, unveränderte Form/Größe und gemeinsame Drehbeziehung gesondert prüfen. Keine numerischen Winkelwerte erfinden; Kreisform oder Wiederholung allein genügen nicht. FSP-Hauptziele und Bemerkungen sowie GS-Nutzen und FSP-Mustererfindung getrennt halten.",
+    "partial_resolution": {
+      "review": "MA-109",
+      "card": "MA-107",
+      "scope": "Gleiche Verschiebung im eigenen Bandmuster; FSP-Auswahl didaktisch, keine allgemeine Transformationskompetenz behauptet."
+    }
+  },
+  "previous_remaining_scopes": [
+    {
+      "gs_id": "page912_187178",
+      "scope": "Nur eigenes Bandornament mit Längsspiegelachse begrenzt zugeordnet. Andere Bandstrukturen, vollständiger Beschreibungsumfang und sämtliche Varianten bleiben offen. FSP hat keinen gleichlautenden Beschreibungsauftrag. Keine vollständige GS-Zieldeckung: Die Karte erfasst nur ein Bandornament mit gemeinsamer Längsspiegelachse. Andere Ornamentstrukturen und Achslagen, systematisches Nutzen oder Unterscheiden von Schiebe- und Drehsymmetrie sowie die vollständige Beschreibung aller Bandornament-Eigenschaften bleiben außerhalb. Die sprachliche Beschreibung ist GS-Feinziel; FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungsauftrag. Die Fachwörter gespiegelt, gedreht und verschoben aus187180 werden nicht als zusätzlich belegte FSP-Wortanforderung ausgegeben. Eine regelmäßige Wiederholung allein belegt noch keine bewusst genutzte Schiebesymmetrie. Kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+      "status": "offen",
+      "review": "MA-107"
+    },
+    {
+      "gs_id": "page912_187179",
+      "scope": "Achsensymmetrie nur an der gemeinsamen Längsachse des gewählten Bandornaments zugeordnet. Schiebe- und Drehsymmetrie bleiben als gesonderte Anschlussfrage offen; weder pauschal ausgeschlossen noch aus einer regelmäßigen Wiederholung als Kompetenznachweis abgeleitet.",
+      "status": "offen",
+      "review": "MA-107"
+    }
+  ],
+  "previous_audit_rows": [
+    {
+      "Ziel-ID": "page912_187177",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "1",
+      "Ziel": "Übertragen des Wissens über Symmetrien auf Ornamente",
+      "Karten": "",
+      "Prüfstatus": "MA-107: nur Hauptzielkontext Übertragen fürMA-106; nicht als vollständig abgedeckte Zielzeile oder Erstprüfung gezählt.187178/187179 begrenzt zugeordnet,187180 offen. | MA-108: Fachwortzeile187180 als direkter Anschluss verneint; keine vollständige Deckung des Hauptziels. Schiebe-/Drehteil187179 offen."
+    },
+    {
+      "Ziel-ID": "page912_187178",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Entwickeln, Beschreiben und Fortsetzen von Bandornamenten",
+      "Karten": "MA-106",
+      "Prüfstatus": "MA-107: erste Einzelprüfung; begrenzter Anschluss. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: ein eigenes Bandornament aus bekannten ebenen Figuren mit wiederkehrendem Motiv und Spiegelgleichheit an einer gemeinsamen Längsachse entwickeln und passend fortsetzen. GS 187178 nennt Entwickeln, Beschreiben und Fortsetzen von Bandornamenten;187179 nennt unter anderem Achsensymmetrie. Beide stehen unter Übertragen 187177. FSP 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren unter Gestalten 35521; Symmetrie steht ausdrücklich in seiner Bemerkung, Figuren/Muster/Reihen in der Hauptzielbemerkung. Die Wahl eines spiegelgleichen Bandmusters und seiner Längsachse ist didaktische Konkretisierung dieses Symmetriebezugs. Fortsetzen ist hier ein ausgewählter Fall des Vervollständigens; die beiden Handlungen werden nicht allgemein gleichgesetzt. Der eigene Entwurf bleibt erhalten, statt das Erfinden auf bloßes Nachahmen zu reduzieren. Voraussetzungen: Bekannte ebene Figuren, ein verstandener Wiederholungsbezug und bekannte Spiegelgleichheit an einer festgelegten geraden Achse. Betrachtet wird ein endlicher zusammenhängender Bandabschnitt; die gemeinsame Spiegelachse verläuft längs durch das gesamte Band. Das Motiv wird innerhalb dieses Rahmens selbst gewählt. Form, Größe, Lage und Abstand der Wiederholung sowie die beidseitige Spiegelbeziehung müssen qualitativ unterscheidbar sein. Eine bloße Farbfolge ohne geometrischen Symmetriebezug genügt nicht. Darstellungsqualität und Umfang sind vorab passend zu den Lernvoraussetzungen festzulegen; keine amtliche Maßtoleranz erfinden. Unsicherheit: Bandform und Längsachse didaktische Auswahl des allgemeinen Symmetriebezugs, keine wörtliche FSP-Einzelzeile. Rest: Nur eigenes Bandornament mit Längsspiegelachse begrenzt zugeordnet. Andere Bandstrukturen, vollständiger Beschreibungsumfang und sämtliche Varianten bleiben offen. FSP hat keinen gleichlautenden Beschreibungsauftrag. Keine vollständige GS-Zieldeckung: Die Karte erfasst nur ein Bandornament mit gemeinsamer Längsspiegelachse. Andere Ornamentstrukturen und Achslagen, systematisches Nutzen oder Unterscheiden von Schiebe- und Drehsymmetrie sowie die vollständige Beschreibung aller Bandornament-Eigenschaften bleiben außerhalb. Die sprachliche Beschreibung ist GS-Feinziel; FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungsauftrag. Die Fachwörter gespiegelt, gedreht und verschoben aus187180 werden nicht als zusätzlich belegte FSP-Wortanforderung ausgegeben. Eine regelmäßige Wiederholung allein belegt noch keine bewusst genutzte Schiebesymmetrie. Kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen."
+    },
+    {
+      "Ziel-ID": "page912_187179",
+      "Klasse": "3",
+      "Lernbereich": "Raum und Form",
+      "Ebene": "2",
+      "Ziel": "Nutzen von Achsen-, Schiebe- und Drehsymmetrie",
+      "Karten": "MA-106",
+      "Prüfstatus": "MA-107: erste Einzelprüfung; begrenzter Anschluss. Stufenbandpassender Teilanschluss GS 3 → FSP 3/4: ein eigenes Bandornament aus bekannten ebenen Figuren mit wiederkehrendem Motiv und Spiegelgleichheit an einer gemeinsamen Längsachse entwickeln und passend fortsetzen. GS 187178 nennt Entwickeln, Beschreiben und Fortsetzen von Bandornamenten;187179 nennt unter anderem Achsensymmetrie. Beide stehen unter Übertragen 187177. FSP 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren unter Gestalten 35521; Symmetrie steht ausdrücklich in seiner Bemerkung, Figuren/Muster/Reihen in der Hauptzielbemerkung. Die Wahl eines spiegelgleichen Bandmusters und seiner Längsachse ist didaktische Konkretisierung dieses Symmetriebezugs. Fortsetzen ist hier ein ausgewählter Fall des Vervollständigens; die beiden Handlungen werden nicht allgemein gleichgesetzt. Der eigene Entwurf bleibt erhalten, statt das Erfinden auf bloßes Nachahmen zu reduzieren. Voraussetzungen: Bekannte ebene Figuren, ein verstandener Wiederholungsbezug und bekannte Spiegelgleichheit an einer festgelegten geraden Achse. Betrachtet wird ein endlicher zusammenhängender Bandabschnitt; die gemeinsame Spiegelachse verläuft längs durch das gesamte Band. Das Motiv wird innerhalb dieses Rahmens selbst gewählt. Form, Größe, Lage und Abstand der Wiederholung sowie die beidseitige Spiegelbeziehung müssen qualitativ unterscheidbar sein. Eine bloße Farbfolge ohne geometrischen Symmetriebezug genügt nicht. Darstellungsqualität und Umfang sind vorab passend zu den Lernvoraussetzungen festzulegen; keine amtliche Maßtoleranz erfinden. Unsicherheit: Bandform und Längsachse didaktische Auswahl des allgemeinen Symmetriebezugs, keine wörtliche FSP-Einzelzeile. Rest: Achsensymmetrie nur an der gemeinsamen Längsachse des gewählten Bandornaments zugeordnet. Schiebe- und Drehsymmetrie bleiben als gesonderte Anschlussfrage offen; weder pauschal ausgeschlossen noch aus einer regelmäßigen Wiederholung als Kompetenznachweis abgeleitet."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-105",
+    "MA-106"
+  ],
+  "limits": "Keine vollständige GS-Zieldeckung: nur die gleiche Verschiebung aufeinanderfolgender Motive eines eigenen Bandmusters. Drehsymmetrie, Kombinationen von Abbildungen, weitere Ornamentstrukturen und vollständige Beschreibung bleiben außerhalb. Die Achsensymmetrie-Karte MA-106 bleibt eigenständig; eine Spiegelachse wird hier nicht gefordert. GS muss die Verschiebungsbeziehung bewusst nutzen und sachgerecht beschreiben; regelmäßiges Aussehen allein belegt diese Kompetenz nicht. FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungs-, Transformationsklassifikations- oder Fachwortauftrag. Die getrennte Entscheidung zu 187180 bleibt erhalten. Keine formale Vektornotation und kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+  "tests": {
+    "status": "passed_local",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "out": "",
+        "err": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "out": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n",
+        "err": ""
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "out": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-23\n",
+        "err": ""
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "out": "PASS: 107 mathematics cards, 270 source links (268 target anchors, 2 context sources), synchronized Pages entry.\n",
+        "err": ""
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "out": "PASS: 107 mathematics cards, 270 source links (268 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n",
+        "err": ""
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "out": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n",
+        "err": ""
+      }
+    },
+    "targeted_browser": "PASS MA-105,MA-106,MA-107: Quellen, Geltungsbereich Karte/Ziele/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, Lehrkrafttexte, Fachwechsel und Mobil320/390.",
+    "learning_levels_browser": "PASS420 Karten/840 Kartenseiten: amtliche Ebenenbelege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "preservation": "106 Bestandskarten,270 Quellen,419 bisherige Ebeneneinträge und sämtliche Deutschdateien unverändert;195 Auditquellzeilen erhalten, nur Status/Kartenreferenz187177–187179 geändert.187180 unverändert. index.html/dist/index.html bytegleich.",
+    "limits": "Keine UI-Codeänderung, kein neuer vollständiger check-mathematik-browser.cjs-Funktionslauf; gezielter Funktionslauf und vollständige Lernzielebenenanzeige. Keine vollständige neue semantische Bestandsprüfung."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.412"
+  },
+  "continuation": {
+    "next_id": "page912_187179",
+    "next_step": "Drehsymmetrie-Teil von 187179 prüfen: festes Zentrum und gemeinsame Drehbeziehung. Achsensymmetrie MA-106 und gleiche Verschiebung im eigenen Bandmuster MA-107 nur begrenzt zugeordnet; 187180 bleibt getrennt als direkter Fachwortanschluss verneint. Keine erneute Erstzählung dieser Zeilen. 107 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. App1.412: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

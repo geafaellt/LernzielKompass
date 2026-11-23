@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-108",
+  "last_batch": "MA-109",
   "complete": false,
   "counts": {
-    "cards": 106,
+    "cards": 107,
     "cross_band": 28
   },
   "source_plans": {
@@ -3446,7 +3446,7 @@
     }
   },
   "next_id": "page912_187179",
-  "next_step": "Offenen Schiebe-/Drehsymmetrie-Teil187179 getrennt prüfen: Translation mit gleichbleibendem Motiv, Orientierung und gemeinsamer Verschiebung; Rotation um festes Zentrum.187180 ist als direkter Fachwortanschluss für gespiegelt/gedreht/verschoben verneint, nicht erneut als Erstprüfung zählen. Inhalt und aktiver Wortgebrauch bleiben getrennt.106 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. Audit-only; App1.411 unverändert. Datenprüfungen bestanden; Audit auf main veröffentlicht, Pages erfolgreich und unveränderte Live-App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "Drehsymmetrie-Teil von 187179 prüfen: festes Zentrum und gemeinsame Drehbeziehung. Achsensymmetrie MA-106 und gleiche Verschiebung im eigenen Bandmuster MA-107 nur begrenzt zugeordnet; 187180 bleibt getrennt als direkter Fachwortanschluss verneint. Keine erneute Erstzählung dieser Zeilen. 107 Karten,25 Anschlussfragen,13 direkte Nichtanschlüsse,195 Inventurzeilen. App1.412: Daten- und lokale Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3760,7 +3760,7 @@
       "decision": "FSP3/4 35535 nennt Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren; dies ist ein positiver verwandter Beleg, aber der Gegenstand ist das zusammengesetzte Bild/Muster und nicht ausdrücklich der fehlende Rand einer einzelnen Dreiecksfigur.35527 nennt Rechtecke/Quadrate und35433 Symmetrie, weder die gewählte Dreiecksfigur noch jede Umrissergänzung. Daher wird für diesen genau begrenzten Ausschnitt der ausdrückliche Umrissbeleg37844 aus1/2 gewählt. Das ist kein allgemeiner Ausschluss stufengleicher Ergänzungsanschlüsse; diese brauchen eine eigene Begrenzung auf ihren jeweiligen Gegenstand.37984 betrifft Musterfortsetzung und37981 Fantasieformen. Kein Ausschluss wegen kleinerer Zahlenräume."
     }
   },
-  "last_review_file": "review_batch_108.json",
+  "last_review_file": "review_batch_109.json",
   "open_questions": [
     {
       "gs_id": "page912_187038",
@@ -4281,9 +4281,9 @@
     },
     {
       "gs_id": "page912_187179",
-      "scope": "Nutzen von Schiebe- und Drehsymmetrie in Ornamenten; Achsensymmetrie aufMA-106 nur begrenzt zugeordnet.",
+      "scope": "Nutzen von Drehsymmetrie in Ornamenten; Achsensymmetrie auf MA-106 und Schiebesymmetrie auf MA-107 nur begrenzt zugeordnet.",
       "status": "offen",
-      "reason": "FSP35535 nennt Symmetrie allgemein,35433 Symmetrien im Spiegelbildkontext. FSP1/2 37984 und38015 enthalten Muster/Reihung/Wiederholbarkeit. Daraus wird kein ausdrücklicher oder bereits hinreichend konkretisierter Anschluss für bewusstes Nutzen von Schiebe- und Drehsymmetrie abgeleitet. Ein kleinerer Zahlenraum oder das Fehlen der Fachwörter ist allein kein Ausschlussgrund. Repetition beziehungsweise Richtungsänderung von der jeweils mathematisch bestimmten Abbildung trennen.",
+      "reason": "Die Teilfrage zur gleichen Verschiebung im eigenen Bandmuster ist als didaktischer Muster-/Symmetrieausschnitt auf MA-107 begrenzt geklärt. Rotation um ein festes Zentrum gesondert prüfen: allgemeine Symmetrie, Kreisornamente oder Richtungsänderung allein belegen noch keine entsprechend bestimmte Drehbeziehung und deren bewusste Nutzung. Kein Zahlenraumunterschied oder fehlendes Fachwort als alleiniger Ausschlussgrund.",
       "candidate_ids": [
         "page139_35521",
         "page139_35535",
@@ -4295,8 +4295,13 @@
         "page139_38015",
         "page139_38016"
       ],
-      "review": "MA-107",
-      "follow_up_evidence": "Translation mit unverändertem Motiv und konstantem Verschiebungsvektor sowie Rotation um festes Zentrum getrennt prüfen. Zahlen-/Winkelwerte nicht erfinden; kein allgemeines geometrisches Transformationsziel aus Musterarbeit behaupten."
+      "review": "MA-109",
+      "follow_up_evidence": "Drehzentrum, unveränderte Form/Größe und gemeinsame Drehbeziehung gesondert prüfen. Keine numerischen Winkelwerte erfinden; Kreisform oder Wiederholung allein genügen nicht. FSP-Hauptziele und Bemerkungen sowie GS-Nutzen und FSP-Mustererfindung getrennt halten.",
+      "partial_resolution": {
+        "review": "MA-109",
+        "card": "MA-107",
+        "scope": "Gleiche Verschiebung im eigenen Bandmuster; FSP-Auswahl didaktisch, keine allgemeine Transformationskompetenz behauptet."
+      }
     }
   ],
   "remaining_scopes": [
@@ -5044,15 +5049,15 @@
     },
     {
       "gs_id": "page912_187178",
-      "scope": "Nur eigenes Bandornament mit Längsspiegelachse begrenzt zugeordnet. Andere Bandstrukturen, vollständiger Beschreibungsumfang und sämtliche Varianten bleiben offen. FSP hat keinen gleichlautenden Beschreibungsauftrag. Keine vollständige GS-Zieldeckung: Die Karte erfasst nur ein Bandornament mit gemeinsamer Längsspiegelachse. Andere Ornamentstrukturen und Achslagen, systematisches Nutzen oder Unterscheiden von Schiebe- und Drehsymmetrie sowie die vollständige Beschreibung aller Bandornament-Eigenschaften bleiben außerhalb. Die sprachliche Beschreibung ist GS-Feinziel; FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungsauftrag. Die Fachwörter gespiegelt, gedreht und verschoben aus187180 werden nicht als zusätzlich belegte FSP-Wortanforderung ausgegeben. Eine regelmäßige Wiederholung allein belegt noch keine bewusst genutzte Schiebesymmetrie. Kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
+      "scope": "MA-106 erfasst eigene Bandornamente mit Längsspiegelachse; MA-107 ergänzt die gleiche Verschiebung aufeinanderfolgender Motive. Weitere Strukturen und vollständiger Beschreibungsumfang bleiben offen. Keine vollständige GS-Zieldeckung: nur die gleiche Verschiebung aufeinanderfolgender Motive eines eigenen Bandmusters. Drehsymmetrie, Kombinationen von Abbildungen, weitere Ornamentstrukturen und vollständige Beschreibung bleiben außerhalb. Die Achsensymmetrie-Karte MA-106 bleibt eigenständig; eine Spiegelachse wird hier nicht gefordert. GS muss die Verschiebungsbeziehung bewusst nutzen und sachgerecht beschreiben; regelmäßiges Aussehen allein belegt diese Kompetenz nicht. FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungs-, Transformationsklassifikations- oder Fachwortauftrag. Die getrennte Entscheidung zu 187180 bleibt erhalten. Keine formale Vektornotation und kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
       "status": "offen",
-      "review": "MA-107"
+      "review": "MA-109"
     },
     {
       "gs_id": "page912_187179",
-      "scope": "Achsensymmetrie nur an der gemeinsamen Längsachse des gewählten Bandornaments zugeordnet. Schiebe- und Drehsymmetrie bleiben als gesonderte Anschlussfrage offen; weder pauschal ausgeschlossen noch aus einer regelmäßigen Wiederholung als Kompetenznachweis abgeleitet.",
+      "scope": "Achsensymmetrie auf MA-106 nur gemeinsame Längsachse; Schiebesymmetrie auf MA-107 nur gleiche Verschiebung im regelmäßig fortgesetzten eigenen Bandmuster, FSP-Auswahl ausdrücklich didaktisch. Drehsymmetrie bleibt als getrennte Anschlussfrage offen. Keine vollständige GS-Zieldeckung: nur die gleiche Verschiebung aufeinanderfolgender Motive eines eigenen Bandmusters. Drehsymmetrie, Kombinationen von Abbildungen, weitere Ornamentstrukturen und vollständige Beschreibung bleiben außerhalb. Die Achsensymmetrie-Karte MA-106 bleibt eigenständig; eine Spiegelachse wird hier nicht gefordert. GS muss die Verschiebungsbeziehung bewusst nutzen und sachgerecht beschreiben; regelmäßiges Aussehen allein belegt diese Kompetenz nicht. FSP 35535 enthält keinen gleichlautenden eigenen Beschreibungs-, Transformationsklassifikations- oder Fachwortauftrag. Die getrennte Entscheidung zu 187180 bleibt erhalten. Keine formale Vektornotation und kein vollständiger Nachweis der Hauptziele Übertragen oder Gestalten/Problemlösen.",
       "status": "offen",
-      "review": "MA-107"
+      "review": "MA-109"
     },
     {
       "gs_id": "page912_187180",
@@ -5099,7 +5104,7 @@
       "page912_2027"
     ],
     "rows": 195,
-    "note": "MA-108:195 Inventurzeilen unverändert.187180 erstmals als eine Zielzeile mit drei getrennten Wortprüfungen entschieden; keine dreifache Zeilenzählung.187179 bleibt im Schiebe-/Drehteil offen. Keine neue Karte oder Vollabdeckung.",
+    "note": "MA-109:195 Inventurzeilen unverändert; keine Erstprüfung. Eine offene Teilfrage187179 für gleiche Verschiebung begrenzt geklärt, Drehsymmetrie in derselben Frage weiter offen; daher unverändert25 Fragen. Eine neue Karte, keine Doppelzählung und keine Vollabdeckung.",
     "sampled_gs_blocks": [
       "page912_187182",
       "page912_2267"
@@ -5546,115 +5551,120 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
-    "batch": "MA-107",
-    "status": "verified",
-    "app_version": "1.411",
-    "commit": "8a8993f895f68ccae6bfae03dbf1a593acd549af",
-    "pages_run_id": 45042409919,
-    "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45042409919",
-    "pages_status": "success",
-    "live_url": "https://geafaellt.github.io/LernzielKompass/",
-    "live_html_sha256": "fb9d666eff7d0b35035790fecab7d5ffe9265ed89e5ca27fd69129bfc02a7f5d",
-    "live_html_byte_equal": true,
-    "checked_on": "2026-11-22",
-    "targeted_live_browser": "PASS MA-099,MA-105,MA-106; Quellen, Geltungsbereich Karte/Ziele/Output, Feinzielübernahme, Lehrkrafttexte, leere Aufgaben/Hilfsmittel und Mobil320/390.",
-    "learning_levels_live_browser": "PASS 419 Karten/838 Kartenseiten; amtliche Lernzielebenen, fehlende Ebenen, Ausschluss von Zielhandlungen und Fachwechsel.",
-    "limits": "Keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller106 Mathematikkarten. Semantische Bestandsprüfung bleibt fortlaufende Aufgabe.",
+    "batch": "MA-109",
+    "status": "pending",
+    "app_version": "1.412",
     "previous_publication": {
-      "batch": "MA-106",
+      "batch": "MA-107",
       "status": "verified",
-      "app_version": "1.410",
-      "commit": "28343d285ad4a1915d71414ad3b4afdac26b3f7e",
-      "pages_run_id": 45041439907,
-      "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45041439907",
+      "app_version": "1.411",
+      "commit": "8a8993f895f68ccae6bfae03dbf1a593acd549af",
+      "pages_run_id": 45042409919,
+      "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45042409919",
       "pages_status": "success",
       "live_url": "https://geafaellt.github.io/LernzielKompass/",
-      "live_html_sha256": "ab274399c4a0f1aeaf21cd56e5d25d87101cf8026500aef859d0cb000b3b81e4",
+      "live_html_sha256": "fb9d666eff7d0b35035790fecab7d5ffe9265ed89e5ca27fd69129bfc02a7f5d",
       "live_html_byte_equal": true,
       "checked_on": "2026-11-22",
-      "targeted_live_browser": "PASS MA-084,MA-104,MA-105; Quellen, Geltungsbereich Karte/Ziele/Output, Lehrkrafttexte, leere Aufgaben/Hilfsmittel und Mobil320/390.",
-      "learning_levels_live_browser": "PASS 418 Karten/836 Kartenseiten; amtliche Lernzielebenen und fehlende Ebenen transparent.",
-      "limits": "Daten- und Prüfregeländerungen, keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller105 Mathematikkarten. Semantische Bestandsprüfung bleibt fortlaufende Aufgabe.",
+      "targeted_live_browser": "PASS MA-099,MA-105,MA-106; Quellen, Geltungsbereich Karte/Ziele/Output, Feinzielübernahme, Lehrkrafttexte, leere Aufgaben/Hilfsmittel und Mobil320/390.",
+      "learning_levels_live_browser": "PASS 419 Karten/838 Kartenseiten; amtliche Lernzielebenen, fehlende Ebenen, Ausschluss von Zielhandlungen und Fachwechsel.",
+      "limits": "Keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller106 Mathematikkarten. Semantische Bestandsprüfung bleibt fortlaufende Aufgabe.",
       "previous_publication": {
-        "batch": "MA-104",
+        "batch": "MA-106",
         "status": "verified",
-        "app_version": "1.409",
-        "commit": "ea082073e453203087e5012da729ea12c95d00b7",
-        "pages_run": 45011489623,
-        "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
-        "live_byte_identical": true,
-        "live_browser": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden.",
-        "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
-        "verified_on": "2026-11-22",
+        "app_version": "1.410",
+        "commit": "28343d285ad4a1915d71414ad3b4afdac26b3f7e",
+        "pages_run_id": 45041439907,
+        "pages_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45041439907",
+        "pages_status": "success",
+        "live_url": "https://geafaellt.github.io/LernzielKompass/",
+        "live_html_sha256": "ab274399c4a0f1aeaf21cd56e5d25d87101cf8026500aef859d0cb000b3b81e4",
+        "live_html_byte_equal": true,
+        "checked_on": "2026-11-22",
+        "targeted_live_browser": "PASS MA-084,MA-104,MA-105; Quellen, Geltungsbereich Karte/Ziele/Output, Lehrkrafttexte, leere Aufgaben/Hilfsmittel und Mobil320/390.",
+        "learning_levels_live_browser": "PASS 418 Karten/836 Kartenseiten; amtliche Lernzielebenen und fehlende Ebenen transparent.",
+        "limits": "Daten- und Prüfregeländerungen, keine UI-Codeänderung; kein vollständiger neuer Funktionstest aller105 Mathematikkarten. Semantische Bestandsprüfung bleibt fortlaufende Aufgabe.",
         "previous_publication": {
-          "batch": "MA-103",
-          "status": "verified_with_documented_test_limit",
-          "app_version": "1.408",
-          "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
-          "pages_run": 44950269901,
-          "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
+          "batch": "MA-104",
+          "status": "verified",
+          "app_version": "1.409",
+          "commit": "ea082073e453203087e5012da729ea12c95d00b7",
+          "pages_run": 45011489623,
+          "live_sha256": "5920e1f5578e151607c02f161e0c3a2563564fb4cd0809d6b31b7308dca4803f",
           "live_byte_identical": true,
-          "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
-          "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+          "live_browser": "MA-084/103/104 gezielt bestanden; MA-104 mobil320/390. Geltungsbereich auf Karte, bei FSP-Zielen und im Planungsoutput, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, eigene Entwürfe und Fachwechsel geprüft. check-learning-levels.cjs live417 Karten/834 Seiten bestanden.",
+          "limits": "Keine UI-Codeänderung; kein vollständiger104-Karten-Funktionstest. Alle103 Bestandskarten unverändert. Lernzielebenenanzeige aller417 Karten/834 Seiten lokal und live geprüft; keine neue vollständige semantische Bestandsprüfung. Weitergehende Restumfänge bleiben offen.",
           "verified_on": "2026-11-22",
           "previous_publication": {
-            "batch": "MA-102",
-            "status": "verified",
-            "app_version": "1.407",
-            "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
-            "pages_run": 44777080601,
-            "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
+            "batch": "MA-103",
+            "status": "verified_with_documented_test_limit",
+            "app_version": "1.408",
+            "commit": "b5c89ef1834cf5d141c3b480067c38a49419fd93",
+            "pages_run": 44950269901,
+            "live_sha256": "bc52d3864fad3988951ae62dfb007758332c74b40a1c029467f08feeb426cb3e",
             "live_byte_identical": true,
-            "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
-            "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+            "live_browser": "check-mathematik-live-ma-103.cjs bestanden: MA-084/102/103; MA-103 mobil320/390; Geltungsbereich auf Karte, bei FSP-Zielen und im Output, Quellen, Zielübernahme, leere Aufgaben-/Hilfsmittelfelder, erhaltene Lehrkraftentwürfe und Fachwechsel.",
+            "limits": "Keine UI-Codeänderung; kein vollständiger103-Karten-Funktionstest. Lernzielebenen aller416 Karten/832 Seiten lokal bestanden; zusätzlicher Live-Gesamtlauf wegen Browserstart-Zeitlimit mit EGL/GPU-Initialisierungsfehler nicht abgeschlossen. Zielgerichteter Live-Lauf einschließlich MA-103-Kennen/Anwenden und Mobilansicht bestanden. Weitergehende Restumfänge bleiben offen.",
+            "verified_on": "2026-11-22",
             "previous_publication": {
-              "batch": "MA-100",
+              "batch": "MA-102",
               "status": "verified",
-              "app_version": "1.406",
-              "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
-              "pages_run": 44727254718,
-              "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
+              "app_version": "1.407",
+              "commit": "77c4c2e037e1e3a440d5e8384acb611d859aabfa",
+              "pages_run": 44777080601,
+              "live_sha256": "90ae7cea29dc09e8519bb81f975d41a128e508dc7fc7df59f9ffb4f2bfe882b9",
               "live_byte_identical": true,
-              "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
-              "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+              "live_browser": "Targeted MA-084/095/102; mobile MA-102320/390; scope in card/goals/output, teacher drafts preserved; learning-level display415 cards/830 sides passed.",
+              "limits": "No UI code change; no full102-card functional browser run. All101 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
               "previous_publication": {
-                "batch": "MA-098",
+                "batch": "MA-100",
                 "status": "verified",
-                "app_version": "1.405",
-                "commit": "b03ad838651acbe36e955787111ef54744048c0c",
-                "pages_run": 44691360865,
-                "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
+                "app_version": "1.406",
+                "commit": "697055bab44439b3fe447f8365e4d97d7071c9d4",
+                "pages_run": 44727254718,
+                "live_sha256": "55a4a657dec347faa4bf9d9b77bf9d992d9879309b3bdea57e0a9401169de7d5",
                 "live_byte_identical": true,
-                "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
-                "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                "live_browser": "Targeted MA-064/067/101; mobile MA-101320/390; scope in card/goals/output, teacher drafts preserved; learning-level display414 cards/828 sides passed.",
+                "limits": "No UI code change; no full101-card functional browser run. All100 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
                 "previous_publication": {
-                  "batch": "MA-097",
+                  "batch": "MA-098",
                   "status": "verified",
-                  "app_version": "1.404",
-                  "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
-                  "pages_run": 44688597423,
-                  "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
+                  "app_version": "1.405",
+                  "commit": "b03ad838651acbe36e955787111ef54744048c0c",
+                  "pages_run": 44691360865,
+                  "live_sha256": "79874145676d679f4bd43eb344fcf3a51f0c379f29f24a4b0dc0c3df31c16d10",
                   "live_byte_identical": true,
-                  "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
-                  "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                  "live_browser": "Targeted MA-087/099/100;mobile MA-100320/390;scope in card/goals/output,teacher drafts preserved;learning-level display413 cards/826 sides passed.",
+                  "limits": "No UI code change;no full100-card functional browser run. All99 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
                   "previous_publication": {
-                    "batch": "MA-096",
+                    "batch": "MA-097",
                     "status": "verified",
-                    "app_version": "1.403",
-                    "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
-                    "pages_run": 44669748044,
-                    "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+                    "app_version": "1.404",
+                    "commit": "8bdb31f1c7268b6229c3d740ede67a1ea35da152",
+                    "pages_run": 44688597423,
+                    "live_sha256": "96be4972143e69b03898064a1e84327af578d91072be986bcc50b51ce3a5aa03",
                     "live_byte_identical": true,
-                    "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
-                    "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                    "live_browser": "Targeted MA-002/098/099;mobile MA-099320/390;scope in card/goals/output,teacher drafts preserved;learning-level display412 cards/824 sides passed.",
+                    "limits": "No UI code change;no full99-card functional browser run. All98 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
                     "previous_publication": {
-                      "batch": "MA-093",
+                      "batch": "MA-096",
                       "status": "verified",
-                      "app_version": "1.402",
-                      "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
-                      "pages_run": 44621694106,
-                      "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
-                      "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+                      "app_version": "1.403",
+                      "commit": "3b26e6ff5616bf106d8f7f6f312ab6fbbcb37978",
+                      "pages_run": 44669748044,
+                      "live_sha256": "cf705d36b35ef6824791bd0649f1e99eee6dcc6d28a3434d274d1f0855134256",
+                      "live_byte_identical": true,
+                      "live_browser": "Targeted MA-002/011/098;mobile MA-098320/390;scope in card/goals/output,teacher drafts preserved;learning-level display411 cards/822 sides passed.",
+                      "limits": "No UI code change;no full98-card functional browser run. All97 prior mathematics cards unchanged. Remaining scopes/questions stay open.",
+                      "previous_publication": {
+                        "batch": "MA-093",
+                        "status": "verified",
+                        "app_version": "1.402",
+                        "app_commit": "9a5835a7c2b95e5f0755863b3066887b346e55fd",
+                        "pages_run": 44621694106,
+                        "live_sha256": "0e98280797516efda8ea37e80525ee2582f18d1958225c1b113712fbd2175948",
+                        "browser": "MA-002 GS1/2 and MA-086/097 GS3 local and live passed; MA-097 mobile320/390 passed. Learning-level display/structure regression of all410 cards/820 sides passed locally and live. No fresh semantic source re-audit of all410 cards, no UI code change, no full97-card functional browser run claimed."
+                      }
                     }
                   }
                 }
@@ -6204,10 +6214,10 @@
         "V",
         "22"
       ],
-      "checked_on": "2026-11-22",
+      "checked_on": "2026-11-23",
       "finding": "Amtliche Definition Gestalten/Problemlösen auf S.V und Gestalten von Fantasieformen als eigene Hauptzielzeile auf S.22 visuell bestätigt. Darstellen und Erkennen sind darunter getrennte Unterzielhandlungen. Vorheriges Übertragen35511 aus LB3 wird nicht auf LB4 übertragen.",
-      "review": "MA-107",
-      "follow_up": "FSP PDF S.22/PDF34 neu gerendert und visuell geprüft:35535 gleichrangiges Unterziel zu35524 unter Gestalten35521. Symmetrie steht in der Bemerkung35535. Definition Gestalten/Problemlösen S.V erneut gelesen; keine vollständige Hauptzieldeckung durch den engen Feinzielausschnitt behauptet."
+      "review": "MA-109",
+      "follow_up": "Definitionen GS/FSP S.V sowie GS S.21/PDF31 und FSP S.22/PDF34 erneut gelesen. GS Übertragen 187177 und FSP Gestalten 35521 bleiben tatsächliche Hauptzielebenen; konkrete Musterhandlungen sind keine Ebenen. Kein vollständiger Hauptzielnachweis durch den engen Ausschnitt."
     },
     "page912_187446": {
       "target_id": "page912_187446",
@@ -6299,10 +6309,11 @@
     "page912_187177": {
       "target_id": "page912_187177",
       "level": "Übertragen",
-      "checked_on": "2026-11-22",
-      "review": "MA-107",
+      "checked_on": "2026-11-23",
+      "review": "MA-109",
       "definition_evidence": "GS PDF S.V: Kenntnisse in vergleichbaren Kontexten verwenden.",
-      "hierarchy_evidence": "GS PDF S.21/PDF31: Hauptziel187177 über187178–187180; Entwickeln/Beschreiben/Fortsetzen/Nutzen bleiben Handlungen."
+      "hierarchy_evidence": "GS PDF S.21/PDF31: Hauptziel187177 über187178–187180; Entwickeln/Beschreiben/Fortsetzen/Nutzen bleiben Handlungen.",
+      "follow_up": "Definitionen GS/FSP S.V sowie GS S.21/PDF31 und FSP S.22/PDF34 erneut gelesen. GS Übertragen 187177 und FSP Gestalten 35521 bleiben tatsächliche Hauptzielebenen; konkrete Musterhandlungen sind keine Ebenen. Kein vollständiger Hauptzielnachweis durch den engen Ausschnitt."
     }
   },
   "single_row_operator_evidence": {
