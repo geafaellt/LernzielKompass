@@ -3550,7 +3550,7 @@
     }
   },
   "next_id": "page912_187189",
-  "next_step": "GS3 das Doppelte/die Hälfte187189, danach Runden187190 und Vernetzen187191 prüfen.187187 aufMA-114 für unmittelbare Nachbarn,187188 aufMA-115 nur für begrenzende Nachbarzehner bei Nicht-Zehnerzahlen geprüft (GS1000/FSP100). Nachbarhunderter gesondert ohne hinreichenden direkten Beleg entschieden; keine ganze Zeile als Nichtanschluss gezählt.115 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.418: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 das Doppelte/die Hälfte187189, danach Runden187190 und Vernetzen187191 prüfen.187187 aufMA-114 für unmittelbare Nachbarn,187188 aufMA-115 nur für begrenzende Nachbarzehner bei Nicht-Zehnerzahlen geprüft (GS1000/FSP100). Nachbarhunderter gesondert ohne hinreichenden direkten Beleg entschieden; keine ganze Zeile als Nichtanschluss gezählt.115 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.418: Daten- und lokale sowie Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und ausgelieferte App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5700,8 +5700,19 @@
   },
   "latest_publication": {
     "batch": "MA-116",
-    "status": "local_tests_passed_publication_pending",
+    "status": "published_verified",
     "app_version": "1.418",
+    "commit": "ea65b3a0ecdd3b0b5b38da6310cd52b2c172f034",
+    "tree": "8875fd2ba0ea1b95db05d7cc210da3a8ae7b300e",
+    "pages_run_id": 45333697589,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45333697589",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "d471c118ef44c66791b9f3e8d02359cf96b9559527218bb49747ce49bb586d6c",
+    "bytes": 5583078,
+    "live_browser": "PASS: vollständige Mathematikprüfung115Karten; Ebenenprüfung428Karten/856Seiten.",
+    "verified_on": "2026-11-24",
     "previous_publication": {
       "batch": "MA-114",
       "status": "published_verified",
@@ -5922,12 +5933,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-115",
+    "batch": "MA-116",
     "status": "recorded_in_this_commit",
-    "type": "audit_only",
-    "app_unchanged": "1.417",
-    "tests": "Alle sechs Datenprüfungen bestanden; keine App-Änderung und kein neuer Browserlauf.",
-    "note": "Commitkennung aus Git-Historie ersichtlich; bisheriger App-/Pages-/Live-NachweisMA-114 unverändert."
+    "app_commit": "ea65b3a0ecdd3b0b5b38da6310cd52b2c172f034",
+    "note": "Veröffentlichungsnachweis nach abgeschlossenen Tests und Liveprüfung; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
     "batch": "MA-067",

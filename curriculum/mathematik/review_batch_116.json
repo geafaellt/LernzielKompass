@@ -212,7 +212,7 @@
   ],
   "existing_card_review": "MA-014 enthält denselben unmittelbaren Nachbarbezug fürGS1/2 zuFSP1/2 mit ausdrücklich abgeleiteter20-Grenze; MA-022 dieselbe beschränkte Nachbarzehnerbeziehung fürGS1/2 zuFSP3/4 als stufenübergreifende Karte. Beide bleiben unverändert. NeueGS3-Karten haben eigeneGS-Anker und stufenpassenden3/4-Anschluss.113 Bestandskarten und426 kanonische Ebeneneinträge unverändert; keine vollständige erneute semantische Prüfung sämtlicher Bestände.",
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "passed_local_and_live",
     "commands": {
       "update-mathematik.py": {
         "exit": 0,
@@ -244,14 +244,29 @@
       "check-learning-levels.cjs": "PASS:428Karten/856Seiten, amtliche Ebenenbelege und Ausschluss von Zielhandlungen."
     },
     "preservation": "113 Bestandskarten,426 bestehende Ebeneneinträge,206 Inventurzeilen mit Quellspalten sowie Deutsch/Sachunterricht unverändert.",
-    "limits": "Keine neue UI-Logik. Keine vollständige semantische Gesamtprüfung aller Karten; Quellenprüfung des gewählten Pakets."
+    "limits": "Keine neue UI-Logik. Keine vollständige semantische Gesamtprüfung aller Karten; Quellenprüfung des gewählten Pakets.",
+    "browser_live": {
+      "check-mathematik-browser.cjs": "PASS:115Karten, Scope auf Karte/Zielen/Output, Quellen, leere Aufgaben/Hilfsmittel, Entwurfserhalt, Fachwechsel, mobile320/390.",
+      "check-learning-levels.cjs": "PASS:428Karten/856Seiten, amtliche Ebenenbelege und Ausschluss von Zielhandlungen."
+    }
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.418"
+    "status": "published_verified",
+    "app_version": "1.418",
+    "commit": "ea65b3a0ecdd3b0b5b38da6310cd52b2c172f034",
+    "tree": "8875fd2ba0ea1b95db05d7cc210da3a8ae7b300e",
+    "pages_run_id": 45333697589,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45333697589",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "d471c118ef44c66791b9f3e8d02359cf96b9559527218bb49747ce49bb586d6c",
+    "bytes": 5583078,
+    "live_browser": "PASS: vollständige Mathematikprüfung115Karten; Ebenenprüfung428Karten/856Seiten.",
+    "verified_on": "2026-11-24"
   },
   "continuation": {
     "next_id": "page912_187189",
-    "next_step": "GS3 das Doppelte/die Hälfte187189, danach Runden187190 und Vernetzen187191 prüfen.187187 aufMA-114 für unmittelbare Nachbarn,187188 aufMA-115 nur für begrenzende Nachbarzehner bei Nicht-Zehnerzahlen geprüft (GS1000/FSP100). Nachbarhunderter gesondert ohne hinreichenden direkten Beleg entschieden; keine ganze Zeile als Nichtanschluss gezählt.115 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.418: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 das Doppelte/die Hälfte187189, danach Runden187190 und Vernetzen187191 prüfen.187187 aufMA-114 für unmittelbare Nachbarn,187188 aufMA-115 nur für begrenzende Nachbarzehner bei Nicht-Zehnerzahlen geprüft (GS1000/FSP100). Nachbarhunderter gesondert ohne hinreichenden direkten Beleg entschieden; keine ganze Zeile als Nichtanschluss gezählt.115 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.418: Daten- und lokale sowie Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und ausgelieferte App bytegleich bestätigt. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }
