@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.419** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.420** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -234,4 +234,7 @@ Mathematik MA-117: Doppelte/halbe Anzahlen inGS3 begrenzt zugeordnet; GS Beherrs
 MA-117 veröffentlicht: App1.419, Commit `0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45347849381). Live-App bytegleich, SHA-256 `b90c5a2c46c942861fd28f4a34a91e3d1d2a5d17ac9e249bfa99571a02705fa7`. Alle sechs Datenprüfungen, gezielte MathematikprüfungMA-011/116 mit bestehenden Regressionen und vollständige Ebenenprüfung429Karten/858Seiten lokal/live bestanden. Keine UI-Codeänderung und kein erneuter vollständiger Mathematikfunktionslauf aller116Karten. Nächster Schritt187190 (Runden), danach187191.22 offene Anschlussfragen und weitergehende Restumfänge; kein Gesamtabschluss.
 
 
-Mathematik MA-119: Zahlvergleich in Bild-/Zifferndarstellung ergänzt (beide Beherrschen; GS1000/FSP100).117 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_119.json). App1.420: Sechs Datenprüfungen und vollständige Mathematik-/Ebenen-Browserprüfungen lokal bestanden. Veröffentlichung und Liveprüfung ausstehend.
+Mathematik MA-119: Zahlvergleich in Bild-/Zifferndarstellung ergänzt (beide Beherrschen; GS1000/FSP100).117 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_119.json). App1.420: Sechs Datenprüfungen und vollständige Mathematik-/Ebenen-Browserprüfungen lokal bestanden. Veröffentlichung und Liveprüfung bestanden.
+
+
+MA-119 veröffentlicht: App1.420, Commit `ef0e9ae054f54ab2a6b460e8f88308f4ec983006`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45378166283). Live-App bytegleich, SHA-256 `7da7ef8eb811aa53408c744790a042e8070ffa1934cf5fa81f559a7c8cbca964`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung117Karten und Ebenenprüfung430Karten/860Seiten lokal/live bestanden. Nächster Schritt2052/2055, danach187192–187196;7 neue Inventurzeilen noch ungeprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.

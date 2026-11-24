@@ -3576,7 +3576,7 @@
     }
   },
   "next_id": "page912_2052",
-  "next_step": "GS3 Hauptziel2052 (Anwenden des Stellenwertwissens bis1000) und Darstellung2055 zuerst prüfen, danach187192–187196. Sieben Zeilen neu inventarisiert, nicht als geprüft gezählt.187191 aufMA-117 nur für Bild-/Ziffernvernetzung derselben Größenbeziehung zweier Anzahlen begrenzt zugeordnet.117 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.420: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 Hauptziel2052 (Anwenden des Stellenwertwissens bis1000) und Darstellung2055 zuerst prüfen, danach187192–187196. Sieben Zeilen neu inventarisiert, nicht als geprüft gezählt.187191 aufMA-117 nur für Bild-/Ziffernvernetzung derselben Größenbeziehung zweier Anzahlen begrenzt zugeordnet.117 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.420: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich und alle Daten-/Mathematik-/Ebenenprüfungen lokal/live bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5746,8 +5746,20 @@
   },
   "latest_publication": {
     "batch": "MA-119",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.420",
+    "commit": "ef0e9ae054f54ab2a6b460e8f88308f4ec983006",
+    "tree": "89b3d3b662f220adaa0322522ca5b2a0c5795a38",
+    "pages_run_id": 45378166283,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45378166283",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "7da7ef8eb811aa53408c744790a042e8070ffa1934cf5fa81f559a7c8cbca964",
+    "bytes": 5602147,
+    "live_browser": "PASS: vollständige Mathematikprüfung117Karten, Quellen/Scope/Ziele/Output, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung430Karten/860Seiten.",
+    "verified_on": "2026-11-24",
+    "limits": "Keine neue vollständige semantische Gesamtprüfung aller Bestandskarten; MA-017/112 gezielt erneut abgegrenzt. Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-117",
       "status": "published_verified",
@@ -6001,10 +6013,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-118",
+    "batch": "MA-119",
     "status": "recorded_in_this_commit",
-    "app_unchanged": true,
-    "note": "Reine Auditänderung mit sechs bestandenen Datenprüfungen. App1.419 und App-VeröffentlichungsnachweisMA-117 unverändert; kein neuer Browser-/Live-Nachweis."
+    "app_commit": "ef0e9ae054f54ab2a6b460e8f88308f4ec983006",
+    "note": "Veröffentlichungsnachweis nach erfolgreichen lokalen und Liveprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
     "batch": "MA-067",
