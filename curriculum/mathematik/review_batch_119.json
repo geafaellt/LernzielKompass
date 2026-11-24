@@ -1,0 +1,242 @@
+{
+  "id": "MA-119",
+  "date": "2026-11-24",
+  "base_commit": "8c764e13dcec7c6c01c3c324ce645e8673e5866b",
+  "scope": "GS3 Vernetzen187191: Größenvergleich in Bild- und Zifferndarstellung.",
+  "source_verification": {
+    "html": "Amtliche GS/FSP-Seiten erneut gelesen: GS187182/187191/2052ff.; FSP35461/35463 sowie37931/37937/37941/37956. FSP1/2-Mengenvergleich ebenfalls als verwandter Kandidat berücksichtigt.",
+    "pdf": "InMA-118 heruntergeladene amtliche PDFs textuell erneut gelesen: beide DefinitionstabellenS.V/PDF5, GS S.22/PDF32, FSP S.13/PDF25 undS.19/PDF31. Keine neue Download-/Renderprüfung.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_187182": {
+      "id": "page912_187182",
+      "level": 1,
+      "parent_target_id": "page912_187182",
+      "target": "Beherrschen von Zahlbeziehungen und der Orientierung im Zahlenraum bis 1 000",
+      "remarks": "Zahlbeziehung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187182"
+    },
+    "page912_187191": {
+      "id": "page912_187191",
+      "level": 2,
+      "parent_target_id": "page912_187182",
+      "target": "Vernetzen von Darstellungen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187191"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937"
+    },
+    "page139_37941": {
+      "id": "page139_37941",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zuordnen von Zahlwort und Zahl zu Mengen",
+      "remarks": "Gliedern, Ordnen Differenzierung: unterschiedliche räumliche Anordnung der Zählobjekte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37941"
+    },
+    "page139_37956": {
+      "id": "page139_37956",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Ordnen und Vergleichen von Zahlen unter Verwendung der Zeichen <, >, =",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37956"
+    },
+    "page139_37804": {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804"
+    },
+    "page139_37813": {
+      "id": "page139_37813",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "paarweises Zuordnen von Mengen und Vergleichen der Anzahl",
+      "remarks": "Formulierung: gleich viel, mehr als, weniger als",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37813"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187191",
+      "first_review": true,
+      "card": "MA-117",
+      "status": "limited_connection",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "Begrenzter stufenpassender Anschluss GS3→FSP3/4: die Größenbeziehung zweier natürlicher Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise sicher aufeinander beziehen. GS187191 steht unmittelbar unter Zahlbeziehungen187182, nicht unter Zahldarstellungen2037 und nicht unter Strukturunterziel187183. FSP35463 nennt Vergleichen/Ordnen von Mengen und Zahlen verbindlich; die Bemerkung konkretisiert Mengen-/Zahlzuordnung in beiden Richtungen. Bild↔Ziffernschreibweise und der Vergleich zweier Anzahlen sind hier eine ausdrücklich didaktische Eingrenzung.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Beherrschen187182 und FSP Beherrschen35461. Vernetzen, Vergleichen, Ordnen und Zuordnen sind Zielhandlungen; bildlich und symbolisch sind Darstellungsformen. Die Definition Beherrschen bezeichnet routinemäßigen Gebrauch von Handlungs-/Verfahrensweisen. Eine enge Konkretisierung ist kein vollständiger Hauptzielnachweis.",
+      "prerequisites": "Vertrauter Alltagskontext, eindeutige Zugehörigkeit der dargestellten Elemente und eindeutige Zuordnung jeder der beiden Anzahlen zur betreffenden Ziffernschreibweise. Jedes Bildelement steht hier für eine Einheit; keine gewichteten Symbole oder Skalen. Beim Wechsel bleibt jede Anzahl und damit ihre Größenbeziehung erhalten; räumliche Ausdehnung, Anordnung oder Elementgröße sind kein Zahlwert. Gleich große Anzahlen bleiben gleichwertig. Keine bestimmte Vergleichszeichen- oder Fachwortform wird gefordert; die Zeichenforderung aus FSP1/2 wird nicht in3/4 übertragen.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung: ausgewählt ist nur der Größenvergleich zweier Anzahlen in Bild- und Zifferndarstellung. Weitere Zahlbeziehungen, insbesondere Nachbar-/Verdopplungs-/Halbierungsbeziehungen, Runden, sämtliche Darstellungsarten und ihre freien Wechsel sowie Zahlen oberhalb100 bis1000 bleiben außerhalb dieses FSP-Ausschnitts. Es werden keine Rechnungen, Differenzbestimmungen, Stellenwertmodelle, Einheiten oder besonderen Kodierungen zusätzlich abgedeckt. Die allgemeine Vergleichszeile187186 und die reine Zahldarstellungszeile2044 sind eigenständige bereits geprüfte Ziele.",
+      "uncertainty": "Die spezifische Verknüpfung derselben Vergleichsbeziehung in zwei Darstellungsformen ist didaktisch konkretisiert; nicht alle Zahlbeziehungen oder Darstellungsarten werden vom FSP-Beleg getragen.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Mengenanzahlen und Zahlen bis 100",
+        "detail": "FSP-Hauptziel35461 nennt bis100 ausdrücklich; darunter35463. Die Verknüpfung von Bild- und Zifferndarstellung derselben Vergleichsbeziehung ist didaktisch ausgewählt. GS187182 nennt bis1 000; keine vollständige GS-Zieldeckung.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Vertrauter Alltagskontext, eindeutige Zugehörigkeit der dargestellten Elemente und eindeutige Zuordnung jeder der beiden Anzahlen zur betreffenden Ziffernschreibweise. Jedes Bildelement steht hier für eine Einheit; keine gewichteten Symbole oder Skalen. Beim Wechsel bleibt jede Anzahl und damit ihre Größenbeziehung erhalten; räumliche Ausdehnung, Anordnung oder Elementgröße sind kein Zahlwert. Gleich große Anzahlen bleiben gleichwertig. Keine bestimmte Vergleichszeichen- oder Fachwortform wird gefordert; die Zeichenforderung aus FSP1/2 wird nicht in3/4 übertragen. Alle relevanten FSP-Zahlen, Anzahlen, Teilanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Die beiden verglichenen Mengen werden nicht zu einer zusätzlichen Gesamtmenge vereinigt. Einheiten, besondere Schreibweisen und nichtnumerische Ziele benötigen gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    }
+  ],
+  "band_selection": "FSP1/2 37937 mit Mengendarstellung und Vergleichen in der Bemerkung,37941 Zahlwort-/Zahlzuordnung und37956 Vergleichszeichen unter Beherrschen37931 sind positive verwandte Kandidaten im Naturkontext. Ihre eigenen Zielzeilen nennen keine Obergrenze; eine Zahl wird nicht erfunden.3/4 wird wegen des passenden gebündelten Stufenbands und des ausdrücklichen Mengen-/Zahlbezugs samt Umkehrrichtung in35463 bevorzugt, nicht allein wegen des Zahlenraums. Das gesonderte1/2-Kennen37804/37813 zum Mengenvergleich ist ein weiterer verwandter Inhalt, aber keine übertragbare Lernzielebene des gewählten3/4-Hauptziels.",
+  "existing_cards_rechecked": [
+    "MA-017",
+    "MA-112"
+  ],
+  "existing_card_review": "MA-017 prüft allgemeinen Zahlvergleich, MA-112 den beidseitigen Wechsel einer Anzahl zwischen Bild/Ziffer. Beide enthalten noch nicht die erhaltene Vergleichsbeziehung zweier Anzahlen in beiden Darstellungen; daher keine pauschale Zusatzdeckung durch187191. Beide bestehenden Karten, Ebenen, Kriterien und ausdrücklich belegten100-Grenzen unverändert erhalten. Keine erneute Erstzählung der Altzeilen.",
+  "new_inventory_only": [
+    {
+      "id": "page912_2052",
+      "level": 1,
+      "parent_target_id": "page912_2052",
+      "target": "Anwenden des Wissens über die Struktur des dekadischen Positionssystems und des Prinzips der Zahlbildung im Zahlenraum bis 1 000",
+      "remarks": "Stellenwertverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2052"
+    },
+    {
+      "id": "page912_2055",
+      "level": 2,
+      "parent_target_id": "page912_2052",
+      "target": "Darstellen von Zahlen im dekadischen Positionssystem",
+      "remarks": "Nutzen von Mehrsystemmaterial",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2055"
+    },
+    {
+      "id": "page912_187192",
+      "level": 3,
+      "parent_target_id": "page912_2052",
+      "target": "Bündelungsprinzip",
+      "remarks": "Schätzen dekadisches Bündeln und Entbündeln geschickte Anzahlermittlung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187192"
+    },
+    {
+      "id": "page912_187193",
+      "level": 3,
+      "parent_target_id": "page912_2052",
+      "target": "Stellenwertprinzip",
+      "remarks": "Erweitern der Stellenwerttafel (T, H, Z, E) 348 ➔ 3 H 4 Z 8 E Zahlen als Summe von Vielfachen Zahlwort, Stellenwertkarten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187193"
+    },
+    {
+      "id": "page912_187194",
+      "level": 3,
+      "parent_target_id": "page912_2052",
+      "target": "Bedeutung der Null",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187194"
+    },
+    {
+      "id": "page912_187195",
+      "level": 2,
+      "parent_target_id": "page912_2052",
+      "target": "Vernetzen von Darstellungen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187195"
+    },
+    {
+      "id": "page912_187196",
+      "level": 2,
+      "parent_target_id": "page912_2052",
+      "target": "Verwenden der Fachbegriffe: Tausender, Runden",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187196"
+    }
+  ],
+  "counts": {
+    "first_reviews_this_batch": 1,
+    "new_cards": 1,
+    "cards_total": 117,
+    "same_band": 88,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 14,
+    "inventory_rows": 213,
+    "new_inventory_rows": 7,
+    "source_links": 280,
+    "target_anchors": 278
+  },
+  "tests": {
+    "status": "local_passed",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-24\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 117 mathematics cards, 280 source links (278 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 117 mathematics cards, 280 source links (278 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "local_browser": "PASS: vollständige Mathematikprüfung117Karten, Quellen/Scope an drei Stellen, Zielübernahme, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe, Fachwechsel und Mobilregressionen.",
+    "local_learning_levels": "PASS:430Karten/860Seiten, amtliche Ebenenbelege, Ausschluss von Zielhandlungen.",
+    "preservation": "116 Bestandskarten und429 bestehende Ebeneneinträge unverändert; alte206 Inventurzeilen/Quellspalten erhalten, nur187191 neu bewertet;7 neue Inventurzeilen ungeprüft. Deutsch/Sachunterricht unverändert.",
+    "limits": "Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten; MA-017/112 gezielt erneut abgegrenzt. Keine UI-Codeänderung.",
+    "preparation_note": "Lokale Entwurfserstellung stoppte zunächst bei falsch geschriebener Kandidatenkennung37812; gespeicherte Quelle geprüft und korrekt37813 verwendet. Unvollständige lokale Datendateien vor erneutem Aufbau aus unverändertem Basisstand wiederhergestellt; keine Doppelzählung. Alle Prüfungen liefen erst auf dem vollständig korrigierten Stand."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.420"
+  },
+  "continuation": {
+    "next_id": "page912_2052",
+    "next_step": "GS3 Hauptziel2052 (Anwenden des Stellenwertwissens bis1000) und Darstellung2055 zuerst prüfen, danach187192–187196. Sieben Zeilen neu inventarisiert, nicht als geprüft gezählt.187191 aufMA-117 nur für Bild-/Ziffernvernetzung derselben Größenbeziehung zweier Anzahlen begrenzt zugeordnet.117 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.420: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

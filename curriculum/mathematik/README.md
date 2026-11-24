@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-118
+# Mathematik-Abgleich · MA-119
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertsechzehn Karten dokumentieren begrenzte Anschlüsse. Siebenundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertsiebzehn Karten dokumentieren begrenzte Anschlüsse. Achtundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Vernetzen187191. [MA-118](review_batch_118.json) entscheidet187190 Runden ohne hinreichenden direkten Anschluss inFSP1/2 oder3/4.116 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss; App1.419 unverändert.
+Fortsetzung beiGS3 Stellenwert-Hauptziel2052 und2055, danach187192–187196. [MA-119](review_batch_119.json) ordnet187191 begrenzt aufMA-117 zu.117 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen;7 neue Zeilen nur inventarisiert.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1302,3 +1302,20 @@ Die ganze GS-Zeile187190 erhält keine direkte Kartenabdeckung. Regelgeleitetes 
 Auch die verbindlichen Überschlagsziele in den Wahlbereichen Einkaufsbummel35558 und Tierwelt35590 wurden geprüft. Ihre Sachkontexte und Anwenden-Hauptziele werden nicht zu einem allgemeinen Rundungsziel umgedeutet. Die ausdrückliche Rundungszeile38251 gehört zuFSP5/6 und bleibt außerhalb des Vergleichs. Zahlenraumunterschiede sind nicht der Ausschlussgrund. Keine Obergrenze unbezifferter FSP-Zeilen erfunden.
 
 MA-115 mit beiden begrenzenden Nachbarzehnern und ausdrücklich belegtem FSP-Rahmen bis100 einschließlich aller Zwischen-/Endwerte erneut abgegrenzt und unverändert erhalten. Eine Erstprüfung, keine neue Karte;116 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. Alle Karten, Feinziele, Kriterien, Scope-Felder und Lernzielebenen sowie beide HTML-Dateien unverändert. Alle sechs Datenprüfungen bestanden. Reiner Auditstand wird mit diesem Commit auf main gesichert. Keine neue App-Version, kein neuer Browser-/Live-Nachweis; letzter App-NachweisMA-117.
+
+
+## MA-119 · App1.420 · 24.11.2026
+
+Begrenzter stufenpassender Anschluss GS3→FSP3/4: die Größenbeziehung zweier natürlicher Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise sicher aufeinander beziehen. GS187191 steht unmittelbar unter Zahlbeziehungen187182, nicht unter Zahldarstellungen2037 und nicht unter Strukturunterziel187183. FSP35463 nennt Vergleichen/Ordnen von Mengen und Zahlen verbindlich; die Bemerkung konkretisiert Mengen-/Zahlzuordnung in beiden Richtungen. Bild↔Ziffernschreibweise und der Vergleich zweier Anzahlen sind hier eine ausdrücklich didaktische Eingrenzung.
+
+Amtliche Lernzielebenen: GS Beherrschen187182 und FSP Beherrschen35461. Vernetzen, Vergleichen, Ordnen und Zuordnen sind Zielhandlungen; bildlich und symbolisch sind Darstellungsformen. Die Definition Beherrschen bezeichnet routinemäßigen Gebrauch von Handlungs-/Verfahrensweisen. Eine enge Konkretisierung ist kein vollständiger Hauptzielnachweis.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel187182; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere FSP-Rahmen trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Keine Ableitung der FSP-Grenze aus einem übergreifenden Bandziel.
+
+Vertrauter Alltagskontext, eindeutige Zugehörigkeit der dargestellten Elemente und eindeutige Zuordnung jeder der beiden Anzahlen zur betreffenden Ziffernschreibweise. Jedes Bildelement steht hier für eine Einheit; keine gewichteten Symbole oder Skalen. Beim Wechsel bleibt jede Anzahl und damit ihre Größenbeziehung erhalten; räumliche Ausdehnung, Anordnung oder Elementgröße sind kein Zahlwert. Gleich große Anzahlen bleiben gleichwertig. Keine bestimmte Vergleichszeichen- oder Fachwortform wird gefordert; die Zeichenforderung aus FSP1/2 wird nicht in3/4 übertragen.
+
+Keine vollständige GS-Zieldeckung: ausgewählt ist nur der Größenvergleich zweier Anzahlen in Bild- und Zifferndarstellung. Weitere Zahlbeziehungen, insbesondere Nachbar-/Verdopplungs-/Halbierungsbeziehungen, Runden, sämtliche Darstellungsarten und ihre freien Wechsel sowie Zahlen oberhalb100 bis1000 bleiben außerhalb dieses FSP-Ausschnitts. Es werden keine Rechnungen, Differenzbestimmungen, Stellenwertmodelle, Einheiten oder besonderen Kodierungen zusätzlich abgedeckt. Die allgemeine Vergleichszeile187186 und die reine Zahldarstellungszeile2044 sind eigenständige bereits geprüfte Ziele.
+
+FSP1/2 37937 mit Mengendarstellung und Vergleichen in der Bemerkung,37941 Zahlwort-/Zahlzuordnung und37956 Vergleichszeichen unter Beherrschen37931 sind positive verwandte Kandidaten im Naturkontext. Ihre eigenen Zielzeilen nennen keine Obergrenze; eine Zahl wird nicht erfunden.3/4 wird wegen des passenden gebündelten Stufenbands und des ausdrücklichen Mengen-/Zahlbezugs samt Umkehrrichtung in35463 bevorzugt, nicht allein wegen des Zahlenraums. Das gesonderte1/2-Kennen37804/37813 zum Mengenvergleich ist ein weiterer verwandter Inhalt, aber keine übertragbare Lernzielebene des gewählten3/4-Hauptziels.
+
+Eine Erstprüfung und eine neue Karte, keine Doppelzählung der Vergleichs-/Zahldarstellungsziele.117 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. Sieben Zeilen des nächsten Blocks2052 nur inventarisiert.116 Bestandskarten und429 bestehende Ebeneneinträge unverändert. Sechs Datenprüfungen und vollständige Mathematik-/Ebenen-Browserprüfungen lokal bestanden. Veröffentlichung und Liveprüfung ausstehend.

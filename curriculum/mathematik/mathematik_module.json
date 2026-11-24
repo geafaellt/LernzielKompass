@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-24.2",
+  "version": "MA-2026-11-24.3",
   "checked_on": "2026-11-24",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1783,6 +1783,12 @@
       "id": "Q-MA-page912_187189",
       "title": "GS Mathematik 3 · Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187189",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187191",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187191",
       "version": "2026"
     }
   ],
@@ -11152,6 +11158,86 @@
         "fsp_basis": "stage_goal_context",
         "notice": "Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden.",
         "full_gs_goal_covered": false
+      }
+    },
+    {
+      "id": "MA-117",
+      "subject": "Mathematik",
+      "theme": "Zahlvergleich in Bild und Ziffernschreibweise · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl.3 · Zahl und Operation · Vernetzen187191 unter Beherrschen von Zahlbeziehungen187182 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Mengen und Zahlen vergleichen35463 unter Beherrschen35461 bis100; Bild-/Zahlzuordnung in der Bemerkung",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Beherrschen187182 und FSP Beherrschen35461. Vernetzen, Vergleichen, Ordnen und Zuordnen sind Zielhandlungen; bildlich und symbolisch sind Darstellungsformen. Die Definition Beherrschen bezeichnet routinemäßigen Gebrauch von Handlungs-/Verfahrensweisen. Eine enge Konkretisierung ist kein vollständiger Hauptzielnachweis. Begrenzter stufenpassender Anschluss GS3→FSP3/4: die Größenbeziehung zweier natürlicher Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise sicher aufeinander beziehen. GS187191 steht unmittelbar unter Zahlbeziehungen187182, nicht unter Zahldarstellungen2037 und nicht unter Strukturunterziel187183. FSP35463 nennt Vergleichen/Ordnen von Mengen und Zahlen verbindlich; die Bemerkung konkretisiert Mengen-/Zahlzuordnung in beiden Richtungen. Bild↔Ziffernschreibweise und der Vergleich zweier Anzahlen sind hier eine ausdrücklich didaktische Eingrenzung. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel187182; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere FSP-Rahmen trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Keine Ableitung der FSP-Grenze aus einem übergreifenden Bandziel. Keine vollständige GS-Zieldeckung: ausgewählt ist nur der Größenvergleich zweier Anzahlen in Bild- und Zifferndarstellung. Weitere Zahlbeziehungen, insbesondere Nachbar-/Verdopplungs-/Halbierungsbeziehungen, Runden, sämtliche Darstellungsarten und ihre freien Wechsel sowie Zahlen oberhalb100 bis1000 bleiben außerhalb dieses FSP-Ausschnitts. Es werden keine Rechnungen, Differenzbestimmungen, Stellenwertmodelle, Einheiten oder besonderen Kodierungen zusätzlich abgedeckt. Die allgemeine Vergleichszeile187186 und die reine Zahldarstellungszeile2044 sind eigenständige bereits geprüfte Ziele.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187191"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187191",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35463"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Begrenzter stufenpassender Anschluss GS3→FSP3/4: die Größenbeziehung zweier natürlicher Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise sicher aufeinander beziehen. GS187191 steht unmittelbar unter Zahlbeziehungen187182, nicht unter Zahldarstellungen2037 und nicht unter Strukturunterziel187183. FSP35463 nennt Vergleichen/Ordnen von Mengen und Zahlen verbindlich; die Bemerkung konkretisiert Mengen-/Zahlzuordnung in beiden Richtungen. Bild↔Ziffernschreibweise und der Vergleich zweier Anzahlen sind hier eine ausdrücklich didaktische Eingrenzung. Amtliche Lernzielebenen: GS Beherrschen187182 und FSP Beherrschen35461. Vernetzen, Vergleichen, Ordnen und Zuordnen sind Zielhandlungen; bildlich und symbolisch sind Darstellungsformen. Die Definition Beherrschen bezeichnet routinemäßigen Gebrauch von Handlungs-/Verfahrensweisen. Eine enge Konkretisierung ist kein vollständiger Hauptzielnachweis. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel187182; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere FSP-Rahmen trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Keine Ableitung der FSP-Grenze aus einem übergreifenden Bandziel. Vertrauter Alltagskontext, eindeutige Zugehörigkeit der dargestellten Elemente und eindeutige Zuordnung jeder der beiden Anzahlen zur betreffenden Ziffernschreibweise. Jedes Bildelement steht hier für eine Einheit; keine gewichteten Symbole oder Skalen. Beim Wechsel bleibt jede Anzahl und damit ihre Größenbeziehung erhalten; räumliche Ausdehnung, Anordnung oder Elementgröße sind kein Zahlwert. Gleich große Anzahlen bleiben gleichwertig. Keine bestimmte Vergleichszeichen- oder Fachwortform wird gefordert; die Zeichenforderung aus FSP1/2 wird nicht in3/4 übertragen. Keine vollständige GS-Zieldeckung: ausgewählt ist nur der Größenvergleich zweier Anzahlen in Bild- und Zifferndarstellung. Weitere Zahlbeziehungen, insbesondere Nachbar-/Verdopplungs-/Halbierungsbeziehungen, Runden, sämtliche Darstellungsarten und ihre freien Wechsel sowie Zahlen oberhalb100 bis1000 bleiben außerhalb dieses FSP-Ausschnitts. Es werden keine Rechnungen, Differenzbestimmungen, Stellenwertmodelle, Einheiten oder besonderen Kodierungen zusätzlich abgedeckt. Die allgemeine Vergleichszeile187186 und die reine Zahldarstellungszeile2044 sind eigenständige bereits geprüfte Ziele.",
+      "shared_object_suggestion": "Dieselbe Größenbeziehung zweier Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bezieht die Größenbeziehung zweier Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise sicher in beiden Richtungen aufeinander, im Zahlenraum bis 1 000 und vertrauten Alltagskontext.",
+          "criterion": "Die beiden dargestellten Anzahlen und ihre Zahlwerte stimmen jeweils überein. Ihre Größenbeziehung bleibt in beiden Wechselrichtungen richtig erhalten; gleiche Anzahlen bleiben gleichwertig. Alle relevanten Zahlen, Anzahlen, Teilanzahlen sowie Zwischen- und Endergebnisse bleiben bis 1 000. Eine bestimmte Zeichen- oder Fachwortform und eine Berechnung des Unterschieds werden nicht verlangt.",
+          "status": "Didaktischer Ausschnitt der Darstellungsvernetzung einer Vergleichsbeziehung; keine vollständige Hauptzieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bezieht die Größenbeziehung zweier Anzahlen in bildlicher Mengendarstellung und Ziffernschreibweise sicher in beiden Richtungen aufeinander, im Zahlenraum bis 100 und vertrauten Alltagskontext.",
+          "criterion": "Die beiden dargestellten Anzahlen und ihre Zahlwerte stimmen jeweils überein. Ihre Größenbeziehung bleibt in beiden Wechselrichtungen richtig erhalten; gleiche Anzahlen bleiben gleichwertig. Alle relevanten Zahlen, Anzahlen, Teilanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Eine bestimmte Zeichen- oder Fachwortform und eine Berechnung des Unterschieds werden nicht verlangt.",
+          "status": "Didaktischer Ausschnitt der Darstellungsvernetzung einer Vergleichsbeziehung; keine vollständige Hauptzieldeckung.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel187182; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere FSP-Rahmen trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Keine Ableitung der FSP-Grenze aus einem übergreifenden Bandziel.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187191 verbindliches Unterziel unmittelbar unter187182; Hauptziel nur Kontext. Nicht unter187183 und nicht dem anderen Hauptziel2037 zugeordnet.",
+        "fsp": "Vergleichen/Ordnen von Mengen und Zahlen35463 verbindlich; Mengen-/Zahlzuordnung in beiden Richtungen steht in der Bemerkung. Bild-/Ziffern-Vergleich didaktisch ausgewählt.",
+        "context_only_gs_ids": [
+          "page912_187182"
+        ],
+        "fsp_remark_anchor": "page139_35463"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Mengenanzahlen und Zahlen bis 100",
+        "detail": "FSP-Hauptziel35461 nennt bis100 ausdrücklich; darunter35463. Die Verknüpfung von Bild- und Zifferndarstellung derselben Vergleichsbeziehung ist didaktisch ausgewählt. GS187182 nennt bis1 000; keine vollständige GS-Zieldeckung.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Vertrauter Alltagskontext, eindeutige Zugehörigkeit der dargestellten Elemente und eindeutige Zuordnung jeder der beiden Anzahlen zur betreffenden Ziffernschreibweise. Jedes Bildelement steht hier für eine Einheit; keine gewichteten Symbole oder Skalen. Beim Wechsel bleibt jede Anzahl und damit ihre Größenbeziehung erhalten; räumliche Ausdehnung, Anordnung oder Elementgröße sind kein Zahlwert. Gleich große Anzahlen bleiben gleichwertig. Keine bestimmte Vergleichszeichen- oder Fachwortform wird gefordert; die Zeichenforderung aus FSP1/2 wird nicht in3/4 übertragen. Alle relevanten FSP-Zahlen, Anzahlen, Teilanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Die beiden verglichenen Mengen werden nicht zu einer zusätzlichen Gesamtmenge vereinigt. Einheiten, besondere Schreibweisen und nichtnumerische Ziele benötigen gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
       }
     }
   ]

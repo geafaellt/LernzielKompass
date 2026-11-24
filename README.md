@@ -232,3 +232,6 @@ Mathematik MA-117: Doppelte/halbe Anzahlen inGS3 begrenzt zugeordnet; GS Beherrs
 
 
 MA-117 veröffentlicht: App1.419, Commit `0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45347849381). Live-App bytegleich, SHA-256 `b90c5a2c46c942861fd28f4a34a91e3d1d2a5d17ac9e249bfa99571a02705fa7`. Alle sechs Datenprüfungen, gezielte MathematikprüfungMA-011/116 mit bestehenden Regressionen und vollständige Ebenenprüfung429Karten/858Seiten lokal/live bestanden. Keine UI-Codeänderung und kein erneuter vollständiger Mathematikfunktionslauf aller116Karten. Nächster Schritt187190 (Runden), danach187191.22 offene Anschlussfragen und weitergehende Restumfänge; kein Gesamtabschluss.
+
+
+Mathematik MA-119: Zahlvergleich in Bild-/Zifferndarstellung ergänzt (beide Beherrschen; GS1000/FSP100).117 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_119.json). App1.420: Sechs Datenprüfungen und vollständige Mathematik-/Ebenen-Browserprüfungen lokal bestanden. Veröffentlichung und Liveprüfung ausstehend.
