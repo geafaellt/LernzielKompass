@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-117
+# Mathematik-Abgleich · MA-118
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Runden187190, danach Vernetzen187191. [MA-117](review_batch_117.json) ordnet187189 begrenzt aufMA-116 zu.116 Karten,22 Fragen,13 ganze Zeilen ohne direkten Anschluss; App1.419.
+Fortsetzung beiGS3 Vernetzen187191. [MA-118](review_batch_118.json) entscheidet187190 Runden ohne hinreichenden direkten Anschluss inFSP1/2 oder3/4.116 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss; App1.419 unverändert.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1289,3 +1289,16 @@ Eine erstmals geprüfteGS-Zeile, eine stufenpassende Karte.116 Karten(87 passend
 
 
 MA-117 veröffentlicht: App1.419, Commit `0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45347849381). Live-App bytegleich, SHA-256 `b90c5a2c46c942861fd28f4a34a91e3d1d2a5d17ac9e249bfa99571a02705fa7`. Alle sechs Datenprüfungen, gezielte MathematikprüfungMA-011/116 mit bestehenden Regressionen und vollständige Ebenenprüfung429Karten/858Seiten lokal/live bestanden. Keine UI-Codeänderung und kein erneuter vollständiger Mathematikfunktionslauf aller116Karten. Nächster Schritt187190 (Runden), danach187191.22 offene Anschlussfragen und weitergehende Restumfänge; kein Gesamtabschluss.
+
+
+## MA-118 · Runden GS3 · 24.11.2026 · Audit ohne App-Änderung
+
+Für GS3 Runden187190 ist nach Prüfung beider FSP-Bänder kein hinreichend bestimmter direkter Anschluss belegt. Nachbarzehner und Stellenwertstruktur sind fachliche Voraussetzungen; sie verlangen aber noch keine Auswahl eines Näherungswerts nach einer Rundungsregel. Überschlagen, Abschätzen und Vergleichen mit Erfahrungswerten sind positive verwandte Inhalte, können jedoch ohne regelgeleitetes Runden einer gegebenen Zahl erfüllt werden. Eine Festlegung auf eine Rundungsstelle oder eine Auf-/Abrundungsregel würde den geprüften FSP-Zeilen eine zusätzliche Anforderung zuschreiben. Weder eine fehlende Karte noch das bloße Fehlen des Wortes Runden noch der kleinere Zahlenraum ist der Entscheidungsgrund. Auch im gemeinsamen Zahlenraum bis100 bleibt diese Verfahrensdifferenz bestehen.
+
+GS: Beherrschen aus Hauptziel187182; Runden187190 ist die unter187183 eingeordnete Zielhandlung. Rundungsregel, ist angenähert und Zeichen≈ stehen in der GS-Bemerkung. FSP: Beherrschen35461 für35466/35468 und Beherrschen37931 für37947/37956; Einblick gewinnen37851 für37871/37885/37889 sowie37913 für37926; Übertragen35470 für35487; Kennen35498 für35503; Einblick gewinnen35504 für35509; Anwenden35554 beziehungsweise35582 für die Wahlbereichsziele35558 beziehungsweise35590. Kontrollieren, Überschlagen, Schätzen, Benennen und Vergleichen bleiben Zielhandlungen, keine Lernzielebenen. Keine ausgewählte FSP-Rundungszielebene wird erfunden.
+
+Die ganze GS-Zeile187190 erhält keine direkte Kartenabdeckung. Regelgeleitetes Runden und die GS-Bemerkung zu Näherungszeichen/Rundungsregel bleiben durch die untersuchten FSP-Zeilen ungedeckt. Didaktisch ist Runden nicht verboten; seine Lernbarkeit oder Zulässigkeit wird nicht beurteilt. Spätere GS-Zeilen zu Überschlags-/Kontrollverfahren und Fachwörtern sind eigenständig zu prüfen. Vernetzen187191 bleibt offen; bestehende NachbarzehnerkarteMA-115 bleibt begrenzt gültig.
+
+Auch die verbindlichen Überschlagsziele in den Wahlbereichen Einkaufsbummel35558 und Tierwelt35590 wurden geprüft. Ihre Sachkontexte und Anwenden-Hauptziele werden nicht zu einem allgemeinen Rundungsziel umgedeutet. Die ausdrückliche Rundungszeile38251 gehört zuFSP5/6 und bleibt außerhalb des Vergleichs. Zahlenraumunterschiede sind nicht der Ausschlussgrund. Keine Obergrenze unbezifferter FSP-Zeilen erfunden.
+
+MA-115 mit beiden begrenzenden Nachbarzehnern und ausdrücklich belegtem FSP-Rahmen bis100 einschließlich aller Zwischen-/Endwerte erneut abgegrenzt und unverändert erhalten. Eine Erstprüfung, keine neue Karte;116 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. Alle Karten, Feinziele, Kriterien, Scope-Felder und Lernzielebenen sowie beide HTML-Dateien unverändert. Alle sechs Datenprüfungen bestanden. Reiner Auditstand wird mit diesem Commit auf main gesichert. Keine neue App-Version, kein neuer Browser-/Live-Nachweis; letzter App-NachweisMA-117.

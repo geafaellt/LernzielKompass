@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-117",
+  "last_batch": "MA-118",
   "complete": false,
   "counts": {
     "cards": 116,
@@ -3562,8 +3562,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_187190",
-  "next_step": "GS3 Runden187190, danach Vernetzen187191 prüfen.187189 aufMA-116 begrenzt zugeordnet: GS Beherrschen bis1000/FSP Einblick gewinnen im Verteilungskontext, Feinzielgrenze100 ausdrücklich didaktisch aus Bandziel35415 abgeleitet; alle Zwischen-/Endanzahlen eingeschlossen, Hälften nur ganzzahlig.116 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.419 auf main veröffentlicht; Pages erfolgreich, ausgelieferte App bytegleich und gezielte Mathematik-/vollständige Ebenen-Browserprüfung lokal/live bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_id": "page912_187191",
+  "next_step": "GS3 Vernetzen von Darstellungen187191 unter187182 prüfen, beide FSP-Bänder berücksichtigen.187190 Runden inMA-118 nach Einzelprüfung als ohne hinreichenden direkten Anschluss entschieden; Nachbarzehner, Schätzen und Überschlagen nicht gleichsetzen.116 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. Keine App-Änderung; App1.419 und NachweiseMA-117 gelten weiter. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3884,7 +3884,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_117.json",
+  "last_review_file": "review_batch_118.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -5230,6 +5230,12 @@
       "scope": "Größere GS-Zahlwerte bis1 000, Halbieren ungerader Zahlen, nichtganzzahlige Hälften, Größen mit Einheiten, geometrisches Halbieren, beliebige Darstellungswechsel und routinemäßiges Beherrschen aller Verdopplungs-/Halbierungsbeziehungen bleiben außerhalb des FSP-Anschlusses. Der enge Ausschnitt ist kein vollständiger Nachweis beider Hauptziele. Die bestehende Sprachfrage zuGS1/2 1837 wird nicht mit erledigt.",
       "status": "offen",
       "review": "MA-117"
+    },
+    {
+      "gs_id": "page912_187190",
+      "scope": "Die ganze GS-Zeile187190 erhält keine direkte Kartenabdeckung. Regelgeleitetes Runden und die GS-Bemerkung zu Näherungszeichen/Rundungsregel bleiben durch die untersuchten FSP-Zeilen ungedeckt. Didaktisch ist Runden nicht verboten; seine Lernbarkeit oder Zulässigkeit wird nicht beurteilt. Spätere GS-Zeilen zu Überschlags-/Kontrollverfahren und Fachwörtern sind eigenständig zu prüfen. Vernetzen187191 bleibt offen; bestehende NachbarzehnerkarteMA-115 bleibt begrenzt gültig.",
+      "status": "no_direct_connection",
+      "review": "MA-118"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -5245,7 +5251,8 @@
     "page912_187176",
     "page912_2035",
     "page912_2033",
-    "page912_187180"
+    "page912_187180",
+    "page912_187190"
   ],
   "inventory_scope": {
     "gs_blocks": [
@@ -5272,7 +5279,7 @@
       "page912_187182"
     ],
     "rows": 206,
-    "note": "MA-114:206 Inventurzeilen unverändert.187183 erstmals als eigener begrenzter Strukturausschnitt geprüft (vorher nur Kontext),187184 erstmals geprüft; eine neue Karte.22 Fragen und13 ganze Zeilen ohne direkten Anschluss unverändert.187185/187186 zur erneuten Einzelprüfung vorgesehen.",
+    "note": "MA-118:206 Inventurzeilen unverändert.187190 erstmals einzeln geprüft; kein hinreichender direkter Rundungsanschluss inFSP1/2 oder3/4.14 ganze Zeilen ohne direkten Anschluss,22 offene Fragen,116 Karten.187191 bleibt offen.",
     "sampled_gs_blocks": [
       "page912_2267"
     ]
@@ -5969,10 +5976,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-117",
+    "batch": "MA-118",
     "status": "recorded_in_this_commit",
-    "app_commit": "0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca",
-    "note": "Veröffentlichungsnachweis nach abgeschlossenen Tests und Liveprüfung; eigene Commitkennung aus Git-Historie ersichtlich."
+    "app_unchanged": true,
+    "note": "Reine Auditänderung mit sechs bestandenen Datenprüfungen. App1.419 und App-VeröffentlichungsnachweisMA-117 unverändert; kein neuer Browser-/Live-Nachweis."
   },
   "continuation_correction": {
     "batch": "MA-067",
@@ -6608,7 +6615,8 @@
       "hierarchy_evidence": "GS S.21/PDF31:2038 unter2037. FSP S.19/PDF31:35463 unter35461. FSP S.13/PDF25:37959 unter37931. Erkennen,Entdecken,Vergleichen,Ordnen,Deuten sind Handlungen. Enge Konkretisierungen weisen nicht die ganzen Hauptziele nach."
     },
     "page912_187182": {
-      "follow_up_MA114": "Definition Beherrschen in beiden Plänen S.V; GS187183/187184 unter187182 und FSP35468 unter35461. Nutzen/Bilden/Zerlegen/Darstellen/Entdecken sind Handlungen. PDF GS22/FSP19 und Onlineabschnitte gelesen. Dekadische Stellenwertanteile sind ein didaktischer Ausschnitt, kein vollständiger Hauptzielnachweis."
+      "follow_up_MA114": "Definition Beherrschen in beiden Plänen S.V; GS187183/187184 unter187182 und FSP35468 unter35461. Nutzen/Bilden/Zerlegen/Darstellen/Entdecken sind Handlungen. PDF GS22/FSP19 und Onlineabschnitte gelesen. Dekadische Stellenwertanteile sind ein didaktischer Ausschnitt, kein vollständiger Hauptzielnachweis.",
+      "follow_up_MA118": "Beide amtlichen DefinitionstabellenS.V/PDF5 und GS-HierarchieS.22/PDF32 gelesen: Beherrschen ist die Hauptzielebene; Runden187190 ist eine unter187183 stehende Zielhandlung, Rundungsregel/≈ Bemerkung. Keine FSP-Rundungszielebene aus verwandten Kontrollen oder aus späterem5/6-Ziel erfinden."
     }
   },
   "single_row_operator_evidence": {

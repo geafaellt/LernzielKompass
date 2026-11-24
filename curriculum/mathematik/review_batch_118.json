@@ -1,0 +1,378 @@
+{
+  "id": "MA-118",
+  "date": "2026-11-24",
+  "base_commit": "790adab20d17bfe89c6f7bb01452f1c1080ebcc1",
+  "scope": "GS3 Runden187190: Nachbarzehner, Schätzen, Kontrollverfahren und Überschlagen in beiden FSP-Bändern getrennt prüfen.",
+  "source_verification": {
+    "html": "Amtliche GS/FSP-Seiten am24.11.2026 erneut geöffnet; konkrete Zahlen-/Kontrollziele beider Bänder sowie Wahlbereiche3/4 und die spätere5/6-Rundungszeile zur Abgrenzung gelesen.",
+    "pdf": "Beide amtlichen PDFs neu heruntergeladen. Definitionen jeweilsS.V/PDF5; GS S.22/PDF32; FSP S.11–13/PDF23–25,S.19–21/PDF31–33,S.23–24/PDF35–36 sowieS.27/PDF39 textuell gelesen. Keine neue Render-/Sichtprüfung.",
+    "gs_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/912/Mpk0iAibe4ONjV3PndYR",
+    "fsp_url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/file/139/UBWaDWv0dikHPKoVTCc0",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_187182": {
+      "id": "page912_187182",
+      "level": 1,
+      "parent_target_id": "page912_187182",
+      "target": "Beherrschen von Zahlbeziehungen und der Orientierung im Zahlenraum bis 1 000",
+      "remarks": "Zahlbeziehung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187182"
+    },
+    "page912_187183": {
+      "id": "page912_187183",
+      "level": 2,
+      "parent_target_id": "page912_187182",
+      "target": "Nutzen von Strukturen in arithmetischen Zahldarstellungen und Anschauungsmitteln",
+      "remarks": "Rechenstrich, Zahlenstrahl, Mehrsystemmaterial ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187183"
+    },
+    "page912_187190": {
+      "id": "page912_187190",
+      "level": 3,
+      "parent_target_id": "page912_187182",
+      "target": "Runden",
+      "remarks": "Rundungsregel ist angenähert, Zeichen ≈",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187190"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37871": {
+      "id": "page139_37871",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Erkennen wesentlicher Strukturelemente von zweistelligen Zahlen",
+      "remarks": "Beziehung zum Zahlenaufbau: 10 + 4 = 14 Sprechen, Darstellen, Verwenden von Zehner (Z) und Einer (E), Stellenwerttafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871"
+    },
+    "page139_37885": {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885"
+    },
+    "page139_37889": {
+      "id": "page139_37889",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37889"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37947": {
+      "id": "page139_37947",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Benennen der Nachbarzahlen",
+      "remarks": "Formulierungshilfen: „nach der ... steht ...“, „vor der ... steht ...“, „zwischen ... und ... steht ...“, „... steht zwischen ... und ...\"",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37947"
+    },
+    "page139_37956": {
+      "id": "page139_37956",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Ordnen und Vergleichen von Zahlen unter Verwendung der Zeichen <, >, =",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37956"
+    },
+    "page139_37913": {
+      "id": "page139_37913",
+      "level": 1,
+      "parent_target_id": "page139_37913",
+      "target": "Einblick gewinnen in den Wert des Geldes",
+      "remarks": "Kaufmannsladen, Essen- und Milchgeld, Märkte Taschengeld, Sparen Vergleich: billig – teuer, arm – reich szenisches Spiel ⇒ Werteorientierung ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37913"
+    },
+    "page139_37926": {
+      "id": "page139_37926",
+      "level": 2,
+      "parent_target_id": "page139_37913",
+      "target": "Legen, Zählen, Vergleichen, Ordnen, Wechseln von Geldbeträgen",
+      "remarks": "Zahlenraum beachten Differenzierung: Abschätzen von Preisen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37926"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken von Strukturelementen im Zahlenaufbau",
+      "remarks": "Bündelung, Hunderterfeld, -tafel dekadisches Positionssystem, Stellentafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468"
+    },
+    "page139_35470": {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470"
+    },
+    "page139_35487": {
+      "id": "page139_35487",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": "Partner- und Selbstkontrolle Taschenrechner möglich Differenzierung: Genauigkeit beim Abschätzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35487"
+    },
+    "page139_35498": {
+      "id": "page139_35498",
+      "level": 1,
+      "parent_target_id": "page139_35498",
+      "target": "Kennen der schriftlichen Rechenverfahren der Addition und Subtraktion",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35498"
+    },
+    "page139_35503": {
+      "id": "page139_35503",
+      "level": 2,
+      "parent_target_id": "page139_35498",
+      "target": "Kontrollverfahren",
+      "remarks": "Umkehroperation bei der Subtraktion, Vertauschen der Rechenrichtung bei der Addition Überschlagen, Vergleich mit Erfahrungswerten, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35503"
+    },
+    "page139_35504": {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504"
+    },
+    "page139_35509": {
+      "id": "page139_35509",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509"
+    },
+    "page139_35554": {
+      "id": "page139_35554",
+      "level": 1,
+      "parent_target_id": "page139_35554",
+      "target": "Anwenden des Wissens über Grundrechenarten und geometrische Objekte beim Einkauf",
+      "remarks": "Kaufmannsladen projektbezogener Einkauf: gesundes Frühstück",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35554"
+    },
+    "page139_35558": {
+      "id": "page139_35558",
+      "level": 2,
+      "parent_target_id": "page139_35554",
+      "target": "Überschlagsrechnen in Sachzusammenhängen",
+      "remarks": "Geldmengen schätzen, überschlagen Öffnungszeiten, Haltbarkeitsfristen Abschätzen, ob das Geld ausreicht ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35558"
+    },
+    "page139_35582": {
+      "id": "page139_35582",
+      "level": 1,
+      "parent_target_id": "page139_35582",
+      "target": "Anwenden von Lösungsstrategien beim Berechnen von Sachverhalten aus der Tierwelt",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen Zahlenmaterial zu Lebensweise, Alter, Nachwuchs, Aufzucht, Futter sammeln ➔ DE - HKS, Kl. 3/4, LB 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35582"
+    },
+    "page139_35590": {
+      "id": "page139_35590",
+      "level": 2,
+      "parent_target_id": "page139_35582",
+      "target": "Berechnung und/oder Überschlag ausführen, Antwort formulieren",
+      "remarks": "mit Hilfe von Skizzen, Gleichungen Grundrechenarten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35590"
+    }
+  },
+  "candidates": [
+    {
+      "band": "1/2",
+      "ids": [
+        "page139_37851",
+        "page139_37871",
+        "page139_37885",
+        "page139_37889"
+      ],
+      "finding": "Zweistelliger Zahlenaufbau, Rechenvorteile bis20 und Kontrolle durch Umkehren/Vertauschen/Erfahrungswerte unter Einblick gewinnen. Die Bemerkungen zeigen exakte Umformungen und Rechenbeziehungen, keine Rundungsregel. Kein Ausschluss allein wegen20 oder zweistelliger Zahlen."
+    },
+    {
+      "band": "1/2",
+      "ids": [
+        "page139_37931",
+        "page139_37947",
+        "page139_37956"
+      ],
+      "finding": "Nachbarzahlen und Zahlvergleich unter Beherrschen sind positive Grundlagen der Orientierung. Sie bestimmen weder eine Rundungsstelle noch die regelgeleitete Wahl eines Näherungswerts. Eigene Obergrenze dieser Zielzeilen nicht genannt und hier nicht erfunden."
+    },
+    {
+      "band": "1/2",
+      "ids": [
+        "page139_37913",
+        "page139_37926"
+      ],
+      "finding": "Abschätzen von Preisen steht als Differenzierung in der Bemerkung zum Umgang mit Geldbeträgen unter Einblick gewinnen. Sachbezogenes Schätzen ist kein hinreichender Beleg für das Rundungsverfahren; Einheiten und Zahlenraum bleiben gesondert zu betrachten."
+    },
+    {
+      "band": "3/4",
+      "ids": [
+        "page139_35461",
+        "page139_35466",
+        "page139_35468"
+      ],
+      "finding": "Stufenpassende Nachbarzehner und Stellenwertstrukturen unter Beherrschen bis100 anerkannt. Der bekannte TeilanschlussMA-115 bleibt bestehen. Das Bestimmen beider Nachbarzehner legt noch nicht fest, welcher davon nach einer Rundungsregel zu wählen ist."
+    },
+    {
+      "band": "3/4",
+      "ids": [
+        "page139_35470",
+        "page139_35487"
+      ],
+      "finding": "Kontrollieren unter Übertragen; Genauigkeit beim Abschätzen ist eine Bemerkung. Plausibilitätsvergleich und unterschiedliche Schätzgenauigkeit setzen kein bestimmtes Rundungsverfahren voraus."
+    },
+    {
+      "band": "3/4",
+      "ids": [
+        "page139_35498",
+        "page139_35503",
+        "page139_35504",
+        "page139_35509"
+      ],
+      "finding": "Überschlagen steht bei Kontrollverfahren unter Kennen bzw. Lösungsvarianten unter Einblick gewinnen in der Bemerkung. Es ist ein anerkannter fachlicher Näherungsbezug, legt aber die Transformation einer gegebenen Zahl mittels Rundungsregel nicht fest. Keine eigene numerische Obergrenze dieser Zeilen;100 wird ihnen nicht aus35461 zugeschrieben."
+    },
+    {
+      "band": "3/4",
+      "ids": [
+        "page139_35554",
+        "page139_35558",
+        "page139_35582",
+        "page139_35590"
+      ],
+      "finding": "Auch die stärkeren verbindlichen Wahlbereichs-Unterziele zum Überschlagsrechnen beim Einkauf und Berechnen/Überschlagen in der Tierwelt unter Anwenden wurden berücksichtigt. Zweckbezogene Näherungsrechnungen können mit passenden Vergleichs- oder Ersatzwerten erfolgen und verlangen nicht notwendig eine feste Rundungsregel. Die spezifischen Sachkontexte werden nicht zu einem allgemeinen Rundungsziel umgedeutet. Keine erfundene Obergrenze; Geld/Einheiten gesondert."
+    }
+  ],
+  "outside_scope_reference": {
+    "row": {
+      "id": "page139_38251",
+      "level": 2,
+      "parent_target_id": "page139_38187",
+      "target": "Runden der Ergebnisse",
+      "remarks": "Rundungsregeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38251"
+    },
+    "band": "5/6",
+    "use": "Nur zur Stufenabgrenzung, kein Anschlussbeleg für1/2 oder3/4."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187190",
+      "first_review": true,
+      "status": "no_direct_connection",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "card": null,
+      "reason": "Für GS3 Runden187190 ist nach Prüfung beider FSP-Bänder kein hinreichend bestimmter direkter Anschluss belegt. Nachbarzehner und Stellenwertstruktur sind fachliche Voraussetzungen; sie verlangen aber noch keine Auswahl eines Näherungswerts nach einer Rundungsregel. Überschlagen, Abschätzen und Vergleichen mit Erfahrungswerten sind positive verwandte Inhalte, können jedoch ohne regelgeleitetes Runden einer gegebenen Zahl erfüllt werden. Eine Festlegung auf eine Rundungsstelle oder eine Auf-/Abrundungsregel würde den geprüften FSP-Zeilen eine zusätzliche Anforderung zuschreiben. Weder eine fehlende Karte noch das bloße Fehlen des Wortes Runden noch der kleinere Zahlenraum ist der Entscheidungsgrund. Auch im gemeinsamen Zahlenraum bis100 bleibt diese Verfahrensdifferenz bestehen.",
+      "learning_levels": "GS: Beherrschen aus Hauptziel187182; Runden187190 ist die unter187183 eingeordnete Zielhandlung. Rundungsregel, ist angenähert und Zeichen≈ stehen in der GS-Bemerkung. FSP: Beherrschen35461 für35466/35468 und Beherrschen37931 für37947/37956; Einblick gewinnen37851 für37871/37885/37889 sowie37913 für37926; Übertragen35470 für35487; Kennen35498 für35503; Einblick gewinnen35504 für35509; Anwenden35554 beziehungsweise35582 für die Wahlbereichsziele35558 beziehungsweise35590. Kontrollieren, Überschlagen, Schätzen, Benennen und Vergleichen bleiben Zielhandlungen, keine Lernzielebenen. Keine ausgewählte FSP-Rundungszielebene wird erfunden.",
+      "prerequisites": "Zahlwert, Stellenwert, Nachbarbeziehungen und Bedeutung eines Näherungswerts wären für eine didaktische Rundungskonkretisierung getrennt zu klären. Diese fachlichen Voraussetzungen begründen keine amtliche FSP-Rundungsanforderung. Wahlbereichsbezüge müssten bei einer späteren Auswahl mit ihrem Einkaufs- bzw. Tierweltkontext und ihrer Wahlbereichsbedingung erhalten bleiben. Keine Aufgaben, Lernhandlungen, Hilfsmittel oder Feinziele werden ergänzt.",
+      "uncertainty": "Entscheidung betrifft den hinreichenden direkten Quellenbeleg in FSP1/2 und3/4, keine Aussage über alle denkbaren Unterrichtskonkretisierungen. Neue amtliche Evidenz könnte eine Wiederprüfung begründen. Die ausdrücklich belegte Rundungszeile38251 gehört zuFSP5/6 und liegt außerhalb dieses Auftrags; sie wird nicht vorgezogen.",
+      "remaining_scope": "Die ganze GS-Zeile187190 erhält keine direkte Kartenabdeckung. Regelgeleitetes Runden und die GS-Bemerkung zu Näherungszeichen/Rundungsregel bleiben durch die untersuchten FSP-Zeilen ungedeckt. Didaktisch ist Runden nicht verboten; seine Lernbarkeit oder Zulässigkeit wird nicht beurteilt. Spätere GS-Zeilen zu Überschlags-/Kontrollverfahren und Fachwörtern sind eigenständig zu prüfen. Vernetzen187191 bleibt offen; bestehende NachbarzehnerkarteMA-115 bleibt begrenzt gültig.",
+      "number_scope": "GS-Hauptziel187182 bis1000 ausdrücklich. FSP35461 ausdrücklich bis100,37885 ausdrücklich bis20; andere Kandidaten ohne eigene Obergrenze werden nicht pauschal damit begrenzt. Kein neuer FSP-Feinzielrahmen, weil kein Rundungsanschluss ausgewählt wird. Ein kleinerer Zahlenraum wäre allein kein Ausschlussgrund; ausschlaggebend bleibt die inhaltliche Verfahrensdifferenz auch im gemeinsamen Bereich."
+    }
+  ],
+  "existing_cards_rechecked": [
+    "MA-115"
+  ],
+  "existing_card_review": "MA-115 erneut abgegrenzt: Beherrschen187182/35461, begrenzende Nachbarzehner bei Nicht-Zehnerzahlen, GS1000/FSP100 mit ausdrücklich belegter FSP-Hauptzielgrenze. Beide Grenzzahlen und relevante Zwischen-/Endwerte müssen innerhalb des Rahmens liegen;100 darf oberer Nachbarzehner sein. Kein Runden oder ausgewählter nächster Zehner im Feinziel. Karte und Kriterien unverändert, keine neue Erstzählung der Nachbarzehnerzeile.",
+  "counts": {
+    "first_reviews_this_batch": 1,
+    "existing_cards_rechecked_this_batch": 1,
+    "new_cards": 0,
+    "cards_total": 116,
+    "same_band": 87,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 14,
+    "new_no_direct_connections": 1,
+    "inventory_rows": 206,
+    "source_links": 279,
+    "target_anchors": 277
+  },
+  "app_changes": false,
+  "tests": {
+    "status": "passed",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-24\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 116 mathematics cards, 279 source links (277 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 116 mathematics cards, 279 source links (277 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "preservation": "Bytevergleich bestätigt: App/index/dist,116 Mathematikkarten mit allen Feinzielen/Kriterien/Scope-Feldern,429 Ebeneneinträge und andere Fachbestände unverändert.206 Inventurzeilen und Quellspalten unverändert, nur187190 bewertet.22 offene Fragen unverändert;14 eindeutige ganze Zeilen ohne direkten Anschluss.",
+    "browser": "Keine UI-/App-Änderung, daher kein neuer Browserlauf. Lokale und öffentliche Ebenenprüfung429Karten/858Seiten sowie gezielte Mathematikfunktionsprüfung ausMA-117 bleiben die letzten Nachweise; kein neuer Live-Nachweis behauptet.",
+    "limits": "Keine erneute vollständige semantische Prüfung aller Bestandskarten; MA-115 gezielt abgegrenzt."
+  },
+  "publication": {
+    "status": "recorded_in_this_audit_commit",
+    "app_version_unchanged": "1.419",
+    "app_unchanged": true,
+    "note": "Reine Auditänderung auf main; Commitkennung aus Git-Historie dieses Prüfpakets. Keine neue App-Veröffentlichung erforderlich.",
+    "last_verified_app_commit": "0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca",
+    "last_verified_pages_run": "https://github.com/geafaellt/LernzielKompass/actions/runs/45347849381",
+    "new_live_check": false
+  },
+  "continuation": {
+    "next_id": "page912_187191",
+    "next_step": "GS3 Vernetzen von Darstellungen187191 unter187182 prüfen, beide FSP-Bänder berücksichtigen.187190 Runden inMA-118 nach Einzelprüfung als ohne hinreichenden direkten Anschluss entschieden; Nachbarzehner, Schätzen und Überschlagen nicht gleichsetzen.116 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. Keine App-Änderung; App1.419 und NachweiseMA-117 gelten weiter. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}
