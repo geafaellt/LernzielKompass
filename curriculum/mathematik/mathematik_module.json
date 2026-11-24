@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-23.6",
-  "checked_on": "2026-11-23",
+  "version": "MA-2026-11-24.1",
+  "checked_on": "2026-11-24",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1765,6 +1765,18 @@
       "id": "Q-MA-page912_187184",
       "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187184",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187187",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187187",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187188",
+      "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187188",
       "version": "2026"
     }
   ],
@@ -10879,6 +10891,174 @@
           "Q-MA-page139_35461"
         ],
         "planning_rule": "Vertrauter Alltagsbezug und bekannte Bedeutung der dekadischen Stellen. Gewöhnliche dezimale Zahlenschreibweise, jede Stelle in der üblichen gebündelten Darstellung besetzt; unbesetzte Stellen erhalten den Zahlwert durch Null. Ziffer, Anzahl der Bündel und Wert eines Stellenanteils müssen auseinandergehalten werden. Der Grenzwert100 gehört zum FSP-Rahmen und wird nicht durch eine erfundene99-Grenze ausgeschlossen. Keine beliebigen additiven Zerlegungen, kein Rechenalgorithmus und keine besondere Kennzeichnungsschreibweise in diesem Ausschnitt. Darstellung und Umsetzung legt die Lehrkraft fest. Alle relevanten FSP-Ausgangszahlen, Werte der Stellenanteile und gegebenenfalls Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Kein Zwischenwert darf die Grenze überschreiten. Eine korrekte Zerlegung muss beim Zusammenführen wieder genau die Ausgangszahl ergeben. Einheiten, Dezimalbrüche, Kennzeichnungen und nichtnumerische Ziele benötigen gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-114",
+      "subject": "Mathematik",
+      "theme": "Vorgänger und Nachfolger · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedlicher Zahlenraum · Konkretisierung aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 3 · Zahl und Operation · Vorgänger und Nachfolger unter Beherrschen187182 bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Die Welt um mich herum · unmittelbare Nachbarzahlen in Bemerkung zu35466; Beherrschen35461 bis 100",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Lernzielebenen: GS Beherrschen aus187182 und FSP Beherrschen aus35461. Zählen, Bestimmen und Benennen sind Zielhandlungen; Nachbarzahlen und Nachbarzehner sind Inhalte der FSP-Bemerkung zu35466, keine eigenen Lernzielebenen. GS187187 nennt Vorgänger und Nachfolger unter Strukturzeile187183 und Beherrschen187182. FSP3/4 nennt Nachbarzahlen in der Bemerkung zu Zählen/Abzählen35466 unter Beherrschen35461. Der gewählte Ausschnitt ist die unmittelbar vorhergehende und folgende Zahl; diese relationale Konkretisierung ist didaktisch, kein neuer FSP-Zieloperator. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab. Größere GS-Zahlwerte bis1000, Randfälle ohne beide Nachbarn im gewählten Rahmen, sämtliche Ordnungszahlkontexte und zusätzliche Fachwortforderungen sind nicht vollständig abgedeckt. Nachbarzehner gehören aufMA-115. Der begrenzte Ausschnitt weist die Hauptziele nicht vollständig nach.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187183",
+        "page912_187187"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187187",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS187187 nennt Vorgänger und Nachfolger unter Strukturzeile187183 und Beherrschen187182. FSP3/4 nennt Nachbarzahlen in der Bemerkung zu Zählen/Abzählen35466 unter Beherrschen35461. Der gewählte Ausschnitt ist die unmittelbar vorhergehende und folgende Zahl; diese relationale Konkretisierung ist didaktisch, kein neuer FSP-Zieloperator. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab. Bekannte natürliche Zahlfolge im vertrauten Alltagskontext. Es werden nur Ausgangszahlen gewählt, für die beide geforderten unmittelbaren Nachbarzahlen nichtnegativ und innerhalb des jeweiligen Zahlenraums liegen. Die obere Grenze100 darf als Nachbarzahl vorkommen; sie ist kein Anlass für eine erfundene neue Lehrplangrenze99. Ist die Ausgangszahl100, läge ihr Nachfolger außerhalb des FSP-Rahmens; dieser Fall gehört nicht zum beidseitigen Feinziel. Ein negativer Vorgänger wird nicht verlangt. Größere GS-Zahlwerte bis1000, Randfälle ohne beide Nachbarn im gewählten Rahmen, sämtliche Ordnungszahlkontexte und zusätzliche Fachwortforderungen sind nicht vollständig abgedeckt. Nachbarzehner gehören aufMA-115. Der begrenzte Ausschnitt weist die Hauptziele nicht vollständig nach.",
+      "shared_object_suggestion": "Die Zahl und ihre unmittelbare Vorgänger- und Nachfolgerzahl.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt sicher die unmittelbare Vorgänger- und Nachfolgerzahl einer natürlichen Zahl im Zahlenraum bis 1000, sofern beide Nachbarzahlen ebenfalls im gewählten Zahlenraum liegen.",
+          "criterion": "Die Nachbarzahlen stehen unmittelbar vor und nach der Ausgangszahl. Ausgangszahl, beide Nachbarzahlen und sämtliche relevanten Zwischen-/Endwerte sind nichtnegative ganze Zahlen bis 1000; Randfälle mit einer Nachbarzahl außerhalb dieses Rahmens werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung des begrenzten Nachbarzahl-Ausschnitts; keine amtliche Feinzielzeile und keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bestimmt sicher die unmittelbare Vorgänger- und Nachfolgerzahl einer natürlichen Zahl im Zahlenraum bis 100 im vertrauten Alltagskontext, sofern beide Nachbarzahlen ebenfalls im gewählten Zahlenraum liegen.",
+          "criterion": "Die Nachbarzahlen stehen unmittelbar vor und nach der Ausgangszahl. Ausgangszahl, beide Nachbarzahlen und sämtliche relevanten Zwischen-/Endwerte sind nichtnegative ganze Zahlen bis 100; Randfälle mit einer Nachbarzahl außerhalb dieses Rahmens werden nicht verlangt.",
+          "status": "Didaktische Konkretisierung des begrenzten Nachbarzahl-Ausschnitts; keine amtliche Feinzielzeile und keine vollständige GS-Zieldeckung.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel unter Beherrschen187182;187183 Strukturkontext",
+        "fsp": "Nachbarzahlen/Nachbarzehner aus Bemerkung zum verbindlichen Unterziel35466; Beherrschen und Grenze100 aus Hauptziel35461",
+        "context_only_gs_ids": [
+          "page912_187182",
+          "page912_187183"
+        ],
+        "fsp_remark_anchor": "page139_35466"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 · Ausgangszahl und alle geforderten Nachbarzahlen",
+        "detail": "FSP35461 nennt die Obergrenze ausdrücklich im Hauptziel;35466 konkretisiert Nachbarbeziehungen in der Bemerkung. Keine Ableitung aus dem übergreifenden Bandziel. Die Auswahl zulässiger Ausgangszahlen ist eine didaktische Konsequenz daraus, dass auch sämtliche Ergebnisse innerhalb dieser Grenze bleiben müssen. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35466"
+        ],
+        "planning_rule": "Bekannte natürliche Zahlfolge im vertrauten Alltagskontext. Es werden nur Ausgangszahlen gewählt, für die beide geforderten unmittelbaren Nachbarzahlen nichtnegativ und innerhalb des jeweiligen Zahlenraums liegen. Die obere Grenze100 darf als Nachbarzahl vorkommen; sie ist kein Anlass für eine erfundene neue Lehrplangrenze99. Ist die Ausgangszahl100, läge ihr Nachfolger außerhalb des FSP-Rahmens; dieser Fall gehört nicht zum beidseitigen Feinziel. Ein negativer Vorgänger wird nicht verlangt. Alle relevanten Ausgangszahlen, Nachbarzahlen sowie Zwischen- und Endergebnisse bleiben bis100. Einheiten, Dezimalbrüche und Kennzeichnungen sind durch diesen Zahlfolgenausschnitt nicht freigegeben. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-115",
+      "subject": "Mathematik",
+      "theme": "Begrenzende Nachbarzehner · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedlicher Zahlenraum · Konkretisierung aus FSP-Bemerkung",
+      "gs_anchor": "GS Mathematik Kl. 3 · Zahl und Operation · Nachbarzehner und -hunderter unter Beherrschen187182 bis 1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Die Welt um mich herum · Nachbarzehner in Bemerkung zu35466; Beherrschen35461 bis 100",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Lernzielebenen: GS Beherrschen aus187182 und FSP Beherrschen aus35461. Zählen, Bestimmen und Benennen sind Zielhandlungen; Nachbarzahlen und Nachbarzehner sind Inhalte der FSP-Bemerkung zu35466, keine eigenen Lernzielebenen. GS187188 nennt Nachbarzehner und -hunderter unter187183/187182. FSP3/4 nennt Nachbarzehner in der Bemerkung zu Zählen/Abzählen35466 unter Beherrschen35461. Gewählt ist ausschließlich die begrenzende Zehnerbeziehung bei nicht durch zehn teilbaren natürlichen Zahlen; diese Einschränkung ist didaktisch und keine zusätzliche Lehrplanforderung. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab. Nur Nachbarzehner, keine Nachbarhunderter. Größere GS-Zahlwerte bis1000, exakte Zehnerzahlen und das Runden werden nicht mit abgedeckt. Für Nachbarhunderter ist in den geprüften FSP-Bändern kein hinreichend bestimmter direkter Anschluss belegt. FSP35466 nennt Nachbarzahlen und Nachbarzehner, nicht Nachbarhunderter. Hunderterfeld/-tafel und dekadisches Positionssystem in der Bemerkung zu35468 belegen Zahlenaufbau, aber nicht schon die zusätzliche Relation zweier begrenzender Hunderterzahlen. FSP1/2 37947 belegt unmittelbare Nachbarzahlen;37871 den zweistelligen Zahlenaufbau. Diese positiven Strukturbezüge werden anerkannt, reichen für den spezifischen Hunderteranschluss nicht aus. Kein Ausschluss allein wegen100 statt1000; selbst ein auf den gemeinsamen Bereich begrenzter Hunderterbezug wäre eine zusätzliche didaktische Erweiterung ohne hinreichenden direkten Zielbeleg. Dies betrifft nur den Hunderteraspekt, nicht die gesamte GS-Zeile187188.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187183",
+        "page912_187188"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187188",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS187188 nennt Nachbarzehner und -hunderter unter187183/187182. FSP3/4 nennt Nachbarzehner in der Bemerkung zu Zählen/Abzählen35466 unter Beherrschen35461. Gewählt ist ausschließlich die begrenzende Zehnerbeziehung bei nicht durch zehn teilbaren natürlichen Zahlen; diese Einschränkung ist didaktisch und keine zusätzliche Lehrplanforderung. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab. Bekannte Zahlfolge und Zehnerstruktur im vertrauten Alltagskontext. Ausgangszahl ist nicht durch zehn teilbar; untere und obere Grenzzahl sind aufeinanderfolgende volle Zehner, die Ausgangszahl liegt echt dazwischen. Nur nichtnegative ganze Zahlen; beide Grenzzahlen und sämtliche Zwischen-/Endwerte bleiben im jeweiligen Zahlenraum.100 ist als oberer Nachbarzehner zulässig. Exakte Zehnerzahlen sind aus diesem Feinziel ausgeschlossen, um unterschiedliche Nachbar-Konventionen nicht als amtlich entschieden auszugeben. Nur Nachbarzehner, keine Nachbarhunderter. Größere GS-Zahlwerte bis1000, exakte Zehnerzahlen und das Runden werden nicht mit abgedeckt. Für Nachbarhunderter ist in den geprüften FSP-Bändern kein hinreichend bestimmter direkter Anschluss belegt. FSP35466 nennt Nachbarzahlen und Nachbarzehner, nicht Nachbarhunderter. Hunderterfeld/-tafel und dekadisches Positionssystem in der Bemerkung zu35468 belegen Zahlenaufbau, aber nicht schon die zusätzliche Relation zweier begrenzender Hunderterzahlen. FSP1/2 37947 belegt unmittelbare Nachbarzahlen;37871 den zweistelligen Zahlenaufbau. Diese positiven Strukturbezüge werden anerkannt, reichen für den spezifischen Hunderteranschluss nicht aus. Kein Ausschluss allein wegen100 statt1000; selbst ein auf den gemeinsamen Bereich begrenzter Hunderterbezug wäre eine zusätzliche didaktische Erweiterung ohne hinreichenden direkten Zielbeleg. Dies betrifft nur den Hunderteraspekt, nicht die gesamte GS-Zeile187188.",
+      "shared_object_suggestion": "Eine natürliche Zahl zwischen zwei aufeinanderfolgenden vollen Zehnern.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt sicher die beiden begrenzenden Nachbarzehner einer nicht durch zehn teilbaren natürlichen Zahl bis 1000.",
+          "criterion": "Unterer und oberer Zehner sind aufeinanderfolgende volle Zehnerzahlen, die Ausgangszahl liegt echt dazwischen. Ausgangszahl, beide Zehnerzahlen und sämtliche relevanten Zwischen-/Endwerte sind nichtnegative ganze Zahlen bis 1000. Exakte Zehnerzahlen und Nachbarhunderter sind nicht Gegenstand dieses Feinziels.",
+          "status": "Didaktische Konkretisierung des begrenzten Nachbarzahl-Ausschnitts; keine amtliche Feinzielzeile und keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind bestimmt sicher die beiden begrenzenden Nachbarzehner einer nicht durch zehn teilbaren natürlichen Zahl bis 100 im vertrauten Alltagskontext.",
+          "criterion": "Unterer und oberer Zehner sind aufeinanderfolgende volle Zehnerzahlen, die Ausgangszahl liegt echt dazwischen. Ausgangszahl, beide Zehnerzahlen und sämtliche relevanten Zwischen-/Endwerte sind nichtnegative ganze Zahlen bis 100. Exakte Zehnerzahlen und Nachbarhunderter sind nicht Gegenstand dieses Feinziels.",
+          "status": "Didaktische Konkretisierung des begrenzten Nachbarzahl-Ausschnitts; keine amtliche Feinzielzeile und keine vollständige GS-Zieldeckung.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "verbindliches Unterziel unter Beherrschen187182;187183 Strukturkontext",
+        "fsp": "Nachbarzahlen/Nachbarzehner aus Bemerkung zum verbindlichen Unterziel35466; Beherrschen und Grenze100 aus Hauptziel35461",
+        "context_only_gs_ids": [
+          "page912_187182",
+          "page912_187183"
+        ],
+        "fsp_remark_anchor": "page139_35466"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 · Ausgangszahl und alle geforderten Nachbarzahlen",
+        "detail": "FSP35461 nennt die Obergrenze ausdrücklich im Hauptziel;35466 konkretisiert Nachbarbeziehungen in der Bemerkung. Keine Ableitung aus dem übergreifenden Bandziel. Die Auswahl zulässiger Ausgangszahlen ist eine didaktische Konsequenz daraus, dass auch sämtliche Ergebnisse innerhalb dieser Grenze bleiben müssen. Hinweis zum Zahlenraum: GS Klasse 3 bis 1 000; FSP Lernen Stufenband 3/4 bis 100. Der kleinere FSP-Zahlenraum ermöglicht den fachlichen Teilanschluss, deckt das vollständige GS-Ziel im größeren Zahlenraum aber nicht ab.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35466"
+        ],
+        "planning_rule": "Bekannte Zahlfolge und Zehnerstruktur im vertrauten Alltagskontext. Ausgangszahl ist nicht durch zehn teilbar; untere und obere Grenzzahl sind aufeinanderfolgende volle Zehner, die Ausgangszahl liegt echt dazwischen. Nur nichtnegative ganze Zahlen; beide Grenzzahlen und sämtliche Zwischen-/Endwerte bleiben im jeweiligen Zahlenraum.100 ist als oberer Nachbarzehner zulässig. Exakte Zehnerzahlen sind aus diesem Feinziel ausgeschlossen, um unterschiedliche Nachbar-Konventionen nicht als amtlich entschieden auszugeben. Alle relevanten Ausgangszahlen, Nachbarzahlen sowie Zwischen- und Endergebnisse bleiben bis100. Einheiten, Dezimalbrüche und Kennzeichnungen sind durch diesen Zahlfolgenausschnitt nicht freigegeben. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
       }
     }
   ]

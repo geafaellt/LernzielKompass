@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.417** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.418** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -220,3 +220,6 @@ Mathematik MA-114: dekadische Stellenwertanteile in GS3 begrenzt zugeordnet (GS1
 
 
 MA-114 veröffentlicht: App1.417, Commit `2a6f3ad2a857c72ca54dad9fe463a50a903aedd5`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45225266673). Live-App bytegleich (SHA-256 `35da2131fd75e26540b828b4b08561f80ad79fac21666295d6778e5396ad2c02`). Alle sechs Datenprüfungen sowie vollständige Mathematik-Browserprüfung, Ebenenprüfung und didaktische Zuordnungsprüfung lokal und live bestanden. Bestehende Lehrkrafttexte und manuelle Bewertungen erhalten. Nächster Schritt: erneute Einzelprüfung187185/187186;22 Anschlussfragen und weitergehende Restumfänge offen. Kein Gesamtabschluss behauptet.
+
+
+Mathematik MA-116: Vorgänger/Nachfolger und begrenzende Nachbarzehner fürGS3 mitGS1000/FSP100 ergänzt.115 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_116.json). App1.418: Lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung ausstehend.
