@@ -3563,7 +3563,7 @@
     }
   },
   "next_id": "page912_187190",
-  "next_step": "GS3 Runden187190, danach Vernetzen187191 prüfen.187189 aufMA-116 begrenzt zugeordnet: GS Beherrschen bis1000/FSP Einblick gewinnen im Verteilungskontext, Feinzielgrenze100 ausdrücklich didaktisch aus Bandziel35415 abgeleitet; alle Zwischen-/Endanzahlen eingeschlossen, Hälften nur ganzzahlig.116 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.419: lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung noch ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 Runden187190, danach Vernetzen187191 prüfen.187189 aufMA-116 begrenzt zugeordnet: GS Beherrschen bis1000/FSP Einblick gewinnen im Verteilungskontext, Feinzielgrenze100 ausdrücklich didaktisch aus Bandziel35415 abgeleitet; alle Zwischen-/Endanzahlen eingeschlossen, Hälften nur ganzzahlig.116 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.419 auf main veröffentlicht; Pages erfolgreich, ausgelieferte App bytegleich und gezielte Mathematik-/vollständige Ebenen-Browserprüfung lokal/live bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5719,8 +5719,20 @@
   },
   "latest_publication": {
     "batch": "MA-117",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.419",
+    "commit": "0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca",
+    "tree": "e055d1e36c3978324c07bc34078a02b9d4be7174",
+    "pages_run_id": 45347849381,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45347849381",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "b90c5a2c46c942861fd28f4a34a91e3d1d2a5d17ac9e249bfa99571a02705fa7",
+    "bytes": 5592240,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-011/116, alle Bereichsinventuren, Quellen/Scope/Ziele/Output, leere Aufgaben/Hilfsmittel, bestehende Entwurfs-/Fachwechsel-/Mobilregressionen; Ebenenprüfung429Karten/858Seiten.",
+    "verified_on": "2026-11-24",
+    "limits": "Keine UI-Codeänderung; kein erneuter vollständiger Funktionslauf aller116 Mathematikkarten. Letzter vollständiger Mathematikfunktionslauf MA-116. Keine erneute semantische Gesamtprüfung sämtlicher Bestandskarten; Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-116",
       "status": "published_verified",
@@ -5954,13 +5966,12 @@
           }
         }
       }
-    },
-    "local_tests": "Sechs Datenprüfungen bestanden; gezielte Mathematik-Browserprüfung MA-011/116 mit Regressionen; Ebenenprüfung429Karten/858Seiten."
+    }
   },
   "latest_audit_publication": {
-    "batch": "MA-116",
+    "batch": "MA-117",
     "status": "recorded_in_this_commit",
-    "app_commit": "ea65b3a0ecdd3b0b5b38da6310cd52b2c172f034",
+    "app_commit": "0a8a6c9ea19a24771accbffa26ff80f78c1ea4ca",
     "note": "Veröffentlichungsnachweis nach abgeschlossenen Tests und Liveprüfung; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
