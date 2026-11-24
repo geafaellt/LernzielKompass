@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.418** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.419** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -226,3 +226,6 @@ Mathematik MA-116: Vorgänger/Nachfolger und begrenzende Nachbarzehner fürGS3 m
 
 
 MA-116 veröffentlicht: App1.418, Commit `ea65b3a0ecdd3b0b5b38da6310cd52b2c172f034`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45333697589). Live-App bytegleich, SHA-256 `d471c118ef44c66791b9f3e8d02359cf96b9559527218bb49747ce49bb586d6c`. Alle sechs Datenprüfungen, vollständige Mathematik-Browserprüfung115Karten und Ebenenprüfung428Karten/856Seiten lokal/live bestanden. Nächster Schritt187189 (Doppelte/Hälfte), danach187190/187191.22 offene Anschlussfragen und weitergehende Restumfänge; kein Gesamtabschluss.
+
+
+Mathematik MA-117: Doppelte/halbe Anzahlen inGS3 begrenzt zugeordnet; GS Beherrschen bis1000/FSP Einblick gewinnen, Grenze100 didaktisch ausBandziel.116 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_117.json). App1.419: Tests, Veröffentlichung und Liveprüfung ausstehend.

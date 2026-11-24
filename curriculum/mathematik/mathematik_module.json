@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-24.1",
+  "version": "MA-2026-11-24.2",
   "checked_on": "2026-11-24",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1777,6 +1777,12 @@
       "id": "Q-MA-page912_187188",
       "title": "GS Mathematik 3 · Lernbereich 2: Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187188",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187189",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187189",
       "version": "2026"
     }
   ],
@@ -11059,6 +11065,93 @@
           "Q-MA-page139_35466"
         ],
         "planning_rule": "Bekannte Zahlfolge und Zehnerstruktur im vertrauten Alltagskontext. Ausgangszahl ist nicht durch zehn teilbar; untere und obere Grenzzahl sind aufeinanderfolgende volle Zehner, die Ausgangszahl liegt echt dazwischen. Nur nichtnegative ganze Zahlen; beide Grenzzahlen und sämtliche Zwischen-/Endwerte bleiben im jeweiligen Zahlenraum.100 ist als oberer Nachbarzehner zulässig. Exakte Zehnerzahlen sind aus diesem Feinziel ausgeschlossen, um unterschiedliche Nachbar-Konventionen nicht als amtlich entschieden auszugeben. Alle relevanten Ausgangszahlen, Nachbarzahlen sowie Zwischen- und Endergebnisse bleiben bis100. Einheiten, Dezimalbrüche und Kennzeichnungen sind durch diesen Zahlfolgenausschnitt nicht freigegeben. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-116",
+      "subject": "Mathematik",
+      "theme": "Doppelte und halbe Anzahlen · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedliche Lernzielebenen · FSP-Grenze didaktisch abgeleitet",
+      "gs_anchor": "GS Mathematik Kl.3 · Zahl und Operation · das Doppelte/die Hälfte187189 unter Beherrschen187182 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Einer braucht den anderen · Verdoppeln/Halbieren35437 unter Einblick gewinnen in gerechtes Verteilen35435",
+      "gs_operator": "Beherrschen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "Lernzielebenen: GS Beherrschen aus187182; FSP Einblick gewinnen aus35435. Verdoppeln und Halbieren35437 sind verbindliche Unterzielhandlungen, keine eigenen Lernzielebenen. Kennen von Rechenhandlungen35439 und Beherrschen der Zahlen35461 sind andere Hauptziele und werden nicht übertragen. Stufenbandpassender begrenzter Anschluss GS3 → FSP3/4: doppelte und halbe Anzahlen im Kontext gerechten Verteilens. GS187189 steht unter Zahlbeziehungen187182 bis1 000. FSP35437 nennt Verdoppeln/Halbieren unter Einblick gewinnen35435. Gewählt sind natürliche Anzahlen und ganzzahlige Hälften gerader Anzahlen; die FSP-Anforderung ist grundlegende Orientierung im Zusammenhang, nicht routinemäßiges Beherrschen sämtlicher Zahlbeziehungen. Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden. Größere GS-Zahlwerte bis1 000, Halbieren ungerader Zahlen, nichtganzzahlige Hälften, Größen mit Einheiten, geometrisches Halbieren, beliebige Darstellungswechsel und routinemäßiges Beherrschen aller Verdopplungs-/Halbierungsbeziehungen bleiben außerhalb des FSP-Anschlusses. Der enge Ausschnitt ist kein vollständiger Nachweis beider Hauptziele. Die bestehende Sprachfrage zuGS1/2 1837 wird nicht mit erledigt.",
+      "gs_target_ids": [
+        "page912_187182",
+        "page912_187183",
+        "page912_187189"
+      ],
+      "fsp_target_ids": [
+        "page139_35435",
+        "page139_35437"
+      ],
+      "source_ids": [
+        "Q-MA-page912_187182",
+        "Q-MA-page912_187183",
+        "Q-MA-page912_187189",
+        "Q-MA-page139_35435",
+        "Q-MA-page139_35437",
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender begrenzter Anschluss GS3 → FSP3/4: doppelte und halbe Anzahlen im Kontext gerechten Verteilens. GS187189 steht unter Zahlbeziehungen187182 bis1 000. FSP35437 nennt Verdoppeln/Halbieren unter Einblick gewinnen35435. Gewählt sind natürliche Anzahlen und ganzzahlige Hälften gerader Anzahlen; die FSP-Anforderung ist grundlegende Orientierung im Zusammenhang, nicht routinemäßiges Beherrschen sämtlicher Zahlbeziehungen. Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden. Bekannte Anzahlen und Verständnis zweier gleich großer Teile im vertrauten Verteilungskontext. Zum Halbieren nur gerade Anzahlen, damit beide Teile ganzzahlig sind. Beim Verdoppeln muss auch die doppelte Anzahl im gewählten Rahmen bleiben; die Ausgangsanzahl allein genügt nicht. Alle relevanten Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben im FSP-Feinziel bis100. Eine kleinere zulässige Ausgangsmenge beim Verdoppeln ist eine didaktisch-mathematische Folge der Ergebnisgrenze, keine neue amtliche Zahlenraumgrenze. Keine Halbierung in Bruch-/Dezimalzahlen oder mit Rest in diesem Ausschnitt. Größere GS-Zahlwerte bis1 000, Halbieren ungerader Zahlen, nichtganzzahlige Hälften, Größen mit Einheiten, geometrisches Halbieren, beliebige Darstellungswechsel und routinemäßiges Beherrschen aller Verdopplungs-/Halbierungsbeziehungen bleiben außerhalb des FSP-Anschlusses. Der enge Ausschnitt ist kein vollständiger Nachweis beider Hauptziele. Die bestehende Sprachfrage zuGS1/2 1837 wird nicht mit erledigt.",
+      "shared_object_suggestion": "Gerechtes Verteilen: doppelte Anzahlen und zwei gleich große Teile einer geraden Anzahl.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind bestimmt sicher die doppelte und bei gerader Ausgangsanzahl die halbe Anzahl im Zahlenraum bis 1 000.",
+          "criterion": "Das Doppelte entspricht zweimal der Ausgangsanzahl, die Hälfte einem von zwei gleich großen Teilen. Alle Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben bis 1 000; die ausgewählte Hälfte ist ganzzahlig.",
+          "status": "Didaktischer Anzahl-Ausschnitt unter Beherrschen187182; keine vollständige GS-Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind erkennt doppelte und halbe Anzahlen im vertrauten Zusammenhang gerechten Verteilens innerhalb des didaktisch gewählten Zahlenraums bis 100.",
+          "criterion": "Die Beziehung zwischen ganzer, doppelter und halber Anzahl ist zutreffend erkannt. Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben bis 100. Halbe Anzahlen werden nur für gerade Ausgangsanzahlen betrachtet und sind ganzzahlig. Routinemäßiges Beherrschen aller Zahlbeziehungen wird damit nicht verlangt.",
+          "scope_status": "derived",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung von Einblick gewinnen35435 mit Unterziel35437; Grenze100 aus übergreifendem Ziel35415 abgeleitet."
+        }
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die ausgewählten Zielzeilen35435/35437 nennen keine eigene Obergrenze. Das übergreifende Ziel35415 beschreibt Operationsvorstellungen bis100; daraus wird hier eine ausdrücklich didaktische Feinzielgrenze abgeleitet. Die Grenze wird nicht als Wortlaut des Verdopplungs-/Halbierungsziels ausgegeben. Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Bekannte Anzahlen und Verständnis zweier gleich großer Teile im vertrauten Verteilungskontext. Zum Halbieren nur gerade Anzahlen, damit beide Teile ganzzahlig sind. Beim Verdoppeln muss auch die doppelte Anzahl im gewählten Rahmen bleiben; die Ausgangsanzahl allein genügt nicht. Alle relevanten Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben im FSP-Feinziel bis100. Eine kleinere zulässige Ausgangsmenge beim Verdoppeln ist eine didaktisch-mathematische Folge der Ergebnisgrenze, keine neue amtliche Zahlenraumgrenze. Keine Halbierung in Bruch-/Dezimalzahlen oder mit Rest in diesem Ausschnitt. Einheiten, Schreibweisen und nichtnumerische Ziele benötigen eine gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      },
+      "evidence_classification": {
+        "gs": "187189 verbindliches Unterziel unter187183/187182; Hauptziel187182 und Strukturzeile187183 nur Kontext.",
+        "fsp": "35437 verbindlicher Unterpunkt unter Einblick gewinnen35435; Darstellungsformen stehen in der Bemerkung. Grenze100 didaktisch aus übergreifendem Bandziel35415.",
+        "context_only_gs_ids": [
+          "page912_187182",
+          "page912_187183"
+        ]
+      },
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_187182",
+        "fsp_source_id": "page139_35415",
+        "fsp_basis": "stage_goal_context",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden.",
+        "full_gs_goal_covered": false
       }
     }
   ]

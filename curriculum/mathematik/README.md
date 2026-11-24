@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-116
+# Mathematik-Abgleich · MA-117
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertfünfzehn Karten dokumentieren begrenzte Anschlüsse. Sechsundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertsechzehn Karten dokumentieren begrenzte Anschlüsse. Siebenundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Doppelte/Hälfte187189, danach187190/187191. [MA-116](review_batch_116.json) prüft187187/187188 begrenzt aufMA-114/115.115 Karten,22 Fragen,13 ganze Zeilen ohne direkten Anschluss; App1.418.
+Fortsetzung beiGS3 Runden187190, danach Vernetzen187191. [MA-117](review_batch_117.json) ordnet187189 begrenzt aufMA-116 zu.116 Karten,22 Fragen,13 ganze Zeilen ohne direkten Anschluss; App1.419.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1273,3 +1273,16 @@ Zwei erstmals geprüfteGS-Zeilen, zwei stufenpassende Karten.115 Karten(86 passe
 
 
 MA-116 veröffentlicht: App1.418, Commit `ea65b3a0ecdd3b0b5b38da6310cd52b2c172f034`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45333697589). Live-App bytegleich, SHA-256 `d471c118ef44c66791b9f3e8d02359cf96b9559527218bb49747ce49bb586d6c`. Alle sechs Datenprüfungen, vollständige Mathematik-Browserprüfung115Karten und Ebenenprüfung428Karten/856Seiten lokal/live bestanden. Nächster Schritt187189 (Doppelte/Hälfte), danach187190/187191.22 offene Anschlussfragen und weitergehende Restumfänge; kein Gesamtabschluss.
+
+
+## MA-117 · App1.419 · 24.11.2026
+
+Stufenbandpassender begrenzter Anschluss GS3 → FSP3/4: doppelte und halbe Anzahlen im Kontext gerechten Verteilens. GS187189 steht unter Zahlbeziehungen187182 bis1 000. FSP35437 nennt Verdoppeln/Halbieren unter Einblick gewinnen35435. Gewählt sind natürliche Anzahlen und ganzzahlige Hälften gerader Anzahlen; die FSP-Anforderung ist grundlegende Orientierung im Zusammenhang, nicht routinemäßiges Beherrschen sämtlicher Zahlbeziehungen. Lernzielebenen: GS Beherrschen aus187182; FSP Einblick gewinnen aus35435. Verdoppeln und Halbieren35437 sind verbindliche Unterzielhandlungen, keine eigenen Lernzielebenen. Kennen von Rechenhandlungen35439 und Beherrschen der Zahlen35461 sind andere Hauptziele und werden nicht übertragen.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden.
+
+Bekannte Anzahlen und Verständnis zweier gleich großer Teile im vertrauten Verteilungskontext. Zum Halbieren nur gerade Anzahlen, damit beide Teile ganzzahlig sind. Beim Verdoppeln muss auch die doppelte Anzahl im gewählten Rahmen bleiben; die Ausgangsanzahl allein genügt nicht. Alle relevanten Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben im FSP-Feinziel bis100. Eine kleinere zulässige Ausgangsmenge beim Verdoppeln ist eine didaktisch-mathematische Folge der Ergebnisgrenze, keine neue amtliche Zahlenraumgrenze. Keine Halbierung in Bruch-/Dezimalzahlen oder mit Rest in diesem Ausschnitt. Rest: Größere GS-Zahlwerte bis1 000, Halbieren ungerader Zahlen, nichtganzzahlige Hälften, Größen mit Einheiten, geometrisches Halbieren, beliebige Darstellungswechsel und routinemäßiges Beherrschen aller Verdopplungs-/Halbierungsbeziehungen bleiben außerhalb des FSP-Anschlusses. Der enge Ausschnitt ist kein vollständiger Nachweis beider Hauptziele. Die bestehende Sprachfrage zuGS1/2 1837 wird nicht mit erledigt.
+
+FSP1/2-Kandidaten37804/37816 (Mengenstrukturieren unter Kennen) sowie37851/37859/37863 (Vereinigungs-/Differenzmengen und Addition/Subtraktion unter Einblick gewinnen) sind verwandte Grundlagen. Sie benennen den spezifischen Verdopplungs-/Halbierungsinhalt nicht hinreichend bestimmt und ersetzen den ausdrücklichen3/4-Beleg nicht. Kein Ausschluss allein wegen eines kleineren Zahlenraums. FSP3/4 35435/35437 ist zugleich stufenpassend und ausdrücklich inhaltlich belegt.35434 halbiert geometrisch durch Spiegelachse und belegt nicht den ausgewählten Anzahlbezug;35439/35440 belegen Rechenhandlungen unter Kennen, sind aber kein Grund zur Höherstufung des gewählten Hauptziels35435.
+
+Eine erstmals geprüfteGS-Zeile, eine stufenpassende Karte.116 Karten(87 passend,29 stufenübergreifend),279 Quellen/277 Zielanker,22 Fragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen.115 Bestandskarten und428 bestehende Ebeneneinträge unverändert. Sechs Datenprüfungen, gezielte Mathematik-Browserprüfung MA-011/116 samt bestehenden Entwurfs-/Fachwechsel-/Mobilregressionen und Ebenenprüfung429Karten/858Seiten bestanden. Keine UI-Codeänderung, kein erneuter vollständiger Funktionslauf aller116 Karten. Veröffentlichung und Liveprüfung ausstehend.

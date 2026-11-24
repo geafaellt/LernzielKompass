@@ -1,0 +1,223 @@
+{
+  "id": "MA-117",
+  "date": "2026-11-24",
+  "base_commit": "bb1a2126f258fc9eec34c685a0a46171b3baca18",
+  "scope": "GS3 das Doppelte/die Hälfte187189 als Anzahlbeziehung; FSP-gerechtes-Verteilen, Lernzielebene und abgeleiteter Zahlenrahmen.",
+  "source_verification": {
+    "html": "Aktuelle amtliche GS/FSP-Seiten geöffnet; beide FSP-Bänder,3/4-Bandziele und konkrete Haupt-/Unterziele gelesen.",
+    "pdf": "Gespeicherte amtliche PDFs textuell: beide Definitionstabellen S.V/PDF5; GS S.22/PDF32; FSP S.17/PDF29 (Bandziele) und S.18/PDF30. Kein neuer Download oder Render.",
+    "pdf_sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    },
+    "follow_up": "24.11.2026: Vor Veröffentlichung amtliche HTML-Seiten erneut gelesen: GS187182/187189; FSP beide Bänder einschließlich35435/35437,35415 und Lernzieldefinitionen. Quellenbefund unverändert."
+  },
+  "source_excerpts": {
+    "page912_187182": {
+      "id": "page912_187182",
+      "level": 1,
+      "parent_target_id": "page912_187182",
+      "target": "Beherrschen von Zahlbeziehungen und der Orientierung im Zahlenraum bis 1 000",
+      "remarks": "Zahlbeziehung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187182"
+    },
+    "page912_187183": {
+      "id": "page912_187183",
+      "level": 2,
+      "parent_target_id": "page912_187182",
+      "target": "Nutzen von Strukturen in arithmetischen Zahldarstellungen und Anschauungsmitteln",
+      "remarks": "Rechenstrich, Zahlenstrahl, Mehrsystemmaterial ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187183"
+    },
+    "page912_187189": {
+      "id": "page912_187189",
+      "level": 3,
+      "parent_target_id": "page912_187182",
+      "target": "das Doppelte, die Hälfte",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187189"
+    },
+    "page139_35435": {
+      "id": "page139_35435",
+      "level": 1,
+      "parent_target_id": "page139_35435",
+      "target": "Einblick gewinnen in gerechtes Verteilen",
+      "remarks": "inhaltliches Verständnis von Multiplikation und Division durch Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35435"
+    },
+    "page139_35437": {
+      "id": "page139_35437",
+      "level": 2,
+      "parent_target_id": "page139_35435",
+      "target": "Verdoppeln und Halbieren",
+      "remarks": "Darstellen durch konkrete Handlung, Zeichnung und Skizze Mengenbilder, Domino",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35437"
+    },
+    "page139_35434": {
+      "id": "page139_35434",
+      "level": 2,
+      "parent_target_id": "page139_35432",
+      "target": "Halbieren durch Finden der Spiegelachse",
+      "remarks": "falten, Abbildungen in Gitternetzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35434"
+    },
+    "page139_35439": {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439"
+    },
+    "page139_35440": {
+      "id": "page139_35440",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Multiplikation als Addition gleicher Summanden",
+      "remarks": "additive Handlungen: 2 + 2 + 2 = 6 ⇒ 3 · 2 = 6",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35440"
+    },
+    "page139_37804": {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804"
+    },
+    "page139_37816": {
+      "id": "page139_37816",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Strukturieren von Mengen",
+      "remarks": "Sortieren und Bündeln Invarianz: Anzahl der Elemente bleibt bei Umordnung gleich Relevanz: Anzahl bleibt bei unterschiedlichen Merkmalen der Elemente gleich Verbindung von Relevanz und Invarianz: paarweises Zuordnen, nicht zählen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37816"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37859": {
+      "id": "page139_37859",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Bilden von Vereinigungs- und Differenzmengen",
+      "remarks": "aus aktuellem Geschehen, Situationsbildern und Rechengeschichten Zerlegen in Teilmengen, Bündeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859"
+    },
+    "page139_37863": {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863"
+    }
+  },
+  "context_evidence": {
+    "id": "page139_35415",
+    "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+    "kind": "stage_goals",
+    "grade": "3/4",
+    "finding": "Übergreifende Ziele zu Operationsvorstellungen bis100 sowie Beziehungen zwischen Zahlen bis100; didaktische Quelle der Feinzielgrenze, keine eigene Grenze der ausgewählten Zielzeile."
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187189",
+      "first_review": true,
+      "card": "MA-116",
+      "status": "limited_connection",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "selected_fsp_ids": [
+        "page139_35435",
+        "page139_35437"
+      ],
+      "finding": "Stufenbandpassender begrenzter Anschluss GS3 → FSP3/4: doppelte und halbe Anzahlen im Kontext gerechten Verteilens. GS187189 steht unter Zahlbeziehungen187182 bis1 000. FSP35437 nennt Verdoppeln/Halbieren unter Einblick gewinnen35435. Gewählt sind natürliche Anzahlen und ganzzahlige Hälften gerader Anzahlen; die FSP-Anforderung ist grundlegende Orientierung im Zusammenhang, nicht routinemäßiges Beherrschen sämtlicher Zahlbeziehungen.",
+      "learning_levels": "Lernzielebenen: GS Beherrschen aus187182; FSP Einblick gewinnen aus35435. Verdoppeln und Halbieren35437 sind verbindliche Unterzielhandlungen, keine eigenen Lernzielebenen. Kennen von Rechenhandlungen35439 und Beherrschen der Zahlen35461 sind andere Hauptziele und werden nicht übertragen.",
+      "prerequisites": "Bekannte Anzahlen und Verständnis zweier gleich großer Teile im vertrauten Verteilungskontext. Zum Halbieren nur gerade Anzahlen, damit beide Teile ganzzahlig sind. Beim Verdoppeln muss auch die doppelte Anzahl im gewählten Rahmen bleiben; die Ausgangsanzahl allein genügt nicht. Alle relevanten Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben im FSP-Feinziel bis100. Eine kleinere zulässige Ausgangsmenge beim Verdoppeln ist eine didaktisch-mathematische Folge der Ergebnisgrenze, keine neue amtliche Zahlenraumgrenze. Keine Halbierung in Bruch-/Dezimalzahlen oder mit Rest in diesem Ausschnitt.",
+      "remaining_scope": "Größere GS-Zahlwerte bis1 000, Halbieren ungerader Zahlen, nichtganzzahlige Hälften, Größen mit Einheiten, geometrisches Halbieren, beliebige Darstellungswechsel und routinemäßiges Beherrschen aller Verdopplungs-/Halbierungsbeziehungen bleiben außerhalb des FSP-Anschlusses. Der enge Ausschnitt ist kein vollständiger Nachweis beider Hauptziele. Die bestehende Sprachfrage zuGS1/2 1837 wird nicht mit erledigt.",
+      "number_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem Stufenbandziel abgeleitet",
+        "detail": "Die ausgewählten Zielzeilen35435/35437 nennen keine eigene Obergrenze. Das übergreifende Ziel35415 beschreibt Operationsvorstellungen bis100; daraus wird hier eine ausdrücklich didaktische Feinzielgrenze abgeleitet. Die Grenze wird nicht als Wortlaut des Verdopplungs-/Halbierungsziels ausgegeben. Hinweis zum Zahlenraum: GS Klasse3 bis1 000 ausdrücklich im Hauptziel187182. Das ausgewählte FSP-Haupt-/Unterziel35435/35437 hat keine eigene Obergrenze. Bis100 wird für dieses Feinziel didaktisch aus dem übergreifenden FSP3/4-Ziel35415 zu Operationsvorstellungen abgeleitet. Keine vollständige GS-Zieldeckung: Zahlenraum, Lernzielebene und der begrenzte Verteilungskontext bleiben verschieden.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Bekannte Anzahlen und Verständnis zweier gleich großer Teile im vertrauten Verteilungskontext. Zum Halbieren nur gerade Anzahlen, damit beide Teile ganzzahlig sind. Beim Verdoppeln muss auch die doppelte Anzahl im gewählten Rahmen bleiben; die Ausgangsanzahl allein genügt nicht. Alle relevanten Ausgangs-, Teil-, Zwischen- und Ergebnisanzahlen bleiben im FSP-Feinziel bis100. Eine kleinere zulässige Ausgangsmenge beim Verdoppeln ist eine didaktisch-mathematische Folge der Ergebnisgrenze, keine neue amtliche Zahlenraumgrenze. Keine Halbierung in Bruch-/Dezimalzahlen oder mit Rest in diesem Ausschnitt. Einheiten, Schreibweisen und nichtnumerische Ziele benötigen eine gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel legt die Lehrkraft fest. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      },
+      "uncertainty": "Keine Gleichsetzung von Einblick gewinnen und Beherrschen; Grundorientierung ist didaktisch konkretisiert, alle Lernanforderungen bleiben kontextbezogen."
+    }
+  ],
+  "band_selection": "FSP1/2-Kandidaten37804/37816 (Mengenstrukturieren unter Kennen) sowie37851/37859/37863 (Vereinigungs-/Differenzmengen und Addition/Subtraktion unter Einblick gewinnen) sind verwandte Grundlagen. Sie benennen den spezifischen Verdopplungs-/Halbierungsinhalt nicht hinreichend bestimmt und ersetzen den ausdrücklichen3/4-Beleg nicht. Kein Ausschluss allein wegen eines kleineren Zahlenraums. FSP3/4 35435/35437 ist zugleich stufenpassend und ausdrücklich inhaltlich belegt.35434 halbiert geometrisch durch Spiegelachse und belegt nicht den ausgewählten Anzahlbezug;35439/35440 belegen Rechenhandlungen unter Kennen, sind aber kein Grund zur Höherstufung des gewählten Hauptziels35435.",
+  "existing_cards_rechecked": [
+    "MA-011"
+  ],
+  "existing_card_review": "MA-011 erneut in Inhalt, Hauptzielebenen und Zahlenrahmen geprüft: gleicherFSP-Anker, GS1/2 stattGS3, deshalb weiterhin stufenübergreifend. Grenze100 bleibt derived aus35415; Ausgangs-/Ergebnisgrenzen und ganzzahlige Hälften sind bereits erkennbar. Unverändert erhalten, keine erneute Erstzählung. Sprachfrage zu1837 bleibt offen. Keine vollständige semantische Gesamtprüfung aller Karten.",
+  "new_cards": [
+    "MA-116"
+  ],
+  "counts": {
+    "first_reviews_this_batch": 1,
+    "new_cards": 1,
+    "cards_total": 116,
+    "same_band": 87,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 13,
+    "inventory_rows": 206,
+    "source_links": 279,
+    "target_anchors": 277
+  },
+  "tests": {
+    "status": "local_passed",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-24\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 116 mathematics cards, 279 source links (277 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 116 mathematics cards, 279 source links (277 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "local_browser": {
+      "targeted_mathematics": "PASS: MA-011/116, alle Bereichsinventuren, Scope/Quellen/Ziele/Planungsoutput, leere Aufgaben/Hilfsmittel; bestehende MA-007/018/084 Entwurfs-/Fachwechsel-/Mobilregressionen320/390.",
+      "learning_levels": "PASS:429 Karten/858 Seiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung/Fachwechsel."
+    },
+    "initial_failure_resolved": "Erster check-mathematik-Lauf erkannte bis100 ohne Leerzeichen im neuen Feinziel nicht. Nur Schreibweise der neuen Feinziele/Kriterien auf bis 100 bzw. bis 1 000 vereinheitlicht; alle sechs Datenprüfungen danach erneut bestanden.",
+    "limits": "Keine UI-Codeänderung; gezielte Mathematikfunktionsprüfung statt erneutem Komplettlauf aller116 Karten. Vollständiger letzter Mathematikfunktionslauf: MA-116 mit115 Karten. Keine erneute semantische Gesamtprüfung sämtlicher Bestandskarten.",
+    "preservation": "115 bestehende Mathematikkarten,428 bestehende Ebeneneinträge,206 Inventurzeilen und Quellspalten erhalten; nur187189 neu bewertet. Basis337 Dateien gegen GitHub-Tree geprüft; CSV-Abweichung ausschließlich CRLF/LF."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.419"
+  },
+  "continuation": {
+    "next_id": "page912_187190",
+    "next_step": "GS3 Runden187190, danach Vernetzen187191 prüfen.187189 aufMA-116 begrenzt zugeordnet: GS Beherrschen bis1000/FSP Einblick gewinnen im Verteilungskontext, Feinzielgrenze100 ausdrücklich didaktisch aus Bandziel35415 abgeleitet; alle Zwischen-/Endanzahlen eingeschlossen, Hälften nur ganzzahlig.116 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.419: lokale Daten- und Browserprüfungen bestanden; Veröffentlichung und Liveprüfung noch ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}
