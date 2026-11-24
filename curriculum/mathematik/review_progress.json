@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-114",
+  "last_batch": "MA-115",
   "complete": false,
   "counts": {
     "cards": 113,
@@ -3523,8 +3523,8 @@
       "version": "2026"
     }
   },
-  "next_id": "page912_187185",
-  "next_step": "GS3 bereits zugeordnete187185/187186 (MA-016/017: Schrittzählen, Vergleichen/Ordnen) erneut einzeln prüfen; danach187187–187191.187183/187184 aufMA-113 nur dekadische Stellenwertanteile (GS1000/FSP3/4 bis100); weitere Strukturen und Zerlegungen bleiben Restumfang.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. App1.417: Daten- und lokale sowie Live-Browserprüfungen bestanden; auf main veröffentlicht, Pages erfolgreich und ausgelieferte App bytegleich bestätigt. Zwischenzeitliche didaktische Kennen-Zuordnungen beiMA-084/085/086/090/105 erhalten, aber von amtlicher Ebenenanzeige getrennt. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_id": "page912_187187",
+  "next_step": "GS3 Vorgänger/Nachfolger187187 und Nachbarzehner/-hunderter187188 gegen beide FSP-Bänder prüfen; danach187189–187191. MA-016/017 erneut bestätigt, keine neuen Karten oder Erstprüfungen.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. Weitergehende Restumfänge bleiben offen. App1.417 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -3845,7 +3845,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_114.json",
+  "last_review_file": "review_batch_115.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -5161,6 +5161,18 @@
       "scope": "Keine vollständige GS-Zieldeckung: nur dekadische Stellenwertanteile, FSP bis100 gegenüber GS bis1 000. Andere arithmetische Strukturen, freie Zerlegungen, Zahlengeradenbeziehungen, flexible Wechsel aller Darstellungen und sämtliche Zahlen oberhalb100 bis1 000 bleiben außerhalb des FSP-Anschlusses. Nachbarzahlen, Runden, Stellenwertanalogien, Operationsstrategien und die späteren GS-Zeilen unter Anwenden2052 werden nicht mit erledigt. Der enge Struktur-Ausschnitt weist die ganzen Hauptziele Beherrschen nicht vollständig nach.",
       "status": "offen",
       "review": "MA-114"
+    },
+    {
+      "gs_id": "page912_187185",
+      "scope": "Die GS-Bemerkung auch mit beliebiger Startzahl ist keine gleichlautende FSP-Zielvorgabe: Startwahl im gemeinsamen Rahmen ist didaktisch möglich, aber kein pauschaler Nachweis sämtlicher Start-/Schritt-Kombinationen. Alle GS-Zahlen oberhalb100 bis1000, höhere Stellenwertübergänge, wechselnde Schrittweiten und allgemeine Zahlenfolgenregeln bleiben außerhalb des bestätigten Ausschnitts. Nachbarzahlen/Nachbarzehner aus der FSP-Bemerkung decken die entsprechenden GS-Nachbarzeilen nicht automatisch mit ab.",
+      "status": "offen",
+      "review": "MA-115"
+    },
+    {
+      "gs_id": "page912_187186",
+      "scope": "Keine vollständige GS-Zieldeckung bis1000; Zahlen oberhalb100 sind ausgeschlossen. Eine bestimmte Zeichen- oder Darstellungsform, das Begründen aller Ordnungsregeln, Mengenvergleich und weitere Zahlaspekte werden aus dem engen Zielausschnitt nicht zusätzlich verlangt. Vorgänger/Nachfolger und Nachbarzehner/-hunderter bleiben eigene offene GS-Zeilen.",
+      "status": "offen",
+      "review": "MA-115"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -5867,10 +5879,12 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-114",
+    "batch": "MA-115",
     "status": "recorded_in_this_commit",
-    "app_commit": "2a6f3ad2a857c72ca54dad9fe463a50a903aedd5",
-    "note": "Dieser Nachweis ergänzt die abgeschlossenen Tests/Liveprüfung; App unverändert. Der eigene Nachweis-Commit ist aus der Git-Historie ersichtlich."
+    "type": "audit_only",
+    "app_unchanged": "1.417",
+    "tests": "Alle sechs Datenprüfungen bestanden; keine App-Änderung und kein neuer Browserlauf.",
+    "note": "Commitkennung aus Git-Historie ersichtlich; bisheriger App-/Pages-/Live-NachweisMA-114 unverändert."
   },
   "continuation_correction": {
     "batch": "MA-067",
@@ -6513,6 +6527,20 @@
       "checked_on": "2026-11-22",
       "notice": "Kein eigener Operator ausgewiesen",
       "finding": "Onlinezeile 35456 und PDF S.19/PDF31 führen den Inhaltsblock Merkmale von Würfel, Quader und Kugel ohne eigenen Lernzielbegriff. Wiedererkennen von Rechteck und Quadrat als Seitenbegrenzung gehört zur Bemerkung derselben Zeile. Anwenden 35451 steht auf derselben Einrückungsebene und wird nicht als gesicherte übergeordnete Lernzielebene übernommen. Nachformen und Bauen 35459 ist ein anderes Unterziel und kein notwendiger Beleg für den Seitenflächenanschluss."
+    }
+  },
+  "assigned_row_rechecks": {
+    "page912_187185": {
+      "review": "MA-115",
+      "card": "MA-016",
+      "status": "existing_limited_connection_confirmed",
+      "remaining_scope": "Die GS-Bemerkung auch mit beliebiger Startzahl ist keine gleichlautende FSP-Zielvorgabe: Startwahl im gemeinsamen Rahmen ist didaktisch möglich, aber kein pauschaler Nachweis sämtlicher Start-/Schritt-Kombinationen. Alle GS-Zahlen oberhalb100 bis1000, höhere Stellenwertübergänge, wechselnde Schrittweiten und allgemeine Zahlenfolgenregeln bleiben außerhalb des bestätigten Ausschnitts. Nachbarzahlen/Nachbarzehner aus der FSP-Bemerkung decken die entsprechenden GS-Nachbarzeilen nicht automatisch mit ab."
+    },
+    "page912_187186": {
+      "review": "MA-115",
+      "card": "MA-017",
+      "status": "existing_limited_connection_confirmed",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung bis1000; Zahlen oberhalb100 sind ausgeschlossen. Eine bestimmte Zeichen- oder Darstellungsform, das Begründen aller Ordnungsregeln, Mengenvergleich und weitere Zahlaspekte werden aus dem engen Zielausschnitt nicht zusätzlich verlangt. Vorgänger/Nachfolger und Nachbarzehner/-hunderter bleiben eigene offene GS-Zeilen."
     }
   }
 }

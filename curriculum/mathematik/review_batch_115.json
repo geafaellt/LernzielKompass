@@ -1,0 +1,254 @@
+{
+  "id": "MA-115",
+  "date": "2026-11-23",
+  "base_commit": "35a507a17ecf625c89037f3735d8089d145e5833",
+  "scope": "Erneute Einzelprüfung der bereits zugeordneten GS3-Zeilen187185/187186 und BestandskartenMA-016/017. Reine Auditänderung.",
+  "source_verification": {
+    "html": "Aktuelle amtliche GS/FSP-Seiten geöffnet: GS3 Zahlbeziehungen und FSP1/2 Natur sowie3/4 Alltag gelesen; gespeicherte Zeilenanker abgeglichen.",
+    "pdf": "Gespeicherte amtliche PDFs textuell gelesen: beide Begriffstabellen S.V/PDF5, GS S.22/PDF32, FSP S.13/PDF25 und S.19/PDF31. Kein neuer PDF-Download und keine neue visuelle PDF-Prüfung.",
+    "pdf_sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35463": {
+      "id": "page139_35463",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken, Vergleichen und Ordnen von Mengen und Zahlen",
+      "remarks": "Mengen aus verschiedenen Darstellungsformen herauslösen und Zahlen zuordnen und umgekehrt Lesen und Schreiben von Zahlen kardinaler und ordinaler Aspekt der Zahlen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35463"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37937": {
+      "id": "page139_37937",
+      "level": 2,
+      "parent_target_id": "page139_37931",
+      "target": "Zahlbegriffsbildung auf der Basis von Mengendarstellung und Zählhandlungen",
+      "remarks": "handelndes, zeichnerisches, abzählendes Vergleichen und Strukturieren von Mengen in und aus der Natur unter kardinalem und ordinalem Zahlaspekt Verbindung von Relevanz und Invarianz",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37937"
+    },
+    "page139_37950": {
+      "id": "page139_37950",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zählen in Schritten",
+      "remarks": "Differenzierung: 2er-, 5er-, evtl. auch 3er-Schritte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37950"
+    },
+    "page139_37952": {
+      "id": "page139_37952",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Vorwärts- und Rückwärtszählen",
+      "remarks": "Zählen von ... bis ..., Unterbrechen und Fortsetzen des Zählvorganges ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37952"
+    },
+    "page139_37956": {
+      "id": "page139_37956",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Ordnen und Vergleichen von Zahlen unter Verwendung der Zeichen <, >, =",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37956"
+    },
+    "page912_187182": {
+      "id": "page912_187182",
+      "level": 1,
+      "parent_target_id": "page912_187182",
+      "target": "Beherrschen von Zahlbeziehungen und der Orientierung im Zahlenraum bis 1 000",
+      "remarks": "Zahlbeziehung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187182"
+    },
+    "page912_187183": {
+      "id": "page912_187183",
+      "level": 2,
+      "parent_target_id": "page912_187182",
+      "target": "Nutzen von Strukturen in arithmetischen Zahldarstellungen und Anschauungsmitteln",
+      "remarks": "Rechenstrich, Zahlenstrahl, Mehrsystemmaterial ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187183"
+    },
+    "page912_187185": {
+      "id": "page912_187185",
+      "level": 3,
+      "parent_target_id": "page912_187182",
+      "target": "Vorwärts- und Rückwärtszählen in Schritten",
+      "remarks": "auch mit beliebiger Startzahl ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187185"
+    },
+    "page912_187186": {
+      "id": "page912_187186",
+      "level": 3,
+      "parent_target_id": "page912_187182",
+      "target": "Vergleichen und Ordnen von Zahlen",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187186"
+    }
+  },
+  "learning_levels": "Beide ausgewählten Seiten: Beherrschen, amtliche Definition routinemäßiger Gebrauch von Handlungs-/Verfahrensweisen. GS-Hauptziel187182 und FSP-Hauptziel35461; FSP1/2-Kandidaten unter37931 ebenfalls Beherrschen. Nutzen,Zählen,Vergleichen,Ordnen sind konkrete Zielhandlungen und keine Ersatz-Lernzielebenen. Kanonische Belege der beiden Karten geprüft und unverändert.",
+  "decisions": [
+    {
+      "status": "existing_limited_connection_confirmed",
+      "first_review": false,
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "gs_level": {
+        "level": "Beherrschen",
+        "source_id": "page912_187182"
+      },
+      "fsp_level": {
+        "level": "Beherrschen",
+        "source_id": "page139_35461"
+      },
+      "number_scope": {
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "fsp_status": "explicit",
+        "fsp_source_id": "page139_35461",
+        "full_gs_goal_covered": false
+      },
+      "band_decision": "Positive fachliche Kandidaten in beiden FSP-Bändern. Stufenpassendes gebündeltes Band3/4 im Alltagskontext bevorzugt; Band1/2 bleibt ein verwandter Anschluss im Naturkontext. Die dortigen Zielzeilen37931/37950/37952/37956 nennen selbst keine Obergrenze. Keine Zahl erfunden und kein Ausschluss allein wegen eines kleineren Zahlenraums. Eine aus übergreifenden Bandzielen abgeleitete Grenze müsste bei gesonderter Auswahl als didaktische Konkretisierung gekennzeichnet werden; hier kein neuer1/2-Kartenanschluss.",
+      "scope_check": "Vorhandene Karte zeigt GS1000/FSP100 und fehlende vollständige GS-Zieldeckung. FSP-Scope explicit mit Hauptziel35461 als Quelle und Planung bis100 einschließlich aller relevanten Zwischen-/Endwerte. Keine pauschale Ableitung aus übergreifenden Zielen. Feinziele/Kriterien halten diesen Rahmen ein; die didaktische Konkretisierung und eigenverantwortliche Lehrkraftplanung bleiben sichtbar.",
+      "uncertainty": "Die ausgewählte Konkretisierung ist keine vollständige Gleichwertigkeit oder Prüfung des ganzen Hauptziels Beherrschen. Keine automatische Validierung individueller Entwürfe.",
+      "gs_id": "page912_187185",
+      "card": "MA-016",
+      "selected_fsp_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "alternative_fsp_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37950",
+        "page139_37952"
+      ],
+      "finding": "Vorwärts-/Rückwärtszählen in Schritten ist GS-Unterziel187185 unter Strukturzeile187183 und Hauptziel187182. Im FSP3/4 steht verbindlich Zählen/Abzählen35466; beide Richtungen, Zehnerübergänge, Schritte und Zählen von/bis stehen in dessen Bemerkung. Diese Belegart ist aufMA-016 bereits ausdrücklich kenntlich. FSP1/2 nennt Schrittzählen37950 und Richtungen37952 als Unterziele unter Beherrschen37931. 2er-/5er-/eventuell3er-Schritte sind Differenzierungsbemerkungen, keine abschließende Liste und keine Lernzielebenen.",
+      "prerequisites": "Bekannte natürliche Zahlen und Zahlfolge, gleichbleibende Schrittweite und festgelegte Richtung im vertrauten Alltagskontext. Ausgangswert, jeder erreichte Zählwert und Endwert bleiben im FSP-Rahmen bis100; Schrittwahl und Endpunkt dürfen keinen Zahlenraumwechsel erzwingen. Kein Fortsetzen ins Negative oder über100 aus der Richtungsangabe ableiten.",
+      "remaining_scope": "Die GS-Bemerkung auch mit beliebiger Startzahl ist keine gleichlautende FSP-Zielvorgabe: Startwahl im gemeinsamen Rahmen ist didaktisch möglich, aber kein pauschaler Nachweis sämtlicher Start-/Schritt-Kombinationen. Alle GS-Zahlen oberhalb100 bis1000, höhere Stellenwertübergänge, wechselnde Schrittweiten und allgemeine Zahlenfolgenregeln bleiben außerhalb des bestätigten Ausschnitts. Nachbarzahlen/Nachbarzehner aus der FSP-Bemerkung decken die entsprechenden GS-Nachbarzeilen nicht automatisch mit ab."
+    },
+    {
+      "status": "existing_limited_connection_confirmed",
+      "first_review": false,
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "gs_level": {
+        "level": "Beherrschen",
+        "source_id": "page912_187182"
+      },
+      "fsp_level": {
+        "level": "Beherrschen",
+        "source_id": "page139_35461"
+      },
+      "number_scope": {
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "fsp_status": "explicit",
+        "fsp_source_id": "page139_35461",
+        "full_gs_goal_covered": false
+      },
+      "band_decision": "Positive fachliche Kandidaten in beiden FSP-Bändern. Stufenpassendes gebündeltes Band3/4 im Alltagskontext bevorzugt; Band1/2 bleibt ein verwandter Anschluss im Naturkontext. Die dortigen Zielzeilen37931/37950/37952/37956 nennen selbst keine Obergrenze. Keine Zahl erfunden und kein Ausschluss allein wegen eines kleineren Zahlenraums. Eine aus übergreifenden Bandzielen abgeleitete Grenze müsste bei gesonderter Auswahl als didaktische Konkretisierung gekennzeichnet werden; hier kein neuer1/2-Kartenanschluss.",
+      "scope_check": "Vorhandene Karte zeigt GS1000/FSP100 und fehlende vollständige GS-Zieldeckung. FSP-Scope explicit mit Hauptziel35461 als Quelle und Planung bis100 einschließlich aller relevanten Zwischen-/Endwerte. Keine pauschale Ableitung aus übergreifenden Zielen. Feinziele/Kriterien halten diesen Rahmen ein; die didaktische Konkretisierung und eigenverantwortliche Lehrkraftplanung bleiben sichtbar.",
+      "uncertainty": "Die ausgewählte Konkretisierung ist keine vollständige Gleichwertigkeit oder Prüfung des ganzen Hauptziels Beherrschen. Keine automatische Validierung individueller Entwürfe.",
+      "gs_id": "page912_187186",
+      "card": "MA-017",
+      "selected_fsp_ids": [
+        "page139_35461",
+        "page139_35463"
+      ],
+      "alternative_fsp_ids": [
+        "page139_37931",
+        "page139_37937",
+        "page139_37956"
+      ],
+      "finding": "Vergleichen/Ordnen187186 ist ein GS-Unterziel unter187183/187182. Im FSP3/4 stehen Vergleichen und Ordnen von Mengen und Zahlen35463 ebenfalls im verbindlichen Unterziel unter35461. FürMA-017 wird der Zahlvergleich ausgewählt; Mengen, Darstellungswechsel und Lesen/Schreiben sind dadurch nicht vollständig abgeglichen. FSP1/2 enthält in37956 ausdrücklich Ordnen/Vergleichen mit den Zeichen kleiner/größer/gleich unter Beherrschen37931. Dies bestätigt einen verwandten Kandidaten, rechtfertigt aber keine Übertragung dieser speziellen Zeichenvorgabe auf die ausgewählte3/4-Zeile.",
+      "prerequisites": "Verständnis der Zahlwerte und ihrer Größenbeziehungen im vertrauten Alltagskontext. Alle zu vergleichenden beziehungsweise zu ordnenden Zahlen sowie relevante Zwischen-/Endwerte bleiben im FSP-Rahmen bis100. Die Reihenfolge richtet sich nach dem Zahlwert; gleiche Werte dürfen nicht allein wegen verschiedener Darstellung als verschieden behandelt werden.",
+      "remaining_scope": "Keine vollständige GS-Zieldeckung bis1000; Zahlen oberhalb100 sind ausgeschlossen. Eine bestimmte Zeichen- oder Darstellungsform, das Begründen aller Ordnungsregeln, Mengenvergleich und weitere Zahlaspekte werden aus dem engen Zielausschnitt nicht zusätzlich verlangt. Vorgänger/Nachfolger und Nachbarzehner/-hunderter bleiben eigene offene GS-Zeilen."
+    }
+  ],
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "existing_rows_rechecked_this_batch": 2,
+    "existing_cards_rechecked_this_batch": 2,
+    "new_cards": 0,
+    "cards_total": 113,
+    "same_band": 84,
+    "cross_band": 29,
+    "inventory_rows": 206,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 13,
+    "source_links": 276,
+    "target_anchors": 274
+  },
+  "app_changes": false,
+  "preservation": "Alle113 Karten, Feinziele/Kriterien, Scope-Felder,426 Ebeneneinträge und beide HTML-Dateien unverändert. Keine Doppelzählung als Erstprüfung; keine Anschlussfrage ohne Entscheidung geschlossen. Deutsch/Sachunterricht und Lehrkraftentwürfe unverändert.",
+  "tests": {
+    "status": "passed",
+    "commands": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-23\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 113 mathematics cards, 276 source links (274 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 113 mathematics cards, 276 source links (274 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "preservation": "App/index/dist, Mathematikmodul samt113Karten,426kanonische Ebeneneinträge bytegleich zuMA-114. Nur fünf Audit-/Fortsetzungsdateien geändert.",
+    "browser": "Keine neue Browserprüfung: reine Auditänderung, App unverändert. Vollständige lokale/Live-Funktionsprüfung und Ebenen-/Zuordnungsprüfung ausMA-114 bleiben der letzte Nachweis; nicht als erneute Prüfung gezählt."
+  },
+  "publication": {
+    "status": "recorded_in_this_commit",
+    "type": "audit_only",
+    "app_version_unchanged": "1.417",
+    "app_commit_unchanged": "2a6f3ad2a857c72ca54dad9fe463a50a903aedd5",
+    "note": "Audit wird mit diesem Commit aufmain gesichert. Kein neuer App-Release oder neuer Live-Nachweis behauptet."
+  },
+  "continuation": {
+    "next_id": "page912_187187",
+    "next_step": "GS3 Vorgänger/Nachfolger187187 und Nachbarzehner/-hunderter187188 gegen beide FSP-Bänder prüfen; danach187189–187191. MA-016/017 erneut bestätigt, keine neuen Karten oder Erstprüfungen.113 Karten,22 Anschlussfragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen. Weitergehende Restumfänge bleiben offen. App1.417 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

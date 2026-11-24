@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-114
+# Mathematik-Abgleich · MA-115
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei der erneuten Einzelprüfung187185/187186 (MA-016/017). [MA-114](review_batch_114.json) ordnet187183/187184 für dekadische Stellenwertanteile begrenzt zu.113 Karten,22 Fragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen; App1.417.
+Fortsetzung bei GS3 Vorgänger/Nachfolger187187 und Nachbarzehner/-hunderter187188. [MA-115](review_batch_115.json) bestätigt die bestehenden begrenzten Anschlüsse187185/187186 aufMA-016/017 nach erneuter Einzelprüfung. Keine neue Karte;113 Karten,22 Fragen,13 ganze Zeilen ohne direkten Anschluss,206 Inventurzeilen; App1.417 unverändert.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1248,3 +1248,12 @@ Zwei erstmals eigenständig geprüfte Zielzeilen mit einer Karte.113 Karten(84 p
 
 
 MA-114 veröffentlicht: App1.417, Commit `2a6f3ad2a857c72ca54dad9fe463a50a903aedd5`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45225266673). Live-App bytegleich (SHA-256 `35da2131fd75e26540b828b4b08561f80ad79fac21666295d6778e5396ad2c02`). Alle sechs Datenprüfungen sowie vollständige Mathematik-Browserprüfung, Ebenenprüfung und didaktische Zuordnungsprüfung lokal und live bestanden. Bestehende Lehrkrafttexte und manuelle Bewertungen erhalten. Nächster Schritt: erneute Einzelprüfung187185/187186;22 Anschlussfragen und weitergehende Restumfänge offen. Kein Gesamtabschluss behauptet.
+
+
+## MA-115 · Bestandsprüfung · 23.11.2026
+
+Zwei bereits zugeordnete GS3-Zeilen erneut geprüft, keine Erstprüfung und keine neue Karte. Schrittzählen187185/MA-016 und Vergleichen/Ordnen187186/MA-017 bleiben begrenzte Anschlüsse an FSP3/4. Beide FSP-Bänder sind geprüft; positive1/2-Bezüge werden anerkannt, das stufenpassende3/4-Band bevorzugt. Lernzielebenen beider ausgewählter Seiten: Beherrschen. Zählen,Vergleichen und Ordnen bleiben Zielhandlungen.
+
+Bei Schrittzählen sind Richtungen, Schritte und Zehnerübergänge im FSP Bemerkungen zu35466; die GS-Bemerkung zur beliebigen Startzahl begründet keine pauschale FSP-Deckung sämtlicher Start-/Schrittkombinationen. Beim Zahlvergleich stehen beide Handlungen im FSP-Unterziel35463. Die explizite Zeichenforderung des alternativen1/2-Kandidaten37956 wird nicht auf3/4 übertragen.
+
+Zahlenräume GS1000/FSP100 sind ausdrücklich durch die jeweiligen Hauptziele belegt; die Karten führen Grenzen einschließlich Zwischen-/Endwerten. Größere GS-Zahlenräume und weitere Zielaspekte bleiben offen. Die eigenen Zahlenraumgrenzen der ungewählten1/2-Zeilen werden nicht erfunden.113 Karten und426 Ebeneneinträge, alle Feinziele/Kriterien und HTML-Dateien unverändert. Alle sechs Datenprüfungen bestanden. Reiner Auditstand wird mit diesem Commit auf main gesichert; keine neue App-Version und kein neuer Browser-/Live-Nachweis. Letzte vollständige Funktionsprüfung: MA-114.
