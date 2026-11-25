@@ -252,6 +252,9 @@ Mathematik MA-121: wertgleiches dekadisches Bündeln/Entbündeln, GS-Anwenden/FS
 MA-121 veröffentlicht: App1.422, Commit `0fcce47c31f9d60df3a07345eb4e951f3a055a99`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45564353973). Live-App bytegleich, SHA-256 `200ff6edb6c85e30c476594e7fa56da7ad6a62f70ed8e339e273387a6354b0b3`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187193/187194, danach187195/187196;187192 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
 
 
-Mathematik MA-122: Stellenwertprinzip und platzbewahrende Null auf bestehenderMA-118 präzisiert; GS-Anwenden/FSP-Beherrschen, Grenzen1000/100.119 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_122.json). App1.423: Prüfungen und Veröffentlichung ausstehend.
+Mathematik MA-122: Stellenwertprinzip und platzbewahrende Null auf bestehenderMA-118 präzisiert; GS-Anwenden/FSP-Beherrschen, Grenzen1000/100.119 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_122.json). App1.423: Prüfungen und Veröffentlichung bestanden.
 
-MA-122: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
+MA-122: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal und live bestanden; Veröffentlichung geprüft.
+
+
+MA-122 veröffentlicht: App1.423, Commit `b72d4166ae0d57aa1e8121559250beb7674c2ca0`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45581369916). Live-App bytegleich, SHA-256 `91753285b5ffd8de86e107fbd339fb4295e1adc5e781b5f699475b664012a36d`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187195, danach187196;187193/187194 einzeln auf bestehenderMA-118 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
