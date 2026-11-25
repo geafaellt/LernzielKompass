@@ -3615,7 +3615,7 @@
     }
   },
   "next_id": "page912_187193",
-  "next_step": "GS3 Stellenwertprinzip187193 und Bedeutung der Null187194 unter Darstellen2055/Anwenden2052 einzeln prüfen, danach187195/187196. MA-121 hat187192 aufMA-119 für wertgleiches dekadisches Bündeln/Entbündeln begrenzt zugeordnet. FSP-Umkehrung ausdrücklich didaktisch, nicht eigene amtliche Zielhandlung.119 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.422: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 Stellenwertprinzip187193 und Bedeutung der Null187194 unter Darstellen2055/Anwenden2052 einzeln prüfen, danach187195/187196. MA-121 hat187192 aufMA-119 für wertgleiches dekadisches Bündeln/Entbündeln begrenzt zugeordnet. FSP-Umkehrung ausdrücklich didaktisch, nicht eigene amtliche Zielhandlung.119 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.422: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich und alle Daten-/Mathematik-/Ebenenprüfungen lokal/live bestanden. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -5797,8 +5797,20 @@
   },
   "latest_publication": {
     "batch": "MA-121",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.422",
+    "commit": "0fcce47c31f9d60df3a07345eb4e951f3a055a99",
+    "tree": "2b09ead102f028250878f47358c1be40f0e21260",
+    "pages_run_id": 45564353973,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45564353973",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "200ff6edb6c85e30c476594e7fa56da7ad6a62f70ed8e339e273387a6354b0b3",
+    "bytes": 5623608,
+    "live_browser": "PASS: vollständige Mathematikprüfung119Karten, Quellen/Scope/Ziele/Output, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung432Karten/864Seiten.",
+    "verified_on": "2026-11-25",
+    "limits": "Keine neue vollständige semantische Gesamtprüfung aller Bestandskarten; MA-113/118 gezielt erneut abgegrenzt. Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-120",
       "status": "published_verified",
@@ -6086,9 +6098,9 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-120",
+    "batch": "MA-121",
     "status": "recorded_in_this_commit",
-    "app_commit": "c8c521288c79277a6a20658aff9fc44dcdc12c9b",
+    "app_commit": "0fcce47c31f9d60df3a07345eb4e951f3a055a99",
     "note": "Veröffentlichungsnachweis nach erfolgreichen lokalen und Liveprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
