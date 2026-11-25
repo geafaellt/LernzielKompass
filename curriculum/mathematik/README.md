@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-122
+# Mathematik-Abgleich · MA-123
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Vernetzen187195, danach Fachbegriffe187196. [MA-122](review_batch_122.json) präzisiert187193/187194 auf bestehenderMA-118.119 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
+Fortsetzung beiGS3 Fachbegriffe187196. [MA-123](review_batch_123.json) präzisiert187195 auf bestehenderMA-118: beidseitiger Wechsel Ziffernschreibweise/Stellenwertdarstellung.119 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1384,3 +1384,22 @@ MA-122: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (1
 
 
 MA-122 veröffentlicht: App1.423, Commit `b72d4166ae0d57aa1e8121559250beb7674c2ca0`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45581369916). Live-App bytegleich, SHA-256 `91753285b5ffd8de86e107fbd339fb4295e1adc5e781b5f699475b664012a36d`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187195, danach187196;187193/187194 einzeln auf bestehenderMA-118 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+## MA-123 · App1.424 · 25.11.2026
+
+Stufenbandpassender Teilanschluss GS3 → FSP3/4 für den wertgleichen Wechsel in beiden Richtungen zwischen gewöhnlicher Ziffernschreibweise und einer Darstellung derselben Zahl nach dekadischen Stellenwertanteilen. GS187195 steht unmittelbar unter Anwenden2052, parallel zu Darstellen2055; es ist keine Unterzeile von2055. FSP35463 nennt Mengen und Zahlen; seine Bemerkung belegt die Zuordnung aus verschiedenen Darstellungsformen zu Zahlen ausdrücklich auch umgekehrt. FSP35468 ergänzt den Strukturbezug, mit dekadischem Positionssystem in der Bemerkung. Beide gehören zu Beherrschen35461. Die Auswahl einer stellenwertstrukturierten Darstellung ist eine didaktische Konkretisierung dieser zusammengehörigen Belege, keine wörtliche FSP-Zielzeile Vernetzen. MA-118 wird präzisiert, keine Doppelkarte angelegt.
+
+Amtliche Lernzielebenen: GS Anwenden2052, FSP Beherrschen35461. Anwenden verlangt Abstraktion und Transfer in unbekannte Kontexte; Beherrschen den routinemäßigen Gebrauch. Vernetzen, Darstellen, Entdecken, Vergleichen und Zuordnen sind Zielhandlungen, keine Lernzielebenen. Bildlich oder symbolisch bezeichnet eine Darstellungsform. Das Beherrschen der GS-Zahldarstellung2037 oder der Zahlbeziehungen187182 wird nicht auf187195 übertragen.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere Zahlenraum trägt diesen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Zusätzlich bleibt der Unterschied Anwenden/Beherrschen bestehen.
+
+Bekanntes dekadisches Stellenwertwissen und eindeutige Bedeutung der gewählten Darstellung: Jeder Stellenanteil hat eine bekannte Stelle und einen bestimmten Wert. Für die gewöhnlich gebündelte Darstellung bleiben die Anzahlen je Stelle einzelne Ziffern; keine ungebündelten Zwischenformen. Zahl der dargestellten Bündel und Wert der dargestellten Anteile sind zu unterscheiden. Beide Wechselrichtungen erhalten denselben Gesamtwert und dieselben Stellenanteile. Erforderliche Nullen bewahren unbesetzte Stellen mit Anteilwert0. Die Lehrkraft beurteilt das Merkmal eines noch nicht eingeübten GS-Kontexts; ein anderer Zahlenwert allein genügt nicht. Darstellungsform, Aufgaben, Lernhandlungen und Hilfsmittel bleiben Lehrkraftentscheidung.
+
+Keine vollständige GS-Zieldeckung: ausgewählt ist nur Ziffernschreibweise ↔ eine eindeutig interpretierte Darstellung nach dekadischen Stellenwertanteilen. Freie Wechsel sämtlicher Handlungs-, Bild-, Sprach-, Symbol- und Sachsituationsformen, beliebige Kodierungen, nichtkanonische Umgruppierungen, Rechenalgorithmen, Zahlwortschreibung, Größen/Einheiten und Dezimalbrüche bleiben außerhalb. FSP bis100 deckt die GS-Zahlen oberhalb100 bis1000 sowie den Transfer in unbekannte Kontexte nicht vollständig ab. Fachbegriffe187196 bleiben zur Einzelprüfung offen; Hauptziel2052 ist nicht insgesamt abgeschlossen. Bisherige Grenzen des Stellenwertprinzips und der platzbewahrenden Nullfunktion bleiben erhalten.
+
+FSP1/2:37871 unter Einblick gewinnen37851 ist ein positiver Stellenwertkandidat; die Bemerkung nennt Sprechen/Darstellen, Zehner/Einer und Stellenwerttafel.37937/37941 unter Beherrschen37931 belegen Mengen-/Zahlzuordnung im Naturkontext; eine gleichlautende vollständige beidseitige Vernetzung dekadischer Darstellungen wird dort nicht ausdrücklich formuliert. Diese Belege bleiben fachliche Teilanschlüsse und werden nicht allein wegen eines kleineren Zahlenraums verworfen. Die20 der benachbarten Rechenwegezeile37885 wird nicht als eigene Grenze von37871 übernommen. FSP3/4:35463 mit ausdrücklicher Umkehrrichtung in der Bemerkung und35468 mit Positionssystembezug unter demselben Beherrschen35461 bieten den engeren stufenbandpassenden Anschluss. Die konkrete Kombination beider Belege und die Auswahl der Darstellungsformen sind didaktisch; keine neue amtliche Lernzielebene. Es wird kein Aufgaben- oder Hilfsmittelbeispiel übernommen.
+
+Eine Erstprüfung, keine neue Karte/Inventurzeile.117 Mathematikkarten vollständig unverändert;MA-119 nur mit aktualisiertem Fortsetzungsverweis.432 Ebeneneinträge unverändert. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Prüfungen, Veröffentlichung und Liveprüfung ausstehend.
+
+MA-123: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
