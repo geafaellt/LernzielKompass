@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.422** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.423** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -250,3 +250,8 @@ Mathematik MA-121: wertgleiches dekadisches Bündeln/Entbündeln, GS-Anwenden/FS
 
 
 MA-121 veröffentlicht: App1.422, Commit `0fcce47c31f9d60df3a07345eb4e951f3a055a99`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45564353973). Live-App bytegleich, SHA-256 `200ff6edb6c85e30c476594e7fa56da7ad6a62f70ed8e339e273387a6354b0b3`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187193/187194, danach187195/187196;187192 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+Mathematik MA-122: Stellenwertprinzip und platzbewahrende Null auf bestehenderMA-118 präzisiert; GS-Anwenden/FSP-Beherrschen, Grenzen1000/100.119 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_122.json). App1.423: Prüfungen und Veröffentlichung ausstehend.
+
+MA-122: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

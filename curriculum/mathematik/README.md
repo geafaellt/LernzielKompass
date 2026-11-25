@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-121
+# Mathematik-Abgleich · MA-122
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Stellenwertprinzip187193 und Null187194, danach187195/187196. [MA-121](review_batch_121.json) ordnet187192 begrenzt aufMA-119 zu.119 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
+Fortsetzung beiGS3 Vernetzen187195, danach Fachbegriffe187196. [MA-122](review_batch_122.json) präzisiert187193/187194 auf bestehenderMA-118.119 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1362,3 +1362,22 @@ Eine Erstprüfung, keine neue Inventurzeile.118 Bestandskarten und431 Ebeneneint
 
 
 MA-121 veröffentlicht: App1.422, Commit `0fcce47c31f9d60df3a07345eb4e951f3a055a99`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45564353973). Live-App bytegleich, SHA-256 `200ff6edb6c85e30c476594e7fa56da7ad6a62f70ed8e339e273387a6354b0b3`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187193/187194, danach187195/187196;187192 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+## MA-122 · App1.423 · 25.11.2026
+
+Stufenbandpassender Teilanschluss GS3 → FSP3/4: eindeutige Zuordnung von Ziffer, Stelle und Wert des Stellenanteils in der gewöhnlichen dezimalen Zahlenschreibweise. GS187193 Stellenwertprinzip und187194 Bedeutung der Null sind Inhaltsunterpunkte von Darstellen2055 unter Anwenden2052. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; dekadisches Positionssystem und Stellentafel stehen in der Bemerkung. Die Null als Kennzeichnung einer unbesetzten Stelle mit Anteilwert0 ist eine didaktische Konkretisierung dieses Positionssystembelegs, kein wörtlich ausgewiesenes eigenes FSP-Nullziel. Die bestehende KarteMA-118 wird präzisiert, nicht doppelt angelegt.
+
+Amtliche Lernzielebenen: GS Anwenden aus Hauptziel2052; FSP Beherrschen aus Hauptziel35461. Anwenden verlangt Abstraktion und Transfer in unbekannten Kontexten, Beherrschen den routinemäßigen Gebrauch. Darstellen, Entdecken und Erkennen bleiben Zielhandlungen; Stellenwertprinzip und Bedeutung der Null sind Inhalte, keine eigenen Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht übernommen.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere Zahlenraum trägt diesen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Zusätzlich bleibt der Unterschied Anwenden/Beherrschen bestehen.
+
+Bekanntes dekadisches Stellenwertwissen und eindeutig bestimmte natürliche Zahl in gewöhnlicher dezimaler Ziffernschreibweise. Ziffer, Position und Wert des Stellenanteils sind zu unterscheiden. Die Summe der Stellenanteile entspricht genau dem Zahlwert. Eine erforderliche Null kennzeichnet einen unbesetzten Platz mit Anteilwert0 und bewahrt die Positionen der übrigen Ziffern; sie darf nicht so entfallen, dass sich der Zahlwert ändert. Nicht behauptet wird, jede führende Null sei notwendig. Kein Dezimalbruch, keine Maßeinheit und keine Kennnummer. Der GS-Transfer in einen noch nicht eingeübten Kontext muss von der Lehrkraft gesondert beurteilt werden; ein anderer Zahlenwert allein belegt ihn nicht.
+
+Keine vollständige GS-Zieldeckung. Nur Stellenwertzuordnung und der Rückbezug der Stellenanteile auf denselben Zahlwert sind ausgewählt. FSP bis100 deckt den GS-Raum bis1000, den Tausender und dreistellige Zahlen oberhalb100 nicht ab. Unbekannter GS-Kontext bleibt eine zusätzliche Anforderung. Beliebige additive Zerlegungen, flexible Umgruppierungen, Rechenalgorithmen und alle Darstellungswechsel sind nicht mit abgedeckt. Nur die platzbewahrende Funktion der Null in der gewöhnlichen dezimalen Zahlenschreibweise ist ausgewählt. Kein vollständiger Anschluss für sämtliche Bedeutungen der Null, Rechenregeln mit Null, leere Mengen oder Schreibweisen mit Einheiten/Dezimalstellen. Dreistellige Zahlen mit innerer Null und von Null verschiedener Einerstelle liegen oberhalb100 und sind deshalb nicht vom FSP-Ausschnitt erfasst;100 selbst bleibt eingeschlossen. Kein Ausschluss des belegten Teilanschlusses allein wegen des kleineren Zahlenraums. Hauptziel2052 bleibt Kontext und insgesamt offen.187192 wurde separat aufMA-119 begrenzt geprüft;187193/187194 nun aufMA-118, jeweils mit Restumfang.187195 Vernetzen und187196 Fachbegriffe bleiben zur Einzelprüfung offen.
+
+FSP1/2:37871 unter Einblick gewinnen37851 nennt die Struktur zweistelliger Zahlen, mit Zehnern/Einern und Stellenwerttafel in der Bemerkung. Das ist ein positiver Stellenwertkandidat und erlaubt eine didaktische Berücksichtigung unbesetzter Einerstellen; ein eigenes Nullziel wird nicht behauptet. Keine erfundene zusätzliche Obergrenze, insbesondere keine Übernahme der20 aus der benachbarten Rechenwegezeile37885. FSP3/4:35468 unter Beherrschen35461 wird wegen des passenden Stufenbands und des ausdrücklichen dekadischen Positionssystembezugs bevorzugt. Die Nullfunktion ist daraus didaktisch konkretisiert.35501 erwähnt Besonderheiten der Null in der Bemerkung zum Ergänzungsverfahren unter Kennen35498. Dieser positive Nullbeleg bleibt an das schriftliche Subtraktionsverfahren gebunden und ersetzt keinen allgemeinen Stellenwert-/Nullbeleg. Weder Kennen noch eine unbelegte numerische Grenze werden aus diesem anderen Inhaltsblock übertragen.
+
+Zwei Erstprüfungen, keine neue Karte/Inventurzeile.117 Mathematikkarten vollständig unverändert;MA-119 nur mit aktualisiertem Fortsetzungsverweis.432 Ebeneneinträge unverändert. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Prüfungen, Veröffentlichung und Liveprüfung ausstehend.
+
+MA-122: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

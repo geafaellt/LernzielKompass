@@ -1,0 +1,212 @@
+{
+  "id": "MA-122",
+  "date": "2026-11-25",
+  "base_commit": "571d3c937084bf97bd4cdf7336a905dddf108821",
+  "scope": "GS3 Stellenwertprinzip187193 und Bedeutung der Null187194 unter2055/2052; bestehendeMA-118 präzisiert.",
+  "source_verification": {
+    "html": "Amtliche GS912 und FSP139 online erneut gelesen: GS187193/187194 mit Hierarchie, FSP1/2 zweistellige Zahlstruktur und FSP3/4 Zahlenaufbau/Nullbemerkung zum Ergänzungsverfahren.",
+    "pdf": "Gespeicherte amtliche MA-118-PDFs mit pypdf textuell erneut gelesen: beide DefinitionstabellenS.V/PDF5, GS S.22/PDF32, FSP S.12/PDF24,S.19/PDF31,S.21/PDF33. Kein neuer Download oder neue Renderprüfung.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_2052": {
+      "id": "page912_2052",
+      "level": 1,
+      "parent_target_id": "page912_2052",
+      "target": "Anwenden des Wissens über die Struktur des dekadischen Positionssystems und des Prinzips der Zahlbildung im Zahlenraum bis 1 000",
+      "remarks": "Stellenwertverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2052"
+    },
+    "page912_2055": {
+      "id": "page912_2055",
+      "level": 2,
+      "parent_target_id": "page912_2052",
+      "target": "Darstellen von Zahlen im dekadischen Positionssystem",
+      "remarks": "Nutzen von Mehrsystemmaterial",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2055"
+    },
+    "page912_187193": {
+      "id": "page912_187193",
+      "level": 3,
+      "parent_target_id": "page912_2052",
+      "target": "Stellenwertprinzip",
+      "remarks": "Erweitern der Stellenwerttafel (T, H, Z, E) 348 ➔ 3 H 4 Z 8 E Zahlen als Summe von Vielfachen Zahlwort, Stellenwertkarten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187193"
+    },
+    "page912_187194": {
+      "id": "page912_187194",
+      "level": 3,
+      "parent_target_id": "page912_2052",
+      "target": "Bedeutung der Null",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187194"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken von Strukturelementen im Zahlenaufbau",
+      "remarks": "Bündelung, Hunderterfeld, -tafel dekadisches Positionssystem, Stellentafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37871": {
+      "id": "page139_37871",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Erkennen wesentlicher Strukturelemente von zweistelligen Zahlen",
+      "remarks": "Beziehung zum Zahlenaufbau: 10 + 4 = 14 Sprechen, Darstellen, Verwenden von Zehner (Z) und Einer (E), Stellenwerttafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871"
+    },
+    "page139_35498": {
+      "id": "page139_35498",
+      "level": 1,
+      "parent_target_id": "page139_35498",
+      "target": "Kennen der schriftlichen Rechenverfahren der Addition und Subtraktion",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35498"
+    },
+    "page139_35501": {
+      "id": "page139_35501",
+      "level": 3,
+      "parent_target_id": "page139_35498",
+      "target": "Ergänzungsverfahren",
+      "remarks": "Ausführbarkeit und Besonderheiten der Zahl Null berücksichtigen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35501"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187193",
+      "first_review": true,
+      "status": "limited_connection",
+      "card": "MA-118",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "Der Ziffernwert wird von ihrer Position unterschieden; der Stellenanteil und sein Anteil am Gesamtwert sind eindeutig. Stufenbandpassender Teilanschluss GS3 → FSP3/4: eindeutige Zuordnung von Ziffer, Stelle und Wert des Stellenanteils in der gewöhnlichen dezimalen Zahlenschreibweise. GS187193 Stellenwertprinzip und187194 Bedeutung der Null sind Inhaltsunterpunkte von Darstellen2055 unter Anwenden2052. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; dekadisches Positionssystem und Stellentafel stehen in der Bemerkung. Die Null als Kennzeichnung einer unbesetzten Stelle mit Anteilwert0 ist eine didaktische Konkretisierung dieses Positionssystembelegs, kein wörtlich ausgewiesenes eigenes FSP-Nullziel. Die bestehende KarteMA-118 wird präzisiert, nicht doppelt angelegt.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Anwenden aus Hauptziel2052; FSP Beherrschen aus Hauptziel35461. Anwenden verlangt Abstraktion und Transfer in unbekannten Kontexten, Beherrschen den routinemäßigen Gebrauch. Darstellen, Entdecken und Erkennen bleiben Zielhandlungen; Stellenwertprinzip und Bedeutung der Null sind Inhalte, keine eigenen Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht übernommen.",
+      "prerequisites": "Bekanntes dekadisches Stellenwertwissen und eindeutig bestimmte natürliche Zahl in gewöhnlicher dezimaler Ziffernschreibweise. Ziffer, Position und Wert des Stellenanteils sind zu unterscheiden. Die Summe der Stellenanteile entspricht genau dem Zahlwert. Eine erforderliche Null kennzeichnet einen unbesetzten Platz mit Anteilwert0 und bewahrt die Positionen der übrigen Ziffern; sie darf nicht so entfallen, dass sich der Zahlwert ändert. Nicht behauptet wird, jede führende Null sei notwendig. Kein Dezimalbruch, keine Maßeinheit und keine Kennnummer. Der GS-Transfer in einen noch nicht eingeübten Kontext muss von der Lehrkraft gesondert beurteilt werden; ein anderer Zahlenwert allein belegt ihn nicht.",
+      "remaining_scope": "Nur Stellenwertzuordnung und der Rückbezug der Stellenanteile auf denselben Zahlwert sind ausgewählt. FSP bis100 deckt den GS-Raum bis1000, den Tausender und dreistellige Zahlen oberhalb100 nicht ab. Unbekannter GS-Kontext bleibt eine zusätzliche Anforderung. Beliebige additive Zerlegungen, flexible Umgruppierungen, Rechenalgorithmen und alle Darstellungswechsel sind nicht mit abgedeckt.",
+      "uncertainty": "Konkrete Stellenwert-/Nullfunktion didaktisch aus dem Positionssystembeleg; keine wörtliche FSP-Nullzielzeile. Der unbekannte GS-Kontext ist individuell zu beurteilen.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlwerte und Stellenwertanteile bis 100",
+        "detail": "Bis100 ausdrücklich im FSP-Hauptziel35461;35468 trägt den Strukturbezug mit dekadischem Positionssystem in der Bemerkung. Stellenwertzuordnung und platzbewahrende Nullfunktion sind didaktische Konkretisierungen; die numerische Grenze selbst ist ausdrücklich und nicht aus einem übergreifenden Ziel abgeleitet. GS2052 verlangt bis1 000 und Anwenden.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Bekanntes dekadisches Stellenwertwissen und eindeutig bestimmte natürliche Zahl in gewöhnlicher dezimaler Ziffernschreibweise. Ziffer, Position und Wert des Stellenanteils sind zu unterscheiden. Die Summe der Stellenanteile entspricht genau dem Zahlwert. Eine erforderliche Null kennzeichnet einen unbesetzten Platz mit Anteilwert0 und bewahrt die Positionen der übrigen Ziffern; sie darf nicht so entfallen, dass sich der Zahlwert ändert. Nicht behauptet wird, jede führende Null sei notwendig. Kein Dezimalbruch, keine Maßeinheit und keine Kennnummer. Der GS-Transfer in einen noch nicht eingeübten Kontext muss von der Lehrkraft gesondert beurteilt werden; ein anderer Zahlenwert allein belegt ihn nicht. Alle relevanten FSP-Ausgangszahlen, Stellenanteilwerte, Bündelanzahlen, Teilsummen sowie Zwischen- und Endergebnisse bleiben bis 100. Der dargestellte Gesamtwert bleibt bis100, einschließlich100; keine erfundene99-Grenze. Die Stellen H/Z/E sind nur insoweit enthalten, wie der Gesamtwert diese Grenze einhält. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "gs_id": "page912_187194",
+      "first_review": true,
+      "status": "limited_connection",
+      "card": "MA-118",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "Die erforderliche Null hält unbesetzte Stellen frei und trägt dort0 zum Gesamtwert bei. Ein allgemeines FSP-Ziel Bedeutung der Null wird nicht erfunden. Stufenbandpassender Teilanschluss GS3 → FSP3/4: eindeutige Zuordnung von Ziffer, Stelle und Wert des Stellenanteils in der gewöhnlichen dezimalen Zahlenschreibweise. GS187193 Stellenwertprinzip und187194 Bedeutung der Null sind Inhaltsunterpunkte von Darstellen2055 unter Anwenden2052. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; dekadisches Positionssystem und Stellentafel stehen in der Bemerkung. Die Null als Kennzeichnung einer unbesetzten Stelle mit Anteilwert0 ist eine didaktische Konkretisierung dieses Positionssystembelegs, kein wörtlich ausgewiesenes eigenes FSP-Nullziel. Die bestehende KarteMA-118 wird präzisiert, nicht doppelt angelegt.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Anwenden aus Hauptziel2052; FSP Beherrschen aus Hauptziel35461. Anwenden verlangt Abstraktion und Transfer in unbekannten Kontexten, Beherrschen den routinemäßigen Gebrauch. Darstellen, Entdecken und Erkennen bleiben Zielhandlungen; Stellenwertprinzip und Bedeutung der Null sind Inhalte, keine eigenen Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht übernommen.",
+      "prerequisites": "Bekanntes dekadisches Stellenwertwissen und eindeutig bestimmte natürliche Zahl in gewöhnlicher dezimaler Ziffernschreibweise. Ziffer, Position und Wert des Stellenanteils sind zu unterscheiden. Die Summe der Stellenanteile entspricht genau dem Zahlwert. Eine erforderliche Null kennzeichnet einen unbesetzten Platz mit Anteilwert0 und bewahrt die Positionen der übrigen Ziffern; sie darf nicht so entfallen, dass sich der Zahlwert ändert. Nicht behauptet wird, jede führende Null sei notwendig. Kein Dezimalbruch, keine Maßeinheit und keine Kennnummer. Der GS-Transfer in einen noch nicht eingeübten Kontext muss von der Lehrkraft gesondert beurteilt werden; ein anderer Zahlenwert allein belegt ihn nicht.",
+      "remaining_scope": "Nur die platzbewahrende Funktion der Null in der gewöhnlichen dezimalen Zahlenschreibweise ist ausgewählt. Kein vollständiger Anschluss für sämtliche Bedeutungen der Null, Rechenregeln mit Null, leere Mengen oder Schreibweisen mit Einheiten/Dezimalstellen. Dreistellige Zahlen mit innerer Null und von Null verschiedener Einerstelle liegen oberhalb100 und sind deshalb nicht vom FSP-Ausschnitt erfasst;100 selbst bleibt eingeschlossen. Kein Ausschluss des belegten Teilanschlusses allein wegen des kleineren Zahlenraums.",
+      "uncertainty": "Konkrete Stellenwert-/Nullfunktion didaktisch aus dem Positionssystembeleg; keine wörtliche FSP-Nullzielzeile. Der unbekannte GS-Kontext ist individuell zu beurteilen.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlwerte und Stellenwertanteile bis 100",
+        "detail": "Bis100 ausdrücklich im FSP-Hauptziel35461;35468 trägt den Strukturbezug mit dekadischem Positionssystem in der Bemerkung. Stellenwertzuordnung und platzbewahrende Nullfunktion sind didaktische Konkretisierungen; die numerische Grenze selbst ist ausdrücklich und nicht aus einem übergreifenden Ziel abgeleitet. GS2052 verlangt bis1 000 und Anwenden.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Bekanntes dekadisches Stellenwertwissen und eindeutig bestimmte natürliche Zahl in gewöhnlicher dezimaler Ziffernschreibweise. Ziffer, Position und Wert des Stellenanteils sind zu unterscheiden. Die Summe der Stellenanteile entspricht genau dem Zahlwert. Eine erforderliche Null kennzeichnet einen unbesetzten Platz mit Anteilwert0 und bewahrt die Positionen der übrigen Ziffern; sie darf nicht so entfallen, dass sich der Zahlwert ändert. Nicht behauptet wird, jede führende Null sei notwendig. Kein Dezimalbruch, keine Maßeinheit und keine Kennnummer. Der GS-Transfer in einen noch nicht eingeübten Kontext muss von der Lehrkraft gesondert beurteilt werden; ein anderer Zahlenwert allein belegt ihn nicht. Alle relevanten FSP-Ausgangszahlen, Stellenanteilwerte, Bündelanzahlen, Teilsummen sowie Zwischen- und Endergebnisse bleiben bis 100. Der dargestellte Gesamtwert bleibt bis100, einschließlich100; keine erfundene99-Grenze. Die Stellen H/Z/E sind nur insoweit enthalten, wie der Gesamtwert diese Grenze einhält. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
+      }
+    }
+  ],
+  "context_only": [
+    "page912_2052"
+  ],
+  "band_selection": "FSP1/2:37871 unter Einblick gewinnen37851 nennt die Struktur zweistelliger Zahlen, mit Zehnern/Einern und Stellenwerttafel in der Bemerkung. Das ist ein positiver Stellenwertkandidat und erlaubt eine didaktische Berücksichtigung unbesetzter Einerstellen; ein eigenes Nullziel wird nicht behauptet. Keine erfundene zusätzliche Obergrenze, insbesondere keine Übernahme der20 aus der benachbarten Rechenwegezeile37885. FSP3/4:35468 unter Beherrschen35461 wird wegen des passenden Stufenbands und des ausdrücklichen dekadischen Positionssystembezugs bevorzugt. Die Nullfunktion ist daraus didaktisch konkretisiert.35501 erwähnt Besonderheiten der Null in der Bemerkung zum Ergänzungsverfahren unter Kennen35498. Dieser positive Nullbeleg bleibt an das schriftliche Subtraktionsverfahren gebunden und ersetzt keinen allgemeinen Stellenwert-/Nullbeleg. Weder Kennen noch eine unbelegte numerische Grenze werden aus diesem anderen Inhaltsblock übertragen.",
+  "existing_cards_rechecked": [
+    "MA-113",
+    "MA-118",
+    "MA-119"
+  ],
+  "existing_card_review": "MA-118 enthält bereits Ziffer/Stelle/Stellenanteil und unbesetzte Stellen; deshalb keine Doppelkarte, sondern zwei ausdrückliche GS-Unterzielanker und präzisierte Grenzen/Kriterien.2055 nicht erneut als Erstprüfung gezählt. MA-113 betrifft kanonische Zerlegung unter GS-Beherrschen187182 und bleibt unverändert. MA-119 betrifft Austausch zehn zu eins und zurück; nur der Verweis auf inzwischen geprüfte187193/187194 wird aktualisiert, Ziele/Scope unverändert. Keine vollständige neue semantische Prüfung aller119 Karten.",
+  "counts": {
+    "first_reviews_this_batch": 2,
+    "new_cards": 0,
+    "cards_total": 119,
+    "same_band": 90,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 14,
+    "inventory_rows": 213,
+    "new_inventory_rows": 0,
+    "source_links": 285,
+    "target_anchors": 283
+  },
+  "tests": {
+    "status": "local_passed_live_pending",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-25\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 119 mathematics cards, 285 source links (283 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 119 mathematics cards, 285 source links (283 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "preservation": "117 Mathematikkarten unverändert; MA-118 präzisiert, MA-119 nur Fortsetzungsverweis aktualisiert.432 bestehende Ebeneneinträge unverändert, ebenso Deutsch/Sachunterricht; beide HTML-Dateien identisch.",
+    "limits": "Keine neue vollständige semantische Gesamtprüfung aller Bestandskarten; MA-113/118/119 gezielt geprüft. Keine UI-Codeänderung.",
+    "local_browser": "PASS:119 Mathematikkarten, Quellen, Scope auf Karte/Zielen/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, erhaltene Lehrkrafttexte, Fachwechsel und Mobilregressionen.",
+    "local_learning_levels": "PASS:432 Karten/864 Seiten, amtliche Belege und Ausschluss von Zielhandlungen."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.423"
+  },
+  "continuation": {
+    "next_id": "page912_187195",
+    "next_step": "GS3 Vernetzen von Darstellungen187195 unter Anwenden2052 einzeln prüfen, danach Fachbegriffe187196. MA-122 hat187193/187194 auf der vorhandenenMA-118 eng präzisiert: Stellenwertzuordnung und platzbewahrende Nullfunktion, letztere ausdrücklich didaktisch aus FSP-Positionssystembeleg. Zwei Erstprüfungen, keine neue Karte.119 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.423: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}
