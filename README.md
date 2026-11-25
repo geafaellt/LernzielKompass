@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.424** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.425** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -266,3 +266,6 @@ MA-123: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (1
 
 
 MA-123 veröffentlicht: App1.424, Commit `dc45dbda1326188d93f693f4ddfe2f5f0271c482`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45602993519). Live-App bytegleich, SHA-256 `e8eefa57412bbad597ceb0273937cf0443c8fc0b008c197695d3169d4fc361c4`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187196;187195 einzeln auf bestehenderMA-118 für den beidseitigen Darstellungswechsel begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+Mathematik MA-124: Fachbegriffe187196 Tausender/Runden ohne hinreichend belegten direkten Anschluss in beiden FSP-Bändern entschieden. GS-Lernzielebene Anwenden, Zielhandlung Verwenden getrennt.119 Karten,22 Fragen; Fortsetzung2064/2065. [Prüfpaket](curriculum/mathematik/review_batch_124.json). App1.425: lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

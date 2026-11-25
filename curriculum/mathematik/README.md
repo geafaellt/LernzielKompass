@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-123
+# Mathematik-Abgleich · MA-124
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Fachbegriffe187196. [MA-123](review_batch_123.json) präzisiert187195 auf bestehenderMA-118: beidseitiger Wechsel Ziffernschreibweise/Stellenwertdarstellung.119 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
+Fortsetzung beiGS3 Addition/Subtraktion2064/2065. [MA-124](review_batch_124.json) entscheidet187196 für Tausender und Runden ohne hinreichenden direkten Anschluss.119 Karten,22 Fragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen; sieben neue Zeilen nur inventarisiert.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1406,3 +1406,18 @@ MA-123: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (1
 
 
 MA-123 veröffentlicht: App1.424, Commit `dc45dbda1326188d93f693f4ddfe2f5f0271c482`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45602993519). Live-App bytegleich, SHA-256 `e8eefa57412bbad597ceb0273937cf0443c8fc0b008c197695d3169d4fc361c4`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187196;187195 einzeln auf bestehenderMA-118 für den beidseitigen Darstellungswechsel begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+## MA-124 · App1.425 · 25.11.2026
+
+Kein hinreichend belegter direkter Anschluss für das Verwenden des Fachbegriffs Tausender. FSP1/2 nennt Zehner/Einer in der Bemerkung37871 unter Einblick gewinnen37851; FSP3/4 nennt Strukturelemente35468 mit Bündelung und dekadischem Positionssystem in der Bemerkung unter Beherrschen35461. Diese positiven Inhaltsbezüge tragen Stellenwert-Teilanschlüsse, aber nicht die hier ausdrücklich verlangte Verwendung des spezifischen Tausenderbegriffs. Es wird weder aus der allgemeinen Stellenwertstruktur ein zusätzliches amtliches Fachwortziel abgeleitet noch allein wegen100 gegenüber1000 ausgeschlossen. Kilometererfahrungen35519 unter Übertragen35511 enthalten ausdrücklich keine Umwandlungen; daraus folgt kein Tausender-/1000-m-Ziel. Entfernungsberechnung35598 im Wahlbereich unter Anwenden35595 nennt weder diesen Stellenwertbegriff noch eine eigene Obergrenze. Auch die allgemeinen Sprachziele der Bänder (FSP S.9/17) sind kein Beleg für jedes konkrete GS-Fachwort.
+
+Kein hinreichend belegter direkter Anschluss für das Verwenden des Fachbegriffs Runden. FSP1/2-Rechenvorteile37885, Kontrollen37889, Nachbarzahlen37947/Zahlenvergleich37956 und Preisabschätzen in Bemerkung37926 tragen weder eine bestimmte Rundungsregel noch das spezifische Begriffsverwendungsziel. FSP3/4-Nachbarzehner in Bemerkung35466, Abschätzen in35487 und Überschlagen in35503/35509 sowie die Wahlbereichsziele35558/35590 sind positive Näherungs-/Kontrollbezüge. Überschlagen und Abschätzen können aber ohne regelgeleitetes Runden erfolgen; ihre fachliche Nähe allein belegt nicht das Verwenden dieses Fachbegriffs. Die Differenz besteht auch im gemeinsamen Zahlenbereich. MA-118 prüfte das Rechenverfahren187190; diese Entscheidung wird nicht als neue Erstprüfung gezählt und ersetzt nicht die hier gesondert vorgenommene Fachwortprüfung187196.
+
+GS187196 ist Unterziel von Anwenden2052 (GS S.22/PDF32). Anwenden bedeutet Abstraktion und Transfer in unbekannte Kontexte; Verwenden ist hier eine Zielhandlung, Tausender und Runden sind Fachbegriffe. Das Beherrschen der früheren Rundungszeile187190 unter187182 wird nicht übertragen. FSP-Kandidaten behalten die belegte Ebene ihres eigenen Hauptziels: Einblick gewinnen37851/37913/35504, Beherrschen37931/35461, Übertragen35470/35511, Kennen35498 und Anwenden35554/35582/35595. Definitionen beider Pläne S.V/PDF5 geprüft. Entdecken, Kontrollieren, Vergleichen, Berechnen und Überschlagen sind hier konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Da kein Anschluss ausgewählt wird, wird keine neue FSP-Ebene auf eine Karte geschrieben.
+
+GS bis1000 ausdrücklich aus Hauptziel2052; FSP-Stellenwertkandidat35468 bis100 ausdrücklich aus35461. FSP37885 nennt bis20 in seiner eigenen Rechenwegezeile;37871 nennt zweistellige Zahlen, keine eigene numerische Obergrenze. Ein bis20 konkretisiertes Feinziel zu37871 müsste als didaktische Ableitung aus dem übergreifenden Bandziel (S.9) gekennzeichnet werden. Keine Übertragung fremder Obergrenzen auf Kilometer-/Reise-/Kontrollziele, keine pauschale100-Grenze für35598. Einheiten und Dezimalschreibweisen bleiben gesondert. Wegen fehlenden direkten Fachwortanschlusses werden keine neuen FSP-Feinziele, Kriterien oder Zahlenraumgrenzen angelegt.
+
+Die gesamte GS-Zeile187196 bleibt ohne direkte Kartenabdeckung; beide genannten Fachbegriffe sind einzeln begründet abgegrenzt. Didaktische Verwendung im Unterricht wird damit nicht ausgeschlossen. Keine Aussage über individuelle Lernfähigkeit oder einen vollständigen Abschluss des Hauptziels2052. Dessen begrenzte Stellenwert-, Null-, Bündelungs- und Darstellungsanschlüsse aufMA-118/119 bleiben mit ihren dokumentierten Restumfängen bestehen.22 andere Anschlussfragen und der weitere Gesamtabgleich bleiben offen.
+
+Eine Erstprüfung mit zwei Fachwortaspekten; keine neue Karte. Sieben Folgezeilen nur inventarisiert, nicht fachlich geprüft. MA-118/119 nur mit aktualisiertem Fortsetzungsverweis; Ziele, Kriterien, Geltungsbereiche und Ebenen unverändert. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte MathematikprüfungMA-118/119 und vollständige Lernzielebenenprüfung lokal bestanden; Veröffentlichung/Liveprüfung ausstehend. Der vollständige Mathematik-Funktionstest blieb wegen wiederholter Interaktions-Zeitlimits unvollständig; siehe Prüfpaket.
