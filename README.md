@@ -260,6 +260,9 @@ MA-122: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (1
 MA-122 veröffentlicht: App1.423, Commit `b72d4166ae0d57aa1e8121559250beb7674c2ca0`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45581369916). Live-App bytegleich, SHA-256 `91753285b5ffd8de86e107fbd339fb4295e1adc5e781b5f699475b664012a36d`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187195, danach187196;187193/187194 einzeln auf bestehenderMA-118 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
 
 
-Mathematik MA-123: Darstellungsvernetzung187195 auf bestehenderMA-118 präzisiert; GS-Anwenden/FSP-Beherrschen, Grenzen1000/100.119 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_123.json). App1.424: Prüfungen und Veröffentlichung ausstehend.
+Mathematik MA-123: Darstellungsvernetzung187195 auf bestehenderMA-118 präzisiert; GS-Anwenden/FSP-Beherrschen, Grenzen1000/100.119 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_123.json). App1.424: Prüfungen und Veröffentlichung bestanden.
 
-MA-123: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
+MA-123: Alle sechs Datenprüfungen sowie die vollständige Mathematikprüfung (119 Karten) und Ebenenprüfung (432 Karten/864 Seiten) lokal und live bestanden; Veröffentlichung geprüft.
+
+
+MA-123 veröffentlicht: App1.424, Commit `dc45dbda1326188d93f693f4ddfe2f5f0271c482`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45602993519). Live-App bytegleich, SHA-256 `e8eefa57412bbad597ceb0273937cf0443c8fc0b008c197695d3169d4fc361c4`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Nächster Schritt187196;187195 einzeln auf bestehenderMA-118 für den beidseitigen Darstellungswechsel begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
