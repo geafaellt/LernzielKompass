@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-120
+# Mathematik-Abgleich · MA-121
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertachtzehn Karten dokumentieren begrenzte Anschlüsse. Neunundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertneunzehn Karten dokumentieren begrenzte Anschlüsse. Neunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Bündelungsprinzip187192, danach187193–187196. [MA-120](review_batch_120.json) ordnet2055 begrenzt aufMA-118 zu;2052 nur Kontext.118 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
+Fortsetzung beiGS3 Stellenwertprinzip187193 und Null187194, danach187195/187196. [MA-121](review_batch_121.json) ordnet187192 begrenzt aufMA-119 zu.119 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1342,3 +1342,20 @@ Eine neue begrenzte Zielzeilenentscheidung, Hauptziel2052 nur Kontext. MA-113 un
 
 
 MA-120 veröffentlicht: App1.421, Commit `c8c521288c79277a6a20658aff9fc44dcdc12c9b`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45561240383). Live-App bytegleich, SHA-256 `ca6c0b2f519541d5d7c3edc044b93f5e6a7c38913e72131d2a2ff50c13692aed`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung118Karten und Ebenenprüfung431Karten/862Seiten lokal/live bestanden. Nächster Schritt187192, danach187193–187196;2052 nur Kontext,2055 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+## MA-121 · App1.422 · 25.11.2026
+
+Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für das dekadische Bündelungsprinzip: zehn Einheiten einer Stelle und eine Einheit der nächsthöheren Stelle stellen denselben Wert dar. GS187192 ist ein Unterpunkt von Darstellen2055 unter Anwenden2052; Bündeln und Entbündeln sind in der GS-Bemerkung genannt. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Der werterhaltende Austausch in beiden Richtungen ist eine didaktische Konkretisierung dieses Strukturbelegs; eine eigene amtliche FSP-Zielhandlung Entbündeln wird daraus nicht behauptet.
+
+Amtliche Lernzielebenen: GS Anwenden2052, FSP Beherrschen35461. Anwenden umfasst Abstraktion und Transfer in unbekannte Kontexte; Beherrschen den routinemäßigen Gebrauch. Bündeln, Entbündeln, Darstellen und Entdecken sind konkrete Zielhandlungen, keine Ersatzangaben für Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht auf35468 übertragen.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Kleinere FSP-Zahlenräume sind kein Ausschlussgrund für diesen belegten Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 und das GS-Anwenden in unbekannten Kontexten sind durch das FSP-Beherrschen nicht abgedeckt.
+
+Bekanntes dekadisches Stellenwertwissen, eindeutig bestimmter Gesamtwert und eindeutige Zugehörigkeit aller Stellenanteile. Beim Austausch gehören die Einheiten zu benachbarten dekadischen Stellen; genau zehn Einheiten der niedrigeren Stelle entsprechen einer der höheren. Es wird kein Wert hinzugefügt oder entfernt; nicht beteiligte Anteile bleiben erhalten. Anzahl der Bündel, Wert eines Bündels und Wert des gesamten Anteils sind getrennt zu betrachten. Mehrstellige Bündelanzahlen einer noch nicht vollständig gebündelten Darstellung sind keine einzelne Ziffer der gewöhnlichen Zahlenschreibweise. Für GS muss der unbekannte Kontext durch die Lehrkraft beurteilt werden; ein anderer Zahlenwert allein belegt keinen Transfer.
+
+Nur der werterhaltende dekadische Austausch ist ausgewählt. Schätzen und geschickte Anzahlermittlung aus der GS-Bemerkung, andere Bündelgrößen, alle flexiblen Umgruppierungen, Rechenalgorithmen sowie weitere Inhalte des Hauptziels bleiben außerhalb. Die Zeilen187193 Stellenwertprinzip,187194 Bedeutung der Null,187195 Vernetzen und187196 Fachbegriffe bleiben zur Einzelprüfung offen. Der Gesamtabschluss von2052/2055 wird nicht behauptet. Einheitenumrechnung, Geldwechsel und Dezimalbrüche sind nicht mit erfasst.
+
+FSP1/2:37816 unter Kennen37804 nennt Bündeln in der Bemerkung und Anzahlkonstanz, legt dort aber keine dekadische Bündelgröße fest.37859 unter Einblick gewinnen37851 nennt Teilmengen/Bündeln;37871 unter demselben Hauptziel nennt zweistellige Zahlstruktur mit Zehnern/Einern in der Bemerkung. Diese positiven Teilbelege wurden nicht allein wegen kleinerer Zahlenräume ausgeschlossen; ihre eigenen Zeilen erhalten keine erfundene zusätzliche Obergrenze. FSP3/4:35468 unter Beherrschen35461 wird wegen stufengleichem Band und gemeinsamem ausdrücklichem Bündelungs-/Positionssystembezug bevorzugt.35502 unter Kennen35498 nennt Entbündelung im Minuenden ausdrücklich in der Bemerkung zum Abziehverfahren. Dieser verwandte Beleg bleibt an das schriftliche Subtraktionsverfahren gebunden; er wird nicht als allgemeines Beherrschen des Bündelungsprinzips ausgegeben. Auf der ausgewählten Karte ist die Umkehrung stattdessen ausdrücklich didaktische Konkretisierung des Bündelungsbezugs, kein zusätzliches amtliches Unterziel.
+
+Eine Erstprüfung, keine neue Inventurzeile.118 Bestandskarten und431 Ebeneneinträge unverändert; MA-113/118 gezielt erneut abgegrenzt. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal bestanden. Veröffentlichung und Liveprüfung ausstehend.

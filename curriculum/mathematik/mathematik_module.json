@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-24.4",
-  "checked_on": "2026-11-24",
+  "version": "MA-2026-11-25.1",
+  "checked_on": "2026-11-25",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1801,6 +1801,12 @@
       "id": "Q-MA-page912_2055",
       "title": "GS Mathematik 3 · Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2055",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187192",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187192",
       "version": "2026"
     }
   ],
@@ -11330,6 +11336,89 @@
           "Q-MA-page139_35461"
         ],
         "planning_rule": "Voraussetzung ist bekanntes dekadisches Stellenwertwissen und eine eindeutig bestimmte natürliche Zahl. Jede Ziffer wird ihrer Stelle und dem Wert ihres Stellenanteils zugeordnet; unbesetzte Stellen werden durch Null korrekt berücksichtigt. Die Summe der Stellenanteile muss genau den Zahlwert ergeben. Gewöhnliche dezimale Zahlenschreibweise; keine Dezimalbrüche oder Einheiten. Der Grenzwert100 gehört zum FSP-Rahmen; keine erfundene99-Grenze. Das Merkmal eines für das Kind noch nicht eingeübten GS-Kontexts muss die Lehrkraft gesondert beurteilen; ein bloßer Wechsel des Zahlenwerts belegt noch keinen Transfer. Keine bestimmte Aufgabe, Lernhandlung oder bestimmtes Hilfsmittel wird vorgegeben. Alle relevanten FSP-Ausgangszahlen, Stellenanteilwerte, Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Jede Teilsumme und der dargestellte Gesamtwert bleiben innerhalb dieser Grenze. Eigene Lehrkraftentwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-119",
+      "subject": "Mathematik",
+      "theme": "Wertgleich bündeln und entbündeln · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl.3 · Bündelungsprinzip187192 unter Darstellen2055 und Anwenden2052 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Zahlenaufbau35468 unter Beherrschen35461 bis100; Bündelung und dekadisches Positionssystem in Bemerkung",
+      "gs_operator": "Anwenden",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Anwenden2052, FSP Beherrschen35461. Anwenden umfasst Abstraktion und Transfer in unbekannte Kontexte; Beherrschen den routinemäßigen Gebrauch. Bündeln, Entbündeln, Darstellen und Entdecken sind konkrete Zielhandlungen, keine Ersatzangaben für Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht auf35468 übertragen. Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für das dekadische Bündelungsprinzip: zehn Einheiten einer Stelle und eine Einheit der nächsthöheren Stelle stellen denselben Wert dar. GS187192 ist ein Unterpunkt von Darstellen2055 unter Anwenden2052; Bündeln und Entbündeln sind in der GS-Bemerkung genannt. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Der werterhaltende Austausch in beiden Richtungen ist eine didaktische Konkretisierung dieses Strukturbelegs; eine eigene amtliche FSP-Zielhandlung Entbündeln wird daraus nicht behauptet. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Kleinere FSP-Zahlenräume sind kein Ausschlussgrund für diesen belegten Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 und das GS-Anwenden in unbekannten Kontexten sind durch das FSP-Beherrschen nicht abgedeckt. Nur der werterhaltende dekadische Austausch ist ausgewählt. Schätzen und geschickte Anzahlermittlung aus der GS-Bemerkung, andere Bündelgrößen, alle flexiblen Umgruppierungen, Rechenalgorithmen sowie weitere Inhalte des Hauptziels bleiben außerhalb. Die Zeilen187193 Stellenwertprinzip,187194 Bedeutung der Null,187195 Vernetzen und187196 Fachbegriffe bleiben zur Einzelprüfung offen. Der Gesamtabschluss von2052/2055 wird nicht behauptet. Einheitenumrechnung, Geldwechsel und Dezimalbrüche sind nicht mit erfasst.",
+      "gs_target_ids": [
+        "page912_2052",
+        "page912_2055",
+        "page912_187192"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35468"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2052",
+        "Q-MA-page912_2055",
+        "Q-MA-page912_187192",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35468"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für das dekadische Bündelungsprinzip: zehn Einheiten einer Stelle und eine Einheit der nächsthöheren Stelle stellen denselben Wert dar. GS187192 ist ein Unterpunkt von Darstellen2055 unter Anwenden2052; Bündeln und Entbündeln sind in der GS-Bemerkung genannt. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Der werterhaltende Austausch in beiden Richtungen ist eine didaktische Konkretisierung dieses Strukturbelegs; eine eigene amtliche FSP-Zielhandlung Entbündeln wird daraus nicht behauptet. Amtliche Lernzielebenen: GS Anwenden2052, FSP Beherrschen35461. Anwenden umfasst Abstraktion und Transfer in unbekannte Kontexte; Beherrschen den routinemäßigen Gebrauch. Bündeln, Entbündeln, Darstellen und Entdecken sind konkrete Zielhandlungen, keine Ersatzangaben für Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht auf35468 übertragen. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Kleinere FSP-Zahlenräume sind kein Ausschlussgrund für diesen belegten Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 und das GS-Anwenden in unbekannten Kontexten sind durch das FSP-Beherrschen nicht abgedeckt. Bekanntes dekadisches Stellenwertwissen, eindeutig bestimmter Gesamtwert und eindeutige Zugehörigkeit aller Stellenanteile. Beim Austausch gehören die Einheiten zu benachbarten dekadischen Stellen; genau zehn Einheiten der niedrigeren Stelle entsprechen einer der höheren. Es wird kein Wert hinzugefügt oder entfernt; nicht beteiligte Anteile bleiben erhalten. Anzahl der Bündel, Wert eines Bündels und Wert des gesamten Anteils sind getrennt zu betrachten. Mehrstellige Bündelanzahlen einer noch nicht vollständig gebündelten Darstellung sind keine einzelne Ziffer der gewöhnlichen Zahlenschreibweise. Für GS muss der unbekannte Kontext durch die Lehrkraft beurteilt werden; ein anderer Zahlenwert allein belegt keinen Transfer. Nur der werterhaltende dekadische Austausch ist ausgewählt. Schätzen und geschickte Anzahlermittlung aus der GS-Bemerkung, andere Bündelgrößen, alle flexiblen Umgruppierungen, Rechenalgorithmen sowie weitere Inhalte des Hauptziels bleiben außerhalb. Die Zeilen187193 Stellenwertprinzip,187194 Bedeutung der Null,187195 Vernetzen und187196 Fachbegriffe bleiben zur Einzelprüfung offen. Der Gesamtabschluss von2052/2055 wird nicht behauptet. Einheitenumrechnung, Geldwechsel und Dezimalbrüche sind nicht mit erfasst.",
+      "shared_object_suggestion": "Der unveränderte Zahlwert bei dekadischem Bündeln und Entbündeln benachbarter Stellen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind wendet das dekadische Bündelungsprinzip in einem noch nicht eingeübten Zusammenhang auf eine natürliche Zahl bis 1 000 an und erhält beim Bündeln und Entbündeln zwischen benachbarten Stellen den Gesamtwert.",
+          "criterion": "Zehn Einheiten der niedrigeren Stelle und eine Einheit der nächsthöheren Stelle werden in beiden Richtungen wertgleich aufeinander bezogen. Nicht beteiligte Stellenanteile bleiben erhalten. Bekanntes Bündelungswissen wird auf den unbekannten Zusammenhang übertragen; bloße Wiederholung genügt diesem Ausschnitt nicht. Alle relevanten Zahlen, Bündelanzahlen, Stellenanteilwerte sowie Zwischen- und Endergebnisse bleiben bis 1 000.",
+          "status": "Didaktischer Ausschnitt von187192 unter Anwenden2052; kein vollständiger Nachweis des Hauptziels."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind nutzt die dekadische Bündelungsbeziehung im vertrauten Alltagskontext sicher in beiden Richtungen, um Darstellungen einer natürlichen Zahl bis 100 wertgleich umzugruppieren.",
+          "criterion": "Zehn Einer entsprechen einem Zehner und zehn Zehner einem Hunderter; die Beziehung stimmt auch in umgekehrter Richtung. Nur tatsächlich vorhandene Anteile werden umgruppiert; nicht beteiligte Anteile bleiben erhalten. Gesamtwert und alle relevanten Zahlen, Bündelanzahlen, Stellenanteilwerte sowie Zwischen- und Endergebnisse bleiben bis 100. Der Gesamtwert verändert sich bei keinem Austausch.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung des Bündelungs-/Positionssystembezugs in Bemerkung35468 unter Beherrschen35461; Umkehrung nicht als eigene amtliche FSP-Zielhandlung ausgegeben."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2052",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Kleinere FSP-Zahlenräume sind kein Ausschlussgrund für diesen belegten Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 und das GS-Anwenden in unbekannten Kontexten sind durch das FSP-Beherrschen nicht abgedeckt.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187192 verbindlicher Inhaltsunterpunkt unter2055/2052;2052 liefert Anwenden und Zahlenraum.2055 und2052 sind auf dieser Karte nur Kontext, keine erneute Erstentscheidung. Bündeln/Entbündeln stehen in der Bemerkung187192.",
+        "fsp": "35468 verbindliches Strukturunterziel unter35461. Bündelung und dekadisches Positionssystem stehen in Bemerkung35468; werterhaltende Umkehrung didaktisch konkretisiert. Keine Entbündelungszielzeile erfunden.",
+        "context_only_gs_ids": [
+          "page912_2052",
+          "page912_2055"
+        ],
+        "fsp_remark_anchor": "page139_35468"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlwerte und Bündelungsdarstellungen bis 100",
+        "detail": "Bis100 ausdrücklich im Hauptziel35461.35468 enthält den Strukturbezug, seine Bemerkung Bündelung und dekadisches Positionssystem. Das Austauschverhältnis und seine Umkehrung sind didaktische Konkretisierung; die numerische Grenze ist ausdrücklich und nicht aus einem übergreifenden Ziel abgeleitet. GS2052 verlangt bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Bekanntes dekadisches Stellenwertwissen, eindeutig bestimmter Gesamtwert und eindeutige Zugehörigkeit aller Stellenanteile. Beim Austausch gehören die Einheiten zu benachbarten dekadischen Stellen; genau zehn Einheiten der niedrigeren Stelle entsprechen einer der höheren. Es wird kein Wert hinzugefügt oder entfernt; nicht beteiligte Anteile bleiben erhalten. Anzahl der Bündel, Wert eines Bündels und Wert des gesamten Anteils sind getrennt zu betrachten. Mehrstellige Bündelanzahlen einer noch nicht vollständig gebündelten Darstellung sind keine einzelne Ziffer der gewöhnlichen Zahlenschreibweise. Für GS muss der unbekannte Kontext durch die Lehrkraft beurteilt werden; ein anderer Zahlenwert allein belegt keinen Transfer. FSP: Einer/Zehner und Zehner/Hunderter innerhalb des ausdrücklich belegten Zahlenraums bis 100. Der Grenzwert100 wird eingeschlossen; kein FSP-Tausenderübergang. Alle Ausgangswerte, Bündelanzahlen, Werte der Stellenanteile, relevanten Teilsummen sowie Zwischen- und Endergebnisse bleiben bis 100; der Gesamtwert bleibt bei jedem Austausch gleich. Keine negativen Anteile, Dezimalbrüche oder Größenumrechnungen. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
       }
     }
   ]

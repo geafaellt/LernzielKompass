@@ -1,0 +1,203 @@
+{
+  "id": "MA-121",
+  "date": "2026-11-25",
+  "base_commit": "b9825c826342c8af285e4b25459d00e39b9b9bd8",
+  "scope": "GS3 Bündelungsprinzip187192 unter2055/2052; wertgleicher dekadischer Austausch in beiden Richtungen.",
+  "source_verification": {
+    "html": "Amtliche GS912 und FSP139 erneut gelesen: GS187192 mit Hierarchie, FSP1/2 Mengenstruktur/Rechenhandlungen/zweistellige Zahlen und FSP3/4 Zahlenaufbau/schriftliche Subtraktion.",
+    "pdf": "Gespeicherte amtliche MA-118-PDFs textuell erneut gelesen: DefinitionenS.V/PDF5 beider Pläne; GS S.22/PDF32; FSP S.11–12/PDF23–24 und S.19–21/PDF31–33. Kein neuer Download oder neue Renderprüfung.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_2052": {
+      "id": "page912_2052",
+      "level": 1,
+      "parent_target_id": "page912_2052",
+      "target": "Anwenden des Wissens über die Struktur des dekadischen Positionssystems und des Prinzips der Zahlbildung im Zahlenraum bis 1 000",
+      "remarks": "Stellenwertverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2052"
+    },
+    "page912_2055": {
+      "id": "page912_2055",
+      "level": 2,
+      "parent_target_id": "page912_2052",
+      "target": "Darstellen von Zahlen im dekadischen Positionssystem",
+      "remarks": "Nutzen von Mehrsystemmaterial",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2055"
+    },
+    "page912_187192": {
+      "id": "page912_187192",
+      "level": 3,
+      "parent_target_id": "page912_2052",
+      "target": "Bündelungsprinzip",
+      "remarks": "Schätzen dekadisches Bündeln und Entbündeln geschickte Anzahlermittlung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187192"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35468": {
+      "id": "page139_35468",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Entdecken von Strukturelementen im Zahlenaufbau",
+      "remarks": "Bündelung, Hunderterfeld, -tafel dekadisches Positionssystem, Stellentafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35468"
+    },
+    "page139_37804": {
+      "id": "page139_37804",
+      "level": 1,
+      "parent_target_id": "page139_37804",
+      "target": "Kennen des Umgangs mit Mengen im Alltag",
+      "remarks": "Klasse, Familie, Freundeskreis Würfel, Domino, Nutzen digitaler Medien ⇒ Förderung der Lern- und Leistungsvoraussetzungen ⇒ Sprachförderung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37804"
+    },
+    "page139_37816": {
+      "id": "page139_37816",
+      "level": 3,
+      "parent_target_id": "page139_37804",
+      "target": "Strukturieren von Mengen",
+      "remarks": "Sortieren und Bündeln Invarianz: Anzahl der Elemente bleibt bei Umordnung gleich Relevanz: Anzahl bleibt bei unterschiedlichen Merkmalen der Elemente gleich Verbindung von Relevanz und Invarianz: paarweises Zuordnen, nicht zählen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37816"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37859": {
+      "id": "page139_37859",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Bilden von Vereinigungs- und Differenzmengen",
+      "remarks": "aus aktuellem Geschehen, Situationsbildern und Rechengeschichten Zerlegen in Teilmengen, Bündeln",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37859"
+    },
+    "page139_37871": {
+      "id": "page139_37871",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Erkennen wesentlicher Strukturelemente von zweistelligen Zahlen",
+      "remarks": "Beziehung zum Zahlenaufbau: 10 + 4 = 14 Sprechen, Darstellen, Verwenden von Zehner (Z) und Einer (E), Stellenwerttafel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37871"
+    },
+    "page139_35498": {
+      "id": "page139_35498",
+      "level": 1,
+      "parent_target_id": "page139_35498",
+      "target": "Kennen der schriftlichen Rechenverfahren der Addition und Subtraktion",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35498"
+    },
+    "page139_35502": {
+      "id": "page139_35502",
+      "level": 3,
+      "parent_target_id": "page139_35498",
+      "target": "Abziehverfahren",
+      "remarks": "Entbündelung im Minuenden veranschaulichen Entscheidung für individuelles Verfahren durch die Schüler",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35502"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187192",
+      "first_review": true,
+      "status": "limited_connection",
+      "card": "MA-119",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für das dekadische Bündelungsprinzip: zehn Einheiten einer Stelle und eine Einheit der nächsthöheren Stelle stellen denselben Wert dar. GS187192 ist ein Unterpunkt von Darstellen2055 unter Anwenden2052; Bündeln und Entbündeln sind in der GS-Bemerkung genannt. FSP35468 nennt Strukturelemente im Zahlenaufbau unter Beherrschen35461; Bündelung und dekadisches Positionssystem stehen in der Bemerkung. Der werterhaltende Austausch in beiden Richtungen ist eine didaktische Konkretisierung dieses Strukturbelegs; eine eigene amtliche FSP-Zielhandlung Entbündeln wird daraus nicht behauptet.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Anwenden2052, FSP Beherrschen35461. Anwenden umfasst Abstraktion und Transfer in unbekannte Kontexte; Beherrschen den routinemäßigen Gebrauch. Bündeln, Entbündeln, Darstellen und Entdecken sind konkrete Zielhandlungen, keine Ersatzangaben für Lernzielebenen. Das Kennen aus dem anderen FSP-Hauptziel35498 wird nicht auf35468 übertragen.",
+      "prerequisites": "Bekanntes dekadisches Stellenwertwissen, eindeutig bestimmter Gesamtwert und eindeutige Zugehörigkeit aller Stellenanteile. Beim Austausch gehören die Einheiten zu benachbarten dekadischen Stellen; genau zehn Einheiten der niedrigeren Stelle entsprechen einer der höheren. Es wird kein Wert hinzugefügt oder entfernt; nicht beteiligte Anteile bleiben erhalten. Anzahl der Bündel, Wert eines Bündels und Wert des gesamten Anteils sind getrennt zu betrachten. Mehrstellige Bündelanzahlen einer noch nicht vollständig gebündelten Darstellung sind keine einzelne Ziffer der gewöhnlichen Zahlenschreibweise. Für GS muss der unbekannte Kontext durch die Lehrkraft beurteilt werden; ein anderer Zahlenwert allein belegt keinen Transfer.",
+      "remaining_scope": "Nur der werterhaltende dekadische Austausch ist ausgewählt. Schätzen und geschickte Anzahlermittlung aus der GS-Bemerkung, andere Bündelgrößen, alle flexiblen Umgruppierungen, Rechenalgorithmen sowie weitere Inhalte des Hauptziels bleiben außerhalb. Die Zeilen187193 Stellenwertprinzip,187194 Bedeutung der Null,187195 Vernetzen und187196 Fachbegriffe bleiben zur Einzelprüfung offen. Der Gesamtabschluss von2052/2055 wird nicht behauptet. Einheitenumrechnung, Geldwechsel und Dezimalbrüche sind nicht mit erfasst.",
+      "uncertainty": "Entbündeln steht nicht als eigene Zielhandlung im gewählten FSP-Unterziel35468. Die Umkehrung desselben werterhaltenden Zehn-zu-eins-Verhältnisses wird ausdrücklich didaktisch konkretisiert. Keine pauschale Deckung aller Entbündelungsverfahren.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlwerte und Bündelungsdarstellungen bis 100",
+        "detail": "Bis100 ausdrücklich im Hauptziel35461.35468 enthält den Strukturbezug, seine Bemerkung Bündelung und dekadisches Positionssystem. Das Austauschverhältnis und seine Umkehrung sind didaktische Konkretisierung; die numerische Grenze ist ausdrücklich und nicht aus einem übergreifenden Ziel abgeleitet. GS2052 verlangt bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Bekanntes dekadisches Stellenwertwissen, eindeutig bestimmter Gesamtwert und eindeutige Zugehörigkeit aller Stellenanteile. Beim Austausch gehören die Einheiten zu benachbarten dekadischen Stellen; genau zehn Einheiten der niedrigeren Stelle entsprechen einer der höheren. Es wird kein Wert hinzugefügt oder entfernt; nicht beteiligte Anteile bleiben erhalten. Anzahl der Bündel, Wert eines Bündels und Wert des gesamten Anteils sind getrennt zu betrachten. Mehrstellige Bündelanzahlen einer noch nicht vollständig gebündelten Darstellung sind keine einzelne Ziffer der gewöhnlichen Zahlenschreibweise. Für GS muss der unbekannte Kontext durch die Lehrkraft beurteilt werden; ein anderer Zahlenwert allein belegt keinen Transfer. FSP: Einer/Zehner und Zehner/Hunderter innerhalb des ausdrücklich belegten Zahlenraums bis 100. Der Grenzwert100 wird eingeschlossen; kein FSP-Tausenderübergang. Alle Ausgangswerte, Bündelanzahlen, Werte der Stellenanteile, relevanten Teilsummen sowie Zwischen- und Endergebnisse bleiben bis 100; der Gesamtwert bleibt bei jedem Austausch gleich. Keine negativen Anteile, Dezimalbrüche oder Größenumrechnungen. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
+      }
+    }
+  ],
+  "context_only": [
+    "page912_2052",
+    "page912_2055"
+  ],
+  "band_selection": "FSP1/2:37816 unter Kennen37804 nennt Bündeln in der Bemerkung und Anzahlkonstanz, legt dort aber keine dekadische Bündelgröße fest.37859 unter Einblick gewinnen37851 nennt Teilmengen/Bündeln;37871 unter demselben Hauptziel nennt zweistellige Zahlstruktur mit Zehnern/Einern in der Bemerkung. Diese positiven Teilbelege wurden nicht allein wegen kleinerer Zahlenräume ausgeschlossen; ihre eigenen Zeilen erhalten keine erfundene zusätzliche Obergrenze. FSP3/4:35468 unter Beherrschen35461 wird wegen stufengleichem Band und gemeinsamem ausdrücklichem Bündelungs-/Positionssystembezug bevorzugt.35502 unter Kennen35498 nennt Entbündelung im Minuenden ausdrücklich in der Bemerkung zum Abziehverfahren. Dieser verwandte Beleg bleibt an das schriftliche Subtraktionsverfahren gebunden; er wird nicht als allgemeines Beherrschen des Bündelungsprinzips ausgegeben. Auf der ausgewählten Karte ist die Umkehrung stattdessen ausdrücklich didaktische Konkretisierung des Bündelungsbezugs, kein zusätzliches amtliches Unterziel.",
+  "existing_cards_rechecked": [
+    "MA-113",
+    "MA-118"
+  ],
+  "existing_card_review": "MA-113 bildet/zerlegt Zahlen in kanonische Stellenwertanteile unter GS-Beherrschen187182; MA-118 stellt Zahlen unter GS-Anwenden2052 dar. Beide bleiben mit ihren Grenzen und Ebenen unverändert. Keine von beiden prüft bisher ausdrücklich die Wertkonstanz des Austauschs zehn zu eins und zurück mit nichtkanonischen Zwischenzuständen; neuer Ausschnitt aufMA-119.2055 nicht erneut als Erstprüfung gezählt.",
+  "counts": {
+    "first_reviews_this_batch": 1,
+    "new_cards": 1,
+    "cards_total": 119,
+    "same_band": 90,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 14,
+    "inventory_rows": 213,
+    "new_inventory_rows": 0,
+    "source_links": 283,
+    "target_anchors": 281
+  },
+  "tests": {
+    "status": "local_passed",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-25\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 119 mathematics cards, 283 source links (281 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 119 mathematics cards, 283 source links (281 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "preservation": "118 bestehende Mathematikkarten und431 bestehende Ebeneneinträge unverändert; keine anderen Fachbestände geändert; index.html und dist/index.html identisch.",
+    "limits": "Keine neue vollständige semantische Gesamtprüfung aller Bestandskarten; MA-113/118 gezielt erneut abgegrenzt. Keine UI-Codeänderung.",
+    "local_browser": "PASS:119 Mathematikkarten, Quellen, Scope auf Karte/Zielen/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, erhaltene Lehrkrafttexte, Fachwechsel und Mobilregressionen.",
+    "local_learning_levels": "PASS:432Karten/864Seiten, amtliche Belege und Ausschluss von Zielhandlungen."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.422"
+  },
+  "continuation": {
+    "next_id": "page912_187193",
+    "next_step": "GS3 Stellenwertprinzip187193 und Bedeutung der Null187194 unter Darstellen2055/Anwenden2052 einzeln prüfen, danach187195/187196. MA-121 hat187192 aufMA-119 für wertgleiches dekadisches Bündeln/Entbündeln begrenzt zugeordnet. FSP-Umkehrung ausdrücklich didaktisch, nicht eigene amtliche Zielhandlung.119 Karten,22 offene Anschlussfragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen. App1.422: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

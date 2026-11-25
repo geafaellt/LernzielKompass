@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.421** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.422** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -244,3 +244,6 @@ Mathematik MA-120: Stellenwertdarstellung GS-Anwenden/FSP-Beherrschen getrennt (
 
 
 MA-120 veröffentlicht: App1.421, Commit `c8c521288c79277a6a20658aff9fc44dcdc12c9b`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45561240383). Live-App bytegleich, SHA-256 `ca6c0b2f519541d5d7c3edc044b93f5e6a7c38913e72131d2a2ff50c13692aed`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung118Karten und Ebenenprüfung431Karten/862Seiten lokal/live bestanden. Nächster Schritt187192, danach187193–187196;2052 nur Kontext,2055 begrenzt geprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+Mathematik MA-121: wertgleiches dekadisches Bündeln/Entbündeln, GS-Anwenden/FSP-Beherrschen, Grenzen1000/100.119 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_121.json). App1.422: sechs Datenprüfungen, vollständige Mathematikprüfung119Karten und Ebenenprüfung432Karten/864Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
