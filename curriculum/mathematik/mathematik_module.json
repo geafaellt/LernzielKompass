@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-24.3",
+  "version": "MA-2026-11-24.4",
   "checked_on": "2026-11-24",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1789,6 +1789,18 @@
       "id": "Q-MA-page912_187191",
       "title": "GS Mathematik 3 · Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187191",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2052",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2052",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2055",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2055",
       "version": "2026"
     }
   ],
@@ -11238,6 +11250,86 @@
           "Q-MA-page139_35461"
         ],
         "planning_rule": "Vertrauter Alltagskontext, eindeutige Zugehörigkeit der dargestellten Elemente und eindeutige Zuordnung jeder der beiden Anzahlen zur betreffenden Ziffernschreibweise. Jedes Bildelement steht hier für eine Einheit; keine gewichteten Symbole oder Skalen. Beim Wechsel bleibt jede Anzahl und damit ihre Größenbeziehung erhalten; räumliche Ausdehnung, Anordnung oder Elementgröße sind kein Zahlwert. Gleich große Anzahlen bleiben gleichwertig. Keine bestimmte Vergleichszeichen- oder Fachwortform wird gefordert; die Zeichenforderung aus FSP1/2 wird nicht in3/4 übertragen. Alle relevanten FSP-Zahlen, Anzahlen, Teilanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Die beiden verglichenen Mengen werden nicht zu einer zusätzlichen Gesamtmenge vereinigt. Einheiten, besondere Schreibweisen und nichtnumerische Ziele benötigen gesonderte Prüfung. Aufgaben, Lernhandlungen und Hilfsmittel bestimmt die Lehrkraft. Eigene Freitexte bleiben erhalten und sind nicht automatisch fachlich validiert."
+      }
+    },
+    {
+      "id": "MA-118",
+      "subject": "Mathematik",
+      "theme": "Stellenwertwissen beim Darstellen von Zahlen anwenden · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl.3 · Zahl und Operation · Darstellen2055 unter Anwenden2052 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl. 3/4 · Die Welt um mich herum · Zahlenaufbau35468 unter Beherrschen35461 bis 100; dekadisches Positionssystem in Bemerkung",
+      "gs_operator": "Anwenden",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Anwenden aus Hauptziel2052; FSP Beherrschen aus Hauptziel35461. Anwenden verlangt Abstraktion und Transfer in unbekannten Kontexten, Beherrschen routinemäßigen Gebrauch von Handlungs- und Verfahrensweisen. Darstellen und Entdecken sind konkrete Zielhandlungen, keine Lernzielebenen. Der FSP-Beleg erhält kein erfundenes Anwenden. Stufenbandpassender Teilanschluss GS3 → FSP3/4 für die Darstellung einer natürlichen Zahl im dekadischen Positionssystem. GS2055 steht unter Anwenden2052 bis1 000; FSP35468 zum Zahlenaufbau unter Beherrschen35461 bis100. Das dekadische Positionssystem steht in der FSP-Bemerkung, Darstellen in der Hauptzielbemerkung. Die eindeutige Zuordnung von Ziffer, Stelle und Wert der Stellenanteile ist eine didaktische Konkretisierung dieser Belege. Auf GS-Seite wird das bekannte Stellenwertwissen auf einen noch nicht eingeübten Zusammenhang übertragen; auf FSP-Seite bleibt der Ausschnitt im vertrauten Alltagskontext. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere Zahlenraum trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Zusätzlich bleibt der Unterschied Anwenden/Beherrschen bestehen. Keine vollständige GS-Zieldeckung: FSP bis100 statt GS bis1 000 und routiniertes Darstellen statt Nachweis des GS-Transfers in unbekannte Kontexte. Hauptziel2052 bleibt nur Kontext, nicht insgesamt abgeschlossen. Bündeln/Entbündeln187192, die gesonderte Einzelprüfung des Stellenwertprinzips187193, der Null187194, Darstellungsvernetzung187195 und Fachbegriffe187196 bleiben offen. Die notwendige Berücksichtigung leerer Stellen in dieser Karte ist keine vollständige Prüfung der Null-Zielzeile. Allgemeine Zahlbildung, beliebige additive Zerlegungen, flexible Umgruppierungen und Rechenalgorithmen werden nicht zusätzlich abgedeckt.",
+      "gs_target_ids": [
+        "page912_2052",
+        "page912_2055"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35468"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2052",
+        "Q-MA-page912_2055",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35468"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Stufenbandpassender Teilanschluss GS3 → FSP3/4 für die Darstellung einer natürlichen Zahl im dekadischen Positionssystem. GS2055 steht unter Anwenden2052 bis1 000; FSP35468 zum Zahlenaufbau unter Beherrschen35461 bis100. Das dekadische Positionssystem steht in der FSP-Bemerkung, Darstellen in der Hauptzielbemerkung. Die eindeutige Zuordnung von Ziffer, Stelle und Wert der Stellenanteile ist eine didaktische Konkretisierung dieser Belege. Auf GS-Seite wird das bekannte Stellenwertwissen auf einen noch nicht eingeübten Zusammenhang übertragen; auf FSP-Seite bleibt der Ausschnitt im vertrauten Alltagskontext. Amtliche Lernzielebenen: GS Anwenden aus Hauptziel2052; FSP Beherrschen aus Hauptziel35461. Anwenden verlangt Abstraktion und Transfer in unbekannten Kontexten, Beherrschen routinemäßigen Gebrauch von Handlungs- und Verfahrensweisen. Darstellen und Entdecken sind konkrete Zielhandlungen, keine Lernzielebenen. Der FSP-Beleg erhält kein erfundenes Anwenden. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere Zahlenraum trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Zusätzlich bleibt der Unterschied Anwenden/Beherrschen bestehen. Voraussetzung ist bekanntes dekadisches Stellenwertwissen und eine eindeutig bestimmte natürliche Zahl. Jede Ziffer wird ihrer Stelle und dem Wert ihres Stellenanteils zugeordnet; unbesetzte Stellen werden durch Null korrekt berücksichtigt. Die Summe der Stellenanteile muss genau den Zahlwert ergeben. Gewöhnliche dezimale Zahlenschreibweise; keine Dezimalbrüche oder Einheiten. Der Grenzwert100 gehört zum FSP-Rahmen; keine erfundene99-Grenze. Das Merkmal eines für das Kind noch nicht eingeübten GS-Kontexts muss die Lehrkraft gesondert beurteilen; ein bloßer Wechsel des Zahlenwerts belegt noch keinen Transfer. Keine bestimmte Aufgabe, Lernhandlung oder bestimmtes Hilfsmittel wird vorgegeben. Keine vollständige GS-Zieldeckung: FSP bis100 statt GS bis1 000 und routiniertes Darstellen statt Nachweis des GS-Transfers in unbekannte Kontexte. Hauptziel2052 bleibt nur Kontext, nicht insgesamt abgeschlossen. Bündeln/Entbündeln187192, die gesonderte Einzelprüfung des Stellenwertprinzips187193, der Null187194, Darstellungsvernetzung187195 und Fachbegriffe187196 bleiben offen. Die notwendige Berücksichtigung leerer Stellen in dieser Karte ist keine vollständige Prüfung der Null-Zielzeile. Allgemeine Zahlbildung, beliebige additive Zerlegungen, flexible Umgruppierungen und Rechenalgorithmen werden nicht zusätzlich abgedeckt.",
+      "shared_object_suggestion": "Die Darstellung einer natürlichen Zahl durch Ziffern, Stellen und zugehörige Stellenwerte.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind wendet sein bekanntes Stellenwertwissen in einem noch nicht eingeübten Zusammenhang an, um eine natürliche Zahl bis 1 000 im dekadischen Positionssystem zutreffend darzustellen.",
+          "criterion": "Die Darstellung ordnet jede Ziffer der richtigen Stelle und dem richtigen Stellenanteilwert zu; unbesetzte Stellen und der Gesamtwert stimmen. Das Stellenwertwissen wird auf den noch nicht eingeübten Zusammenhang übertragen; eine bloß eingeübte Wiederholung genügt diesem Ausschnitt nicht. Alle relevanten Zahlen, Stellenanteile sowie Zwischen- und Endergebnisse bleiben bis 1 000.",
+          "status": "Didaktische Konkretisierung von2055 unter Anwenden2052; Transfermerkmal durch Lehrkraft zu prüfen, keine vollständige Hauptzieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind stellt eine natürliche Zahl bis 100 im vertrauten Alltagskontext sicher im dekadischen Positionssystem dar und ordnet die Ziffern ihren Stellen und Stellenanteilwerten richtig zu.",
+          "criterion": "Ziffer, Stelle und Stellenanteilwert passen zusammen. Unbesetzte Stellen werden korrekt berücksichtigt; die Stellenanteile ergeben genau den dargestellten Gesamtwert. Alle relevanten Zahlen, Stellenanteilwerte, Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Ein Transfer in unbekannte Kontexte wird hier nicht als amtliche FSP-Anforderung ausgegeben.",
+          "scope_status": "explicit",
+          "range_max": 100,
+          "status": "Didaktische Konkretisierung aus35468 und den Bemerkungen unter Beherrschen35461; kein zusätzlicher amtlicher Darstellungsoperator."
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2052",
+        "fsp_source_id": "page139_35461",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere Zahlenraum trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Zusätzlich bleibt der Unterschied Anwenden/Beherrschen bestehen.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "2055 verbindliches Darstellungsunterziel unter2052.2052 liefert Ebene und Zahlenraum, bleibt nur Kontext.187192–187196 nicht mitgeprüft.",
+        "fsp": "35468 verbindliches Strukturunterziel unter35461. Dekadisches Positionssystem in Bemerkung35468; Darstellungsformen in Bemerkung35461. Gewählte Stellenwertdarstellung didaktisch konkretisiert.",
+        "context_only_gs_ids": [
+          "page912_2052"
+        ],
+        "fsp_remark_anchor": "page139_35468"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlwerte und Stellenwertanteile bis 100",
+        "detail": "Bis100 ausdrücklich im FSP-Hauptziel35461;35468 trägt den Strukturbezug, das dekadische Positionssystem steht in dessen Bemerkung. Die Darstellungsanforderung ist didaktisch konkretisiert; die Grenze ist nicht aus einem übergreifenden Ziel abgeleitet. GS2052 bis1 000 und Anwenden bleiben weitergehend.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461"
+        ],
+        "planning_rule": "Voraussetzung ist bekanntes dekadisches Stellenwertwissen und eine eindeutig bestimmte natürliche Zahl. Jede Ziffer wird ihrer Stelle und dem Wert ihres Stellenanteils zugeordnet; unbesetzte Stellen werden durch Null korrekt berücksichtigt. Die Summe der Stellenanteile muss genau den Zahlwert ergeben. Gewöhnliche dezimale Zahlenschreibweise; keine Dezimalbrüche oder Einheiten. Der Grenzwert100 gehört zum FSP-Rahmen; keine erfundene99-Grenze. Das Merkmal eines für das Kind noch nicht eingeübten GS-Kontexts muss die Lehrkraft gesondert beurteilen; ein bloßer Wechsel des Zahlenwerts belegt noch keinen Transfer. Keine bestimmte Aufgabe, Lernhandlung oder bestimmtes Hilfsmittel wird vorgegeben. Alle relevanten FSP-Ausgangszahlen, Stellenanteilwerte, Bündelanzahlen sowie Zwischen- und Endergebnisse bleiben bis 100. Jede Teilsumme und der dargestellte Gesamtwert bleiben innerhalb dieser Grenze. Eigene Lehrkraftentwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
       }
     }
   ]

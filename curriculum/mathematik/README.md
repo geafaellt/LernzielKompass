@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-119
+# Mathematik-Abgleich · MA-120
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertsiebzehn Karten dokumentieren begrenzte Anschlüsse. Achtundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertachtzehn Karten dokumentieren begrenzte Anschlüsse. Neunundachtzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Stellenwert-Hauptziel2052 und2055, danach187192–187196. [MA-119](review_batch_119.json) ordnet187191 begrenzt aufMA-117 zu.117 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen;7 neue Zeilen nur inventarisiert.
+Fortsetzung beiGS3 Bündelungsprinzip187192, danach187193–187196. [MA-120](review_batch_120.json) ordnet2055 begrenzt aufMA-118 zu;2052 nur Kontext.118 Karten,22 Fragen,14 ganze Zeilen ohne direkten Anschluss,213 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1322,3 +1322,20 @@ Eine Erstprüfung und eine neue Karte, keine Doppelzählung der Vergleichs-/Zahl
 
 
 MA-119 veröffentlicht: App1.420, Commit `ef0e9ae054f54ab2a6b460e8f88308f4ec983006`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45378166283). Live-App bytegleich, SHA-256 `7da7ef8eb811aa53408c744790a042e8070ffa1934cf5fa81f559a7c8cbca964`. Alle sechs Datenprüfungen, vollständige Mathematikprüfung117Karten und Ebenenprüfung430Karten/860Seiten lokal/live bestanden. Nächster Schritt2052/2055, danach187192–187196;7 neue Inventurzeilen noch ungeprüft.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss.
+
+
+## MA-120 · App1.421 · 24.11.2026
+
+Stufenbandpassender Teilanschluss GS3 → FSP3/4 für die Darstellung einer natürlichen Zahl im dekadischen Positionssystem. GS2055 steht unter Anwenden2052 bis1 000; FSP35468 zum Zahlenaufbau unter Beherrschen35461 bis100. Das dekadische Positionssystem steht in der FSP-Bemerkung, Darstellen in der Hauptzielbemerkung. Die eindeutige Zuordnung von Ziffer, Stelle und Wert der Stellenanteile ist eine didaktische Konkretisierung dieser Belege. Auf GS-Seite wird das bekannte Stellenwertwissen auf einen noch nicht eingeübten Zusammenhang übertragen; auf FSP-Seite bleibt der Ausschnitt im vertrauten Alltagskontext.
+
+Amtliche Lernzielebenen: GS Anwenden aus Hauptziel2052; FSP Beherrschen aus Hauptziel35461. Anwenden verlangt Abstraktion und Transfer in unbekannten Kontexten, Beherrschen routinemäßigen Gebrauch von Handlungs- und Verfahrensweisen. Darstellen und Entdecken sind konkrete Zielhandlungen, keine Lernzielebenen. Der FSP-Beleg erhält kein erfundenes Anwenden.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 aus Hauptziel2052; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Hauptziel35461. Der kleinere Zahlenraum trägt einen fachlichen Teilanschluss, keine vollständige GS-Zieldeckung. Zusätzlich bleibt der Unterschied Anwenden/Beherrschen bestehen.
+
+Voraussetzung ist bekanntes dekadisches Stellenwertwissen und eine eindeutig bestimmte natürliche Zahl. Jede Ziffer wird ihrer Stelle und dem Wert ihres Stellenanteils zugeordnet; unbesetzte Stellen werden durch Null korrekt berücksichtigt. Die Summe der Stellenanteile muss genau den Zahlwert ergeben. Gewöhnliche dezimale Zahlenschreibweise; keine Dezimalbrüche oder Einheiten. Der Grenzwert100 gehört zum FSP-Rahmen; keine erfundene99-Grenze. Das Merkmal eines für das Kind noch nicht eingeübten GS-Kontexts muss die Lehrkraft gesondert beurteilen; ein bloßer Wechsel des Zahlenwerts belegt noch keinen Transfer. Keine bestimmte Aufgabe, Lernhandlung oder bestimmtes Hilfsmittel wird vorgegeben.
+
+Keine vollständige GS-Zieldeckung: FSP bis100 statt GS bis1 000 und routiniertes Darstellen statt Nachweis des GS-Transfers in unbekannte Kontexte. Hauptziel2052 bleibt nur Kontext, nicht insgesamt abgeschlossen. Bündeln/Entbündeln187192, die gesonderte Einzelprüfung des Stellenwertprinzips187193, der Null187194, Darstellungsvernetzung187195 und Fachbegriffe187196 bleiben offen. Die notwendige Berücksichtigung leerer Stellen in dieser Karte ist keine vollständige Prüfung der Null-Zielzeile. Allgemeine Zahlbildung, beliebige additive Zerlegungen, flexible Umgruppierungen und Rechenalgorithmen werden nicht zusätzlich abgedeckt.
+
+FSP1/2:37871 nennt zweistellige Zahlstruktur und in der Bemerkung Zehner/Einer sowie Darstellen; die zugehörige Ebene ist Einblick gewinnen37851. Ein positiver verwandter Teilbeleg, nicht allein wegen kleinerer Zahlenräume ausgeschlossen. Die Zeile selbst nennt keine zusätzliche numerische Obergrenze; keine Grenze aus der benachbarten Zeile37885 übertragen.37937/37941 unter Beherrschen37931 betreffen Mengendarstellung/Zahlzuordnung und tragen allein keine positionsbezogene Darstellung. FSP3/4:35461/35468 wird wegen des passenden gebündelten Bands und des ausdrücklichen dekadischen Strukturbezugs bevorzugt.35470/35485 behandelt Rechenhandlungen und Zahlbildungsstrategien unter Übertragen, nicht die Lernzielebene des Strukturunterziels35468; kein Übertragen daraus ausleihen.
+
+Eine neue begrenzte Zielzeilenentscheidung, Hauptziel2052 nur Kontext. MA-113 unverändert erneut abgegrenzt.117 Bestandskarten und430 bestehende Ebeneneinträge erhalten; keine Aufgaben/Hilfsmittel ergänzt. Sechs Datenprüfungen, vollständige Mathematikprüfung118Karten und Ebenenprüfung431Karten/862Seiten lokal bestanden. Veröffentlichung und Liveprüfung ausstehend.
