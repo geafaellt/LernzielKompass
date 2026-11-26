@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-133
+# Mathematik-Abgleich · MA-134
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: weitere Zahlenketten und rückwärts zu erschließende Startwerte. [MA-133](review_batch_133.json) ergänzt bestehendeMA-126 um lokalen Rechendreiecksbezug.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: subtraktive Übergänge und mehrschrittige Ketten. [MA-134](review_batch_134.json) ergänztMA-126 um lokalen additiven Ketten-Umkehrbezug.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1624,3 +1624,21 @@ Folgeprüfung187201 ohne Erstzählung und ohne neue Karte.125 übrige Mathematik
 
 
 MA-133 veröffentlicht: App1.435, Commit `0378f4bc5a38a28e75f8b81783ad15debb5b6b54`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45855776746). Live-App bytegleich, SHA-256 `097a429c03455143cb11dd7d08c3c0a9ff51d1f5ed5875e11070ac478d2a23e3`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/125/126 und Ebenenprüfung439 Karten/878 Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller126 Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: weitere Zahlenketten innerhalb187201.126 Karten,26 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Folgeprüfung187201 ohne neue Erstzählung oder Karte; bestehendeMA-126 um lokale Dreieckspaarbeziehung ergänzt. Gekoppelte Beziehungen einmal als neue Frage erfasst. Kein Gesamtabschluss. Deutsch-Abschluss und AIS-Kopierbutton unverändert.
+
+## MA-134 · App1.436 · 26.11.2026
+
+GS3 strukturierte Aufgabenformate187201: Bei genau einem additiven Übergang einer Zahlenkette sind der unmittelbar folgende Wert und der Zuwachs bekannt. Der unmittelbar vorhergehende Wert ist als fehlender Summand durch die Umkehrbeziehung bestimmbar. Dieser lokale Bezug wird auf bestehenderMA-126 ergänzt, ohne neue Karte oder Erstzählung. FSP3/4-35485 unter35479/Übertragen35470 belegt den Umkehrbezug, keine vollständige Rückwärtsstrategie für ganze Zahlenketten.
+
+Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionen beider Pläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind Zielhandlungen; rückwärts bezeichnet eine Richtung, keine Lernzielebene. Die Hauptziele Einblick gewinnen37851/38021, Anwenden38017 und Kennen35571 bleiben in ihren eigenen Kontexten.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel35479.35485 ist diesem Additions-/Subtraktionsziel untergeordnet. Der Rahmen ist damit zielzeilenbezogen belegt und nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Der GS-Zahlenraum oberhalb100 und weiterführende Mauer-/Dreiecks-/Ketten- und Strukturzusammenhänge sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund für den belegten Umkehrbezug.
+
+Genau ein additiver Übergang ist ausgewählt; Richtung, Zuwachs und unmittelbar folgender Wert sind bekannt. Genau der vorherige Wert fehlt. Der Zuwachs ist nicht größer als der Folgewert. Alle dargestellten Vorgaben sind widerspruchsfrei. GS beschreibt die Zuordnung von Ausgangswert, Zuwachs und Folgewert zur additiven Beziehung; FSP verwendet den bekannten Umkehrbezug in einem vergleichbaren lebensweltlichen Zusammenhang. Ein unmittelbarer Vorgänger ist nur beim ersten Übergang zugleich Startwert der ganzen Kette.
+
+Zahlenketten sind GS-Bemerkungsbeispiel187201 ohne vorgeschriebene Regel, Länge oder Anzahl unbekannter Glieder. Die Auswahl genau eines additiven Übergangs und seine Rückwärtsbetrachtung sind didaktisch. FSP35485 nennt den Umkehrbezug, kein vollständiges Rückwärtsverfahren für ganze Ketten. Mehrschrittige Umkehrungen, subtraktive Vorwärtsschritte, unbekannte Zuwächse und eigenständig zu entdeckende Regeln bleiben getrennt. Ein fehlender Formatname allein ist kein Nichtanschlussgrund.
+
+FSP1/2-37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und Platzhalterbeziehungen ausdrücklich bis20: positiver vorbereitender Anschluss.38021 nennt Kettenaufgaben untereigenemEinblick gewinnen;38022/38035/38037 betreffen Probieren, Lösbarkeit und Skizze.38037 zeigt eine vorwärts gerichtete gemischte Kette, keinen ausdrücklichen Nachweis ihrer vollständigen Rückwärtsrekonstruktion; keine eigene Obergrenze erfinden. Anwenden38017/38019 ist davon getrennt. FSP3/4-35475 nennt Kettenaufgaben im Einspluseins bis20, wie aufMA-125 begrenzt ausgewählt. Für den fehlenden Summanden ist dagegen35485 unter35479/Übertragen35470 der konkrete Umkehrbeleg bis100 im passenden Band. Die Kettenbemerkung35475 wird nicht mit der Grenze100 aus35479 verschmolzen.35577/35578/35580 unterKennen35571 bleiben Strategiekandidaten für komplexere Beziehungen. Der kleinere Zahlenraum allein schließt keinen Kandidaten aus.
+
+187201 bleibt begrenzt geprüft. MA-125 bleibt vorwärts gerichteter Einspluseins-Kettenausschnitt; MA-126 umfasst zusätzlich nur die lokale Rückwärtsbestimmung vor einem additiven Übergang. Weitere vorwärts additive/subtraktive Verkettung, Rückwärtsbetrachtung subtraktiver Übergänge und mehrschrittig rückwärts zu erschließende Startwerte verbleiben im bestehenden offenen Rest187201. Die26 bisherigen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Dreiecke bleiben unverändert; keine weitere Frage doppelt gezählt.
+
+Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung439/878 lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
