@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.6",
+  "version": "MA-2026-11-26.7",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1898,6 +1898,18 @@
       "title": "GS Mathematik3 · Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187200",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187201",
+      "title": "GS Mathematik3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35475",
+      "title": "FSP Mathematik3/4 · Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -11954,6 +11966,90 @@
         "Q-MA-page912_187200",
         "Q-MA-page139_35461",
         "Q-MA-page139_35466"
+      ]
+    },
+    {
+      "id": "MA-125",
+      "subject": "Mathematik",
+      "theme": "Ergebnisverknüpfung in additiven Zahlenketten · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · didaktisch eingegrenztes Format",
+      "gs_anchor": "GS Mathematik Kl.3 · Strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 bis1 000; Zahlenketten als Bemerkungsbeispiel",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Einspluseins35475 bis20 unterÜbertragen35470; Kettenaufgaben als Bemerkungsbeispiel im lebensweltlichen Zusammenhang",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Erkennen, Beschreiben, Fortsetzen und Verknüpfen sind konkrete Zielhandlungen, keine zusätzlichen Lernzielebenen. Das gedächtnismäßige Beherrschen in der Bemerkung35475 ersetzt nicht die Ebene Übertragen des Hauptziels. Beide Definitionstabellen S.V/PDF5 verlangen Verwendung bekannter Kenntnisse in vergleichbaren Kontexten; weder bloßes Wiederholen noch Transfer in unbekannten Kontext wird als gleichbedeutend ausgegeben. GS3 strukturierte Aufgabenformate187201 unter Musterziel187199 werden erstmals für die Ergebnisverknüpfung in einer additiven Zahlenkette begrenzt geprüft. Ein Ergebnis ist zugleich Ausgangszahl der nächsten Addition. GS erkennt und beschreibt diese Verknüpfung im vergleichbaren Kontext und setzt sie korrekt fort. FSP3/4 verwendet bekannte Einspluseinsbeziehungen im vergleichbaren lebensweltlichen Zusammenhang in einer Kettenaufgabe. Zahlenketten im GS und Kettenaufgaben im FSP sind Bemerkungsbeispiele. Die Auswahl einer vorwärts gerichteten additiven Verknüpfung ist didaktisch; die Formate werden nicht insgesamt gleichgesetzt. GS bis 1 000 ausdrücklich aus2064; FSP bis 20 ausdrücklich in der Unterzielzeile35475 zum Einspluseins. Die20 sind keine Obergrenze des gesamten Hauptziels35470. Die100 aus dem benachbarten Unterziel35479 und aus dem übergreifenden Bandziel35415 gelten nicht automatisch für diesen ausgewählten Einspluseinsanschluss. Keine vollständige GS-Zieldeckung: Der Zahlenbereich oberhalb20 und der umfassende Muster-/Formatanspruch bleiben außerhalb dieser Karte. Ein kleinerer Zahlenraum ist allein kein Ausschlussgrund.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35475"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199 werden erstmals für die Ergebnisverknüpfung in einer additiven Zahlenkette begrenzt geprüft. Ein Ergebnis ist zugleich Ausgangszahl der nächsten Addition. GS erkennt und beschreibt diese Verknüpfung im vergleichbaren Kontext und setzt sie korrekt fort. FSP3/4 verwendet bekannte Einspluseinsbeziehungen im vergleichbaren lebensweltlichen Zusammenhang in einer Kettenaufgabe. Zahlenketten im GS und Kettenaufgaben im FSP sind Bemerkungsbeispiele. Die Auswahl einer vorwärts gerichteten additiven Verknüpfung ist didaktisch; die Formate werden nicht insgesamt gleichgesetzt. Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Erkennen, Beschreiben, Fortsetzen und Verknüpfen sind konkrete Zielhandlungen, keine zusätzlichen Lernzielebenen. Das gedächtnismäßige Beherrschen in der Bemerkung35475 ersetzt nicht die Ebene Übertragen des Hauptziels. Beide Definitionstabellen S.V/PDF5 verlangen Verwendung bekannter Kenntnisse in vergleichbaren Kontexten; weder bloßes Wiederholen noch Transfer in unbekannten Kontext wird als gleichbedeutend ausgegeben. GS bis 1 000 ausdrücklich aus2064; FSP bis 20 ausdrücklich in der Unterzielzeile35475 zum Einspluseins. Die20 sind keine Obergrenze des gesamten Hauptziels35470. Die100 aus dem benachbarten Unterziel35479 und aus dem übergreifenden Bandziel35415 gelten nicht automatisch für diesen ausgewählten Einspluseinsanschluss. Keine vollständige GS-Zieldeckung: Der Zahlenbereich oberhalb20 und der umfassende Muster-/Formatanspruch bleiben außerhalb dieser Karte. Ein kleinerer Zahlenraum ist allein kein Ausschlussgrund. Die Folge der Additionen und ihre Verknüpfung sind geklärt. Im GS-Ausschnitt wird die Abhängigkeit zwischen Ergebnis und nächster Ausgangszahl beschrieben. Im FSP-Ausschnitt ist diese Verknüpfung bekannt; Einspluseinskenntnisse werden in einem vergleichbaren lebensweltlichen Zusammenhang verwendet. Zur eindeutigen Beschränkung auf Einspluseins werden für FSP didaktisch ausschließlich positive einstellige Summanden ausgewählt. Eine weiterverwendete Zwischensumme muss deshalb ebenfalls einstellig sein. Diese Zusatzbegrenzung ist eine didaktische Auswahl und keine neue amtliche Obergrenze. Der Lehrplan schreibt keine einheitliche Zahlenkettenregel, Kettenlänge oder Notation vor. Die Ergebnisverknüpfung ist eine eng abgegrenzte didaktische Lesart der beiden Formatbeispiele. Das FSP-Ziel fordert an dieser Stelle keine selbstständige Entdeckung oder Begründung unbekannter Strukturregeln. Allein ähnliche Formatnamen belegen weder eine Zahlenmauer mit vorgegebener Zielzahl noch Rechendreiecke.",
+      "shared_object_suggestion": "Eine Summe ist zugleich Ausgangszahl der nächsten Addition – so hängen aufeinanderfolgende Rechenschritte zusammen.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte additive Beziehungen auf eine Zahlenkette in einem vergleichbaren Zusammenhang bis 1 000, beschreibt die Verknüpfung des Ergebnisses mit der nächsten Ausgangszahl und setzt die verknüpften Additionen entsprechend fort.",
+          "criterion": "Die Beschreibung benennt, dass die vorherige Summe als Ausgangszahl der folgenden Addition eingeht; die Rechenschritte halten diese Beziehung ein. Sämtliche Ausgangszahlen, Summanden, Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 1 000. Die Erklärung betrifft die Ergebnisverknüpfung, nicht eine aus endlichen Zahlen eindeutig ableitbare allgemeine Bildungsregel.",
+          "status": "Didaktische Konkretisierung eines Bemerkungsformats; nur vorwärts gerichtete additive Ergebnisverknüpfung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet bekannte Einspluseinsbeziehungen in einer additiven Kette bis 20 in einem vergleichbaren lebensweltlichen Zusammenhang und berücksichtigt die bekannte Verknüpfung zwischen Ergebnis und nächster Ausgangszahl.",
+          "criterion": "Die Summe des vorherigen Schritts geht korrekt als erster Summand in den nächsten Schritt ein. Beide Summanden jedes Schritts sind positive einstellige Zahlen; eine weiterverwendete Zwischensumme bleibt ebenfalls einstellig. Sämtliche beteiligten Werte und relevanten Zwischen- und Endergebnisse bleiben positive ganze Zahlen bis 20. Eine zweistellige Summe ist nur als Endergebnis vorgesehen. Kein zusätzliches Entdecken oder Begründen einer unbekannten Strukturregel verlangt.",
+          "status": "Didaktische Konkretisierung des Bemerkungsformats; einstellige Summanden als zusätzliche didaktische Einschränkung.",
+          "scope_status": "explicit",
+          "range_max": 20
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 20,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35475",
+        "fsp_basis": "target_row",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 20 ausdrücklich in der Unterzielzeile35475 zum Einspluseins. Die20 sind keine Obergrenze des gesamten Hauptziels35470. Die100 aus dem benachbarten Unterziel35479 und aus dem übergreifenden Bandziel35415 gelten nicht automatisch für diesen ausgewählten Einspluseinsanschluss. Keine vollständige GS-Zieldeckung: Der Zahlenbereich oberhalb20 und der umfassende Muster-/Formatanspruch bleiben außerhalb dieser Karte. Ein kleinerer Zahlenraum ist allein kein Ausschlussgrund.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187201 verbindlicher Unterpunkt des Musterziels187199 unterÜbertragen2064. Zahlenketten sind Bemerkungsbeispiel.2064/187199 nur Kontext dieser Karte; keine Gesamtdeckung.",
+        "fsp": "35475 verbindliches Einspluseins-Unterziel unterÜbertragen35470 mit eigener ausdrücklicher Grenze20. Kettenaufgaben und gedächtnismäßiges Beherrschen sind Bemerkungen; keine separate Lernzielebene.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ],
+        "fsp_remark_anchor": "page139_35475"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Einspluseins bis 20; positive einstellige Summanden zusätzlich didaktisch ausgewählt.",
+        "detail": "Die Unterzielzeile35475 nennt selbst bis20. Kein aus dem Bandziel abgeleiteter Zahlenraum und keine Übernahme der100 aus35479. Die Beschränkung auf positive einstellige Summanden und auf einstellige weiterverwendete Zwischensummen konkretisiert den Kettenausschnitt didaktisch.",
+        "max_value": 20,
+        "source_ids": [
+          "Q-MA-page139_35475"
+        ],
+        "planning_rule": "FSP: alle Startzahlen, Summanden, Zwischensummen, weiterverwendeten Werte sowie relevanten Zwischen- und Endergebnisse bleiben positive ganze Zahlen bis 20. Zusätzlich sind beide Summanden jedes einzelnen Schritts didaktisch auf positive einstellige Zahlen eingeschränkt, damit jeder Schritt im gewählten Einspluseinsausschnitt bleibt. Wird eine Summe als erster Summand weiterverwendet, muss auch sie einstellig bleiben; eine zweistellige Summe darf hier nur Endergebnis sein. Auch ein Endergebnis bis20 berechtigt nicht zu ungeprüften größeren Zwischenwerten oder Summanden. Die einstellige Auswahl ist keine amtliche Grenze des Hauptziels, sondern didaktische Konkretisierung. Für GS bleiben alle beteiligten Zahlen und relevanten Zwischen-/Endergebnisse nichtnegative ganze Zahlen bis1 000. Keine Maßzahlen/Einheiten, Dezimalzahlen, Subtraktion, Multiplikation, rückwärts zu bestimmende Startwerte oder unbekannte Bildungsregeln im gespeicherten Feinziel. Umfang, Kontext und konkrete Darstellung legt die Lehrkraft fest. Aufgaben, Lernhandlungen und Hilfsmittel werden nicht vorgeschlagen oder automatisch befüllt. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35475"
       ]
     }
   ]

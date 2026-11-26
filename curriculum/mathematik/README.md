@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-130
+# Mathematik-Abgleich · MA-131
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertvierundzwanzig Karten dokumentieren begrenzte Anschlüsse. Fünfundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertfünfundzwanzig Karten dokumentieren begrenzte Anschlüsse. Sechsundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei GS3 strukturierte Aufgabenformate187201. [MA-130](review_batch_130.json) ergänztMA-124 für gleichschrittige Zahlenfolgen.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: Zielzahlmauern, danach weitere Formate. [MA-131](review_batch_131.json) ergänztMA-125 für additive Ergebnisverknüpfung.125 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1558,3 +1558,22 @@ Zwei Erstprüfungen187199/187200; eine neue Karte,123 Bestandskarten und436 Eben
 
 
 MA-130 veröffentlicht: App1.431, Commit `320a421d433275d81c98b5abd80a7ae869ea7923`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45824996936). Live-App bytegleich, SHA-256 `270475af09ad97dd70753b6c913b4dfe1d7d3a5bc03af19fbe996de31bc6e3bb`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-016/039/124 und Ebenenprüfung437Karten/874Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller124Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: strukturierte Aufgabenformate187201.124 Karten,24 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Zwei Erstprüfungen187199/187200; eine gemeinsame weiterführende Regelfrage einmal gezählt. Kein Gesamtabschluss. Deutsch-Abschluss unverändert.
+
+
+## MA-131 · App1.433 · 26.11.2026
+
+GS3 strukturierte Aufgabenformate187201 unter Musterziel187199 werden erstmals für die Ergebnisverknüpfung in einer additiven Zahlenkette begrenzt geprüft. Ein Ergebnis ist zugleich Ausgangszahl der nächsten Addition. GS erkennt und beschreibt diese Verknüpfung im vergleichbaren Kontext und setzt sie korrekt fort. FSP3/4 verwendet bekannte Einspluseinsbeziehungen im vergleichbaren lebensweltlichen Zusammenhang in einer Kettenaufgabe. Zahlenketten im GS und Kettenaufgaben im FSP sind Bemerkungsbeispiele. Die Auswahl einer vorwärts gerichteten additiven Verknüpfung ist didaktisch; die Formate werden nicht insgesamt gleichgesetzt.
+
+Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Erkennen, Beschreiben, Fortsetzen und Verknüpfen sind konkrete Zielhandlungen, keine zusätzlichen Lernzielebenen. Das gedächtnismäßige Beherrschen in der Bemerkung35475 ersetzt nicht die Ebene Übertragen des Hauptziels. Beide Definitionstabellen S.V/PDF5 verlangen Verwendung bekannter Kenntnisse in vergleichbaren Kontexten; weder bloßes Wiederholen noch Transfer in unbekannten Kontext wird als gleichbedeutend ausgegeben.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 20 ausdrücklich in der Unterzielzeile35475 zum Einspluseins. Die20 sind keine Obergrenze des gesamten Hauptziels35470. Die100 aus dem benachbarten Unterziel35479 und aus dem übergreifenden Bandziel35415 gelten nicht automatisch für diesen ausgewählten Einspluseinsanschluss. Keine vollständige GS-Zieldeckung: Der Zahlenbereich oberhalb20 und der umfassende Muster-/Formatanspruch bleiben außerhalb dieser Karte. Ein kleinerer Zahlenraum ist allein kein Ausschlussgrund.
+
+Die Folge der Additionen und ihre Verknüpfung sind geklärt. Im GS-Ausschnitt wird die Abhängigkeit zwischen Ergebnis und nächster Ausgangszahl beschrieben. Im FSP-Ausschnitt ist diese Verknüpfung bekannt; Einspluseinskenntnisse werden in einem vergleichbaren lebensweltlichen Zusammenhang verwendet. Zur eindeutigen Beschränkung auf Einspluseins werden für FSP didaktisch ausschließlich positive einstellige Summanden ausgewählt. Eine weiterverwendete Zwischensumme muss deshalb ebenfalls einstellig sein. Diese Zusatzbegrenzung ist eine didaktische Auswahl und keine neue amtliche Obergrenze.
+
+Der Lehrplan schreibt keine einheitliche Zahlenkettenregel, Kettenlänge oder Notation vor. Die Ergebnisverknüpfung ist eine eng abgegrenzte didaktische Lesart der beiden Formatbeispiele. Das FSP-Ziel fordert an dieser Stelle keine selbstständige Entdeckung oder Begründung unbekannter Strukturregeln. Allein ähnliche Formatnamen belegen weder eine Zahlenmauer mit vorgegebener Zielzahl noch Rechendreiecke.
+
+FSP1/2:37863 unterEinblick gewinnen37851 nennt Tabellen/Rechengitter als Differenzierung zur Addition/Subtraktion, keine eigene Obergrenze.38021 ist ein eigenes Hauptziel Einblick gewinnen im Wahlbereich4 Zahlenzauberei und nennt Kettenaufgaben in seiner Bemerkung;38037 nennt eine additive/subtraktive Kette. Nicht das Anwenden aus dem vorangehenden38017 übernehmen. Ein vorbereitender Kettenanschluss ist möglich, Zahlenrahmen20 wäre dort didaktisch aus37739 abzuleiten.38019 unterAnwenden38017 belegt Rechenmauern im Wahlbereich, jedoch nicht allein die inverse Zielzahlkonstruktion. FSP3/4:35475 unterÜbertragen35470 belegt Einspluseins bis20 und Kettenaufgaben ausdrücklich als Bemerkung. Dieser stufenbandpassende Pflichtbereichsanschluss wird für den eng gewählten additiven Ausschnitt bevorzugt.35509 unterEinblick gewinnen35504 nennt Kettenaufgabe als Darstellung von Sachverhalten mit bis zu zwei Rechenschritten; keine allgemeine Strukturuntersuchung und keine eigene Zahlengrenze.35577/35578/35580 unterKennen35571 im Wahlbereich2 belegen allgemeine Knobelstrategien, keine bestimmte Mauerregel oder Zielzahlkonstruktion.35443 unterKennen35439 betrifft Multiplikation/Division; Tabellen/Rechengitter belegen nicht automatisch eine additive Zahlenkette. Weiterführende Anschlüsse bleiben zu prüfen; kein Kandidat wird allein wegen kleinerer Zahlenräume ausgeschlossen.
+
+Die Zeile187201 bleibt für Zahlenmauern mit vorgegebener Zielzahl, Rechendreiecke, rückwärts gerichtete oder gemischte Ketten und weiterführende Strukturuntersuchung offen. Fortsetzung innerhalb derselben Zeile, zunächst Zielzahlvorgaben bei Zahlen-/Rechenmauern. Dies ist keine ganze Nichtanschlussentscheidung.24 vorhandene Anschlussfragen bleiben unverändert; der direkt nächste Rest wird im Fortsetzungspunkt und remaining_scopes geführt und nicht als erledigt ausgegeben. Eine Erstprüfung187201, keine erneute Erstzählung187199/2064.
+
+Eine Erstprüfung187201; eine neue Karte.124 Bestandskarten,437 Ebeneneinträge und der AIS-Kopierbutton ausApp1.432 erhalten. Sechs Datenprüfungen, gezielter Kartentest und Ebenenprüfung438 Karten/876 Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
