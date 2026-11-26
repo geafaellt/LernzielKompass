@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.10",
+  "version": "MA-2026-11-26.11",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12129,6 +12129,93 @@
           "Q-MA-page139_35485"
         ],
         "planning_rule": "FSP: vorgegebene Summe, bekannter und fehlender Summand sowie sämtliche relevanten Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Der bekannte Summand ist höchstens so groß wie die Summe; die Differenz ist daher nichtnegativ. Auch die Addition des gefundenen und bekannten Summanden ergibt wieder die vorgegebene Summe innerhalb100. Werden intern Teilschritte genutzt, gelten dieselben Grenzen für alle Teilbeträge und Zwischenergebnisse. GS entsprechend bis1 000, einschließlich aller beteiligten Feldwerte des ausgewählten Mauer- oder Rechendreieckszusammenhangs. Kein Überschreiten des Rahmens bei Zwischenwerten, keine Maßzahlen/Einheiten, Dezimalzahlen, negativen Ergänzungen oder multiplikativen Formatregeln. Nur eine lokale Beziehung mit genau einem fehlenden Summanden und bekannter Summe; mehrreihige freie Mauerkonstruktion oder die gleichzeitige Rekonstruktion mehrerer innerer Dreieckswerte aus mehreren Paarsummen ist nicht durch dieses Feinziel abgedeckt. Diese Auswahl ist didaktisch, keine amtlich vorgeschriebene Mauer- oder Dreiecksform. Konkreten Kontext, Aufgaben, Lernhandlungen, Darstellungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert. Im Rechendreieck ist die lokale Paarzuordnung geklärt. Weitere mit dargestellte Beziehungen müssen widerspruchsfrei sein; die lokale Ergänzung darf nicht als vollständiger Nachweis für das Gesamtformat ausgegeben werden. Beim einzelnen additiven Kettenschritt bleiben bekannter Folgewert als Summe, bekannter Zuwachs, gesuchter vorhergehender Wert und jede relevante Rückrechnung beziehungsweise Kontrolle für FSP nichtnegative ganze Zahlen bis100, für GS bis1 000. Der Zuwachs darf den bekannten Folgewert nicht überschreiten. Genau ein additiver Übergang mit bekanntem Zuwachs: keine subtraktiven Vorwärtsschritte, keine mehrschrittige Rückwärtsrekonstruktion, keine unbekannte Kettenregel. Der unmittelbare Vorgänger ist nicht ungeprüft Startwert der ganzen Kette. Die Grenze100 stammt aus35479; Einspluseinsrahmen20 und didaktische Zusatzgrenzen aufMA-125 bleiben unverändert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
+      ]
+    },
+    {
+      "id": "MA-127",
+      "subject": "Mathematik",
+      "theme": "Fehlender Ausgangswert vor einer Subtraktion · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · lokaler fehlender Minuend",
+      "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis 1 000; Zahlenketten als Bemerkungsbeispiel, lokaler subtraktiver Übergang didaktisch ausgewählt",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Lösungswege35485 unter Addieren/Subtrahieren35479 bis 100 undÜbertragen35470; Beziehung Aufgabe/Umkehraufgabe aus der Bemerkung, fehlender Minuend didaktisch konkretisiert",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis 1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 Zahlenketten im Bemerkungsformat187201: Genau ein subtraktiver Übergang wird rückwärts betrachtet. Der unmittelbar folgende Wert ist die bekannte Differenz, der bekannte Abzug der Subtrahend; gesucht ist der vorhergehende Minuend. Er wird durch Addition von Differenz und Subtrahend bestimmt. FSP3/4-35485 unter35479/Übertragen35470 belegt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe. Die Rekonstruktion dieses fehlenden Ausgangswertes wird als didaktischer Teilanschluss aufMA-127 aufgenommen. Keine ganze Rückwärts-Kettenstrategie und keine vollständige GS-Zieldeckung. Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis 1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund. Vorwärtsrichtung und Subtrahend des ausgewählten Übergangs sowie unmittelbar folgender Differenzwert sind bekannt. Genau der vorhergehende Minuend fehlt; alle anderen dargestellten Vorgaben sind widerspruchsfrei. Die Summe aus Differenz und Subtrahend ist vorab auf die Planungsgrenze zu begrenzen. GS beschreibt, wie die drei Werte im Kettenübergang zusammengehören. FSP verwendet die bekannte Umkehrbeziehung in einem vergleichbaren lebensweltlichen Zusammenhang. Der unmittelbar vorhergehende Wert ist nur beim ersten Übergang zugleich Startwert der ganzen Kette. GS187201 nennt Zahlenketten nur als Bemerkungsbeispiel ohne feste Länge, Regel oder Zahl unbekannter Glieder. Ein einzelner subtraktiver Übergang mit unbekanntem Ausgangswert ist didaktisch ausgewählt.35485 belegt den Umkehrbezug, keinen eigenständigen amtlichen Algorithmus für ganze Rückwärtsketten. Nicht mit abgedeckt sind ein unbekannter Abzug, mehrere nacheinander rückgängig zu machende Übergänge, selbstständige Entdeckung von Bildungsregeln und variable Startwertabhängigkeiten. Aus fehlendem Formatnamen folgt kein Nichtanschluss.",
+      "shared_object_suggestion": "Die ursprüngliche Zahl ergibt sich aus dem verbliebenen Wert und dem abgezogenen Anteil: Addition macht die Subtraktion rückgängig.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt die bekannte Umkehrbeziehung auf einen vergleichbaren einzelnen subtraktiven Zahlenkettenschritt bis 1 000, beschreibt die Zuordnung von Ausgangswert, Abzug und Folgewert und bestimmt den fehlenden Ausgangswert.",
+          "criterion": "Der bekannte Folgewert wird als Differenz und der bekannte Abzug als Subtrahend zugeordnet. Ihre Summe ist der gesuchte Minuend vor genau diesem Übergang. Die Beschreibung verbindet den subtraktiven Vorwärtsschritt mit der additiven Rückrechnung. Alle bekannten Werte, die entstehende Summe und relevante Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Die Summe darf die Grenze nicht überschreiten, auch wenn beide Summanden einzeln darin liegen. Ein richtiges Ergebnis ohne erkennbaren Umkehrbezug reicht nicht. Weitere dargestellte Vorgaben sind widerspruchsfrei; kein Nachweis einer ganzen Rückwärtskette.",
+          "status": "Didaktische Konkretisierung des Bemerkungsformats; genau ein bekannter subtraktiver Übergang und ein fehlender Minuend."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet die bekannte Beziehung zwischen Subtraktion und Addition in einem vergleichbaren lebensweltlichen Zusammenhang bis 100, um bei bekannter Differenz und bekanntem Subtrahenden den fehlenden Minuenden zu bestimmen.",
+          "criterion": "Bekannte Differenz und bekannter Subtrahend werden addiert; die Summe ist der gesuchte Minuend. Wird vom gefundenen Minuenden der bekannte Subtrahend abgezogen, ergibt sich die vorgegebene Differenz. Alle Ausgangswerte, Teilbeträge sowie relevanten Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Insbesondere bleibt die Summe aus Differenz und Subtrahend bis 100; zwei einzeln zulässige Werte mit größerer Summe sind ausgeschlossen. Die Umkehrbeziehung wird zur Ermittlung des fehlenden Wertes genutzt, nicht nur zur Kontrolle einer schon angegebenen Lösung.",
+          "status": "Didaktische Konkretisierung des Umkehrbelegs35485; keine amtlich vorgeschriebene Zahlenkettennotation oder vollständige Rückwärtsstrategie.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis 1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187201 verbindlicher Unterpunkt unter187199/Übertragen2064; Zahlenketten stehen in der Bemerkung. Ein einzelner subtraktiver Übergang und die Rückwärtsbestimmung seines Ausgangswertes sind didaktisch.2064/187199 nur Kontext.",
+        "fsp": "35485 ist Unterziel unter35479/Übertragen35470; Aufgabe/Umkehraufgabe steht in der Bemerkung.35479 belegt100 ausdrücklich. Fehlender Minuend didaktisch konkretisiert;35487 Kontrollzweck nicht als primäres Lösungsziel verwendet.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ],
+        "fsp_remark_anchor": "page139_35485"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100; Rekonstruktion des fehlenden Minuenden didaktisch konkretisiert.",
+        "detail": "35485 ist dem Unterziel35479 mit ausdrücklicher Grenze100 zugeordnet. Keine Ableitung aus35415. Die entstehende Summe ist der rekonstruierte Ausgangswert und unterliegt ebenfalls dieser Grenze.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35485"
+        ],
+        "planning_rule": "FSP: bekannte Differenz, bekannter Subtrahend, rekonstruierter Minuend als ihre Summe sowie alle relevanten Teilbeträge, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Die Summe aus Differenz und Subtrahend darf 100 nicht überschreiten; dass beide Summanden einzeln bis 100 liegen, genügt nicht. GS entsprechend bis 1 000 einschließlich der entstehenden Summe. Nur ein subtraktiver Vorwärtsschritt mit bekannter Differenz und bekanntem Subtrahenden; der unbekannte Ausgangswert wird durch Addition rekonstruiert. Keine negativen Werte, Einheiten/Maßzahlen, Dezimalzahlen, unbekannten Abzüge oder mehrschrittigen Rückwärtsketten. Keine Obergrenze aus35475 übernehmen. Weitere dargestellte Beziehungen sind widerspruchsfrei; unmittelbarer Vorgänger nicht ungeprüft als Startwert einer ganzen Kette ausgeben. Auswahl und Beschränkung sind didaktisch. Konkrete Aufgaben, Lernhandlungen, Darstellungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
       },
       "source_ids": [
         "Q-MA-page912_2064",

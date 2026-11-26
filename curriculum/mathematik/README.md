@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-134
+# Mathematik-Abgleich · MA-135
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertsechsundzwanzig Karten dokumentieren begrenzte Anschlüsse. Siebenundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertsiebenundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: subtraktive Übergänge und mehrschrittige Ketten. [MA-134](review_batch_134.json) ergänztMA-126 um lokalen additiven Ketten-Umkehrbezug.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: mehrschrittige additive/subtraktive Ketten, vorwärts und rückwärts getrennt. [MA-135](review_batch_135.json) ergänztMA-127 für den lokalen fehlenden Minuenden.127 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1645,3 +1645,21 @@ Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung439/878 lokal und 
 
 
 MA-134 veröffentlicht: App1.436, Commit `d46f0b7a6c2f506f3d2d245986dcc01fa715d383`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45883757975). Live-App bytegleich, SHA-256 `70aeb549be04ccec8265b19f30e904e98bfc9d684a449df8f4638434dfcc4b71`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/125/126 und Ebenenprüfung439 Karten/878 Seiten lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf, keine UI-Funktionsänderung.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen unverändert. MA-126 um den unmittelbar vorhergehenden Wert eines einzelnen additiven Kettenschritts ergänzt; keine ganze Rückwärtsstrategie. Nächster Schritt: subtraktive Übergänge und mehrschrittige Ketten187201. Deutsch-Abschluss unverändert; kein Gesamtabschluss.
+
+## MA-135 · App1.437 · 26.11.2026
+
+GS3 Zahlenketten im Bemerkungsformat187201: Genau ein subtraktiver Übergang wird rückwärts betrachtet. Der unmittelbar folgende Wert ist die bekannte Differenz, der bekannte Abzug der Subtrahend; gesucht ist der vorhergehende Minuend. Er wird durch Addition von Differenz und Subtrahend bestimmt. FSP3/4-35485 unter35479/Übertragen35470 belegt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe. Die Rekonstruktion dieses fehlenden Ausgangswertes wird als didaktischer Teilanschluss aufMA-127 aufgenommen. Keine ganze Rückwärts-Kettenstrategie und keine vollständige GS-Zieldeckung.
+
+Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen.
+
+GS bis1 000 ausdrücklich aus2064; FSP bis100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund.
+
+Vorwärtsrichtung und Subtrahend des ausgewählten Übergangs sowie unmittelbar folgender Differenzwert sind bekannt. Genau der vorhergehende Minuend fehlt; alle anderen dargestellten Vorgaben sind widerspruchsfrei. Die Summe aus Differenz und Subtrahend ist vorab auf die Planungsgrenze zu begrenzen. GS beschreibt, wie die drei Werte im Kettenübergang zusammengehören. FSP verwendet die bekannte Umkehrbeziehung in einem vergleichbaren lebensweltlichen Zusammenhang. Der unmittelbar vorhergehende Wert ist nur beim ersten Übergang zugleich Startwert der ganzen Kette.
+
+GS187201 nennt Zahlenketten nur als Bemerkungsbeispiel ohne feste Länge, Regel oder Zahl unbekannter Glieder. Ein einzelner subtraktiver Übergang mit unbekanntem Ausgangswert ist didaktisch ausgewählt.35485 belegt den Umkehrbezug, keinen eigenständigen amtlichen Algorithmus für ganze Rückwärtsketten. Nicht mit abgedeckt sind ein unbekannter Abzug, mehrere nacheinander rückgängig zu machende Übergänge, selbstständige Entdeckung von Bildungsregeln und variable Startwertabhängigkeiten. Aus fehlendem Formatnamen folgt kein Nichtanschluss.
+
+FSP1/2:37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und die Beziehung Addition/Subtraktion einschließlich Platzhalter bis20. Die gedruckten Beispiele betreffen einen bekannten Minuenden beziehungsweise einen fehlenden Summanden; die Rekonstruktion des unbekannten Minuenden ist eine didaktische Ausgestaltung der allgemeinen Beziehung, kein wörtliches Beispiel dieser Zeile.37863/37866 eröffnen Addition/Subtraktion mit Platzhalter.38021/38022/38035/38037 betreffen Kettenbemerkung, Probieren, Lösbarkeit und Skizze untereigenemEinblick gewinnen; das vorwärts gerichtete gemischte Skizzenbeispiel ist kein vollständiger Rückwärtsnachweis. Anwenden38017/38019 gehört zum getrennten grafischen Ziel. FSP3/4:35485 unter35479/Übertragen35470 ist der konkrete Umkehrbeleg bis100 im passenden Band und wird bevorzugt.35475 bleibt Einspluseins bis20, ohne Übernahme seiner Kettenbemerkung als ausdrücklicher100er-Beleg.35487 kontrolliert schon angegebene Ergebnisse und wird nicht zum primären Beleg der Ermittlung fehlender Werte.35509 unterEinblick gewinnen35504 enthält Kettenaufgaben als Darstellung und bis zu zwei Rechenschritte im Hauptziel-Bemerkungskontext; kein automatischer vollständiger Rückwärtsalgorithmus.35577/35578/35580 unterKennen35571 bleiben Strategiekandidaten für komplexere Ketten. Kleinere Zahlenräume allein begründen keinen Ausschluss.
+
+187201 bleibt begrenzt geprüft: MA-125 vorwärts gerichtete Einspluseins-Verknüpfung, MA-126 lokaler fehlender Summand, MA-127 lokaler fehlender Minuend. Weiter offen sind mehrschrittige vorwärts additive/subtraktive Verkettung, Reihenfolge bei mehrfacher Umkehr und rückwärts zu erschließende Startwerte ganzer Ketten sowie unbekannte Übergangsgrößen/Regeln. Diese Aspekte bleiben im bestehenden Rest187201; keine zusätzliche Anschlussfrage doppelt gezählt.26 bestehende Fragen einschließlich Zielzahlmauern und gekoppelter Dreiecksbeziehungen bleiben erhalten.
+
+Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung440/880 lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

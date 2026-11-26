@@ -1,0 +1,399 @@
+{
+  "id": "MA-135",
+  "date": "2026-11-26",
+  "base_commit": "dc90491a81cb95b44221c1b9567774907c8002b9",
+  "scope": "GS3 Zahlenketten187201: fehlender Minuend vor genau einem subtraktiven Übergang.",
+  "source_verification": {
+    "html": "Amtliche GS912/FSP139 erneut online gelesen: Zahlenketten187201, Hauptziel2064, FSP1/2-Rechenhandlungen/Platzhalter/Umkehrbezug37851/37863/37866/37885; FSP3/4-35470/35479/35485/35487 und Sachstrategien35504/35509. Wahlbereiche mit gespeichertem PDF erneut geprüft.",
+    "pdf": "Gespeicherte amtliche PDFs erneut textuell gelesen: beide DefinitionenS.V/PDF5; GS S.22–23/PDF32–33; FSP S.12/PDF24,S.16/PDF28,S.19–21/PDF31–33,S.23/PDF35. Keine neue Renderprüfung und kein neuer Download.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_2064": {
+      "id": "page912_2064",
+      "level": 1,
+      "parent_target_id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064"
+    },
+    "page912_187199": {
+      "id": "page912_187199",
+      "level": 2,
+      "parent_target_id": "page912_2064",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199"
+    },
+    "page912_187201": {
+      "id": "page912_187201",
+      "level": 3,
+      "parent_target_id": "page912_2064",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern mit vorgegebener Zielzahl, Zahlenketten, Rechendreiecke ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201"
+    },
+    "page139_35470": {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470"
+    },
+    "page139_35479": {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479"
+    },
+    "page139_35485": {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37863": {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863"
+    },
+    "page139_37885": {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885"
+    },
+    "page139_38017": {
+      "id": "page139_38017",
+      "level": 1,
+      "parent_target_id": "page139_38017",
+      "target": "Anwenden des Rechnens in vielfältigen Aufgabenformen",
+      "remarks": "⇒ informatische Bildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38017"
+    },
+    "page139_38019": {
+      "id": "page139_38019",
+      "level": 2,
+      "parent_target_id": "page139_38017",
+      "target": "Entdecken und Lösen von Aufgaben in grafischen Darstellungen",
+      "remarks": "Rechenblumen, -dominos, -mauern, -quadrate Nutzen verschiedener Kontrollverfahren, Lösungsbild, -wort, Taschenrechner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38019"
+    },
+    "page139_38021": {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021"
+    },
+    "page139_38022": {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022"
+    },
+    "page139_38035": {
+      "id": "page139_38035",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Prüfen, ob das Problem rechnerisch lösbar ist",
+      "remarks": "Scherzaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38035"
+    },
+    "page139_38037": {
+      "id": "page139_38037",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Skizze",
+      "remarks": "Strichliste, Bündelung, Schritte an der Geraden, 8 + 3 + 5 – 2 = 14",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38037"
+    },
+    "page139_35571": {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571"
+    },
+    "page139_35577": {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577"
+    },
+    "page139_35578": {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578"
+    },
+    "page139_35580": {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580"
+    },
+    "page139_35475": {
+      "id": "page139_35475",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Aufgaben des Einspluseins im Zahlenraum bis 20",
+      "remarks": "Pfeilschreibweise, Platzhalter, Tabellen, Rechengitter, Kettenaufgaben gedächtnismäßiges Beherrschen der Aufgaben mit Überschreiten des Zehners",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475"
+    },
+    "page139_37866": {
+      "id": "page139_37866",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Verwenden der Zeichen +, – und = in Gleichungen",
+      "remarks": "Addition/Subtraktion mit und ohne Platzhalter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37866"
+    },
+    "page139_35487": {
+      "id": "page139_35487",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": "Partner- und Selbstkontrolle Taschenrechner möglich Differenzierung: Genauigkeit beim Abschätzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35487"
+    },
+    "page139_35504": {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504"
+    },
+    "page139_35509": {
+      "id": "page139_35509",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187201",
+      "first_review": false,
+      "status": "limited_connection_follow_up",
+      "card": "MA-127",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "GS3 Zahlenketten im Bemerkungsformat187201: Genau ein subtraktiver Übergang wird rückwärts betrachtet. Der unmittelbar folgende Wert ist die bekannte Differenz, der bekannte Abzug der Subtrahend; gesucht ist der vorhergehende Minuend. Er wird durch Addition von Differenz und Subtrahend bestimmt. FSP3/4-35485 unter35479/Übertragen35470 belegt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe. Die Rekonstruktion dieses fehlenden Ausgangswertes wird als didaktischer Teilanschluss aufMA-127 aufgenommen. Keine ganze Rückwärts-Kettenstrategie und keine vollständige GS-Zieldeckung.",
+      "learning_levels": "Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100; Rekonstruktion des fehlenden Minuenden didaktisch konkretisiert.",
+        "detail": "35485 ist dem Unterziel35479 mit ausdrücklicher Grenze100 zugeordnet. Keine Ableitung aus35415. Die entstehende Summe ist der rekonstruierte Ausgangswert und unterliegt ebenfalls dieser Grenze.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35485"
+        ],
+        "planning_rule": "FSP: bekannte Differenz, bekannter Subtrahend, rekonstruierter Minuend als ihre Summe sowie alle relevanten Teilbeträge, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Die Summe aus Differenz und Subtrahend darf 100 nicht überschreiten; dass beide Summanden einzeln bis 100 liegen, genügt nicht. GS entsprechend bis 1 000 einschließlich der entstehenden Summe. Nur ein subtraktiver Vorwärtsschritt mit bekannter Differenz und bekanntem Subtrahenden; der unbekannte Ausgangswert wird durch Addition rekonstruiert. Keine negativen Werte, Einheiten/Maßzahlen, Dezimalzahlen, unbekannten Abzüge oder mehrschrittigen Rückwärtsketten. Keine Obergrenze aus35475 übernehmen. Weitere dargestellte Beziehungen sind widerspruchsfrei; unmittelbarer Vorgänger nicht ungeprüft als Startwert einer ganzen Kette ausgeben. Auswahl und Beschränkung sind didaktisch. Konkrete Aufgaben, Lernhandlungen, Darstellungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "prerequisites": "Vorwärtsrichtung und Subtrahend des ausgewählten Übergangs sowie unmittelbar folgender Differenzwert sind bekannt. Genau der vorhergehende Minuend fehlt; alle anderen dargestellten Vorgaben sind widerspruchsfrei. Die Summe aus Differenz und Subtrahend ist vorab auf die Planungsgrenze zu begrenzen. GS beschreibt, wie die drei Werte im Kettenübergang zusammengehören. FSP verwendet die bekannte Umkehrbeziehung in einem vergleichbaren lebensweltlichen Zusammenhang. Der unmittelbar vorhergehende Wert ist nur beim ersten Übergang zugleich Startwert der ganzen Kette.",
+      "uncertainty": "GS187201 nennt Zahlenketten nur als Bemerkungsbeispiel ohne feste Länge, Regel oder Zahl unbekannter Glieder. Ein einzelner subtraktiver Übergang mit unbekanntem Ausgangswert ist didaktisch ausgewählt.35485 belegt den Umkehrbezug, keinen eigenständigen amtlichen Algorithmus für ganze Rückwärtsketten. Nicht mit abgedeckt sind ein unbekannter Abzug, mehrere nacheinander rückgängig zu machende Übergänge, selbstständige Entdeckung von Bildungsregeln und variable Startwertabhängigkeiten. Aus fehlendem Formatnamen folgt kein Nichtanschluss.",
+      "remaining_scope": "187201 bleibt begrenzt geprüft: MA-125 vorwärts gerichtete Einspluseins-Verknüpfung, MA-126 lokaler fehlender Summand, MA-127 lokaler fehlender Minuend. Weiter offen sind mehrschrittige vorwärts additive/subtraktive Verkettung, Reihenfolge bei mehrfacher Umkehr und rückwärts zu erschließende Startwerte ganzer Ketten sowie unbekannte Übergangsgrößen/Regeln. Diese Aspekte bleiben im bestehenden Rest187201; keine zusätzliche Anschlussfrage doppelt gezählt.26 bestehende Fragen einschließlich Zielzahlmauern und gekoppelter Dreiecksbeziehungen bleiben erhalten."
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199"
+  ],
+  "band_selection": "FSP1/2:37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und die Beziehung Addition/Subtraktion einschließlich Platzhalter bis20. Die gedruckten Beispiele betreffen einen bekannten Minuenden beziehungsweise einen fehlenden Summanden; die Rekonstruktion des unbekannten Minuenden ist eine didaktische Ausgestaltung der allgemeinen Beziehung, kein wörtliches Beispiel dieser Zeile.37863/37866 eröffnen Addition/Subtraktion mit Platzhalter.38021/38022/38035/38037 betreffen Kettenbemerkung, Probieren, Lösbarkeit und Skizze untereigenemEinblick gewinnen; das vorwärts gerichtete gemischte Skizzenbeispiel ist kein vollständiger Rückwärtsnachweis. Anwenden38017/38019 gehört zum getrennten grafischen Ziel. FSP3/4:35485 unter35479/Übertragen35470 ist der konkrete Umkehrbeleg bis100 im passenden Band und wird bevorzugt.35475 bleibt Einspluseins bis20, ohne Übernahme seiner Kettenbemerkung als ausdrücklicher100er-Beleg.35487 kontrolliert schon angegebene Ergebnisse und wird nicht zum primären Beleg der Ermittlung fehlender Werte.35509 unterEinblick gewinnen35504 enthält Kettenaufgaben als Darstellung und bis zu zwei Rechenschritte im Hauptziel-Bemerkungskontext; kein automatischer vollständiger Rückwärtsalgorithmus.35577/35578/35580 unterKennen35571 bleiben Strategiekandidaten für komplexere Ketten. Kleinere Zahlenräume allein begründen keinen Ausschluss.",
+  "existing_cards_rechecked": [
+    "MA-034",
+    "MA-120",
+    "MA-123",
+    "MA-125",
+    "MA-126"
+  ],
+  "existing_card_review": "MA-034: FSP1/2-Einblick gewinnen37851 und explizit20 aus37885, dort konkret bekannte Addition zu Subtraktion. MA-120: Teilschritte einer vorhandenen Rechnung, beide Übertragen, explizit100. MA-123: Prüfung eines angegebenen Ergebnisses unter35487, beide Übertragen; Rückrechnung rekonstruiert zur Kontrolle einen bereits bekannten Minuenden. MA-125: Einspluseins-Verkettung mit explizit20 aus35475. MA-126: fehlender Summand durch Subtraktion bei bekannter Summe, beide Übertragen, explizit100. MA-127 ermittelt dagegen einen unbekannten Minuenden durch Addition; Wissenslage und Lösungsrichtung sind getrennt, daher eigener Ausschnitt. Alle126 Bestandskarten und439 vorhandenen Ebeneneinträge bleiben unverändert. Keine vollständige Aufgabenfamilie oder neue amtliche Fachwortforderung.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards_total": 127,
+    "same_band": 98,
+    "cross_band": 29,
+    "open_questions_total": 26,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 300,
+    "target_anchors": 298
+  },
+  "new_card": {
+    "id": "MA-127",
+    "subject": "Mathematik",
+    "theme": "Fehlender Ausgangswert vor einer Subtraktion · GS 3",
+    "app_area": "MA-page912_1999",
+    "status": "Begrenzter Anschluss · lokaler fehlender Minuend",
+    "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis 1 000; Zahlenketten als Bemerkungsbeispiel, lokaler subtraktiver Übergang didaktisch ausgewählt",
+    "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Lösungswege35485 unter Addieren/Subtrahieren35479 bis 100 undÜbertragen35470; Beziehung Aufgabe/Umkehraufgabe aus der Bemerkung, fehlender Minuend didaktisch konkretisiert",
+    "gs_operator": "Übertragen",
+    "fsp_operator": "Übertragen",
+    "operator_relation": "Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis 1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund.",
+    "gs_target_ids": [
+      "page912_2064",
+      "page912_187199",
+      "page912_187201"
+    ],
+    "fsp_target_ids": [
+      "page139_35470",
+      "page139_35479",
+      "page139_35485"
+    ],
+    "stage_alignment": {
+      "gs_anchor_grade": "3",
+      "gs_curriculum_band": "3/4",
+      "fsp_curriculum_bands": [
+        "3/4"
+      ],
+      "relation": "same-band"
+    },
+    "content_review_required": true,
+    "app_review_message": "GS3 Zahlenketten im Bemerkungsformat187201: Genau ein subtraktiver Übergang wird rückwärts betrachtet. Der unmittelbar folgende Wert ist die bekannte Differenz, der bekannte Abzug der Subtrahend; gesucht ist der vorhergehende Minuend. Er wird durch Addition von Differenz und Subtrahend bestimmt. FSP3/4-35485 unter35479/Übertragen35470 belegt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe. Die Rekonstruktion dieses fehlenden Ausgangswertes wird als didaktischer Teilanschluss aufMA-127 aufgenommen. Keine ganze Rückwärts-Kettenstrategie und keine vollständige GS-Zieldeckung. Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis 1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund. Vorwärtsrichtung und Subtrahend des ausgewählten Übergangs sowie unmittelbar folgender Differenzwert sind bekannt. Genau der vorhergehende Minuend fehlt; alle anderen dargestellten Vorgaben sind widerspruchsfrei. Die Summe aus Differenz und Subtrahend ist vorab auf die Planungsgrenze zu begrenzen. GS beschreibt, wie die drei Werte im Kettenübergang zusammengehören. FSP verwendet die bekannte Umkehrbeziehung in einem vergleichbaren lebensweltlichen Zusammenhang. Der unmittelbar vorhergehende Wert ist nur beim ersten Übergang zugleich Startwert der ganzen Kette. GS187201 nennt Zahlenketten nur als Bemerkungsbeispiel ohne feste Länge, Regel oder Zahl unbekannter Glieder. Ein einzelner subtraktiver Übergang mit unbekanntem Ausgangswert ist didaktisch ausgewählt.35485 belegt den Umkehrbezug, keinen eigenständigen amtlichen Algorithmus für ganze Rückwärtsketten. Nicht mit abgedeckt sind ein unbekannter Abzug, mehrere nacheinander rückgängig zu machende Übergänge, selbstständige Entdeckung von Bildungsregeln und variable Startwertabhängigkeiten. Aus fehlendem Formatnamen folgt kein Nichtanschluss.",
+    "shared_object_suggestion": "Die ursprüngliche Zahl ergibt sich aus dem verbliebenen Wert und dem abgezogenen Anteil: Addition macht die Subtraktion rückgängig.",
+    "fine_goals": [
+      {
+        "track": "Grundschule",
+        "goal": "Das Kind überträgt die bekannte Umkehrbeziehung auf einen vergleichbaren einzelnen subtraktiven Zahlenkettenschritt bis 1 000, beschreibt die Zuordnung von Ausgangswert, Abzug und Folgewert und bestimmt den fehlenden Ausgangswert.",
+        "criterion": "Der bekannte Folgewert wird als Differenz und der bekannte Abzug als Subtrahend zugeordnet. Ihre Summe ist der gesuchte Minuend vor genau diesem Übergang. Die Beschreibung verbindet den subtraktiven Vorwärtsschritt mit der additiven Rückrechnung. Alle bekannten Werte, die entstehende Summe und relevante Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Die Summe darf die Grenze nicht überschreiten, auch wenn beide Summanden einzeln darin liegen. Ein richtiges Ergebnis ohne erkennbaren Umkehrbezug reicht nicht. Weitere dargestellte Vorgaben sind widerspruchsfrei; kein Nachweis einer ganzen Rückwärtskette.",
+        "status": "Didaktische Konkretisierung des Bemerkungsformats; genau ein bekannter subtraktiver Übergang und ein fehlender Minuend."
+      },
+      {
+        "track": "FSP Lernen",
+        "goal": "Das Kind verwendet die bekannte Beziehung zwischen Subtraktion und Addition in einem vergleichbaren lebensweltlichen Zusammenhang bis 100, um bei bekannter Differenz und bekanntem Subtrahenden den fehlenden Minuenden zu bestimmen.",
+        "criterion": "Bekannte Differenz und bekannter Subtrahend werden addiert; die Summe ist der gesuchte Minuend. Wird vom gefundenen Minuenden der bekannte Subtrahend abgezogen, ergibt sich die vorgegebene Differenz. Alle Ausgangswerte, Teilbeträge sowie relevanten Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Insbesondere bleibt die Summe aus Differenz und Subtrahend bis 100; zwei einzeln zulässige Werte mit größerer Summe sind ausgeschlossen. Die Umkehrbeziehung wird zur Ermittlung des fehlenden Wertes genutzt, nicht nur zur Kontrolle einer schon angegebenen Lösung.",
+        "status": "Didaktische Konkretisierung des Umkehrbelegs35485; keine amtlich vorgeschriebene Zahlenkettennotation oder vollständige Rückwärtsstrategie.",
+        "scope_status": "explicit",
+        "range_max": 100
+      }
+    ],
+    "number_range_alignment": {
+      "relation": "reduced-fsp",
+      "gs_max": 1000,
+      "fsp_max": 100,
+      "gs_source_id": "page912_2064",
+      "fsp_source_id": "page139_35479",
+      "fsp_basis": "target_row",
+      "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479, dem zugehörigen Additions-/Subtraktionsziel von35485. Keine Ableitung aus dem übergreifenden Bandziel35415 und keine Übernahme der20 aus35475. Beide bekannten Werte und ihre Summe als rekonstruierter Ausgangswert müssen im jeweiligen Rahmen bleiben, ebenso relevante Zwischen- und Kontrollwerte. Die Einhaltung der Grenze durch jeden einzelnen Summanden allein reicht nicht. Oberhalb100 bis 1000 sowie weiterführende Ketten-/Strukturansprüche bleiben ungedeckt; kleinerer Zahlenraum allein ist kein Ausschlussgrund.",
+      "full_gs_goal_covered": false
+    },
+    "evidence_classification": {
+      "gs": "187201 verbindlicher Unterpunkt unter187199/Übertragen2064; Zahlenketten stehen in der Bemerkung. Ein einzelner subtraktiver Übergang und die Rückwärtsbestimmung seines Ausgangswertes sind didaktisch.2064/187199 nur Kontext.",
+      "fsp": "35485 ist Unterziel unter35479/Übertragen35470; Aufgabe/Umkehraufgabe steht in der Bemerkung.35479 belegt100 ausdrücklich. Fehlender Minuend didaktisch konkretisiert;35487 Kontrollzweck nicht als primäres Lösungsziel verwendet.",
+      "context_only_gs_ids": [
+        "page912_2064",
+        "page912_187199"
+      ],
+      "fsp_remark_anchor": "page139_35485"
+    },
+    "fsp_scope": {
+      "status": "explicit",
+      "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100; Rekonstruktion des fehlenden Minuenden didaktisch konkretisiert.",
+      "detail": "35485 ist dem Unterziel35479 mit ausdrücklicher Grenze100 zugeordnet. Keine Ableitung aus35415. Die entstehende Summe ist der rekonstruierte Ausgangswert und unterliegt ebenfalls dieser Grenze.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
+      ],
+      "planning_rule": "FSP: bekannte Differenz, bekannter Subtrahend, rekonstruierter Minuend als ihre Summe sowie alle relevanten Teilbeträge, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Die Summe aus Differenz und Subtrahend darf 100 nicht überschreiten; dass beide Summanden einzeln bis 100 liegen, genügt nicht. GS entsprechend bis 1 000 einschließlich der entstehenden Summe. Nur ein subtraktiver Vorwärtsschritt mit bekannter Differenz und bekanntem Subtrahenden; der unbekannte Ausgangswert wird durch Addition rekonstruiert. Keine negativen Werte, Einheiten/Maßzahlen, Dezimalzahlen, unbekannten Abzüge oder mehrschrittigen Rückwärtsketten. Keine Obergrenze aus35475 übernehmen. Weitere dargestellte Beziehungen sind widerspruchsfrei; unmittelbarer Vorgänger nicht ungeprüft als Startwert einer ganzen Kette ausgeben. Auswahl und Beschränkung sind didaktisch. Konkrete Aufgaben, Lernhandlungen, Darstellungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+    },
+    "source_ids": [
+      "Q-MA-page912_2064",
+      "Q-MA-page912_187199",
+      "Q-MA-page912_187201",
+      "Q-MA-page139_35470",
+      "Q-MA-page139_35479",
+      "Q-MA-page139_35485"
+    ]
+  },
+  "tests": {
+    "status": "local_targeted_and_levels_passed",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-26\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 127 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 127 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-034/MA-123/MA-125/MA-126/MA-127 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 440 Karten, 880 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "126 existing mathematics cards,439 prior level entries,all Deutsch files,sources,26 questions andIDs preserved;no new first review;UI logic unchanged except PDF footer version;root/dist byte-equal.",
+    "correction": "Erster Datenlauf erkannte fehlendes Leerzeichen in bis100; Schreibweise zu bis 100 vereinheitlicht, anschließend alle sechs Datenprüfungen bestanden. Keine fachliche Grenze verändert.",
+    "limits": "Keine UI-Funktionsänderung; gezielte Kartenprüfung, kein neuer vollständiger Funktionslauf aller127 Mathematikkarten und keine neue semantische Vollprüfung des Bestands. Liveprüfung ausstehend."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.437"
+  },
+  "continuation": {
+    "next_id": "page912_187201",
+    "next_step": "GS3 strukturierte Aufgabenformate187201: mehrschrittige additive/subtraktive Ketten prüfen, vorwärts und rückwärts einschließlich Umkehrreihenfolge getrennt;35504/35509 neben35485 und beiden Knobel-Wahlbereichen berücksichtigen. MA-135 ergänztMA-127 für den fehlenden Minuenden vor genau einem subtraktiven Übergang. Summe aus Differenz und Subtrahend einschließlich aller relevanten Zwischen-/Kontrollwerte innerhalbGS1000/FSP100; beide Übertragen. Keine neue Erstprüfung oder Frage.127 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.437: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}
