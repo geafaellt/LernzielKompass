@@ -3836,7 +3836,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201: Rechendreiecke einzeln prüfen, danach weitere Ketten-/Strukturfragen. MA-132 ergänztMA-126 für einen fehlenden Summanden bei bekannter Zielsumme, ohne erneute Erstzählung187201. FSP3/4-Umkehrbezug35485 unter35479/Übertragen35470 ist stufenbandpassend; beide Übertragen,GS1000/FSP100 ausdrücklich. Weiterführende Zielzahlmauern als25.Frage gesichert.126 Karten,25 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.434: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201: Rechendreiecke einzeln prüfen, danach weitere Ketten-/Strukturfragen. MA-132 ergänztMA-126 für einen fehlenden Summanden bei bekannter Zielsumme, ohne erneute Erstzählung187201. FSP3/4-Umkehrbezug35485 unter35479/Übertragen35470 ist stufenbandpassend; beide Übertragen,GS1000/FSP100 ausdrücklich. Weiterführende Zielzahlmauern als25.Frage gesichert.126 Karten,25 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.434: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung439/878 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6150,8 +6150,20 @@
   },
   "latest_publication": {
     "batch": "MA-132",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.434",
+    "commit": "b59762f1b0243f8cd87bee0921d36952aeeef55f",
+    "tree": "1e4600ccac0eb9c27c512f80975ffbb048c4f325",
+    "pages_run_id": 45845365751,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45845365751",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "a4f2cbb0d1196ba2e9708770296b1f8ffb62c6f3edc8d5997889e8974b65b4b4",
+    "bytes": 5721255,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-034/040/120/123/126, Quellen/Scope/Ziele/Output, expliziter Rahmen100 einschließlich Zwischen-/Kontrollwerten, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung439 Karten/878 Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller126 Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-131",
       "status": "published_verified",
@@ -6626,9 +6638,9 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-131",
+    "batch": "MA-132",
     "status": "recorded_in_this_commit",
-    "app_commit": "1aca6701c9a365d4d4dfa007c236fa2c6c5b52c7",
+    "app_commit": "b59762f1b0243f8cd87bee0921d36952aeeef55f",
     "note": "Veröffentlichungsnachweis nach erfolgreichen Daten-, gezielten Karten- und Ebenenprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
