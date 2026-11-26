@@ -1,4 +1,15 @@
-# Deutsch-Abgleich · App 1.256
+# Deutsch-Abgleich · abgeschlossen (DE-UZ-052)
+
+**Aktueller Abschlussstand: 03.11.2026; Status und Zählung erneut geprüft am 26.11.2026.** Der GS-zu-FSP-Abgleich für Deutsch ist einschließlich der dokumentierten Anschlussfragen abgeschlossen. Maßgeblich sind [Fortschritt](review_progress.json), [Zeilenaudit](row_audit.csv) und [Abschlusspaket DE-UZ-052](review_batch_052.json).
+
+- 117 Zielblöcke und alle 371 Unterzielzeilen geprüft; zusammen 488 inventarisierte GS-Zeilen.
+- 371 unterschiedliche Unterziel-Erstprüfungen = 241 ursprünglich offene + 130 zuvor zugeordnete Zeilen. Der Mengenabgleich mit dem Zeilenaudit ergibt keine fehlende Unterzielzeile.
+- 178 Anschlusskarten; 136 Unterzielzeilen ohne Karte = 125 begründete Nichtanschlüsse + 11 übergreifende Teilanschlüsse ohne Karte.
+- Keine ausstehenden Unterzielprüfungen, keine ungelösten Anschlussfragen und keine ausstehenden Quellen-Nachprüfungen. `complete: true`, kein nächster Prüfpunkt.
+
+Nicht abgedeckte Teile eines GS-Ziels sind dokumentierte fachliche Grenzen und nicht automatisch offene Prüfaufträge. Rückwärts-Einzelprüfung FSP → GS und PDF-Download gehören nicht zu diesem Abschluss. Die nachfolgende Historie beschreibt frühere Zwischenstände; dort genannte offene Zeilen sind durch spätere Prüfpakete entschieden. Drei alte Querverweise im Zeilenaudit wurden am 26.11.2026 mit ihren abschließenden Entscheidungen abgeglichen; keine fachliche Entscheidung, Karte oder Zählung wurde geändert.
+
+## Historischer Ausgangsstand · App 1.256
 
 Arbeitsstand vom 30.10.2026. Amtliche Grundlage: GS Deutsch 2004/2009/2019/2025/2026 (Lehrplan 908), FSP Lernen Deutsch-Heimatkunde/Sachunterricht 2005/2010/2019 (Lehrplan 146), Sächsischer Rechtschreibrahmen 2025. Der FSP-Deutschplan für die Sekundarstufe wird nicht verwendet.
 
