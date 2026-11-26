@@ -225,7 +225,7 @@
     "target_anchors": 298
   },
   "tests": {
-    "status": "local_targeted_and_levels_passed",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -261,14 +261,29 @@
     "local_browser": "PASS: targeted MA-040/MA-124/MA-125 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 438 Karten, 876 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "124 existing cards,437 level entries,all Deutsch files,24 questions,15 exclusions unchanged; executable app code including AIS copy preserved;root/dist byte equal.",
-    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller125 Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Liveprüfung noch ausstehend."
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller125 Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig.",
+    "live_browser": "PASS: targeted MA-040/MA-124/MA-125 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 438 Karten, 876 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.433"
+    "batch": "MA-131",
+    "status": "published_verified",
+    "app_version": "1.433",
+    "commit": "1aca6701c9a365d4d4dfa007c236fa2c6c5b52c7",
+    "tree": "83d4bebc8c0921428bece5b60acffba10ab5c3ef",
+    "pages_run_id": 45839199194,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45839199194",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "ff10ffc2ac09e90787e80c3cebd8dd732924a4e78c197b11a376c2db1bcf1869",
+    "bytes": 5709930,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-040/124/125, Quellen/Scope/Ziele/Output, expliziter Einspluseinsrahmen20 und didaktische Summanden-/Zwischensummengrenzen, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung438 Karten/876 Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller125 Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig."
   },
   "continuation": {
     "next_id": "page912_187201",
-    "next_step": "GS3 strukturierte Aufgabenformate187201 weiterprüfen, zunächst Zahlenmauern mit vorgegebener Zielzahl: FSP1/2 Rechenmauern38019 unterAnwenden38017 und Knobelstrategien38021/38022/38035/38037 sowie FSP3/4 Knobelstrategien35571/35577/35578/35580 im jeweiligen Kontext abgrenzen. Lokale Addition ist nicht bereits Zielzahlkonstruktion. Danach Rechendreiecke und übrige Strukturfragen. MA-131 hat187201 erstmals für additive Ergebnisverknüpfung aufMA-125 begrenzt geprüft; nicht nochmals erstzählen. Amtlich beide Übertragen; GS1000/FSP20 ausdrücklich, zusätzliche einstellige FSP-Summanden didaktisch.125 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.433: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 strukturierte Aufgabenformate187201 weiterprüfen, zunächst Zahlenmauern mit vorgegebener Zielzahl: FSP1/2 Rechenmauern38019 unterAnwenden38017 und Knobelstrategien38021/38022/38035/38037 sowie FSP3/4 Knobelstrategien35571/35577/35578/35580 im jeweiligen Kontext abgrenzen. Lokale Addition ist nicht bereits Zielzahlkonstruktion. Danach Rechendreiecke und übrige Strukturfragen. MA-131 hat187201 erstmals für additive Ergebnisverknüpfung aufMA-125 begrenzt geprüft; nicht nochmals erstzählen. Amtlich beide Übertragen; GS1000/FSP20 ausdrücklich, zusätzliche einstellige FSP-Summanden didaktisch.125 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.433: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung438/876 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }
