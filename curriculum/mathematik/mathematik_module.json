@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.3",
+  "version": "MA-2026-11-26.4",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1867,6 +1867,12 @@
       "id": "Q-MA-page139_35593",
       "title": "FSP Lernen Mathematik 3/4 · Zahlen in der Tierwelt",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35593",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35509",
+      "title": "FSP Lernen Mathematik3/4 · Natur entdecken und erleben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
       "version": "2019"
     }
   ],
@@ -11669,6 +11675,92 @@
         "Q-MA-page139_35582",
         "Q-MA-page139_35590",
         "Q-MA-page139_35593",
+        "Q-MA-page139_35415"
+      ]
+    },
+    {
+      "id": "MA-122",
+      "subject": "Mathematik",
+      "theme": "Additive Lösungsvarianten abwägen · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedliche Lernzielebenen",
+      "gs_anchor": "GS Mathematik Kl.3 · Rechenwege187197 unter Übertragen2064 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Variantenabwägung35509 unter Einblick gewinnen35504 · Lernbereich3 Natur entdecken und erleben",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Einblick gewinnen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Übertragen verlangt bekannte Kenntnisse in vergleichbaren Kontexten; Einblick gewinnen bedeutet grundlegende Orientierung ohne tiefere Reflexion (beide Pläne S.V/PDF5). Abwägen, Vergleichen, Bewerten und Darstellen sind Zielhandlungen, keine Lernzielebenen. Insbesondere wird aus Abwägen nicht Beurteilen und aus mathematischem Darstellen nicht Anwenden. Der benachbarte Übertragen-Anker35470 gilt für diese Sachverhaltszeile nicht. Begrenzter stufenbandpassender Pflichtbereichsanschluss für das Abwägen zweier additiver beziehungsweise subtraktiver Lösungsvarianten zum selben lebensnahen Sachverhalt. Das verbindliche FSP-Unterziel35509 nennt Variantenabwägung und mathematisches Darstellen. Ausgewählt ist die grundlegende Orientierung über zwei mögliche Wege und eine einfache sachbezogene Wahl; die Anzahl zwei und die Beschränkung auf Addition/Subtraktion sind didaktische Konkretisierungen. Keine vollständige Gleichsetzung mit dem umfassenderen GS-Vergleich und der Bewertung verschiedener Wege und Notationsformen. GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel des Stufenbands3/4 (35415) abgeleitet.35504/35509 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und die umfassende Rechenweg-/Notationsbewertung sind nicht abgedeckt. Der kleinere FSP-Rahmen ist allein kein Ausschlussgrund für diesen fachlichen Teilanschluss.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187197"
+      ],
+      "fsp_target_ids": [
+        "page139_35504",
+        "page139_35509"
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Begrenzter stufenbandpassender Pflichtbereichsanschluss für das Abwägen zweier additiver beziehungsweise subtraktiver Lösungsvarianten zum selben lebensnahen Sachverhalt. Das verbindliche FSP-Unterziel35509 nennt Variantenabwägung und mathematisches Darstellen. Ausgewählt ist die grundlegende Orientierung über zwei mögliche Wege und eine einfache sachbezogene Wahl; die Anzahl zwei und die Beschränkung auf Addition/Subtraktion sind didaktische Konkretisierungen. Keine vollständige Gleichsetzung mit dem umfassenderen GS-Vergleich und der Bewertung verschiedener Wege und Notationsformen. Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Übertragen verlangt bekannte Kenntnisse in vergleichbaren Kontexten; Einblick gewinnen bedeutet grundlegende Orientierung ohne tiefere Reflexion (beide Pläne S.V/PDF5). Abwägen, Vergleichen, Bewerten und Darstellen sind Zielhandlungen, keine Lernzielebenen. Insbesondere wird aus Abwägen nicht Beurteilen und aus mathematischem Darstellen nicht Anwenden. Der benachbarte Übertragen-Anker35470 gilt für diese Sachverhaltszeile nicht. GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel des Stufenbands3/4 (35415) abgeleitet.35504/35509 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und die umfassende Rechenweg-/Notationsbewertung sind nicht abgedeckt. Der kleinere FSP-Rahmen ist allein kein Ausschlussgrund für diesen fachlichen Teilanschluss. Beide Varianten beziehen sich auf dieselbe Frage und dieselben Ausgangsdaten eines Sachverhalts aus dem Erfahrungsbereich. Addition/Subtraktion und der Sachbezug müssen verständlich sein. Für GS ist der Übertrag bekannter Strategien auf einen vergleichbaren Kontext maßgeblich. FSP verlangt hier grundlegende Orientierung und eine einfache sachbezogene Abwägung, keine selbstständige vertiefte Reflexion oder allgemeine Effizienzrangfolge. Die Lehrkraft legt den individuellen Unterstützungsbedarf fest. 187197 bleibt hinsichtlich Beschreibung, Vergleich und Bewertung von Notationsformen sowie breiterer Rechenvorteils-/Effizienzvergleiche offen. Diese Teilfrage wird jetzt ausdrücklich im Fragenregister geführt (23 statt22), nicht als neue Erstprüfung gezählt. MA-120 (eigener Teilschrittweg) und MA-121 (Tierweltreflexion unter Anwenden) bleiben unverändert. Keine pauschale Nichtanschlussentscheidung für die Notationsfrage. Fortsetzung bei187198 (Umkehroperation), danach187199–187201.2064 ist nur Hauptzielkontext.",
+      "shared_object_suggestion": "Die Eignung zweier additiver oder subtraktiver Lösungsvarianten für dieselbe Frage in einem lebensnahen Sachverhalt.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte additive beziehungsweise subtraktive Strategien auf einen vergleichbaren Sachverhalt und vergleicht zwei Lösungsvarianten zur selben Frage im Zahlenraum bis 1 000.",
+          "criterion": "Beide Varianten werden verständlich beschrieben und auf dieselben Ausgangsdaten bezogen. Ein mathematisch relevanter Unterschied und ein sachbezogener Grund für die Wahl einer Variante werden nachvollziehbar benannt; eine bloße Endzahl genügt nicht. Jede Variante umfasst höchstens zwei Additions-/Subtraktionsschritte. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 1 000.",
+          "status": "Didaktische Konkretisierung: zwei einfache Varianten; keine vollständige Rechenweg- oder Notationsbewertung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind gewinnt grundlegende Orientierung über zwei additive beziehungsweise subtraktive Lösungsvarianten zu derselben lebensnahen Frage und wägt sie im Zahlenraum bis 100 anhand eines einfachen sachbezogenen Unterschieds ab.",
+          "criterion": "Der Bezug beider Varianten zur selben Frage ist erkennbar. Ein einfacher Unterschied und ein dazu passender sachbezogener Grund für die Wahl einer Variante werden deutlich. Grundlegende Orientierung genügt; vertiefte Reflexion, allgemeine Effizienzrangfolge oder selbstständiger Transfer in unbekannte Kontexte werden nicht verlangt. Jede Variante umfasst höchstens zwei Additions-/Subtraktionsschritte. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 100.",
+          "status": "Didaktische Konkretisierung des Einblicks: zwei Varianten und einfache Wahlbegründung; Unterstützung individuell festzulegen.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35415",
+        "fsp_basis": "stage_goal_context",
+        "notice": "GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel des Stufenbands3/4 (35415) abgeleitet.35504/35509 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und die umfassende Rechenweg-/Notationsbewertung sind nicht abgedeckt. Der kleinere FSP-Rahmen ist allein kein Ausschlussgrund für diesen fachlichen Teilanschluss.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187197 verbindliches Unterziel zu Rechenwegen und Notationsformen; ausgewählt nur einfache Rechenwegabwägung.2064 liefert Übertragen und bis1000, nur Hauptzielkontext.",
+        "fsp": "35509 verbindliches Unterziel unter Einblick gewinnen35504. Bis zu zwei Rechenschritte und Beispiele für Darstellungen sind Bemerkungen.35415 ist übergreifender Zahlenraumkontext.",
+        "context_only_gs_ids": [
+          "page912_2064"
+        ],
+        "fsp_remark_anchor": "page139_35504"
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus übergreifendem Bandziel abgeleitet; je Variante höchstens zwei Rechenschritte.",
+        "detail": "35504/35509 enthalten keine eigene Obergrenze.35415 nennt Operationsvorstellungen bis100; dieser Rahmen wird für ganze Anzahlen didaktisch übernommen. Er ist keine amtliche Höchstgrenze sämtlicher Sachverhalte. Die Zwei-Schritt-Eingrenzung folgt der Bemerkung35504, nicht der Anzahl verglichener Varianten. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35504",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Didaktischer FSP-Rahmen bis 100: alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse beider Varianten sind nichtnegative ganze Anzahlen bis 100 einschließlich100. Auch ein zwischenzeitliches Überschreiten100 bei kleinerem Endergebnis ist ausgeschlossen. Die Bemerkung35504 nennt bis zu zwei Rechenschritte; deshalb umfasst jede ausgewählte Variante höchstens zwei tatsächliche Additions-/Subtraktionsschritte. Zwei Varianten sind nicht mit zwei Rechenschritten gleichzusetzen. GS entsprechend bis1 000. Maßzahlen mit Einheiten, Dezimalzahlen und Umrechnungen gehören nicht zu diesem Ausschnitt. Beide Varianten beziehen sich auf dieselbe Frage und dieselben Ausgangsdaten eines Sachverhalts aus dem Erfahrungsbereich. Addition/Subtraktion und der Sachbezug müssen verständlich sein. Für GS ist der Übertrag bekannter Strategien auf einen vergleichbaren Kontext maßgeblich. FSP verlangt hier grundlegende Orientierung und eine einfache sachbezogene Abwägung, keine selbstständige vertiefte Reflexion oder allgemeine Effizienzrangfolge. Die Lehrkraft legt den individuellen Unterstützungsbedarf fest. Keine feste Notationsform; ihr Vergleich ist hier nicht als eigener Anschluss bestätigt. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187197",
+        "Q-MA-page139_35504",
+        "Q-MA-page139_35509",
         "Q-MA-page139_35415"
       ]
     }

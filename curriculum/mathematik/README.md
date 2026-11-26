@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-127
+# Mathematik-Abgleich · MA-128
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhunderteinundzwanzig Karten dokumentieren begrenzte Anschlüsse. Zweiundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertzweiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Dreiundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 187197: Variantenabwägung und Notationsformen35509. [MA-127](review_batch_127.json) ergänzt den Beschreibungsaspekt auf bestehenderMA-120. Keine neue Karte oder Erstzählung;121 Karten,22 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung bei GS3 Umkehroperation187198. [MA-128](review_batch_128.json) ergänztMA-122 für einfache Variantenabwägung. Rest187197 separat im Fragenregister gesichert.122 Karten,23 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1492,3 +1492,22 @@ Eine Folgeprüfung, eine bestehende Karte ergänzt; keine neue Karte, Erstprüfu
 
 
 MA-127 veröffentlicht: App1.428, Commit `8bafdc5bdd3bd125b64037c019efe45a156520af`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45795739745). Live-App bytegleich, SHA-256 `68232affad658e502af6660c72a236fc1b2cc14f21903999af55ac2c2e9552b8`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-037/120/121 und Ebenenprüfung434Karten/868Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller121Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Restumfang187197 (Variantenabwägung/Notationsformen35509); eigene Rechenwege auf bestehenderMA-120 ergänzt, keine neue Karte oder Erstzählung,2064 nur Kontext.121 Karten,22 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Kein Gesamtabschluss.
+
+
+## MA-128 · App1.429 · 26.11.2026
+
+Begrenzter stufenbandpassender Pflichtbereichsanschluss für das Abwägen zweier additiver beziehungsweise subtraktiver Lösungsvarianten zum selben lebensnahen Sachverhalt. Das verbindliche FSP-Unterziel35509 nennt Variantenabwägung und mathematisches Darstellen. Ausgewählt ist die grundlegende Orientierung über zwei mögliche Wege und eine einfache sachbezogene Wahl; die Anzahl zwei und die Beschränkung auf Addition/Subtraktion sind didaktische Konkretisierungen. Keine vollständige Gleichsetzung mit dem umfassenderen GS-Vergleich und der Bewertung verschiedener Wege und Notationsformen.
+
+Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Übertragen verlangt bekannte Kenntnisse in vergleichbaren Kontexten; Einblick gewinnen bedeutet grundlegende Orientierung ohne tiefere Reflexion (beide Pläne S.V/PDF5). Abwägen, Vergleichen, Bewerten und Darstellen sind Zielhandlungen, keine Lernzielebenen. Insbesondere wird aus Abwägen nicht Beurteilen und aus mathematischem Darstellen nicht Anwenden. Der benachbarte Übertragen-Anker35470 gilt für diese Sachverhaltszeile nicht.
+
+GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel des Stufenbands3/4 (35415) abgeleitet.35504/35509 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und die umfassende Rechenweg-/Notationsbewertung sind nicht abgedeckt. Der kleinere FSP-Rahmen ist allein kein Ausschlussgrund für diesen fachlichen Teilanschluss.
+
+Beide Varianten beziehen sich auf dieselbe Frage und dieselben Ausgangsdaten eines Sachverhalts aus dem Erfahrungsbereich. Addition/Subtraktion und der Sachbezug müssen verständlich sein. Für GS ist der Übertrag bekannter Strategien auf einen vergleichbaren Kontext maßgeblich. FSP verlangt hier grundlegende Orientierung und eine einfache sachbezogene Abwägung, keine selbstständige vertiefte Reflexion oder allgemeine Effizienzrangfolge. Die Lehrkraft legt den individuellen Unterstützungsbedarf fest.
+
+Das Unterziel35509 trägt die Variantenabwägung ausdrücklich. Die Bemerkungen zu35504/35509 liefern den Sachkontext, bis zu zwei Rechenschritte und mögliche Darstellungen; sie sind keine eigenständigen Lernzielebenen. Zwei Varianten, die einfache Begründung einer Wahl sowie der additive/subtraktive Ausschnitt sind didaktische Konkretisierungen. Die Zielhandlungen müssen im Anspruch von Einblick gewinnen bleiben. Die bloße Nennung verschiedener Schreibweisen belegt noch nicht deren Vergleich und Bewertung.
+
+FSP1/2:37908 unter Einblick gewinnen37896 nennt verschiedene Lösungswege, mit Darstellungen in der Bemerkung;37885 unter Einblick gewinnen37851 nennt verschiedene additive/subtraktive Wege und Rechenvorteile bis20. Positive vorbereitende Kandidaten, nicht wegen des kleineren Zahlenraums verworfen. Die ausdrücklich benannte Variantenabwägung35509 im passenden FSP-Band3/4 wird bevorzugt. FSP3/4:35580 unter Kennen35571 beschreibt eigene Wege im Knobel-Wahlbereich; dies ist keine ausdrückliche allgemeine Variantenbewertung.35485 samt übergreifendem Sprachziel35415 trägt bereitsMA-120.35593 unter Anwenden35582 trägtMA-121 mit Tierwelt-/Wahlbereichsbindung. Die Pflichtbereichszeile35509 ermöglicht den hier engeren Anschluss ohne Wahlbereichsbindung; keine Übernahme des höheren Reflexionsanspruchs von35593.
+
+187197 bleibt hinsichtlich Beschreibung, Vergleich und Bewertung von Notationsformen sowie breiterer Rechenvorteils-/Effizienzvergleiche offen. Diese Teilfrage wird jetzt ausdrücklich im Fragenregister geführt (23 statt22), nicht als neue Erstprüfung gezählt. MA-120 (eigener Teilschrittweg) und MA-121 (Tierweltreflexion unter Anwenden) bleiben unverändert. Keine pauschale Nichtanschlussentscheidung für die Notationsfrage. Fortsetzung bei187198 (Umkehroperation), danach187199–187201.2064 ist nur Hauptzielkontext.
+
+Keine neue Erstprüfung; eine neue Karte,121 Bestandskarten und434 Ebeneneinträge erhalten. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte KartenprüfungMA-120/121/122 und Ebenenprüfung435Karten/870Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
