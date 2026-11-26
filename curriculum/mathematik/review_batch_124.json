@@ -483,7 +483,7 @@
     "target_anchors": 284
   },
   "tests": {
-    "status": "local_targeted_and_levels_passed_full_suite_incomplete",
+    "status": "local_and_live_targeted_and_levels_passed_full_suite_incomplete",
     "data_checks": {
       "update-mathematik.py": {
         "exit": 0,
@@ -515,14 +515,30 @@
     "attempts": "Erster lokaler Gesamtlauf bei MA-041: Zeitlimit beim Scrollen zu #prev. Zweiter Lauf bei MA-053: Zeitlimit beim Klick auf #connectionNotes > summary. Beide abgebrochen, keine bestandenen Gesamtläufe. Dritter Gesamtlauf mit20ms Eingabeverzögerung beiMA-055 ebenfalls Zeitlimit. Ein TeilversuchMA-001–040 brach beiMA-008 ab; gezielter VersuchMA-118/119 bereits beim Browserstart mit EGL/ANGLE-Grafikfehler (Vulkan-Erweiterungen nicht unterstützt). Mit --use-angle=metal bestand der Start-/Klicktest, der vollständige Lauf brach aber beiMA-054 erneut beim Scrollen zu #prev ab. Danach bestanden die gezielte PrüfungMA-118/119 und die separate Ebenenprüfung432Karten/864Seiten. Kein bestandener vollständiger Mathematik-Funktionslauf behauptet.",
     "preservation": "117 Mathematikkarten vollständig unverändert;MA-118/119 nur zwei Fortsetzungstextfelder aktualisiert. Alle IDs, Quellen, Ebenen, Feinziele, Kriterien und Scope-Felder unverändert; Deutsch/Sachunterricht erhalten. index.html und dist/index.html bytegleich.",
     "audit_check": "PASS:220 eindeutige Inventurzeilen,15 eindeutige ganze Nichtanschlüsse,22 offene Fragen; genau eine Erstprüfung mit zwei Fachwortaspekten, sieben neue Zeilen ausschließlich offen inventarisiert.",
-    "limits": "Keine UI-Codeänderung. Vollständiges scripts/check-mathematik-browser.cjs mehrfach ausgeführt, aber wegen Interaktions-Zeitlimits nicht abgeschlossen. Gezielte Kartenprüfung und vollständige Ebenenprüfung bestanden; keine neue vollständige semantische Quellenprüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig. Liveprüfung ausstehend."
+    "limits": "Vollständiges check-mathematik-browser.cjs lokal mehrfach abgebrochen (Interaktions-Zeitlimits); kein vollständiger Funktionslauf aller119 Mathematikkarten lokal/live behauptet. Gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Gesamtprüfung aller Bestandskarten. Gesamtabgleich unvollständig.",
+    "live_browser": "PASS:MA-118/119 gezielt; Quellen, aktualisierte Nichtanschlusshinweise, Scope auf Karte/Zielen/Output, Feinzielübernahme, leere Aufgaben/Hilfsmittel, erhaltene Lehrkrafttexte, Fachwechsel und Mobilregressionen MA-084.",
+    "live_learning_levels": "PASS:432 Karten/864 Seiten; amtliche Lernzielebenen und Zielhandlungen getrennt.",
+    "browser_runtime": "Chromium headless shell mit --use-angle=metal; Eingabeverzögerung im erfolgreichen gezielten Lauf nicht nötig. Reproduzierbares gezieltes Prüfszenario scripts/check-mathematik-live-ma-124.cjs. Die ursprüngliche Gesamtprüfung und deren Assertions blieben unverändert."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.425"
+    "batch": "MA-124",
+    "status": "published_verified_with_test_limit",
+    "app_version": "1.425",
+    "commit": "1dbdcbeec24f79de8e39066259cc7bef296cbc51",
+    "tree": "6e52f93627d5833e79da885eeb496b056ecfd498",
+    "pages_run_id": 45725808667,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45725808667",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "ec0daa549e8848e43db9b794218eb8bab44700a9e6b110b54d5cd50773ab0ab7",
+    "bytes": 5634129,
+    "live_browser": "PASS:gezielte MathematikprüfungMA-118/119, Quellen/Scope/Ziele/Output, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung432Karten/864Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Vollständiges check-mathematik-browser.cjs lokal mehrfach abgebrochen (Interaktions-Zeitlimits); kein vollständiger Funktionslauf aller119 Mathematikkarten lokal/live behauptet. Gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Gesamtprüfung aller Bestandskarten. Gesamtabgleich unvollständig."
   },
   "continuation": {
     "next_id": "page912_2064",
-    "next_step": "GS3 Hauptziel2064 (Übertragen auf Addition/Subtraktion bis1000) als Kontext und Unterziel2065 (Strategien) zuerst einzeln prüfen; anschließend187197/187198/187199/187200/187201. Diese sieben Zeilen sind nur inventarisiert, nicht fachlich geprüft. MA-124 hat187196 für Tausender und Runden ohne hinreichenden direkten Anschluss entschieden; eine Erstprüfung mit zwei Fachwortaspekten, keine neue Karte.2052 bleibt mit begrenzten Anschlüssen und dokumentiertem Rest ohne vollständige Zieldeckung.119 Karten,22 offene Anschlussfragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen. App1.425: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 Hauptziel2064 (Übertragen auf Addition/Subtraktion bis1000) als Kontext und Unterziel2065 (Strategien) zuerst einzeln prüfen; anschließend187197/187198/187199/187200/187201. Diese sieben Zeilen sind nur inventarisiert, nicht fachlich geprüft. MA-124 hat187196 für Tausender und Runden ohne hinreichenden direkten Anschluss entschieden; eine Erstprüfung mit zwei Fachwortaspekten, keine neue Karte.2052 bleibt mit begrenzten Anschlüssen und dokumentiertem Rest ohne vollständige Zieldeckung.119 Karten,22 offene Anschlussfragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen. App1.425: auf main veröffentlicht; Pages erfolgreich und Live-App bytegleich. Datenprüfungen, gezielte KartenprüfungMA-118/119 und Ebenenprüfung432/864 lokal/live bestanden; vollständiger Mathematik-Funktionslauf wegen dokumentierter Interaktions-Zeitlimits nicht abgeschlossen. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }
