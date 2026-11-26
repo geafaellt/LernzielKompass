@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-131
+# Mathematik-Abgleich · MA-132
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertfünfundzwanzig Karten dokumentieren begrenzte Anschlüsse. Sechsundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertsechsundzwanzig Karten dokumentieren begrenzte Anschlüsse. Siebenundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: Zielzahlmauern, danach weitere Formate. [MA-131](review_batch_131.json) ergänztMA-125 für additive Ergebnisverknüpfung.125 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: Rechendreiecke, danach weitere Ketten-/Strukturfragen. [MA-132](review_batch_132.json) ergänztMA-126 für den lokalen fehlenden Summanden bei bekannter Zielsumme.126 Karten,25 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1580,3 +1580,22 @@ Eine Erstprüfung187201; eine neue Karte.124 Bestandskarten,437 Ebeneneinträge 
 
 
 MA-131 veröffentlicht: App1.433, Commit `1aca6701c9a365d4d4dfa007c236fa2c6c5b52c7`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45839199194). Live-App bytegleich, SHA-256 `ff10ffc2ac09e90787e80c3cebd8dd732924a4e78c197b11a376c2db1bcf1869`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-040/124/125 und Ebenenprüfung438 Karten/876 Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller125 Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Zielzahlmauern innerhalb strukturierter Aufgabenformate187201.125 Karten,24 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Eine Erstprüfung187201; übrige Formate im direkten Fortsetzungspunkt offen, nicht erneut erstzählen. Kein Gesamtabschluss. Deutsch-Abschluss und AIS-Kopierbutton unverändert.
+
+
+## MA-132 · App1.434 · 26.11.2026
+
+GS3 strukturierte Aufgabenformate187201 werden für eine lokale additive Beziehung in einer Zahlenmauer mit vorgegebener Zielzahl weitergeprüft: Die obere Summe und ein zugehöriger unterer Summand sind bekannt, der andere Summand fehlt. Der gemeinsame mathematische Gegenstand ist das Bestimmen dieses fehlenden Summanden über die Umkehrbeziehung. FSP3/4 nennt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe in der Bemerkung35485 unter35479/Übertragen35470. Dieser stufenbandpassende Rechenbezug trägt den eng ausgewählten Teilanschluss; ein ausdrückliches FSP3/4-Mauerformat oder eine vollständige Konstruktion ganzer Mauern wird nicht behauptet.
+
+Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Die Definitionen beider Lehrpläne S.V/PDF5 verlangen Verwenden bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen, Entdecken und Nutzen sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Das Anwenden ausFSP1/2-Wahlbereich38017 und das Kennen ausFSP3/4-Wahlbereich35571 werden nicht auf35485 übertragen.35487 ist ein eigener Kontrollunterpunkt und nicht die primäre Quelle für das Ermitteln des noch fehlenden Wertes.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel35479.35485 ist diesem Additions-/Subtraktionsziel untergeordnet. Der Rahmen ist damit zielzeilenbezogen belegt und nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Der GS-Zahlenraum oberhalb100 und weiterführende Mauer-/Strukturzusammenhänge sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund für den belegten Umkehrbezug.
+
+Die additive Zuordnung ist geklärt: zwei unmittelbar zugehörige Summanden ergeben die vorgegebene Summe. Genau einer dieser Summanden fehlt, der andere ist bekannt und nicht größer als die Summe. Die bekannte Umkehrbeziehung wird in einem vergleichbaren Zusammenhang genutzt; auf FSP-Seite bleibt der lebensweltliche Bezug des Hauptziels erhalten. GS deutet den lokalen Mauerzusammenhang; FSP muss keine Mauer als amtlich vorgegebenes Format verwenden. Das Ermitteln eines noch unbekannten Summanden wird von der bloßen Kontrolle eines bereits angegebenen Ergebnisses getrennt.
+
+Die Auswahl einer lokalen additiven Mauerbeziehung mit einem fehlenden Summanden ist didaktisch. GS187201 nennt Zahlenmauern mit vorgegebener Zielzahl als Bemerkungsbeispiel, ohne bestimmte Regel, Höhe oder Anzahl fehlender Felder festzulegen. FSP35485 belegt den Lösungsbezug, nicht dieses grafische Format. Eine passende Zahl allein belegt die Nutzung der Umkehrbeziehung noch nicht. Freie Konstruktion mehrreihiger Mauern oder vollständige Untersuchung der Zielzahlabhängigkeit wird durch diesen Ausschnitt nicht nachgewiesen; eine Forderung, sämtliche möglichen Mauern zu finden, wird dem GS-Lehrplan nicht hinzuerfunden.
+
+FSP1/2:37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und den Zusammenhang Addition/Subtraktion einschließlich Platzhalter ausdrücklich im Zahlenraum20; positiver vorbereitender Rechenanschluss.38019 unterAnwenden38017 nennt Rechenmauern im Wahlbereich4 Zahlenzauberei. Dieses grafische Beispiel stützt den Formatbezug, nennt aber keine spezielle inverse Zielzahlregel und keine eigene Obergrenze; MA-040 leitet20 didaktisch aus37739 ab.38021/38022/38035/38037 stehen untereigenemEinblick gewinnen und belegen allgemeine Knobelstrategien, nicht automatisch ganze Zielzahlmauern. FSP3/4:35485 unter35479/Übertragen35470 nennt ausdrücklich die Beziehung Aufgabe/Umkehraufgabe; für das Ermitteln eines fehlenden Summanden bei gegebener Summe ist dies der konkrete mathematische Anschluss. Deshalb stufenbandpassend bevorzugt, nicht wegen des größeren Zahlenraums und ohne FSP-Mauerformat zu behaupten.35577/35578/35580 unterKennen35571 im Wahlbereich2 bleiben Strategiekandidaten für weiterführende Mauerzusammenhänge, keine nachgewiesene vollständige Zielzahlkonstruktion.35487 belegt Kontrolle und wird nicht ungeprüft als Lösungsziel umgedeutet. Keine pauschale Ablehnung anderer Kandidaten wegen ihres Zahlenraums.
+
+187201 bleibt trotzMA-125 undMA-126 nur begrenzt geprüft. Weitere Mauerzusammenhänge bei weniger Vorgaben, mehreren Reihen und veränderter Zielzahl sind als25.Frage separat gesichert; keine ganze Nichtanschlussentscheidung. Nächster Ausschnitt: Rechendreiecke, danach weitere Ketten-/Strukturfragen derselben Zeile. Keine erneute Erstprüfung187201 (bereitsMA-131), keine Erstzählung der Kontextzeilen2064/187199. Die24 bisherigen Fragen bleiben erhalten.
+
+Folgeprüfung187201 ohne erneute Erstzählung; eine neue Karte.125 Bestandskarten,438 Ebeneneinträge und der AIS-Kopierbutton erhalten. Sechs Datenprüfungen, gezielter Kartentest und Ebenenprüfung439 Karten/878 Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.7",
+  "version": "MA-2026-11-26.8",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12050,6 +12050,93 @@
         "Q-MA-page912_187201",
         "Q-MA-page139_35470",
         "Q-MA-page139_35475"
+      ]
+    },
+    {
+      "id": "MA-126",
+      "subject": "Mathematik",
+      "theme": "Fehlender Summand bei vorgegebener Zielsumme · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · lokaler Umkehrbezug",
+      "gs_anchor": "GS Mathematik Kl.3 · Strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 bis1 000; lokaler Ausschnitt des Bemerkungsbeispiels Zahlenmauer mit vorgegebener Zielzahl",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Lösungswege35485 unter Addieren/Subtrahieren35479 bis100 undÜbertragen35470; Umkehrbeziehung als Bemerkungsbeleg, kein ausdrücklich vorgeschriebenes Mauerformat",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Die Definitionen beider Lehrpläne S.V/PDF5 verlangen Verwenden bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen, Entdecken und Nutzen sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Das Anwenden ausFSP1/2-Wahlbereich38017 und das Kennen ausFSP3/4-Wahlbereich35571 werden nicht auf35485 übertragen.35487 ist ein eigener Kontrollunterpunkt und nicht die primäre Quelle für das Ermitteln des noch fehlenden Wertes. GS3 strukturierte Aufgabenformate187201 werden für eine lokale additive Beziehung in einer Zahlenmauer mit vorgegebener Zielzahl weitergeprüft: Die obere Summe und ein zugehöriger unterer Summand sind bekannt, der andere Summand fehlt. Der gemeinsame mathematische Gegenstand ist das Bestimmen dieses fehlenden Summanden über die Umkehrbeziehung. FSP3/4 nennt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe in der Bemerkung35485 unter35479/Übertragen35470. Dieser stufenbandpassende Rechenbezug trägt den eng ausgewählten Teilanschluss; ein ausdrückliches FSP3/4-Mauerformat oder eine vollständige Konstruktion ganzer Mauern wird nicht behauptet. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel35479.35485 ist diesem Additions-/Subtraktionsziel untergeordnet. Der Rahmen ist damit zielzeilenbezogen belegt und nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Der GS-Zahlenraum oberhalb100 und weiterführende Mauer-/Strukturzusammenhänge sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund für den belegten Umkehrbezug.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 strukturierte Aufgabenformate187201 werden für eine lokale additive Beziehung in einer Zahlenmauer mit vorgegebener Zielzahl weitergeprüft: Die obere Summe und ein zugehöriger unterer Summand sind bekannt, der andere Summand fehlt. Der gemeinsame mathematische Gegenstand ist das Bestimmen dieses fehlenden Summanden über die Umkehrbeziehung. FSP3/4 nennt das Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe in der Bemerkung35485 unter35479/Übertragen35470. Dieser stufenbandpassende Rechenbezug trägt den eng ausgewählten Teilanschluss; ein ausdrückliches FSP3/4-Mauerformat oder eine vollständige Konstruktion ganzer Mauern wird nicht behauptet. Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Die Definitionen beider Lehrpläne S.V/PDF5 verlangen Verwenden bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen, Entdecken und Nutzen sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Das Anwenden ausFSP1/2-Wahlbereich38017 und das Kennen ausFSP3/4-Wahlbereich35571 werden nicht auf35485 übertragen.35487 ist ein eigener Kontrollunterpunkt und nicht die primäre Quelle für das Ermitteln des noch fehlenden Wertes. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel35479.35485 ist diesem Additions-/Subtraktionsziel untergeordnet. Der Rahmen ist damit zielzeilenbezogen belegt und nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Der GS-Zahlenraum oberhalb100 und weiterführende Mauer-/Strukturzusammenhänge sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund für den belegten Umkehrbezug. Die additive Zuordnung ist geklärt: zwei unmittelbar zugehörige Summanden ergeben die vorgegebene Summe. Genau einer dieser Summanden fehlt, der andere ist bekannt und nicht größer als die Summe. Die bekannte Umkehrbeziehung wird in einem vergleichbaren Zusammenhang genutzt; auf FSP-Seite bleibt der lebensweltliche Bezug des Hauptziels erhalten. GS deutet den lokalen Mauerzusammenhang; FSP muss keine Mauer als amtlich vorgegebenes Format verwenden. Das Ermitteln eines noch unbekannten Summanden wird von der bloßen Kontrolle eines bereits angegebenen Ergebnisses getrennt. Die Auswahl einer lokalen additiven Mauerbeziehung mit einem fehlenden Summanden ist didaktisch. GS187201 nennt Zahlenmauern mit vorgegebener Zielzahl als Bemerkungsbeispiel, ohne bestimmte Regel, Höhe oder Anzahl fehlender Felder festzulegen. FSP35485 belegt den Lösungsbezug, nicht dieses grafische Format. Eine passende Zahl allein belegt die Nutzung der Umkehrbeziehung noch nicht. Freie Konstruktion mehrreihiger Mauern oder vollständige Untersuchung der Zielzahlabhängigkeit wird durch diesen Ausschnitt nicht nachgewiesen; eine Forderung, sämtliche möglichen Mauern zu finden, wird dem GS-Lehrplan nicht hinzuerfunden.",
+      "shared_object_suggestion": "Eine bekannte Summe und ein bekannter Summand bestimmen den fehlenden Summanden – Addition und Subtraktion beschreiben dieselbe Beziehung.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt die bekannte Umkehrbeziehung auf einen vergleichbaren lokalen Zahlenmauerzusammenhang bis 1 000, beschreibt die Beziehung zwischen vorgegebener Zielsumme und den beiden zugehörigen Summanden und bestimmt den fehlenden Summanden.",
+          "criterion": "Die vorgegebene Summe wird um den bekannten Summanden vermindert; die Differenz bezeichnet den fehlenden Summanden an der zugehörigen Stelle. Die Beschreibung verbindet obere Summe und untere Summanden der vereinbarten additiven Mauerregel. Bekannter Summand höchstens gleich Summe; alle beteiligten Feldwerte sowie relevanten Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Ein richtiges Ergebnis ohne erkennbaren Umkehrbezug genügt nicht.",
+          "status": "Didaktische Konkretisierung des Bemerkungsformats; nur eine lokale Beziehung, keine vollständige Konstruktion ganzer Zielzahlmauern."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet die bekannte Beziehung zwischen Addition und Subtraktion in einem vergleichbaren lebensweltlichen Zusammenhang bis 100, um bei bekannter Summe und einem bekannten Summanden den fehlenden Summanden zu bestimmen.",
+          "criterion": "Die bekannte Summe wird zum Minuenden und der bekannte Summand zum Subtrahenden; die nichtnegative Differenz ist der gesuchte Summand. Bekannter und gefundener Summand ergeben gemeinsam wieder die vorgegebene Summe. Alle Ausgangswerte, Teilbeträge sowie relevanten Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Der bekannte Summand ist nicht größer als die Summe. Die Umkehrbeziehung wird zum Ermitteln des fehlenden Wertes genutzt, nicht nur zur Kontrolle einer bereits bekannten Lösung.",
+          "status": "Didaktische Konkretisierung des Umkehrbelegs35485; keine amtliche FSP-Forderung nach Zahlenmauern.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel35479.35485 ist diesem Additions-/Subtraktionsziel untergeordnet. Der Rahmen ist damit zielzeilenbezogen belegt und nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Der GS-Zahlenraum oberhalb100 und weiterführende Mauer-/Strukturzusammenhänge sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund für den belegten Umkehrbezug.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187201 verbindlicher Format-Unterpunkt unter187199/Übertragen2064; Zahlenmauern mit vorgegebener Zielzahl sind Bemerkungsbeispiel. Lokale additive Ergänzung ist didaktisch.2064/187199 nur Kontext dieser Karte.",
+        "fsp": "35485 verbindlicher Lösungswege-Unterpunkt unter35479/Übertragen35470; Beziehung Aufgabe/Umkehraufgabe steht in der Bemerkung. Keine automatische Übernahme des separaten Kontrollziels35487 oder eines Mauerformats aus anderem Band.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ],
+        "fsp_remark_anchor": "page139_35485"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100; fehlender Summand didaktisch konkretisiert.",
+        "detail": "35485 gehört zum Additions-/Subtraktionsziel35479 mit ausdrücklicher Grenze100. Die Grenze gilt im ausgewählten Lösungszusammenhang auch für alle relevanten Zwischen- und Kontrollwerte. Keine Ableitung aus35415 und keine Übernahme der20 aus dem benachbarten Einspluseinsziel35475.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35485"
+        ],
+        "planning_rule": "FSP: vorgegebene Summe, bekannter und fehlender Summand sowie sämtliche relevanten Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Der bekannte Summand ist höchstens so groß wie die Summe; die Differenz ist daher nichtnegativ. Auch die Addition des gefundenen und bekannten Summanden ergibt wieder die vorgegebene Summe innerhalb100. Werden intern Teilschritte genutzt, gelten dieselben Grenzen für alle Teilbeträge und Zwischenergebnisse. GS entsprechend bis1 000, einschließlich aller beteiligten Feldwerte des ausgewählten Mauerzusammenhangs. Kein Überschreiten des Rahmens bei Zwischenwerten, keine Maßzahlen/Einheiten, Dezimalzahlen, negativen Ergänzungen oder multiplikativen Mauerregeln. Nur eine lokale Beziehung mit genau einem fehlenden Summanden und bekannter Summe; mehrreihige freie Mauerkonstruktion ist nicht durch dieses Feinziel abgedeckt. Diese Auswahl ist didaktisch, keine amtlich vorgeschriebene Mauerform. Konkreten Kontext, Aufgaben, Lernhandlungen, Darstellungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
       ]
     }
   ]
