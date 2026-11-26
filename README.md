@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.429** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.430** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -46,7 +46,7 @@ App 1.322 enthält einen aufklappbaren, nach Fach filterbaren Informationsbereic
 | --- | --- | --- |
 | Sachunterricht, Grundschule 1–4 | 135 Anschlusskarten; GS Sachunterricht ↔ FSP Deutsch-Heimatkunde/Sachunterricht, ausschließlich Stufenbänder 1/2 und 3/4; Datenbasis v2.46 | Der dokumentierte ZA-Prüfumfang wurde bearbeitet; die Projektverantwortliche hat die 21 ZA-Punkte am 23.10.2026 inhaltlich freigegeben. Das ist keine amtliche Freigabe und keine Aussage vollständiger Zieldeckung. Der Bestand bleibt bei den Deutsch-Erweiterungen unverändert. |
 | Deutsch, Grundschule 1–4 | 178 Anschlusskarten; GS 1/2, 3 und 4 ↔ FSP Deutsch-Heimatkunde/Sachunterricht 1/2 und 3/4 | Quellenbasierter Abgleichsentwurf; dokumentierte Einzelprüfung einschließlich Anschlussfragen abgeschlossen. Grenzen und Restumfang siehe unten. |
-| Mathematik, Grundschule 1–4 | 122 begrenzte Anschlüsse;93 stufenbandpassend,29 stufenübergreifend | MA-128, App1.429:23 offene Anschlussfragen, Einzelprüfung unvollständig. Fortsetzung GS3 Umkehroperation187198. [Fortschritt](curriculum/mathematik/review_progress.json) · [Prüfpaket](curriculum/mathematik/review_batch_128.json). |
+| Mathematik, Grundschule 1–4 | 123 begrenzte Anschlüsse;94 stufenbandpassend,29 stufenübergreifend | MA-129, App1.430:23 offene Anschlussfragen, Einzelprüfung unvollständig. Fortsetzung GS3 arithmetische Muster187199–187201. [Fortschritt](curriculum/mathematik/review_progress.json) · [Prüfpaket](curriculum/mathematik/review_batch_129.json). |
 | Oberschule und weitere Fächer | Weitere Entwicklungsbereiche | Die Oberschule bleibt in der Auswahl deaktiviert. |
 
 Die FSP-Stufenbänder werden nicht als Einzelklassen interpretiert. Stufenübergreifende Zuordnungen und notwendige Wahlbereiche sind zu beachten. Sekundarstufenanschlüsse gehören nicht zum aktuellen Deutsch-Abgleich.
@@ -295,3 +295,5 @@ Mathematik MA-128: Pflichtbereichsabwägung aufMA-122, GS Übertragen/FSP Einbli
 
 
 MA-128 veröffentlicht: App1.429, Commit `c91459564407a258c6ecb57459ba2016b6d4e7ff`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45814581876). Live-App bytegleich, SHA-256 `02b357f87f027a436dda8d0ae89d44686dd77983c76f5e23576a14e1143b2eb6`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-120/121/122 und Ebenenprüfung435Karten/870Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller122Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Umkehroperation187198; Rest187197 zu Notationen/breiteren Vergleichen ausdrücklich im Fragenregister gesichert.122 Karten,23 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Keine neue Erstzählung187197; kein Gesamtabschluss. Deutsch-Abschluss unverändert.
+
+Mathematik MA-129: Umkehrkontrolle von Addition/Subtraktion aufMA-123, beide amtlich Übertragen. GS1000/FSP100 ausdrücklich; Fehler-/Kontrollwerte eingeschlossen.123 Karten,23 Fragen; eine Erstprüfung187198. Sechs Datenprüfungen, gezielte KartenprüfungMA-038/120/123 und Ebenenprüfung436Karten/872Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

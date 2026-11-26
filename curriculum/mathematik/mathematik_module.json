@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.4",
+  "version": "MA-2026-11-26.5",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1873,6 +1873,18 @@
       "id": "Q-MA-page139_35509",
       "title": "FSP Lernen Mathematik3/4 · Natur entdecken und erleben",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187198",
+      "title": "GS Mathematik3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187198",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35487",
+      "title": "FSP Lernen Mathematik3/4 · Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35487",
       "version": "2019"
     }
   ],
@@ -11762,6 +11774,90 @@
         "Q-MA-page139_35504",
         "Q-MA-page139_35509",
         "Q-MA-page139_35415"
+      ]
+    },
+    {
+      "id": "MA-123",
+      "subject": "Mathematik",
+      "theme": "Addition und Subtraktion durch Umkehren kontrollieren · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl.3 · Kontrollzeile187198 unter Übertragen2064 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Kontrollzeile35487 unter Addieren/Subtrahieren35479 bis100 und Übertragen35470",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel 2064; FSP Übertragen aus Hauptziel 35470. Beide Definitionstabellen (S. V/PDF5) verlangen die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Kontrollieren, Umkehren und Vergleichen sind Zielhandlungen, keine Ersatzangaben für die Lernzielebene. Das Kennen der benachbarten schriftlichen Verfahren (35498) und das Einblick gewinnen aus FSP1/2 (37851) werden nicht auf 35487 übertragen. GS3 Unterziel 187198 wird erstmals einzeln für die Kontrolle einer Addition durch Subtraktion und einer nichtnegativen Subtraktion durch Addition begrenzt zugeordnet. FSP3/4 Unterziel 35487 nennt Kontrollieren durch Umkehren; es steht unter Addieren/Subtrahieren bis 100 (35479) und dem Hauptziel 35470. Die Bemerkung zu 35479 bestätigt die Umkehroperation zusätzlich. Die konkrete Rückführung auf einen ursprünglichen Operanden und der Vergleich zur Entscheidung über ein angegebenes Ergebnis sind didaktische Konkretisierungen des ausdrücklich belegten Kontrollzwecks. GS-Zahlenraum bis 1 000 ausdrücklich aus Hauptziel 2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel 35479. Die Kontrollzeile 35487 ist diesem Unterziel untergeordnet; sie besitzt keinen eigenen isolierten Zahlenwert. Der Rahmen ist deshalb ausdrücklich aus dem zugehörigen Zielblock belegt, nicht aus einem übergreifenden Bandziel abgeleitet. Keine vollständige GS-Zieldeckung: Der Zahlenraum oberhalb 100 bis 1 000 ist durch diesen FSP-Anschluss nicht gedeckt. Der kleinere FSP-Zahlenraum ist kein Ausschlussgrund für den belegten Teilanschluss.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187198"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35487"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 Unterziel 187198 wird erstmals einzeln für die Kontrolle einer Addition durch Subtraktion und einer nichtnegativen Subtraktion durch Addition begrenzt zugeordnet. FSP3/4 Unterziel 35487 nennt Kontrollieren durch Umkehren; es steht unter Addieren/Subtrahieren bis 100 (35479) und dem Hauptziel 35470. Die Bemerkung zu 35479 bestätigt die Umkehroperation zusätzlich. Die konkrete Rückführung auf einen ursprünglichen Operanden und der Vergleich zur Entscheidung über ein angegebenes Ergebnis sind didaktische Konkretisierungen des ausdrücklich belegten Kontrollzwecks. Amtliche Lernzielebenen: GS Übertragen aus Hauptziel 2064; FSP Übertragen aus Hauptziel 35470. Beide Definitionstabellen (S. V/PDF5) verlangen die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Kontrollieren, Umkehren und Vergleichen sind Zielhandlungen, keine Ersatzangaben für die Lernzielebene. Das Kennen der benachbarten schriftlichen Verfahren (35498) und das Einblick gewinnen aus FSP1/2 (37851) werden nicht auf 35487 übertragen. GS-Zahlenraum bis 1 000 ausdrücklich aus Hauptziel 2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel 35479. Die Kontrollzeile 35487 ist diesem Unterziel untergeordnet; sie besitzt keinen eigenen isolierten Zahlenwert. Der Rahmen ist deshalb ausdrücklich aus dem zugehörigen Zielblock belegt, nicht aus einem übergreifenden Bandziel abgeleitet. Keine vollständige GS-Zieldeckung: Der Zahlenraum oberhalb 100 bis 1 000 ist durch diesen FSP-Anschluss nicht gedeckt. Der kleinere FSP-Zahlenraum ist kein Ausschlussgrund für den belegten Teilanschluss. Bekannte Addition, Subtraktion und deren Umkehrbeziehung sind Voraussetzung. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; im FSP bleibt der lebensweltliche Bezug des Hauptziels erhalten. Die Kontrolle muss sich auf die ursprünglichen Operanden und das tatsächlich zu prüfende Ergebnis beziehen. Das bloße Ableiten irgendeiner passenden Umkehraufgabe oder nochmaliges Ausführen derselben Ausgangsoperation belegt den Kontrollzweck nicht. Die beiden ausgewählten Kontrollrichtungen und das Entscheidungskriterium sind didaktische Konkretisierungen. Die Quellen geben keine Pflicht zu einer bestimmten Schreibweise, einem Hilfsmittel, einer Fehleranzahl oder einer automatisierten Kontrollroutine vor. Partner-/Selbstkontrolle und Taschenrechner stehen in der Bemerkung, nicht als zusätzliche amtliche Lernzielebenen. Eine vollständige Selbstkontrollgewohnheit wird hier nicht behauptet.",
+      "shared_object_suggestion": "Die Übereinstimmung eines ursprünglichen Operanden mit dem Ergebnis der zugehörigen Umkehrkontrolle.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt die bekannte Umkehrbeziehung zwischen Addition und Subtraktion auf einen vergleichbaren Rechenzusammenhang und prüft angegebene Ergebnisse im Zahlenraum bis 1 000 durch die jeweils zugehörige Umkehroperation.",
+          "criterion": "Bei einer Addition wird das angegebene Ergebnis durch Abzug eines ursprünglichen Summanden auf den anderen Summanden zurückgeprüft. Bei einer Subtraktion wird das angegebene Ergebnis zusammen mit dem ursprünglichen Subtrahenden auf den Minuenden zurückgeprüft. Übereinstimmung oder Abweichung wird zutreffend auf die Richtigkeit des angegebenen Ergebnisses bezogen. Bloßes Wiederholen der Ausgangsoperation genügt nicht. Alle Ausgangsoperanden, richtigen und angegebenen Ergebnisse sowie relevanten Zwischen-, End- und Kontrollergebnisse sind nichtnegative ganze Zahlen bis 1 000. Auch Fehlerwerte und ihre Kontrollrechnung halten diese Grenze ein. Der Übertrag auf den vergleichbaren Zusammenhang ist erkennbar.",
+          "status": "Didaktische Konkretisierung: zwei additive Kontrollrichtungen; keine feste Notation oder allgemeine Selbstkontrollroutine."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind überträgt die bekannte Umkehrbeziehung zwischen Addition und Subtraktion auf einen vergleichbaren Rechenzusammenhang und prüft angegebene Ergebnisse im Zahlenraum bis 100 durch die jeweils zugehörige Umkehroperation. Der lebensweltliche Bezug bleibt erhalten.",
+          "criterion": "Bei einer Addition wird das angegebene Ergebnis durch Abzug eines ursprünglichen Summanden auf den anderen Summanden zurückgeprüft. Bei einer Subtraktion wird das angegebene Ergebnis zusammen mit dem ursprünglichen Subtrahenden auf den Minuenden zurückgeprüft. Übereinstimmung oder Abweichung wird zutreffend auf die Richtigkeit des angegebenen Ergebnisses bezogen. Bloßes Wiederholen der Ausgangsoperation genügt nicht. Alle Ausgangsoperanden, richtigen und angegebenen Ergebnisse sowie relevanten Zwischen-, End- und Kontrollergebnisse sind nichtnegative ganze Zahlen bis 100. Auch Fehlerwerte und ihre Kontrollrechnung halten diese Grenze ein. Der Übertrag auf den vergleichbaren Zusammenhang ist erkennbar.",
+          "status": "Didaktische Konkretisierung: zwei additive Kontrollrichtungen; keine feste Notation oder allgemeine Selbstkontrollroutine.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "GS-Zahlenraum bis 1 000 ausdrücklich aus Hauptziel 2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel 35479. Die Kontrollzeile 35487 ist diesem Unterziel untergeordnet; sie besitzt keinen eigenen isolierten Zahlenwert. Der Rahmen ist deshalb ausdrücklich aus dem zugehörigen Zielblock belegt, nicht aus einem übergreifenden Bandziel abgeleitet. Keine vollständige GS-Zieldeckung: Der Zahlenraum oberhalb 100 bis 1 000 ist durch diesen FSP-Anschluss nicht gedeckt. Der kleinere FSP-Zahlenraum ist kein Ausschlussgrund für den belegten Teilanschluss.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187198 verbindliches Kontrollunterziel unter2064.2064 liefert Übertragen und bis1000; nur Hauptzielkontext.",
+        "fsp": "35487 verbindliches Kontrollunterziel unter35479 und35470.35479 begrenzt Addition/Subtraktion ausdrücklich auf100 und nennt Umkehrkontrolle zusätzlich in der Bemerkung.35470 liefert Übertragen. Keine Ableitung aus einem benachbarten Ziel oder aus allgemeinem Stufenbandkontext.",
+        "context_only_gs_ids": [
+          "page912_2064"
+        ],
+        "fsp_remark_anchor": "page139_35479"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100 einschließlich der Umkehrkontrolle.",
+        "detail": "Die Obergrenze steht in35479. Die Kontrollzeile35487 ist ihr im amtlichen Plan untergeordnet (S.20/PDF32).35479 nennt Umkehroperation auch in der Bemerkung. Die Einbeziehung richtiger und angegebener Ergebnisse sowie sämtlicher Kontrollwerte ist eine didaktische Feinzielpräzisierung innerhalb dieser ausdrücklich belegten Grenze. GS2064 bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35487"
+        ],
+        "planning_rule": "Ausdrücklich belegter FSP-Rahmen bis 100 aus35479; der Kontrollunterpunkt35487 steht innerhalb dieses Zielblocks. Didaktische Präzisierung: nichtnegative ganze Zahlen. Ausgangsoperanden, richtiges und angegebenes Ergebnis, alle relevanten Zwischen- und Endergebnisse sowie die vollständige Kontrollrechnung bleiben bis 100 einschließlich100. Bei der Additionskontrolle darf das angegebene Ergebnis nicht kleiner sein als der in der Kontrolle abgezogene ursprüngliche Summand. Bei der Subtraktionskontrolle darf die Summe aus angegebenem Ergebnis und ursprünglichem Subtrahenden nicht über100 liegen. Fehlerfälle außerhalb dieser Grenzen sind nicht Gegenstand des Feinziels, auch wenn das richtige Ergebnis innerhalb100 liegt. Für GS gilt entsprechend bis1 000. Bei der ursprünglichen Subtraktion ist der Subtrahend höchstens so groß wie der Minuend. Negative Zwischenwerte, Dezimalzahlen, Größenumrechnungen und Maßzahlen mit Einheiten gehören nicht zu diesem Ausschnitt. Bekannte Addition, Subtraktion und deren Umkehrbeziehung sind Voraussetzung. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; im FSP bleibt der lebensweltliche Bezug des Hauptziels erhalten. Die Kontrolle muss sich auf die ursprünglichen Operanden und das tatsächlich zu prüfende Ergebnis beziehen. Das bloße Ableiten irgendeiner passenden Umkehraufgabe oder nochmaliges Ausführen derselben Ausgangsoperation belegt den Kontrollzweck nicht. Aufgaben, Lernhandlungen, Notationsformen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187198",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35487"
       ]
     }
   ]

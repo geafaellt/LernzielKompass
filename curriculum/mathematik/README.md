@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-128
+# Mathematik-Abgleich · MA-129
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertzweiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Dreiundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertdreiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Vierundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei GS3 Umkehroperation187198. [MA-128](review_batch_128.json) ergänztMA-122 für einfache Variantenabwägung. Rest187197 separat im Fragenregister gesichert.122 Karten,23 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung bei GS3 arithmetische Muster187199 mit187200/187201. [MA-129](review_batch_129.json) ergänztMA-123 für additive Umkehrkontrolle.123 Karten,23 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1514,3 +1514,22 @@ Keine neue Erstprüfung; eine neue Karte,121 Bestandskarten und434 Ebeneneinträ
 
 
 MA-128 veröffentlicht: App1.429, Commit `c91459564407a258c6ecb57459ba2016b6d4e7ff`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45814581876). Live-App bytegleich, SHA-256 `02b357f87f027a436dda8d0ae89d44686dd77983c76f5e23576a14e1143b2eb6`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-120/121/122 und Ebenenprüfung435Karten/870Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller122Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Umkehroperation187198; Rest187197 zu Notationen/breiteren Vergleichen ausdrücklich im Fragenregister gesichert.122 Karten,23 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Keine neue Erstzählung187197; kein Gesamtabschluss. Deutsch-Abschluss unverändert.
+
+
+## MA-129 · App1.430 · 26.11.2026
+
+GS3 Unterziel 187198 wird erstmals einzeln für die Kontrolle einer Addition durch Subtraktion und einer nichtnegativen Subtraktion durch Addition begrenzt zugeordnet. FSP3/4 Unterziel 35487 nennt Kontrollieren durch Umkehren; es steht unter Addieren/Subtrahieren bis 100 (35479) und dem Hauptziel 35470. Die Bemerkung zu 35479 bestätigt die Umkehroperation zusätzlich. Die konkrete Rückführung auf einen ursprünglichen Operanden und der Vergleich zur Entscheidung über ein angegebenes Ergebnis sind didaktische Konkretisierungen des ausdrücklich belegten Kontrollzwecks.
+
+Amtliche Lernzielebenen: GS Übertragen aus Hauptziel 2064; FSP Übertragen aus Hauptziel 35470. Beide Definitionstabellen (S. V/PDF5) verlangen die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Kontrollieren, Umkehren und Vergleichen sind Zielhandlungen, keine Ersatzangaben für die Lernzielebene. Das Kennen der benachbarten schriftlichen Verfahren (35498) und das Einblick gewinnen aus FSP1/2 (37851) werden nicht auf 35487 übertragen.
+
+GS-Zahlenraum bis 1 000 ausdrücklich aus Hauptziel 2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel 35479. Die Kontrollzeile 35487 ist diesem Unterziel untergeordnet; sie besitzt keinen eigenen isolierten Zahlenwert. Der Rahmen ist deshalb ausdrücklich aus dem zugehörigen Zielblock belegt, nicht aus einem übergreifenden Bandziel abgeleitet. Keine vollständige GS-Zieldeckung: Der Zahlenraum oberhalb 100 bis 1 000 ist durch diesen FSP-Anschluss nicht gedeckt. Der kleinere FSP-Zahlenraum ist kein Ausschlussgrund für den belegten Teilanschluss.
+
+Bekannte Addition, Subtraktion und deren Umkehrbeziehung sind Voraussetzung. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; im FSP bleibt der lebensweltliche Bezug des Hauptziels erhalten. Die Kontrolle muss sich auf die ursprünglichen Operanden und das tatsächlich zu prüfende Ergebnis beziehen. Das bloße Ableiten irgendeiner passenden Umkehraufgabe oder nochmaliges Ausführen derselben Ausgangsoperation belegt den Kontrollzweck nicht.
+
+Die beiden ausgewählten Kontrollrichtungen und das Entscheidungskriterium sind didaktische Konkretisierungen. Die Quellen geben keine Pflicht zu einer bestimmten Schreibweise, einem Hilfsmittel, einer Fehleranzahl oder einer automatisierten Kontrollroutine vor. Partner-/Selbstkontrolle und Taschenrechner stehen in der Bemerkung, nicht als zusätzliche amtliche Lernzielebenen. Eine vollständige Selbstkontrollgewohnheit wird hier nicht behauptet.
+
+FSP1/2 bietet mit 37889 unter Einblick gewinnen37851 einen ausdrücklichen positiven Kontrollbeleg. Die eigene Kontrollzeile hat keine Obergrenze; MA-038 nutzt bis20 didaktisch aus dem übergreifenden Ziel37739, nicht aus der benachbarten Zeile37885. Dieser vorbereitende Anschluss wird nicht wegen seines kleineren Zahlenraums verworfen. Für GS3 wird der stufenbandpassende ausdrückliche Kontrollbeleg35487 unter Übertragen35470 und Addieren/Subtrahieren35479 bis100 bevorzugt. FSP3/4 Kontrollverfahren35503 unter Kennen35498 betreffen schriftliche Verfahren; die Bemerkung unterscheidet Umkehroperation bei Subtraktion und vertauschte Rechenrichtung bei Addition. Diese andere Kontrollart wird nicht als Umkehroperation gleichgesetzt.35447 gehört zum Divisionsblock und trägt den hier additiven Ausschnitt nicht. Keine zusätzliche stufenübergreifende Karte.
+
+187198 ist für die beiden ausgewählten additiven Kontrollrichtungen begrenzt geprüft. Außerhalb der Karte bleiben der GS-Zahlenraum oberhalb100 bis1000, negative Zahlen, Maßzahlen/Einheiten und besondere schriftliche Algorithmen; keine vollständige GS-Zieldeckung. Vertauschen und Erfahrungswertvergleich sind weitere FSP-Kontrollarten, aber nicht Inhalt dieses GS-Unterziels zur Umkehroperation. Die noch offenen Notations-/Vergleichsfragen aus187197 bleiben im Fragenregister. Nächster Prüfpunkt187199 mit187200/187201: arithmetische Muster.23 Anschlussfragen unverändert; keine neue Frage oder ganze Nichtanschlusszeile.
+
+Eine Erstprüfung187198; eine neue Karte,122 Bestandskarten und435 Ebeneneinträge erhalten. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte KartenprüfungMA-038/120/123 und Ebenenprüfung436Karten/872Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
