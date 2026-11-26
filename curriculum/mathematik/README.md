@@ -1662,4 +1662,7 @@ FSP1/2:37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und die Beziehung
 
 187201 bleibt begrenzt geprüft: MA-125 vorwärts gerichtete Einspluseins-Verknüpfung, MA-126 lokaler fehlender Summand, MA-127 lokaler fehlender Minuend. Weiter offen sind mehrschrittige vorwärts additive/subtraktive Verkettung, Reihenfolge bei mehrfacher Umkehr und rückwärts zu erschließende Startwerte ganzer Ketten sowie unbekannte Übergangsgrößen/Regeln. Diese Aspekte bleiben im bestehenden Rest187201; keine zusätzliche Anschlussfrage doppelt gezählt.26 bestehende Fragen einschließlich Zielzahlmauern und gekoppelter Dreiecksbeziehungen bleiben erhalten.
 
-Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung440/880 lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
+Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung440/880 lokal und live bestanden; Veröffentlichung geprüft.
+
+
+MA-135 veröffentlicht: App1.437, Commit `cab968b04aff6d8c40756e36225104359ad6642b`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45884890671). Live-App bytegleich, SHA-256 `749c920e7adc8bb28660525385bcaa752249b3507df26f3beede5d39f01b259d`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/123/125/126/127 und Ebenenprüfung440 Karten/880 Seiten lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf, keine UI-Funktionsänderung.127 Karten,98 stufenbandpassend,29 stufenübergreifend;26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. MA-127 belegt den lokalen fehlenden Minuenden vor einem subtraktiven Übergang, einschließlich Begrenzung der rekonstruierenden Summe. Nächster Schritt: mehrschrittige additive/subtraktive Ketten187201. Deutsch-Abschluss unverändert; kein Gesamtabschluss.

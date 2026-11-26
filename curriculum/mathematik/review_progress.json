@@ -3836,7 +3836,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201: mehrschrittige additive/subtraktive Ketten prüfen, vorwärts und rückwärts einschließlich Umkehrreihenfolge getrennt;35504/35509 neben35485 und beiden Knobel-Wahlbereichen berücksichtigen. MA-135 ergänztMA-127 für den fehlenden Minuenden vor genau einem subtraktiven Übergang. Summe aus Differenz und Subtrahend einschließlich aller relevanten Zwischen-/Kontrollwerte innerhalbGS1000/FSP100; beide Übertragen. Keine neue Erstprüfung oder Frage.127 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.437: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201: mehrschrittige additive/subtraktive Ketten prüfen, vorwärts und rückwärts einschließlich Umkehrreihenfolge getrennt;35504/35509 neben35485 und beiden Knobel-Wahlbereichen berücksichtigen. MA-135 ergänztMA-127 für den fehlenden Minuenden vor genau einem subtraktiven Übergang. Summe aus Differenz und Subtrahend einschließlich aller relevanten Zwischen-/Kontrollwerte innerhalbGS1000/FSP100; beide Übertragen. Keine neue Erstprüfung oder Frage.127 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.437: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung440/880 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6172,8 +6172,20 @@
   },
   "latest_publication": {
     "batch": "MA-135",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.437",
+    "commit": "cab968b04aff6d8c40756e36225104359ad6642b",
+    "tree": "5f282653f3d9c8c7eb7e84a3c1d5ba421421aca1",
+    "pages_run_id": 45884890671,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45884890671",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "749c920e7adc8bb28660525385bcaa752249b3507df26f3beede5d39f01b259d",
+    "bytes": 5733752,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-034/123/125/126/127 mit Regressionen; Scope auf Karte/Zielen/Output, Quellen, Ziele, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe, Fachwechsel und Mobilansichten; Ebenenprüfung440 Karten/880 Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller127 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Karten- und vollständige Ebenenprüfung lokal/live bestanden; Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-134",
       "status": "published_verified",
@@ -6699,9 +6711,9 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-134",
+    "batch": "MA-135",
     "status": "recorded_in_this_commit",
-    "app_commit": "d46f0b7a6c2f506f3d2d245986dcc01fa715d383",
+    "app_commit": "cab968b04aff6d8c40756e36225104359ad6642b",
     "note": "Veröffentlichungsnachweis nach bestandenen Daten-, gezielten Karten- und Ebenenprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
