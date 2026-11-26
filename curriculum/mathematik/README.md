@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-125
+# Mathematik-Abgleich · MA-126
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertzwanzig Karten dokumentieren begrenzte Anschlüsse. Einundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhunderteinundzwanzig Karten dokumentieren begrenzte Anschlüsse. Zweiundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Rechenwege187197. [MA-125](review_batch_125.json) ordnet2065 für Addition/Subtraktion in Teilschritten begrenzt aufMA-120 zu.120 Karten,22 Fragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen.
+Fortsetzung beim Restumfang vonGS3 187197: Notationsformen und Pflichtbereichsanschlüsse. [MA-126](review_batch_126.json) ergänztMA-121 für Rechenwegreflexion im FSP-Wahlbereich Tierwelt.121 Karten,22 Fragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1446,3 +1446,24 @@ Eine Erstprüfung, eine neue Karte;2064 nur Kontext, keine neue Inventurzeile.11
 
 
 MA-125 veröffentlicht: App1.426, Commit `157144fe682a55976e028405e29ec9b685e8fee8`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45765415982). Live-App bytegleich, SHA-256 `589a5691f06a76867ff817197c68db87a7b96c855c3ed7cbdec9e58f9db7ea19`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-032/089/120 und Ebenenprüfung433Karten/866Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller120 Mathematikkarten, keine UI-Codeänderung. Nächster Schritt187197;2065 erstmals für den Teilschrittweg begrenzt geprüft,2064 nur Kontext.120 Karten,22 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Kein Gesamtabschluss.
+
+
+## MA-126 · App1.427 · 26.11.2026
+
+Begrenzter stufenbandpassender Anschluss für das Beschreiben, Vergleichen und begründete Bewerten zweier additiver beziehungsweise subtraktiver Rechenwege zum selben Sachverhalt. FSP35593 fordert die Reflexion des Lösungswegs; das Kommentieren, Vergleichen und Bewerten unterschiedlicher Wege steht ausdrücklich in der Bemerkung. Die Beschränkung auf zwei Wege, ganze Anzahlen und die Beurteilung ihrer mathematischen Schlüssigkeit ist didaktische Konkretisierung. Der Tierweltkontext des Hauptziels35582 und die Auswahl des Wahlbereichs sind verbindliche Voraussetzungen dieses Anschlusses.
+
+Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064; FSP Anwenden aus Hauptziel35582. Nach den Definitionen beider Pläne S.V/PDF5 bedeutet Übertragen die Nutzung bekannter Kenntnisse in vergleichbaren Kontexten, Anwenden dagegen Abstraktion und Transfer in unbekannte Kontexte. Das FSP-Ziel ist hier hinsichtlich des Transfers anspruchsvoller, trotz kleinerem didaktischem Zahlenrahmen. Beschreiben, Vergleichen, Bewerten, Kommentieren und Reflektieren sind konkrete Zielhandlungen; insbesondere wird Bewerten nicht zur amtlichen Ebene Beurteilen umetikettiert. Die Nachbarziele liefern keine Ersatzebene.
+
+Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt.
+
+GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus den übergreifenden Operationsvorstellungen des Stufenbands3/4 (35415) abgeleitet.35582/35590/35593 enthalten keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, sämtliche Notationsformen und weitere Kontexte sind nicht abgedeckt. Der kleinere Rahmen ist kein Ausschlussgrund für diesen belegten Teilanschluss.
+
+Bekannte additive/subtraktive Strategien und Verständnis des zugrunde liegenden Sachverhalts sind Voraussetzung. Zwei Wege müssen dieselbe Frage mit denselben Ausgangsdaten betreffen. Für FSP ist der Tierweltzusammenhang in seiner mathematischen Anwendung unbekannt und erfordert Abstraktion/Transfer; bloßes Wiederholen eines gelernten Falls erfüllt Anwenden nicht. Für GS bleibt der Übertrag in einen vergleichbaren Kontext maßgeblich. Die Lehrkraft prüft diese Kontextanforderung individuell.
+
+187197 bleibt teilweise offen: Beschreibung und Gegenüberstellung von Notationsformen, breiterer Vergleich nach Rechenvorteilen sowie mögliche Pflichtbereichsanschlüsse ohne Tierwelt-/Wahlbereichsbindung sind weiter einzeln zu prüfen. Positive Kandidaten35485 (Kommunikation über additive Wege),35509 (Lösungsvarianten und Darstellungen),35580 (eigene Wege) und37908 bleiben erhalten. Keine Nichtanschlussentscheidung für diese Ausschnitte. Die Kontrollzeile187198 und Muster187199–187201 bleiben offen.2064 ist nur Kontext. Die22 bestehenden Anschlussfragen bleiben unverändert.
+
+FSP1/2:37863/37885 unter Einblick gewinnen37851 nennen individuelle und verschiedene additive/subtraktive Rechenwege bis20;37908 unter Einblick gewinnen37896 nennt verschiedene Lösungswege mit Darstellungen. Positive vorbereitende Kandidaten, kein Ausschluss allein wegen Zahlenraum; eine vollständige Reflexionsanforderung folgt daraus noch nicht. FSP3/4:35485 unter Übertragen35470 bietet Kommunikation über Rechenwege bis100 (35479),35509 unter Einblick gewinnen35504 bietet Abwägen von Lösungsvarianten und Darstellen;35580 unter Kennen35571 belegt Beschreibung eigener Wege im Knobel-Wahlbereich. Diese anderen engeren Anschlüsse bleiben zur Folgeprüfung erhalten.35442 unter Kennen35439 nennt Werten von Wegen im Multiplikations-/Divisionszusammenhang und wird nicht ungeprüft auf den additiven GS-Block übertragen. Für den jetzt ausgewählten Reflexionsausschnitt wird der stufenbandpassende ausdrückliche Beleg35593 unter Anwenden35582 bevorzugt, unter Erhalt seiner Wahlbereichs- und Tierweltbindung. Keine zusätzliche stufenübergreifende Karte.
+
+Die Bemerkung35593 konkretisiert die verbindliche Reflexionszeile; sie ist kein selbstständiges Hauptziel. Zwei Wege sowie Begründungen zur Schlüssigkeit sind didaktisch ausgewählt. Ein geringerer Zahlenrahmen senkt nicht automatisch den Transferanspruch. Aus diesem Anschluss wird weder eine allgemeine Vorgabe zur effizientesten Methode noch eine feste Darstellung oder ein schriftlicher Algorithmus abgeleitet.
+
+Eine Erstprüfung im begrenzten Ausschnitt187197, eine neue Karte;2064 nur Kontext.120 Bestandskarten und433 bisherige Ebeneneinträge unverändert. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenprüfung434/868 lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

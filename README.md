@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.426** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.427** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -278,3 +278,6 @@ Mathematik MA-125: Addition/Subtraktion in Teilschritten2065 begrenzt aufMA-120,
 
 
 MA-125 veröffentlicht: App1.426, Commit `157144fe682a55976e028405e29ec9b685e8fee8`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45765415982). Live-App bytegleich, SHA-256 `589a5691f06a76867ff817197c68db87a7b96c855c3ed7cbdec9e58f9db7ea19`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-032/089/120 und Ebenenprüfung433Karten/866Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller120 Mathematikkarten, keine UI-Codeänderung. Nächster Schritt187197;2065 erstmals für den Teilschrittweg begrenzt geprüft,2064 nur Kontext.120 Karten,22 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Kein Gesamtabschluss.
+
+
+Mathematik MA-126: Rechenwegreflexion187197 im FSP-Wahlbereich Tierwelt begrenzt aufMA-121; amtlichGS Übertragen/FSP Anwenden. GS1000/FSP100 (didaktisch aus Bandziel).121 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_126.json). App1.427: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend.

@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.1",
+  "version": "MA-2026-11-26.2",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1843,6 +1843,30 @@
       "id": "Q-MA-page139_35485",
       "title": "FSP Lernen Mathematik 3/4 · Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187197",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187197",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35582",
+      "title": "FSP Lernen Mathematik 3/4 · Zahlen in der Tierwelt",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35582",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35590",
+      "title": "FSP Lernen Mathematik 3/4 · Zahlen in der Tierwelt",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35590",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35593",
+      "title": "FSP Lernen Mathematik 3/4 · Zahlen in der Tierwelt",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35593",
       "version": "2019"
     }
   ],
@@ -11546,6 +11570,100 @@
         "Q-MA-page139_35470",
         "Q-MA-page139_35479",
         "Q-MA-page139_35485"
+      ]
+    },
+    {
+      "id": "MA-121",
+      "subject": "Mathematik",
+      "theme": "Additive Rechenwege reflektieren · Tierwelt · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · FSP-Wahlbereich erforderlich",
+      "gs_anchor": "GS Mathematik Kl.3 · Rechenwege187197 unter Übertragen2064 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Reflexion35593 unter Anwenden35582; Vergleich/Bewertung in Bemerkung35593. Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Anwenden",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064; FSP Anwenden aus Hauptziel35582. Nach den Definitionen beider Pläne S.V/PDF5 bedeutet Übertragen die Nutzung bekannter Kenntnisse in vergleichbaren Kontexten, Anwenden dagegen Abstraktion und Transfer in unbekannte Kontexte. Das FSP-Ziel ist hier hinsichtlich des Transfers anspruchsvoller, trotz kleinerem didaktischem Zahlenrahmen. Beschreiben, Vergleichen, Bewerten, Kommentieren und Reflektieren sind konkrete Zielhandlungen; insbesondere wird Bewerten nicht zur amtlichen Ebene Beurteilen umetikettiert. Die Nachbarziele liefern keine Ersatzebene. Begrenzter stufenbandpassender Anschluss für das Beschreiben, Vergleichen und begründete Bewerten zweier additiver beziehungsweise subtraktiver Rechenwege zum selben Sachverhalt. FSP35593 fordert die Reflexion des Lösungswegs; das Kommentieren, Vergleichen und Bewerten unterschiedlicher Wege steht ausdrücklich in der Bemerkung. Die Beschränkung auf zwei Wege, ganze Anzahlen und die Beurteilung ihrer mathematischen Schlüssigkeit ist didaktische Konkretisierung. Der Tierweltkontext des Hauptziels35582 und die Auswahl des Wahlbereichs sind verbindliche Voraussetzungen dieses Anschlusses. GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus den übergreifenden Operationsvorstellungen des Stufenbands3/4 (35415) abgeleitet.35582/35590/35593 enthalten keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, sämtliche Notationsformen und weitere Kontexte sind nicht abgedeckt. Der kleinere Rahmen ist kein Ausschlussgrund für diesen belegten Teilanschluss.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187197"
+      ],
+      "fsp_target_ids": [
+        "page139_35582",
+        "page139_35590",
+        "page139_35593"
+      ],
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Begrenzter stufenbandpassender Anschluss für das Beschreiben, Vergleichen und begründete Bewerten zweier additiver beziehungsweise subtraktiver Rechenwege zum selben Sachverhalt. FSP35593 fordert die Reflexion des Lösungswegs; das Kommentieren, Vergleichen und Bewerten unterschiedlicher Wege steht ausdrücklich in der Bemerkung. Die Beschränkung auf zwei Wege, ganze Anzahlen und die Beurteilung ihrer mathematischen Schlüssigkeit ist didaktische Konkretisierung. Der Tierweltkontext des Hauptziels35582 und die Auswahl des Wahlbereichs sind verbindliche Voraussetzungen dieses Anschlusses. Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt. Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064; FSP Anwenden aus Hauptziel35582. Nach den Definitionen beider Pläne S.V/PDF5 bedeutet Übertragen die Nutzung bekannter Kenntnisse in vergleichbaren Kontexten, Anwenden dagegen Abstraktion und Transfer in unbekannte Kontexte. Das FSP-Ziel ist hier hinsichtlich des Transfers anspruchsvoller, trotz kleinerem didaktischem Zahlenrahmen. Beschreiben, Vergleichen, Bewerten, Kommentieren und Reflektieren sind konkrete Zielhandlungen; insbesondere wird Bewerten nicht zur amtlichen Ebene Beurteilen umetikettiert. Die Nachbarziele liefern keine Ersatzebene. GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus den übergreifenden Operationsvorstellungen des Stufenbands3/4 (35415) abgeleitet.35582/35590/35593 enthalten keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, sämtliche Notationsformen und weitere Kontexte sind nicht abgedeckt. Der kleinere Rahmen ist kein Ausschlussgrund für diesen belegten Teilanschluss. Bekannte additive/subtraktive Strategien und Verständnis des zugrunde liegenden Sachverhalts sind Voraussetzung. Zwei Wege müssen dieselbe Frage mit denselben Ausgangsdaten betreffen. Für FSP ist der Tierweltzusammenhang in seiner mathematischen Anwendung unbekannt und erfordert Abstraktion/Transfer; bloßes Wiederholen eines gelernten Falls erfüllt Anwenden nicht. Für GS bleibt der Übertrag in einen vergleichbaren Kontext maßgeblich. Die Lehrkraft prüft diese Kontextanforderung individuell. 187197 bleibt teilweise offen: Beschreibung und Gegenüberstellung von Notationsformen, breiterer Vergleich nach Rechenvorteilen sowie mögliche Pflichtbereichsanschlüsse ohne Tierwelt-/Wahlbereichsbindung sind weiter einzeln zu prüfen. Positive Kandidaten35485 (Kommunikation über additive Wege),35509 (Lösungsvarianten und Darstellungen),35580 (eigene Wege) und37908 bleiben erhalten. Keine Nichtanschlussentscheidung für diese Ausschnitte. Die Kontrollzeile187198 und Muster187199–187201 bleiben offen.2064 ist nur Kontext. Die22 bestehenden Anschlussfragen bleiben unverändert.",
+      "shared_object_suggestion": "Die mathematische Schlüssigkeit verschiedener additiver oder subtraktiver Rechenwege zum selben Sachverhalt aus der Tierwelt.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt sein Wissen über additive beziehungsweise subtraktive Strategien in einen vergleichbaren Sachzusammenhang und beschreibt, vergleicht und bewertet zwei Rechenwege zur selben Frage im Zahlenraum bis 1 000.",
+          "criterion": "Beide Wege und ihr Bezug zur selben Ausgangsfrage werden verständlich beschrieben; ein mathematisch relevanter Unterschied wird benannt und die Schlüssigkeit beider Wege anhand ihrer Rechenschritte und ihres Sachbezugs begründet beurteilt. Gleiches Endergebnis allein genügt nicht als Begründung. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse beider Wege sind nichtnegative ganze Zahlen bis 1 000. Die bekannte Strategie wird auf den vergleichbaren Kontext übertragen.",
+          "status": "Didaktische Konkretisierung: zwei Wege und mathematische Schlüssigkeit; keine feste Notation, keine allgemeine Effizienzrangfolge und keine vollständige Zieldeckung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind wendet bekannte additive beziehungsweise subtraktive Strategien durch Abstraktion und Transfer in einem unbekannten Sachzusammenhang aus der Tierwelt an und beschreibt, vergleicht und bewertet zwei Rechenwege zur selben Frage im Zahlenraum bis 100.",
+          "criterion": "Beide Wege und ihr Bezug zur selben Ausgangsfrage werden verständlich beschrieben; ein mathematisch relevanter Unterschied wird benannt und die Schlüssigkeit beider Wege anhand ihrer Rechenschritte und ihres Sachbezugs begründet beurteilt. Gleiches Endergebnis allein genügt nicht als Begründung. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse beider Wege sind nichtnegative ganze Zahlen bis 100. Die Anwendung bekannter Strategien im unbekannten Tierweltzusammenhang ist erkennbar; bloße Wiederholung genügt nicht. Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt.",
+          "status": "Didaktische Konkretisierung: zwei Wege und mathematische Schlüssigkeit; keine feste Notation, keine allgemeine Effizienzrangfolge und keine vollständige Zieldeckung.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35415",
+        "fsp_basis": "stage_goal_context",
+        "notice": "GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP-Planungsrahmen bis 100 didaktisch aus den übergreifenden Operationsvorstellungen des Stufenbands3/4 (35415) abgeleitet.35582/35590/35593 enthalten keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, sämtliche Notationsformen und weitere Kontexte sind nicht abgedeckt. Der kleinere Rahmen ist kein Ausschlussgrund für diesen belegten Teilanschluss.",
+        "full_gs_goal_covered": false
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_35422",
+        "label": "Wahlbereich 3: Zahlen in der Tierwelt",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt."
+      },
+      "evidence_classification": {
+        "gs": "187197 verbindliches Unterziel zu Rechenwegen und Notationsformen; ausgewählt nur Rechenwege.2064 liefert Übertragen und Zahlenraum bis1000; nur Hauptzielkontext.",
+        "fsp": "35593 verbindliche Reflexionszeile; Kommentieren/Vergleichen/Bewerten in ihrer Bemerkung.35590 belegt Grundrechenarten im Berechnungskontext;35582 liefert Anwenden und Tierweltbindung.35415 ist übergreifender Zahlenraumkontext, kein Zeilenhöchstwert.",
+        "context_only_gs_ids": [
+          "page912_2064"
+        ],
+        "fsp_remark_anchor": "page139_35593"
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus dem übergreifenden Bandziel abgeleitet. Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt.",
+        "detail": "35415 nennt Operationsvorstellungen bis100. Die ausgewählten Wahlbereichszeilen35582/35590/35593 haben keine eigene Obergrenze. Für die Reflexion zweier additiver/subtraktiver Wege mit ganzen Anzahlen wird bis100 als didaktische Planungsgrenze gewählt; keine amtliche Höchstgrenze des gesamten Wahlbereichs und keine Übernahme der Nachbarzeile35479. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35593",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Nur bei gewähltem FSP-Wahlbereich 3: Zahlen in der Tierwelt. Bekannte additive/subtraktive Strategien und Verständnis des zugrunde liegenden Sachverhalts sind Voraussetzung. Zwei Wege müssen dieselbe Frage mit denselben Ausgangsdaten betreffen. Für FSP ist der Tierweltzusammenhang in seiner mathematischen Anwendung unbekannt und erfordert Abstraktion/Transfer; bloßes Wiederholen eines gelernten Falls erfüllt Anwenden nicht. Für GS bleibt der Übertrag in einen vergleichbaren Kontext maßgeblich. Die Lehrkraft prüft diese Kontextanforderung individuell. Didaktischer FSP-Rahmen bis 100 für ganze nichtnegative Anzahlen: alle Ausgangszahlen, Operanden, Teilbeträge und relevanten Zwischen- und Endergebnisse beider Wege bleiben bis 100, einschließlich100; keine negativen Zwischenwerte. Ein Weg darf nicht über100 führen, auch wenn sein Endergebnis darunter liegt. Maßzahlen mit Einheiten, Dezimalbrüche und Größenumrechnungen sind nicht Teil dieses Ausschnitts. Für GS gilt der entsprechende Rahmen bis1 000. Die beiden Wege dürfen unterschiedliche Notationen haben; deren Vergleich als eigenes Ziel wird dadurch nicht automatisch geprüft. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187197",
+        "Q-MA-page139_35582",
+        "Q-MA-page139_35590",
+        "Q-MA-page139_35593",
+        "Q-MA-page139_35415"
       ]
     }
   ]
