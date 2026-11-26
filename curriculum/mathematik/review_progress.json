@@ -3758,7 +3758,7 @@
     }
   },
   "next_id": "page912_187198",
-  "next_step": "GS3 Kontrolle von Lösungen durch Umkehroperation187198 einzeln gegen beide FSP-Bänder prüfen; danach187199–187201. MA-128 ergänztMA-122 für einfache additive/subtraktive Variantenabwägung: GS Übertragen2064/FSP Einblick gewinnen35504; GS1000 ausdrücklich/FSP100 didaktisch aus35415. Rest187197 zu Notationen/breiteren Vergleichen ausdrücklich im Fragenregister (23) gesichert. Keine erneute Erstzählung187197.122 Karten,23 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.429: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 Kontrolle von Lösungen durch Umkehroperation187198 einzeln gegen beide FSP-Bänder prüfen; danach187199–187201. MA-128 ergänztMA-122 für einfache additive/subtraktive Variantenabwägung: GS Übertragen2064/FSP Einblick gewinnen35504; GS1000 ausdrücklich/FSP100 didaktisch aus35415. Rest187197 zu Notationen/breiteren Vergleichen ausdrücklich im Fragenregister (23) gesichert. Keine erneute Erstzählung187197.122 Karten,23 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.429: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung435/870 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6003,8 +6003,20 @@
   },
   "latest_publication": {
     "batch": "MA-128",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.429",
+    "commit": "c91459564407a258c6ecb57459ba2016b6d4e7ff",
+    "tree": "ae4c2549a03bef74a64e54adde23bde725e17cd6",
+    "pages_run_id": 45814581876,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45814581876",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "02b357f87f027a436dda8d0ae89d44686dd77983c76f5e23576a14e1143b2eb6",
+    "bytes": 5672219,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-120/121/122, Quellen/Scope/Ziele/Output, Einblick-Niveau und Zwei-Schritt-Grenze aufMA-122, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung435Karten/870Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller122Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-127",
       "status": "published_verified",
@@ -6411,10 +6423,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-127",
+    "batch": "MA-128",
     "status": "recorded_in_this_commit",
-    "app_commit": "8bafdc5bdd3bd125b64037c019efe45a156520af",
-    "note": "Nachweise und aktueller MA-127-Fortsetzungstext abschließend korrigiert; App unverändert. Eigene Commitkennung aus Git-Historie ersichtlich."
+    "app_commit": "c91459564407a258c6ecb57459ba2016b6d4e7ff",
+    "note": "Veröffentlichungsnachweis nach erfolgreichen Daten-, gezielten Karten- und Ebenenprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {
     "batch": "MA-067",
