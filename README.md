@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.425** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.426** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -272,3 +272,6 @@ Mathematik MA-124: Fachbegriffe187196 Tausender/Runden ohne hinreichend belegten
 
 
 MA-124 veröffentlicht: App1.425, Commit `1dbdcbeec24f79de8e39066259cc7bef296cbc51`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45725808667). Live-App bytegleich, SHA-256 `ec0daa549e8848e43db9b794218eb8bab44700a9e6b110b54d5cd50773ab0ab7`. Alle sechs Datenprüfungen, gezielte MathematikprüfungMA-118/119 und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Der vollständige Mathematik-Funktionstest wurde lokal mehrfach ausgeführt, blieb wegen Klick-/Scroll-Zeitlimits unvollständig und wird auch live nicht als bestanden behauptet. Kein UI-Code geändert. Nächster Schritt2064/2065;187196 für Tausender/Runden ohne hinreichenden direkten Anschluss entschieden.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss. Nachweis abgeschlossen am26.11.2026.
+
+
+Mathematik MA-125: Addition/Subtraktion in Teilschritten2065 begrenzt aufMA-120, beide amtlichen Lernzielebenen Übertragen, Zahlenräume1000/100.120 Karten,22 Fragen. [Prüfpaket](curriculum/mathematik/review_batch_125.json). App1.426: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend.

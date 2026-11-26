@@ -1,7 +1,7 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-25.4",
-  "checked_on": "2026-11-25",
+  "version": "MA-2026-11-26.1",
+  "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
   "areas": [
@@ -1826,6 +1826,24 @@
       "title": "GS Mathematik 3 · Zahl und Operation",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187195",
       "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2064",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_2065",
+      "title": "GS Mathematik 3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2065",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page139_35485",
+      "title": "FSP Lernen Mathematik 3/4 · Die Welt um mich herum",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "version": "2019"
     }
   ],
   "connections": [
@@ -11446,6 +11464,89 @@
         ],
         "planning_rule": "Bekanntes dekadisches Stellenwertwissen, eindeutig bestimmter Gesamtwert und eindeutige Zugehörigkeit aller Stellenanteile. Beim Austausch gehören die Einheiten zu benachbarten dekadischen Stellen; genau zehn Einheiten der niedrigeren Stelle entsprechen einer der höheren. Es wird kein Wert hinzugefügt oder entfernt; nicht beteiligte Anteile bleiben erhalten. Anzahl der Bündel, Wert eines Bündels und Wert des gesamten Anteils sind getrennt zu betrachten. Mehrstellige Bündelanzahlen einer noch nicht vollständig gebündelten Darstellung sind keine einzelne Ziffer der gewöhnlichen Zahlenschreibweise. Für GS muss der unbekannte Kontext durch die Lehrkraft beurteilt werden; ein anderer Zahlenwert allein belegt keinen Transfer. FSP: Einer/Zehner und Zehner/Hunderter innerhalb des ausdrücklich belegten Zahlenraums bis 100. Der Grenzwert100 wird eingeschlossen; kein FSP-Tausenderübergang. Alle Ausgangswerte, Bündelanzahlen, Werte der Stellenanteile, relevanten Teilsummen sowie Zwischen- und Endergebnisse bleiben bis 100; der Gesamtwert bleibt bei jedem Austausch gleich. Keine negativen Anteile, Dezimalbrüche oder Größenumrechnungen. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
       }
+    },
+    {
+      "id": "MA-120",
+      "subject": "Mathematik",
+      "theme": "Addition und Subtraktion in Teilschritten · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · GS bis 1 000, FSP bis 100",
+      "gs_anchor": "GS Mathematik Kl.3 · Strategieeinsatz2065 unter Übertragen2064 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Kl.3/4 · Lösungswege35485 unter Addieren/Subtrahieren35479 bis100 und Übertragen35470; Teilschritte in Bemerkung35485",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Übertragen aus35470. Beide Definitionstabellen (S.V/PDF5) beschreiben die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Lösen, Nutzen, Entdecken, Zerlegen und Rechnen sind konkrete Zielhandlungen, keine Lernzielebenen. Das benachbarte FSP-Beherrschen35461 oder Kennen35498 wird nicht übernommen. Die gleiche Lernzielebene bedeutet keine vollständige inhaltliche oder zahlenräumliche Deckung. Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für Addition und Subtraktion in Teilschritten durch Zerlegen des zweiten Summanden beziehungsweise des Subtrahenden. GS2065 fordert Strategieeinsatz unter Übertragen2064 bis1000. FSP35479 nennt Addieren/Subtrahieren bis100;35485 ist dessen Unterpunkt unter Übertragen35470. Das Nacheinanderausführen von Teilschritten ist in Bemerkung35485 für beide Operationen belegt. Die Auswahl dieses Strategietyps und die genaue Erfolgskriterienformulierung sind didaktische Konkretisierungen, keine zusätzlichen amtlichen Unterziele. Eine richtige Endzahl allein belegt den ausgewählten Strategieeinsatz nicht. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 ausdrücklich aus Hauptziel2064 und Unterziel2065; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Unterziel35479. Der kleinere FSP-Zahlenraum trägt den belegten fachlichen Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie andere Strategien und weitere Anforderungen des GS-Zielblocks sind nicht mit abgedeckt. Nur der ausgewählte Teilschrittweg ist aufMA-120 abgedeckt. Auswahl und Beherrschung sämtlicher anderer Rechenstrategien, umfassende Flexibilität zwischen Strategien, schriftliche Algorithmen, Rechnungen mit Dezimalbrüchen/Größeneinheiten sowie Zahlen oberhalb des FSP-Raums bleiben außerhalb. Beschreiben/Vergleichen/Bewerten von Rechenwegen187197 und Kontrolle durch Umkehroperation187198 werden hier nicht mitgeprüft;187199–187201 bleiben offen.2064 ist nur Hauptzielkontext, kein vollständig abgeschlossenes Hauptziel.22 bisherige Anschlussfragen bleiben erhalten.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_2065"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für Addition und Subtraktion in Teilschritten durch Zerlegen des zweiten Summanden beziehungsweise des Subtrahenden. GS2065 fordert Strategieeinsatz unter Übertragen2064 bis1000. FSP35479 nennt Addieren/Subtrahieren bis100;35485 ist dessen Unterpunkt unter Übertragen35470. Das Nacheinanderausführen von Teilschritten ist in Bemerkung35485 für beide Operationen belegt. Die Auswahl dieses Strategietyps und die genaue Erfolgskriterienformulierung sind didaktische Konkretisierungen, keine zusätzlichen amtlichen Unterziele. Eine richtige Endzahl allein belegt den ausgewählten Strategieeinsatz nicht. Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Übertragen aus35470. Beide Definitionstabellen (S.V/PDF5) beschreiben die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Lösen, Nutzen, Entdecken, Zerlegen und Rechnen sind konkrete Zielhandlungen, keine Lernzielebenen. Das benachbarte FSP-Beherrschen35461 oder Kennen35498 wird nicht übernommen. Die gleiche Lernzielebene bedeutet keine vollständige inhaltliche oder zahlenräumliche Deckung. Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 ausdrücklich aus Hauptziel2064 und Unterziel2065; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Unterziel35479. Der kleinere FSP-Zahlenraum trägt den belegten fachlichen Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie andere Strategien und weitere Anforderungen des GS-Zielblocks sind nicht mit abgedeckt. Bekannte Addition/Subtraktion und bekanntes Zerlegen einer nichtnegativen ganzen Zahl in Teilbeträge. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; die Lehrkraft beurteilt diese Übertragung, statt bloßes Wiederholen oder eine einzelne richtige Endzahl gleichzusetzen. Für FSP bleibt ein lebensweltlicher Bezug aus35470 erhalten. Die Zerlegung betrifft den zweiten Summanden oder den Subtrahenden, nicht beide Operanden zugleich. Teilbeträge ergeben zusammen genau diesen Operanden. Bei der Subtraktion ist der Subtrahend nicht größer als der Minuend; keine negativen Teilbeträge oder Zwischenergebnisse. Nur der ausgewählte Teilschrittweg ist aufMA-120 abgedeckt. Auswahl und Beherrschung sämtlicher anderer Rechenstrategien, umfassende Flexibilität zwischen Strategien, schriftliche Algorithmen, Rechnungen mit Dezimalbrüchen/Größeneinheiten sowie Zahlen oberhalb des FSP-Raums bleiben außerhalb. Beschreiben/Vergleichen/Bewerten von Rechenwegen187197 und Kontrolle durch Umkehroperation187198 werden hier nicht mitgeprüft;187199–187201 bleiben offen.2064 ist nur Hauptzielkontext, kein vollständig abgeschlossenes Hauptziel.22 bisherige Anschlussfragen bleiben erhalten.",
+      "shared_object_suggestion": "Die gleichbleibende Summe oder Differenz beim Rechnen mit den Teilbeträgen eines Operanden.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt seine bekannte Zerlegungsstrategie auf einen vergleichbaren Rechenzusammenhang und bestimmt Summe beziehungsweise nichtnegative Differenz in Teilschritten im Zahlenraum bis 1 000.",
+          "criterion": "Der zweite Summand beziehungsweise der Subtrahend ist vollständig in nichtnegative Teilbeträge zerlegt; ihre Summe entspricht dem ursprünglichen Operanden. Die aufeinanderfolgenden Additionen beziehungsweise Subtraktionen bleiben zur Ausgangsrechnung wertgleich und führen zum richtigen Ergebnis. Die bekannte Strategie wird im vergleichbaren Zusammenhang genutzt; eine richtige Endzahl ohne erkennbaren Strategiebezug genügt nicht. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse bleiben bis 1 000. Kein negativer Zwischenwert. Addition und Subtraktion werden als zwei Anwendungsfälle desselben begrenzten Ausschnitts unterschieden.",
+          "status": "Didaktische Konkretisierung; keine vollständige Strategieflexibilität und keine amtliche Vorgabe einer bestimmten Anzahl/Reihenfolge von Teilschritten."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind überträgt seine bekannte Zerlegungsstrategie auf einen vergleichbaren lebensweltlichen Rechenzusammenhang und bestimmt Summe beziehungsweise nichtnegative Differenz in Teilschritten im Zahlenraum bis 100.",
+          "criterion": "Der zweite Summand beziehungsweise der Subtrahend ist vollständig in nichtnegative Teilbeträge zerlegt; ihre Summe entspricht dem ursprünglichen Operanden. Die aufeinanderfolgenden Additionen beziehungsweise Subtraktionen bleiben zur Ausgangsrechnung wertgleich und führen zum richtigen Ergebnis. Die bekannte Strategie wird im vergleichbaren Zusammenhang genutzt; eine richtige Endzahl ohne erkennbaren Strategiebezug genügt nicht. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen- und Endergebnisse bleiben bis 100. Kein negativer Zwischenwert. Addition und Subtraktion werden als zwei Anwendungsfälle desselben begrenzten Ausschnitts unterschieden.",
+          "status": "Didaktische Konkretisierung; keine vollständige Strategieflexibilität und keine amtliche Vorgabe einer bestimmten Anzahl/Reihenfolge von Teilschritten.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 ausdrücklich aus Hauptziel2064 und Unterziel2065; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Unterziel35479. Der kleinere FSP-Zahlenraum trägt den belegten fachlichen Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie andere Strategien und weitere Anforderungen des GS-Zielblocks sind nicht mit abgedeckt.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "2065 verbindliches Unterziel zu Strategien unter2064.2064 liefert Übertragen und Zahlenraum; nur Kontext. Die konkrete Teilschrittstrategie ist didaktisch ausgewählt.",
+        "fsp": "35485 verbindliches Unterziel unter35479/35470; Teilschritte sind für Addition/Subtraktion in Bemerkung35485 belegt.35479 liefert ausdrücklich bis100,35470 die amtliche Lernzielebene Übertragen.",
+        "context_only_gs_ids": [
+          "page912_2064"
+        ],
+        "fsp_remark_anchor": "page139_35485"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100",
+        "detail": "Die Obergrenze bis100 steht in Unterziel35479.35485 steht darunter und nennt Lösungswege; Teilschritte sind in seiner Bemerkung belegt. Die konkrete Zerlegung und die Einbeziehung aller Zwischenwerte sind didaktische Feinzielpräzisierungen, die Zahlenraumgrenze selbst ist ausdrücklich belegt. Keine Ableitung aus einem übergreifenden Bandziel. GS2064/2065 bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479"
+        ],
+        "planning_rule": "Bekannte Addition/Subtraktion und bekanntes Zerlegen einer nichtnegativen ganzen Zahl in Teilbeträge. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; die Lehrkraft beurteilt diese Übertragung, statt bloßes Wiederholen oder eine einzelne richtige Endzahl gleichzusetzen. Für FSP bleibt ein lebensweltlicher Bezug aus35470 erhalten. Die Zerlegung betrifft den zweiten Summanden oder den Subtrahenden, nicht beide Operanden zugleich. Teilbeträge ergeben zusammen genau diesen Operanden. Bei der Subtraktion ist der Subtrahend nicht größer als der Minuend; keine negativen Teilbeträge oder Zwischenergebnisse. Alle FSP-Ausgangszahlen, Operanden, Teilbeträge, relevante Teilrechnungen, Zwischen- und Endergebnisse bleiben bis 100, einschließlich100. Die Zerlegung und die Rechenkette müssen wertgleich zur Ausgangsrechnung sein. Für GS gilt der entsprechende Ausschnitt bis1 000. Die FSP-Grenze stammt aus35479, nicht aus dem benachbarten Zahlenziel35461 oder aus einem übergreifenden Bandziel. Aufgaben, Lernhandlungen, Notationsformen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_2065",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
+      ]
     }
   ]
 }

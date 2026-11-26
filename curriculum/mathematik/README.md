@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-124
+# Mathematik-Abgleich · MA-125
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertneunzehn Karten dokumentieren begrenzte Anschlüsse. Neunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertzwanzig Karten dokumentieren begrenzte Anschlüsse. Einundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beiGS3 Addition/Subtraktion2064/2065. [MA-124](review_batch_124.json) entscheidet187196 für Tausender und Runden ohne hinreichenden direkten Anschluss.119 Karten,22 Fragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen; sieben neue Zeilen nur inventarisiert.
+Fortsetzung beiGS3 Rechenwege187197. [MA-125](review_batch_125.json) ordnet2065 für Addition/Subtraktion in Teilschritten begrenzt aufMA-120 zu.120 Karten,22 Fragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1424,3 +1424,22 @@ Eine Erstprüfung mit zwei Fachwortaspekten; keine neue Karte. Sieben Folgezeile
 
 
 MA-124 veröffentlicht: App1.425, Commit `1dbdcbeec24f79de8e39066259cc7bef296cbc51`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45725808667). Live-App bytegleich, SHA-256 `ec0daa549e8848e43db9b794218eb8bab44700a9e6b110b54d5cd50773ab0ab7`. Alle sechs Datenprüfungen, gezielte MathematikprüfungMA-118/119 und Ebenenprüfung432Karten/864Seiten lokal/live bestanden. Der vollständige Mathematik-Funktionstest wurde lokal mehrfach ausgeführt, blieb wegen Klick-/Scroll-Zeitlimits unvollständig und wird auch live nicht als bestanden behauptet. Kein UI-Code geändert. Nächster Schritt2064/2065;187196 für Tausender/Runden ohne hinreichenden direkten Anschluss entschieden.22 Anschlussfragen und weitere Restumfänge bleiben offen, kein Gesamtabschluss. Nachweis abgeschlossen am26.11.2026.
+
+
+## MA-125 · App1.426 · 26.11.2026
+
+Begrenzter stufenbandpassender Anschluss GS3 → FSP3/4 für Addition und Subtraktion in Teilschritten durch Zerlegen des zweiten Summanden beziehungsweise des Subtrahenden. GS2065 fordert Strategieeinsatz unter Übertragen2064 bis1000. FSP35479 nennt Addieren/Subtrahieren bis100;35485 ist dessen Unterpunkt unter Übertragen35470. Das Nacheinanderausführen von Teilschritten ist in Bemerkung35485 für beide Operationen belegt. Die Auswahl dieses Strategietyps und die genaue Erfolgskriterienformulierung sind didaktische Konkretisierungen, keine zusätzlichen amtlichen Unterziele. Eine richtige Endzahl allein belegt den ausgewählten Strategieeinsatz nicht.
+
+Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Übertragen aus35470. Beide Definitionstabellen (S.V/PDF5) beschreiben die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Lösen, Nutzen, Entdecken, Zerlegen und Rechnen sind konkrete Zielhandlungen, keine Lernzielebenen. Das benachbarte FSP-Beherrschen35461 oder Kennen35498 wird nicht übernommen. Die gleiche Lernzielebene bedeutet keine vollständige inhaltliche oder zahlenräumliche Deckung.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 ausdrücklich aus Hauptziel2064 und Unterziel2065; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Unterziel35479. Der kleinere FSP-Zahlenraum trägt den belegten fachlichen Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie andere Strategien und weitere Anforderungen des GS-Zielblocks sind nicht mit abgedeckt.
+
+Bekannte Addition/Subtraktion und bekanntes Zerlegen einer nichtnegativen ganzen Zahl in Teilbeträge. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; die Lehrkraft beurteilt diese Übertragung, statt bloßes Wiederholen oder eine einzelne richtige Endzahl gleichzusetzen. Für FSP bleibt ein lebensweltlicher Bezug aus35470 erhalten. Die Zerlegung betrifft den zweiten Summanden oder den Subtrahenden, nicht beide Operanden zugleich. Teilbeträge ergeben zusammen genau diesen Operanden. Bei der Subtraktion ist der Subtrahend nicht größer als der Minuend; keine negativen Teilbeträge oder Zwischenergebnisse.
+
+Nur der ausgewählte Teilschrittweg ist aufMA-120 abgedeckt. Auswahl und Beherrschung sämtlicher anderer Rechenstrategien, umfassende Flexibilität zwischen Strategien, schriftliche Algorithmen, Rechnungen mit Dezimalbrüchen/Größeneinheiten sowie Zahlen oberhalb des FSP-Raums bleiben außerhalb. Beschreiben/Vergleichen/Bewerten von Rechenwegen187197 und Kontrolle durch Umkehroperation187198 werden hier nicht mitgeprüft;187199–187201 bleiben offen.2064 ist nur Hauptzielkontext, kein vollständig abgeschlossenes Hauptziel.22 bisherige Anschlussfragen bleiben erhalten.
+
+FSP1/2:37863 und37885 unter Einblick gewinnen37851 bieten einen positiven Kandidaten für Zerlegen/individuelle Lösungsschritte und verschiedene Rechenwege, mit ausdrücklich bis20 in37885. Dieser wird nicht allein wegen des kleineren Zahlenraums abgelehnt. FSP3/4:35479/35485 unter Übertragen35470 nennen Addition/Subtraktion bis100 und Teilschritte beider Operationen in der Bemerkung unmittelbar; deshalb wird dieser stufenbandpassende Anschluss bevorzugt. Keine zusätzliche stufenübergreifende Karte. Die allgemeine Sachaufgabenstrategie35504/35509 unter Einblick gewinnen ist breiter und ersetzt nicht den spezifischen Teilschrittbeleg. Schriftliche Verfahren35498–35503 unter Kennen bleiben eigene Inhalte und liefern weder die Lernzielebene noch den hier verwendeten Zahlenraum.
+
+Der GS-Strategiebegriff ist weiter als die konkrete Teilschrittstrategie. Die Auswahl ist ein fachlich belegter didaktischer Ausschnitt; keine Behauptung, GS2065 schreibe genau diesen Rechenweg oder eine bestimmte Notationsform vor. Vergleichbarkeit des Transferkontexts und Voraussetzungen bleiben von der Lehrkraft zu beurteilen. Keine einheitliche Reihenfolge oder feste Anzahl der Teilschritte wird erfunden.
+
+Eine Erstprüfung, eine neue Karte;2064 nur Kontext, keine neue Inventurzeile.119 Bestandskarten und432 vorhandene Ebeneneinträge unverändert. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte KartenprüfungMA-032/089/120 und Lernzielebenenprüfung433Karten/866Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend. Kein neuer vollständiger Funktionstest aller120 Mathematikkarten.
