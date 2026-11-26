@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-126
+# Mathematik-Abgleich · MA-127
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung beim Restumfang vonGS3 187197: Notationsformen und Pflichtbereichsanschlüsse. [MA-126](review_batch_126.json) ergänztMA-121 für Rechenwegreflexion im FSP-Wahlbereich Tierwelt.121 Karten,22 Fragen,15 ganze Zeilen ohne direkten Anschluss,220 Inventurzeilen.
+Fortsetzung beiGS3 187197: Variantenabwägung und Notationsformen35509. [MA-127](review_batch_127.json) ergänzt den Beschreibungsaspekt auf bestehenderMA-120. Keine neue Karte oder Erstzählung;121 Karten,22 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1470,3 +1470,22 @@ Eine Erstprüfung im begrenzten Ausschnitt187197, eine neue Karte;2064 nur Konte
 
 
 MA-126 veröffentlicht: App1.427, Commit `5fd452dfbb6dba6b8b4c605c894dff091e19111f`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45789271925). Live-App bytegleich, SHA-256 `e52ea2746dac3f51c851f8ae79c874192fa04696edeb4f0e0df3d4561c22b9c7`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-037/120/121 und Ebenenprüfung434Karten/868Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller121Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Restumfang187197 (Notationsformen/Pflichtbereich); Rechenwegreflexion im Tierwelt-Wahlbereich erstmals begrenzt geprüft,2064 nur Kontext.121 Karten,22 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Kein Gesamtabschluss.
+
+
+## MA-127 · App1.428 · 26.11.2026
+
+187197 wird im Pflichtbereich für das Beschreiben des eigenen additiven beziehungsweise subtraktiven Teilschrittwegs begrenzt an die bestehende KarteMA-120 angeschlossen. Der Strategieteil2065 bleibt erhalten. In FSP35485 steht die Kommunikation über Lösungswege in der Bemerkung; das übergreifende Bandziel35415 nennt ausdrücklich die umgangssprachliche Beschreibung und Begründung eigener Rechenwege. Ausgewählt ist die Beschreibung des bereits belegten eigenen Teilschrittwegs, nicht der vollständige Vergleich verschiedener Wege oder Notationsformen. Keine neue Karte und keine erneute Erstzählung von187197.
+
+Amtliche Lernzielebenen aufMA-120: GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionen beider Pläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Beschreiben, Kommunizieren und Zerlegen sind konkrete Zielhandlungen, keine Lernzielebenen.35415 ist übergreifender fachlicher Sprachkontext und liefert keine abweichende amtliche Lernzielebene. Kennen35571 und Anwenden35582 werden nicht auf diesen Pflichtbereichsanschluss übertragen. MA-121 behält seinen eigenständigen Reflexionsausschnitt unter FSP-Anwenden samt Wahlbereichsbindung.
+
+Hinweis zum Zahlenraum: GS Klasse3 bis 1 000 ausdrücklich aus Hauptziel2064 und Unterziel2065; FSP Lernen Stufenband3/4 bis 100 ausdrücklich aus Unterziel35479. Der kleinere FSP-Zahlenraum trägt den belegten fachlichen Teilanschluss. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie andere Strategien und weitere Anforderungen des GS-Zielblocks sind nicht mit abgedeckt.
+
+Bekannte Addition/Subtraktion, passende Zerlegung des zweiten Summanden beziehungsweise Subtrahenden und Übertragung in einen vergleichbaren lebensweltlichen Zusammenhang sind Voraussetzung. Die Beschreibung bezieht sich auf den tatsächlich genutzten eigenen Weg. Seine Teilbeträge, Reihenfolge und Zwischenergebnisse müssen verständlich zugeordnet sein; eine Endzahl oder eine unkommentierte Zahlenfolge allein belegt das Beschreiben nicht. Alltagssprachliche Darstellung genügt; keine neue Fachwortliste, feste Formulierung oder Notationsform wird vorgeschrieben.
+
+Der kommunikative Beleg ist eine Bemerkung zum verbindlichen Unterziel35485, gestützt durch das übergreifende Sprachziel35415. Die genaue Beschreibung des ausgewählten Teilschrittwegs und die Erfolgskriterien sind didaktische Konkretisierungen. Aus Kommunikation allein wird kein ausdrücklicher Pflichtbereichsbeleg für das Vergleichen/Bewerten aller Wege oder Notationsformen abgeleitet. Der kleinere Zahlenraum ist nicht der Grund der inhaltlichen Begrenzung.
+
+MA-120 deckt nun Strategieeinsatz2065 und aus187197 das Beschreiben des eigenen Teilschrittwegs ab. Keine vollständige GS-Zieldeckung: weitere Strategien, Vergleich und Bewertung mehrerer Wege im Pflichtbereich, Beschreibung/Vergleich/Bewertung von Notationsformen sowie Zahlen oberhalb100 bis1000 bleiben außerhalb dieser Karte. Der gesonderte Tierwelt-ReflexionsanschlussMA-121 bleibt erhalten. Nächste Einzelprüfung innerhalb187197: Variantenabwägung und Darstellungen35509 unter Einblick gewinnen35504, getrennt von bloßer Verwendung einer Notation.37908 und35580 als weitere Kandidaten berücksichtigen.187198–187201 und übriger Rest2065 bleiben offen.2064 nur Kontext;22 Anschlussfragen unverändert.
+
+FSP1/2 bietet37863/37885 unter Einblick gewinnen37851 und eigene Sprachbegleitung im übergreifenden Ziel37739: arithmetische Wege sprachlich begleiten und mit Unterstützung erklären. Das ist ein positiver vorbereitender Kandidat bis20; kein Ausschluss allein wegen Zahlenraum. FSP3/4 bietet den genau passenden additiven/subtraktiven Strategieanker35479/35485 mit Kommunikationsbemerkung und übergreifendem Beschreibungsziel35415. Dieser stufenbandpassende Pflichtbereich wird für den eigenen Teilschrittweg bevorzugt.35580 beschreibt eigene Wege unter Kennen35571 im Knobel-Wahlbereich; keine zusätzliche Karte erforderlich.35509 unter Einblick gewinnen35504 enthält Abwägen von Lösungsvarianten und mathematisches Darstellen und bleibt für den anderen offenen Ausschnitt187197 zu prüfen.35593 unter Anwenden35582 trägt bereitsMA-121; dessen Bewertung wird nicht als Pflichtbereichsziel übernommen.
+
+Eine Folgeprüfung, eine bestehende Karte ergänzt; keine neue Karte, Erstprüfung oder Inventurzeile.120 andere Mathematikkarten und alle434 Ebeneneinträge unverändert. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenprüfung434/868 lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

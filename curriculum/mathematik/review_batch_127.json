@@ -1,0 +1,244 @@
+{
+  "id": "MA-127",
+  "date": "2026-11-26",
+  "base_commit": "c0cc68e3c3b23da37d4a2d1aa2981d853e1d7e17",
+  "scope": "FolgeprüfungGS3 187197: Beschreiben eigener additiver/subtraktiver Teilschritte im FSP-Pflichtbereich; bestehendeMA-120 ergänzen.",
+  "source_verification": {
+    "html": "Amtliche GS912 und FSP139 erneut online gelesen:187197,35479/35485, übergreifende Sprachziele37739/35415 und Kandidaten beider Bänder.",
+    "pdf": "Gespeicherte amtliche MA-118-PDFs textuell gelesen: DefinitionenS.V/PDF5 beider Pläne; GS S.22/PDF32; FSP S.12/PDF24, S.17/PDF29, S.19–21/PDF31–33 undS.23/PDF35. Kein neuer Download oder neue Renderprüfung.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_2064": {
+      "id": "page912_2064",
+      "level": 1,
+      "parent_target_id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064"
+    },
+    "page912_2065": {
+      "id": "page912_2065",
+      "level": 2,
+      "parent_target_id": "page912_2064",
+      "target": "Lösen von Additions- und Subtraktionsaufgaben im Zahlenraum bis 1 000 durch Nutzen von Strategien",
+      "remarks": "Nutzen von Lern- und Übungssoftware ⇒ Medienbildung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2065"
+    },
+    "page912_187197": {
+      "id": "page912_187197",
+      "level": 2,
+      "parent_target_id": "page912_2064",
+      "target": "Beschreiben, Vergleichen und Bewerten von verschiedenen Rechenwegen und Notationsformen",
+      "remarks": "Rechenwege finden, erklären und berichtigen Vermeiden jeder zu schnellen Normierung von Lösungswegen und Notationen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187197"
+    },
+    "page139_35470": {
+      "id": "page139_35470",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470"
+    },
+    "page139_35479": {
+      "id": "page139_35479",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479"
+    },
+    "page139_35485": {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485"
+    },
+    "page139_37851": {
+      "id": "page139_37851",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "target": "Einblick gewinnen in das Erschließen der Welt durch Rechenhandlungen",
+      "remarks": "Heftführung und -gestaltung ⇒ Sprachförderung ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851"
+    },
+    "page139_37863": {
+      "id": "page139_37863",
+      "level": 2,
+      "parent_target_id": "page139_37851",
+      "target": "Addition und Subtraktion ohne/mit Überschreiten des Zehners",
+      "remarks": "Ergänzen bis 10, Zerlegen individuelle Lösungsschritte Differenzierung: individueller Einsatz von Anschauungsmitteln; Pfeilschreibweise, Tabellen und Rechengitter",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37863"
+    },
+    "page139_37885": {
+      "id": "page139_37885",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Möglichkeiten des Zerlegens von Mengen in Teilmengen Nachbaraufgabe: 7 + 3 = 10, so 7 + 4 = 11 Vertauschen: 3 + 8 = 11, weil 8 + 3 = 11 Umkehraufgaben: 7 + 8 = 15, so 15 – 8 = 7 8 + 7 = 15, so 15 – 7 = 8 Übertragen: 4 + 2 = 6, so 14 + 2 = 16 Beziehung zwischen Addition und Subtraktion: 11 – 9 =  ⇒ 9 +  = 11",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885"
+    },
+    "page139_37896": {
+      "id": "page139_37896",
+      "level": 1,
+      "parent_target_id": "page139_37896",
+      "target": "Einblick gewinnen in Strategien zum Lösen von Sachaufgaben",
+      "remarks": "Suchen nach mathematischen Inhalten in Handlungen, Situationsbildern und Texten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37896"
+    },
+    "page139_37908": {
+      "id": "page139_37908",
+      "level": 2,
+      "parent_target_id": "page139_37896",
+      "target": "Probieren verschiedener Lösungswege",
+      "remarks": "Skizze, Tabelle, Term oder Gleichung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37908"
+    },
+    "page139_35504": {
+      "id": "page139_35504",
+      "level": 1,
+      "parent_target_id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504"
+    },
+    "page139_35509": {
+      "id": "page139_35509",
+      "level": 2,
+      "parent_target_id": "page139_35504",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509"
+    },
+    "page139_35571": {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571"
+    },
+    "page139_35580": {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580"
+    }
+  },
+  "stage_goal_evidence": {
+    "page139_35415": {
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35415",
+      "kind": "übergreifendes fachliches Sprachziel",
+      "excerpt": "können eigene Rechenwege umgangssprachlich beschreiben und begründen",
+      "printed_page": "17",
+      "pdf_page": 29,
+      "role": "Ergänzender Beschreibungsbeleg; keine neue amtliche Zeilenebene, keine benötigte Ableitung der schon in35479 ausdrücklich stehenden Zahlenraumgrenze."
+    },
+    "page139_37739": {
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37739",
+      "kind": "übergreifendes fachliches Sprachziel",
+      "paraphrase": "Arithmetische Lösungswege sprachlich begleiten und mit Unterstützung umgangssprachlich erklären.",
+      "role": "Positiver vorbereitender Kandidat1/2; kleinerer Zahlenraum allein kein Ausschluss."
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187197",
+      "first_review": false,
+      "status": "existing_limited_connection_refined",
+      "card": "MA-120",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "187197 wird im Pflichtbereich für das Beschreiben des eigenen additiven beziehungsweise subtraktiven Teilschrittwegs begrenzt an die bestehende KarteMA-120 angeschlossen. Der Strategieteil2065 bleibt erhalten. In FSP35485 steht die Kommunikation über Lösungswege in der Bemerkung; das übergreifende Bandziel35415 nennt ausdrücklich die umgangssprachliche Beschreibung und Begründung eigener Rechenwege. Ausgewählt ist die Beschreibung des bereits belegten eigenen Teilschrittwegs, nicht der vollständige Vergleich verschiedener Wege oder Notationsformen. Keine neue Karte und keine erneute Erstzählung von187197.",
+      "learning_levels": "Amtliche Lernzielebenen aufMA-120: GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionen beider Pläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Beschreiben, Kommunizieren und Zerlegen sind konkrete Zielhandlungen, keine Lernzielebenen.35415 ist übergreifender fachlicher Sprachkontext und liefert keine abweichende amtliche Lernzielebene. Kennen35571 und Anwenden35582 werden nicht auf diesen Pflichtbereichsanschluss übertragen. MA-121 behält seinen eigenständigen Reflexionsausschnitt unter FSP-Anwenden samt Wahlbereichsbindung.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Addition/Subtraktion bis 100",
+        "detail": "Die Obergrenze bis100 steht in Unterziel35479.35485 steht darunter und nennt Lösungswege; Teilschritte sind in seiner Bemerkung belegt. Die konkrete Zerlegung und die Einbeziehung aller Zwischenwerte sind didaktische Feinzielpräzisierungen, die Zahlenraumgrenze selbst ist ausdrücklich belegt. Keine Ableitung aus einem übergreifenden Bandziel. GS2064/2065 bis1 000. Auch beim Beschreiben gelten die ausdrücklich belegten Grenzen des Rechenwegs;35415 belegt den sprachlichen Bezug, nicht die hier bereits aus35479 feststehende Obergrenze.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479"
+        ],
+        "planning_rule": "Bekannte Addition/Subtraktion und bekanntes Zerlegen einer nichtnegativen ganzen Zahl in Teilbeträge. Der neue Rechenzusammenhang ist mit dem gelernten vergleichbar; die Lehrkraft beurteilt diese Übertragung, statt bloßes Wiederholen oder eine einzelne richtige Endzahl gleichzusetzen. Für FSP bleibt ein lebensweltlicher Bezug aus35470 erhalten. Die Zerlegung betrifft den zweiten Summanden oder den Subtrahenden, nicht beide Operanden zugleich. Teilbeträge ergeben zusammen genau diesen Operanden. Bei der Subtraktion ist der Subtrahend nicht größer als der Minuend; keine negativen Teilbeträge oder Zwischenergebnisse. Alle FSP-Ausgangszahlen, Operanden, Teilbeträge, relevante Teilrechnungen, Zwischen- und Endergebnisse bleiben bis 100, einschließlich100. Die Zerlegung und die Rechenkette müssen wertgleich zur Ausgangsrechnung sein. Für GS gilt der entsprechende Ausschnitt bis1 000. Die FSP-Grenze stammt aus35479, nicht aus dem benachbarten Zahlenziel35461 oder aus einem übergreifenden Bandziel. Aufgaben, Lernhandlungen, Notationsformen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Entwürfe werden nicht überschrieben; Freitext ist nicht automatisch fachlich validiert. Die Beschreibung muss sich auf genau diesen begrenzten eigenen Weg beziehen; alle genannten Teilbeträge und Zwischenwerte unterliegen derselben Grenze bis 100. Keine feste Anzahl von Teilschritten, keine genormte Formulierung und kein bestimmtes Notationsformat. Vergleich/Bewertung anderer Wege und Notationen sind nicht Teil dieses Feinziels."
+      },
+      "prerequisites": "Bekannte Addition/Subtraktion, passende Zerlegung des zweiten Summanden beziehungsweise Subtrahenden und Übertragung in einen vergleichbaren lebensweltlichen Zusammenhang sind Voraussetzung. Die Beschreibung bezieht sich auf den tatsächlich genutzten eigenen Weg. Seine Teilbeträge, Reihenfolge und Zwischenergebnisse müssen verständlich zugeordnet sein; eine Endzahl oder eine unkommentierte Zahlenfolge allein belegt das Beschreiben nicht. Alltagssprachliche Darstellung genügt; keine neue Fachwortliste, feste Formulierung oder Notationsform wird vorgeschrieben.",
+      "uncertainty": "Der kommunikative Beleg ist eine Bemerkung zum verbindlichen Unterziel35485, gestützt durch das übergreifende Sprachziel35415. Die genaue Beschreibung des ausgewählten Teilschrittwegs und die Erfolgskriterien sind didaktische Konkretisierungen. Aus Kommunikation allein wird kein ausdrücklicher Pflichtbereichsbeleg für das Vergleichen/Bewerten aller Wege oder Notationsformen abgeleitet. Der kleinere Zahlenraum ist nicht der Grund der inhaltlichen Begrenzung.",
+      "remaining_scope": "MA-120 deckt nun Strategieeinsatz2065 und aus187197 das Beschreiben des eigenen Teilschrittwegs ab. Keine vollständige GS-Zieldeckung: weitere Strategien, Vergleich und Bewertung mehrerer Wege im Pflichtbereich, Beschreibung/Vergleich/Bewertung von Notationsformen sowie Zahlen oberhalb100 bis1000 bleiben außerhalb dieser Karte. Der gesonderte Tierwelt-ReflexionsanschlussMA-121 bleibt erhalten. Nächste Einzelprüfung innerhalb187197: Variantenabwägung und Darstellungen35509 unter Einblick gewinnen35504, getrennt von bloßer Verwendung einer Notation.37908 und35580 als weitere Kandidaten berücksichtigen.187198–187201 und übriger Rest2065 bleiben offen.2064 nur Kontext;22 Anschlussfragen unverändert."
+    }
+  ],
+  "context_only": [
+    "page912_2064"
+  ],
+  "band_selection": "FSP1/2 bietet37863/37885 unter Einblick gewinnen37851 und eigene Sprachbegleitung im übergreifenden Ziel37739: arithmetische Wege sprachlich begleiten und mit Unterstützung erklären. Das ist ein positiver vorbereitender Kandidat bis20; kein Ausschluss allein wegen Zahlenraum. FSP3/4 bietet den genau passenden additiven/subtraktiven Strategieanker35479/35485 mit Kommunikationsbemerkung und übergreifendem Beschreibungsziel35415. Dieser stufenbandpassende Pflichtbereich wird für den eigenen Teilschrittweg bevorzugt.35580 beschreibt eigene Wege unter Kennen35571 im Knobel-Wahlbereich; keine zusätzliche Karte erforderlich.35509 unter Einblick gewinnen35504 enthält Abwägen von Lösungsvarianten und mathematisches Darstellen und bleibt für den anderen offenen Ausschnitt187197 zu prüfen.35593 unter Anwenden35582 trägt bereitsMA-121; dessen Bewertung wird nicht als Pflichtbereichsziel übernommen.",
+  "existing_cards_rechecked": [
+    "MA-037",
+    "MA-120",
+    "MA-121"
+  ],
+  "existing_card_review": "MA-120 um den belegten Beschreibungsaspekt erweitert; ursprüngliche Strategie und Zahlenraumgrenzen erhalten. MA-037 betrifft Erproben inGS1/2 gegenüber FSP-Einblick; MA-121 bleibt Tierweltreflexion mit FSP-Anwenden. Keine Ebenenübernahme zwischen diesen Karten.120 andere Mathematikkarten sowie alle434 Ebeneneinträge unverändert.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "follow_up_rows_this_batch": 1,
+    "new_cards": 0,
+    "updated_cards": 1,
+    "cards_total": 121,
+    "same_band": 92,
+    "cross_band": 29,
+    "open_questions_total": 22,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 293,
+    "target_anchors": 291
+  },
+  "tests": {
+    "status": "local_targeted_and_levels_passed",
+    "data_checks": {
+      "update-mathematik.py": {
+        "exit": 0,
+        "output": ""
+      },
+      "check-deutsch.py": {
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      "prepare-pages.py": {
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-26\n"
+      },
+      "check-mathematik.py": {
+        "exit": 0,
+        "output": "PASS: 121 mathematics cards, 293 source links (291 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      "test-mathematik-scope.py": {
+        "exit": 0,
+        "output": "PASS: 121 mathematics cards, 293 source links (291 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      "check-learning-objects.py": {
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    },
+    "local_browser": "PASS:gezielte KartenMA-037/120/121; Beschreibungsbezug187197, amtlichÜbertragen beiderseits aufMA-120, expliziter Scope100, Quellen, Scope in Karte/Zielen/Output, Zielübernahme, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe, Fachwechsel, mobileRegressionMA-084.",
+    "local_learning_levels": "PASS:434Karten/868Kartenseiten; amtliche Ebenen, Quellenvererbung, Ausschluss von Zielhandlungen, Fachwechsel.",
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller121Mathematikkarten; gezielte Funktionsprüfung und vollständige Ebenenprüfung. Liveprüfung ausstehend."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.428"
+  },
+  "continuation": {
+    "next_id": "page912_187197",
+    "next_step": "GS3 Rest187197: Variantenabwägung und Notationsformen gegen35509 unter Einblick gewinnen35504 prüfen; weitere Kandidaten37908/35580 berücksichtigen. MA-127 ergänzt das Beschreiben des eigenen Teilschrittwegs auf bestehenderMA-120 (GS/FSP Übertragen;1000/100 ausdrücklich). MA-121 bleibt für Tierweltreflexion erhalten. Keine neue Karte oder Erstzählung. Danach187198 und187199–187201.121 Karten,22 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.428: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

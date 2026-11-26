@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.427** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.428** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -284,3 +284,6 @@ Mathematik MA-126: Rechenwegreflexion187197 im FSP-Wahlbereich Tierwelt begrenzt
 
 
 MA-126 veröffentlicht: App1.427, Commit `5fd452dfbb6dba6b8b4c605c894dff091e19111f`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45789271925). Live-App bytegleich, SHA-256 `e52ea2746dac3f51c851f8ae79c874192fa04696edeb4f0e0df3d4561c22b9c7`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-037/120/121 und Ebenenprüfung434Karten/868Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller121Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Restumfang187197 (Notationsformen/Pflichtbereich); Rechenwegreflexion im Tierwelt-Wahlbereich erstmals begrenzt geprüft,2064 nur Kontext.121 Karten,22 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Kein Gesamtabschluss.
+
+
+Mathematik MA-127: Beschreiben eigener Teilschrittwege aus187197 auf bestehenderMA-120 ergänzt, beiderseits amtlich Übertragen. Zahlenräume1000/100 ausdrücklich belegt.121 Karten,22 Fragen; keine neue Karte oder Erstzählung. [Prüfpaket](curriculum/mathematik/review_batch_127.json). App1.428: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend.
