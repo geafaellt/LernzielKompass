@@ -405,7 +405,7 @@
     }
   },
   "tests": {
-    "status": "local_targeted_and_levels_passed",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -441,14 +441,29 @@
     "local_browser": "PASS: targeted MA-034/MA-125/MA-126 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 439 Karten, 878 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "125 other mathematics cards,439 learning-level entries,all Deutsch files,sources,26 questions andIDs preserved;no new first review;executable UI code unchanged except PDF footer version;root/dist byte-equal.",
-    "limits": "Keine UI-Funktionsänderung; gezielte Kartenprüfung, kein neuer vollständiger Funktionslauf aller126 Mathematikkarten und keine neue semantische Vollprüfung des Bestands. Liveprüfung ausstehend."
+    "limits": "Keine UI-Funktionsänderung; nur Daten und Versionsangabe. Kein neuer vollständiger Funktionslauf aller126 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Karten- und vollständige Ebenenprüfung lokal/live bestanden; Gesamtabgleich unvollständig.",
+    "live_browser": "PASS: targeted MA-034/MA-125/MA-126 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 439 Karten, 878 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.436"
+    "batch": "MA-134",
+    "status": "published_verified",
+    "app_version": "1.436",
+    "commit": "d46f0b7a6c2f506f3d2d245986dcc01fa715d383",
+    "tree": "a2ee03060f8c5c7c6134740a969fa61e6c801613",
+    "pages_run_id": 45883757975,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45883757975",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "70aeb549be04ccec8265b19f30e904e98bfc9d684a449df8f4638434dfcc4b71",
+    "bytes": 5723027,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-034/125/126 mit Regressionen; Scope auf Karte/Zielen/Output, Quellen, Ziele, leere Aufgaben/Hilfsmittel, Erhalt eigener Entwürfe, Fachwechsel und Mobilansichten; Ebenenprüfung439 Karten/878 Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Funktionsänderung; nur Daten und Versionsangabe. Kein neuer vollständiger Funktionslauf aller126 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Karten- und vollständige Ebenenprüfung lokal/live bestanden; Gesamtabgleich unvollständig."
   },
   "continuation": {
     "next_id": "page912_187201",
-    "next_step": "GS3 strukturierte Aufgabenformate187201: subtraktive Übergänge und mehrschrittige Ketten prüfen, vorwärts und rückwärts getrennt. MA-134 ergänzt bestehendeMA-126 ausschließlich für den unmittelbar vorhergehenden Wert eines einzelnen additiven Übergangs bei bekanntem Folgewert und Zuwachs. Kein Nachweis einer ganzen Rückwärts-Kettenstrategie. Beide Übertragen,GS1000/FSP100 ausdrücklich.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte, Erstprüfung oder Frage. App1.436: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 strukturierte Aufgabenformate187201: subtraktive Übergänge und mehrschrittige Ketten prüfen, vorwärts und rückwärts getrennt. MA-134 ergänzt bestehendeMA-126 ausschließlich für den unmittelbar vorhergehenden Wert eines einzelnen additiven Übergangs bei bekanntem Folgewert und Zuwachs. Kein Nachweis einer ganzen Rückwärts-Kettenstrategie. Beide Übertragen,GS1000/FSP100 ausdrücklich.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte, Erstprüfung oder Frage. App1.436: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung439/878 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }

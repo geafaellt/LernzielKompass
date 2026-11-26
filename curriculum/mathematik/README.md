@@ -1641,4 +1641,7 @@ FSP1/2-37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und Platzhalterbe
 
 187201 bleibt begrenzt geprüft. MA-125 bleibt vorwärts gerichteter Einspluseins-Kettenausschnitt; MA-126 umfasst zusätzlich nur die lokale Rückwärtsbestimmung vor einem additiven Übergang. Weitere vorwärts additive/subtraktive Verkettung, Rückwärtsbetrachtung subtraktiver Übergänge und mehrschrittig rückwärts zu erschließende Startwerte verbleiben im bestehenden offenen Rest187201. Die26 bisherigen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Dreiecke bleiben unverändert; keine weitere Frage doppelt gezählt.
 
-Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung439/878 lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
+Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung439/878 lokal und live bestanden; Veröffentlichung geprüft.
+
+
+MA-134 veröffentlicht: App1.436, Commit `d46f0b7a6c2f506f3d2d245986dcc01fa715d383`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45883757975). Live-App bytegleich, SHA-256 `70aeb549be04ccec8265b19f30e904e98bfc9d684a449df8f4638434dfcc4b71`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/125/126 und Ebenenprüfung439 Karten/878 Seiten lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf, keine UI-Funktionsänderung.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen unverändert. MA-126 um den unmittelbar vorhergehenden Wert eines einzelnen additiven Kettenschritts ergänzt; keine ganze Rückwärtsstrategie. Nächster Schritt: subtraktive Übergänge und mehrschrittige Ketten187201. Deutsch-Abschluss unverändert; kein Gesamtabschluss.
