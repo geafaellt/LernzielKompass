@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-132
+# Mathematik-Abgleich · MA-133
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: Rechendreiecke, danach weitere Ketten-/Strukturfragen. [MA-132](review_batch_132.json) ergänztMA-126 für den lokalen fehlenden Summanden bei bekannter Zielsumme.126 Karten,25 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: weitere Zahlenketten und rückwärts zu erschließende Startwerte. [MA-133](review_batch_133.json) ergänzt bestehendeMA-126 um lokalen Rechendreiecksbezug.126 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1602,3 +1602,22 @@ Folgeprüfung187201 ohne erneute Erstzählung; eine neue Karte.125 Bestandskarte
 
 
 MA-132 veröffentlicht: App1.434, Commit `b59762f1b0243f8cd87bee0921d36952aeeef55f`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45845365751). Live-App bytegleich, SHA-256 `a4f2cbb0d1196ba2e9708770296b1f8ffb62c6f3edc8d5997889e8974b65b4b4`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/040/120/123/126 und Ebenenprüfung439 Karten/878 Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller126 Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Rechendreiecke innerhalb strukturierter Aufgabenformate187201.126 Karten,25 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Folgeprüfung187201 ohne neue Erstzählung; weiterführende Zielzahlmauern einmal als neue Frage erfasst. Kein Gesamtabschluss. Deutsch-Abschluss und AIS-Kopierbutton unverändert.
+
+
+## MA-133 · App1.435 · 26.11.2026
+
+GS3 strukturierte Aufgabenformate187201 werden für einen lokalen fehlenden Summanden in einem additiven Rechendreieck weitergeprüft. Didaktisch vereinbart ist eine Paarsummenregel: Einer außenstehenden Summe sind zwei innere Summanden zugeordnet. Ist die Summe und einer dieser Summanden bekannt, wird der andere über die Umkehrbeziehung bestimmt. Dies ist derselbe mathematische Ausschnitt wie die bereits begrenzt zugeordnete lokale Zielsumme aufMA-126; die vorhandene Karte wird ergänzt, keine zweite Karte für dieselbe Beziehung angelegt. FSP3/4 belegt in35485 unter35479/Übertragen35470 die Beziehung zwischen Aufgabe und Umkehraufgabe, nicht das grafische Rechendreieck als vorgeschriebenes Format.
+
+Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen S.V/PDF5 bezeichnen das Verwenden bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Bestimmen, Entdecken und Nutzen sind Zielhandlungen. Weder das Einblick gewinnen ausFSP1/2-37851 noch das Anwenden aus38017 oder das Kennen aus35571 wird in diese Gegenüberstellung übernommen. Die bereits belegte Ebenenzuordnung aufMA-126 bleibt einschließlich Anzeige und Planungsoutput unverändert.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Unterziel35479.35485 ist diesem Additions-/Subtraktionsziel untergeordnet. Der Rahmen ist damit zielzeilenbezogen belegt und nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Der GS-Zahlenraum oberhalb100 und weiterführende Mauer-/Dreiecks- und Strukturzusammenhänge sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund für den belegten Umkehrbezug.
+
+Die additive Zuordnung zwischen einer bekannten Summe und zwei unmittelbar zugehörigen Summanden ist geklärt; genau einer dieser Summanden fehlt. Der bekannte Summand ist nicht größer als die Summe. Im Rechendreieck wird genau eine solche Paarbeziehung ausgewählt. Weitere mit dargestellte Vorgaben sind geklärt und widerspruchsfrei; ein lokal richtiger Wert darf nicht als Lösung eines widersprüchlichen Gesamtdreiecks gelten. GS beschreibt die Zuordnung der betreffenden Felder. FSP nutzt dieselbe Umkehrbeziehung im vergleichbaren lebensweltlichen Zusammenhang; eine grafische Dreiecksnotation ist nicht verpflichtend.
+
+GS187201 nennt Rechendreiecke nur als Bemerkungsbeispiel und legt weder eine Paarsummenregel noch eine einheitliche Anordnung oder bestimmte Zahl fehlender Felder fest. Die ausgewählte additive Regel und die Beschränkung auf eine lokale Beziehung sind ausdrücklich didaktische Konkretisierungen. Es wird weder eine amtliche Regel erfunden noch das ganze Format durch allgemeines Rechnen als abgedeckt erklärt. Das gleichzeitige Bestimmen mehrerer innerer Zahlen allein aus mehreren Paarsummen und weiterführende Veränderungsbeziehungen bleiben gesondert zu prüfen.
+
+FSP1/2:37885 unterEinblick gewinnen37851 belegt Addition/Subtraktion einschließlich Umkehr- und Platzhalterbezug bis20; positiver vorbereitender Anschluss, keine Ablehnung wegen Zahlenraum.38019 unterAnwenden38017 betrifft grafische Darstellungen im Wahlbereich4 und nennt Rechenblumen, -dominos, -mauern und -quadrate. Daraus wird weder eine ausdrücklich genannte Rechendreiecksregel noch eine spezielle Paarzuordnung abgeleitet.38021/38022/38035/38037 belegen allgemeine Knobelstrategien untereigenemEinblick gewinnen, nicht unterAnwenden38017. FSP3/4:35485 unter35479/Übertragen35470 ist der konkrete Umkehrbeleg im passenden Stufenband und wird für den lokalen fehlenden Summanden bevorzugt. Der ausdrücklich belegte Rahmen ist100. Die Strategiezeilen35577/35578/35580 unterKennen35571 im Wahlbereich2 bleiben Kandidaten für gekoppelte Beziehungen; ihre allgemeine Formulierung ist noch kein Nachweis der vollständigen Rekonstruktion von Rechendreiecken. Das Fehlen des Formatnamens allein ist kein Nichtanschlussgrund; entschieden wird anhand der belegten mathematischen Beziehung.
+
+187201 bleibt begrenzt geprüft. Der lokale Umkehrbezug bei bekannter Summe und einem bekannten Summanden gilt aufMA-126 nun für die didaktisch ausgewählten Mauer- und Rechendreiecksausschnitte. Gekoppelte Paarsummenbeziehungen und mehrere unbekannte innere Werte sind als26.Frage gesichert; die25 bisherigen Fragen einschließlich Zielzahlmauern bleiben erhalten. Nächster Ausschnitt: weitere Zahlenketten, insbesondere additive/subtraktive Ketten und rückwärts zu erschließende Startwerte. Keine neue Erstprüfung187201, keine neue Karte und keine neuen Quellenanker.
+
+Folgeprüfung187201 ohne Erstzählung und ohne neue Karte.125 übrige Mathematikkarten, alle439 Ebeneneinträge und FSP-Feinziel/Erfolgskriterium aufMA-126 unverändert. Sechs Datenprüfungen, gezielter Kartentest und Ebenenprüfung439 Karten/878 Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

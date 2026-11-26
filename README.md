@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.434** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.435** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -46,7 +46,7 @@ App 1.322 enthält einen aufklappbaren, nach Fach filterbaren Informationsbereic
 | --- | --- | --- |
 | Sachunterricht, Grundschule 1–4 | 135 Anschlusskarten; GS Sachunterricht ↔ FSP Deutsch-Heimatkunde/Sachunterricht, ausschließlich Stufenbänder 1/2 und 3/4; Datenbasis v2.46 | Der dokumentierte ZA-Prüfumfang wurde bearbeitet; die Projektverantwortliche hat die 21 ZA-Punkte am 23.10.2026 inhaltlich freigegeben. Das ist keine amtliche Freigabe und keine Aussage vollständiger Zieldeckung. Der Bestand bleibt bei den Deutsch-Erweiterungen unverändert. |
 | Deutsch, Grundschule 1–4 | 178 Anschlusskarten; GS 1/2, 3 und 4 ↔ FSP Deutsch-Heimatkunde/Sachunterricht 1/2 und 3/4 | Quellenbasierter Abgleichsentwurf; dokumentierte Einzelprüfung einschließlich Anschlussfragen abgeschlossen. Grenzen und Restumfang siehe unten. |
-| Mathematik, Grundschule 1–4 | 126 begrenzte Anschlüsse;97 stufenbandpassend,29 stufenübergreifend | MA-132, App1.434:25 offene Anschlussfragen, Einzelprüfung unvollständig. Fortsetzung Rechendreiecke innerhalb187201. [Fortschritt](curriculum/mathematik/review_progress.json) · [Prüfpaket](curriculum/mathematik/review_batch_132.json). |
+| Mathematik, Grundschule 1–4 | 126 begrenzte Anschlüsse;97 stufenbandpassend,29 stufenübergreifend | MA-133, App1.435:26 offene Anschlussfragen, Einzelprüfung unvollständig. Fortsetzung weitere Zahlenketten innerhalb187201. [Fortschritt](curriculum/mathematik/review_progress.json) · [Prüfpaket](curriculum/mathematik/review_batch_133.json). |
 | Oberschule und weitere Fächer | Weitere Entwicklungsbereiche | Die Oberschule bleibt in der Auswahl deaktiviert. |
 
 Die FSP-Stufenbänder werden nicht als Einzelklassen interpretiert. Stufenübergreifende Zuordnungen und notwendige Wahlbereiche sind zu beachten. Sekundarstufenanschlüsse gehören nicht zum aktuellen Deutsch-Abgleich.
@@ -315,3 +315,5 @@ Mathematik MA-132: fehlender Summand bei vorgegebener Zielsumme aufMA-126, amtli
 
 
 MA-132 veröffentlicht: App1.434, Commit `b59762f1b0243f8cd87bee0921d36952aeeef55f`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45845365751). Live-App bytegleich, SHA-256 `a4f2cbb0d1196ba2e9708770296b1f8ffb62c6f3edc8d5997889e8974b65b4b4`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/040/120/123/126 und Ebenenprüfung439 Karten/878 Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller126 Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: Rechendreiecke innerhalb strukturierter Aufgabenformate187201.126 Karten,25 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Folgeprüfung187201 ohne neue Erstzählung; weiterführende Zielzahlmauern einmal als neue Frage erfasst. Kein Gesamtabschluss. Deutsch-Abschluss und AIS-Kopierbutton unverändert.
+
+Mathematik MA-133: bestehendeMA-126 um lokale additive Paarbeziehung im Rechendreieck ergänzt. Beide Übertragen und GS1000/FSP100 unverändert; Paarsummenregel didaktisch. Keine neue Karte/Erstzählung. Gekoppelte Dreiecksbeziehungen als26.Frage gesichert.126 Karten; Fortsetzung weitere Zahlenketten. Sechs Datenprüfungen, gezielter Kartentest und Ebenenprüfung439 Karten/878 Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
