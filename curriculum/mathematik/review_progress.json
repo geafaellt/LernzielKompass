@@ -3810,7 +3810,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 einzeln prüfen; FSP-Kettenaufgaben, Tabellen/Rechengitter und Knobelstrategien beider Bänder in ihrem jeweiligen Zielkontext abgrenzen. MA-130 hat187199/187200 erstmals für gleichschrittige Fortsetzung aufMA-124 begrenzt geprüft: GS Übertragen/FSP Beherrschen,1000/100 ausdrücklich. Weiterführende Regeln/Startzahlvariation zu187200 als24.Frage dokumentiert.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.431: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 einzeln prüfen; FSP-Kettenaufgaben, Tabellen/Rechengitter und Knobelstrategien beider Bänder in ihrem jeweiligen Zielkontext abgrenzen. MA-130 hat187199/187200 erstmals für gleichschrittige Fortsetzung aufMA-124 begrenzt geprüft: GS Übertragen/FSP Beherrschen,1000/100 ausdrücklich. Weiterführende Regeln/Startzahlvariation zu187200 als24.Frage dokumentiert.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.431: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung437/874 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6096,8 +6096,20 @@
   },
   "latest_publication": {
     "batch": "MA-130",
-    "status": "pending",
+    "status": "published_verified",
     "app_version": "1.431",
+    "commit": "320a421d433275d81c98b5abd80a7ae869ea7923",
+    "tree": "75bd3559c48746b06a32b262782870f37f875d7f",
+    "pages_run_id": 45824996936,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45824996936",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "270475af09ad97dd70753b6c913b4dfe1d7d3a5bc03af19fbe996de31bc6e3bb",
+    "bytes": 5695512,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-016/039/124, Quellen/Scope/Ziele/Output, expliziter Zahlenrahmen und begrenzter FSP-Regelanspruch, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung437Karten/874Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller124Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-129",
       "status": "published_verified",
@@ -6538,9 +6550,9 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-129",
+    "batch": "MA-130",
     "status": "recorded_in_this_commit",
-    "app_commit": "efc397ede77a78f47d6334db20aa01648a18828a",
+    "app_commit": "320a421d433275d81c98b5abd80a7ae869ea7923",
     "note": "Veröffentlichungsnachweis nach erfolgreichen Daten-, gezielten Karten- und Ebenenprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
   },
   "continuation_correction": {

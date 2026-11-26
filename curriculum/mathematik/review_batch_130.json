@@ -243,7 +243,7 @@
     "target_anchors": 296
   },
   "tests": {
-    "status": "local_passed",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -279,14 +279,29 @@
     "local_browser": "PASS: targeted MA-016/MA-039/MA-124 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 437 Karten, 874 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "123 existing cards,436 existing level entries,all Deutsch files and23previous questions unchanged;one new question;root/dist byte equal.",
-    "limits": "Keine UI-Codeänderung. Gezielte FunktionsprüfungMA-016/039/124 plus Mobil-/Entwurfsregressionen; kein neuer vollständiger Funktionslauf aller124Mathematikkarten. Vollständige Ebenenprüfung437Karten/874Seiten. Liveprüfung ausstehend."
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller124Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig.",
+    "live_browser": "PASS: targeted MA-016/MA-039/MA-124 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 437 Karten, 874 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.431"
+    "batch": "MA-130",
+    "status": "published_verified",
+    "app_version": "1.431",
+    "commit": "320a421d433275d81c98b5abd80a7ae869ea7923",
+    "tree": "75bd3559c48746b06a32b262782870f37f875d7f",
+    "pages_run_id": 45824996936,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45824996936",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "sha256": "270475af09ad97dd70753b6c913b4dfe1d7d3a5bc03af19fbe996de31bc6e3bb",
+    "bytes": 5695512,
+    "live_browser": "PASS: gezielte MathematikprüfungMA-016/039/124, Quellen/Scope/Ziele/Output, expliziter Zahlenrahmen und begrenzter FSP-Regelanspruch, leere Aufgaben/Hilfsmittel, eigene Entwürfe/Fachwechsel/Mobilregressionen; Ebenenprüfung437Karten/874Seiten.",
+    "verified_on": "2026-11-26",
+    "limits": "Keine UI-Codeänderung. Kein neuer vollständiger Funktionslauf aller124Mathematikkarten; gezielte Kartenprüfung und vollständige Lernzielebenenprüfung lokal/live bestanden. Keine neue vollständige semantische Prüfung sämtlicher Bestandskarten. Gesamtabgleich unvollständig."
   },
   "continuation": {
     "next_id": "page912_187201",
-    "next_step": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 einzeln prüfen; FSP-Kettenaufgaben, Tabellen/Rechengitter und Knobelstrategien beider Bänder in ihrem jeweiligen Zielkontext abgrenzen. MA-130 hat187199/187200 erstmals für gleichschrittige Fortsetzung aufMA-124 begrenzt geprüft: GS Übertragen/FSP Beherrschen,1000/100 ausdrücklich. Weiterführende Regeln/Startzahlvariation zu187200 als24.Frage dokumentiert.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.431: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+    "next_step": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 einzeln prüfen; FSP-Kettenaufgaben, Tabellen/Rechengitter und Knobelstrategien beider Bänder in ihrem jeweiligen Zielkontext abgrenzen. MA-130 hat187199/187200 erstmals für gleichschrittige Fortsetzung aufMA-124 begrenzt geprüft: GS Übertragen/FSP Beherrschen,1000/100 ausdrücklich. Weiterführende Regeln/Startzahlvariation zu187200 als24.Frage dokumentiert.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.431: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, gezielte Kartenprüfung und Ebenenprüfung437/874 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf. Deutsch-Abschluss DE-UZ-052 bewahren."
   }
 }
