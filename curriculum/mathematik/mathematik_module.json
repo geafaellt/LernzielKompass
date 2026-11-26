@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-26.5",
+  "version": "MA-2026-11-26.6",
   "checked_on": "2026-11-26",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1886,6 +1886,18 @@
       "title": "FSP Lernen Mathematik3/4 · Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35487",
       "version": "2019"
+    },
+    {
+      "id": "Q-MA-page912_187199",
+      "title": "GS Mathematik3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "version": "2026"
+    },
+    {
+      "id": "Q-MA-page912_187200",
+      "title": "GS Mathematik3 · Zahl und Operation",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187200",
+      "version": "2026"
     }
   ],
   "connections": [
@@ -11858,6 +11870,90 @@
         "Q-MA-page139_35470",
         "Q-MA-page139_35479",
         "Q-MA-page139_35487"
+      ]
+    },
+    {
+      "id": "MA-124",
+      "subject": "Mathematik",
+      "theme": "Gleichschrittige Zahlenfolgen fortsetzen · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · unterschiedliche Lernzielebenen",
+      "gs_anchor": "GS Mathematik Kl.3 · Muster187199/Zahlenfolgen187200 unter Übertragen2064 bis1 000",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Zählen35466 unter Beherrschen35461 bis100 in Alltagssituationen; Schritt-/Richtungsbezug in Bemerkung35466",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Beherrschen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064, dessen Unterpunkte187199/187200 über den Seitenwechsel auf S.23/PDF33 fortgeführt werden; FSP Beherrschen aus Hauptziel35461. Beide Definitionstabellen S.V/PDF5 unterscheiden Verwenden bekannter Kenntnisse in vergleichbaren Kontexten (Übertragen) von routinemäßigem Gebrauch von Handlungs-/Verfahrensweisen (Beherrschen). Erkennen, Beschreiben, Untersuchen, Fortsetzen und Zählen sind konkrete Zielhandlungen. Die FSP-Ebene Übertragen aus der nachfolgenden Zeile35470 wird nicht auf35466 übertragen; das GS-Beherrschen187182 der BestandskarteMA-016 gilt nicht für187199/187200. GS3 Musterziel187199 und Zahlenfolgen-Unterpunkt187200 werden erstmals für gleichschrittige Zahlenfolgen begrenzt geprüft. FSP3/4 Zählen/Abzählen35466 nennt Schrittzählen und Vorwärts-/Rückwärtszählen in seiner Bemerkung. Gemeinsamer Ausschnitt ist die Fortsetzung bei konstanter Schrittweite. GS untersucht und beschreibt die konstante additive beziehungsweise subtraktive Regel im vergleichbaren Kontext; FSP führt die bekannte Zählweise bei vorgegebener Richtung und Schrittweite sicher aus. Selbstständiges Entdecken und Begründen anspruchsvoller Regeln wird nicht als gleichwertiges FSP-Ziel behauptet. GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Hauptziel35461.35466 steht innerhalb dieses Zahlenziels. Keine Ableitung aus übergreifenden Bandzielen und keine Übernahme der Grenze aus dem benachbarten Operationsziel35479. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Regeluntersuchungsanspruch sind nicht abgedeckt. Der kleinere FSP-Zahlenraum ist allein kein Ausschlussgrund für den belegten Fortsetzungsanschluss.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187200"
+      ],
+      "fsp_target_ids": [
+        "page139_35461",
+        "page139_35466"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 Musterziel187199 und Zahlenfolgen-Unterpunkt187200 werden erstmals für gleichschrittige Zahlenfolgen begrenzt geprüft. FSP3/4 Zählen/Abzählen35466 nennt Schrittzählen und Vorwärts-/Rückwärtszählen in seiner Bemerkung. Gemeinsamer Ausschnitt ist die Fortsetzung bei konstanter Schrittweite. GS untersucht und beschreibt die konstante additive beziehungsweise subtraktive Regel im vergleichbaren Kontext; FSP führt die bekannte Zählweise bei vorgegebener Richtung und Schrittweite sicher aus. Selbstständiges Entdecken und Begründen anspruchsvoller Regeln wird nicht als gleichwertiges FSP-Ziel behauptet. Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064, dessen Unterpunkte187199/187200 über den Seitenwechsel auf S.23/PDF33 fortgeführt werden; FSP Beherrschen aus Hauptziel35461. Beide Definitionstabellen S.V/PDF5 unterscheiden Verwenden bekannter Kenntnisse in vergleichbaren Kontexten (Übertragen) von routinemäßigem Gebrauch von Handlungs-/Verfahrensweisen (Beherrschen). Erkennen, Beschreiben, Untersuchen, Fortsetzen und Zählen sind konkrete Zielhandlungen. Die FSP-Ebene Übertragen aus der nachfolgenden Zeile35470 wird nicht auf35466 übertragen; das GS-Beherrschen187182 der BestandskarteMA-016 gilt nicht für187199/187200. GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Hauptziel35461.35466 steht innerhalb dieses Zahlenziels. Keine Ableitung aus übergreifenden Bandzielen und keine Übernahme der Grenze aus dem benachbarten Operationsziel35479. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Regeluntersuchungsanspruch sind nicht abgedeckt. Der kleinere FSP-Zahlenraum ist allein kein Ausschlussgrund für den belegten Fortsetzungsanschluss. Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt. Die mathematische Deutung des Schrittzählens als Fortsetzen einer gleichschrittigen Zahlenfolge ist eine didaktische Konkretisierung. Die FSP-Bemerkung liefert den Schritt-/Richtungsbezug; sie ist keine eigenständige Lernzielebene. Weder ein spezieller Schrittwert noch eine bestimmte Zahl von Folgengliedern ist in35466 vorgeschrieben. GS nennt anspruchsvolle Regeln, veränderte Startzahlen und Fibonacci in der Bemerkung187200; diese weiterführenden Ausschnitte sind durch routiniertes Schrittzählen nicht vollständig belegt.",
+      "shared_object_suggestion": "Die gleichbleibende Änderung zwischen aufeinanderfolgenden Zahlen einer gleichschrittigen Folge im Alltagskontext.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind überträgt bekannte additive beziehungsweise subtraktive Beziehungen auf einen vergleichbaren Zusammenhang, untersucht und beschreibt die konstante Richtung und Schrittweite einer gleichschrittigen Zahlenfolge bis 1 000 und setzt sie passend fort.",
+          "criterion": "Innerhalb der ausgewählten Regelklasse passt die beschriebene Richtung und Schrittweite zu jedem Übergang. Die Fortsetzung hält diese Regel ein. Alle Startzahlen, Folgenglieder, positiven Schrittweiten sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 1 000. Keine Behauptung einer eindeutig bestimmten allgemeinen Bildungsregel aus einem endlichen Anfang.",
+          "status": "Didaktische Konkretisierung; nur gleichschrittiger Ausschnitt, keine vollständige Abdeckung anspruchsvoller Bildungsregeln."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind setzt im Alltagskontext eine Zahlenfolge bis 100 bei bekannter beziehungsweise vorgegebener Richtung und konstanter positiver Schrittweite sicher fort.",
+          "criterion": "Bei jedem Zählschritt bleiben Richtung und Schrittweite erhalten; gegebenenfalls vorkommende Zehnerübergänge sind korrekt. Alle Startzahlen, Folgenglieder, Schrittweiten sowie relevanten Zwischen- und Endergebnisse sind nichtnegative ganze Zahlen bis 100. Selbstständiges Entdecken oder sprachliches Begründen einer unbekannten Regel wird nicht zusätzlich verlangt.",
+          "status": "Didaktische Konkretisierung des belegten Schrittzählens; kein vollständiger Anschluss an die GS-Regeluntersuchung.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35461",
+        "fsp_basis": "target_row",
+        "notice": "GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Hauptziel35461.35466 steht innerhalb dieses Zahlenziels. Keine Ableitung aus übergreifenden Bandzielen und keine Übernahme der Grenze aus dem benachbarten Operationsziel35479. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Regeluntersuchungsanspruch sind nicht abgedeckt. Der kleinere FSP-Zahlenraum ist allein kein Ausschlussgrund für den belegten Fortsetzungsanschluss.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187199 verbindlicher Muster-Unterpunkt,187200 darunter Zahlenfolgen; beide unterÜbertragen2064.2064 nur Hauptzielkontext. Anspruchsvolle Regeln/Startzahlvariation/Fibonacci sind Bemerkung187200.",
+        "fsp": "35466 verbindliches Zählen/Abzählen unterBeherrschen35461; Schrittzählen und Richtungen stehen in Bemerkung35466. Gleichschrittige Folgen sind didaktische Konkretisierung, keine zusätzliche amtliche Forderung nach freier Regelentdeckung.",
+        "context_only_gs_ids": [
+          "page912_2064"
+        ],
+        "fsp_remark_anchor": "page139_35466"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlen bis 100; gleichschrittiger Ausschnitt didaktisch konkretisiert.",
+        "detail": "Hauptziel35461 begrenzt die Zahlen ausdrücklich auf100. Zählen/Abzählen35466 steht darunter; Schritte und Richtungen werden in dessen Bemerkung präzisiert. Positive konstante Schrittweite und die Berücksichtigung aller Folge-/Zwischenwerte konkretisieren den Ausschnitt didaktisch. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35466"
+        ],
+        "planning_rule": "Ausdrücklich belegter FSP-Rahmen bis 100 aus35461. Alle Startzahlen, Folgenglieder, Schrittweiten, relevanten Zwischen- und Endergebnisse bleiben nichtnegative ganze Zahlen bis 100 einschließlich100. Die konstante Schrittweite ist positiv; die Richtung bleibt innerhalb einer Folge gleich. Beim Rückwärtszählen sind negative Folgenglieder ausgeschlossen. Der betrachtete Ausschnitt endet vor einem Schritt über100 oder unter0; auch gedachte Zwischenwerte werden nicht außerhalb der Grenze eingeplant. Für GS entsprechend bis1 000. Keine Maßzahlen mit Einheiten, Dezimalzahlen, wechselnden Regeln oder rekursiven Bildungsregeln in diesem Feinziel. Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt. Aufgaben, Lernhandlungen, Notationsformen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187200",
+        "Q-MA-page139_35461",
+        "Q-MA-page139_35466"
       ]
     }
   ]

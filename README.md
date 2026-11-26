@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.430** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.431** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -46,7 +46,7 @@ App 1.322 enthält einen aufklappbaren, nach Fach filterbaren Informationsbereic
 | --- | --- | --- |
 | Sachunterricht, Grundschule 1–4 | 135 Anschlusskarten; GS Sachunterricht ↔ FSP Deutsch-Heimatkunde/Sachunterricht, ausschließlich Stufenbänder 1/2 und 3/4; Datenbasis v2.46 | Der dokumentierte ZA-Prüfumfang wurde bearbeitet; die Projektverantwortliche hat die 21 ZA-Punkte am 23.10.2026 inhaltlich freigegeben. Das ist keine amtliche Freigabe und keine Aussage vollständiger Zieldeckung. Der Bestand bleibt bei den Deutsch-Erweiterungen unverändert. |
 | Deutsch, Grundschule 1–4 | 178 Anschlusskarten; GS 1/2, 3 und 4 ↔ FSP Deutsch-Heimatkunde/Sachunterricht 1/2 und 3/4 | Quellenbasierter Abgleichsentwurf; dokumentierte Einzelprüfung einschließlich Anschlussfragen abgeschlossen. Grenzen und Restumfang siehe unten. |
-| Mathematik, Grundschule 1–4 | 123 begrenzte Anschlüsse;94 stufenbandpassend,29 stufenübergreifend | MA-129, App1.430:23 offene Anschlussfragen, Einzelprüfung unvollständig. Fortsetzung GS3 arithmetische Muster187199–187201. [Fortschritt](curriculum/mathematik/review_progress.json) · [Prüfpaket](curriculum/mathematik/review_batch_129.json). |
+| Mathematik, Grundschule 1–4 | 124 begrenzte Anschlüsse;95 stufenbandpassend,29 stufenübergreifend | MA-130, App1.431:24 offene Anschlussfragen, Einzelprüfung unvollständig. Fortsetzung GS3 strukturierte Aufgabenformate187201. [Fortschritt](curriculum/mathematik/review_progress.json) · [Prüfpaket](curriculum/mathematik/review_batch_130.json). |
 | Oberschule und weitere Fächer | Weitere Entwicklungsbereiche | Die Oberschule bleibt in der Auswahl deaktiviert. |
 
 Die FSP-Stufenbänder werden nicht als Einzelklassen interpretiert. Stufenübergreifende Zuordnungen und notwendige Wahlbereiche sind zu beachten. Sekundarstufenanschlüsse gehören nicht zum aktuellen Deutsch-Abgleich.
@@ -300,3 +300,5 @@ Mathematik MA-129: Umkehrkontrolle von Addition/Subtraktion aufMA-123, beide amt
 
 
 MA-129 veröffentlicht: App1.430, Commit `efc397ede77a78f47d6334db20aa01648a18828a`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45816040398). Live-App bytegleich, SHA-256 `604af20f644a204425fb04ec1598c0da09552f194c9386ae3ffa598f50b2dfd7`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-038/120/123 und Ebenenprüfung436Karten/872Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller123Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: arithmetische Muster187199 mit187200/187201.123 Karten,23 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Eine Erstprüfung187198; kein Gesamtabschluss. Deutsch-Abschluss unverändert.
+
+Mathematik MA-130: gleichschrittige Zahlenfolgen aufMA-124, amtlich GS Übertragen/FSP Beherrschen. GS1000/FSP100 ausdrücklich; weiterführende Regeln als Restfrage gesichert.124 Karten,24 Fragen; zwei Erstprüfungen187199/187200. Sechs Datenprüfungen, gezielte KartenprüfungMA-016/039/124 und Ebenenprüfung437Karten/874Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.

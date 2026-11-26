@@ -1,0 +1,292 @@
+{
+  "id": "MA-130",
+  "date": "2026-11-26",
+  "base_commit": "2c877370fd81cb1fd7fb23219d8e19f20438a346",
+  "scope": "GS3 arithmetische Muster187199/Zahlenfolgen187200: gleichschrittige Fortsetzung.187201 noch nicht entschieden.",
+  "source_verification": {
+    "html": "Amtliche GS912/FSP139 erneut online gelesen: Muster/Zahlenfolgen unter2064; FSP1/2 Natur-Zählziele und3/4 Zahlenziel/Schrittzählen sowie multiplikative Folgen.",
+    "pdf": "Gespeicherte amtliche PDFs ausMA-118 textuell erneut gelesen: beide DefinitionenS.V/PDF5, GS S.23/PDF33 mit Fortsetzung des Hauptziels2064 vonS.22/PDF32; FSP S.13/PDF25,S.17/PDF29,S.19/PDF31. Keine neue PDF-Renderprüfung und kein neuer Download.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": {
+    "page912_2064": {
+      "id": "page912_2064",
+      "level": 1,
+      "parent_target_id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064"
+    },
+    "page912_187199": {
+      "id": "page912_187199",
+      "level": 2,
+      "parent_target_id": "page912_2064",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199"
+    },
+    "page912_187200": {
+      "id": "page912_187200",
+      "level": 3,
+      "parent_target_id": "page912_2064",
+      "target": "Untersuchen von Zahlenfolgen",
+      "remarks": "anspruchsvolle Bildungsregeln Startzahlen nach Regeln verändern Fibonacci-Folge",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187200"
+    },
+    "page912_187201": {
+      "id": "page912_187201",
+      "level": 3,
+      "parent_target_id": "page912_2064",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern mit vorgegebener Zielzahl, Zahlenketten, Rechendreiecke ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201"
+    },
+    "page139_35461": {
+      "id": "page139_35461",
+      "level": 1,
+      "parent_target_id": "page139_35461",
+      "target": "Beherrschen der Zahlen bis 100 in Alltagssituationen",
+      "remarks": "Darstellen auf gegenständlich-praktischer, anschaulich-bildlicher und symbolisch-sprachlicher Ebene Seitenzahlen von Büchern, Schülerzahlen, Entfernungen, Preise, Kalender, Zeitangaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35461"
+    },
+    "page139_35466": {
+      "id": "page139_35466",
+      "level": 2,
+      "parent_target_id": "page139_35461",
+      "target": "Zählen und Abzählen",
+      "remarks": "vor- und rückwärts zählen unter Beachtung der Zehnerübergänge Zählen in Schritten, Zählen von ... bis ... Nachbarzahlen, Nachbarzehner",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35466"
+    },
+    "page139_37931": {
+      "id": "page139_37931",
+      "level": 1,
+      "parent_target_id": "page139_37931",
+      "target": "Beherrschen von Zählhandlungen beim Erkunden der Natur",
+      "remarks": "Naturmaterialien, Applikationen ⇒ Sprachförderung ⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37931"
+    },
+    "page139_37950": {
+      "id": "page139_37950",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Zählen in Schritten",
+      "remarks": "Differenzierung: 2er-, 5er-, evtl. auch 3er-Schritte",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37950"
+    },
+    "page139_37952": {
+      "id": "page139_37952",
+      "level": 3,
+      "parent_target_id": "page139_37931",
+      "target": "Vorwärts- und Rückwärtszählen",
+      "remarks": "Zählen von ... bis ..., Unterbrechen und Fortsetzen des Zählvorganges ⇒ Förderung kognitiver Fähigkeiten",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37952"
+    },
+    "page139_35439": {
+      "id": "page139_35439",
+      "level": 1,
+      "parent_target_id": "page139_35439",
+      "target": "Kennen von Rechenhandlungen",
+      "remarks": "Organisation von Partner- und Gruppenspielen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35439"
+    },
+    "page139_35442": {
+      "id": "page139_35442",
+      "level": 2,
+      "parent_target_id": "page139_35439",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "Lösungswege selbst finden, ausprobieren und werten Skizzieren, Zurückführen auf fortgesetzte Addition Folgen der 2, 5 und 10 als Kernaufgaben Umkehraufgaben, Arbeit mit \"Vierergruppen\": 7 · 8 = 56 56 : 8 = 7 8 · 7 = 56 56 : 7 = 8 Nutzen des Vertauschens bei der Multiplikation 8 · 3 = 24, weil 3 · 8 = 24 Nachbaraufgaben: 5 · 8 = 40, so 6 · 8 = 48",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35442"
+    },
+    "page139_35571": {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571"
+    },
+    "page139_35577": {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577"
+    },
+    "page139_35578": {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578"
+    },
+    "page139_35580": {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580"
+    },
+    "page139_37981": {
+      "id": "page139_37981",
+      "level": 1,
+      "parent_target_id": "page139_37981",
+      "target": "Gestalten von Fantasieformen in der Ebene",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37981"
+    },
+    "page139_37984": {
+      "id": "page139_37984",
+      "level": 2,
+      "parent_target_id": "page139_37981",
+      "target": "Fortsetzen und kreatives Entwickeln von Mustern",
+      "remarks": "Zusammensetzen linearer und ebener Figuren Faltschnitte Differenzierung: Reihungen mit ein und mehreren Merkmalen ➔ KU, Kl. 1/2, LB 1",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37984"
+    },
+    "page139_35521": {
+      "id": "page139_35521",
+      "level": 1,
+      "parent_target_id": "page139_35521",
+      "target": "Gestalten von Fantasieformen",
+      "remarks": "Figuren, Muster und Reihen ➔ WE, Kl. 3/4, LB 3",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35521"
+    },
+    "page139_35535": {
+      "id": "page139_35535",
+      "level": 2,
+      "parent_target_id": "page139_35521",
+      "target": "Vervollständigen und Erfinden von Mustern und Fantasiebildern aus ebenen Figuren",
+      "remarks": "mit freier Hand, Schablone, Lineal und Zirkel Falt-, Schneide- und Klecksarbeiten Symmetrie",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35535"
+    }
+  },
+  "decisions": [
+    {
+      "gs_id": "page912_187199",
+      "first_review": true,
+      "status": "limited_connection",
+      "card": "MA-124",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "GS3 Musterziel187199 und Zahlenfolgen-Unterpunkt187200 werden erstmals für gleichschrittige Zahlenfolgen begrenzt geprüft. FSP3/4 Zählen/Abzählen35466 nennt Schrittzählen und Vorwärts-/Rückwärtszählen in seiner Bemerkung. Gemeinsamer Ausschnitt ist die Fortsetzung bei konstanter Schrittweite. GS untersucht und beschreibt die konstante additive beziehungsweise subtraktive Regel im vergleichbaren Kontext; FSP führt die bekannte Zählweise bei vorgegebener Richtung und Schrittweite sicher aus. Selbstständiges Entdecken und Begründen anspruchsvoller Regeln wird nicht als gleichwertiges FSP-Ziel behauptet.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064, dessen Unterpunkte187199/187200 über den Seitenwechsel auf S.23/PDF33 fortgeführt werden; FSP Beherrschen aus Hauptziel35461. Beide Definitionstabellen S.V/PDF5 unterscheiden Verwenden bekannter Kenntnisse in vergleichbaren Kontexten (Übertragen) von routinemäßigem Gebrauch von Handlungs-/Verfahrensweisen (Beherrschen). Erkennen, Beschreiben, Untersuchen, Fortsetzen und Zählen sind konkrete Zielhandlungen. Die FSP-Ebene Übertragen aus der nachfolgenden Zeile35470 wird nicht auf35466 übertragen; das GS-Beherrschen187182 der BestandskarteMA-016 gilt nicht für187199/187200.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlen bis 100; gleichschrittiger Ausschnitt didaktisch konkretisiert.",
+        "detail": "Hauptziel35461 begrenzt die Zahlen ausdrücklich auf100. Zählen/Abzählen35466 steht darunter; Schritte und Richtungen werden in dessen Bemerkung präzisiert. Positive konstante Schrittweite und die Berücksichtigung aller Folge-/Zwischenwerte konkretisieren den Ausschnitt didaktisch. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35466"
+        ],
+        "planning_rule": "Ausdrücklich belegter FSP-Rahmen bis 100 aus35461. Alle Startzahlen, Folgenglieder, Schrittweiten, relevanten Zwischen- und Endergebnisse bleiben nichtnegative ganze Zahlen bis 100 einschließlich100. Die konstante Schrittweite ist positiv; die Richtung bleibt innerhalb einer Folge gleich. Beim Rückwärtszählen sind negative Folgenglieder ausgeschlossen. Der betrachtete Ausschnitt endet vor einem Schritt über100 oder unter0; auch gedachte Zwischenwerte werden nicht außerhalb der Grenze eingeplant. Für GS entsprechend bis1 000. Keine Maßzahlen mit Einheiten, Dezimalzahlen, wechselnden Regeln oder rekursiven Bildungsregeln in diesem Feinziel. Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt. Aufgaben, Lernhandlungen, Notationsformen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "prerequisites": "Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt.",
+      "uncertainty": "Die mathematische Deutung des Schrittzählens als Fortsetzen einer gleichschrittigen Zahlenfolge ist eine didaktische Konkretisierung. Die FSP-Bemerkung liefert den Schritt-/Richtungsbezug; sie ist keine eigenständige Lernzielebene. Weder ein spezieller Schrittwert noch eine bestimmte Zahl von Folgengliedern ist in35466 vorgeschrieben. GS nennt anspruchsvolle Regeln, veränderte Startzahlen und Fibonacci in der Bemerkung187200; diese weiterführenden Ausschnitte sind durch routiniertes Schrittzählen nicht vollständig belegt.",
+      "remaining_scope": "187199/187200 sind für gleichschrittige Fortsetzung begrenzt geprüft. Wechselnde oder rekursive Bildungsregeln, systematisches Variieren von Startzahlen und selbstständige Regelbeschreibung auf FSP-Seite bleiben als gemeinsame Anschlussfrage zu187200 mit Bezug187199 offen. Keine ganze Nichtanschlussentscheidung. Strukturierte Aufgabenformate187201 sind der nächste getrennte Prüfpunkt; Kettenaufgaben oder Rechengitter in FSP-Bemerkungen werden nicht ohne Prüfung mit sämtlichen GS-Strukturformaten gleichgesetzt.23 bisherige Fragen bleiben erhalten; der erstmals geprüfte Rest187200 erhöht das Fragenregister auf24."
+    },
+    {
+      "gs_id": "page912_187200",
+      "first_review": true,
+      "status": "limited_connection",
+      "card": "MA-124",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "GS3 Musterziel187199 und Zahlenfolgen-Unterpunkt187200 werden erstmals für gleichschrittige Zahlenfolgen begrenzt geprüft. FSP3/4 Zählen/Abzählen35466 nennt Schrittzählen und Vorwärts-/Rückwärtszählen in seiner Bemerkung. Gemeinsamer Ausschnitt ist die Fortsetzung bei konstanter Schrittweite. GS untersucht und beschreibt die konstante additive beziehungsweise subtraktive Regel im vergleichbaren Kontext; FSP führt die bekannte Zählweise bei vorgegebener Richtung und Schrittweite sicher aus. Selbstständiges Entdecken und Begründen anspruchsvoller Regeln wird nicht als gleichwertiges FSP-Ziel behauptet.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064, dessen Unterpunkte187199/187200 über den Seitenwechsel auf S.23/PDF33 fortgeführt werden; FSP Beherrschen aus Hauptziel35461. Beide Definitionstabellen S.V/PDF5 unterscheiden Verwenden bekannter Kenntnisse in vergleichbaren Kontexten (Übertragen) von routinemäßigem Gebrauch von Handlungs-/Verfahrensweisen (Beherrschen). Erkennen, Beschreiben, Untersuchen, Fortsetzen und Zählen sind konkrete Zielhandlungen. Die FSP-Ebene Übertragen aus der nachfolgenden Zeile35470 wird nicht auf35466 übertragen; das GS-Beherrschen187182 der BestandskarteMA-016 gilt nicht für187199/187200.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Ausdrücklich belegt: Zahlen bis 100; gleichschrittiger Ausschnitt didaktisch konkretisiert.",
+        "detail": "Hauptziel35461 begrenzt die Zahlen ausdrücklich auf100. Zählen/Abzählen35466 steht darunter; Schritte und Richtungen werden in dessen Bemerkung präzisiert. Positive konstante Schrittweite und die Berücksichtigung aller Folge-/Zwischenwerte konkretisieren den Ausschnitt didaktisch. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35461",
+          "Q-MA-page139_35466"
+        ],
+        "planning_rule": "Ausdrücklich belegter FSP-Rahmen bis 100 aus35461. Alle Startzahlen, Folgenglieder, Schrittweiten, relevanten Zwischen- und Endergebnisse bleiben nichtnegative ganze Zahlen bis 100 einschließlich100. Die konstante Schrittweite ist positiv; die Richtung bleibt innerhalb einer Folge gleich. Beim Rückwärtszählen sind negative Folgenglieder ausgeschlossen. Der betrachtete Ausschnitt endet vor einem Schritt über100 oder unter0; auch gedachte Zwischenwerte werden nicht außerhalb der Grenze eingeplant. Für GS entsprechend bis1 000. Keine Maßzahlen mit Einheiten, Dezimalzahlen, wechselnden Regeln oder rekursiven Bildungsregeln in diesem Feinziel. Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt. Aufgaben, Lernhandlungen, Notationsformen und Hilfsmittel bestimmt ausschließlich die Lehrkraft. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "prerequisites": "Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt.",
+      "uncertainty": "Die mathematische Deutung des Schrittzählens als Fortsetzen einer gleichschrittigen Zahlenfolge ist eine didaktische Konkretisierung. Die FSP-Bemerkung liefert den Schritt-/Richtungsbezug; sie ist keine eigenständige Lernzielebene. Weder ein spezieller Schrittwert noch eine bestimmte Zahl von Folgengliedern ist in35466 vorgeschrieben. GS nennt anspruchsvolle Regeln, veränderte Startzahlen und Fibonacci in der Bemerkung187200; diese weiterführenden Ausschnitte sind durch routiniertes Schrittzählen nicht vollständig belegt.",
+      "remaining_scope": "187199/187200 sind für gleichschrittige Fortsetzung begrenzt geprüft. Wechselnde oder rekursive Bildungsregeln, systematisches Variieren von Startzahlen und selbstständige Regelbeschreibung auf FSP-Seite bleiben als gemeinsame Anschlussfrage zu187200 mit Bezug187199 offen. Keine ganze Nichtanschlussentscheidung. Strukturierte Aufgabenformate187201 sind der nächste getrennte Prüfpunkt; Kettenaufgaben oder Rechengitter in FSP-Bemerkungen werden nicht ohne Prüfung mit sämtlichen GS-Strukturformaten gleichgesetzt.23 bisherige Fragen bleiben erhalten; der erstmals geprüfte Rest187200 erhöht das Fragenregister auf24."
+    }
+  ],
+  "context_only": [
+    "page912_2064"
+  ],
+  "band_selection": "FSP1/2:37950/37952 unter Beherrschen37931 belegen Schrittzählen und Vorwärts-/Rückwärtszählen im Naturkontext;2er-/5er-/eventuell3er-Schritte sind Differenzierungsbeispiele. Die Zeilen haben keine eigene Obergrenze; MA-039 leitet20 didaktisch aus37739 ab. Positiver vorbereitender Anschluss, kein Ausschluss allein wegen Zahlenraum. FSP3/4:35466 unter Beherrschen35461 belegt denselben Fortsetzungsinhalt mit ausdrücklichem Zahlenrahmen100 und Alltagsbezug und wird stufenbandpassend bevorzugt. Die Folgen2/5/10 in Bemerkung35442 stehen im multiplikativen Kennen-Block35439; kein allgemeiner Beleg für wechselnde additive Regeln oder Fibonacci. Geometrische Muster37984/35535 betreffen Figuren und werden nicht wegen des Wortes Muster als arithmetische Folgen gleichgesetzt. Knobelstrategien35571/35577/35578/35580 bleiben Kandidaten für anspruchsvollere Regeln, begründen allein aber noch keinen gesicherten vollständigen Regeluntersuchungsanschluss.38991 nennt Zahlenfolgen im Berufseingangstestbereich außerhalb der beauftragten Stufenbänder und wird nicht herangezogen.",
+  "existing_cards_rechecked": [
+    "MA-016",
+    "MA-039"
+  ],
+  "existing_card_review": "MA-016 behält GS-Beherrschen aus187182 für das Zählen187185; nicht auf neues Musterziel unter2064 übertragen. FSP-Beherrschen35461/35466 und ausdrücklicher Rahmen100 bestätigt. MA-039 behält GS1/2-Kennen1857/FSP1/2-Beherrschen37931, Naturkontext und didaktischen Rahmen20 aus37739. Dort ausgewählte2er-/5er-Schritte werden nicht als neue amtliche FSP3/4-Grenze übernommen.123 Bestandskarten und436 Ebeneneinträge unverändert.",
+  "counts": {
+    "first_reviews_this_batch": 2,
+    "new_cards": 1,
+    "cards_total": 124,
+    "same_band": 95,
+    "cross_band": 29,
+    "open_questions_total": 24,
+    "new_open_questions": 1,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 298,
+    "target_anchors": 296
+  },
+  "tests": {
+    "status": "local_passed",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-26\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 124 mathematics cards, 298 source links (296 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 124 mathematics cards, 298 source links (296 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-016/MA-039/MA-124 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 437 Karten, 874 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "123 existing cards,436 existing level entries,all Deutsch files and23previous questions unchanged;one new question;root/dist byte equal.",
+    "limits": "Keine UI-Codeänderung. Gezielte FunktionsprüfungMA-016/039/124 plus Mobil-/Entwurfsregressionen; kein neuer vollständiger Funktionslauf aller124Mathematikkarten. Vollständige Ebenenprüfung437Karten/874Seiten. Liveprüfung ausstehend."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.431"
+  },
+  "continuation": {
+    "next_id": "page912_187201",
+    "next_step": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199/Übertragen2064 einzeln prüfen; FSP-Kettenaufgaben, Tabellen/Rechengitter und Knobelstrategien beider Bänder in ihrem jeweiligen Zielkontext abgrenzen. MA-130 hat187199/187200 erstmals für gleichschrittige Fortsetzung aufMA-124 begrenzt geprüft: GS Übertragen/FSP Beherrschen,1000/100 ausdrücklich. Weiterführende Regeln/Startzahlvariation zu187200 als24.Frage dokumentiert.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. App1.431: lokale Prüfungen bestanden; Veröffentlichung/Liveprüfung ausstehend. Deutsch-Abschluss DE-UZ-052 bewahren."
+  }
+}

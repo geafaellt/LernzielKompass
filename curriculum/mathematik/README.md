@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-129
+# Mathematik-Abgleich · MA-130
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertdreiundzwanzig Karten dokumentieren begrenzte Anschlüsse. Vierundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertvierundzwanzig Karten dokumentieren begrenzte Anschlüsse. Fünfundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung bei GS3 arithmetische Muster187199 mit187200/187201. [MA-129](review_batch_129.json) ergänztMA-123 für additive Umkehrkontrolle.123 Karten,23 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+Fortsetzung bei GS3 strukturierte Aufgabenformate187201. [MA-130](review_batch_130.json) ergänztMA-124 für gleichschrittige Zahlenfolgen.124 Karten,24 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1536,3 +1536,22 @@ Eine Erstprüfung187198; eine neue Karte,122 Bestandskarten und435 Ebeneneinträ
 
 
 MA-129 veröffentlicht: App1.430, Commit `efc397ede77a78f47d6334db20aa01648a18828a`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45816040398). Live-App bytegleich, SHA-256 `604af20f644a204425fb04ec1598c0da09552f194c9386ae3ffa598f50b2dfd7`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-038/120/123 und Ebenenprüfung436Karten/872Seiten lokal/live bestanden. Kein neuer vollständiger Funktionslauf aller123Mathematikkarten, keine UI-Codeänderung. Nächster Schritt: arithmetische Muster187199 mit187200/187201.123 Karten,23 offene Anschlussfragen,15 ganze Nichtanschlüsse und220 Inventurzeilen. Eine Erstprüfung187198; kein Gesamtabschluss. Deutsch-Abschluss unverändert.
+
+
+## MA-130 · App1.431 · 26.11.2026
+
+GS3 Musterziel187199 und Zahlenfolgen-Unterpunkt187200 werden erstmals für gleichschrittige Zahlenfolgen begrenzt geprüft. FSP3/4 Zählen/Abzählen35466 nennt Schrittzählen und Vorwärts-/Rückwärtszählen in seiner Bemerkung. Gemeinsamer Ausschnitt ist die Fortsetzung bei konstanter Schrittweite. GS untersucht und beschreibt die konstante additive beziehungsweise subtraktive Regel im vergleichbaren Kontext; FSP führt die bekannte Zählweise bei vorgegebener Richtung und Schrittweite sicher aus. Selbstständiges Entdecken und Begründen anspruchsvoller Regeln wird nicht als gleichwertiges FSP-Ziel behauptet.
+
+Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064, dessen Unterpunkte187199/187200 über den Seitenwechsel auf S.23/PDF33 fortgeführt werden; FSP Beherrschen aus Hauptziel35461. Beide Definitionstabellen S.V/PDF5 unterscheiden Verwenden bekannter Kenntnisse in vergleichbaren Kontexten (Übertragen) von routinemäßigem Gebrauch von Handlungs-/Verfahrensweisen (Beherrschen). Erkennen, Beschreiben, Untersuchen, Fortsetzen und Zählen sind konkrete Zielhandlungen. Die FSP-Ebene Übertragen aus der nachfolgenden Zeile35470 wird nicht auf35466 übertragen; das GS-Beherrschen187182 der BestandskarteMA-016 gilt nicht für187199/187200.
+
+GS-Zahlenraum bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Hauptziel35461.35466 steht innerhalb dieses Zahlenziels. Keine Ableitung aus übergreifenden Bandzielen und keine Übernahme der Grenze aus dem benachbarten Operationsziel35479. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Regeluntersuchungsanspruch sind nicht abgedeckt. Der kleinere FSP-Zahlenraum ist allein kein Ausschlussgrund für den belegten Fortsetzungsanschluss.
+
+Ausgewählt sind nichtnegative ganzzahlige Folgen mit fester Richtung und konstanter positiver Schrittweite. Im GS-Ausschnitt wird diese zugrunde gelegte Regelklasse im vergleichbaren Kontext untersucht; aus einem endlichen Anfang wird keine weltweit einzig mögliche Bildungsregel behauptet. Im FSP-Alltagskontext sind Richtung und Schrittweite bekannt beziehungsweise vorgegeben; deren sichere Beibehaltung ist maßgeblich. Schrittweite, Startzahl und Umfang werden von der Lehrkraft innerhalb der Grenzen festgelegt.
+
+Die mathematische Deutung des Schrittzählens als Fortsetzen einer gleichschrittigen Zahlenfolge ist eine didaktische Konkretisierung. Die FSP-Bemerkung liefert den Schritt-/Richtungsbezug; sie ist keine eigenständige Lernzielebene. Weder ein spezieller Schrittwert noch eine bestimmte Zahl von Folgengliedern ist in35466 vorgeschrieben. GS nennt anspruchsvolle Regeln, veränderte Startzahlen und Fibonacci in der Bemerkung187200; diese weiterführenden Ausschnitte sind durch routiniertes Schrittzählen nicht vollständig belegt.
+
+FSP1/2:37950/37952 unter Beherrschen37931 belegen Schrittzählen und Vorwärts-/Rückwärtszählen im Naturkontext;2er-/5er-/eventuell3er-Schritte sind Differenzierungsbeispiele. Die Zeilen haben keine eigene Obergrenze; MA-039 leitet20 didaktisch aus37739 ab. Positiver vorbereitender Anschluss, kein Ausschluss allein wegen Zahlenraum. FSP3/4:35466 unter Beherrschen35461 belegt denselben Fortsetzungsinhalt mit ausdrücklichem Zahlenrahmen100 und Alltagsbezug und wird stufenbandpassend bevorzugt. Die Folgen2/5/10 in Bemerkung35442 stehen im multiplikativen Kennen-Block35439; kein allgemeiner Beleg für wechselnde additive Regeln oder Fibonacci. Geometrische Muster37984/35535 betreffen Figuren und werden nicht wegen des Wortes Muster als arithmetische Folgen gleichgesetzt. Knobelstrategien35571/35577/35578/35580 bleiben Kandidaten für anspruchsvollere Regeln, begründen allein aber noch keinen gesicherten vollständigen Regeluntersuchungsanschluss.38991 nennt Zahlenfolgen im Berufseingangstestbereich außerhalb der beauftragten Stufenbänder und wird nicht herangezogen.
+
+187199/187200 sind für gleichschrittige Fortsetzung begrenzt geprüft. Wechselnde oder rekursive Bildungsregeln, systematisches Variieren von Startzahlen und selbstständige Regelbeschreibung auf FSP-Seite bleiben als gemeinsame Anschlussfrage zu187200 mit Bezug187199 offen. Keine ganze Nichtanschlussentscheidung. Strukturierte Aufgabenformate187201 sind der nächste getrennte Prüfpunkt; Kettenaufgaben oder Rechengitter in FSP-Bemerkungen werden nicht ohne Prüfung mit sämtlichen GS-Strukturformaten gleichgesetzt.23 bisherige Fragen bleiben erhalten; der erstmals geprüfte Rest187200 erhöht das Fragenregister auf24.
+
+Zwei Erstprüfungen187199/187200; eine neue Karte,123 Bestandskarten und436 Ebeneneinträge erhalten. Aufgaben, Lernhandlungen und Hilfsmittel nicht ergänzt. Sechs Datenprüfungen, gezielte KartenprüfungMA-016/039/124 und Ebenenprüfung437Karten/874Seiten lokal bestanden; Veröffentlichung/Liveprüfung ausstehend.
