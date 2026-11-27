@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-141",
+  "last_batch": "MA-142",
   "complete": false,
   "counts": {
     "cards": 130,
@@ -3836,7 +3836,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: gekoppelte unbekannte Übergangsgrößen/Zwischenwerte, danach Regel-/Startwertabhängigkeiten prüfen. MA-141 ergänzt bestehendeMA-122 für die vorgegebene lokale Plus-/Minuswahl im bekannten Sachzusammenhang; GS Übertragen/FSP Einblick gewinnen,GS1000 ausdrücklich/FSP100 didaktisch aus35415. Positive Operanden nur als didaktische Bedingung eindeutiger rechnerischer Wahl; null bleibt mehrdeutig und begründet keinen Zwang zur Zeichenwahl. Allgemeine selbstständige Zeichenrekonstruktion ohne Varianten/Sachbezug ist nicht als direkter Anschluss bestätigt.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201; Deutsch-Abschluss DE-UZ-052 bewahren. App1.443: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, sechs Datenprüfungen und gezielte Karten-/Ebenenprüfung443/886 lokal/live bestanden. GS-HTML-Zeitlimitfehler durch gespeicherte amtliche PDF abgefangen und dokumentiert. Kein neuer vollständiger Mathematik-Funktionslauf.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4157,7 +4157,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_141.json",
+  "last_review_file": "review_batch_142.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -4747,6 +4747,30 @@
       ],
       "follow_up": "Regel, vorgegebene und unbekannte Werte sowie notwendige Zwischenwerte einzeln abgrenzen; gekoppelte Rekonstruktion nicht mit einem einzelnen fehlenden Summanden gleichsetzen. Konkrete Umkehr-/Strategiebelege und tatsächliche Lernzielebenen beider Bänder prüfen.",
       "recorded_by": "MA-133"
+    },
+    {
+      "gs_id": "page912_187201",
+      "scope": "Zahlenketten mit zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert: passende Belegung, vollständige Lösungsmenge und Eindeutigkeit getrennt prüfen.",
+      "status": "offen",
+      "reason": "MA-142 klärt mathematische Voraussetzungen; lokale Umkehrbelege setzen bekannte Nachbarwerte voraus. Knobelstrategien bleiben positive Kandidaten. Mehrdeutigkeit und kleinerer Zahlenraum allein begründen keinen Nichtanschluss.",
+      "candidate_ids": [
+        "page139_37866",
+        "page139_37885",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_38037",
+        "page139_35479",
+        "page139_35485",
+        "page139_35504",
+        "page139_35509",
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "follow_up": "Zunächst begrenzten Anschluss für eine zulässige Belegung im gelernten bzw.vergleichbaren Kontext prüfen. Keine Pflicht zur vollständigen Aufzählung oder Eindeutigkeitsbegründung erfinden.",
+      "recorded_by": "MA-142"
     }
   ],
   "remaining_scopes": [
@@ -5676,9 +5700,9 @@
     },
     {
       "gs_id": "page912_187201",
-      "scope": "187201 ist für die vorgegebene lokale Plus-/Minuswahl in einem bekannten Sachzusammenhang begrenzt ergänzt. Allgemeine selbstständige Zeichenrekonstruktion ohne vorgegebene Varianten/Sachbezug erhält aus den geprüften Zeilen keinen hinreichenden direkten Beleg; keine ganze Nichtanschlusszeile. Nullmehrdeutigkeit ist als Planungsgrenze entschieden, nicht als Fehler des Kindes. Als nächstes gekoppelte unbekannte Übergangsgrößen/Zwischenwerte, danach Regel-/Startwertabhängigkeiten prüfen. Die26 vorhandenen Anschlussfragen einschließlich Notationsvergleich187197 bleiben unverändert.",
+      "scope": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren.",
       "status": "offen",
-      "review": "MA-141"
+      "review": "MA-142"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -6902,10 +6926,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-141",
-    "status": "recorded_in_this_commit",
-    "app_commit": "dd0342bf07fac60b9b3ead6adc92223f048b8b85",
-    "note": "Dieser Nachweiscommit ergänzt nur Prüf- und Veröffentlichungsdokumentation; HTML und fachliche Daten unverändert."
+    "batch": "MA-142",
+    "status": "pending",
+    "app_version": "1.443",
+    "note": "Reine Auditänderung; neu abgegrenzte Anschlussfrage, keine neue Karte oder Erstprüfung. latest_publication bleibt tatsächlicher App-Nachweis MA-141."
   },
   "continuation_correction": {
     "batch": "MA-067",

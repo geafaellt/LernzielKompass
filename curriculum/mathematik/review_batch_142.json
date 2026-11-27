@@ -1,0 +1,256 @@
+{
+  "id": "MA-142",
+  "date": "2026-11-27",
+  "base_commit": "ee794708457266d3e6bb4258954804bc5d723c28",
+  "scope": "Audit der Voraussetzungen gekoppelter unbekannter Operanden/Zwischenwerte in GS3-Zahlenketten187201; keine App-Änderung.",
+  "source_verification": {
+    "html": "FSP139 online erneut erreichbar. GS912 erneuter Zeitlimitfehler; kein neuer erfolgreicher GS-HTML-Abruf. FSP-Anker zusätzlich anhand der gespeicherten amtlichen HTML-Datei ausMA-139 zugeordnet.",
+    "pdf": "Gespeicherte amtliche PDFs textuell gelesen: beide S.V/PDF5; GS S.22–23/PDF32–33; FSP S.11–12/PDF23–24,S.16–17/PDF28–29,S.19–21/PDF31–33,S.23/PDF35. Prüfsummen erneut bestätigt. Kein neuer PDF-Download oder Rendernachweis.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201",
+      "pages": "S.22–23/PDF32–33",
+      "classification": "Übertragen-Hauptziel2064; Muster-Unterziel187199; strukturierte Formate187201; Zahlenketten nur Bemerkung."
+    },
+    {
+      "ids": [
+        "page139_37851",
+        "page139_37866",
+        "page139_37885"
+      ],
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "pages": "S.11–12/PDF23–24",
+      "classification": "Einblick gewinnen; Zeichen/Platzhalter und Probieren/Umkehrbezug;20 nur ausdrücklich in37885."
+    },
+    {
+      "ids": [
+        "page139_38017",
+        "page139_38019",
+        "page139_38021",
+        "page139_38022",
+        "page139_38035",
+        "page139_38037"
+      ],
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "pages": "S.16/PDF28",
+      "classification": "Zwei getrennte Hauptziele: grafische Formate unterAnwenden; Knobelstrategien unterEinblick gewinnen. Ketten in Bemerkungen."
+    },
+    {
+      "ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "pages": "S.19–20/PDF31–32",
+      "classification": "Übertragen;100 ausdrücklich; Umkehrbeziehung inBemerkung35485."
+    },
+    {
+      "ids": [
+        "page139_35504",
+        "page139_35509"
+      ],
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "pages": "S.21/PDF33",
+      "classification": "Einblick gewinnen; Variantenabwägung undDarstellung; biszweiSachrechenschritte alsBemerkung."
+    },
+    {
+      "ids": [
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "pages": "S.23/PDF35",
+      "classification": "Kennen; untergeordnete Zielhandlungen Probieren,Zurückführen,Beschreiben; keine eigeneZahlenobergrenze."
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187201",
+      "first_review": false,
+      "status": "prerequisites_reviewed_connection_open",
+      "card": null,
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "MA-142: Folgeprüfung ohne neue Erstzählung. Bei bekannter Startzahl a, Endzahl b und zwei bekannten Plus-/Minuszeichen werden die beiden unbekannten Operanden x,y und der unbekannte Zwischenwert z gemeinsam betrachtet. Alle Werte sind nichtnegative ganze Zahlen innerhalb eines explizit ausgewählten Rahmens M. Die Auswahl von zwei Übergängen und dieser Variablenbelegung ist eine didaktische Prüfkonkretisierung, keine amtlich vorgeschriebene Kettenregel. Start/Ende bestimmen die Belegung im Allgemeinen nicht eindeutig. Ein fehlender lokaler Summand aufMA-126 oder fehlender Minuend aufMA-127 setzt dagegen die jeweils benachbarten Werte voraus. Bekannte KettenMA-129/130 setzen alle Operanden voraus; ihre Deckung wird nicht stillschweigend ausgeweitet. Die Anforderung, eine passende Belegung zu finden, bleibt als positiver Knobel-/Umkehrkandidat offen. Vollständiges Aufzählen und Begründen der Eindeutigkeit sind gesonderte Anforderungen, die dem GS-Bemerkungsbeispiel nicht hinzuerfunden werden. Mehrdeutigkeit begründet keinen pauschalen Nichtanschluss.",
+      "learning_levels": "GS-Lernzielebene Übertragen aus2064;187199 und187201 sind Unterziele, Zahlenketten ein Bemerkungsbeispiel. FSP3/4: Übertragen aus35470 für35479/35485, Kennen aus35571 für35577/35578/35580, Einblick gewinnen aus35504 für35509. FSP1/2: Einblick gewinnen aus37851 für37866/37885 sowie eigenes Einblick gewinnen38021 für38022/38035/38037; Anwenden38017 gilt nur für seinen Grafikblock38019. Probieren, Zurückführen, Beschreiben, Vergleichen, Unterscheiden und Prüfen sind Zielhandlungen, keine Lernzielebenen. Kennen im gelernten Kontext wird nicht mit Übertragen im vergleichbaren Kontext oder Anwenden im unbekannten Kontext gleichgesetzt.",
+      "number_scope": "GS1000 aus2064 ausdrücklich. FSP3/4-35479/35485:100 ausdrücklich im zugehörigen Rechenunterziel. FSP3/4-Knobelziel35571 undSachziel35504 nennen keine eigene Obergrenze;100 wäre für einen arithmetischen Teilanschluss didaktisch aus dem übergreifenden Ziel35415 abzuleiten, keine direkte Zeilengrenze. FSP1/2-37885 nennt20 ausdrücklich;37866 nennt keine eigene Obergrenze. Für38021/38022/38035/38037 oder38017/38019 wäre20 didaktisch ausBandziel37739 abzuleiten. Kleinerer Zahlenraum allein ist kein Ausschlussgrund. Für die vorliegende mathematische Prüfung gilt jeder gewählte Rahmen für Start,Ende,beide Operanden,Zwischenwert und relevante Kontrollwerte; keine zwischenzeitliche Überschreitung. Ganze Anzahlen ohne Einheiten/Dezimalbrüche sind eine didaktische Einschränkung. M ist eine Prüfvariable, keine neu erfundene Lehrplangrenze. Keine vollständige GS-Zieldeckung.",
+      "prerequisites": "Start/Ende und beide Zeichen bekannt, zwei nichtnegative ganzzahlige Operanden und Zwischenwert unbekannt; zulässige Werte und weitere Sachbedingungen vorab explizit festlegen. Positivität oder zusätzliche Anker nicht stillschweigend erzwingen.",
+      "uncertainty": "Die amtliche Bemerkung schreibt weder diese Unbekanntenverteilung noch Eindeutigkeit oder vollständige Lösungsmengen vor. Ein neuer Strategieteilanschluss ist erst nach eigener inhaltlicher Konkretisierung zu integrieren.",
+      "no_connection_boundary": "Kein hinreichender direkter Beleg für pauschale eindeutige Rekonstruktion beliebiger gekoppelter Unbekannter oder vollständige Aufzählung aus den geprüften lokalen Rechenbelegen. Keine ganze Zeilen-Nichtanschlussentscheidung.",
+      "remaining": "Finden einer passenden Belegung gesondert prüfen; anschließend Regel-/Startwertabhängigkeiten. Andere Formatfragen bleiben offen."
+    }
+  ],
+  "mathematical_audit": {
+    "kind": "Interne mathematische Voraussetzungsklärung; keine Unterrichtsaufgabe und kein Lehrplanwortlaut.",
+    "model": "a,b,x,y,z ganzzahlig in[0,M]; z=a s1 x; b=z s2 y; a,b,s1,s2 bekannt; x,y,z unbekannt.",
+    "cases": [
+      {
+        "signs": "++",
+        "z_interval": "a <= z <= b",
+        "count": "max(0,b-a+1)",
+        "unique": "genau dann a=b; dann x=y=0",
+        "none": "b<a"
+      },
+      {
+        "signs": "--",
+        "z_interval": "b <= z <= a",
+        "count": "max(0,a-b+1)",
+        "unique": "genau dann a=b; dann x=y=0",
+        "none": "a<b"
+      },
+      {
+        "signs": "+-",
+        "z_interval": "max(a,b) <= z <= M",
+        "count": "M-max(a,b)+1",
+        "unique": "genau dann max(a,b)=M; von gewähltem Rahmen abhängig",
+        "none": "keine bei zulässigem a,b"
+      },
+      {
+        "signs": "-+",
+        "z_interval": "0 <= z <= min(a,b)",
+        "count": "min(a,b)+1",
+        "unique": "genau dann min(a,b)=0",
+        "none": "keine bei zulässigem a,b"
+      }
+    ],
+    "derivation": "Für jede zulässige Zwischenzahl z folgen x und y eindeutig durch die bekannte lokale Addition/Subtraktion. Die angegebenen Intervalle sind genau die Schnittmenge der Nichtnegativitäts- und Obergrenzenbedingungen für a,b,x,y,z. Zählen der ganzzahligen Zwischenzahlen ergibt die Anzahl der Belegungen.",
+    "limits": "Zusätzliche Sachbedingungen, nur positive Operanden oder feste Teilwerte verändern die Lösungsmenge. Keine Behauptung, die GS müsse alle Lösungen bestimmen oder die Formeln kennen. M1000 ist algebraisch erfasst, aber nicht erschöpfend programmiert geprüft.",
+    "verification": {
+      "method": "Unabhängige vollständige Aufzählung aller a,x,y für M20 undM100; z undb vorwärts berechnet, nur innerhalb0..M gezählt; Anzahlen für jede Start-/Endwertkombination mit Formeln verglichen.",
+      "results": [
+        {
+          "M": 20,
+          "signs": "++",
+          "endpoint_pairs": 441,
+          "result": "PASS"
+        },
+        {
+          "M": 20,
+          "signs": "--",
+          "endpoint_pairs": 441,
+          "result": "PASS"
+        },
+        {
+          "M": 20,
+          "signs": "+-",
+          "endpoint_pairs": 441,
+          "result": "PASS"
+        },
+        {
+          "M": 20,
+          "signs": "-+",
+          "endpoint_pairs": 441,
+          "result": "PASS"
+        },
+        {
+          "M": 100,
+          "signs": "++",
+          "endpoint_pairs": 10201,
+          "result": "PASS"
+        },
+        {
+          "M": 100,
+          "signs": "--",
+          "endpoint_pairs": 10201,
+          "result": "PASS"
+        },
+        {
+          "M": 100,
+          "signs": "+-",
+          "endpoint_pairs": 10201,
+          "result": "PASS"
+        },
+        {
+          "M": 100,
+          "signs": "-+",
+          "endpoint_pairs": 10201,
+          "result": "PASS"
+        }
+      ],
+      "endpoint_comparisons": 42568
+    }
+  },
+  "context_only": [
+    "page912_2064",
+    "page912_187199",
+    "page139_35415",
+    "page139_37739"
+  ],
+  "band_selection": {
+    "1/2": "Positive vorbereitende Kandidaten:37866 Platzhalter und37885 Umkehrbezug bis20 unterEinblick gewinnen37851;38021/38022/38035/38037 im Wahlbereich4 untereigenemEinblick gewinnen mitKettenbeispiel undProbieren/Lösbarkeit.38019 unterAnwenden38017 betrifft grafische Formate. Diese Belege tragen nicht allein die allgemeine vollständige Aufzählung oder Eindeutigkeitsbegründung gekoppelter Belegungen; sie bleiben für das Finden einer passenden Belegung offen.20 ist kein Ausschlussgrund; ein späterer Anschluss GS3→FSP1/2 wäre stufenübergreifend.",
+    "3/4": "Stufenbandpassend vorrangig weiterzuprüfen:35577/35578/35580 unterKennen35571 belegen ausgewählte Knobelstrategien im gelernten Kontext; dafür ist ein arithmetischer Rahmen100 ausdrücklich didaktisch aus35415 zu begründen.35479/35485 unterÜbertragen35470 belegen arithmetische/Umkehrbeziehungen bis100 im vergleichbaren lebensweltlichen Kontext, jedoch keine automatische vollständige Rekonstruktion mehrerer unbekannter Operanden.35509 unterEinblick gewinnen35504 trägt Darstellung/Variantenabwägung im Sachkontext mit bis zu zwei Rechenschritten; diese Bemerkungsgrenze ist keine allgemeine Kettenlängengrenze. Keine pauschale Ablehnung mangels Formatname.",
+    "selection": "Noch kein neuer Kartenanschluss. Für Fortsetzung zuerst stufenbandpassende Strategien prüfen; beide Bänder als positive Kandidaten bewahren."
+  },
+  "existing_cards_rechecked": [
+    "MA-122",
+    "MA-126",
+    "MA-127",
+    "MA-129",
+    "MA-130"
+  ],
+  "existing_card_review": "Nur fachliche Abgrenzung des bereits dokumentierten Geltungsbereichs: MA122 vorgegebene Varianten, MA126/127 eine lokale Unbekannte bei bekannten Nachbarwerten, MA129/130 bekannte Operanden. Keine Änderungen und keine neue vollständige Bestandsprüfung.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 0,
+    "updated_cards": 0,
+    "cards_total": 130,
+    "same_band": 101,
+    "cross_band": 29,
+    "open_questions_total": 27,
+    "new_open_questions": 1,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 300,
+    "target_anchors": 298
+  },
+  "tests": {
+    "status": "passed_audit_only",
+    "scripts": [
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 130 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 130 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "mathematical_formula_check": "PASS: 42.568 Start-/Endwertfälle für vier Vorzeichenkombinationen in M20/M100 vollständig gegen unabhängige Vorwärtsaufzählung geprüft.",
+    "integrity": "PASS: Genau sechs Audit-/Dokumentationsdateien geändert. Alle App-Dateien,130 Mathematikkarten,300 Quellen,443 Ebeneneinträge und sämtliche Deutschdateien bytegleich zum Basisstand. NurAuditzeile187201 ergänzt;220 Zeilen unverändert,keine Erstzählung.26 vorhandene Fragen unverändert,eine neue eigenständige Kettenfrage.",
+    "limits": "Reines Audit, keine App-/UI-Änderung. update-mathematik.py und prepare-pages.py nicht erneut ausgeführt; HTML unverändert und root/dist bytegleich. Keine neue Browserprüfung; die lokalen/live Prüfungen vonMA-141 werden nicht als neue Prüfungen ausgegeben. Kein neuer PDF-Download/Rendernachweis; GS-HTML weiterhin Zeitlimitfehler. Mathematik insgesamt nicht abgeschlossen."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.443",
+    "app_unchanged": true
+  },
+  "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren."
+}

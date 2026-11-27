@@ -40,3 +40,10 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Operationszeichen
 ## Fortsetzung MA-141
 
 GS3 strukturierte Aufgabenformate187201 fortsetzen: gekoppelte unbekannte Übergangsgrößen/Zwischenwerte, danach Regel-/Startwertabhängigkeiten prüfen. MA-141 ergänzt bestehendeMA-122 für die vorgegebene lokale Plus-/Minuswahl im bekannten Sachzusammenhang; GS Übertragen/FSP Einblick gewinnen,GS1000 ausdrücklich/FSP100 didaktisch aus35415. Positive Operanden nur als didaktische Bedingung eindeutiger rechnerischer Wahl; null bleibt mehrdeutig und begründet keinen Zwang zur Zeichenwahl. Allgemeine selbstständige Zeichenrekonstruktion ohne Varianten/Sachbezug ist nicht als direkter Anschluss bestätigt.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201; Deutsch-Abschluss DE-UZ-052 bewahren. App1.443; maßgeblicher Veröffentlichungsnachweis in review_progress.json.
+
+
+## Fortsetzung MA-142 · Audit
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren.
+
+Gegenprüfung der vier Vorzeichenfälle für M20/M100 bestanden. Keine Änderungen an App, Karten oder Deutsch. Prüf- und Veröffentlichungsstatus siehe curriculum/mathematik/review_batch_142.json.
