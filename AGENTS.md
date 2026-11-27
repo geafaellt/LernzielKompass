@@ -30,3 +30,8 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: mehr als zwei bekannte gemis
 ## Fortsetzung MA-139
 
 GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten fachlich prüfen. Bekannte endliche lineare Vorwärtsketten sind aufMA-130, Rückwärtsketten aufMA-129 als didaktische Teilanschlüsse eingeordnet; keine weitere Karte nur für eine andere Länge. MA-139 ergänztMA-130: beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischenwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.441; maßgeblicher Veröffentlichungsnachweis in review_progress.json.
+
+
+## Fortsetzung MA-140
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Operationszeichen prüfen, einschließlich möglicher Mehrdeutigkeit bei null; danach gekoppelte unbekannte Übergangsgrößen/Zwischenwerte und Regel-/Startwertabhängigkeiten. Lokale unbekannte Zu- und Abzüge bei zwei bekannten benachbarten Werten und bekanntem Zeichen sind als didaktischer fehlende-Summanden-Bezug aufMA-126 eingeordnet. MA-140 präzisiert diese Bestandskarte; beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischen- und Kontrollwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.442; maßgeblicher Veröffentlichungsnachweis in review_progress.json.
