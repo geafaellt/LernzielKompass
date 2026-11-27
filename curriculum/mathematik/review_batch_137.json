@@ -274,7 +274,7 @@
     ]
   },
   "tests": {
-    "status": "local_targeted_and_levels_passed",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -310,14 +310,29 @@
     "local_browser": "PASS: targeted MA-123/MA-126/MA-127/MA-128/MA-129 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 442 Karten, 884 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "128 Bestandskarten,441 Ebeneneinträge,alle Deutschdateien,300 Quellen und26 Fragen unverändert;220 Inventurzeilen;keine neue Erstprüfung187201;UI-Logik bis auf PDF-Fußzeilenversion unverändert;root/dist bytegleich.",
-    "limits": "Keine UI-Funktionsänderung. Kein neuer vollständiger Funktionslauf aller129 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal bestanden; Veröffentlichung und Live-Nachweise noch ausstehend."
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller129 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Gesamtabgleich unvollständig. GS-HTML aktuell zweimal Zeitüberschreitung; fachliche GS-Prüfung anhand des gespeicherten amtlichen PDFs, ohne neuen Download oder Rendernachweis.",
+    "live_browser": "PASS: targeted MA-123/MA-126/MA-127/MA-128/MA-129 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 442 Karten, 884 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "local_verified_pending_publication",
-    "app_version": "1.439"
+    "batch": "MA-137",
+    "status": "published_verified",
+    "app_version": "1.439",
+    "commit": "f0be1fbfba33a0536fd01f212eb4b85deaf2567c",
+    "tree": "a8343bdfcc5680ddd819c9d2a550ac1edfb4ae84",
+    "pages_run_id": 45945765909,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45945765909",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "bytes": 5758856,
+    "sha256": "512416c09791c058a6784a54be34cdb529d3a3ac9defe01236ac59d504529cdd",
+    "live_browser": "PASS: targeted MA-123/MA-126/MA-127/MA-128/MA-129 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390. PASS: 442 Karten, 884 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "verified_on": "2026-11-27",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller129 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Gesamtabgleich unvollständig. GS-HTML aktuell zweimal Zeitüberschreitung; fachliche GS-Prüfung anhand des gespeicherten amtlichen PDFs, ohne neuen Download oder Rendernachweis."
   },
   "continuation": {
     "next_id": "page912_187201",
-    "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktive Ketten vorwärts/rückwärts fachlich prüfen und vom bekannten Zweischrittbezug abgrenzen; danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35485,35504/35509 und beide Knobel-Wahlbereiche in ihren eigenen Hierarchien prüfen. MA-137 ergänztMA-129 für zwei bekannte gemischte Rückwärtsschritte; beide Übertragen,GS1000/FSP100 ausdrücklich, Zweischrittverknüpfung didaktisch.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.439: sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenprüfung442/884 lokal bestanden; Veröffentlichung und Live-Prüfung noch ausstehend."
+    "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktive Ketten vorwärts/rückwärts fachlich prüfen und vom bekannten Zweischrittbezug abgrenzen; danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35485,35504/35509 und beide Knobel-Wahlbereiche in ihren eigenen Hierarchien prüfen. MA-137 ergänztMA-129 für zwei bekannte gemischte Rückwärtsschritte; beide Übertragen,GS1000/FSP100 ausdrücklich, Zweischrittverknüpfung didaktisch.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.439: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, sechs Datenprüfungen und gezielte Karten-/Ebenenprüfung442/884 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf; GS-HTML nicht erreichbar, amtliches gespeichertes PDF geprüft."
   }
 }
