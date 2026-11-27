@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.444: sechs Datenprüfungen,gezielteKartenprüfungundEbenenanzeige444/888lokalbestanden;VeröffentlichungundLiveprüfungausstehend.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.444 auf main veröffentlicht; Pages46007672088 erfolgreich,Live-Appbytegleich,sechsDatenprüfungenundgezielteKarten-/Ebenenprüfung444/888lokal/livebestanden. BeideamtlichenHTML-Quellenerreichbar;gespeichertePDFstextuellgeprüft,keinneuerDownload/Rendernachweis.KeinneuervollständigerMathematik-Funktionslauf.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6353,8 +6353,19 @@
   },
   "latest_publication": {
     "batch": "MA-143",
-    "status": "pending",
+    "status": "published_verified",
+    "commit": "78dd83617571e31c3ddb75facab81844ff7325a6",
+    "tree": "81c2db89e1942abc7037a55a8d74ff00615b2c5b",
+    "html_blob": "7caef0dc5b5b1b10a529022610a3e58634245c92",
     "app_version": "1.444",
+    "pages_run": 46007672088,
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/?v=1.444-ma143",
+    "live_byte_equal": true,
+    "bytes": 5793813,
+    "sha256": "4d2cabc0cf6829c8cc7ac6748ab1bd7c5efe95a208474083f0f884eea01f9e37",
+    "checked_at": "2026-11-27T13:32:21.933549+00:00",
+    "local_and_live_browser": "GezielteMA131undNachbarkartenprüfungsowieEbenenprüfung444Karten/888Seitenbestanden;keinneuervollständigerFunktionslaufaller131Mathematikkarten.",
     "previous_publication": {
       "batch": "MA-141",
       "status": "published_verified",
@@ -7000,7 +7011,9 @@
   },
   "latest_audit_publication": {
     "batch": "MA-143",
-    "status": "pending"
+    "status": "recorded_in_this_commit",
+    "app_commit": "78dd83617571e31c3ddb75facab81844ff7325a6",
+    "note": "Dieser Nachweiscommit ergänzt ausschließlich Prüf- und Veröffentlichungsdokumentation; HTML und fachliche Daten unverändert."
   },
   "continuation_correction": {
     "batch": "MA-067",
