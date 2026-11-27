@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.442** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.443** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -359,3 +359,10 @@ App1.441 auf main veröffentlicht: ff310225ee3f4e7d2468b22371558e74c94d7e70. Git
 GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Operationszeichen prüfen, einschließlich möglicher Mehrdeutigkeit bei null; danach gekoppelte unbekannte Übergangsgrößen/Zwischenwerte und Regel-/Startwertabhängigkeiten. Lokale unbekannte Zu- und Abzüge bei zwei bekannten benachbarten Werten und bekanntem Zeichen sind als didaktischer fehlende-Summanden-Bezug aufMA-126 eingeordnet. MA-140 präzisiert diese Bestandskarte; beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischen- und Kontrollwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [Prüfpaket](curriculum/mathematik/review_batch_140.json).
 
 App1.442 auf main veröffentlicht: bfc104371fb81596abb4902000747d66f9470fa5. GitHub Pages [Lauf 45971293408](https://github.com/geafaellt/LernzielKompass/actions/runs/45971293408) erfolgreich. Live-App bytegleich mit root/dist (5775156 Bytes; SHA256 7899c2adb3a208ce70e7bcd97a5e1e6c823a3f3eabbc6a746f7f5f74acf8deae). Sechs Datenprüfungen bestanden; MA-123/125/126/127/128/129/130 und zusätzliche Bestandsfälle007/018/084 sowie alle443 Karten/886 Ebenenseiten lokal und öffentlich geprüft. Aufgaben-/Hilfsmittelfelder bleiben leer, Lehrkraftentwürfe erhalten. Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft; kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig.
+
+
+## Mathematik MA-141 · App 1.443
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: gekoppelte unbekannte Übergangsgrößen/Zwischenwerte, danach Regel-/Startwertabhängigkeiten prüfen. MA-141 ergänzt bestehendeMA-122 für die vorgegebene lokale Plus-/Minuswahl im bekannten Sachzusammenhang; GS Übertragen/FSP Einblick gewinnen,GS1000 ausdrücklich/FSP100 didaktisch aus35415. Positive Operanden nur als didaktische Bedingung eindeutiger rechnerischer Wahl; null bleibt mehrdeutig und begründet keinen Zwang zur Zeichenwahl. Allgemeine selbstständige Zeichenrekonstruktion ohne Varianten/Sachbezug ist nicht als direkter Anschluss bestätigt.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201; Deutsch-Abschluss DE-UZ-052 bewahren. [Prüfpaket](curriculum/mathematik/review_batch_141.json).
+
+Veröffentlichung und Prüfnachweise noch ausstehend.
