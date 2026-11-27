@@ -1,0 +1,316 @@
+{
+  "id": "MA-150",
+  "date": "2026-11-27",
+  "base_commit": "f0127a5926af338b80ba4d9bd3753cd7639b7829",
+  "scope": "GS3-187200: bekannte additive Bildung aus zwei vorherigen Gliedern in einem festgelegten endlichen Ausschnitt; beide FSP-Bänder.",
+  "source_verification": {
+    "html": "Beide amtlichen HTML-Quellen erreichbar; FSP35479/35485 zusätzlich im Online-Text gelesen.",
+    "pdf": "Gespeicherte amtliche PDFs textuell geprüft: beideS.V/PDF5;GS S.22–23/PDF32–33;FSP S.11–12/PDF23–24,S.16–17/PDF28–29,S.19–20/PDF31–32,S.23/PDF35. Prüfsummen bestätigt. Kein neuer PDF-Download oder Rendernachweis.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2064",
+      "level": 1,
+      "parent_target_id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "Übertragen",
+      "version": "2026"
+    },
+    {
+      "id": "page912_187199",
+      "level": 2,
+      "parent_target_id": "page912_2064",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "",
+      "version": "2026"
+    },
+    {
+      "id": "page912_187200",
+      "level": 3,
+      "parent_target_id": "page912_2064",
+      "target": "Untersuchen von Zahlenfolgen",
+      "remarks": "anspruchsvolle Bildungsregeln Startzahlen nach Regeln verändern Fibonacci-Folge",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187200",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "",
+      "version": "2026"
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "Kennen",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_37851",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_37851",
+      "operator": "Einblick gewinnen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37851",
+      "version": "2019"
+    },
+    {
+      "id": "page139_37885",
+      "grade": "1/2",
+      "area_id": "MA-page139_37744",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 3,
+      "parent_target_id": "page139_37851",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "version": "2019"
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "Einblick gewinnen",
+      "version": "2019"
+    },
+    {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35470",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 1,
+      "parent_target_id": "page139_35470",
+      "operator": "Übertragen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "version": "2019",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung"
+    },
+    {
+      "id": "page139_35479",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "level": 2,
+      "parent_target_id": "page139_35470",
+      "operator": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "version": "2019",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben"
+    },
+    {
+      "id": "page139_35485",
+      "level": 3,
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "grade": "3/4",
+      "area_id": "MA-page139_35417",
+      "area": "Lernbereich 2: Die Welt um mich herum",
+      "operator": "",
+      "version": "2019"
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187200",
+      "first_review": false,
+      "status": "limited_connection_added",
+      "card": "MA-134",
+      "finding": "GS3-187200 Untersuchen von Zahlenfolgen unter187199/Übertragen2064 wird für die bekannte additive Fortsetzung aus den beiden unmittelbar vorherigen Gliedern begrenzt zugeordnet. Die GS-Bemerkung nennt Fibonacci; sie ist ein Beispiel und kein eigenes Hauptziel. FSP3/4-35578/35580 unterKennen35571 belegt das Zurückführen auf bekannte Aufgaben und die Beschreibung des eigenen Lösungswegs. Die gelernte additive Folgenstruktur wird auf bekannte Additionsbeziehungen zurückgeführt; die Auswahl dieser rekursiven Struktur und eines konkreten endlichen Ausschnitts ist didaktische Konkretisierung des Strategiebezugs. Der FSP-Lehrplan schreibt weder Fibonacci noch eine allgemeine Rekursionskompetenz ausdrücklich vor.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus2064, bekannte Kenntnisse in vergleichbaren Kontexten verwenden; FSP Kennen aus35571, über Kenntnisse und Erfahrungen im gelernten Kontext verfügen. Definitionen beider Pläne S.V/PDF5. Fortsetzen, Addieren, Zurückführen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 und Einblick gewinnen38021 werden nicht auf den Knobelblock35571 übertragen.",
+      "number_scope": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet.35571/35578/35580 nennen keine eigene Zahlenraumobergrenze. Die100 aus35479 wird nicht als Grenze des Knobel-Wahlbereichs ausgegeben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, freie Regelentdeckung, allgemeine Regeluntersuchung und systematische Startzahlvariation sind nicht abgedeckt.",
+      "prerequisites": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Zwei geordnete Startglieder und die bereits bekannte Regel sind vorgegeben: Jedes weitere Glied ist die Summe der beiden unmittelbar vorherigen Glieder. Regel, Addition und das Weiterrücken des Bezugspaars sind im FSP gelernten Kontext verfügbar; GS verwendet die Kenntnisse im vergleichbaren Kontext. Die Lehrkraft legt vorab einen konkreten endlichen Ausschnitt mit mindestens zwei neu zu bestimmenden Gliedern fest, damit auch ein neu entstandenes Glied erneut eingeht. Diese Mindestzahl ist eine didaktische Prüfkonkretisierung, keine Lehrplanvorgabe; eine allgemeine maximale Folgenlänge ist nicht belegt. Die gesamte gewählte Fortsetzung muss innerhalb des Zahlenrahmens möglich sein.",
+      "uncertainty_and_limits": "Keine freie Rekonstruktion oder Wahl der Regel, kein allgemeiner Eindeutigkeitsbeweis, kein selbstständiges Entdecken der Fibonacci-Regel, keine systematische Änderung der Startglieder oder Begründung ihrer Wirkungen. Die Startwerte müssen nicht1 und1 sein; auch null ist zulässig. Nur die Summenbildung aus den zwei unmittelbar vorherigen Gliedern ist ausgewählt, keine beliebige Rekursion. Eine Folge korrekter isolierter Summen ohne richtige Zuordnung des jeweils aktuellen Vorgängerpaars belegt den Strukturbezug nicht. Es wird kein unveränderter zweiter Operand wie inMA130/MA132 vorausgesetzt.",
+      "remaining_scope": "MA134 bestätigt die bekannte additive Fortsetzung aus zwei Vorgängern als begrenzte didaktische Konkretisierung. MA124 bleibt gleichschrittige Fortsetzung;MA133 die vorgegebene Auswahl fester Plus-/Minusregeln;MA130/MA132 bekannte Ketten mit festen zweiten Operanden. Anspruchsvollere oder wechselnde Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung über den bekannten ausgewählten Zusammenhang hinaus bleiben gesondert zu entscheiden. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig."
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199"
+  ],
+  "band_selection": {
+    "1/2": "37885 unterEinblick gewinnen37851 trägt Rechenwege bis20 ausdrücklich,38021/38022 imWahlbereich4 allgemeine einführende Knobelstrategien mitKettenbeispiel.20 wäre für denKnobelblock didaktisch aus37739 abzuleiten,kein Ausschluss wegen20. Weder der Nachbarfall noch das WortKettenaufgaben belegt für sich eine allgemeine rekursive Folgenkompetenz. Positive vorbereitende arithmetische/Strategiebezüge; für gelernte Strategie und Wegbeschreibung wird3/4 bevorzugt. Anwenden38017 gehört zum getrennten Grafikblock.",
+    "3/4": "35479/35485 unterÜbertragen35470 trägt Addition bis100 und Lösungswege imLebensweltbezug. Nacheinanderausführen vonTeilschritten steht als Bemerkung zum Rechnen und beweist keine eigenständige allgemeine Rekursionsanforderung. Für den gelernten Knobelzusammenhang werden35578/35580 unterKennen35571 imWahlbereich2 ausgewählt; bekannte additive Rekursion ausdrücklich didaktisch.35577Probieren bleibt geprüfter Nachbarkandidat,ist für das vorgegebene deterministische Verfahren kein notwendiger ausgewählter Zielanker.100 aus35415 didaktisch; keineÜbernahme der direkten35479-Grenze in denWahlbereich."
+  },
+  "existing_cards_rechecked": [
+    "MA-124",
+    "MA-130",
+    "MA-132",
+    "MA-133"
+  ],
+  "existing_card_review": "MA134 bestätigt die bekannte additive Fortsetzung aus zwei Vorgängern als begrenzte didaktische Konkretisierung. MA124 bleibt gleichschrittige Fortsetzung;MA133 die vorgegebene Auswahl fester Plus-/Minusregeln;MA130/MA132 bekannte Ketten mit festen zweiten Operanden. Anspruchsvollere oder wechselnde Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung über den bekannten ausgewählten Zusammenhang hinaus bleiben gesondert zu entscheiden. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards_total": 134,
+    "same_band": 105,
+    "cross_band": 29,
+    "open_questions_total": 27,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 304,
+    "target_anchors": 302
+  },
+  "tests": {
+    "status": "local_passed_live_pending",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-27\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 134 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 134 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      },
+      {
+        "script": "test-mathematik-recurrence.py",
+        "exit": 0,
+        "output": "{\"status\": \"passed\", \"exhaustive_frames\": [{\"maximum\": 20, \"ordered_start_pairs\": 441, \"finite_prefix_cases\": 3087, \"valid_prefix_cases\": 201}, {\"maximum\": 100, \"ordered_start_pairs\": 10201, \"finite_prefix_cases\": 71407, \"valid_prefix_cases\": 4087}], \"boundary_frames\": [20, 100, 1000], \"test_lengths_only\": \"2..8 new terms; this is a test sample, not a curricular length limit\", \"findings\": \"All generated terms match independent coefficients. Start bounds alone are insufficient. Zero starts impose no universal maximum length. Start changes do not create a constant offset.\"}\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131/MA-133/MA-134 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 447 Karten, 894 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "133 bisherige Mathematikkarten,446 bisherige Ebeneneinträge,304 Quellen und alle Deutschdateien unverändert.134 Mathematikkarten,447 Karten insgesamt,27 Anschlussfragen,220 Inventurzeilen;root/dist bytegleich.",
+    "limits": "Nur Daten undVersion geändert,keineUI-Funktionslogik. Gezielter Kartenlauf und vollständige Ebenenanzeigeprüfung;kein neuer vollständiger Mathematik-Funktionslauf und keine erneute semantische Vollprüfung aller Bestandskarten. Kein neuer PDF-Download/Rendernachweis."
+  },
+  "publication": {
+    "batch": "MA-150",
+    "status": "pending_publication",
+    "app_version": "1.450"
+  },
+  "continuation": "RestfrageGS3-187200 gebündelt weiterprüfen: anspruchsvollere/wechselnde bekannte Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung. Die belegten AusschnitteMA124,MA133,MA134 zusammenführen und verbleibende Anforderungen gegen beide FSP-Bänder differenziert entscheiden; keine neue Karte allein für andere Länge oder anderes Startpaar. Bekannte additive Fortsetzung aus zwei unmittelbaren Vorgängern ist aufMA134 begrenzt geklärt; freie Rekonstruktion und Wirkungen geänderter Startglieder sind davon getrennt. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.134 Karten,105 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052).",
+  "mathematical_check": {
+    "script": "scripts/test-mathematik-recurrence.py",
+    "results": {
+      "status": "passed",
+      "exhaustive_frames": [
+        {
+          "maximum": 20,
+          "ordered_start_pairs": 441,
+          "finite_prefix_cases": 3087,
+          "valid_prefix_cases": 201
+        },
+        {
+          "maximum": 100,
+          "ordered_start_pairs": 10201,
+          "finite_prefix_cases": 71407,
+          "valid_prefix_cases": 4087
+        }
+      ],
+      "boundary_frames": [
+        20,
+        100,
+        1000
+      ],
+      "test_lengths_only": "2..8 new terms; this is a test sample, not a curricular length limit",
+      "findings": "All generated terms match independent coefficients. Start bounds alone are insufficient. Zero starts impose no universal maximum length. Start changes do not create a constant offset."
+    },
+    "interpretation": "Für nichtnegative Startwertea,b gilt dasj-teGlied(j>=2)=F(j-1)a+F(j)b. Nach dem zweiten Startglied wächst die Folge monoton, solange nicht alle Werte0 sind nicht notwendig streng. Zwei neueGlieder verlangena+2b<=M; daraus wird keine pauschale amtliche Grenze füra oderb. Gewählte Länge undStartpaar gemeinsam prüfen. M steht nur für den jeweils belegten/abgeleiteten Zahlenrahmen. Testlängen2..8 und Nulltest30 sind ausschließlich interne Gegenprüfungen,keine curricularen Grenzen oder vorgeschlagenen Lernaufgaben."
+  }
+}

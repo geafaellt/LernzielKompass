@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-27.12",
+  "version": "MA-2026-11-27.13",
   "checked_on": "2026-11-27",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12793,6 +12793,102 @@
         "Q-MA-page912_187200",
         "Q-MA-page139_35571",
         "Q-MA-page139_35577",
+        "Q-MA-page139_35578",
+        "Q-MA-page139_35580",
+        "Q-MA-page139_35415"
+      ]
+    },
+    {
+      "id": "MA-134",
+      "subject": "Mathematik",
+      "theme": "Bekannte additive Folgenregel · FSP-Wahlbereich",
+      "app_area": "MA-page912_1999",
+      "status": "Bedingter Teilanschluss · gelernte Knobelstrategie",
+      "gs_anchor": "GS Mathematik Kl.3 · Zahlenfolgen187200 unter187199/Übertragen2064 bis1 000; Fibonacci als Bemerkungsbeispiel, bekannte additive Fortsetzung didaktisch",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Zurückführen auf bekannte Aufgaben35578 und Beschreiben eigener Lösungswege35580 unterKennen35571. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064, bekannte Kenntnisse in vergleichbaren Kontexten verwenden; FSP Kennen aus35571, über Kenntnisse und Erfahrungen im gelernten Kontext verfügen. Definitionen beider Pläne S.V/PDF5. Fortsetzen, Addieren, Zurückführen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 und Einblick gewinnen38021 werden nicht auf den Knobelblock35571 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet.35571/35578/35580 nennen keine eigene Zahlenraumobergrenze. Die100 aus35479 wird nicht als Grenze des Knobel-Wahlbereichs ausgegeben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, freie Regelentdeckung, allgemeine Regeluntersuchung und systematische Startzahlvariation sind nicht abgedeckt.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187200"
+      ],
+      "fsp_target_ids": [
+        "page139_35571",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3-187200 Untersuchen von Zahlenfolgen unter187199/Übertragen2064 wird für die bekannte additive Fortsetzung aus den beiden unmittelbar vorherigen Gliedern begrenzt zugeordnet. Die GS-Bemerkung nennt Fibonacci; sie ist ein Beispiel und kein eigenes Hauptziel. FSP3/4-35578/35580 unterKennen35571 belegt das Zurückführen auf bekannte Aufgaben und die Beschreibung des eigenen Lösungswegs. Die gelernte additive Folgenstruktur wird auf bekannte Additionsbeziehungen zurückgeführt; die Auswahl dieser rekursiven Struktur und eines konkreten endlichen Ausschnitts ist didaktische Konkretisierung des Strategiebezugs. Der FSP-Lehrplan schreibt weder Fibonacci noch eine allgemeine Rekursionskompetenz ausdrücklich vor. Amtliche Lernzielebenen: GS Übertragen aus2064, bekannte Kenntnisse in vergleichbaren Kontexten verwenden; FSP Kennen aus35571, über Kenntnisse und Erfahrungen im gelernten Kontext verfügen. Definitionen beider Pläne S.V/PDF5. Fortsetzen, Addieren, Zurückführen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 und Einblick gewinnen38021 werden nicht auf den Knobelblock35571 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet.35571/35578/35580 nennen keine eigene Zahlenraumobergrenze. Die100 aus35479 wird nicht als Grenze des Knobel-Wahlbereichs ausgegeben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, freie Regelentdeckung, allgemeine Regeluntersuchung und systematische Startzahlvariation sind nicht abgedeckt. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Zwei geordnete Startglieder und die bereits bekannte Regel sind vorgegeben: Jedes weitere Glied ist die Summe der beiden unmittelbar vorherigen Glieder. Regel, Addition und das Weiterrücken des Bezugspaars sind im FSP gelernten Kontext verfügbar; GS verwendet die Kenntnisse im vergleichbaren Kontext. Die Lehrkraft legt vorab einen konkreten endlichen Ausschnitt mit mindestens zwei neu zu bestimmenden Gliedern fest, damit auch ein neu entstandenes Glied erneut eingeht. Diese Mindestzahl ist eine didaktische Prüfkonkretisierung, keine Lehrplanvorgabe; eine allgemeine maximale Folgenlänge ist nicht belegt. Die gesamte gewählte Fortsetzung muss innerhalb des Zahlenrahmens möglich sein. Keine freie Rekonstruktion oder Wahl der Regel, kein allgemeiner Eindeutigkeitsbeweis, kein selbstständiges Entdecken der Fibonacci-Regel, keine systematische Änderung der Startglieder oder Begründung ihrer Wirkungen. Die Startwerte müssen nicht1 und1 sein; auch null ist zulässig. Nur die Summenbildung aus den zwei unmittelbar vorherigen Gliedern ist ausgewählt, keine beliebige Rekursion. Eine Folge korrekter isolierter Summen ohne richtige Zuordnung des jeweils aktuellen Vorgängerpaars belegt den Strukturbezug nicht. Es wird kein unveränderter zweiter Operand wie inMA130/MA132 vorausgesetzt.",
+      "shared_object_suggestion": "Eine bekannte additive Zahlenfolge: Das jeweils nächste Glied ist die Summe der beiden unmittelbar vorherigen Glieder.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verwendet eine bekannte additive Bildungsregel in einem vergleichbaren Zahlenfolgenzusammenhang. Bei zwei gegebenen Startgliedern und vorgegebener bekannter Regel bestimmt es einen konkret festgelegten endlichen Folgenausschnitt, in dem jedes neue Glied die Summe der beiden unmittelbar vorherigen Glieder ist. Es beschreibt den eigenen Lösungsweg und den wiederkehrenden Bezug auf das aktuelle Vorgängerpaar. Der Zahlenrahmen reicht bis 1 000.",
+          "criterion": "Jedes neu bestimmte Glied stimmt mit der Summe der beiden unmittelbar vorherigen Glieder überein. Mindestens zwei neue Glieder zeigen, dass ein neu entstandener Wert im nächsten Bezugspaar berücksichtigt wird; diese Mindestzahl ist didaktisch festgelegt. Die Beschreibung macht das Zurückführen auf bekannte Additionen und das Weiterrücken des Bezugspaars erkennbar; ein zufällig passender Endwert genügt nicht. Beide Startglieder, alle Summanden, Zwischen-, Ergebnis-, Teil-, Probe- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Die vorab festgelegte Fortsetzung wird vollständig innerhalb dieses Rahmens erreicht. Keine freie Regelentdeckung oder Begründung von Startwertänderungen verlangt.",
+          "status": "Didaktische Konkretisierung: bekannte additive Bildung aus zwei unmittelbaren Vorgängern, zwei gegebene Startglieder und konkret festgelegte endliche Länge mit mindestens zwei neuen Gliedern; keine amtlich vorgeschriebene Folgenlänge."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verfügt im gelernten Knobelzusammenhang über die bekannte Strategie, eine gelernte additive Folgenstruktur auf bekannte Additionsbeziehungen zurückzuführen. Bei zwei gegebenen Startgliedern und vorgegebener bekannter Regel bestimmt es einen konkret festgelegten endlichen Folgenausschnitt, in dem jedes neue Glied die Summe der beiden unmittelbar vorherigen Glieder ist. Es beschreibt den eigenen Lösungsweg und den wiederkehrenden Bezug auf das aktuelle Vorgängerpaar. Der Zahlenrahmen bis 100 ist didaktisch aus dem übergreifenden Bandziel abgeleitet.",
+          "criterion": "Jedes neu bestimmte Glied stimmt mit der Summe der beiden unmittelbar vorherigen Glieder überein. Mindestens zwei neue Glieder zeigen, dass ein neu entstandener Wert im nächsten Bezugspaar berücksichtigt wird; diese Mindestzahl ist didaktisch festgelegt. Die Beschreibung macht das Zurückführen auf bekannte Additionen und das Weiterrücken des Bezugspaars erkennbar; ein zufällig passender Endwert genügt nicht. Beide Startglieder, alle Summanden, Zwischen-, Ergebnis-, Teil-, Probe- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Die vorab festgelegte Fortsetzung wird vollständig innerhalb dieses Rahmens erreicht. Keine freie Regelentdeckung oder Begründung von Startwertänderungen verlangt. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei; gelernter Kontext, kein Transfer in einen unbekannten Kontext vorausgesetzt.",
+          "status": "Didaktische Konkretisierung: bekannte additive Bildung aus zwei unmittelbaren Vorgängern, zwei gegebene Startglieder und konkret festgelegte endliche Länge mit mindestens zwei neuen Gliedern; keine amtlich vorgeschriebene Folgenlänge.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35415",
+        "fsp_basis": "stage_goal_context",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet.35571/35578/35580 nennen keine eigene Zahlenraumobergrenze. Die100 aus35479 wird nicht als Grenze des Knobel-Wahlbereichs ausgegeben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, freie Regelentdeckung, allgemeine Regeluntersuchung und systematische Startzahlvariation sind nicht abgedeckt.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "2064 liefertÜbertragen undbis1000;187199 ist Muster-Unterziel,187200 Untersuchen von Zahlenfolgen. Fibonacci steht nur in der Bemerkung. Gegebene Regel,Startpaar und endliche Länge sind didaktisch ausgewählt.",
+        "fsp": "35571 amtlichesKennen-Hauptziel imWahlbereich2;35578 und35580 Strategie-Unterziele. Gelernte additive Rekursion als didaktische Konkretisierung des Zurückführens auf bekannte Aufgaben; keine ausdrückliche FSP-Fibonacci-Zielzeile.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus übergreifendem Bandziel abgeleitet. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+        "detail": "35415 nennt Operationsvorstellungen bis100. Die Knobelzeilen35571/35578/35580 nennen keine eigene Obergrenze;100 wird für diesen arithmetischen Ausschnitt didaktisch übernommen. GS2064 ausdrücklich bis1 000. Die Zahl der Folgenglieder wird didaktisch festgelegt; keine amtliche Höchstlänge und keine zusätzliche pauschale Startwertgrenze.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35571",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Alle Startglieder, beide Summanden jedes Übergangs, sämtliche neu entstehenden Folgenglieder sowie alle relevanten Teil-, Probe- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Die Lehrkraft prüft die gesamte festgelegte Länge vorab: Zwei zulässige Startwerte allein genügen nicht. Auch später entstehende Summen müssen im Rahmen bleiben; keine Überschreitung mit späterem Ausgleich. Keine zusätzliche Berechnung eines außerhalb des Rahmens liegenden nächsten Glieds zum Nachweis des Abbruchs verlangen. Länge und Startpaar müssen zusammen passen; kein pauschaler Höchstwert für einzelne Startglieder wird erfunden. Ganze Anzahlen ohne Einheiten, Dezimalbrüche oder Umrechnungen. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Zwei geordnete Startglieder und die bereits bekannte Regel sind vorgegeben: Jedes weitere Glied ist die Summe der beiden unmittelbar vorherigen Glieder. Regel, Addition und das Weiterrücken des Bezugspaars sind im FSP gelernten Kontext verfügbar; GS verwendet die Kenntnisse im vergleichbaren Kontext. Die Lehrkraft legt vorab einen konkreten endlichen Ausschnitt mit mindestens zwei neu zu bestimmenden Gliedern fest, damit auch ein neu entstandenes Glied erneut eingeht. Diese Mindestzahl ist eine didaktische Prüfkonkretisierung, keine Lehrplanvorgabe; eine allgemeine maximale Folgenlänge ist nicht belegt. Die gesamte gewählte Fortsetzung muss innerhalb des Zahlenrahmens möglich sein. Keine freie Rekonstruktion oder Wahl der Regel, kein allgemeiner Eindeutigkeitsbeweis, kein selbstständiges Entdecken der Fibonacci-Regel, keine systematische Änderung der Startglieder oder Begründung ihrer Wirkungen. Die Startwerte müssen nicht1 und1 sein; auch null ist zulässig. Nur die Summenbildung aus den zwei unmittelbar vorherigen Gliedern ist ausgewählt, keine beliebige Rekursion. Eine Folge korrekter isolierter Summen ohne richtige Zuordnung des jeweils aktuellen Vorgängerpaars belegt den Strukturbezug nicht. Es wird kein unveränderter zweiter Operand wie inMA130/MA132 vorausgesetzt. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_35421",
+        "label": "Wahlbereich 2: Zahlenzauberei",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187200",
+        "Q-MA-page139_35571",
         "Q-MA-page139_35578",
         "Q-MA-page139_35580",
         "Q-MA-page139_35415"
