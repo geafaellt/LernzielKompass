@@ -1,0 +1,159 @@
+{
+  "id": "MA-143",
+  "date": "2026-11-27",
+  "base_commit": "1ac82829c26ed774e8d1d5d24fe38b398bbfc9ce",
+  "scope": "Begrenzter Strategieanschluss für eine zulässige Belegung gekoppelter Unbekannter;GS3→FSP3/4-Wahlbereich2.",
+  "source_verification": {
+    "html": "GS912 undFSP139 online erfolgreich gelesen;GSZeilen2064/187199/187201 undFSP35571/35577/35578/35580 mitamtlichemHTMLabgeglichen. FSP-Anker anhandgespeicherterHTML-DateiMA139zugeordnet.",
+    "pdf": "GespeicherteamtlichePDFs erneuttextuellgelesen: beideDefinitionenS.V/PDF5;GSS.22–23/PDF32–33;FSPS.16–17/PDF28–29 undS.23/PDF35. Kein neuerPDF-DownloadoderRendernachweis.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "parent_target_id": "page912_2064"
+    },
+    {
+      "id": "page912_187199",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "parent_target_id": "page912_2064"
+    },
+    {
+      "id": "page912_187201",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern mit vorgegebener Zielzahl, Zahlenketten, Rechendreiecke ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201",
+      "parent_target_id": "page912_2064"
+    },
+    {
+      "id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "parent_target_id": "page139_35571"
+    },
+    {
+      "id": "page139_35577",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "parent_target_id": "page139_35571"
+    },
+    {
+      "id": "page139_35578",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "parent_target_id": "page139_35571"
+    },
+    {
+      "id": "page139_35580",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "parent_target_id": "page139_35571"
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187201",
+      "first_review": false,
+      "status": "limited_connection",
+      "card": "MA-131",
+      "finding": "GS3 strukturierte Aufgabenformate187201 werden für das Finden einer zulässigen Belegung einer bekannten zweischrittigen Additions-/Subtraktionskette begrenzt zugeordnet: Startwert,Endwert und beide Operationszeichen sind bekannt; beide Operanden und der Zwischenwert fehlen. Gemeinsamer Gegenstand ist eine Belegung, die beide verknüpften Beziehungen gleichzeitig erfüllt. FSP3/4-35577/35578/35580 unterKennen35571 belegt gelernte ausgewählte Knobelstrategien und das Beschreiben des eigenen Wegs. Die konkrete Kettenform und Unbekanntenverteilung sind didaktische Konkretisierungen dieses allgemeinen Strategiebezugs, kein ausdrücklich amtlich genanntes FSP3/4-Kettenformat.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Kennen aus35571. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten, Kennen Kenntnisse und Erfahrungen im gelernten Kontext (beide Lehrpläne S.V/PDF5). Probieren, Zurückführen, Finden und Beschreiben sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Weder Einblick gewinnen38021/35504 noch Übertragen35470 oder Anwenden38017 wird auf35571 übertragen.",
+      "number_scope": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus den übergreifenden Operationsvorstellungen35415 abgeleitet.35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und weiterführende Strukturuntersuchungen sind nicht abgedeckt. Kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund.",
+      "prerequisites": "Die gewählte Kettenstruktur, die beiden Additions-/Subtraktionszeichen und ihre Reihenfolge sind bekannt. Start- und Endwert sind gegeben, genau zwei Operanden und der Zwischenwert fehlen. Es gibt mindestens eine zulässige Belegung; die Lehrkraft prüft dies vorab einschließlich möglicher Sachbedingungen. Die Strategie ist für FSP im gelernten Kontext verfügbar; für GS wird sie in einem vergleichbaren Kontext verwendet. Die Unterstützung legt die Lehrkraft fest. Nur das Finden einer passenden Belegung ist gefordert, nicht sämtlicher Belegungen; bei mehreren Lösungen darf keine einzelne Musterlösung als einzig richtig gelten. Null ist zulässig; Positivität wird nicht hinzuerfunden.",
+      "uncertainty": "Die Auswahl genau zweier Übergänge und dreier unbekannter Werte ist didaktisch;35571 enthält weder eine amtliche Kettenlänge noch einen allgemeinen Algorithmus zur Rekonstruktion unbekannter Operationen. Eine passende Belegung nach Zufall belegt die verfügbare gelernte Strategie allein noch nicht. Vollständige Aufzählung,Eindeutigkeitsbegründung,Unlösbarkeitsbeweis,längere gekoppelte Ketten,wechselnde Regeln undVeränderungsabhängigkeiten sind nicht durch dieses Feinziel nachgewiesen.",
+      "remaining": "Die Kettenfrage ausMA-142 ist für eine zulässige Belegung bei zwei bekannten Zeichen begrenzt geklärt; weitere gekoppelte Strukturen und weiterführende Begründungsansprüche bleiben offen. Keine neue Erstprüfung187201,keine ganze Nichtanschlussentscheidung.27 dokumentierte Anschlussfragen bleiben erhalten; die Kettenfrage wird präzisiert, nicht doppelt gezählt.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199",
+    "page139_35415"
+  ],
+  "band_selection": {
+    "1/2": "38021/38022/38035/38037 unterEinblick gewinnen belegen vorbereitendeKnobelstrategien;KettenalsBemerkung,keineeigeneObergrenze,20wäredidaktischaus37739.37866/37885 belegenPlatzhalter/Umkehrbezugbis20.NichtwegenkleineremZahlenraumausgeschlossen.38019gehörtunterAnwenden38017,keineÜbertragungdieserEbeneauf38021.",
+    "3/4": "35571/35577/35578/35580 tragenausgewähltegelernteStrategienundBeschreibungdeseigenenWegs;stufenbandpassendbevorzugt,aberWahlbereich2mussgewähltsein.KeineamtlicheKettenregelundkeineallgemeineVollständigkeitsforderung.35509unterEinblick35504bleibtSachvariantenbezug;35485unterÜbertragen35470trägtlokaleUmkehrung,alleinkeinenBelegvollständigergekoppelterRekonstruktion."
+  },
+  "existing_cards_rechecked": [
+    "MA-122",
+    "MA-126",
+    "MA-127",
+    "MA-129",
+    "MA-130"
+  ],
+  "existing_card_review": "Bestandsgrenzen beibehalten:MA122vorgegebeneVarianten,MA126/127lokaleUnbekannte,MA129/130bekannteOperanden. KeineÄnderungander130Bestandskarten;LernzielebenenbleibenihrenjeweiligenHauptzielenzugeordnet.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards_total": 131,
+    "same_band": 102,
+    "cross_band": 29,
+    "open_questions_total": 27,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 304,
+    "target_anchors": 302
+  },
+  "tests": {
+    "status": "local_passed",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-27\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 131 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 131 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "Checking SU-008\nChecking DE-001\nChecking MA-001\nPASS: 444 Karten, 888 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "130 Bestandskarten und443 bestehende Ebeneneinträge unverändert; sämtliche Deutschdateien bytegleich. Eine neue KarteMA131,vier neue Quellenanker,131 Mathematikkarten/304 Quellen/444 Gesamtkarten/888 Kartenseiten.27 Fragen unverändert gezählt, Kettenfrage begrenzt präzisiert;220 Inventurzeilen. Root/dist bytegleich.",
+    "limits": "Keine neue UI-Funktionslogik; Daten undVersionsangabe geändert. Gezielter Kartenbrowserlauf und vollständige Ebenenanzeigeprüfung, kein neuer vollständiger Funktionslauf aller131 Mathematikkarten und keine neue semantische Vollprüfung aller Bestandskarten. BeideHTML-Quellen erreichbar; gespeicherteamtlichePDFstextuellgeprüft,kein neuerPDF-DownloadoderRendernachweis. Gesamtabgleich weiter offen."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.444"
+  },
+  "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren."
+}

@@ -375,3 +375,10 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Bel
 Gegenprüfung der vier Vorzeichenfälle für M20/M100 bestanden. Keine Änderungen an App, Karten oder Deutsch. Prüf- und Veröffentlichungsstatus siehe curriculum/mathematik/review_batch_142.json.
 
 MA-142 veröffentlicht mit Commit7f12d8f2c3439ff229044977d16740fc391d449d; Pages-Lauf45990274146 erfolgreich. Ausgelieferte App1.443 nach erfolgreicher Veröffentlichung bytegleich zum unveränderten geprüften Stand (5.781.016 Bytes; SHA256 ff6c41253975cbf4cc00d0d1000ccbb64175fd13d91b4f22d2d969023168478d). Vier Datenprüfungen bestanden; keine neue Browserprüfung bei unveränderter App. GS-HTML-Zeitlimitfehler bleibt dokumentiert; amtliche PDF-Bestände textuell und per Prüfsumme geprüft.
+
+
+## Fortsetzung MA-143
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.
+
+MA-143: Sechs Datenprüfungen bestanden; gezielte Kartenprüfung mitMA-131 und vollständige Ebenenanzeigeprüfung aller444 Karten/888 Seiten lokal bestanden.130 Bestandskarten,443 bisherige Ebeneneinträge undDeutschdateien unverändert. Veröffentlichung undLiveprüfung noch ausstehend.

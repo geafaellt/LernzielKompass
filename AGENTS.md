@@ -47,3 +47,8 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: gekoppelte unbekannte Überg
 GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren.
 
 Gegenprüfung der vier Vorzeichenfälle für M20/M100 bestanden. Keine Änderungen an App, Karten oder Deutsch. Prüf- und Veröffentlichungsstatus siehe curriculum/mathematik/review_batch_142.json.
+
+
+## Fortsetzung MA-143
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.

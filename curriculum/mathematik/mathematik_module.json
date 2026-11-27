@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-27.6",
+  "version": "MA-2026-11-27.7",
   "checked_on": "2026-11-27",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -1909,6 +1909,30 @@
       "id": "Q-MA-page139_35475",
       "title": "FSP Mathematik3/4 · Die Welt um mich herum",
       "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35475",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35571",
+      "title": "FSP Mathematik3/4 · Wahlbereich2: Zahlenzauberei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35577",
+      "title": "FSP Mathematik3/4 · Wahlbereich2: Zahlenzauberei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35578",
+      "title": "FSP Mathematik3/4 · Wahlbereich2: Zahlenzauberei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "version": "2019"
+    },
+    {
+      "id": "Q-MA-page139_35580",
+      "title": "FSP Mathematik3/4 · Wahlbereich2: Zahlenzauberei",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
       "version": "2019"
     }
   ],
@@ -12489,6 +12513,104 @@
         "Q-MA-page912_187201",
         "Q-MA-page139_35470",
         "Q-MA-page139_35479"
+      ]
+    },
+    {
+      "id": "MA-131",
+      "subject": "Mathematik",
+      "theme": "Passende Belegung einer Zahlenkette · FSP-Wahlbereich",
+      "app_area": "MA-page912_1999",
+      "status": "Bedingter Teilanschluss · gelernte Knobelstrategie",
+      "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis1 000; ausgewählte Zahlenkette mit gekoppelten Unbekannten didaktisch",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Knobelstrategien35577/35578/35580 unterKennen35571. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Kennen aus35571. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten, Kennen Kenntnisse und Erfahrungen im gelernten Kontext (beide Lehrpläne S.V/PDF5). Probieren, Zurückführen, Finden und Beschreiben sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Weder Einblick gewinnen38021/35504 noch Übertragen35470 oder Anwenden38017 wird auf35571 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus den übergreifenden Operationsvorstellungen35415 abgeleitet.35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und weiterführende Strukturuntersuchungen sind nicht abgedeckt. Kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. GS3 strukturierte Aufgabenformate187201 werden für das Finden einer zulässigen Belegung einer bekannten zweischrittigen Additions-/Subtraktionskette begrenzt zugeordnet: Startwert,Endwert und beide Operationszeichen sind bekannt; beide Operanden und der Zwischenwert fehlen. Gemeinsamer Gegenstand ist eine Belegung, die beide verknüpften Beziehungen gleichzeitig erfüllt. FSP3/4-35577/35578/35580 unterKennen35571 belegt gelernte ausgewählte Knobelstrategien und das Beschreiben des eigenen Wegs. Die konkrete Kettenform und Unbekanntenverteilung sind didaktische Konkretisierungen dieses allgemeinen Strategiebezugs, kein ausdrücklich amtlich genanntes FSP3/4-Kettenformat. Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Kennen aus35571. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten, Kennen Kenntnisse und Erfahrungen im gelernten Kontext (beide Lehrpläne S.V/PDF5). Probieren, Zurückführen, Finden und Beschreiben sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Weder Einblick gewinnen38021/35504 noch Übertragen35470 oder Anwenden38017 wird auf35571 übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus den übergreifenden Operationsvorstellungen35415 abgeleitet.35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und weiterführende Strukturuntersuchungen sind nicht abgedeckt. Kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund. Die gewählte Kettenstruktur, die beiden Additions-/Subtraktionszeichen und ihre Reihenfolge sind bekannt. Start- und Endwert sind gegeben, genau zwei Operanden und der Zwischenwert fehlen. Es gibt mindestens eine zulässige Belegung; die Lehrkraft prüft dies vorab einschließlich möglicher Sachbedingungen. Die Strategie ist für FSP im gelernten Kontext verfügbar; für GS wird sie in einem vergleichbaren Kontext verwendet. Die Unterstützung legt die Lehrkraft fest. Nur das Finden einer passenden Belegung ist gefordert, nicht sämtlicher Belegungen; bei mehreren Lösungen darf keine einzelne Musterlösung als einzig richtig gelten. Null ist zulässig; Positivität wird nicht hinzuerfunden. Die Auswahl genau zweier Übergänge und dreier unbekannter Werte ist didaktisch;35571 enthält weder eine amtliche Kettenlänge noch einen allgemeinen Algorithmus zur Rekonstruktion unbekannter Operationen. Eine passende Belegung nach Zufall belegt die verfügbare gelernte Strategie allein noch nicht. Vollständige Aufzählung,Eindeutigkeitsbegründung,Unlösbarkeitsbeweis,längere gekoppelte Ketten,wechselnde Regeln undVeränderungsabhängigkeiten sind nicht durch dieses Feinziel nachgewiesen. Die Kettenfrage ausMA-142 ist für eine zulässige Belegung bei zwei bekannten Zeichen begrenzt geklärt; weitere gekoppelte Strukturen und weiterführende Begründungsansprüche bleiben offen. Keine neue Erstprüfung187201,keine ganze Nichtanschlussentscheidung.27 dokumentierte Anschlussfragen bleiben erhalten; die Kettenfrage wird präzisiert, nicht doppelt gezählt.",
+      "shared_object_suggestion": "Zwei verknüpfte Additions- oder Subtraktionsbeziehungen: Eine gemeinsame Belegung der fehlenden Operanden und des Zwischenwerts verbindet den bekannten Startwert mit dem bekannten Endwert.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verwendet eine bekannte Lösungsstrategie in einem vergleichbaren Zahlenkettenzusammenhang bis 1 000, um eine zulässige Belegung zweier fehlender Operanden und des fehlenden Zwischenwerts bei bekanntem Startwert,Endwert und zwei bekannten Additions-/Subtraktionszeichen zu finden. Es beschreibt den eigenen Weg und die Verknüpfung beider Rechenbeziehungen.",
+          "criterion": "Die gefundene Belegung erfüllt beide Beziehungen gleichzeitig und führt vom gegebenen Startwert zum gegebenen Endwert. Ein passender Endwert bei falschem Zwischenwert genügt nicht. Der eigene Weg ist nachvollziehbar beschrieben; die Beschreibung zeigt,welcher Wert beiden Beziehungen gemeinsam ist. Start,Ende,Operanden,Zwischenwert und alle relevanten Probe-,Teil- und Kontrollwerte sind nichtnegative ganze Zahlen bis 1 000. Eine passende Belegung genügt; keine vollständige Aufzählung oder Eindeutigkeitsbegründung.",
+          "status": "Didaktische Konkretisierung: zwei bekannte Übergänge,drei unbekannte Werte,mindestens eine zulässige Belegung; keine amtlich vorgeschriebene Kettenregel."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verfügt im gelernten Knobelzusammenhang über eine ausgewählte Strategie des Probierens oder Zurückführens auf bekannte Rechenbeziehungen,mit der es eine zulässige Belegung zweier fehlender Operanden und des fehlenden Zwischenwerts findet. Startwert,Endwert und beide Additions-/Subtraktionszeichen sind bekannt. Es beschreibt den eigenen Lösungsweg. Der Zahlenrahmen bis 100 ist didaktisch aus dem übergreifenden Bandziel abgeleitet.",
+          "criterion": "Die Belegung erfüllt beide verknüpften Beziehungen gleichzeitig und stimmt mit dem bekannten Start- und Endwert überein. Die Beschreibung macht den Gebrauch der gelernten Strategie erkennbar; ein zufällig passendes Ergebnis allein genügt nicht. Alle Start-,End-,Operanden-,Zwischen-,Probe-,Teil- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100; auch verworfene Versuche bleiben im Rahmen. Eine passende Belegung genügt; keine Forderung nach allen Lösungen,Eindeutigkeitsbegründung oder Transfer in einen unbekannten Kontext. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+          "status": "Didaktische Konkretisierung des Kennen-Ziels: ausgewählte bekannte Kettenstruktur und gelernte Strategie; keine automatische Vorgabe einer konkreten Aufgabe oder Lernhandlung. Bis100 didaktisch aus35415,keine eigene Grenze der Knobelzielzeile.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35415",
+        "fsp_basis": "stage_goal_context",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus den übergreifenden Operationsvorstellungen35415 abgeleitet.35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und weiterführende Strukturuntersuchungen sind nicht abgedeckt. Kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "2064 liefertÜbertragen undbis1000;187199 Muster-Unterziel;187201 strukturierteFormate,Zahlenketten nurBemerkung. Unbekanntenverteilung didaktisch.",
+        "fsp": "35571 amtlichesKennen-Hauptziel imWahlbereich2;35577/35578/35580 verbindlicheStrategie-Unterziele. KonkreteKette didaktischerTeilanschluss,kein amtlich vorgeschriebenesFormat.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus übergreifendem Bandziel abgeleitet. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+        "detail": "35415 nennt Operationsvorstellungen bis100. Die Knobelzeilen35571/35577/35578/35580 nennen keine eigene Obergrenze;100 wird für diesen arithmetischen Ausschnitt didaktisch übernommen. Die100 aus der benachbarten35479 wird nicht als Grenze des Wahlbereichs ausgegeben. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35571",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. FSP: Startwert,Endwert,beide Operanden,Zwischenwert und sämtliche relevanten Rechenteil-, Probe- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100. Das gilt auch für verworfene Versuche: kein negativer Wert und keine Überschreitung100 mit späterem Ausgleich. GS entsprechend bis1 000. Die Lehrkraft grenzt die verfügbaren Werte und Bedingungen so ein,dass dies möglich ist. Ganze Anzahlen ohne Einheiten; keine Dezimalbrüche,Umrechnungen,Multiplikation oderDivision. Die gewählte Kettenstruktur, die beiden Additions-/Subtraktionszeichen und ihre Reihenfolge sind bekannt. Start- und Endwert sind gegeben, genau zwei Operanden und der Zwischenwert fehlen. Es gibt mindestens eine zulässige Belegung; die Lehrkraft prüft dies vorab einschließlich möglicher Sachbedingungen. Die Strategie ist für FSP im gelernten Kontext verfügbar; für GS wird sie in einem vergleichbaren Kontext verwendet. Die Unterstützung legt die Lehrkraft fest. Nur das Finden einer passenden Belegung ist gefordert, nicht sämtlicher Belegungen; bei mehreren Lösungen darf keine einzelne Musterlösung als einzig richtig gelten. Null ist zulässig; Positivität wird nicht hinzuerfunden. Die Auswahl genau zweier Übergänge und dreier unbekannter Werte ist didaktisch;35571 enthält weder eine amtliche Kettenlänge noch einen allgemeinen Algorithmus zur Rekonstruktion unbekannter Operationen. Eine passende Belegung nach Zufall belegt die verfügbare gelernte Strategie allein noch nicht. Vollständige Aufzählung,Eindeutigkeitsbegründung,Unlösbarkeitsbeweis,längere gekoppelte Ketten,wechselnde Regeln undVeränderungsabhängigkeiten sind nicht durch dieses Feinziel nachgewiesen. Aufgaben,Lernhandlungen undHilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_35421",
+        "label": "Wahlbereich 2: Zahlenzauberei",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35571",
+        "Q-MA-page139_35577",
+        "Q-MA-page139_35578",
+        "Q-MA-page139_35580",
+        "Q-MA-page139_35415"
       ]
     }
   ]
