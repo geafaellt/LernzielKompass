@@ -242,7 +242,7 @@
   },
   "new_card": "MA-130",
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -278,12 +278,27 @@
     "local_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "129 bestehende Mathematikkarten,442 vorhandene Ebeneneinträge,alle Deutschdateien,300 Quellen und26 Fragen unverändert;220 Inventurzeilen;keine neue Erstzählung;UI-Logik bis auf PDF-Fußzeilenversion unverändert;root/dist bytegleich.",
-    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal bestanden; Liveprüfung steht aus. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft, kein neuer PDF-Download oder Rendernachweis.",
-    "execution_note": "Erster Start der Ebenenprüfung durch Verbindungsfehler in der automatischen Freigabe nicht ausgeführt; erneuter regulär freigegebener Start erfolgreich."
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft; kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig.",
+    "execution_note": "Erster Start der Ebenenprüfung durch Verbindungsfehler in der automatischen Freigabe nicht ausgeführt; erneuter regulär freigegebener Start erfolgreich.",
+    "live_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.441"
+    "batch": "MA-139",
+    "status": "published_verified",
+    "app_version": "1.441",
+    "commit": "ff310225ee3f4e7d2468b22371558e74c94d7e70",
+    "tree": "0e0ebe48829ee0a04d50ff66eec5b05664d18a84",
+    "pages_run_id": 45969855665,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45969855665",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "bytes": 5771486,
+    "sha256": "ca35c0490cfa5b49a4030ce6480c7c3d4b9ab16a9553c43e74750aa61a34dd75",
+    "live_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390. PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "verified_on": "2026-11-27",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft; kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig."
   },
   "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten fachlich prüfen. Bekannte endliche lineare Vorwärtsketten sind aufMA-130, Rückwärtsketten aufMA-129 als didaktische Teilanschlüsse eingeordnet; keine weitere Karte nur für eine andere Länge. MA-139 ergänztMA-130: beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischenwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren."
 }
