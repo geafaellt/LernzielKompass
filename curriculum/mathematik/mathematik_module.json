@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-27.7",
+  "version": "MA-2026-11-27.8",
   "checked_on": "2026-11-27",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12611,6 +12611,93 @@
         "Q-MA-page139_35578",
         "Q-MA-page139_35580",
         "Q-MA-page139_35415"
+      ]
+    },
+    {
+      "id": "MA-132",
+      "subject": "Mathematik",
+      "theme": "Startwert und Summe um eins verändern · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · lokale additive Nachbarbeziehung",
+      "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis1 000; lokale additive Startwertänderung didaktisch ausgewählt",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Nachbaraufgaben als Bemerkung35485 unterAddieren/Subtrahieren35479 bis100 undÜbertragen35470",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 ist diesem Ziel untergeordnet; die100 werden nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie ganze Folgen, beliebige Startänderungen und weiterführende Strukturregeln sind nicht abgedeckt.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 strukturierte Aufgabenformate187201 werden für eine lokale Startwertvariation in einem einzelnen bekannten Additionsübergang begrenzt geprüft. Der Zuwachs bleibt unverändert; der Startwert wird um genau eins erhöht oder vermindert. Die neue Summe verändert sich entsprechend um genau eins und wird aus der bekannten Summe abgeleitet. FSP3/4 nennt Nachbaraufgaben in der Bemerkung35485 unter dem Rechenziel35479/Übertragen35470. Die Auswahl des ersten Summanden als Startwert, der Änderung um eins in beiden Richtungen und des lokalen Kettenausschnitts ist eine didaktische Konkretisierung dieses Nachbarbezugs. Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 ist diesem Ziel untergeordnet; die100 werden nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie ganze Folgen, beliebige Startänderungen und weiterführende Strukturregeln sind nicht abgedeckt. Eine Addition und ihre Summe sind bekannt. Der erste Summand wird als lokaler Startwert gedeutet, der zweite Summand bleibt derselbe bekannte nichtnegative Zuwachs. Die Änderung des Startwerts um genau eins nach oben oder unten ist bekannt. Beide Additionen gehören zu vergleichbaren Kontexten; auf FSP-Seite bleibt der Lebensweltbezug aus35470 Voraussetzung. Die Lehrkraft prüft, dass Ausgangs- und Nachbarbeziehung innerhalb des Zahlenrahmens ausführbar sind. Der bekannte Ergebnisbezug wird genutzt; bloßes voneinander unabhängiges Neuberechnen belegt das Ableiten noch nicht. Alle ursprünglichen und veränderten Startwerte, der feste Zuwachs, beide Summen, die Änderung um eins sowie alle relevanten Zwischen- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Beim Erhöhen liegen ursprünglicher Startwert und ursprüngliche Summe höchstens bei99, beim Vermindern liegt der ursprüngliche Startwert mindestens bei1. Dies sind didaktisch aus der erlaubten Veränderung folgende Zulässigkeitsbedingungen, keine neuen amtlichen Zahlenraumgrenzen. Kein Überschreiten mit späterem Ausgleich. Ganze Anzahlen ohne Einheiten, Dezimalbrüche oder Umrechnungen. 35485 nennt Nachbaraufgaben ohne vorgeschriebene Summandenrolle, Änderungsrichtung oder Kettendarstellung. Der lokale Fall ist deshalb didaktisch ausgewählt; keine amtlich wörtlich vorgeschriebene Kettenregel. Aus dem Einzelschritt folgt noch keine geprüfte vollständige Veränderungsstrategie für ganze gemischte Ketten. Verändern des Zuwachses, gleichzeitige Änderung beider Summanden, beliebige Änderungsbeträge, Subtraktionsnachbarn und unbekannte Regeln sind durch diese Karte nicht abgedeckt. 187201 bleibt begrenzt geprüft. Nächster Ausschnitt: Startwertvariation bei einem bekannten Subtraktionsschritt, danach die Fortführung von Änderungen durch bekannte mehrschrittige Ketten.187200 wird hier nur zum Abgrenzen des weitergehenden Folgenauftrags herangezogen und erhält keine neue Kartenzuordnung.27 Anschlussfragen bleiben erhalten; keine neue Erstzählung und keine ganze Nichtanschlussentscheidung.",
+      "shared_object_suggestion": "Bei gleichem Zuwachs verändert sich die Summe um eins in derselben Richtung wie der Startwert.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verwendet den bekannten additiven Nachbarzusammenhang in einem vergleichbaren Zahlenkettenausschnitt bis 1 000: Bei unverändertem Zuwachs leitet es die neue Summe aus der bekannten Summe ab, wenn der Startwert um eins erhöht oder vermindert wird. Es beschreibt die entsprechende Veränderung von Startwert und Summe.",
+          "criterion": "Der Zuwachs bleibt unverändert. Neuer Startwert und neue Summe unterscheiden sich jeweils um genau eins in derselben Richtung von ihren bekannten Ausgangswerten. Die neue Summe wird erkennbar aus der bekannten Summe abgeleitet; unabhängiges Neuberechnen allein genügt nicht. Alle ursprünglichen und veränderten Startwerte, Summanden, Summen und relevanten Zwischen-/Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Keine Generalisierung auf beliebige Änderungen oder ganze Folgen.",
+          "status": "Didaktische Konkretisierung: ein bekannter Additionsübergang, Startwertänderung um genau eins, fester Zuwachs; keine amtlich vorgeschriebene Kettenregel."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet die bekannte additive Nachbarbeziehung in einem vergleichbaren lebensweltlichen Zusammenhang bis 100: Bei unverändertem Zuwachs leitet es die neue Summe aus der bekannten Summe ab, wenn der erste Summand als Startwert um eins erhöht oder vermindert wird.",
+          "criterion": "Der Zuwachs bleibt unverändert. Der neue Startwert und die neue Summe sind jeweils genau eins größer oder jeweils genau eins kleiner. Die Ableitung vom bekannten Ergebnis ist erkennbar; zwei unabhängig berechnete Ergebnisse allein genügen nicht. Alle ursprünglichen und veränderten Startwerte, Summanden, Summen und relevanten Zwischen-/Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Beim Erhöhen ist die ursprüngliche Summe höchstens99; beim Vermindern ist der ursprüngliche Startwert mindestens1. Keine ganze Ketten- oder Folgenuntersuchung.",
+          "status": "Didaktische Konkretisierung des Nachbaraufgabenbelegs35485; erste Summandenrolle und beide Änderungsrichtungen ausgewählt. Die Zulässigkeitsbedingungen folgen aus der belegten Grenze100.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 ist diesem Ziel untergeordnet; die100 werden nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie ganze Folgen, beliebige Startänderungen und weiterführende Strukturregeln sind nicht abgedeckt.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187201 verbindlicher Formatunterpunkt unter187199/Übertragen2064. Zahlenketten sind Bemerkungsbeispiel; lokaler Additionsübergang und Startwertvariation didaktisch.187200 wird nicht als durch diese Karte abgedeckt gezählt.",
+        "fsp": "35485 verbindlicher Lösungswege-Unterpunkt unter35479/Übertragen35470. Nachbaraufgaben stehen in der Bemerkung; Rollenwahl und Änderung um eins sind didaktische Konkretisierung.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ],
+        "fsp_remark_anchor": "page139_35485"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 ausdrücklich im zugehörigen Rechenziel; lokale Nachbarbeziehung didaktisch konkretisiert.",
+        "detail": "35479 nennt Addieren/Subtrahieren bis100;35485 mit der Bemerkung Nachbaraufgaben steht darunter. Die Grenze ist zielzeilenbezogen, keine Ableitung aus35415. Der ausgewählte Additionsfall mit festem Zuwachs und Startwertänderung um eins ist didaktisch. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35485"
+        ],
+        "planning_rule": "Alle ursprünglichen und veränderten Startwerte, der feste Zuwachs, beide Summen, die Änderung um eins sowie alle relevanten Zwischen- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Beim Erhöhen liegen ursprünglicher Startwert und ursprüngliche Summe höchstens bei99, beim Vermindern liegt der ursprüngliche Startwert mindestens bei1. Dies sind didaktisch aus der erlaubten Veränderung folgende Zulässigkeitsbedingungen, keine neuen amtlichen Zahlenraumgrenzen. Kein Überschreiten mit späterem Ausgleich. Ganze Anzahlen ohne Einheiten, Dezimalbrüche oder Umrechnungen. Eine Addition und ihre Summe sind bekannt. Der erste Summand wird als lokaler Startwert gedeutet, der zweite Summand bleibt derselbe bekannte nichtnegative Zuwachs. Die Änderung des Startwerts um genau eins nach oben oder unten ist bekannt. Beide Additionen gehören zu vergleichbaren Kontexten; auf FSP-Seite bleibt der Lebensweltbezug aus35470 Voraussetzung. Die Lehrkraft prüft, dass Ausgangs- und Nachbarbeziehung innerhalb des Zahlenrahmens ausführbar sind. Der bekannte Ergebnisbezug wird genutzt; bloßes voneinander unabhängiges Neuberechnen belegt das Ableiten noch nicht. 35485 nennt Nachbaraufgaben ohne vorgeschriebene Summandenrolle, Änderungsrichtung oder Kettendarstellung. Der lokale Fall ist deshalb didaktisch ausgewählt; keine amtlich wörtlich vorgeschriebene Kettenregel. Aus dem Einzelschritt folgt noch keine geprüfte vollständige Veränderungsstrategie für ganze gemischte Ketten. Verändern des Zuwachses, gleichzeitige Änderung beider Summanden, beliebige Änderungsbeträge, Subtraktionsnachbarn und unbekannte Regeln sind durch diese Karte nicht abgedeckt. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
       ]
     }
   ]

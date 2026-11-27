@@ -52,3 +52,8 @@ Gegenprüfung der vier Vorzeichenfälle für M20/M100 bestanden. Keine Änderung
 ## Fortsetzung MA-143
 
 GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.
+
+
+## Fortsetzung MA-144
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.

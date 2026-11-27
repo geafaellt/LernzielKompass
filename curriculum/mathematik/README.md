@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-143
+# Mathematik-Abgleich · MA-144
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhunderteinunddreißig Karten dokumentieren begrenzte Anschlüsse. Einhundertzwei liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertzweiunddreißig Karten dokumentieren begrenzte Anschlüsse. Einhundertdrei liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängigkeiten in bekannten additiven/subtraktiven Ketten prüfen; Bezug zu187199/187200 getrennt halten. MA-143 ergänztMA-131 für eine passende Belegung zweier unbekannter Operanden und des Zwischenwerts bei bekannten Zeichen. GS Übertragen1000 ausdrücklich/FSP Kennen im gewähltenWahlbereich2,100 didaktisch aus35415. Weiterführende gekoppelte Strukturen,Vollständigkeits-/Eindeutigkeitsansprüche sowie Mauer-/Dreiecksfragen bleiben getrennt offen.131 Karten,102 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-143](review_batch_143.json).
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-144](review_batch_144.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1770,3 +1770,16 @@ Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. GS bis 1 000 ausdrücklich
 Die Kettenfrage ausMA-142 ist für eine zulässige Belegung bei zwei bekannten Zeichen begrenzt geklärt; weitere gekoppelte Strukturen und weiterführende Begründungsansprüche bleiben offen. Keine neue Erstprüfung187201,keine ganze Nichtanschlussentscheidung.27 dokumentierte Anschlussfragen bleiben erhalten; die Kettenfrage wird präzisiert, nicht doppelt gezählt. Prüf- und Veröffentlichungsnachweise siehe Prüfpaket.
 
 MA-143: Sechs Datenprüfungen bestanden; gezielte Kartenprüfung mitMA-131 und vollständige Ebenenanzeigeprüfung aller444 Karten/888 Seiten lokal bestanden.130 Bestandskarten,443 bisherige Ebeneneinträge undDeutschdateien unverändert. MA-143: App1.444 veröffentlicht mit Commit78dd83617571e31c3ddb75facab81844ff7325a6. Pages-Lauf46007672088 erfolgreich; Live-Datei bytegleich (5.793.813 Bytes, SHA256 4d2cabc0cf6829c8cc7ac6748ab1bd7c5efe95a208474083f0f884eea01f9e37). Sechs Datenprüfungen sowie gezielte Kartenprüfung und Ebenenanzeigeprüfung444/888 lokal und live bestanden. Keine neue vollständige Funktions-/Fachprüfung aller131 Mathematikkarten. Beide amtlichen HTML-Quellen erreichbar,gespeicherte PDFs textuell geprüft;kein neuerPDF-Download/Rendernachweis. Deutsch bleibt abgeschlossen.
+
+
+## MA-144 · Lokale additive Startwertvariation · App1.445
+
+GS3 strukturierte Aufgabenformate187201 werden für eine lokale Startwertvariation in einem einzelnen bekannten Additionsübergang begrenzt geprüft. Der Zuwachs bleibt unverändert; der Startwert wird um genau eins erhöht oder vermindert. Die neue Summe verändert sich entsprechend um genau eins und wird aus der bekannten Summe abgeleitet. FSP3/4 nennt Nachbaraufgaben in der Bemerkung35485 unter dem Rechenziel35479/Übertragen35470. Die Auswahl des ersten Summanden als Startwert, der Änderung um eins in beiden Richtungen und des lokalen Kettenausschnitts ist eine didaktische Konkretisierung dieses Nachbarbezugs.
+
+Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 ist diesem Ziel untergeordnet; die100 werden nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie ganze Folgen, beliebige Startänderungen und weiterführende Strukturregeln sind nicht abgedeckt.
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. Prüf- und Veröffentlichungsnachweise siehe Prüfpaket.
+
+MA-144: Sechs Datenprüfungen bestanden; gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal bestanden.131 Bestandskarten undDeutsch unverändert. Veröffentlichung undLiveprüfung noch ausstehend.
