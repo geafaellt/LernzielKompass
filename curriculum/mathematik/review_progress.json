@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.445: sechsDatenprüfungen,gezielteKartenprüfungundEbenenanzeige445/890lokalbestanden;VeröffentlichungundLiveprüfungausstehend.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.445 auf main veröffentlicht; Pages46009218580 erfolgreich,Live-Appbytegleich,sechsDatenprüfungenundgezielteKarten-/Ebenenprüfung445/890lokal/livebestanden. BeideamtlichenHTML-Quellenerreichbar;gespeichertePDFstextuellgeprüft,keinneuerDownload/Rendernachweis. Kein neuer vollständigerMathematik-Funktionslauf.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6368,8 +6368,19 @@
   },
   "latest_publication": {
     "batch": "MA-144",
-    "status": "pending",
+    "status": "published_verified",
+    "commit": "ca5ad725e9565f8ccb063b1bec8e1bd624dd57e2",
+    "tree": "71a9f52fee38fb65ab54d6b1b5b73e6513bde5b7",
+    "html_blob": "e7bcc50ae521da484648f6eaa506e3cb57d51078",
     "app_version": "1.445",
+    "pages_run": 46009218580,
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/?v=1.445-ma144",
+    "live_byte_equal": true,
+    "bytes": 5805824,
+    "sha256": "6374bee5cf15af069928578db8129b4d54bacbdcef7cecd79eeed62c5ce358bb",
+    "checked_at": "2026-11-27T13:43:10.903874+00:00",
+    "browser": "Gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden; kein neuer vollständiger Mathematik-Funktionslauf.",
     "previous_publication": {
       "batch": "MA-143",
       "status": "published_verified",
@@ -7031,7 +7042,9 @@
   },
   "latest_audit_publication": {
     "batch": "MA-144",
-    "status": "pending"
+    "status": "recorded_in_this_commit",
+    "app_commit": "ca5ad725e9565f8ccb063b1bec8e1bd624dd57e2",
+    "note": "Dieser Nachweiscommit ergänzt nur Prüf- und Veröffentlichungsdokumentation; HTML und fachliche Daten unverändert."
   },
   "continuation_correction": {
     "batch": "MA-067",
