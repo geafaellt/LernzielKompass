@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.437** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.438** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -330,3 +330,8 @@ Mathematik MA-135: GS3 Zahlenketten im Bemerkungsformat187201: Genau ein subtrak
 
 
 MA-135 veröffentlicht: App1.437, Commit `cab968b04aff6d8c40756e36225104359ad6642b`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45884890671). Live-App bytegleich, SHA-256 `749c920e7adc8bb28660525385bcaa752249b3507df26f3beede5d39f01b259d`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/123/125/126/127 und Ebenenprüfung440 Karten/880 Seiten lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf, keine UI-Funktionsänderung.127 Karten,98 stufenbandpassend,29 stufenübergreifend;26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. MA-127 belegt den lokalen fehlenden Minuenden vor einem subtraktiven Übergang, einschließlich Begrenzung der rekonstruierenden Summe. Nächster Schritt: mehrschrittige additive/subtraktive Ketten187201. Deutsch-Abschluss unverändert; kein Gesamtabschluss.
+
+
+## Mathematik MA-136 · App 1.438
+
+128 Karten,99 stufengleich,29 stufenübergreifend;26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. NeueMA-128: bekannte zweischrittige gemischte Vorwärtskette; GS Übertragen/FSP Einblick gewinnen. GS bis1000 ausdrücklich, FSP bis100 didaktisch abgeleitet; alle Zwischen-/Endwerte begrenzt. Rückwärtsketten bleiben offen. Deutsch abgeschlossen. Sechs Datenprüfungen bestanden. Gezielte BrowserprüfungMA-120/122/125/126/127/128 einschließlich Regressionen und Ebenenprüfung441 Karten/882 Seiten lokal bestanden. Kein neuer vollständiger Mathematik-Funktionslauf; Veröffentlichung und Live-Prüfung noch ausstehend.

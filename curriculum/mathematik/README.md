@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-135
+# Mathematik-Abgleich · MA-136
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertsiebenundzwanzig Karten dokumentieren begrenzte Anschlüsse. Achtundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertachtundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-Fortsetzung innerhalb GS3 strukturierte Aufgabenformate187201: mehrschrittige additive/subtraktive Ketten, vorwärts und rückwärts getrennt. [MA-135](review_batch_135.json) ergänztMA-127 für den lokalen fehlenden Minuenden.127 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.
+GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärtsketten und Umkehrreihenfolge, zunächst zwei bekannte additive/subtraktive Übergänge;35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. Mehr als zwei gemischte Vorwärtsschritte sowie unbekannte Übergangsgrößen/Regeln bleiben gesichert offen. MA-136 ergänztMA-128 für genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext; GS Übertragen1000 ausdrücklich/FSP Einblick gewinnen100 didaktisch aus35415.128 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-136](review_batch_136.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1666,3 +1666,18 @@ Sechs Datenprüfungen, gezielte Kartentests und Ebenenprüfung440/880 lokal und 
 
 
 MA-135 veröffentlicht: App1.437, Commit `cab968b04aff6d8c40756e36225104359ad6642b`, [erfolgreicher Pages-Lauf](https://github.com/geafaellt/LernzielKompass/actions/runs/45884890671). Live-App bytegleich, SHA-256 `749c920e7adc8bb28660525385bcaa752249b3507df26f3beede5d39f01b259d`. Sechs Datenprüfungen, gezielte MathematikprüfungMA-034/123/125/126/127 und Ebenenprüfung440 Karten/880 Seiten lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf, keine UI-Funktionsänderung.127 Karten,98 stufenbandpassend,29 stufenübergreifend;26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. MA-127 belegt den lokalen fehlenden Minuenden vor einem subtraktiven Übergang, einschließlich Begrenzung der rekonstruierenden Summe. Nächster Schritt: mehrschrittige additive/subtraktive Ketten187201. Deutsch-Abschluss unverändert; kein Gesamtabschluss.
+
+
+## MA-136 · App 1.438 · 27.11.2026
+
+GS3 strukturierte Aufgabenformate187201 unter Musterziel187199: eine vorwärts gerichtete Kette aus genau einer Addition und einer Subtraktion in bekannter Reihenfolge. Das Ergebnis des ersten Übergangs ist Ausgangszahl des zweiten. FSP3/4-35509 belegt mathematisches Darstellen; die Bemerkung nennt Kettenaufgaben. Hauptziel35504 begrenzt den Sachkontext in der Bemerkung auf bis zu zwei Rechenschritte. Ausgewählt wird die Darstellung einer solchen Ergebnisverknüpfung in einem verständlichen lebensnahen Sachverhalt, keine allgemeine Strukturuntersuchung. Genau zwei Schritte und die gemischte Operationswahl sind didaktische Konkretisierungen.
+
+Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Die Definitionstabellen beider Pläne S.V/PDF5 unterscheiden die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten von grundlegender Orientierung ohne tiefere Reflexion. Erkennen, Beschreiben, Fortsetzen und Darstellen sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 aus dem benachbarten Rechenblock gilt nicht für35509; aus Darstellen wird weder Anwenden noch Beherrschen.
+
+GS-Zahlenraum bis 1 000 ausdrücklich aus2064. FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel35415 des Stufenbands3/4 abgeleitet;35504/35509 nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Muster-/Formatanspruch bleiben außerhalb. Der kleinere FSP-Rahmen allein ist kein Ausschlussgrund.
+
+MA-120: Teilschritte innerhalb einer Rechnung, beide Übertragen und FSP ausdrücklich bis100. MA-122: Abwägen zweier Lösungsvarianten unterEinblick gewinnen35504 mit didaktisch abgeleiteten100; zwei Varianten sind nicht zwei verkettete Schritte. MA-125: ausschließlich additive Einspluseins-Verknüpfung unterÜbertragen35470, ausdrücklich20 und didaktisch einstellige Summanden. MA-126/127: je ein lokaler Rückwärtsübergang unterÜbertragen35470, ausdrücklich100. MA-128 verbindet dagegen eine Addition mit einer Subtraktion vorwärts und wählt den Darstellungsaspekt35509 unterEinblick gewinnen. Alle127 Bestandskarten und440 vorhandenen Ebeneneinträge bleiben unverändert; ihre eigenen Quellen und Zahlenräume werden nicht vereinheitlicht.
+
+187201 bleibt begrenzt geprüft. Neu geklärt ist die vorwärts gerichtete Ergebnisverknüpfung zweier bekannter gemischter Schritte im Sachkontext. Mehrschrittige Rückwärtsketten einschließlich Umkehrreihenfolge, mehr als zwei gemischte Vorwärtsschritte, unbekannte Übergangsgrößen, selbstständig zu entdeckende Regeln und weiterführende Strukturbeziehungen bleiben offen. Zielzahlmauern und gekoppelte Dreiecksbeziehungen bleiben in den26 bestehenden Anschlussfragen. Keine erneute Erstprüfung187201, keine neue Frage doppelt gezählt und keine ganze Nichtanschlussentscheidung.
+
+Sechs Datenprüfungen bestanden. Gezielte BrowserprüfungMA-120/122/125/126/127/128 einschließlich Regressionen und Ebenenprüfung441 Karten/882 Seiten lokal bestanden. Kein neuer vollständiger Mathematik-Funktionslauf; Veröffentlichung und Live-Prüfung noch ausstehend.

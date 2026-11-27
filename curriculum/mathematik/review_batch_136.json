@@ -1,0 +1,287 @@
+{
+  "id": "MA-136",
+  "date": "2026-11-27",
+  "base_commit": "e0d93428704141505e20eff86fa7febe9ccffac0",
+  "scope": "GS3 strukturierte Aufgabenformate187201: genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext.",
+  "source_verification": {
+    "html": "Amtliche GS912 und FSP139 online erneut gelesen:2064/187199/187201,35470/35475/35479/35485,35504/35509 und38021/38037 sowie übergreifendes Bandziel35415.",
+    "pdf": "Gespeicherte amtliche PDFs erneut textuell gelesen: beide DefinitionenS.V/PDF5;GS S.22–23/PDF32–33;FSP S.16–17/PDF28–29,S.21/PDF33,S.23/PDF35. Kein neuer Download und keine neue Renderprüfung. FSP S.12/PDF24 zu37863/37866/37885 ebenfalls erneut textuell gelesen.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "parent_target_id": "page912_2064",
+      "grade": "3",
+      "operator": "Übertragen"
+    },
+    {
+      "id": "page912_187199",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "parent_target_id": "page912_2064",
+      "grade": "3",
+      "operator": ""
+    },
+    {
+      "id": "page912_187201",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern mit vorgegebener Zielzahl, Zahlenketten, Rechendreiecke ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201",
+      "parent_target_id": "page912_2064",
+      "grade": "3",
+      "operator": ""
+    },
+    {
+      "id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "parent_target_id": "page139_35504",
+      "grade": "3/4",
+      "operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35509",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "parent_target_id": "page139_35504",
+      "grade": "3/4",
+      "operator": ""
+    },
+    {
+      "id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "parent_target_id": "page139_38021",
+      "grade": "1/2",
+      "operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_38037",
+      "target": "Lösen durch Skizze",
+      "remarks": "Strichliste, Bündelung, Schritte an der Geraden, 8 + 3 + 5 – 2 = 14",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38037",
+      "parent_target_id": "page139_38021"
+    },
+    {
+      "id": "page139_35485",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "parent_target_id": "page139_35470",
+      "grade": "3/4",
+      "operator": ""
+    },
+    {
+      "id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "parent_target_id": "page139_35571"
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187201",
+      "first_review": false,
+      "status": "limited_connection",
+      "card": "MA-128",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199: eine vorwärts gerichtete Kette aus genau einer Addition und einer Subtraktion in bekannter Reihenfolge. Das Ergebnis des ersten Übergangs ist Ausgangszahl des zweiten. FSP3/4-35509 belegt mathematisches Darstellen; die Bemerkung nennt Kettenaufgaben. Hauptziel35504 begrenzt den Sachkontext in der Bemerkung auf bis zu zwei Rechenschritte. Ausgewählt wird die Darstellung einer solchen Ergebnisverknüpfung in einem verständlichen lebensnahen Sachverhalt, keine allgemeine Strukturuntersuchung. Genau zwei Schritte und die gemischte Operationswahl sind didaktische Konkretisierungen.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Die Definitionstabellen beider Pläne S.V/PDF5 unterscheiden die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten von grundlegender Orientierung ohne tiefere Reflexion. Erkennen, Beschreiben, Fortsetzen und Darstellen sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 aus dem benachbarten Rechenblock gilt nicht für35509; aus Darstellen wird weder Anwenden noch Beherrschen.",
+      "number_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus übergreifendem Bandziel abgeleitet; genau zwei bekannte Schritte: eine Addition und eine Subtraktion.",
+        "detail": "35504/35509 nennen keine eigene Obergrenze. Der didaktische Rahmen für ganze Anzahlen bis 100 stammt aus dem übergreifenden Operationsziel35415, keine amtliche Höchstgrenze sämtlicher Sachverhalte. Bis zu zwei Rechenschritte stehen in der Bemerkung35504; genau zwei gemischte Schritte sind die didaktische Auswahl. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35504",
+          "Q-MA-page139_35509",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "FSP: alle Ausgangszahlen, Operanden, Teilbeträge und relevanten Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Anzahlen bis 100 einschließlich100. Ein Endwert innerhalb100 rechtfertigt kein zwischenzeitliches Überschreiten. Auch der Minuend und die entstehende Summe bleiben innerhalb100; kein negatives Subtraktionsergebnis. GS entsprechend bis1 000. Die bekannte Reihenfolge bleibt erhalten; das erste Ergebnis ist Ausgangszahl des zweiten Schritts. Genau eine Addition und eine Subtraktion bilden zusammen genau zwei tatsächliche Rechenschritte des Sachverhalts. Keine zusätzlichen sachlich erforderlichen Operationen in einem Übergang verbergen; auch interne Rechenteilwerte bleiben begrenzt. Startwert, beide Operanden, Operationszeichen und Reihenfolge sind bekannt. Der Sachbezug zu ganzen Anzahlen ist verständlich; die beiden Übergänge entsprechen zusammen genau zwei tatsächlichen Rechenschritten. Das erste Ergebnis wird unverändert im zweiten Übergang weiterverwendet. GS beschreibt diese Abhängigkeit in einem vergleichbaren Kontext. FSP gewinnt grundlegende Orientierung über die mathematische Darstellung; selbstständige Regelentdeckung oder vertiefte Reflexion werden nicht verlangt. Unterstützung legt die Lehrkraft individuell fest. Maßzahlen mit Einheiten, Dezimalzahlen, Umrechnungen, Multiplikation und Division gehören nicht zu diesem Ausschnitt. Rückwärtsketten, freie Regelentdeckung und Notationsvergleiche sind nicht abgedeckt. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "prerequisites": "Startwert, beide Operanden, Operationszeichen und Reihenfolge sind bekannt. Der Sachbezug zu ganzen Anzahlen ist verständlich; die beiden Übergänge entsprechen zusammen genau zwei tatsächlichen Rechenschritten. Das erste Ergebnis wird unverändert im zweiten Übergang weiterverwendet. GS beschreibt diese Abhängigkeit in einem vergleichbaren Kontext. FSP gewinnt grundlegende Orientierung über die mathematische Darstellung; selbstständige Regelentdeckung oder vertiefte Reflexion werden nicht verlangt. Unterstützung legt die Lehrkraft individuell fest.",
+      "uncertainty": "Zahlenketten187201 und Kettenaufgabe35509 sind Bemerkungsbeispiele, keine vollständig gleichgesetzten Zielzeilen. Die Quellen schreiben keine einheitliche Kettennotation vor. Genau eine Addition und eine Subtraktion sind didaktisch ausgewählt; GS verlangt an dieser Stelle keine feste Kettenlänge. Die erste und zweite Operation dürfen nicht beliebig vertauscht werden. Zwei dargestellte Übergänge dürfen keine weiteren sachlich nötigen Rechenschritte verbergen. Der Teil Darstellen wird aus35509 ausgewählt, die ebenfalls genannte Variantenabwägung nicht als mitgeprüft ausgegeben.",
+      "remaining_scope": "187201 bleibt begrenzt geprüft. Neu geklärt ist die vorwärts gerichtete Ergebnisverknüpfung zweier bekannter gemischter Schritte im Sachkontext. Mehrschrittige Rückwärtsketten einschließlich Umkehrreihenfolge, mehr als zwei gemischte Vorwärtsschritte, unbekannte Übergangsgrößen, selbstständig zu entdeckende Regeln und weiterführende Strukturbeziehungen bleiben offen. Zielzahlmauern und gekoppelte Dreiecksbeziehungen bleiben in den26 bestehenden Anschlussfragen. Keine erneute Erstprüfung187201, keine neue Frage doppelt gezählt und keine ganze Nichtanschlussentscheidung."
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199"
+  ],
+  "band_selection": "FSP1/2:37863/37866 unterEinblick gewinnen37851 stützen Addition/Subtraktion und Platzhalter;37885 belegt den Umkehrbezug bis20.38021 ist ein eigenes Hauptziel Einblick gewinnen im Wahlbereich4;38037 nennt eine gemischte Vorwärtskette ausdrücklich als Bemerkung. Dies ist ein positiver vorbereitender Kandidat, kein Ausschluss wegen des kleineren Zahlenraums;20 wäre dort didaktisch aus37739 abzuleiten. Anwenden38017 wird nicht auf38021/38037 übertragen. FSP3/4:35475 stützt Einspluseins-Ketten bis20;35479/35485 bis100 betreffen Addieren/Subtrahieren und Teilschritte beziehungsweise Umkehrbezüge. Die Teilschrittbeispiele zerlegen eine vorhandene Operation und sind kein pauschaler Beleg jeder gemischten Kette.35504/35509 verbinden den konkreten Kettenbeleg mit mathematischem Darstellen eines Sachverhalts und bis zu zwei Rechenschritten. Dieser stufenbandpassende Pflichtbereich wird für die vorliegende Zweischrittkette bevorzugt.35577/35578/35580 unterKennen35571 im Wahlbereich2 bleiben allgemeine Strategiekandidaten, kein automatischer Nachweis ganzer Rückwärtsketten. Beide Stufenbänder bleiben gebündelt.",
+  "existing_cards_rechecked": [
+    "MA-120",
+    "MA-122",
+    "MA-125",
+    "MA-126",
+    "MA-127"
+  ],
+  "existing_card_review": "MA-120: Teilschritte innerhalb einer Rechnung, beide Übertragen und FSP ausdrücklich bis100. MA-122: Abwägen zweier Lösungsvarianten unterEinblick gewinnen35504 mit didaktisch abgeleiteten100; zwei Varianten sind nicht zwei verkettete Schritte. MA-125: ausschließlich additive Einspluseins-Verknüpfung unterÜbertragen35470, ausdrücklich20 und didaktisch einstellige Summanden. MA-126/127: je ein lokaler Rückwärtsübergang unterÜbertragen35470, ausdrücklich100. MA-128 verbindet dagegen eine Addition mit einer Subtraktion vorwärts und wählt den Darstellungsaspekt35509 unterEinblick gewinnen. Alle127 Bestandskarten und440 vorhandenen Ebeneneinträge bleiben unverändert; ihre eigenen Quellen und Zahlenräume werden nicht vereinheitlicht.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards_total": 128,
+    "same_band": 99,
+    "cross_band": 29,
+    "open_questions_total": 26,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 300,
+    "target_anchors": 298
+  },
+  "new_card": {
+    "id": "MA-128",
+    "subject": "Mathematik",
+    "theme": "Zwei gemischte Kettenschritte vorwärts · GS 3",
+    "app_area": "MA-page912_1999",
+    "status": "Begrenzter Anschluss · unterschiedliche Lernzielebenen",
+    "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter Musterziel187199 und Übertragen2064 bis1 000",
+    "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · mathematisches Darstellen35509 unter Einblick gewinnen35504 · Lernbereich3 Natur entdecken und erleben",
+    "gs_operator": "Übertragen",
+    "fsp_operator": "Einblick gewinnen",
+    "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Die Definitionstabellen beider Pläne S.V/PDF5 unterscheiden die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten von grundlegender Orientierung ohne tiefere Reflexion. Erkennen, Beschreiben, Fortsetzen und Darstellen sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 aus dem benachbarten Rechenblock gilt nicht für35509; aus Darstellen wird weder Anwenden noch Beherrschen. GS3 strukturierte Aufgabenformate187201 unter Musterziel187199: eine vorwärts gerichtete Kette aus genau einer Addition und einer Subtraktion in bekannter Reihenfolge. Das Ergebnis des ersten Übergangs ist Ausgangszahl des zweiten. FSP3/4-35509 belegt mathematisches Darstellen; die Bemerkung nennt Kettenaufgaben. Hauptziel35504 begrenzt den Sachkontext in der Bemerkung auf bis zu zwei Rechenschritte. Ausgewählt wird die Darstellung einer solchen Ergebnisverknüpfung in einem verständlichen lebensnahen Sachverhalt, keine allgemeine Strukturuntersuchung. Genau zwei Schritte und die gemischte Operationswahl sind didaktische Konkretisierungen. GS-Zahlenraum bis 1 000 ausdrücklich aus2064. FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel35415 des Stufenbands3/4 abgeleitet;35504/35509 nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Muster-/Formatanspruch bleiben außerhalb. Der kleinere FSP-Rahmen allein ist kein Ausschlussgrund.",
+    "gs_target_ids": [
+      "page912_2064",
+      "page912_187199",
+      "page912_187201"
+    ],
+    "fsp_target_ids": [
+      "page139_35504",
+      "page139_35509"
+    ],
+    "context_source_ids": [
+      "Q-MA-page139_35415"
+    ],
+    "stage_alignment": {
+      "gs_anchor_grade": "3",
+      "gs_curriculum_band": "3/4",
+      "fsp_curriculum_bands": [
+        "3/4"
+      ],
+      "relation": "same-band"
+    },
+    "content_review_required": true,
+    "app_review_message": "GS3 strukturierte Aufgabenformate187201 unter Musterziel187199: eine vorwärts gerichtete Kette aus genau einer Addition und einer Subtraktion in bekannter Reihenfolge. Das Ergebnis des ersten Übergangs ist Ausgangszahl des zweiten. FSP3/4-35509 belegt mathematisches Darstellen; die Bemerkung nennt Kettenaufgaben. Hauptziel35504 begrenzt den Sachkontext in der Bemerkung auf bis zu zwei Rechenschritte. Ausgewählt wird die Darstellung einer solchen Ergebnisverknüpfung in einem verständlichen lebensnahen Sachverhalt, keine allgemeine Strukturuntersuchung. Genau zwei Schritte und die gemischte Operationswahl sind didaktische Konkretisierungen. Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Einblick gewinnen aus35504. Die Definitionstabellen beider Pläne S.V/PDF5 unterscheiden die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten von grundlegender Orientierung ohne tiefere Reflexion. Erkennen, Beschreiben, Fortsetzen und Darstellen sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 aus dem benachbarten Rechenblock gilt nicht für35509; aus Darstellen wird weder Anwenden noch Beherrschen. GS-Zahlenraum bis 1 000 ausdrücklich aus2064. FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel35415 des Stufenbands3/4 abgeleitet;35504/35509 nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Muster-/Formatanspruch bleiben außerhalb. Der kleinere FSP-Rahmen allein ist kein Ausschlussgrund. Startwert, beide Operanden, Operationszeichen und Reihenfolge sind bekannt. Der Sachbezug zu ganzen Anzahlen ist verständlich; die beiden Übergänge entsprechen zusammen genau zwei tatsächlichen Rechenschritten. Das erste Ergebnis wird unverändert im zweiten Übergang weiterverwendet. GS beschreibt diese Abhängigkeit in einem vergleichbaren Kontext. FSP gewinnt grundlegende Orientierung über die mathematische Darstellung; selbstständige Regelentdeckung oder vertiefte Reflexion werden nicht verlangt. Unterstützung legt die Lehrkraft individuell fest. Zahlenketten187201 und Kettenaufgabe35509 sind Bemerkungsbeispiele, keine vollständig gleichgesetzten Zielzeilen. Die Quellen schreiben keine einheitliche Kettennotation vor. Genau eine Addition und eine Subtraktion sind didaktisch ausgewählt; GS verlangt an dieser Stelle keine feste Kettenlänge. Die erste und zweite Operation dürfen nicht beliebig vertauscht werden. Zwei dargestellte Übergänge dürfen keine weiteren sachlich nötigen Rechenschritte verbergen. Der Teil Darstellen wird aus35509 ausgewählt, die ebenfalls genannte Variantenabwägung nicht als mitgeprüft ausgegeben. 187201 bleibt begrenzt geprüft. Neu geklärt ist die vorwärts gerichtete Ergebnisverknüpfung zweier bekannter gemischter Schritte im Sachkontext. Mehrschrittige Rückwärtsketten einschließlich Umkehrreihenfolge, mehr als zwei gemischte Vorwärtsschritte, unbekannte Übergangsgrößen, selbstständig zu entdeckende Regeln und weiterführende Strukturbeziehungen bleiben offen. Zielzahlmauern und gekoppelte Dreiecksbeziehungen bleiben in den26 bestehenden Anschlussfragen. Keine erneute Erstprüfung187201, keine neue Frage doppelt gezählt und keine ganze Nichtanschlussentscheidung.",
+    "shared_object_suggestion": "Die Abhängigkeit zweier aufeinanderfolgender Rechenschritte: Das erste Ergebnis ist Ausgangszahl des zweiten Schritts; eine Addition und eine Subtraktion in bekannter Reihenfolge.",
+    "fine_goals": [
+      {
+        "track": "Grundschule",
+        "goal": "Das Kind überträgt bekannte Additions- und Subtraktionsbeziehungen auf eine vergleichbare Zahlenkette mit zwei vorwärts gerichteten Schritten im Zahlenraum bis 1 000 und beschreibt die Abhängigkeit beider Schritte.",
+        "criterion": "Die bekannte Reihenfolge aus genau einer Addition und einer Subtraktion bleibt erhalten. Das erste Ergebnis ist korrekt als Ausgangszahl des zweiten Schritts zugeordnet; beide Übergänge und der Endwert stimmen. Die Ergebnisverknüpfung wird verständlich beschrieben. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 1 000. Eine richtige Endzahl allein genügt nicht.",
+        "status": "Didaktische Konkretisierung: genau zwei bekannte gemischte Vorwärtsschritte; keine vollständige Untersuchung des Formats."
+      },
+      {
+        "track": "FSP Lernen",
+        "goal": "Das Kind gewinnt grundlegende Orientierung über die mathematische Darstellung eines lebensnahen Sachverhalts durch zwei bekannte aufeinanderfolgende Rechenschritte, eine Addition und eine Subtraktion, im Zahlenraum bis 100.",
+        "criterion": "Die bekannte Reihenfolge und die Zuordnung des ersten Ergebnisses als Ausgangszahl des zweiten Schritts sind in der Darstellung erkennbar; beide Übergänge und der Endwert stimmen zum Sachverhalt. Alle Ausgangszahlen, Operanden, Teilbeträge sowie relevanten Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100. Ein kleinerer Endwert gleicht keine Überschreitung im Zwischenwert aus. Grundlegende Orientierung genügt; eigenständige Regelentdeckung, vertiefte Reflexion oder Transfer in unbekannte Kontexte werden nicht verlangt.",
+        "status": "Didaktische Konkretisierung des Einblicks: zwei bekannte gemischte Vorwärtsschritte im Sachkontext; Unterstützung individuell festzulegen.",
+        "scope_status": "derived",
+        "range_max": 100
+      }
+    ],
+    "number_range_alignment": {
+      "relation": "reduced-fsp",
+      "gs_max": 1000,
+      "fsp_max": 100,
+      "gs_source_id": "page912_2064",
+      "fsp_source_id": "page139_35415",
+      "fsp_basis": "stage_goal_context",
+      "notice": "GS-Zahlenraum bis 1 000 ausdrücklich aus2064. FSP-Planungsrahmen bis 100 didaktisch aus dem übergreifenden Operationsziel35415 des Stufenbands3/4 abgeleitet;35504/35509 nennen keine eigene Obergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie der umfassende Muster-/Formatanspruch bleiben außerhalb. Der kleinere FSP-Rahmen allein ist kein Ausschlussgrund.",
+      "full_gs_goal_covered": false
+    },
+    "evidence_classification": {
+      "gs": "187201 verbindlicher Unterpunkt von187199 (Erkennen, Beschreiben und Fortsetzen arithmetischer Muster); Zahlenketten sind Bemerkungsbeispiel.2064 liefert Übertragen und bis1 000. Beide übergeordneten Zeilen dienen hier als Kontext, kein vollständiger Zielnachweis.",
+      "fsp": "35509 verbindliches Unterziel unterEinblick gewinnen35504; ausgewählt ist mathematisches Darstellen. Kettenaufgabe und bis zu zwei Rechenschritte sind Bemerkungen.35415 ist übergreifender Zahlenraumkontext, keine eigene Obergrenze35509.",
+      "context_only_gs_ids": [
+        "page912_2064",
+        "page912_187199"
+      ],
+      "fsp_remark_anchor": "page139_35504"
+    },
+    "fsp_scope": {
+      "status": "derived",
+      "summary": "Bis 100 · didaktisch aus übergreifendem Bandziel abgeleitet; genau zwei bekannte Schritte: eine Addition und eine Subtraktion.",
+      "detail": "35504/35509 nennen keine eigene Obergrenze. Der didaktische Rahmen für ganze Anzahlen bis 100 stammt aus dem übergreifenden Operationsziel35415, keine amtliche Höchstgrenze sämtlicher Sachverhalte. Bis zu zwei Rechenschritte stehen in der Bemerkung35504; genau zwei gemischte Schritte sind die didaktische Auswahl. GS2064 ausdrücklich bis1 000.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35504",
+        "Q-MA-page139_35509",
+        "Q-MA-page139_35415"
+      ],
+      "planning_rule": "FSP: alle Ausgangszahlen, Operanden, Teilbeträge und relevanten Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Anzahlen bis 100 einschließlich100. Ein Endwert innerhalb100 rechtfertigt kein zwischenzeitliches Überschreiten. Auch der Minuend und die entstehende Summe bleiben innerhalb100; kein negatives Subtraktionsergebnis. GS entsprechend bis1 000. Die bekannte Reihenfolge bleibt erhalten; das erste Ergebnis ist Ausgangszahl des zweiten Schritts. Genau eine Addition und eine Subtraktion bilden zusammen genau zwei tatsächliche Rechenschritte des Sachverhalts. Keine zusätzlichen sachlich erforderlichen Operationen in einem Übergang verbergen; auch interne Rechenteilwerte bleiben begrenzt. Startwert, beide Operanden, Operationszeichen und Reihenfolge sind bekannt. Der Sachbezug zu ganzen Anzahlen ist verständlich; die beiden Übergänge entsprechen zusammen genau zwei tatsächlichen Rechenschritten. Das erste Ergebnis wird unverändert im zweiten Übergang weiterverwendet. GS beschreibt diese Abhängigkeit in einem vergleichbaren Kontext. FSP gewinnt grundlegende Orientierung über die mathematische Darstellung; selbstständige Regelentdeckung oder vertiefte Reflexion werden nicht verlangt. Unterstützung legt die Lehrkraft individuell fest. Maßzahlen mit Einheiten, Dezimalzahlen, Umrechnungen, Multiplikation und Division gehören nicht zu diesem Ausschnitt. Rückwärtsketten, freie Regelentdeckung und Notationsvergleiche sind nicht abgedeckt. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+    },
+    "source_ids": [
+      "Q-MA-page912_2064",
+      "Q-MA-page912_187199",
+      "Q-MA-page912_187201",
+      "Q-MA-page139_35504",
+      "Q-MA-page139_35509",
+      "Q-MA-page139_35415"
+    ]
+  },
+  "tests": {
+    "status": "local_targeted_and_levels_passed",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-27\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 128 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 128 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-120/MA-122/MA-125/MA-126/MA-127/MA-128 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 441 Karten, 882 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "127 bestehende Mathematikkarten,440 vorhandene Ebeneneinträge,alle Deutschdateien,300 Quellen und26 Fragen unverändert;220 Inventurzeilen;keine neue Erstprüfung187201;UI-Logik bis auf PDF-Fußzeilenversion unverändert;root/dist bytegleich. Ausgangskopie entspricht main e0d9342;CSV-Unterschied ausschließlich CRLF/LF.",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller128 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal bestanden; Live-Nachweise noch ausstehend. Gesamtabgleich unvollständig."
+  },
+  "publication": {
+    "status": "local_verified_pending_publication",
+    "app_version": "1.438"
+  },
+  "continuation": {
+    "next_id": "page912_187201",
+    "next_step": "GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärtsketten und Umkehrreihenfolge, zunächst zwei bekannte additive/subtraktive Übergänge;35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. Mehr als zwei gemischte Vorwärtsschritte sowie unbekannte Übergangsgrößen/Regeln bleiben gesichert offen. MA-136 ergänztMA-128 für genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext; GS Übertragen1000 ausdrücklich/FSP Einblick gewinnen100 didaktisch aus35415.128 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.438: sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenprüfung441/882 lokal bestanden; Veröffentlichung und Live-Prüfung noch ausstehend."
+  }
+}
