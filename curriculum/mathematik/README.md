@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-145
+# Mathematik-Abgleich · MA-146
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-145](review_batch_145.json).
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Wirkung einer gezielten Änderung einer bekannten Übergangsgröße bei sonst festen Zeichen und Operanden prüfen; danach unbekannte beziehungsweise wertabhängige Regeln getrennt von bekannten Ketten behandeln. MA-146 erweitertMA-132 um die Fortführung einer Startwertänderung um eins durch eine konkrete bekannte endliche lineare Plus-/Minuskette. Alle zugehörigen Start-, Zwischen- und Endwerte ändern sich gleichsinnig um eins; jeder Wert muss im Zahlenraum bleiben. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Verkettung, Länge und Zulässigkeitsbedingungen ausdrücklich didaktisch.187200-Regelvariation sowie Mauer-/Dreiecksfragen bleiben offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-146](review_batch_146.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1785,3 +1785,5 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem
 MA-144: Sechs Datenprüfungen bestanden; gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal bestanden.131 Bestandskarten undDeutsch unverändert. MA-144 veröffentlicht: App1.445, Commitca5ad725e9565f8ccb063b1bec8e1bd624dd57e2, erfolgreicher Pages-Lauf46009218580. Live-Datei bytegleich (5.805.824 Bytes, SHA256 6374bee5cf15af069928578db8129b4d54bacbdcef7cecd79eeed62c5ce358bb). Sechs Datenprüfungen,gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden. Keine neue vollständige Funktions-/Fachprüfung aller132 Mathematikkarten. Beide amtlichen HTML-Quellen erreichbar,gespeicherte PDFs textuell geprüft;kein neuer PDF-Download/Rendernachweis. Deutsch bleibt abgeschlossen.
 
 MA-145 veröffentlicht und geprüft: App1.446, Commit 5f261e637006afd4dd5c586d6e76bcb083177616, Pages46014376899 erfolgreich. Ausgelieferte App mit beiden lokalen HTML-Dateien bytegleich (5807939 Bytes, SHA256 b0f382abc92e1e0daf882ae2183b09ca19070e9b8cbdf9712ea6b757f396092d). Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden. Quellen- und Prüfgrenzen in review_batch_145.json; kein neuer vollständiger Mathematik-Funktionslauf.
+
+MA-146: Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal bestanden. Veröffentlichung/Liveprüfung noch ausstehend; maßgeblicher Nachweis in review_batch_146.json.
