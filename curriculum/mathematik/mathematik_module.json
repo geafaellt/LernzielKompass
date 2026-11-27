@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-27.1",
+  "version": "MA-2026-11-27.2",
   "checked_on": "2026-11-27",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12314,6 +12314,93 @@
         "Q-MA-page139_35504",
         "Q-MA-page139_35509",
         "Q-MA-page139_35415"
+      ]
+    },
+    {
+      "id": "MA-129",
+      "subject": "Mathematik",
+      "theme": "Zwei gemischte Kettenschritte rückwärts · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · bekannte zweischrittige Umkehrverknüpfung",
+      "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis1 000; zweischrittige Rückwärtskette didaktisch ausgewählt",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Lösungswege35485 unter Addieren/Subtrahieren35479 bis100 undÜbertragen35470; zweimalige bekannte Umkehrbeziehung didaktisch verknüpft",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, beide Operanden, rekonstruierter Zwischenwert und Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479",
+        "page139_35485"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 strukturierte Aufgabenformate187201 unter187199: Eine bekannte Zahlenkette mit genau zwei Übergängen, einer Addition und einer Subtraktion, wird vom bekannten Endwert aus rekonstruiert. Beide Operanden und die Vorwärtsreihenfolge sind bekannt; Zwischenwert und Startwert fehlen. Zuerst wird der letzte Übergang, anschließend der erste mit seiner Umkehroperation rückgängig gemacht. FSP3/4-35485 belegt die Beziehung zwischen Aufgabe und Umkehraufgabe unter35479/Übertragen35470. Die zweimalige, abhängig verknüpfte Verwendung dieses belegten Umkehrbezugs ist eine eng begrenzte didaktische Konkretisierung, kein wörtlich ausgewiesener Rückwärtskettenalgorithmus. Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, beide Operanden, rekonstruierter Zwischenwert und Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt. Die Kette umfasst genau eine Addition und eine Subtraktion; Vorwärtsreihenfolge, beide nichtnegativen Operanden und Endwert sind bekannt und widerspruchsfrei. Die einzelnen Umkehrbeziehungen und ihre Verwendung in umgekehrter Reihenfolge sind bekannt; verwendet werden sie in einem vergleichbaren, für FSP lebensweltlichen Zusammenhang. Es wird keine selbstständige Entdeckung eines neuen allgemeinen Algorithmus verlangt. Jede rückgängig gemachte Addition ergibt eine nichtnegative Differenz; jede rückgängig gemachte Subtraktion eine Summe innerhalb der Grenze. Beide rekonstruierten Werte müssen die vollständige ursprüngliche Kette erfüllen. Die amtlichen Zeilen nennen keine verbindliche Anzahl rückwärts zu bearbeitender Übergänge und keinen ausdrücklich formulierten Algorithmus für ganze Rückwärtsketten. Genau zwei bekannte gemischte Übergänge und ihre Verkettung sind didaktische Auswahl. Die Beschränkung auf zwei wird nicht aus der Bemerkung35504 in den anderen Hauptzielblock35470 übertragen. Der Beleg35485 wird auf jede der beiden konkreten Umkehrbeziehungen bezogen; daraus folgt keine pauschale Abdeckung längerer, verzweigter oder unbekannter Ketten. Ein richtiger Startwert allein belegt weder richtige Reihenfolge noch passenden Zwischenwert. 187201 bleibt begrenzt geprüft. MitMA-129 ist der bekannte zweischrittige gemischte Rückwärtszusammenhang bei gegebenem Endwert eingegrenzt. Weiter zu prüfen sind längere Ketten, mehr als zwei gemischte Vorwärtsschritte, unbekannte Übergangsgrößen beziehungsweise Operationszeichen, selbstständige Regelentdeckung und variable Startwertabhängigkeiten. Die26 vorhandenen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben bestehen. Keine erneute Erstzählung187201 und keine ganze Nichtanschlussentscheidung.",
+      "shared_object_suggestion": "Die umgekehrte Abhängigkeit zweier bekannter Rechenschritte: Vom Endwert führt die Umkehrung des letzten Übergangs zum Zwischenwert und die Umkehrung des ersten zum Startwert.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verwendet die bekannten Umkehrbeziehungen in einem vergleichbaren Zahlenkettenzusammenhang bis 1 000, um aus einem bekannten Endwert zunächst den Zwischenwert und dann den Startwert zweier bekannter gemischter Rechenschritte zu bestimmen. Es beschreibt die Abhängigkeit der beiden Rückrechnungen.",
+          "criterion": "Zuerst wird der letzte Vorwärtsübergang umgekehrt, danach der erste. Einer Addition entspricht die Subtraktion desselben Operanden, einer Subtraktion die Addition desselben Operanden. Der erste rekonstruierte Wert ist der richtige Zwischenwert der ursprünglichen Kette und zugleich Ausgangswert der zweiten Rückrechnung. Zwischenwert und Startwert erfüllen beide ursprünglichen Übergänge. Ein richtiger Startwert ohne passenden Zwischenwert und erkennbaren Umkehrbezug genügt nicht. Alle bekannten und rekonstruierten Werte sowie relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Keine negative Differenz und keine entstehende Summe oberhalb der Grenze. Die bekannte Umkehrreihenfolge wird verwendet; keine selbstständige Entdeckung eines allgemeinen Algorithmus verlangt. Die Beschreibung erklärt, weshalb der letzte Übergang zuerst rückgängig gemacht wird.",
+          "status": "Didaktische Konkretisierung: zwei bekannte gemischte Rückwärtsschritte und ihre Abhängigkeit; keine amtlich vorgeschriebene Kettennotation oder allgemeine Rückwärtsstrategie."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet die bekannten Umkehrbeziehungen in einem vergleichbaren lebensweltlichen Zusammenhang bis 100, um aus einem bekannten Endwert zunächst den Zwischenwert und dann den Startwert zweier bekannter gemischter Rechenschritte zu bestimmen.",
+          "criterion": "Zuerst wird der letzte Vorwärtsübergang umgekehrt, danach der erste. Einer Addition entspricht die Subtraktion desselben Operanden, einer Subtraktion die Addition desselben Operanden. Der erste rekonstruierte Wert ist der richtige Zwischenwert der ursprünglichen Kette und zugleich Ausgangswert der zweiten Rückrechnung. Zwischenwert und Startwert erfüllen beide ursprünglichen Übergänge. Ein richtiger Startwert ohne passenden Zwischenwert und erkennbaren Umkehrbezug genügt nicht. Alle bekannten und rekonstruierten Werte sowie relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Keine negative Differenz und keine entstehende Summe oberhalb der Grenze. Die bekannte Umkehrreihenfolge wird verwendet; keine selbstständige Entdeckung eines allgemeinen Algorithmus verlangt.",
+          "status": "Didaktische Konkretisierung: zwei bekannte gemischte Rückwärtsschritte und ihre Abhängigkeit; keine amtlich vorgeschriebene Kettennotation oder allgemeine Rückwärtsstrategie.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, beide Operanden, rekonstruierter Zwischenwert und Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187201 verbindlicher Unterpunkt von187199; Zahlenketten Bemerkungsbeispiel.2064 liefert Übertragen und bis1 000. Zweischrittige Rückwärtsverknüpfung ist didaktische Auswahl, kein vollständiger Musterzielnachweis.",
+        "fsp": "35485 unter35479/Übertragen35470; Aufgabe/Umkehraufgabe in der Bemerkung35485. Bis100 ausdrücklich in35479. Zweimalige Nutzung in umgekehrter Reihenfolge ist didaktische Konkretisierung, kein wörtlich ausgewiesener Rückwärtskettenalgorithmus.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ],
+        "fsp_remark_anchor": "page139_35485"
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 ausdrücklich im zugehörigen Additions-/Subtraktionsziel; zwei bekannte gemischte Rückwärtsschritte didaktisch ausgewählt.",
+        "detail": "35479 nennt Addieren/Subtrahieren bis100;35485 mit Umkehrbezug ist diesem Ziel untergeordnet. Der Zahlenrahmen ist ausdrücklich belegt, nicht aus35415 abgeleitet. Genau zwei Übergänge sind eine didaktische Komplexitätsbegrenzung, keine amtliche Kettenlängengrenze und keine Übernahme aus35504. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35485"
+        ],
+        "planning_rule": "FSP: bekannter Endwert, beide Operanden, rekonstruierter Zwischenwert, rekonstruierter Startwert sowie alle relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100 einschließlich100. Auch alle vorwärts zugehörigen Werte müssen darin liegen. Ein zulässiger Start- oder Endwert rechtfertigt keinen Zwischenwert außerhalb100. Bei der Umkehrung einer Addition darf die Differenz nicht negativ sein; bei der Umkehrung einer Subtraktion darf die entstehende Summe100 nicht überschreiten. GS entsprechend bis1 000. Zuerst den letzten Übergang umkehren, dann den ersten; der korrekt rekonstruierte Zwischenwert verbindet beide Rückrechnungen. Die Kette umfasst genau eine Addition und eine Subtraktion; Vorwärtsreihenfolge, beide nichtnegativen Operanden und Endwert sind bekannt und widerspruchsfrei. Die einzelnen Umkehrbeziehungen und ihre Verwendung in umgekehrter Reihenfolge sind bekannt; verwendet werden sie in einem vergleichbaren, für FSP lebensweltlichen Zusammenhang. Es wird keine selbstständige Entdeckung eines neuen allgemeinen Algorithmus verlangt. Jede rückgängig gemachte Addition ergibt eine nichtnegative Differenz; jede rückgängig gemachte Subtraktion eine Summe innerhalb der Grenze. Beide rekonstruierten Werte müssen die vollständige ursprüngliche Kette erfüllen. Genau zwei bekannte gemischte Übergänge sind didaktisch ausgewählt; kein allgemeines Verfahren für beliebig lange Ketten. Ganze Anzahlen, keine Maßzahlen mit Einheiten, Dezimalzahlen, Umrechnungen oder multiplikativen Übergänge. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
       ]
     }
   ]

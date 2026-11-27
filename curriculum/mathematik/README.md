@@ -1,8 +1,8 @@
-# Mathematik-Abgleich · MA-136
+# Mathematik-Abgleich · MA-137
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
-Einhundertachtundzwanzig Karten dokumentieren begrenzte Anschlüsse. Neunundneunzig liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
+Einhundertneunundzwanzig Karten dokumentieren begrenzte Anschlüsse. Einhundert liegen im passenden Stufenband. MA-002, MA-011, MA-012, MA-022, MA-023, MA-025, MA-026, MA-044, MA-045, MA-046, MA-047, MA-048, MA-049, MA-050, MA-051, MA-054, MA-056, MA-059, MA-062, MA-064, MA-070, MA-072, MA-075, MA-076, MA-077, MA-078, MA-091, MA-097 und MA-110 sind stufenübergreifend. Für Spiegelachsen wurde in FSP 1/2 das verwandte Ziel zu Mustern und Ornamenten geprüft. Der konkrete Spiegelachsenbezug ist in FSP 3/4 belegt.
 
 | Karten | Geprüfte Ausschnitte |
 | --- | --- |
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärtsketten und Umkehrreihenfolge, zunächst zwei bekannte additive/subtraktive Übergänge;35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. Mehr als zwei gemischte Vorwärtsschritte sowie unbekannte Übergangsgrößen/Regeln bleiben gesichert offen. MA-136 ergänztMA-128 für genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext; GS Übertragen1000 ausdrücklich/FSP Einblick gewinnen100 didaktisch aus35415.128 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-136](review_batch_136.json).
+GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktive Ketten vorwärts/rückwärts fachlich prüfen und vom bekannten Zweischrittbezug abgrenzen; danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35485,35504/35509 und beide Knobel-Wahlbereiche in ihren eigenen Hierarchien prüfen. MA-137 ergänztMA-129 für zwei bekannte gemischte Rückwärtsschritte; beide Übertragen,GS1000/FSP100 ausdrücklich, Zweischrittverknüpfung didaktisch.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-137](review_batch_137.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1681,3 +1681,20 @@ MA-120: Teilschritte innerhalb einer Rechnung, beide Übertragen und FSP ausdrü
 187201 bleibt begrenzt geprüft. Neu geklärt ist die vorwärts gerichtete Ergebnisverknüpfung zweier bekannter gemischter Schritte im Sachkontext. Mehrschrittige Rückwärtsketten einschließlich Umkehrreihenfolge, mehr als zwei gemischte Vorwärtsschritte, unbekannte Übergangsgrößen, selbstständig zu entdeckende Regeln und weiterführende Strukturbeziehungen bleiben offen. Zielzahlmauern und gekoppelte Dreiecksbeziehungen bleiben in den26 bestehenden Anschlussfragen. Keine erneute Erstprüfung187201, keine neue Frage doppelt gezählt und keine ganze Nichtanschlussentscheidung.
 
 App1.438 auf main veröffentlicht mit Commit adee7282c30b9e22da605d41476cc6a9c86bd157. [Pages-Lauf 45944709607](https://github.com/geafaellt/LernzielKompass/actions/runs/45944709607) erfolgreich. Die ausgelieferte App ist bytegleich zum geprüften Stand (5745816 Bytes; SHA-256 d62ba2cfc4285753e8e0dc6f4a7af86034c3c47ad9436dd82bf4cafb1990a800). Sechs Datenprüfungen bestanden; gezielte PrüfungMA-120/122/125/126/127/128 einschließlich Regressionen und Ebenenprüfung441 Karten/882 Seiten lokal/live bestanden. Eigene Lehrkraftentwürfe bleiben erhalten; Aufgaben und Hilfsmittel bleiben leer. Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller128 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Gesamtabgleich unvollständig.
+
+
+## MA-137 · App 1.439 · 27.11.2026
+
+GS3 strukturierte Aufgabenformate187201 unter187199: Eine bekannte Zahlenkette mit genau zwei Übergängen, einer Addition und einer Subtraktion, wird vom bekannten Endwert aus rekonstruiert. Beide Operanden und die Vorwärtsreihenfolge sind bekannt; Zwischenwert und Startwert fehlen. Zuerst wird der letzte Übergang, anschließend der erste mit seiner Umkehroperation rückgängig gemacht. FSP3/4-35485 belegt die Beziehung zwischen Aufgabe und Umkehraufgabe unter35479/Übertragen35470. Die zweimalige, abhängig verknüpfte Verwendung dieses belegten Umkehrbezugs ist eine eng begrenzte didaktische Konkretisierung, kein wörtlich ausgewiesener Rückwärtskettenalgorithmus.
+
+Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, beide Operanden, rekonstruierter Zwischenwert und Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt.
+
+MA-123 kontrolliert bereits angegebene Ergebnisse. MA-126 bestimmt einen fehlenden Summanden in genau einer lokalen additiven Beziehung; MA-127 einen fehlenden Minuenden in genau einer lokalen subtraktiven Beziehung. Diese drei Karten bleiben beiÜbertragen und ausdrücklich100. MA-128 stellt zwei bekannte gemischte Vorwärtsschritte unterEinblick gewinnen35504 dar, mit didaktisch abgeleiteten100. MA-129 verbindet dagegen zwei voneinander abhängige Rekonstruktionen vom Endwert bis zum Startwert, einschließlich des richtigen Zwischenwertes und umgekehrter Reihenfolge. Diese zusätzliche Abhängigkeit ist der neue Lerngegenstand; die lokalen Bestandskarten werden nicht bloß umbenannt oder doppelt gezählt. Alle128 Bestandskarten und441 vorhandenen Ebeneneinträge bleiben unverändert.
+
+187201 bleibt begrenzt geprüft. MitMA-129 ist der bekannte zweischrittige gemischte Rückwärtszusammenhang bei gegebenem Endwert eingegrenzt. Weiter zu prüfen sind längere Ketten, mehr als zwei gemischte Vorwärtsschritte, unbekannte Übergangsgrößen beziehungsweise Operationszeichen, selbstständige Regelentdeckung und variable Startwertabhängigkeiten. Die26 vorhandenen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben bestehen. Keine erneute Erstzählung187201 und keine ganze Nichtanschlussentscheidung.
+
+GS-HTML aktuell zweimal nicht erreichbar; gespeichertes amtliches PDF erneut geprüft. FSP-HTML und gespeicherte PDFs gelesen. Kein neuer PDF-Download oder Rendernachweis.
+
+Sechs Datenprüfungen bestanden. Gezielte BrowserprüfungMA-123/126/127/128/129 einschließlich Regressionen und Ebenenprüfung442 Karten/884 Seiten lokal bestanden. Kein neuer vollständiger Mathematik-Funktionslauf; Veröffentlichung und Live-Prüfung noch ausstehend.

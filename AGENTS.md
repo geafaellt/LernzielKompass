@@ -15,3 +15,8 @@ Der Originalentwurf `curriculum/mathematik/drafts/review_batch_100_2026-11-20.js
 ## Fortsetzung MA-136
 
 GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärtsketten und Umkehrreihenfolge, zunächst zwei bekannte additive/subtraktive Übergänge;35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. Mehr als zwei gemischte Vorwärtsschritte sowie unbekannte Übergangsgrößen/Regeln bleiben gesichert offen. MA-136 ergänztMA-128 für genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext; GS Übertragen1000 ausdrücklich/FSP Einblick gewinnen100 didaktisch aus35415.128 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.438; maßgeblicher Veröffentlichungsnachweis in review_progress.json. Keine neue Erstzählung187201.
+
+
+## Fortsetzung MA-137
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktive Ketten vorwärts/rückwärts fachlich prüfen und vom bekannten Zweischrittbezug abgrenzen; danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35485,35504/35509 und beide Knobel-Wahlbereiche in ihren eigenen Hierarchien prüfen. MA-137 ergänztMA-129 für zwei bekannte gemischte Rückwärtsschritte; beide Übertragen,GS1000/FSP100 ausdrücklich, Zweischrittverknüpfung didaktisch.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.439; maßgeblicher Veröffentlichungsnachweis in review_progress.json. Keine neue Erstzählung187201.
