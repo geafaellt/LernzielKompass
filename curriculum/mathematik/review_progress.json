@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187200",
-  "next_step": "Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren. Vier Datenprüfungen und mathematische Abgrenzungsprüfung bestanden; Audit aufmain veröffentlicht und erneut gelesen. App-Dateien bytegleich; keine neue Browser-/Liveprüfung.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -7129,8 +7129,15 @@
   },
   "latest_audit_publication": {
     "batch": "MA-148",
-    "status": "pending",
-    "app_version_unchanged": "1.448"
+    "status": "published_audit_verified",
+    "commit": "6cdf8fc4e1c8240a935f447934ce3059925cd22b",
+    "tree": "eee38b9a42b3bd00ae3df372dd3d838af951986a",
+    "app_version_unchanged": "1.448",
+    "app_commit_unchanged": "5821a1f6d50c02bbb6e3d9eff8a01742995d3445",
+    "verification": "main und die sechs geänderten Auditdateien über GitHub erneut gelesen; keine Appdatei geändert.",
+    "limits": "Kein neuer Browser-/Live- oder Pages-Nachweis in diesem reinen Auditlauf; App-Veröffentlichungsnachweis bleibt MA-147.",
+    "checked_at": "2026-11-27T18:32:32.723108+00:00",
+    "proof_note": "Dieser Nachweiscommit dokumentiert die geprüfte Veröffentlichung; keine Appänderung."
   },
   "continuation_correction": {
     "batch": "MA-067",

@@ -1790,4 +1790,4 @@ MA-146 veröffentlicht und geprüft: App1.447, Commit 667e377dcd380944eb15c43f28
 
 MA-147 veröffentlicht und geprüft: App1.448, Commit 5821a1f6d50c02bbb6e3d9eff8a01742995d3445, Pages46027325700 erfolgreich. Ausgelieferte App mit beiden lokalen HTML-Dateien bytegleich (5815708 Bytes, SHA256 1679b6d1f1a972e73a1ebba2ddc6258cab946101a7d0f565df6c2fb62b792708). Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden. Quellen- und Prüfgrenzen in review_batch_147.json; kein neuer vollständiger Mathematik-Funktionslauf.
 
-MA-148: Vier Datenprüfungen und mathematische Abgrenzungsprüfung bestanden. Ausschließlich Auditänderungen; App1.448 und Deutsch unverändert. Keine neue Browser-/Liveprüfung. Veröffentlichungsnachweis folgt im Prüfpaket.
+MA-148: Vier Datenprüfungen und mathematische Abgrenzungsprüfung bestanden. Audit veröffentlicht in Commit 6cdf8fc4e1c8240a935f447934ce3059925cd22b; main und genau sechs geänderte Auditdateien überGitHub bestätigt. App1.448 und Deutsch bytegleich; keine neue Browser-/Liveprüfung oder neuerPages-Nachweis. App-Nachweis bleibtMA147. Details in review_batch_148.json.
