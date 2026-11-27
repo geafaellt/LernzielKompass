@@ -3836,7 +3836,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Finden einer zulässigen Belegung bei zwei gekoppelten unbekannten Operanden und unbekanntem Zwischenwert konkret gegen FSP3/4-Knobelstrategien35571/35577/35578/35580 und FSP1/2-38021/38022 prüfen. MA-142 klärt Voraussetzungen und Mehrdeutigkeit der vier Plus-/Minuskombinationen, bestätigt aber noch keinen neuen Kartenanschluss. Eine passende Belegung, alle Belegungen und Eindeutigkeitsbegründung getrennt halten. Danach Regel-/Startwertabhängigkeiten; die offenen Mauer-/Dreiecksfragen bleiben eigenständig.130 Karten,101 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. App1.443 unverändert; Deutsch-Abschluss DE-UZ-052 bewahren. MA-142-Audit auf main gesichert; Pages45990274146 erfolgreich und unveränderte Live-App1.443 bytegleich. Vier Datenprüfungen bestanden; keine neue Browserprüfung.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6926,10 +6926,21 @@
     }
   },
   "latest_audit_publication": {
+    "status": "published_verified",
     "batch": "MA-142",
-    "status": "pending",
+    "commit": "7f12d8f2c3439ff229044977d16740fc391d449d",
+    "tree": "81a923b1d952120412c25f98d5b4ca52c0accdf5",
+    "pages_run": 45990274146,
+    "pages_conclusion": "success",
     "app_version": "1.443",
-    "note": "Reine Auditänderung; neu abgegrenzte Anschlussfrage, keine neue Karte oder Erstprüfung. latest_publication bleibt tatsächlicher App-Nachweis MA-141."
+    "app_unchanged": true,
+    "live_url": "https://geafaellt.github.io/LernzielKompass/?audit=ma142-published",
+    "live_byte_equal": true,
+    "bytes": 5781016,
+    "sha256": "ff6c41253975cbf4cc00d0d1000ccbb64175fd13d91b4f22d2d969023168478d",
+    "checked_at": "2026-11-27T11:26:13.060745+00:00",
+    "browser": "Kein neuer Browserdurchlauf; App und UI unverändert. Bestehende MA-141-Browsernachweise bleiben historisch getrennt.",
+    "evidence_commit": "recorded_in_this_commit"
   },
   "continuation_correction": {
     "batch": "MA-067",
