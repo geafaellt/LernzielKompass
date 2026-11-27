@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.440** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.441** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -345,3 +345,10 @@ MA-135 veröffentlicht: App1.437, Commit `cab968b04aff6d8c40756e36225104359ad664
 ## Mathematik MA-138 · App 1.440
 
 BestehendeMA-129 für bekannte endliche lineare Rückwärtsketten präzisiert; konkrete Länge didaktisch festzulegen, keine erfundene Obergrenze und keine unbeschränkte Leistungsforderung. Beide Übertragen;GS bis1000/FSP bis100 ausdrücklich einschließlich aller rekonstruierten Werte.129 Karten und26 Anschlussfragen unverändert. Mehrschrittige Vorwärtsketten und unbekannte Übergangsgrößen/Regeln bleiben offen; Deutsch abgeschlossen und unverändert. App1.440 auf main veröffentlicht mit Commit 6db699288fa3c3a70a96c69d5581fa38dc7f2571. [Pages-Lauf 45954407819](https://github.com/geafaellt/LernzielKompass/actions/runs/45954407819) erfolgreich. Die ausgelieferte App ist bytegleich zum geprüften Stand (5760430 Bytes; SHA-256 00d58b445b7ad21220c3f0e8e6d11d1f892dbd4c283b9039144359a69069dea5). Sechs Datenprüfungen bestanden; gezielte PrüfungMA-123/125/126/127/128/129 einschließlich Regressionen und Ebenenprüfung442 Karten/884 Seiten lokal/live bestanden. Eigene Lehrkraftentwürfe bleiben erhalten; Aufgaben und Hilfsmittel bleiben leer. Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller129 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Beide amtlichen HTML-Quellen und gespeicherte PDFs gelesen; keine neue PDF-Renderprüfung. Gesamtabgleich unvollständig.
+
+
+## Mathematik MA-139 · App 1.441
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten fachlich prüfen. Bekannte endliche lineare Vorwärtsketten sind aufMA-130, Rückwärtsketten aufMA-129 als didaktische Teilanschlüsse eingeordnet; keine weitere Karte nur für eine andere Länge. MA-139 ergänztMA-130: beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischenwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. [Prüfpaket](curriculum/mathematik/review_batch_139.json).
+
+Veröffentlichung und Prüfnachweise noch ausstehend.

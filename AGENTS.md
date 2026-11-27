@@ -25,3 +25,8 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktiv
 ## Fortsetzung MA-138
 
 GS3 strukturierte Aufgabenformate187201 fortsetzen: mehr als zwei bekannte gemischte Vorwärtsschritte prüfen, danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35479/35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. MA-138 präzisiert bestehendeMA-129 für eine konkret festgelegte bekannte endliche lineare Rückwärtskette; Länge didaktisch festzulegen, keine erfundene Obergrenze und keine unbeschränkte Leistungsforderung. Beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller rekonstruierten Werte.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.440; maßgeblicher Veröffentlichungsnachweis in review_progress.json. Keine neue Erstzählung187201.
+
+
+## Fortsetzung MA-139
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten fachlich prüfen. Bekannte endliche lineare Vorwärtsketten sind aufMA-130, Rückwärtsketten aufMA-129 als didaktische Teilanschlüsse eingeordnet; keine weitere Karte nur für eine andere Länge. MA-139 ergänztMA-130: beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischenwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.441; maßgeblicher Veröffentlichungsnachweis in review_progress.json.

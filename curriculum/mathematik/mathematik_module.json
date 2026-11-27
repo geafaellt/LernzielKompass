@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-27.3",
+  "version": "MA-2026-11-27.4",
   "checked_on": "2026-11-27",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12401,6 +12401,89 @@
         "Q-MA-page139_35470",
         "Q-MA-page139_35479",
         "Q-MA-page139_35485"
+      ]
+    },
+    {
+      "id": "MA-130",
+      "subject": "Mathematik",
+      "theme": "Bekannte Rechenschritte vorwärts verknüpfen · GS 3",
+      "app_area": "MA-page912_1999",
+      "status": "Begrenzter Anschluss · bekannte lineare Vorwärtsverknüpfung",
+      "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis1 000; bekannte lineare Vorwärtskette didaktisch ausgewählt",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Addieren/Subtrahieren35479 bis100 unterÜbertragen35470; bekannte Rechenbeziehungen didaktisch verknüpft",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Übertragen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Berechnen, Beschreiben und Fortsetzen sind Zielhandlungen, keine Lernzielebenen. Die Ebenen Einblick gewinnen35504 oder Kennen35571 gehören zu anderen Hauptzielen und werden nicht übernommen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479 unter35470. Startwert, sämtliche Operanden, alle Rechenteil-, Zwischen-, End- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Werte oberhalb100 bis1000 und weiterführende Strukturansprüche sind nicht abgedeckt.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187201"
+      ],
+      "fsp_target_ids": [
+        "page139_35470",
+        "page139_35479"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3 strukturierte Aufgabenformate187201: bekannte Additions- und Subtraktionsübergänge werden in einer konkret festgelegten endlichen linearen Vorwärtskette verknüpft. Jeder Ergebniswert ist Ausgangswert des nächsten Übergangs; die bekannte Reihenfolge bleibt erhalten. Tragender FSP-Beleg ist35479 unterÜbertragen35470. Die Verknüpfung mehrerer bekannter Beziehungen, auch bei mehr als zwei Schritten, ist ausdrücklich didaktische Konkretisierung. Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Berechnen, Beschreiben und Fortsetzen sind Zielhandlungen, keine Lernzielebenen. Die Ebenen Einblick gewinnen35504 oder Kennen35571 gehören zu anderen Hauptzielen und werden nicht übernommen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479 unter35470. Startwert, sämtliche Operanden, alle Rechenteil-, Zwischen-, End- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Werte oberhalb100 bis1000 und weiterführende Strukturansprüche sind nicht abgedeckt. Startwert, alle Additions-/Subtraktionszeichen, Operanden und ihre Reihenfolge sind bekannt. Die Folge ist endlich, linear und widerspruchsfrei; jede Addition und Subtraktion ist im vergleichbaren Kontext bekannt. Auf FSP-Seite bleibt der Lebensweltbezug aus35470 Voraussetzung. Die Lehrkraft legt eine konkrete überschaubare Länge und den Unterstützungsbedarf fest. Jede Differenz ist nichtnegativ, jede Summe bleibt innerhalb der jeweiligen Grenze. 35479 enthält keine eigene maximale Schrittzahl. Daraus folgt keine Forderung für beliebig lange Ketten. Die Zwei-Schritt-Grenze aus35504 wird nicht auf35479 übertragen. Die Verkettung bekannter Additions-/Subtraktionsbeziehungen und ihre konkrete Länge sind didaktische Konkretisierungen, keine wörtliche amtliche Vorschrift für gemischte Ketten beliebiger Länge. Die Zerlegungsbeispiele35485 allein belegen keine allgemeine gemischte Kettenstrategie. 187201 bleibt begrenzt geprüft. Bekannte endliche lineare Vorwärtsketten sind mitMA-130 als didaktischer Teilanschluss eingeordnet; weitere Längen werden nicht erneut gezählt. Als nächstes unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten prüfen. Selbstständige Regelentdeckung, verzweigte oder zyklische Strukturen und allgemeine Algorithmusbeweise sind durch diese Karte nicht nachgewiesen.26 vorhandene Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben erhalten.",
+      "shared_object_suggestion": "Die Abhängigkeit bekannter aufeinanderfolgender Rechenschritte: Jeder Ergebniswert wird zum Ausgangswert des nächsten Additions- oder Subtraktionsübergangs.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verwendet bekannte Additions- und Subtraktionsbeziehungen in einem vergleichbaren Zahlenkettenzusammenhang bis 1 000, um vom bekannten Startwert aus die aufeinanderfolgenden Zwischenwerte und den Endwert einer bekannten endlichen linearen Rechenkette mit didaktisch festgelegter Länge zu bestimmen. Es beschreibt die Abhängigkeit der aufeinanderfolgenden Werte.",
+          "criterion": "Die vorgegebene Reihenfolge und jedes Operationszeichen bleiben erhalten. Jeder Übergang verwendet den vorhergehenden Ergebniswert und den zugehörigen bekannten Operanden. Alle Zwischenwerte und der Endwert erfüllen die jeweilige Additions- oder Subtraktionsbeziehung. Ein richtiger Endwert ohne passende Zwischenwerte genügt nicht. Startwert, Operanden und alle Rechenteil-, Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 1 000; keine negative Differenz und keine Summe oberhalb der Grenze. Die konkrete bekannte endliche Folge wird verwendet; keine Leistungsforderung für beliebig lange Ketten. Die Beschreibung erklärt, welcher Ergebniswert jeweils zum nächsten Ausgangswert wird.",
+          "status": "Didaktische Konkretisierung: konkrete überschaubare Kettenlänge vorab festlegen; bekannte gemischte Rechenbeziehungen verknüpfen. Keine amtliche Kettennotation, selbstständige Regelentdeckung oder unbeschränkte Leistungsforderung."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verwendet bekannte Additions- und Subtraktionsbeziehungen in einem vergleichbaren lebensweltlichen Zusammenhang bis 100, um vom bekannten Startwert aus die aufeinanderfolgenden Zwischenwerte und den Endwert einer bekannten endlichen linearen Rechenkette mit didaktisch festgelegter Länge zu bestimmen.",
+          "criterion": "Die vorgegebene Reihenfolge und jedes Operationszeichen bleiben erhalten. Jeder Übergang verwendet den vorhergehenden Ergebniswert und den zugehörigen bekannten Operanden. Alle Zwischenwerte und der Endwert erfüllen die jeweilige Additions- oder Subtraktionsbeziehung. Ein richtiger Endwert ohne passende Zwischenwerte genügt nicht. Startwert, Operanden und alle Rechenteil-, Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100; keine negative Differenz und keine Summe oberhalb der Grenze. Die konkrete bekannte endliche Folge wird verwendet; keine Leistungsforderung für beliebig lange Ketten.",
+          "status": "Didaktische Konkretisierung: konkrete überschaubare Kettenlänge vorab festlegen; bekannte gemischte Rechenbeziehungen verknüpfen. Keine amtliche Kettennotation, selbstständige Regelentdeckung oder unbeschränkte Leistungsforderung.",
+          "scope_status": "explicit",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35479",
+        "fsp_basis": "target_row",
+        "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479 unter35470. Startwert, sämtliche Operanden, alle Rechenteil-, Zwischen-, End- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Werte oberhalb100 bis1000 und weiterführende Strukturansprüche sind nicht abgedeckt.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "187201 verbindlicher Unterpunkt von187199; Zahlenketten als Bemerkungsbeispiel.2064 liefert Übertragen und bis1 000. Die konkrete bekannte lineare Kette ist didaktische Auswahl, kein vollständiger Musterzielnachweis.",
+        "fsp": "35479 verbindliches Additions-/Subtraktionsziel bis100 unterÜbertragen35470. Die aufeinanderfolgende Verwendung bekannter Beziehungen ist didaktische Konkretisierung. Keine Übernahme der Kettenbemerkung35475 oder der Zwei-Schritt-Grenze35504.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ]
+      },
+      "fsp_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 ausdrücklich im Additions-/Subtraktionsziel; konkrete bekannte Kettenlänge didaktisch festzulegen.",
+        "detail": "35479 nennt Addieren und Subtrahieren bis100 unterÜbertragen35470. Der Zahlenrahmen stammt aus der Zielzeile, nicht aus dem übergreifenden Bandziel35415. Für die Schrittzahl ist keine eigene Obergrenze genannt. Die Lehrkraft bestimmt die konkrete überschaubare Länge; keine unbeschränkte Leistungsanforderung. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479"
+        ],
+        "planning_rule": "FSP: Startwert, sämtliche Operanden und alle Rechenteil-, Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100 einschließlich100. Ein Endwert bis100 rechtfertigt keinen Zwischenwert außerhalb100. Jede Differenz bleibt nichtnegativ und jede Summe höchstens100; GS entsprechend bis1 000. Startwert, alle Additions-/Subtraktionszeichen, Operanden und ihre Reihenfolge sind bekannt. Die Folge ist endlich, linear und widerspruchsfrei; jede Addition und Subtraktion ist im vergleichbaren Kontext bekannt. Auf FSP-Seite bleibt der Lebensweltbezug aus35470 Voraussetzung. Die Lehrkraft legt eine konkrete überschaubare Länge und den Unterstützungsbedarf fest. Jede Differenz ist nichtnegativ, jede Summe bleibt innerhalb der jeweiligen Grenze. 35479 enthält keine eigene maximale Schrittzahl. Daraus folgt keine Forderung für beliebig lange Ketten. Die Zwei-Schritt-Grenze aus35504 wird nicht auf35479 übertragen. Die Verkettung bekannter Additions-/Subtraktionsbeziehungen und ihre konkrete Länge sind didaktische Konkretisierungen, keine wörtliche amtliche Vorschrift für gemischte Ketten beliebiger Länge. Die Zerlegungsbeispiele35485 allein belegen keine allgemeine gemischte Kettenstrategie. Die Zahlenraumgrenze begrenzt die Werte, nicht die Anzahl der Übergänge. Ganze Anzahlen; keine Maßzahlen mit Einheiten, Dezimalzahlen, Umrechnungen oder multiplikativen Übergänge. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187201",
+        "Q-MA-page139_35470",
+        "Q-MA-page139_35479"
       ]
     }
   ]

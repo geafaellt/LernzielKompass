@@ -1,8 +1,8 @@
 {
-  "last_batch": "MA-138",
+  "last_batch": "MA-139",
   "complete": false,
   "counts": {
-    "cards": 129,
+    "cards": 130,
     "cross_band": 29
   },
   "source_plans": {
@@ -3836,7 +3836,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: mehr als zwei bekannte gemischte Vorwärtsschritte prüfen, danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35479/35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. MA-138 präzisiert bestehendeMA-129 für eine konkret festgelegte bekannte endliche lineare Rückwärtskette; Länge didaktisch festzulegen, keine erfundene Obergrenze und keine unbeschränkte Leistungsforderung. Beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller rekonstruierten Werte.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.440: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, sechs Datenprüfungen und gezielte Karten-/Ebenenprüfung442/884 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten fachlich prüfen. Bekannte endliche lineare Vorwärtsketten sind aufMA-130, Rückwärtsketten aufMA-129 als didaktische Teilanschlüsse eingeordnet; keine weitere Karte nur für eine andere Länge. MA-139 ergänztMA-130: beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischenwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.441: Veröffentlichung und Prüfnachweise noch ausstehend.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4157,7 +4157,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_138.json",
+  "last_review_file": "review_batch_139.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -5676,9 +5676,9 @@
     },
     {
       "gs_id": "page912_187201",
-      "scope": "187201 bleibt begrenzt geprüft. Die bloße Verlängerung einer konkret festgelegten bekannten linearen Rückwärtskette ist jetzt als didaktische Variante des belegten Umkehranschlusses aufMA-129 eingeordnet und wird nicht für jede Länge erneut gezählt. Mehr als zwei gemischte Vorwärtsschritte als eigener Darstellungs-/Verknüpfungsanschluss, unbekannte Übergangsgrößen oder Operationszeichen, selbstständige Regelentdeckung und variable Startwertabhängigkeiten bleiben offen. Verzweigte/zyklische Strukturen und allgemeine Algorithmusbeweise sind durch diesen Ausschnitt nicht nachgewiesen. Die26 vorhandenen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben unverändert.",
+      "scope": "187201 bleibt begrenzt geprüft. Bekannte endliche lineare Vorwärtsketten sind mitMA-130 als didaktischer Teilanschluss eingeordnet; weitere Längen werden nicht erneut gezählt. Als nächstes unbekannte Übergangsgrößen und Operationszeichen, danach Regel-/Startwertabhängigkeiten prüfen. Selbstständige Regelentdeckung, verzweigte oder zyklische Strukturen und allgemeine Algorithmusbeweise sind durch diese Karte nicht nachgewiesen.26 vorhandene Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben erhalten.",
       "status": "offen",
-      "review": "MA-138"
+      "review": "MA-139"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -5725,7 +5725,7 @@
       "page912_2064"
     ],
     "rows": 220,
-    "note": "MA-138: Folgeprüfung187201; bestehendeMA-129 präzisiert. Keine neue Karte, Erstzählung oder Anschlussfrage.129 Karten,100 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.",
+    "note": "MA-139: Folgeprüfung187201; neueMA-130. Keine neue Erstzählung oder Anschlussfrage.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.",
     "sampled_gs_blocks": [
       "page912_2267"
     ]
@@ -6193,6 +6193,22 @@
         "MA-129"
       ],
       "note": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte und der Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt. MA-129 wird als bestehende Karte präzisiert; ursprüngliche Zweischrittverknüpfung bleibt enthalten. MA-126/127 behalten je einen lokalen Rückwärtsbezug, MA-123 die Kontrolle bereits angegebener Ergebnisse; jeweils Übertragen und explizit100. MA-128 bleibt bei genau zwei bekannten gemischten Vorwärtsschritten unterEinblick gewinnen35504 mit didaktisch abgeleiteten100, weil der dortige Bemerkungskontext höchstens zwei Schritte nennt. MA-125 bleibt Einspluseins bis20 mit seiner didaktischen Summandenbegrenzung. Die128 anderen Karten und alle442 Ebeneneinträge bleiben unverändert. Keine neue Karte, keine neue Erstprüfung oder Anschlussfrage."
+    },
+    "follow_up_known_finite_forward_chain": {
+      "batch": "MA-139",
+      "cards": {
+        "MA-130": "explicit"
+      },
+      "existing_rechecked": [
+        "MA-120",
+        "MA-123",
+        "MA-125",
+        "MA-126",
+        "MA-127",
+        "MA-128",
+        "MA-129"
+      ],
+      "note": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus35479 unter35470. Startwert, sämtliche Operanden, alle Rechenteil-, Zwischen-, End- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Werte oberhalb100 bis1000 und weiterführende Strukturansprüche sind nicht abgedeckt. MA-125 bleibt die reine Einspluseinsverknüpfung bis20. MA-128 bleibt die einführende Darstellung genau zweier bekannter gemischter Sachschritte unterEinblick gewinnen35504 mit abgeleitetem100er-Rahmen. MA-130 ergänzt dagegen die Verwendung bekannter Additions-/Subtraktionsbeziehungen im vergleichbaren Lebensweltkontext unterÜbertragen35470/35479, mit explizitem100er-Rahmen und didaktisch festgelegter endlicher Länge. Keine neue Karte allein für eine größere Schrittzahl: anderer begrenzter Zielanspruch und andere amtliche Zielzuordnung. MA-120 bleibt Zerlegung eines einzelnen Übergangs; MA-126/127 lokale fehlende Werte, MA-123 Ergebnisprüfung, MA-129 bekannte Rückwärtsverknüpfung. Alle129 Bestandskarten und442 bisherigen Ebeneneinträge bleiben unverändert. Keine neue Erstprüfung187201 und keine neue Anschlussfrage."
     }
   },
   "publication_recheck": {
@@ -7465,7 +7481,8 @@
       "follow_up_MA132": "Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Die Definitionen beider Lehrpläne S.V/PDF5 verlangen Verwenden bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen, Entdecken und Nutzen sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Das Anwenden ausFSP1/2-Wahlbereich38017 und das Kennen ausFSP3/4-Wahlbereich35571 werden nicht auf35485 übertragen.35487 ist ein eigener Kontrollunterpunkt und nicht die primäre Quelle für das Ermitteln des noch fehlenden Wertes. GS S.22–23/PDF32–33; FSP S.19–20/PDF31–32.",
       "follow_up_MA133": "Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen S.V/PDF5 bezeichnen das Verwenden bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Bestimmen, Entdecken und Nutzen sind Zielhandlungen. Weder das Einblick gewinnen ausFSP1/2-37851 noch das Anwenden aus38017 oder das Kennen aus35571 wird in diese Gegenüberstellung übernommen. Die bereits belegte Ebenenzuordnung aufMA-126 bleibt einschließlich Anzeige und Planungsoutput unverändert. GS S.22–23/PDF32–33; FSP S.19–20/PDF31–32.",
       "follow_up_MA134": "Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionen beider Pläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind Zielhandlungen; rückwärts bezeichnet eine Richtung, keine Lernzielebene. Die Hauptziele Einblick gewinnen37851/38021, Anwenden38017 und Kennen35571 bleiben in ihren eigenen Kontexten.",
-      "follow_up_MA135": "Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen."
+      "follow_up_MA135": "Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen.",
+      "follow_up_MA139": "Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Berechnen, Beschreiben und Fortsetzen sind Zielhandlungen, keine Lernzielebenen. Die Ebenen Einblick gewinnen35504 oder Kennen35571 gehören zu anderen Hauptzielen und werden nicht übernommen."
     },
     "page139_35470": {
       "follow_up_MA125": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Übertragen aus35470. Beide Definitionstabellen (S.V/PDF5) beschreiben die Verwendung bekannter Kenntnisse und Erfahrungen in vergleichbaren Kontexten. Lösen, Nutzen, Entdecken, Zerlegen und Rechnen sind konkrete Zielhandlungen, keine Lernzielebenen. Das benachbarte FSP-Beherrschen35461 oder Kennen35498 wird nicht übernommen. Die gleiche Lernzielebene bedeutet keine vollständige inhaltliche oder zahlenräumliche Deckung. GS S.22/PDF32;FSP S.19–20/PDF31–32.35485 unter35479; Hauptzielzuordnung35470.",
@@ -7477,7 +7494,8 @@
       "follow_up_MA134": "Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionen beider Pläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind Zielhandlungen; rückwärts bezeichnet eine Richtung, keine Lernzielebene. Die Hauptziele Einblick gewinnen37851/38021, Anwenden38017 und Kennen35571 bleiben in ihren eigenen Kontexten.",
       "follow_up_MA135": "Amtliche Lernzielebenen sind GS Übertragen aus2064 und FSP Übertragen aus35470. Die Definitionstabellen beider Lehrpläne S.V/PDF5 beziehen sich auf bekannte Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben und Bestimmen sind konkrete Zielhandlungen; rückwärts ist eine Richtung. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden auf den Pflichtbereich35470 übertragen.",
       "follow_up_MA137": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. PDF GS S.22–23/PDF32–33 und FSP S.19–20/PDF31–32 erneut textuell gelesen.",
-      "follow_up_MA138": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. Bekannte Wiederholung ist didaktische Komplexitätswahl, keine zusätzliche amtliche Lernzielebene. Definitionen beider PDFs S.V und Hierarchie GS S.22–23/FSP S.19–20 erneut gelesen."
+      "follow_up_MA138": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. Bekannte Wiederholung ist didaktische Komplexitätswahl, keine zusätzliche amtliche Lernzielebene. Definitionen beider PDFs S.V und Hierarchie GS S.22–23/FSP S.19–20 erneut gelesen.",
+      "follow_up_MA139": "Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Berechnen, Beschreiben und Fortsetzen sind Zielhandlungen, keine Lernzielebenen. Die Ebenen Einblick gewinnen35504 oder Kennen35571 gehören zu anderen Hauptzielen und werden nicht übernommen."
     },
     "page139_35582": {
       "follow_up_MA126": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064; FSP Anwenden aus Hauptziel35582. Nach den Definitionen beider Pläne S.V/PDF5 bedeutet Übertragen die Nutzung bekannter Kenntnisse in vergleichbaren Kontexten, Anwenden dagegen Abstraktion und Transfer in unbekannte Kontexte. Das FSP-Ziel ist hier hinsichtlich des Transfers anspruchsvoller, trotz kleinerem didaktischem Zahlenrahmen. Beschreiben, Vergleichen, Bewerten, Kommentieren und Reflektieren sind konkrete Zielhandlungen; insbesondere wird Bewerten nicht zur amtlichen Ebene Beurteilen umetikettiert. Die Nachbarziele liefern keine Ersatzebene. GS S.22/PDF32; FSP S.24/PDF36. Beide DefinitionstabellenS.V/PDF5."
