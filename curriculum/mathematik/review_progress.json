@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-147",
+  "last_batch": "MA-148",
   "complete": false,
   "counts": {
     "cards": 132,
@@ -3887,8 +3887,8 @@
       "version": "2019"
     }
   },
-  "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte beziehungsweise wertabhängige Übergangsregeln prüfen und von bekannten festen Ketten sowie lokal bereits zugeordneten Unbekannten trennen; Bezug zu187200-Regelvariation gesondert halten. MA-147 erweitertMA-132 um Änderung genau eines bekannten zweiten Operanden um eins bei sonst fester Kette. Bei Addition gleichsinnige, bei Subtraktion gegensinnige Ergebnisänderung; vorherige Werte unverändert, Abweichung ab Änderungsstelle erhalten. Operand und alle betroffenen Zwischen-/Endwerte separat begrenzen. Startwertänderung bleibt alternative didaktische Konkretisierung. Beide Übertragen,GS1000/FSP100 ausdrücklich.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.448 auf main veröffentlicht; Pages46027325700 erfolgreich,Live-App bytegleich,sechsDatenprüfungen und gezielte Karten-/Ebenenprüfung445/890 lokal/live bestanden. Beide amtlichen HTML-Quellen erreichbar; gespeicherte PDFs textuell geprüft,kein neuer Download/Rendernachweis. Kein neuer vollständiger Mathematik-Funktionslauf.",
+  "next_id": "page912_187200",
+  "next_step": "Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4209,7 +4209,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_147.json",
+  "last_review_file": "review_batch_148.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -4753,10 +4753,10 @@
         "page139_35580",
         "page139_35415"
       ],
-      "follow_up": "Beide FSP-Bänder einschließlich Knobel-Wahlbereichen prüfen; Regelverwendung, Regelentdeckung und sprachliche Beschreibung auseinanderhalten. GS-Bemerkungen nicht als zusätzliche Hauptziele zählen.",
+      "follow_up": "Zunächst Auswahl einer passenden Regel aus ausdrücklich vorgegebenen endlich vielen bekannten Regeln gegen beide Knobel-Bänder prüfen; eindeutige Lösung nicht voraussetzen. Danach bekannte wertabhängige/rekursive Fortsetzung getrennt prüfen. Keine Gleichsetzung mit allgemeiner freier Regelentdeckung.",
       "recorded_by": "MA-130",
-      "last_review": "MA-144",
-      "boundary_note": "MA-132 betrifft ausschließlich eine lokale additive Nachbarbeziehung unter187201. Keine neue Deckung des systematischen Folgenauftrags187200; bestehende Frage bleibt unverändert offen."
+      "last_review": "MA-148",
+      "boundary_note": "MA132 umfasst die inMA144–147 didaktisch begrenzten Änderungen einer bekannten festen Kette unter187201, nicht den gesamten Folgenauftrag187200. MA148 verwirft nur den unbelegten uneingeschränkten Eindeutigkeitsanspruch ohne Regelklasse. Endliche bekannte Regelalternativen, bekannte rekursive Fortsetzung, anspruchsvollere Regelverwendung und eigene Beschreibung bleiben als engere positive Kandidaten offen."
     },
     {
       "gs_id": "page912_187201",
@@ -4823,10 +4823,11 @@
         "page139_35578",
         "page139_35580"
       ],
-      "follow_up": "Regel-/Startwertabhängigkeiten zunächst an bekannten additiven/subtraktiven Ketten prüfen; weiterführende Begründungsansprüche nur bei belegter Zielanforderung weiterverfolgen.",
+      "follow_up": "MA144–147 klären bekannte einzelne Startwert-/Operandänderungen aufMA132. MA148 grenzt unbekannte/wertabhängige Regeln ab; konkrete Regelwahl wird zunächst bei187200 getrennt geprüft. Weitere gekoppelte Unbekannte, vollständige Lösungsmengen und Eindeutigkeits-/Unlösbarkeitsbegründungen bleiben eigenständig offen; nur belegte Anforderungen verfolgen.",
       "recorded_by": "MA-142",
-      "last_review": "MA-143",
-      "limited_connection": "MA-131"
+      "last_review": "MA-148",
+      "limited_connection": "MA-131",
+      "boundary_note": "Unbekannter Operand bei bekannten benachbarten Werten ist nicht gleich unbekannte Bildungsregel. Unbeschränkte eindeutige Regelrekonstruktion ohne festgelegte Regelklasse ist kein bestätigter direkter Anschluss und keine neu erfundene GS-Pflicht."
     }
   ],
   "remaining_scopes": [
@@ -5744,21 +5745,21 @@
     },
     {
       "gs_id": "page912_187199",
-      "scope": "187199/187200 sind für gleichschrittige Fortsetzung begrenzt geprüft. Wechselnde oder rekursive Bildungsregeln, systematisches Variieren von Startzahlen und selbstständige Regelbeschreibung auf FSP-Seite bleiben als gemeinsame Anschlussfrage zu187200 mit Bezug187199 offen. Keine ganze Nichtanschlussentscheidung. Strukturierte Aufgabenformate187201 sind der nächste getrennte Prüfpunkt; Kettenaufgaben oder Rechengitter in FSP-Bemerkungen werden nicht ohne Prüfung mit sämtlichen GS-Strukturformaten gleichgesetzt.23 bisherige Fragen bleiben erhalten; der erstmals geprüfte Rest187200 erhöht das Fragenregister auf24.",
+      "scope": "Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren.",
       "status": "offen",
-      "review": "MA-130"
+      "review": "MA-148"
     },
     {
       "gs_id": "page912_187200",
-      "scope": "187199/187200 sind für gleichschrittige Fortsetzung begrenzt geprüft. Wechselnde oder rekursive Bildungsregeln, systematisches Variieren von Startzahlen und selbstständige Regelbeschreibung auf FSP-Seite bleiben als gemeinsame Anschlussfrage zu187200 mit Bezug187199 offen. Keine ganze Nichtanschlussentscheidung. Strukturierte Aufgabenformate187201 sind der nächste getrennte Prüfpunkt; Kettenaufgaben oder Rechengitter in FSP-Bemerkungen werden nicht ohne Prüfung mit sämtlichen GS-Strukturformaten gleichgesetzt.23 bisherige Fragen bleiben erhalten; der erstmals geprüfte Rest187200 erhöht das Fragenregister auf24.",
+      "scope": "Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren.",
       "status": "offen",
-      "review": "MA-130"
+      "review": "MA-148"
     },
     {
       "gs_id": "page912_187201",
-      "scope": "GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte beziehungsweise wertabhängige Übergangsregeln prüfen und von bekannten festen Ketten sowie lokal bereits zugeordneten Unbekannten trennen; Bezug zu187200-Regelvariation gesondert halten. MA-147 erweitertMA-132 um Änderung genau eines bekannten zweiten Operanden um eins bei sonst fester Kette. Bei Addition gleichsinnige, bei Subtraktion gegensinnige Ergebnisänderung; vorherige Werte unverändert, Abweichung ab Änderungsstelle erhalten. Operand und alle betroffenen Zwischen-/Endwerte separat begrenzen. Startwertänderung bleibt alternative didaktische Konkretisierung. Beide Übertragen,GS1000/FSP100 ausdrücklich.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.",
+      "scope": "Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren.",
       "status": "offen",
-      "review": "MA-147"
+      "review": "MA-148"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -5805,7 +5806,7 @@
       "page912_2064"
     ],
     "rows": 220,
-    "note": "MA-141: Folgeprüfung187201 undBestandsbezug187197;MA-122 präzisiert. Keine neue Karte, Erstzählung oder Anschlussfrage.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.",
+    "note": "MA-148: Folgeprüfung und Abgrenzung187199/187200/187201; keine neue Inventurzeile, Karte oder Erstzählung.132 Karten,103 stufengleich,29 stufenübergreifend,27 offene Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Ältere Zahlen in historischen Prüfpaketen bleiben historisch.",
     "sampled_gs_blocks": [
       "page912_2267"
     ]
@@ -6371,6 +6372,20 @@
       ],
       "status": "reviewed",
       "note": "Fall B – ein zweiter Operand: Der ursprüngliche Startwert bleibt fest. Genau ein bekannter zweiter Operand wird an einer bekannten Position um eins erhöht oder vermindert. Beim Erhöhen ist dieser ursprüngliche Operand höchstens99, beim Vermindern mindestens1; GS entsprechend999 beziehungsweise1. Auch sein neuer Wert bleibt innerhalb0..100 beziehungsweise0..1000. Bei Addition und Operand-Erhöhung oder Subtraktion und Operand-Verminderung steigt das Ergebnis um eins: Sämtliche ursprünglichen Kettenwerte ab dem Ergebnis des geänderten Übergangs bis einschließlich Endwert sind dann höchstens99; GS999. Bei Addition und Operand-Verminderung oder Subtraktion und Operand-Erhöhung sinkt das Ergebnis um eins: Sämtliche ursprünglichen Werte ab diesem Ergebnis bis einschließlich Endwert sind mindestens1. Die vorherigen Werte bleiben unverändert und dürfen weiterhin den gesamten belegten Zahlenraum nutzen. Die zusätzlichen Bedingungen gelten nicht pauschal für alle unveränderten Werte oder Operanden. Ein gültiger geänderter Operand allein gewährleistet noch keine gültigen Folgewerte; jeder betroffene Zwischenwert ist getrennt zu prüfen. Spätere Subtraktion mit festem Subtrahenden kehrt die entstandene Abweichung nicht erneut um."
+    },
+    "follow_up_unknown_and_value_dependent_rules": {
+      "batch": "MA-148",
+      "cards": [
+        "MA-132",
+        "MA-124",
+        "MA-126",
+        "MA-127",
+        "MA-129",
+        "MA-130",
+        "MA-131"
+      ],
+      "status": "boundary_rechecked_no_card_change",
+      "note": "MA-148 trennt drei fachlich unterschiedliche Fälle: bekannte feste Übergänge; unbekannte lokale Größen bei festgelegter Operationsbeziehung; unbekannte oder wertabhängige Bildungsregeln. MA126/127/131 betreffen begrenzte lokale beziehungsweise gekoppelte Unbekannte, MA129/130 bekannte Ketten und MA132 eine ausgewählte Änderung bei sonst festen zweiten Operanden. Keine dieser Karten belegt dadurch die selbstständige eindeutige Rekonstruktion einer nicht eingegrenzten Regel. Bei wertabhängigen Übergangsgrößen ändern sich die Operanden mit den Eingaben; die konstante Abweichung ausMA132 gilt dann nicht allgemein. Die vorhandene Kartenbegrenzung wird bestätigt, nicht erweitert. GS1000 ausdrücklich aus2064. FSP35479/35485:100 ausdrücklich im zugehörigen Rechenunterziel;37885:20 ausdrücklich. Die Knobelziele35571 und38021 enthalten keine eigene numerische Obergrenze. Für einen später belegten arithmetischen Teilanschluss wären100 aus35415 beziehungsweise20 aus37739 als didaktische Konkretisierung aus übergreifendem Bandziel auszuweisen. Nicht als direkte Zeilengrenze ausgeben. Regelauswertung, alle Operanden, Zwischen-, End- und Kontrollwerte einschließlich erfolgloser Kandidaten müssen den gewählten Rahmen einhalten. Regelabhängige Operanden bei veränderten Eingaben neu bestimmen; die alte konkrete Liste darf nicht stillschweigend festgehalten werden. Keine erfundene Schrittzahlgrenze, keine Einheiten-/Dezimalzahlfreigabe. Kleinerer Zahlenraum allein schließt keinen Teilanschluss aus."
     }
   },
   "publication_recheck": {
@@ -7113,10 +7128,9 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-147",
-    "status": "recorded_in_this_commit",
-    "app_commit": "5821a1f6d50c02bbb6e3d9eff8a01742995d3445",
-    "note": "Dieser Nachweiscommit ergänzt nur Prüf- und Veröffentlichungsdokumentation; HTML und fachliche Daten unverändert."
+    "batch": "MA-148",
+    "status": "pending",
+    "app_version_unchanged": "1.448"
   },
   "continuation_correction": {
     "batch": "MA-067",
@@ -7806,7 +7820,8 @@
       "follow_up_MA141": "Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Einblick gewinnen aus35504. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten; Einblick gewinnen grundlegende Orientierung ohne tiefere Reflexion (beide Pläne S.V/PDF5). Abwägen, Vergleichen, Auswählen und Darstellen sind Zielhandlungen. Weder Beurteilen aus dem Wort Abwägen noch Übertragen35470 aus dem benachbarten Rechenblock wird als FSP-Ebene übernommen."
     },
     "page139_35571": {
-      "MA-143": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Kennen aus35571. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten, Kennen Kenntnisse und Erfahrungen im gelernten Kontext (beide Lehrpläne S.V/PDF5). Probieren, Zurückführen, Finden und Beschreiben sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Weder Einblick gewinnen38021/35504 noch Übertragen35470 oder Anwenden38017 wird auf35571 übertragen."
+      "MA-143": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Kennen aus35571. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten, Kennen Kenntnisse und Erfahrungen im gelernten Kontext (beide Lehrpläne S.V/PDF5). Probieren, Zurückführen, Finden und Beschreiben sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Weder Einblick gewinnen38021/35504 noch Übertragen35470 oder Anwenden38017 wird auf35571 übertragen.",
+      "follow_up_MA148": "GS Übertragen aus2064;187199/187200/187201 sind untergeordnete Inhaltszeilen. Zahlenketten und Fibonacci stehen in unterschiedlichen Bemerkungen187201 beziehungsweise187200. FSP3/4: Übertragen35470 für35479/35485, Beherrschen35461 für35466, Kennen35439 für35442 und Kennen35571 für35577/35578/35580. FSP1/2: Einblick gewinnen37851 für37885, Beherrschen37931 für37950/37952 und eigenes Einblick gewinnen38021 für38022/38035/38037. Anwenden38017 gilt nur für den separaten Grafikblock38019. Definitionen beider PläneS.V/PDF5: Kennen im gelernten Kontext, Übertragen in vergleichbaren Kontexten, Beherrschen routiniert, Einblick gewinnen orientierend. Probieren, Beschreiben, Unterscheiden, Vergleichen und Erkennen sind keine Ersatz-Lernzielebenen. Die Methodenbezeichnung Übertragen innerhalb einer Bemerkung ersetzt ebenfalls nicht die Ebene des zugehörigen Hauptziels."
     }
   },
   "single_row_operator_evidence": {

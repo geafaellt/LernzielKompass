@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-147
+# Mathematik-Abgleich · MA-148
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte beziehungsweise wertabhängige Übergangsregeln prüfen und von bekannten festen Ketten sowie lokal bereits zugeordneten Unbekannten trennen; Bezug zu187200-Regelvariation gesondert halten. MA-147 erweitertMA-132 um Änderung genau eines bekannten zweiten Operanden um eins bei sonst fester Kette. Bei Addition gleichsinnige, bei Subtraktion gegensinnige Ergebnisänderung; vorherige Werte unverändert, Abweichung ab Änderungsstelle erhalten. Operand und alle betroffenen Zwischen-/Endwerte separat begrenzen. Startwertänderung bleibt alternative didaktische Konkretisierung. Beide Übertragen,GS1000/FSP100 ausdrücklich.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-147](review_batch_147.json).
+Bei GS3-187200 (mit Bezug187199 und Abgrenzung187201) die Auswahl einer passenden Regel aus einer ausdrücklich vorgegebenen endlichen Menge bekannter Regeln prüfen. FSP3/4-Knobelstrategie35571/35577/35578/35580 und FSP1/2-38021/38022/38035 getrennt bewerten; passende Regel, alle passenden Regeln und Eindeutigkeitsbeweis unterscheiden. Danach bekannte wertabhängige/rekursive Fortsetzung als eigener Ausschnitt. MA-148 bestätigt: MA132 setzt feste zweite Operanden voraus und trägt keine allgemeine wertabhängige Veränderungsregel; freie eindeutige Rekonstruktion ohne Regelklasse ist nicht als Pflichtanforderung hinzuzuerfinden. Die weiterführenden Mauer-/Dreiecks- und gekoppelten Unbekanntenfragen bleiben eigenständig offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Audit ohne App-Änderung,App1.448 unverändert. Keine neue Erstzählung; Deutsch-Abschluss DE-UZ-052 bewahren. [MA-148](review_batch_148.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1789,3 +1789,5 @@ MA-145 veröffentlicht und geprüft: App1.446, Commit 5f261e637006afd4dd5c586d6e
 MA-146 veröffentlicht und geprüft: App1.447, Commit 667e377dcd380944eb15c43f28b0e3e78d534e7b, Pages46017297254 erfolgreich. Ausgelieferte App mit beiden lokalen HTML-Dateien bytegleich (5812703 Bytes, SHA256 0583a2fdf9a885341265a439c0ac3488e6530ce8f0d68fd39ec2ff88f68d6284). Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden. Quellen- und Prüfgrenzen in review_batch_146.json; kein neuer vollständiger Mathematik-Funktionslauf.
 
 MA-147 veröffentlicht und geprüft: App1.448, Commit 5821a1f6d50c02bbb6e3d9eff8a01742995d3445, Pages46027325700 erfolgreich. Ausgelieferte App mit beiden lokalen HTML-Dateien bytegleich (5815708 Bytes, SHA256 1679b6d1f1a972e73a1ebba2ddc6258cab946101a7d0f565df6c2fb62b792708). Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden. Quellen- und Prüfgrenzen in review_batch_147.json; kein neuer vollständiger Mathematik-Funktionslauf.
+
+MA-148: Vier Datenprüfungen und mathematische Abgrenzungsprüfung bestanden. Ausschließlich Auditänderungen; App1.448 und Deutsch unverändert. Keine neue Browser-/Liveprüfung. Veröffentlichungsnachweis folgt im Prüfpaket.
