@@ -1,0 +1,242 @@
+{
+  "id": "MA-149",
+  "date": "2026-11-27",
+  "base_commit": "d2663782cc87860bf1e212e5d084f0520801f9fe",
+  "scope": "GS3-187200: eine passende Regel aus einer vorgegebenen endlichen Menge bekannter fester Plus-/Minusregeln; beide FSP-Bänder.",
+  "source_verification": {
+    "html": "Beide amtlichen HTML-Lehrpläne online erfolgreich gelesen.",
+    "pdf": "Gespeicherte amtliche PDFs textuell geprüft: beideS.V/PDF5;GS S.22–23/PDF32–33;FSP S.9/PDF21,S.16–17/PDF28–29,S.23/PDF35. Prüfsummen bestätigt. Kein neuer PDF-Download oder Rendernachweis.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2064",
+      "level": 1,
+      "parent_target_id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "Übertragen",
+      "version": "2026"
+    },
+    {
+      "id": "page912_187199",
+      "level": 2,
+      "parent_target_id": "page912_2064",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "",
+      "version": "2026"
+    },
+    {
+      "id": "page912_187200",
+      "level": 3,
+      "parent_target_id": "page912_2064",
+      "target": "Untersuchen von Zahlenfolgen",
+      "remarks": "anspruchsvolle Bildungsregeln Startzahlen nach Regeln verändern Fibonacci-Folge",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187200",
+      "grade": "3",
+      "area_id": "MA-page912_1999",
+      "area": "Lernbereich 2: Zahl und Operation",
+      "operator": "",
+      "version": "2026"
+    },
+    {
+      "id": "page139_38021",
+      "level": 1,
+      "parent_target_id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "Einblick gewinnen",
+      "version": "2019"
+    },
+    {
+      "id": "page139_38022",
+      "level": 2,
+      "parent_target_id": "page139_38021",
+      "target": "Lösen durch Probieren und Probehandeln",
+      "remarks": "Tangram",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38022",
+      "grade": "1/2",
+      "area_id": "MA-page139_37750",
+      "area": "Wahlbereich 4: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35571",
+      "level": 1,
+      "parent_target_id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "Kennen",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35577",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Probieren",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35577",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35578",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_35580",
+      "level": 2,
+      "parent_target_id": "page139_35571",
+      "target": "Beschreiben eigener Lösungswege",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35580",
+      "grade": "3/4",
+      "area_id": "MA-page139_35421",
+      "area": "Wahlbereich 2: Zahlenzauberei",
+      "operator": "",
+      "version": "2019"
+    },
+    {
+      "id": "page139_38035",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38035",
+      "parent_target_id": "page139_38021",
+      "target": "Prüfen, ob das Problem rechnerisch lösbar ist",
+      "level": 2,
+      "operator": "",
+      "grade": "1/2",
+      "source_note": "S.16/PDF28 und gespeicherte amtliche HTML-Zeile; nur Kandidatennachweis im Audit, keine neue Kartenzuordnung."
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187200",
+      "first_review": false,
+      "status": "limited_connection_added",
+      "card": "MA-133",
+      "finding": "GS3-187200 Untersuchen von Zahlenfolgen unter187199/Übertragen2064 wird für die Auswahl einer passenden Regel aus ausdrücklich vorgegebenen endlich vielen bekannten Plus-/Minusregeln begrenzt zugeordnet. Jeder Kandidat bedeutet dieselbe feste Addition oder Subtraktion eines bekannten nichtnegativen Operanden an jedem Folgenschritt. FSP3/4-35577/35578/35580 unterKennen35571 belegt gelernte ausgewählte Knobelstrategien und die Beschreibung des eigenen Wegs. Die endliche Regelauswahl und ihre Beschränkung auf feste additive/subtraktive Übergänge sind didaktische Konkretisierungen dieses Strategiebezugs, kein amtlich vorgeschriebenes FSP-Folgenformat.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus2064 (bekannte Kenntnisse in vergleichbaren Kontexten); FSP Kennen aus35571 (Kenntnisse und Erfahrungen im gelernten Kontext). Beide Definitionstabellen S.V/PDF5. Auswählen, Untersuchen, Probieren und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Einblick gewinnen38021 und Anwenden38017 gehören zu anderen Zielblöcken.",
+      "number_scope": "GS bis 1 000 ausdrücklich aus2064. FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet;35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, anspruchsvollere und rekursive Bildungsregeln sowie systematische Startzahlvariation sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund.",
+      "prerequisites": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Die Lehrkraft legt einen konkreten endlichen Folgenausschnitt mit mindestens einem Übergang sowie eine überschaubare endliche Auswahl bekannter Regeln fest. Jede Regel und ihre Bedeutung sind bereits bekannt; unklar ist nur, welche zu allen gegebenen Übergängen passt. Mindestens eine zulässige Regel passt. Die Anzahl der Regeln und Folgenglieder wird didaktisch festgelegt, ohne erfundene amtliche Obergrenze. FSP verwendet eine gelernte Strategie im gelernten Kontext, GS in einem vergleichbaren Kontext. Null ist zulässig; gleiche Wirkung verschiedener angebotener Regeln begründet keinen Fehler.",
+      "uncertainty_and_limits": "Eine passende Regel genügt; keine Forderung nach allen passenden Regeln oder nach Eindeutigkeit. Übereinstimmung nur am ersten Übergang genügt nicht, wenn weitere Übergänge vorgegeben sind. Die Passung zum endlichen Ausschnitt beweist keine allgemeine oder einzig mögliche Bildungsregel. Kein Anspruch auf freie Regelentdeckung, Unlösbarkeitsbeweis, wechselnde oder wertabhängige Operanden, rekursive Fortsetzung oder systematische Startzahlvariation. Eine zufällig passende Auswahl allein zeigt die verfügbare gelernte Strategie noch nicht.",
+      "remaining_scope": "MA-133 deckt nur die vorgegebene endliche Auswahl bekannter fester Plus-/Minusregeln ab. MA-124 bleibt bekannte gleichschrittige Fortsetzung; MA-131 bleibt die Belegung gekoppelter unbekannter Werte; MA-132 bleibt Änderung einer bekannten festen Kette. Bekannte wertabhängige/rekursive Fortsetzung und anspruchsvollere Regeln bei187200 sowie Mauer-/Dreiecks- und weiterführende gekoppelte Unbekanntenfragen bleiben offen."
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199"
+  ],
+  "band_selection": {
+    "1/2": "38021/38022/38035 unterEinblick gewinnen sind positive vorbereitende Strategiekandidaten imWahlbereich4; bis20 wäre didaktisch aus37739 abzuleiten. Kein Ausschluss wegen kleinerem Zahlenraum. Prüfen rechnerischer Lösbarkeit ist kein Beleg für Vollständigkeits- oder Eindeutigkeitsbeweise. Anwenden38017 wird nicht auf38021 übertragen.",
+    "3/4": "35571/35577/35578/35580 unterKennen ist für gelernte Strategie und Beschreibung des eigenen Wegs stufenbandpassend bevorzugt. Wahlbereich2 muss gewählt sein;100 didaktisch aus35415, keine Zeilengrenze. Die endliche feste Regelauswahl ist didaktisch, kein amtlicher allgemeiner Entdeckungsalgorithmus.35466 unterBeherrschen betrifft bekanntes Schrittzählen(MA124), nicht allein die Auswahl unbekannter Passung."
+  },
+  "existing_cards_rechecked": [
+    "MA-124",
+    "MA-131",
+    "MA-132"
+  ],
+  "existing_card_review": "MA-133 deckt nur die vorgegebene endliche Auswahl bekannter fester Plus-/Minusregeln ab. MA-124 bleibt bekannte gleichschrittige Fortsetzung; MA-131 bleibt die Belegung gekoppelter unbekannter Werte; MA-132 bleibt Änderung einer bekannten festen Kette. Bekannte wertabhängige/rekursive Fortsetzung und anspruchsvollere Regeln bei187200 sowie Mauer-/Dreiecks- und weiterführende gekoppelte Unbekanntenfragen bleiben offen.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 1,
+    "updated_cards": 0,
+    "cards_total": 133,
+    "same_band": 104,
+    "cross_band": 29,
+    "open_questions_total": 27,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 304,
+    "target_anchors": 302
+  },
+  "tests": {
+    "status": "local_passed_live_pending",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-27\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 133 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 133 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131/MA-133 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 446 Karten, 892 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "132 bisherige Mathematikkarten,445 bisherige Ebeneneinträge,304 Quellen und alle Deutschdateien unverändert.133 Mathematikkarten,446 Karten insgesamt,27 Anschlussfragen,220 Inventurzeilen;root/dist bytegleich.",
+    "limits": "Nur Daten und Version geändert,keine UI-Funktionslogik. Gezielter Kartenlauf und vollständiger Ebenenanzeigelauf;kein neuer vollständiger Mathematik-Funktionslauf und keine erneute semantische Vollprüfung aller Bestandskarten. Kein neuer PDF-Download/Rendernachweis."
+  },
+  "publication": {
+    "batch": "MA-149",
+    "status": "pending_publication",
+    "app_version": "1.449"
+  },
+  "continuation": "GS3-187200: bekannte wertabhängige/rekursive Fortsetzung als eigenen Ausschnitt prüfen, zunächst die vorgegebene additive Bildung aus zwei vorherigen Gliedern. FSP3/4-35479/35485 und35571/35577/35578/35580 sowie FSP1/2-37885 und38021/38022 getrennt nach Hauptzielebenen, Inhalten und Zahlenräumen prüfen. Keine freie Regelerfindung, allgemeine Eindeutigkeit oder konstante Änderungswirkung ausMA132 voraussetzen. MA149 ergänztMA133 für eine passende Regel aus vorgegebenen bekannten festen Plus-/Minusregeln. Weiterführende Regel-, Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig offen.133 Karten,104 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052).",
+  "mathematical_check": {
+    "status": "passed",
+    "exhaustive_three_term_sequences_M20": 9261,
+    "constant_sequences_with_two_equivalent_zero_rules": 21,
+    "boundary_frames": [
+      20,
+      100,
+      1000
+    ],
+    "finding": "Endliche passende Regelauswahl gegen alle Übergänge geprüft; +0/-0 zeigen mehrere passende Regelbezeichnungen. Erste Passung genügt nicht. Alle Kandidatenrechnungen müssen vorab innerhalb des Rahmens liegen. Interne Gegenprüfung, keine Unterrichtsaufgaben."
+  }
+}

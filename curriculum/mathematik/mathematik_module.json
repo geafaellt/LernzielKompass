@@ -1,6 +1,6 @@
 {
   "schema_version": "mathematik-1.0",
-  "version": "MA-2026-11-27.11",
+  "version": "MA-2026-11-27.12",
   "checked_on": "2026-11-27",
   "status": "Erster begrenzter Abgleich zur fachlichen Erprobung",
   "scope": "GS Mathematik 1/2, 3, 4 (2026) und FSP Lernen Mathematik 1/2, 3/4 (2019)",
@@ -12698,6 +12698,104 @@
         "Q-MA-page139_35470",
         "Q-MA-page139_35479",
         "Q-MA-page139_35485"
+      ]
+    },
+    {
+      "id": "MA-133",
+      "subject": "Mathematik",
+      "theme": "Passende bekannte Folgenregel · FSP-Wahlbereich",
+      "app_area": "MA-page912_1999",
+      "status": "Bedingter Teilanschluss · gelernte Knobelstrategie",
+      "gs_anchor": "GS Mathematik Kl.3 · Zahlenfolgen187200 unter187199/Übertragen2064 bis1 000; endliche bekannte Regelauswahl didaktisch",
+      "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Knobelstrategien35577/35578/35580 unterKennen35571. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+      "gs_operator": "Übertragen",
+      "fsp_operator": "Kennen",
+      "operator_relation": "Amtliche Lernzielebenen: GS Übertragen aus2064 (bekannte Kenntnisse in vergleichbaren Kontexten); FSP Kennen aus35571 (Kenntnisse und Erfahrungen im gelernten Kontext). Beide Definitionstabellen S.V/PDF5. Auswählen, Untersuchen, Probieren und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Einblick gewinnen38021 und Anwenden38017 gehören zu anderen Zielblöcken. GS bis 1 000 ausdrücklich aus2064. FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet;35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, anspruchsvollere und rekursive Bildungsregeln sowie systematische Startzahlvariation sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund.",
+      "gs_target_ids": [
+        "page912_2064",
+        "page912_187199",
+        "page912_187200"
+      ],
+      "fsp_target_ids": [
+        "page139_35571",
+        "page139_35577",
+        "page139_35578",
+        "page139_35580"
+      ],
+      "stage_alignment": {
+        "gs_anchor_grade": "3",
+        "gs_curriculum_band": "3/4",
+        "fsp_curriculum_bands": [
+          "3/4"
+        ],
+        "relation": "same-band"
+      },
+      "content_review_required": true,
+      "app_review_message": "GS3-187200 Untersuchen von Zahlenfolgen unter187199/Übertragen2064 wird für die Auswahl einer passenden Regel aus ausdrücklich vorgegebenen endlich vielen bekannten Plus-/Minusregeln begrenzt zugeordnet. Jeder Kandidat bedeutet dieselbe feste Addition oder Subtraktion eines bekannten nichtnegativen Operanden an jedem Folgenschritt. FSP3/4-35577/35578/35580 unterKennen35571 belegt gelernte ausgewählte Knobelstrategien und die Beschreibung des eigenen Wegs. Die endliche Regelauswahl und ihre Beschränkung auf feste additive/subtraktive Übergänge sind didaktische Konkretisierungen dieses Strategiebezugs, kein amtlich vorgeschriebenes FSP-Folgenformat. Amtliche Lernzielebenen: GS Übertragen aus2064 (bekannte Kenntnisse in vergleichbaren Kontexten); FSP Kennen aus35571 (Kenntnisse und Erfahrungen im gelernten Kontext). Beide Definitionstabellen S.V/PDF5. Auswählen, Untersuchen, Probieren und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Einblick gewinnen38021 und Anwenden38017 gehören zu anderen Zielblöcken. GS bis 1 000 ausdrücklich aus2064. FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet;35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, anspruchsvollere und rekursive Bildungsregeln sowie systematische Startzahlvariation sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Die Lehrkraft legt einen konkreten endlichen Folgenausschnitt mit mindestens einem Übergang sowie eine überschaubare endliche Auswahl bekannter Regeln fest. Jede Regel und ihre Bedeutung sind bereits bekannt; unklar ist nur, welche zu allen gegebenen Übergängen passt. Mindestens eine zulässige Regel passt. Die Anzahl der Regeln und Folgenglieder wird didaktisch festgelegt, ohne erfundene amtliche Obergrenze. FSP verwendet eine gelernte Strategie im gelernten Kontext, GS in einem vergleichbaren Kontext. Null ist zulässig; gleiche Wirkung verschiedener angebotener Regeln begründet keinen Fehler. Eine passende Regel genügt; keine Forderung nach allen passenden Regeln oder nach Eindeutigkeit. Übereinstimmung nur am ersten Übergang genügt nicht, wenn weitere Übergänge vorgegeben sind. Die Passung zum endlichen Ausschnitt beweist keine allgemeine oder einzig mögliche Bildungsregel. Kein Anspruch auf freie Regelentdeckung, Unlösbarkeitsbeweis, wechselnde oder wertabhängige Operanden, rekursive Fortsetzung oder systematische Startzahlvariation. Eine zufällig passende Auswahl allein zeigt die verfügbare gelernte Strategie noch nicht.",
+      "shared_object_suggestion": "Die Passung einer bekannten festen Plus-/Minusregel zu allen Übergängen eines gegebenen endlichen Zahlenfolgenausschnitts.",
+      "fine_goals": [
+        {
+          "track": "Grundschule",
+          "goal": "Das Kind verwendet eine bekannte Lösungsstrategie in einem vergleichbaren Zahlenfolgenzusammenhang, mit der es aus vorgegebenen endlich vielen bekannten festen Plus-/Minusregeln eine zum gesamten gegebenen endlichen Folgenausschnitt passende Regel auswählt. Es beschreibt den eigenen Weg und den Zusammenhang zwischen Regel und Übergängen. Der Zahlenrahmen reicht bis 1 000.",
+          "criterion": "Die ausgewählte Regel passt zu allen gegebenen Übergängen; ein einzelner passender Übergang genügt bei einem längeren Ausschnitt nicht. Die Beschreibung macht den Gebrauch der bekannten Strategie und den Bezug zwischen Regel und Übergängen erkennbar. Eine passende Regel genügt; keine Forderung nach allen passenden Regeln oder Eindeutigkeitsbegründung. Alle Folgenglieder, Operanden, Zwischen-, Ergebnis-, Probe- und Kontrollwerte einschließlich verworfener Kandidatenrechnungen bleiben nichtnegative ganze Zahlen bis 1 000.",
+          "status": "Didaktische Konkretisierung: vorgegebene endliche Auswahl bekannter fester Plus-/Minusregeln; mindestens eine passende Regel; keine amtlich vorgeschriebene Anzahl von Regeln oder Gliedern."
+        },
+        {
+          "track": "FSP Lernen",
+          "goal": "Das Kind verfügt im gelernten Knobelzusammenhang über eine ausgewählte Strategie des Probierens oder Zurückführens auf bekannte Rechenbeziehungen, mit der es aus vorgegebenen endlich vielen bekannten festen Plus-/Minusregeln eine zum gesamten gegebenen endlichen Folgenausschnitt passende Regel auswählt. Es beschreibt den eigenen Weg und den Zusammenhang zwischen Regel und Übergängen. Der Zahlenrahmen bis 100 ist didaktisch aus dem übergreifenden Bandziel abgeleitet.",
+          "criterion": "Die ausgewählte Regel passt zu allen gegebenen Übergängen; ein einzelner passender Übergang genügt bei einem längeren Ausschnitt nicht. Die Beschreibung macht den Gebrauch der bekannten Strategie und den Bezug zwischen Regel und Übergängen erkennbar. Eine passende Regel genügt; keine Forderung nach allen passenden Regeln oder Eindeutigkeitsbegründung. Alle Folgenglieder, Operanden, Zwischen-, Ergebnis-, Probe- und Kontrollwerte einschließlich verworfener Kandidatenrechnungen bleiben nichtnegative ganze Zahlen bis 100. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Kein Transfer in einen unbekannten Kontext vorausgesetzt.",
+          "status": "Didaktische Konkretisierung: vorgegebene endliche Auswahl bekannter fester Plus-/Minusregeln; mindestens eine passende Regel; keine amtlich vorgeschriebene Anzahl von Regeln oder Gliedern.",
+          "scope_status": "derived",
+          "range_max": 100
+        }
+      ],
+      "number_range_alignment": {
+        "relation": "reduced-fsp",
+        "gs_max": 1000,
+        "fsp_max": 100,
+        "gs_source_id": "page912_2064",
+        "fsp_source_id": "page139_35415",
+        "fsp_basis": "stage_goal_context",
+        "notice": "GS bis 1 000 ausdrücklich aus2064. FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet;35571/35577/35578/35580 nennen keine eigene Zahlenraumobergrenze. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, anspruchsvollere und rekursive Bildungsregeln sowie systematische Startzahlvariation sind nicht abgedeckt. Ein kleinerer FSP-Zahlenraum allein ist kein Ausschlussgrund.",
+        "full_gs_goal_covered": false
+      },
+      "evidence_classification": {
+        "gs": "2064 liefertÜbertragen undbis1000;187199 ist Muster-Unterziel,187200 Untersuchen von Zahlenfolgen. Anspruchsvolle Regeln, Startzahlvariation und Fibonacci stehen in Bemerkungen. Endliche bekannte Regelauswahl didaktisch.",
+        "fsp": "35571 istKennen-Hauptziel imWahlbereich2;35577/35578/35580 sind Strategie-Unterziele. Auswahl bekannter Folgenregeln didaktischer Teilanschluss,kein amtlich vorgeschriebenesFolgenformat.",
+        "context_only_gs_ids": [
+          "page912_2064",
+          "page912_187199"
+        ]
+      },
+      "fsp_scope": {
+        "status": "derived",
+        "summary": "Bis 100 · didaktisch aus übergreifendem Bandziel abgeleitet. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei.",
+        "detail": "35415 nennt Operationsvorstellungen bis100. Die Knobelzeilen35571/35577/35578/35580 nennen keine eigene Obergrenze;100 wird für diesen arithmetischen Ausschnitt didaktisch übernommen. Die100 aus der benachbarten35479 wird nicht als Grenze des Wahlbereichs ausgegeben. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35571",
+          "Q-MA-page139_35415"
+        ],
+        "planning_rule": "Alle gegebenen Folgenglieder, festen Operanden und sämtliche relevanten Rechen-, Zwischen-, Ergebnis-, Probe- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Auch verworfene Kandidatenrechnungen müssen im Rahmen bleiben. Die Lehrkraft prüft vorab jeden angebotenen Kandidaten an jedem gegebenen Übergang auf zulässige Werte, auch wenn dessen Ergebnis nicht zum folgenden Glied passt. Kein negativer Wert und keine Überschreitung mit späterem Ausgleich. Ganze Anzahlen ohne Einheiten, Dezimalbrüche oder Umrechnungen; keine Multiplikation oder Division. Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Die Lehrkraft legt einen konkreten endlichen Folgenausschnitt mit mindestens einem Übergang sowie eine überschaubare endliche Auswahl bekannter Regeln fest. Jede Regel und ihre Bedeutung sind bereits bekannt; unklar ist nur, welche zu allen gegebenen Übergängen passt. Mindestens eine zulässige Regel passt. Die Anzahl der Regeln und Folgenglieder wird didaktisch festgelegt, ohne erfundene amtliche Obergrenze. FSP verwendet eine gelernte Strategie im gelernten Kontext, GS in einem vergleichbaren Kontext. Null ist zulässig; gleiche Wirkung verschiedener angebotener Regeln begründet keinen Fehler. Eine passende Regel genügt; keine Forderung nach allen passenden Regeln oder nach Eindeutigkeit. Übereinstimmung nur am ersten Übergang genügt nicht, wenn weitere Übergänge vorgegeben sind. Die Passung zum endlichen Ausschnitt beweist keine allgemeine oder einzig mögliche Bildungsregel. Kein Anspruch auf freie Regelentdeckung, Unlösbarkeitsbeweis, wechselnde oder wertabhängige Operanden, rekursive Fortsetzung oder systematische Startzahlvariation. Eine zufällig passende Auswahl allein zeigt die verfügbare gelernte Strategie noch nicht. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "fsp_elective_requirement": {
+        "required": true,
+        "area_id": "MA-page139_35421",
+        "label": "Wahlbereich 2: Zahlenzauberei",
+        "notice": "Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei."
+      },
+      "context_source_ids": [
+        "Q-MA-page139_35415"
+      ],
+      "source_ids": [
+        "Q-MA-page912_2064",
+        "Q-MA-page912_187199",
+        "Q-MA-page912_187200",
+        "Q-MA-page139_35571",
+        "Q-MA-page139_35577",
+        "Q-MA-page139_35578",
+        "Q-MA-page139_35580",
+        "Q-MA-page139_35415"
       ]
     }
   ]
