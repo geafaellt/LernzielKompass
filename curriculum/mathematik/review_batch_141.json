@@ -299,7 +299,7 @@
   },
   "updated_card": "MA-122",
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -335,11 +335,26 @@
     "local_browser": "PASS: targeted MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "NurMA-122 präzisiert;129 andere Mathematikkarten,alle443 Ebeneneinträge,alle Deutschdateien,300 App-Quellen und26 Fragen unverändert;220 Inventurzeilen;keine neue Erstzählung;UI-Logik bis auf PDF-Fußzeilenversion unverändert;root/dist bytegleich.",
-    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal bestanden; Liveprüfung steht aus. GS-HTML zweimal Zeitlimitfehler, gespeicherte amtliche GS-PDF textuell geprüft; FSP-HTML und gespeicherte FSP-PDF geprüft. Kein neuer PDF-Download oder Rendernachweis."
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. GS-HTML zweimal Zeitlimitfehler; gespeicherte amtliche GS-PDF textuell geprüft. FSP-HTML und gespeicherte FSP-PDF geprüft. Kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig.",
+    "live_browser": "PASS: targeted MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.443"
+    "batch": "MA-141",
+    "status": "published_verified",
+    "app_version": "1.443",
+    "commit": "dd0342bf07fac60b9b3ead6adc92223f048b8b85",
+    "tree": "cc57560d6149fef908cdebfc42cfc08b9d3ce94e",
+    "pages_run_id": 45987693735,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45987693735",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "bytes": 5781016,
+    "sha256": "ff6c41253975cbf4cc00d0d1000ccbb64175fd13d91b4f22d2d969023168478d",
+    "live_browser": "PASS: targeted MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390. PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "verified_on": "2026-11-27",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. GS-HTML zweimal Zeitlimitfehler; gespeicherte amtliche GS-PDF textuell geprüft. FSP-HTML und gespeicherte FSP-PDF geprüft. Kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig."
   },
   "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: gekoppelte unbekannte Übergangsgrößen/Zwischenwerte, danach Regel-/Startwertabhängigkeiten prüfen. MA-141 ergänzt bestehendeMA-122 für die vorgegebene lokale Plus-/Minuswahl im bekannten Sachzusammenhang; GS Übertragen/FSP Einblick gewinnen,GS1000 ausdrücklich/FSP100 didaktisch aus35415. Positive Operanden nur als didaktische Bedingung eindeutiger rechnerischer Wahl; null bleibt mehrdeutig und begründet keinen Zwang zur Zeichenwahl. Allgemeine selbstständige Zeichenrekonstruktion ohne Varianten/Sachbezug ist nicht als direkter Anschluss bestätigt.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201; Deutsch-Abschluss DE-UZ-052 bewahren."
 }
