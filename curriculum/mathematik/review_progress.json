@@ -3836,7 +3836,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärtsketten und Umkehrreihenfolge, zunächst zwei bekannte additive/subtraktive Übergänge;35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. Mehr als zwei gemischte Vorwärtsschritte sowie unbekannte Übergangsgrößen/Regeln bleiben gesichert offen. MA-136 ergänztMA-128 für genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext; GS Übertragen1000 ausdrücklich/FSP Einblick gewinnen100 didaktisch aus35415.128 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.438: sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenprüfung441/882 lokal bestanden; Veröffentlichung und Live-Prüfung noch ausstehend.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärtsketten und Umkehrreihenfolge, zunächst zwei bekannte additive/subtraktive Übergänge;35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. Mehr als zwei gemischte Vorwärtsschritte sowie unbekannte Übergangsgrößen/Regeln bleiben gesichert offen. MA-136 ergänztMA-128 für genau zwei bekannte gemischte Vorwärtsschritte im Sachkontext; GS Übertragen1000 ausdrücklich/FSP Einblick gewinnen100 didaktisch aus35415.128 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.438: auf main veröffentlicht; Pages erfolgreich, Live-App bytegleich, sechs Datenprüfungen und gezielte Karten-/Ebenenprüfung441/882 lokal/live bestanden. Kein neuer vollständiger Mathematik-Funktionslauf.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6186,8 +6186,20 @@
   },
   "latest_publication": {
     "batch": "MA-136",
-    "status": "local_verified_pending_publication",
+    "status": "published_verified",
     "app_version": "1.438",
+    "commit": "adee7282c30b9e22da605d41476cc6a9c86bd157",
+    "tree": "4b5c082ca0a28d1b2aefdda75d31c367d5bf66f0",
+    "pages_run_id": 45944709607,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45944709607",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "bytes": 5745816,
+    "sha256": "d62ba2cfc4285753e8e0dc6f4a7af86034c3c47ad9436dd82bf4cafb1990a800",
+    "live_browser": "PASS: targeted MA-120/MA-122/MA-125/MA-126/MA-127/MA-128 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390. PASS: 441 Karten, 882 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "verified_on": "2026-11-27",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller128 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Gesamtabgleich unvollständig.",
     "previous_publication": {
       "batch": "MA-135",
       "status": "published_verified",
@@ -6730,10 +6742,10 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-135",
+    "batch": "MA-136",
     "status": "recorded_in_this_commit",
-    "app_commit": "cab968b04aff6d8c40756e36225104359ad6642b",
-    "note": "Veröffentlichungsnachweis nach bestandenen Daten-, gezielten Karten- und Ebenenprüfungen; eigene Commitkennung aus Git-Historie ersichtlich."
+    "app_commit": "adee7282c30b9e22da605d41476cc6a9c86bd157",
+    "note": "Dieser Nachweiscommit ergänzt nur Prüf- und Veröffentlichungsdokumentation; HTML und fachliche Daten unverändert."
   },
   "continuation_correction": {
     "batch": "MA-067",
