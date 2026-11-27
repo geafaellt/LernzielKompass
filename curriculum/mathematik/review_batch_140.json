@@ -242,7 +242,7 @@
   },
   "updated_card": "MA-126",
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -278,11 +278,26 @@
     "local_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "NurMA-126 präzisiert;129 andere Mathematikkarten,alle443 Ebeneneinträge,alle Deutschdateien,300 Quellen und26 Fragen unverändert;220 Inventurzeilen;keine neue Erstzählung;UI-Logik bis auf PDF-Fußzeilenversion unverändert;root/dist bytegleich.",
-    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal bestanden; Liveprüfung steht aus. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft; kein neuer PDF-Download oder Rendernachweis."
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft; kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig.",
+    "live_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.442"
+    "batch": "MA-140",
+    "status": "published_verified",
+    "app_version": "1.442",
+    "commit": "bfc104371fb81596abb4902000747d66f9470fa5",
+    "tree": "138bbca46d99c9b924f1e1a2d70636a15ae1fbe7",
+    "pages_run_id": 45971293408,
+    "pages_run_url": "https://github.com/geafaellt/LernzielKompass/actions/runs/45971293408",
+    "pages_conclusion": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/",
+    "live_byte_equal": true,
+    "bytes": 5775156,
+    "sha256": "7899c2adb3a208ce70e7bcd97a5e1e6c823a3f3eabbc6a746f7f5f74acf8deae",
+    "live_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390. PASS: 443 Karten, 886 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "verified_on": "2026-11-27",
+    "limits": "Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller130 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Beide amtlichen HTML-Quellen und gespeicherte PDFs textuell geprüft; kein neuer PDF-Download oder Rendernachweis. Gesamtabgleich unvollständig."
   },
   "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: unbekannte Operationszeichen prüfen, einschließlich möglicher Mehrdeutigkeit bei null; danach gekoppelte unbekannte Übergangsgrößen/Zwischenwerte und Regel-/Startwertabhängigkeiten. Lokale unbekannte Zu- und Abzüge bei zwei bekannten benachbarten Werten und bekanntem Zeichen sind als didaktischer fehlende-Summanden-Bezug aufMA-126 eingeordnet. MA-140 präzisiert diese Bestandskarte; beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller Zwischen- und Kontrollwerte.130 Karten,101 stufengleich,29 stufenübergreifend,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Karte oder Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren."
 }
