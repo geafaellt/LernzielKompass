@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187200",
-  "next_step": "GS3-187200: bekannte wertabhängige/rekursive Fortsetzung als eigenen Ausschnitt prüfen, zunächst die vorgegebene additive Bildung aus zwei vorherigen Gliedern. FSP3/4-35479/35485 und35571/35577/35578/35580 sowie FSP1/2-37885 und38021/38022 getrennt nach Hauptzielebenen, Inhalten und Zahlenräumen prüfen. Keine freie Regelerfindung, allgemeine Eindeutigkeit oder konstante Änderungswirkung ausMA132 voraussetzen. MA149 ergänztMA133 für eine passende Regel aus vorgegebenen bekannten festen Plus-/Minusregeln. Weiterführende Regel-, Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig offen.133 Karten,104 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052).",
+  "next_step": "GS3-187200: bekannte wertabhängige/rekursive Fortsetzung als eigenen Ausschnitt prüfen, zunächst die vorgegebene additive Bildung aus zwei vorherigen Gliedern. FSP3/4-35479/35485 und35571/35577/35578/35580 sowie FSP1/2-37885 und38021/38022 getrennt nach Hauptzielebenen, Inhalten und Zahlenräumen prüfen. Keine freie Regelerfindung, allgemeine Eindeutigkeit oder konstante Änderungswirkung ausMA132 voraussetzen. MA149 ergänztMA133 für eine passende Regel aus vorgegebenen bekannten festen Plus-/Minusregeln. Weiterführende Regel-, Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig offen.133 Karten,104 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052). Sechs Datenprüfungen, mathematische Gegenprüfung sowie gezielte Karten- und vollständige Ebenenanzeigeprüfung lokal/live bestanden; App1.449 aufmain undPages veröffentlicht, Live-Datei bytegleich.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -6414,9 +6414,20 @@
     "browser_live": "targeted MA-054 passed"
   },
   "latest_publication": {
+    "commit": "a9440237454c35d030f75b8435c9ee19bd3f0f6f",
+    "tree": "ed9775a97e522d2bbb5d23c81db7db37c91de5ab",
+    "html_blob": "9d0657cb659d7ec5eb5d5ead91fb17f053c61f4e",
+    "pages_run": 46051505837,
+    "bytes": 5827446,
+    "sha256": "d6761d1b79f66762793f6c94c003fc6fdcb4d248695718920ac57a51cb70918e",
+    "live_byte_equal": true,
     "batch": "MA-149",
-    "status": "pending_publication",
+    "status": "published_verified",
     "app_version": "1.449",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/?v=1.449-ma149",
+    "browser": "Gezielte Kartenprüfung und Ebenenanzeige446/892 lokal/live bestanden; kein neuer vollständiger Mathematik-Funktionslauf.",
+    "checked_at": "2026-11-27T18:45:01.977336+00:00",
     "previous": {
       "batch": "MA-147",
       "status": "published_verified",

@@ -184,7 +184,7 @@
     "target_anchors": 302
   },
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -220,12 +220,25 @@
     "local_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131/MA-133 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 446 Karten, 892 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "132 bisherige Mathematikkarten,445 bisherige Ebeneneinträge,304 Quellen und alle Deutschdateien unverändert.133 Mathematikkarten,446 Karten insgesamt,27 Anschlussfragen,220 Inventurzeilen;root/dist bytegleich.",
-    "limits": "Nur Daten und Version geändert,keine UI-Funktionslogik. Gezielter Kartenlauf und vollständiger Ebenenanzeigelauf;kein neuer vollständiger Mathematik-Funktionslauf und keine erneute semantische Vollprüfung aller Bestandskarten. Kein neuer PDF-Download/Rendernachweis."
+    "limits": "Nur Daten und Version geändert,keine UI-Funktionslogik. Gezielter Kartenlauf und vollständiger Ebenenanzeigelauf;kein neuer vollständiger Mathematik-Funktionslauf und keine erneute semantische Vollprüfung aller Bestandskarten. Kein neuer PDF-Download/Rendernachweis.",
+    "live_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131/MA-133 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 446 Karten, 892 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
+    "commit": "a9440237454c35d030f75b8435c9ee19bd3f0f6f",
+    "tree": "ed9775a97e522d2bbb5d23c81db7db37c91de5ab",
+    "html_blob": "9d0657cb659d7ec5eb5d5ead91fb17f053c61f4e",
+    "pages_run": 46051505837,
+    "bytes": 5827446,
+    "sha256": "d6761d1b79f66762793f6c94c003fc6fdcb4d248695718920ac57a51cb70918e",
+    "live_byte_equal": true,
     "batch": "MA-149",
-    "status": "pending_publication",
-    "app_version": "1.449"
+    "status": "published_verified",
+    "app_version": "1.449",
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/?v=1.449-ma149",
+    "browser": "Gezielte Kartenprüfung und Ebenenanzeige446/892 lokal/live bestanden; kein neuer vollständiger Mathematik-Funktionslauf.",
+    "checked_at": "2026-11-27T18:45:01.977336+00:00"
   },
   "continuation": "GS3-187200: bekannte wertabhängige/rekursive Fortsetzung als eigenen Ausschnitt prüfen, zunächst die vorgegebene additive Bildung aus zwei vorherigen Gliedern. FSP3/4-35479/35485 und35571/35577/35578/35580 sowie FSP1/2-37885 und38021/38022 getrennt nach Hauptzielebenen, Inhalten und Zahlenräumen prüfen. Keine freie Regelerfindung, allgemeine Eindeutigkeit oder konstante Änderungswirkung ausMA132 voraussetzen. MA149 ergänztMA133 für eine passende Regel aus vorgegebenen bekannten festen Plus-/Minusregeln. Weiterführende Regel-, Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig offen.133 Karten,104 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052).",
   "mathematical_check": {

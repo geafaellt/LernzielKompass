@@ -4,7 +4,7 @@ Der LernzielKompass unterstützt Lehrkräfte bei der Planung lernzieldifferenzie
 
 Lernzielebenen wie „Kennen“ oder „Anwenden“ beschreiben die Anforderungen eines Lehrplanziels. Aufgabenoperatoren wie „nenne“ oder „erkläre“ geben die konkrete Tätigkeit in einer Aufgabe vor. Die bestehenden technischen Feldnamen `gs_operator`, `fsp_operator` und `operator_relation` bleiben aus Kompatibilitätsgründen erhalten. Die Felder können auch Zielhandlungen und Hinweise aus der konkreten Zielzeile enthalten. Gespeicherte Bewertungsentwürfe behalten ihre bisherigen Schlüssel.
 
-**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.443** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
+**[Veröffentlichte App öffnen](https://geafaellt.github.io/LernzielKompass/)** · **App 1.449** · **Fachlicher Deutsch-Prüfstand: DE-UZ-052 vom 03.11.2026**
 
 Diese Übersicht wurde am 08.11.2026 mit den Projektnachweisen abgeglichen. Maßgeblich sind die unten verlinkten Prüfdateien; ältere Prüfpakete dokumentieren historische Stände.
 
@@ -429,4 +429,4 @@ Nur bei gewähltem FSP-Wahlbereich 2: Zahlenzauberei. Die Lehrkraft legt einen k
 
 GS3-187200: bekannte wertabhängige/rekursive Fortsetzung als eigenen Ausschnitt prüfen, zunächst die vorgegebene additive Bildung aus zwei vorherigen Gliedern. FSP3/4-35479/35485 und35571/35577/35578/35580 sowie FSP1/2-37885 und38021/38022 getrennt nach Hauptzielebenen, Inhalten und Zahlenräumen prüfen. Keine freie Regelerfindung, allgemeine Eindeutigkeit oder konstante Änderungswirkung ausMA132 voraussetzen. MA149 ergänztMA133 für eine passende Regel aus vorgegebenen bekannten festen Plus-/Minusregeln. Weiterführende Regel-, Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig offen.133 Karten,104 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052). Prüf- und Veröffentlichungsnachweise: curriculum/mathematik/review_batch_149.json.
 
-MA-149: Sechs Datenprüfungen, mathematische Gegenprüfung, gezielte Kartenprüfung und Ebenenanzeige aller446 Karten/892 Seiten lokal bestanden. Veröffentlichung und Liveprüfung noch ausstehend.
+MA-149 veröffentlicht und geprüft: App1.449, Commit a9440237454c35d030f75b8435c9ee19bd3f0f6f, Pages-Lauf46051505837 erfolgreich. Ausgelieferte App mit beiden lokalen HTML-Dateien bytegleich (5827446 Bytes, SHA256 d6761d1b79f66762793f6c94c003fc6fdcb4d248695718920ac57a51cb70918e). Sechs Datenprüfungen, mathematische Gegenprüfung, gezielte Kartenprüfung und Ebenenanzeige446/892 lokal/live bestanden.132 Bestandskarten und Deutsch unverändert. Kein neuer vollständiger Mathematik-Funktionslauf oder semantischer Vollreview; kein neuerPDF-Download/Rendernachweis. Fortsetzung: bekannte wertabhängige/rekursive Folgen. Gesamtabgleich unvollständig.
