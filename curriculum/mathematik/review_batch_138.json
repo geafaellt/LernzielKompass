@@ -1,0 +1,325 @@
+{
+  "id": "MA-138",
+  "date": "2026-11-27",
+  "base_commit": "21882761c27f35c793e47ad76e21d1d2f8b35b83",
+  "scope": "GS3 strukturierte Aufgabenformate187201: bekannte längere lineare Rückwärtsketten als didaktische Variante des Umkehrbezugs.",
+  "source_verification": {
+    "html": "Amtliche GS912 und FSP139 online erneut erfolgreich gelesen. GS2064/187199/187201 mit Zahlenkettenbemerkung;FSP35470/35475/35479/35485/35487 und35504/35509. Der GS-HTML-Zeitlimitfehler ausMA-137 wurde in diesem Lauf nicht wiederholt.",
+    "pdf": "Gespeicherte amtliche PDFs erneut textuell gelesen: beide DefinitionenS.V/PDF5;GS S.22–23/PDF32–33;FSP S.11–12/PDF23–24,S.16/PDF28,S.19–21/PDF31–33,S.23/PDF35. Kein neuer Download und keine neue Renderprüfung.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "parent_target_id": "page912_2064",
+      "grade": "3",
+      "operator": "Übertragen"
+    },
+    {
+      "id": "page912_187199",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "parent_target_id": "page912_2064",
+      "grade": "3",
+      "operator": ""
+    },
+    {
+      "id": "page912_187201",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern mit vorgegebener Zielzahl, Zahlenketten, Rechendreiecke ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201",
+      "parent_target_id": "page912_2064",
+      "grade": "3",
+      "operator": ""
+    },
+    {
+      "id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "parent_target_id": "page139_35470",
+      "grade": "3/4",
+      "operator": "Übertragen"
+    },
+    {
+      "id": "page139_35479",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "parent_target_id": "page139_35470",
+      "grade": "3/4",
+      "operator": ""
+    },
+    {
+      "id": "page139_35485",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "parent_target_id": "page139_35470",
+      "grade": "3/4",
+      "operator": ""
+    },
+    {
+      "id": "page139_35487",
+      "target": "Kontrollieren durch Umkehren, Vertauschen und Vergleichen mit Erfahrungswerten",
+      "remarks": "Partner- und Selbstkontrolle Taschenrechner möglich Differenzierung: Genauigkeit beim Abschätzen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35487",
+      "parent_target_id": "page139_35470",
+      "grade": "3/4",
+      "operator": ""
+    },
+    {
+      "id": "page139_37885",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "parent_target_id": "page139_37851",
+      "grade": "1/2",
+      "operator": ""
+    },
+    {
+      "id": "page139_38021",
+      "target": "Einblick gewinnen in Strategien beim Lösen von Knobel- und Denkaufgaben",
+      "remarks": "Rätselzeitungen, Kinderzeitschriften Einsatz von digitalen Lernspielen Kettenaufgaben",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38021",
+      "parent_target_id": "page139_38021",
+      "grade": "1/2",
+      "operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_38037",
+      "target": "Lösen durch Skizze",
+      "remarks": "Strichliste, Bündelung, Schritte an der Geraden, 8 + 3 + 5 – 2 = 14",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_38037",
+      "parent_target_id": "page139_38021"
+    },
+    {
+      "id": "page139_35504",
+      "target": "Einblick gewinnen in Strategien zum Bearbeiten von Sachverhalten mit mathematischen Mitteln",
+      "remarks": "Handlungen, Situationsbilder, Texte aus dem aktuellen Geschehen und dem Erfahrungsbereich der Schüler Einbeziehung aller Grundrechenarten Aufgaben mit bis zu zwei Rechenschritten mit und ohne Fragestellung",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35504",
+      "parent_target_id": "page139_35504",
+      "grade": "3/4",
+      "operator": "Einblick gewinnen"
+    },
+    {
+      "id": "page139_35509",
+      "target": "Abwägen von Lösungsvarianten und mathematisches Darstellen",
+      "remarks": "Skizzieren, Probieren, Überschlagen oder mündliches Rechnen schriftliches Rechnen: Term oder Gleichung mit Platzhalter, Pfeilschreibweise, Kettenaufgabe, Tabelle Taschenrechner als Rechenhilfsmittel",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35509",
+      "parent_target_id": "page139_35504",
+      "grade": "3/4",
+      "operator": ""
+    },
+    {
+      "id": "page139_35571",
+      "target": "Kennen von ausgewählten Lösungsstrategien bei Knobel- und Denkaufgaben",
+      "remarks": "Informationen aus verschiedenen traditionellen und digitalen Medien entnehmen ⇒ Förderung kognitiver Fähigkeiten ⇒ Förderung der Lern- und Leistungsvoraussetzungen",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35571",
+      "parent_target_id": "page139_35571"
+    },
+    {
+      "id": "page139_35578",
+      "target": "Zurückführen auf bekannte Aufgaben",
+      "remarks": "",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35578",
+      "parent_target_id": "page139_35571"
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187201",
+      "first_review": false,
+      "status": "existing_limited_connection_refined",
+      "card": "MA-129",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ],
+      "finding": "GS3 strukturierte Aufgabenformate187201: Die bekannte Umkehrverknüpfung aufMA-129 wird auf eine konkret festgelegte endliche lineare Kette bekannter Additions-/Subtraktionsübergänge präzisiert. Vom gegebenen Endwert aus wird jeweils der letzte noch nicht rückgängig gemachte Übergang umgekehrt. Jeder rekonstruierte Wert ist Ausgangspunkt der nächsten Rückrechnung. Der konkrete fachliche Beleg bleibt die Beziehung Aufgabe/Umkehraufgabe in35485 unter35479/Übertragen35470. Die wiederholte Verknüpfung ist didaktische Konkretisierung dieses Belegs, keine wörtliche amtliche Rückwärtskettenvorschrift. Die zuvor gewählten zwei Übergänge bleiben ein zulässiger Spezialfall. Keine neue Karte allein für eine andere Kettenlänge.",
+      "learning_levels": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen.",
+      "number_scope": {
+        "status": "explicit",
+        "summary": "Bis 100 ausdrücklich im zugehörigen Additions-/Subtraktionsziel; konkrete bekannte Kettenlänge didaktisch festzulegen.",
+        "detail": "35479 nennt Addieren/Subtrahieren bis100;35485 mit Umkehrbezug ist diesem Ziel untergeordnet. Der Zahlenrahmen ist ausdrücklich belegt, nicht aus35415 abgeleitet. Für die Anzahl verknüpfter Umkehrbeziehungen ist keine eigene Obergrenze genannt. Die Lehrkraft legt eine überschaubare konkrete Länge fest; keine unbeschränkte Leistungsanforderung. Die Zwei-Schritt-Bemerkung35504 wird nicht übertragen. GS2064 ausdrücklich bis1 000.",
+        "max_value": 100,
+        "source_ids": [
+          "Q-MA-page139_35479",
+          "Q-MA-page139_35485"
+        ],
+        "planning_rule": "FSP: bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte, Startwert und alle relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100 einschließlich100. Auch alle zugehörigen Vorwärtswerte müssen darin liegen. Ein zulässiger Start- oder Endwert rechtfertigt keinen Zwischenwert außerhalb100. Bei der Umkehrung einer Addition darf die Differenz nicht negativ sein; bei der Umkehrung einer Subtraktion darf die entstehende Summe100 nicht überschreiten. GS entsprechend bis1 000. Stets den letzten noch nicht rückgängig gemachten Übergang umkehren; jeder korrekt rekonstruierte Wert ist Ausgangswert der nächsten Rückrechnung. Die vollständige endliche lineare Folge, ihre Vorwärtsrichtung, alle Additions-/Subtraktionszeichen, alle Operanden und der Endwert sind bekannt und widerspruchsfrei. Einzelne Umkehrbeziehungen und ihre Reihenfolge sind bekannt; sie werden in einem vergleichbaren, für FSP lebensweltlichen Zusammenhang verwendet. Die Lehrkraft legt eine für das Kind überschaubare konkrete Kettenlänge und den Unterstützungsbedarf fest. Es wird keine Leistungsforderung für beliebig lange Ketten und keine selbstständige Entdeckung eines allgemeinen Algorithmus aufgestellt. Jede rückgängig gemachte Addition liefert eine nichtnegative Differenz, jede rückgängig gemachte Subtraktion eine Summe innerhalb der Grenze. Sämtliche rekonstruierten Werte müssen die ursprünglichen Übergänge erfüllen. Die konkrete Länge ist ein didaktischer Planungsparameter und keine erfundene amtliche Zahlenraum- oder Kettenlängengrenze. Die Zahlenraumgrenze bezieht sich auf die Rechenwerte, nicht auf die Anzahl der Übergänge. Ganze Anzahlen; keine Maßzahlen mit Einheiten, Dezimalzahlen, Umrechnungen oder multiplikativen Übergänge. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+      },
+      "prerequisites": "Die vollständige endliche lineare Folge, ihre Vorwärtsrichtung, alle Additions-/Subtraktionszeichen, alle Operanden und der Endwert sind bekannt und widerspruchsfrei. Einzelne Umkehrbeziehungen und ihre Reihenfolge sind bekannt; sie werden in einem vergleichbaren, für FSP lebensweltlichen Zusammenhang verwendet. Die Lehrkraft legt eine für das Kind überschaubare konkrete Kettenlänge und den Unterstützungsbedarf fest. Es wird keine Leistungsforderung für beliebig lange Ketten und keine selbstständige Entdeckung eines allgemeinen Algorithmus aufgestellt. Jede rückgängig gemachte Addition liefert eine nichtnegative Differenz, jede rückgängig gemachte Subtraktion eine Summe innerhalb der Grenze. Sämtliche rekonstruierten Werte müssen die ursprünglichen Übergänge erfüllen.",
+      "uncertainty": "35485 enthält keine numerische Obergrenze für die Anzahl verknüpfter Umkehrbeziehungen. Daraus wird keine unbeschränkte Leistungsanforderung abgeleitet. Eine neue Zahl für eine maximale Kettenlänge wird nicht erfunden. Die Grenze bis zu zwei Rechenschritten aus35504 gehört zu einem anderen Hauptziel und wird nicht auf35485 übertragen. Auch die Teilschrittbeispiele35485 beweisen nicht für sich einen allgemeinen Rückwärtsalgorithmus; tragend ist der ausdrücklich genannte Umkehrbezug je Übergang. Wiederholung und Abhängigkeit sind als didaktische Ausgestaltung gekennzeichnet. Unbekannte Operationen, verzweigte oder zyklische Strukturen, allgemeine Beweise und selbstständige Regelentdeckung sind nicht eingeschlossen. Ein richtiger Startwert allein belegt keine korrekten Zwischenwerte oder Umkehrreihenfolge.",
+      "remaining_scope": "187201 bleibt begrenzt geprüft. Die bloße Verlängerung einer konkret festgelegten bekannten linearen Rückwärtskette ist jetzt als didaktische Variante des belegten Umkehranschlusses aufMA-129 eingeordnet und wird nicht für jede Länge erneut gezählt. Mehr als zwei gemischte Vorwärtsschritte als eigener Darstellungs-/Verknüpfungsanschluss, unbekannte Übergangsgrößen oder Operationszeichen, selbstständige Regelentdeckung und variable Startwertabhängigkeiten bleiben offen. Verzweigte/zyklische Strukturen und allgemeine Algorithmusbeweise sind durch diesen Ausschnitt nicht nachgewiesen. Die26 vorhandenen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben unverändert."
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199"
+  ],
+  "band_selection": "FSP1/2:37885 unterEinblick gewinnen37851 belegt Umkehraufgaben und Addition/Subtraktion mit Platzhaltern bis20 als positiven vorbereitenden Anschluss.38021/38037 untereigenemEinblick gewinnen nennen Ketten und eine gemischte Vorwärtskette im Wahlbereich4, keinen ausdrücklichen allgemeinen Rückwärtsalgorithmus. Nicht Anwenden38017 aus der Nachbarzeile übernehmen. FSP3/4:35485 unter35479/Übertragen35470 belegt die Beziehung Aufgabe/Umkehraufgabe bis100. Dieser stufenbandpassende Pflichtbereich trägt jede einzelne bekannte Rückrechnung; deren wiederholte Verknüpfung ist didaktisch. Keine amtliche Kettenlängengrenze genannt.35504/35509 unterEinblick gewinnen nennen bis zu zwei Rechenschritte und Ketten als Darstellung im Sachkontext; ihre Zwei-Schritt-Bemerkung darf nicht als fachübergreifende Obergrenze verwendet werden.35475 bleibt Einspluseins bis20; dessen Kettenbemerkung belegt keine100er-Rückwärtsvorschrift.35487 bleibt Kontrolle statt Ermittlung unbekannter Werte.35577/35578/35580 unterKennen35571 liefern allgemeine Knobelstrategien, keinen ausdrücklichen universellen Rückwärtsalgorithmus. Kein Kandidat wird allein wegen seines kleineren Zahlenraums ausgeschlossen; beide Stufenbänder bleiben gebündelt.",
+  "existing_cards_rechecked": [
+    "MA-123",
+    "MA-125",
+    "MA-126",
+    "MA-127",
+    "MA-128",
+    "MA-129"
+  ],
+  "existing_card_review": "MA-129 wird als bestehende Karte präzisiert; ursprüngliche Zweischrittverknüpfung bleibt enthalten. MA-126/127 behalten je einen lokalen Rückwärtsbezug, MA-123 die Kontrolle bereits angegebener Ergebnisse; jeweils Übertragen und explizit100. MA-128 bleibt bei genau zwei bekannten gemischten Vorwärtsschritten unterEinblick gewinnen35504 mit didaktisch abgeleiteten100, weil der dortige Bemerkungskontext höchstens zwei Schritte nennt. MA-125 bleibt Einspluseins bis20 mit seiner didaktischen Summandenbegrenzung. Die128 anderen Karten und alle442 Ebeneneinträge bleiben unverändert. Keine neue Karte, keine neue Erstprüfung oder Anschlussfrage.",
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 0,
+    "updated_cards": 1,
+    "cards_total": 129,
+    "same_band": 100,
+    "cross_band": 29,
+    "open_questions_total": 26,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 300,
+    "target_anchors": 298
+  },
+  "tests": {
+    "status": "local_targeted_and_levels_passed",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-27\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 129 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 129 mathematics cards, 300 source links (298 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-123/MA-125/MA-126/MA-127/MA-128/MA-129 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 442 Karten, 884 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "NurMA-129 präzisiert;128 andere Mathematikkarten,alle442 Ebeneneinträge,alle Deutschdateien,300 Quellen und26 Fragen unverändert;220 Inventurzeilen;keine neue Erstzählung;UI-Logik bis auf PDF-Fußzeilenversion unverändert;root/dist bytegleich.",
+    "limits": "Keine UI-Funktionsänderung. Kein neuer vollständiger Funktionslauf aller129 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal bestanden; Veröffentlichung und Live-Nachweise noch ausstehend."
+  },
+  "publication": {
+    "status": "local_verified_pending_publication",
+    "app_version": "1.440"
+  },
+  "continuation": {
+    "next_id": "page912_187201",
+    "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: mehr als zwei bekannte gemischte Vorwärtsschritte prüfen, danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35479/35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. MA-138 präzisiert bestehendeMA-129 für eine konkret festgelegte bekannte endliche lineare Rückwärtskette; Länge didaktisch festzulegen, keine erfundene Obergrenze und keine unbeschränkte Leistungsforderung. Beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller rekonstruierten Werte.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.440: sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenprüfung442/884 lokal bestanden; Veröffentlichung und Live-Prüfung noch ausstehend."
+  },
+  "updated_card": {
+    "id": "MA-129",
+    "subject": "Mathematik",
+    "theme": "Bekannte Rechenschritte rückwärts verknüpfen · GS 3",
+    "app_area": "MA-page912_1999",
+    "status": "Begrenzter Anschluss · bekannte lineare Umkehrverknüpfung",
+    "gs_anchor": "GS Mathematik Kl.3 · strukturierte Aufgabenformate187201 unter187199/Übertragen2064 bis1 000; konkrete bekannte lineare Rückwärtskette didaktisch ausgewählt",
+    "fsp_anchor": "FSP Lernen Mathematik Stufenband3/4 · Lösungswege35485 unter Addieren/Subtrahieren35479 bis100 undÜbertragen35470; bekannte Umkehrbeziehungen didaktisch verknüpft",
+    "gs_operator": "Übertragen",
+    "fsp_operator": "Übertragen",
+    "operator_relation": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte und der Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt.",
+    "gs_target_ids": [
+      "page912_2064",
+      "page912_187199",
+      "page912_187201"
+    ],
+    "fsp_target_ids": [
+      "page139_35470",
+      "page139_35479",
+      "page139_35485"
+    ],
+    "stage_alignment": {
+      "gs_anchor_grade": "3",
+      "gs_curriculum_band": "3/4",
+      "fsp_curriculum_bands": [
+        "3/4"
+      ],
+      "relation": "same-band"
+    },
+    "content_review_required": true,
+    "app_review_message": "GS3 strukturierte Aufgabenformate187201: Die bekannte Umkehrverknüpfung aufMA-129 wird auf eine konkret festgelegte endliche lineare Kette bekannter Additions-/Subtraktionsübergänge präzisiert. Vom gegebenen Endwert aus wird jeweils der letzte noch nicht rückgängig gemachte Übergang umgekehrt. Jeder rekonstruierte Wert ist Ausgangspunkt der nächsten Rückrechnung. Der konkrete fachliche Beleg bleibt die Beziehung Aufgabe/Umkehraufgabe in35485 unter35479/Übertragen35470. Die wiederholte Verknüpfung ist didaktische Konkretisierung dieses Belegs, keine wörtliche amtliche Rückwärtskettenvorschrift. Die zuvor gewählten zwei Übergänge bleiben ein zulässiger Spezialfall. Keine neue Karte allein für eine andere Kettenlänge. Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte und der Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt. Die vollständige endliche lineare Folge, ihre Vorwärtsrichtung, alle Additions-/Subtraktionszeichen, alle Operanden und der Endwert sind bekannt und widerspruchsfrei. Einzelne Umkehrbeziehungen und ihre Reihenfolge sind bekannt; sie werden in einem vergleichbaren, für FSP lebensweltlichen Zusammenhang verwendet. Die Lehrkraft legt eine für das Kind überschaubare konkrete Kettenlänge und den Unterstützungsbedarf fest. Es wird keine Leistungsforderung für beliebig lange Ketten und keine selbstständige Entdeckung eines allgemeinen Algorithmus aufgestellt. Jede rückgängig gemachte Addition liefert eine nichtnegative Differenz, jede rückgängig gemachte Subtraktion eine Summe innerhalb der Grenze. Sämtliche rekonstruierten Werte müssen die ursprünglichen Übergänge erfüllen. 35485 enthält keine numerische Obergrenze für die Anzahl verknüpfter Umkehrbeziehungen. Daraus wird keine unbeschränkte Leistungsanforderung abgeleitet. Eine neue Zahl für eine maximale Kettenlänge wird nicht erfunden. Die Grenze bis zu zwei Rechenschritten aus35504 gehört zu einem anderen Hauptziel und wird nicht auf35485 übertragen. Auch die Teilschrittbeispiele35485 beweisen nicht für sich einen allgemeinen Rückwärtsalgorithmus; tragend ist der ausdrücklich genannte Umkehrbezug je Übergang. Wiederholung und Abhängigkeit sind als didaktische Ausgestaltung gekennzeichnet. Unbekannte Operationen, verzweigte oder zyklische Strukturen, allgemeine Beweise und selbstständige Regelentdeckung sind nicht eingeschlossen. Ein richtiger Startwert allein belegt keine korrekten Zwischenwerte oder Umkehrreihenfolge. 187201 bleibt begrenzt geprüft. Die bloße Verlängerung einer konkret festgelegten bekannten linearen Rückwärtskette ist jetzt als didaktische Variante des belegten Umkehranschlusses aufMA-129 eingeordnet und wird nicht für jede Länge erneut gezählt. Mehr als zwei gemischte Vorwärtsschritte als eigener Darstellungs-/Verknüpfungsanschluss, unbekannte Übergangsgrößen oder Operationszeichen, selbstständige Regelentdeckung und variable Startwertabhängigkeiten bleiben offen. Verzweigte/zyklische Strukturen und allgemeine Algorithmusbeweise sind durch diesen Ausschnitt nicht nachgewiesen. Die26 vorhandenen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben unverändert.",
+    "shared_object_suggestion": "Die umgekehrte Abhängigkeit bekannter Rechenschritte: Vom Endwert aus führt die Umkehrung des jeweils letzten noch offenen Übergangs schrittweise über die zugehörigen Zwischenwerte zum Startwert.",
+    "fine_goals": [
+      {
+        "track": "Grundschule",
+        "goal": "Das Kind verwendet bekannte Umkehrbeziehungen in einem vergleichbaren Zahlenkettenzusammenhang bis 1 000, um aus einem bekannten Endwert nacheinander die Zwischenwerte und den Startwert einer bekannten endlichen linearen Additions-/Subtraktionskette mit didaktisch festgelegter Länge zu bestimmen. Es beschreibt die Abhängigkeit der Rückrechnungen.",
+        "criterion": "Stets wird der letzte noch nicht rückgängig gemachte Vorwärtsübergang umgekehrt. Einer Addition entspricht die Subtraktion desselben Operanden, einer Subtraktion die Addition desselben Operanden. Jeder rekonstruierte Wert ist der richtige vorhergehende Wert der ursprünglichen Kette und zugleich Ausgangswert der nächsten Rückrechnung. Alle rekonstruierten Zwischenwerte und der Startwert erfüllen sämtliche ursprünglichen Übergänge. Ein richtiger Startwert ohne passende Zwischenwerte und erkennbaren Umkehrbezug genügt nicht. Alle bekannten und rekonstruierten Werte sowie relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 1 000. Keine negative Differenz und keine entstehende Summe oberhalb der Grenze. Die vollständig bekannte konkrete Folge und Umkehrreihenfolge werden verwendet; keine selbstständige Entdeckung eines allgemeinen Algorithmus oder Leistungsforderung für beliebig lange Ketten. Die Beschreibung erklärt die Abhängigkeit und weshalb der jeweils letzte noch offene Übergang zuerst rückgängig gemacht wird.",
+        "status": "Didaktische Konkretisierung: konkrete überschaubare Kettenlänge vorab festlegen; wiederholte bekannte Umkehrbeziehungen. Keine amtlich vorgeschriebene Kettennotation oder unbeschränkte Rückwärtsstrategie. Die bisherige Zweischrittkette bleibt ein Spezialfall."
+      },
+      {
+        "track": "FSP Lernen",
+        "goal": "Das Kind verwendet bekannte Umkehrbeziehungen in einem vergleichbaren lebensweltlichen Zusammenhang bis 100, um aus einem bekannten Endwert nacheinander die Zwischenwerte und den Startwert einer bekannten endlichen linearen Additions-/Subtraktionskette mit didaktisch festgelegter Länge zu bestimmen.",
+        "criterion": "Stets wird der letzte noch nicht rückgängig gemachte Vorwärtsübergang umgekehrt. Einer Addition entspricht die Subtraktion desselben Operanden, einer Subtraktion die Addition desselben Operanden. Jeder rekonstruierte Wert ist der richtige vorhergehende Wert der ursprünglichen Kette und zugleich Ausgangswert der nächsten Rückrechnung. Alle rekonstruierten Zwischenwerte und der Startwert erfüllen sämtliche ursprünglichen Übergänge. Ein richtiger Startwert ohne passende Zwischenwerte und erkennbaren Umkehrbezug genügt nicht. Alle bekannten und rekonstruierten Werte sowie relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100. Keine negative Differenz und keine entstehende Summe oberhalb der Grenze. Die vollständig bekannte konkrete Folge und Umkehrreihenfolge werden verwendet; keine selbstständige Entdeckung eines allgemeinen Algorithmus oder Leistungsforderung für beliebig lange Ketten.",
+        "status": "Didaktische Konkretisierung: konkrete überschaubare Kettenlänge vorab festlegen; wiederholte bekannte Umkehrbeziehungen. Keine amtlich vorgeschriebene Kettennotation oder unbeschränkte Rückwärtsstrategie. Die bisherige Zweischrittkette bleibt ein Spezialfall.",
+        "scope_status": "explicit",
+        "range_max": 100
+      }
+    ],
+    "number_range_alignment": {
+      "relation": "reduced-fsp",
+      "gs_max": 1000,
+      "fsp_max": 100,
+      "gs_source_id": "page912_2064",
+      "fsp_source_id": "page139_35479",
+      "fsp_basis": "target_row",
+      "notice": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte und der Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt.",
+      "full_gs_goal_covered": false
+    },
+    "evidence_classification": {
+      "gs": "187201 verbindlicher Unterpunkt von187199; Zahlenketten Bemerkungsbeispiel.2064 liefert Übertragen und bis1 000. Eine konkret festgelegte bekannte lineare Rückwärtskette ist didaktische Auswahl, kein vollständiger Musterzielnachweis.",
+      "fsp": "35485 unter35479/Übertragen35470; Aufgabe/Umkehraufgabe in der Bemerkung35485. Bis100 ausdrücklich in35479. Wiederholte Nutzung in umgekehrter Reihenfolge ist didaktische Konkretisierung, kein wörtlich ausgewiesener universeller Rückwärtskettenalgorithmus.",
+      "context_only_gs_ids": [
+        "page912_2064",
+        "page912_187199"
+      ],
+      "fsp_remark_anchor": "page139_35485"
+    },
+    "fsp_scope": {
+      "status": "explicit",
+      "summary": "Bis 100 ausdrücklich im zugehörigen Additions-/Subtraktionsziel; konkrete bekannte Kettenlänge didaktisch festzulegen.",
+      "detail": "35479 nennt Addieren/Subtrahieren bis100;35485 mit Umkehrbezug ist diesem Ziel untergeordnet. Der Zahlenrahmen ist ausdrücklich belegt, nicht aus35415 abgeleitet. Für die Anzahl verknüpfter Umkehrbeziehungen ist keine eigene Obergrenze genannt. Die Lehrkraft legt eine überschaubare konkrete Länge fest; keine unbeschränkte Leistungsanforderung. Die Zwei-Schritt-Bemerkung35504 wird nicht übertragen. GS2064 ausdrücklich bis1 000.",
+      "max_value": 100,
+      "source_ids": [
+        "Q-MA-page139_35479",
+        "Q-MA-page139_35485"
+      ],
+      "planning_rule": "FSP: bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte, Startwert und alle relevanten Rechenteil-, Zwischen-, End- und Kontrollwerte sind nichtnegative ganze Zahlen bis 100 einschließlich100. Auch alle zugehörigen Vorwärtswerte müssen darin liegen. Ein zulässiger Start- oder Endwert rechtfertigt keinen Zwischenwert außerhalb100. Bei der Umkehrung einer Addition darf die Differenz nicht negativ sein; bei der Umkehrung einer Subtraktion darf die entstehende Summe100 nicht überschreiten. GS entsprechend bis1 000. Stets den letzten noch nicht rückgängig gemachten Übergang umkehren; jeder korrekt rekonstruierte Wert ist Ausgangswert der nächsten Rückrechnung. Die vollständige endliche lineare Folge, ihre Vorwärtsrichtung, alle Additions-/Subtraktionszeichen, alle Operanden und der Endwert sind bekannt und widerspruchsfrei. Einzelne Umkehrbeziehungen und ihre Reihenfolge sind bekannt; sie werden in einem vergleichbaren, für FSP lebensweltlichen Zusammenhang verwendet. Die Lehrkraft legt eine für das Kind überschaubare konkrete Kettenlänge und den Unterstützungsbedarf fest. Es wird keine Leistungsforderung für beliebig lange Ketten und keine selbstständige Entdeckung eines allgemeinen Algorithmus aufgestellt. Jede rückgängig gemachte Addition liefert eine nichtnegative Differenz, jede rückgängig gemachte Subtraktion eine Summe innerhalb der Grenze. Sämtliche rekonstruierten Werte müssen die ursprünglichen Übergänge erfüllen. Die konkrete Länge ist ein didaktischer Planungsparameter und keine erfundene amtliche Zahlenraum- oder Kettenlängengrenze. Die Zahlenraumgrenze bezieht sich auf die Rechenwerte, nicht auf die Anzahl der Übergänge. Ganze Anzahlen; keine Maßzahlen mit Einheiten, Dezimalzahlen, Umrechnungen oder multiplikativen Übergänge. Konkrete Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert."
+    },
+    "source_ids": [
+      "Q-MA-page912_2064",
+      "Q-MA-page912_187199",
+      "Q-MA-page912_187201",
+      "Q-MA-page139_35470",
+      "Q-MA-page139_35479",
+      "Q-MA-page139_35485"
+    ]
+  }
+}

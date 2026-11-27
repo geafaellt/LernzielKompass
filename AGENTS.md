@@ -20,3 +20,8 @@ GS3 strukturierte Aufgabenformate187201 weiterprüfen: mehrschrittige Rückwärt
 ## Fortsetzung MA-137
 
 GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktive Ketten vorwärts/rückwärts fachlich prüfen und vom bekannten Zweischrittbezug abgrenzen; danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35485,35504/35509 und beide Knobel-Wahlbereiche in ihren eigenen Hierarchien prüfen. MA-137 ergänztMA-129 für zwei bekannte gemischte Rückwärtsschritte; beide Übertragen,GS1000/FSP100 ausdrücklich, Zweischrittverknüpfung didaktisch.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.439; maßgeblicher Veröffentlichungsnachweis in review_progress.json. Keine neue Erstzählung187201.
+
+
+## Fortsetzung MA-138
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: mehr als zwei bekannte gemischte Vorwärtsschritte prüfen, danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35479/35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. MA-138 präzisiert bestehendeMA-129 für eine konkret festgelegte bekannte endliche lineare Rückwärtskette; Länge didaktisch festzulegen, keine erfundene Obergrenze und keine unbeschränkte Leistungsforderung. Beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller rekonstruierten Werte.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. App1.440; maßgeblicher Veröffentlichungsnachweis in review_progress.json. Keine neue Erstzählung187201.

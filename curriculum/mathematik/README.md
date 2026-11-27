@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-137
+# Mathematik-Abgleich · MA-138
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-GS3 strukturierte Aufgabenformate187201 fortsetzen: längere additive/subtraktive Ketten vorwärts/rückwärts fachlich prüfen und vom bekannten Zweischrittbezug abgrenzen; danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35485,35504/35509 und beide Knobel-Wahlbereiche in ihren eigenen Hierarchien prüfen. MA-137 ergänztMA-129 für zwei bekannte gemischte Rückwärtsschritte; beide Übertragen,GS1000/FSP100 ausdrücklich, Zweischrittverknüpfung didaktisch.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-137](review_batch_137.json).
+GS3 strukturierte Aufgabenformate187201 fortsetzen: mehr als zwei bekannte gemischte Vorwärtsschritte prüfen, danach unbekannte Übergangsgrößen/Operationszeichen und Regel-/Startwertabhängigkeiten. FSP35479/35485,35504/35509 und beide Knobel-Wahlbereiche getrennt prüfen. MA-138 präzisiert bestehendeMA-129 für eine konkret festgelegte bekannte endliche lineare Rückwärtskette; Länge didaktisch festzulegen, keine erfundene Obergrenze und keine unbeschränkte Leistungsforderung. Beide Übertragen,GS1000/FSP100 ausdrücklich einschließlich aller rekonstruierten Werte.129 Karten,26 Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-138](review_batch_138.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1698,3 +1698,20 @@ MA-123 kontrolliert bereits angegebene Ergebnisse. MA-126 bestimmt einen fehlend
 GS-HTML aktuell zweimal nicht erreichbar; gespeichertes amtliches PDF erneut geprüft. FSP-HTML und gespeicherte PDFs gelesen. Kein neuer PDF-Download oder Rendernachweis.
 
 App1.439 auf main veröffentlicht mit Commit f0be1fbfba33a0536fd01f212eb4b85deaf2567c. [Pages-Lauf 45945765909](https://github.com/geafaellt/LernzielKompass/actions/runs/45945765909) erfolgreich. Die ausgelieferte App ist bytegleich zum geprüften Stand (5758856 Bytes; SHA-256 512416c09791c058a6784a54be34cdb529d3a3ac9defe01236ac59d504529cdd). Sechs Datenprüfungen bestanden; gezielte PrüfungMA-123/126/127/128/129 einschließlich Regressionen und Ebenenprüfung442 Karten/884 Seiten lokal/live bestanden. Eigene Lehrkraftentwürfe bleiben erhalten; Aufgaben und Hilfsmittel bleiben leer. Keine UI-Funktionsänderung; Daten und Versionsangabe geändert. Kein neuer vollständiger Funktionslauf aller129 Mathematikkarten, keine neue semantische Vollprüfung des Bestands. Gezielte Kartenprüfung und vollständige Ebenenprüfung lokal/live bestanden. Gesamtabgleich unvollständig. GS-HTML aktuell zweimal Zeitüberschreitung; fachliche GS-Prüfung anhand des gespeicherten amtlichen PDFs, ohne neuen Download oder Rendernachweis.
+
+
+## MA-138 · App 1.440 · 27.11.2026
+
+GS3 strukturierte Aufgabenformate187201: Die bekannte Umkehrverknüpfung aufMA-129 wird auf eine konkret festgelegte endliche lineare Kette bekannter Additions-/Subtraktionsübergänge präzisiert. Vom gegebenen Endwert aus wird jeweils der letzte noch nicht rückgängig gemachte Übergang umgekehrt. Jeder rekonstruierte Wert ist Ausgangspunkt der nächsten Rückrechnung. Der konkrete fachliche Beleg bleibt die Beziehung Aufgabe/Umkehraufgabe in35485 unter35479/Übertragen35470. Die wiederholte Verknüpfung ist didaktische Konkretisierung dieses Belegs, keine wörtliche amtliche Rückwärtskettenvorschrift. Die zuvor gewählten zwei Übergänge bleiben ein zulässiger Spezialfall. Keine neue Karte allein für eine andere Kettenlänge.
+
+Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen.
+
+GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 gehört zu diesem Ziel. Keine Ableitung der Zahlengrenze aus dem übergreifenden Bandziel35415; keine Übernahme der20 aus dem Einspluseinsziel35475. Bekannter Endwert, sämtliche Operanden, alle rekonstruierten Zwischenwerte und der Startwert sowie sämtliche relevanten Rechenteil- und Kontrollwerte müssen im jeweiligen Rahmen bleiben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 und umfassendere Struktur-/Kettenansprüche sind nicht abgedeckt.
+
+MA-129 wird als bestehende Karte präzisiert; ursprüngliche Zweischrittverknüpfung bleibt enthalten. MA-126/127 behalten je einen lokalen Rückwärtsbezug, MA-123 die Kontrolle bereits angegebener Ergebnisse; jeweils Übertragen und explizit100. MA-128 bleibt bei genau zwei bekannten gemischten Vorwärtsschritten unterEinblick gewinnen35504 mit didaktisch abgeleiteten100, weil der dortige Bemerkungskontext höchstens zwei Schritte nennt. MA-125 bleibt Einspluseins bis20 mit seiner didaktischen Summandenbegrenzung. Die128 anderen Karten und alle442 Ebeneneinträge bleiben unverändert. Keine neue Karte, keine neue Erstprüfung oder Anschlussfrage.
+
+187201 bleibt begrenzt geprüft. Die bloße Verlängerung einer konkret festgelegten bekannten linearen Rückwärtskette ist jetzt als didaktische Variante des belegten Umkehranschlusses aufMA-129 eingeordnet und wird nicht für jede Länge erneut gezählt. Mehr als zwei gemischte Vorwärtsschritte als eigener Darstellungs-/Verknüpfungsanschluss, unbekannte Übergangsgrößen oder Operationszeichen, selbstständige Regelentdeckung und variable Startwertabhängigkeiten bleiben offen. Verzweigte/zyklische Strukturen und allgemeine Algorithmusbeweise sind durch diesen Ausschnitt nicht nachgewiesen. Die26 vorhandenen Anschlussfragen einschließlich Zielzahlmauern und gekoppelter Rechendreiecke bleiben unverändert.
+
+Beide amtlichen HTML-Quellen wieder erreichbar und erneut gelesen; gespeicherte amtliche PDFs einschließlich Definitionen und Hierarchie geprüft. Keine neue PDF-Renderprüfung.
+
+Sechs Datenprüfungen bestanden. Gezielte BrowserprüfungMA-123/125/126/127/128/129 einschließlich Regressionen und Ebenenprüfung442 Karten/884 Seiten lokal bestanden. Kein neuer vollständiger Mathematik-Funktionslauf; Veröffentlichung und Live-Prüfung noch ausstehend.
