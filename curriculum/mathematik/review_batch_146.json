@@ -181,7 +181,7 @@
     "target_anchors": 302
   },
   "tests": {
-    "status": "local_passed_live_pending",
+    "status": "local_and_live_targeted_and_levels_passed",
     "scripts": [
       {
         "script": "update-mathematik.py",
@@ -217,11 +217,25 @@
     "local_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
     "local_learning_levels": "PASS: 445 Karten, 890 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
     "integrity": "131 andere Mathematikkarten,445 Ebeneneinträge,304 Quellen,302 Zielanker,27 offene Anschlussfragen und alle Deutschdateien unverändert. Nur Audit187201 ergänzt;220 Inventurzeilen;132 Mathematikkarten;root/dist bytegleich.",
-    "limits": "Datenänderung undVersion,keine neueUI-Funktionslogik. Gezielter Browserlauf und vollständige Ebenenanzeigeprüfung445/890;kein neuer vollständiger Funktionslauf aller132 Mathematikkarten undkeine semantische Vollprüfung des Bestands. BeideamtlichenHTML-Quellenerreichbar,gespeichertePDFstextuellgeprüft;kein neuerPDF-Download/Rendernachweis. Gesamtabgleich offen."
+    "limits": "Datenänderung undVersion,keine neueUI-Funktionslogik. Gezielter Browserlauf und vollständige Ebenenanzeigeprüfung445/890;kein neuer vollständiger Funktionslauf aller132 Mathematikkarten undkeine semantische Vollprüfung des Bestands. BeideamtlichenHTML-Quellenerreichbar,gespeichertePDFstextuellgeprüft;kein neuerPDF-Download/Rendernachweis. Gesamtabgleich offen.",
+    "live_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "live_learning_levels": "PASS: 445 Karten, 890 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel."
   },
   "publication": {
-    "status": "pending",
-    "app_version": "1.447"
+    "batch": "MA-146",
+    "status": "published_verified",
+    "commit": "667e377dcd380944eb15c43f28b0e3e78d534e7b",
+    "tree": "a87b327fd80b466289fdfce7751816f764a93fc6",
+    "html_blob": "7e7581f96c44e4be3b6babcacb7f065290c46262",
+    "app_version": "1.447",
+    "pages_run": 46017297254,
+    "pages_status": "success",
+    "live_url": "https://geafaellt.github.io/LernzielKompass/?v=1.447-ma146",
+    "live_byte_equal": true,
+    "bytes": 5812703,
+    "sha256": "0583a2fdf9a885341265a439c0ac3488e6530ce8f0d68fd39ec2ff88f68d6284",
+    "browser": "Gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden; kein neuer vollständiger Mathematik-Funktionslauf.",
+    "checked_at": "2026-11-27T14:37:39.257383+00:00"
   },
   "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Wirkung einer gezielten Änderung einer bekannten Übergangsgröße bei sonst festen Zeichen und Operanden prüfen; danach unbekannte beziehungsweise wertabhängige Regeln getrennt von bekannten Ketten behandeln. MA-146 erweitertMA-132 um die Fortführung einer Startwertänderung um eins durch eine konkrete bekannte endliche lineare Plus-/Minuskette. Alle zugehörigen Start-, Zwischen- und Endwerte ändern sich gleichsinnig um eins; jeder Wert muss im Zahlenraum bleiben. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Verkettung, Länge und Zulässigkeitsbedingungen ausdrücklich didaktisch.187200-Regelvariation sowie Mauer-/Dreiecksfragen bleiben offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren."
 }
