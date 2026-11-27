@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-144",
+  "last_batch": "MA-145",
   "complete": false,
   "counts": {
     "cards": 132,
@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187201",
-  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.445 auf main veröffentlicht; Pages46009218580 erfolgreich,Live-Appbytegleich,sechsDatenprüfungenundgezielteKarten-/Ebenenprüfung445/890lokal/livebestanden. BeideamtlichenHTML-Quellenerreichbar;gespeichertePDFstextuellgeprüft,keinneuerDownload/Rendernachweis. Kein neuer vollständigerMathematik-Funktionslauf.",
+  "next_step": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. App1.446: Veröffentlichung und Liveprüfung ausstehend.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4209,7 +4209,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_144.json",
+  "last_review_file": "review_batch_145.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -5756,9 +5756,9 @@
     },
     {
       "gs_id": "page912_187201",
-      "scope": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.",
+      "scope": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.",
       "status": "offen",
-      "review": "MA-144"
+      "review": "MA-145"
     }
   ],
   "documented_no_direct_connection_ids": [
@@ -6347,6 +6347,14 @@
         "MA-131"
       ],
       "note": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 ist diesem Ziel untergeordnet; die100 werden nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie ganze Folgen, beliebige Startänderungen und weiterführende Strukturregeln sind nicht abgedeckt. Alle ursprünglichen und veränderten Startwerte, der feste Zuwachs, beide Summen, die Änderung um eins sowie alle relevanten Zwischen- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Beim Erhöhen liegen ursprünglicher Startwert und ursprüngliche Summe höchstens bei99, beim Vermindern liegt der ursprüngliche Startwert mindestens bei1. Dies sind didaktisch aus der erlaubten Veränderung folgende Zulässigkeitsbedingungen, keine neuen amtlichen Zahlenraumgrenzen. Kein Überschreiten mit späterem Ausgleich. Ganze Anzahlen ohne Einheiten, Dezimalbrüche oder Umrechnungen."
+    },
+    "follow_up_local_subtractive_start_variation": {
+      "batch": "MA-145",
+      "cards": [
+        "MA-132"
+      ],
+      "status": "reviewed",
+      "note": "Alle ursprünglichen und veränderten Startwerte, beide Operanden, Summen beziehungsweise Differenzen, die Änderung um eins sowie alle relevanten Zwischen- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Bei Addition und Erhöhung liegt die ursprüngliche Summe höchstens bei99, bei Verminderung liegt der ursprüngliche Startwert mindestens bei1. Bei Subtraktion und Erhöhung liegt der ursprüngliche Minuend höchstens bei99. Bei Subtraktion und Verminderung liegt die ursprüngliche Differenz mindestens bei1: Der Minuend muss mindestens um eins größer als der feste Subtrahend sein. Ein positiver Minuend allein genügt hierfür nicht. Für GS gelten die entsprechenden oberen Bedingungen999 statt99. Diese Zulässigkeitsbedingungen sind didaktische Folgerungen aus der Veränderung innerhalb des belegten Zahlenraums, keine neuen amtlichen Zahlenraumgrenzen. Kein Überschreiten mit späterem Ausgleich. Ganze Anzahlen; Einheiten, Dezimalbrüche und Umrechnungen sind nicht Gegenstand."
     }
   },
   "publication_recheck": {
@@ -7720,7 +7728,8 @@
       "follow_up_MA138": "Amtliche Lernzielebenen sind auf beiden Seiten Übertragen: GS2064 und FSP35470. Beide Definitionstabellen S.V/PDF5 verlangen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Erkennen, Beschreiben, Bestimmen und Nutzen sind Zielhandlungen; rückwärts bezeichnet die Richtung. Weder Kennen35571 aus dem Knobel-Wahlbereich noch Einblick gewinnen35504 aus dem Sachstrategiebereich wird in diese Gegenüberstellung übernommen. Bekannte Wiederholung ist didaktische Komplexitätswahl, keine zusätzliche amtliche Lernzielebene. Definitionen beider PDFs S.V und Hierarchie GS S.22–23/FSP S.19–20 erneut gelesen.",
       "follow_up_MA139": "Amtliche Lernzielebenen: GS Übertragen aus2064, FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Berechnen, Beschreiben und Fortsetzen sind Zielhandlungen, keine Lernzielebenen. Die Ebenen Einblick gewinnen35504 oder Kennen35571 gehören zu anderen Hauptzielen und werden nicht übernommen.",
       "follow_up_MA140": "Amtliche Lernzielebenen bleiben GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Bestimmen, Zuordnen, Erkennen und Beschreiben sind Zielhandlungen, keine Ersatzebenen. Weder Einblick gewinnen37851/38021/35504 noch Anwenden38017 oder Kennen35571 werden aus benachbarten Zielblöcken übernommen.",
-      "follow_up_MA144": "Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen."
+      "follow_up_MA144": "Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen.",
+      "follow_up_MA145": "Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen."
     },
     "page139_35582": {
       "follow_up_MA126": "Amtliche Lernzielebenen: GS Übertragen aus Hauptziel2064; FSP Anwenden aus Hauptziel35582. Nach den Definitionen beider Pläne S.V/PDF5 bedeutet Übertragen die Nutzung bekannter Kenntnisse in vergleichbaren Kontexten, Anwenden dagegen Abstraktion und Transfer in unbekannte Kontexte. Das FSP-Ziel ist hier hinsichtlich des Transfers anspruchsvoller, trotz kleinerem didaktischem Zahlenrahmen. Beschreiben, Vergleichen, Bewerten, Kommentieren und Reflektieren sind konkrete Zielhandlungen; insbesondere wird Bewerten nicht zur amtlichen Ebene Beurteilen umetikettiert. Die Nachbarziele liefern keine Ersatzebene. GS S.22/PDF32; FSP S.24/PDF36. Beide DefinitionstabellenS.V/PDF5."

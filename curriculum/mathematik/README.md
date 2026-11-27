@@ -1,4 +1,4 @@
-# Mathematik-Abgleich · MA-144
+# Mathematik-Abgleich · MA-145
 
 Erster Prüfstand vom 06.11.2026. Grundlage sind der [sächsische Fachlehrplan Mathematik für die Grundschule, Fassung 2026](https://www.schulportal.sachsen.de/lplandb/lehrplan/912), und der [sächsische Fachlehrplan Mathematik für den Förderschwerpunkt Lernen, Fassung 2019](https://www.schulportal.sachsen.de/lplandb/lehrplan/139). Verglichen werden GS 1/2, 3 und 4 mit den gebündelten FSP-Stufenbändern 1/2 und 3/4.
 
@@ -17,7 +17,7 @@ Ausgewiesene Lernzielebenen stammen aus den übergeordneten Zielzeilen der jewei
 
 Die Veröffentlichungshistorie und Prüfgrenzen stehen in den jeweiligen Prüfpaketen. Der ursprüngliche Pages-Zeitlimitfehler bleibt in MA-042 dokumentiert.
 
-GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-144](review_batch_144.json).
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. [MA-145](review_batch_145.json).
 
 ## App-Daten aktualisieren und prüfen
 
@@ -1783,3 +1783,5 @@ GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörig
 GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren. Prüf- und Veröffentlichungsnachweise siehe Prüfpaket.
 
 MA-144: Sechs Datenprüfungen bestanden; gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal bestanden.131 Bestandskarten undDeutsch unverändert. MA-144 veröffentlicht: App1.445, Commitca5ad725e9565f8ccb063b1bec8e1bd624dd57e2, erfolgreicher Pages-Lauf46009218580. Live-Datei bytegleich (5.805.824 Bytes, SHA256 6374bee5cf15af069928578db8129b4d54bacbdcef7cecd79eeed62c5ce358bb). Sechs Datenprüfungen,gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal/live bestanden. Keine neue vollständige Funktions-/Fachprüfung aller132 Mathematikkarten. Beide amtlichen HTML-Quellen erreichbar,gespeicherte PDFs textuell geprüft;kein neuer PDF-Download/Rendernachweis. Deutsch bleibt abgeschlossen.
+
+MA-145: Sechs Datenprüfungen, gezielte Kartenprüfung und Ebenenanzeigeprüfung445/890 lokal bestanden. Veröffentlichung/Liveprüfung noch ausstehend; maßgeblicher Nachweis in review_batch_145.json.

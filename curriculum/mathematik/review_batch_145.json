@@ -1,0 +1,196 @@
+{
+  "id": "MA-145",
+  "date": "2026-11-27",
+  "base_commit": "24949c46ce5431047b1b52f226f698538c61f65d",
+  "scope": "GS3-187201: lokaler subtraktiver Nachbar bei Startwertänderung um eins; bestehendeMA132 erweitern.",
+  "source_verification": {
+    "html": "GS912 undFSP139 online erfolgreich gelesen. Nachbaraufgaben35485 sowieGS187199/187200/187201 in amtlichen Quellen geprüft; keine neue Zielzeile hinzugefügt.",
+    "pdf": "Gespeicherte amtliche PDFs textuell erneut geprüft: beide DefinitionenS.V/PDF5;GS S.22–23/PDF32–33;FSP S.12/PDF24,S.19–20/PDF31–32. Prüfsummen bestätigt. Kein neuer PDF-Download oder Rendernachweis.",
+    "sha256": {
+      "gs": "9684d32196fc4e78c72add1597a32db936be7ddfb5c4864f05335dd471052dfe",
+      "fsp": "add2caa630599bb287cb7e6c6f78b2b18ca054d5cb1889d480ef6a74ff9b44a2"
+    }
+  },
+  "source_excerpts": [
+    {
+      "id": "page912_2064",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_2064",
+      "parent_target_id": "page912_2064",
+      "target": "Übertragen des Wissens über die Addition und Subtraktion auf das Rechnen im Zahlenraum bis 1 000",
+      "remarks": "Operationsverständnis"
+    },
+    {
+      "id": "page912_187199",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187199",
+      "parent_target_id": "page912_2064",
+      "target": "Erkennen, Beschreiben und Fortsetzen von arithmetischen Mustern",
+      "remarks": ""
+    },
+    {
+      "id": "page912_187201",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187201",
+      "parent_target_id": "page912_2064",
+      "target": "strukturierte Aufgabenformate",
+      "remarks": "Zahlenmauern mit vorgegebener Zielzahl, Zahlenketten, Rechendreiecke ➔ Leitidee: Muster, Strukturen, funktionaler Zusammenhang"
+    },
+    {
+      "id": "page139_35470",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35470",
+      "parent_target_id": "page139_35470",
+      "target": "Übertragen des Wissens über Rechenhandlungen auf das Erschließen der Lebenswelt",
+      "remarks": "⇒ Bildung für nachhaltige Entwicklung"
+    },
+    {
+      "id": "page139_35479",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35479",
+      "parent_target_id": "page139_35470",
+      "target": "Addieren und Subtrahieren im Zahlenraum bis 100",
+      "remarks": "von der bildlichen zur symbolischen Ebene kommen individuelle Rechenstrategien entwickeln mit Umkehroperation und Taschenrechner kontrollieren Differenzierung: unterschiedlicher Abstraktionsgrad bei Darstellung und Lösung von Aufgaben"
+    },
+    {
+      "id": "page139_35485",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_35485",
+      "parent_target_id": "page139_35470",
+      "target": "Entdecken und Nutzen verschiedener Lösungswege",
+      "remarks": "verschiedene Wege unter Nutzung von Material erarbeiten, individuelle Strategien auswählen, über Lösungswege kommunizieren Zahlbildungsprinzip 30 + 8 = 38 57 – 7 = 50 Nacheinanderausführen von Teilschritten 17 + 9 = 17 + 3 + 6 57 – 29 = 57 – 20 – 7 – 2 57 – 29 = 57 – 7 – 20 – 2 Zurückführen auf bekannte Aufgaben, insbesondere Grundaufgaben Nutzen des Vertauschens bei der Addition Nutzen der Beziehung zwischen Aufgabe und Umkehraufgabe Nachbaraufgaben Differenzierung: mündliche oder halbschriftliche Verfahren"
+    },
+    {
+      "id": "page912_187200",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/912#page912_187200",
+      "parent_target_id": "page912_2064",
+      "target": "Untersuchen von Zahlenfolgen",
+      "remarks": "anspruchsvolle Bildungsregeln Startzahlen nach Regeln verändern Fibonacci-Folge"
+    },
+    {
+      "id": "page139_37885",
+      "url": "https://www.schulportal.sachsen.de/lplandb/lehrplan/139#page139_37885",
+      "parent_target_id": "page139_37851",
+      "target": "Probieren verschiedener Rechenwege, und Nutzen von Rechenvorteilen im Zahlenraum bis 20",
+      "remarks": "Bemerkung nennt additive Nachbaraufgabe: zweiter Summand und Summe wachsen um eins; außerdem Vertauschen und Umkehraufgaben. Kandidat aus amtlicher PDF S.12/PDF24 geprüft; Legacy-Anker hat keine gespeicherten Textfelder."
+    }
+  ],
+  "decisions": [
+    {
+      "gs_id": "page912_187201",
+      "first_review": false,
+      "status": "limited_connection_extended",
+      "card": "MA-132",
+      "finding": "GS3 strukturierte Aufgabenformate187201 sind für eine lokale Startwertvariation in einem einzelnen bekannten Additions- oder Subtraktionsübergang begrenzt angeschlossen. Der zweite Operand bleibt fest: Zuwachs bei Addition, Subtrahend bei Subtraktion. Der erste Summand beziehungsweise Minuend wird als Startwert um genau eins erhöht oder vermindert; Summe beziehungsweise Differenz verändern sich um eins in derselben Richtung. FSP3/4 nennt Nachbaraufgaben in der Bemerkung35485 unter Addieren/Subtrahieren35479 und Übertragen35470. Die Auswahl der ersten Operandenrolle, beider Richtungen und des lokalen Kettenausschnitts ist didaktische Konkretisierung, keine wörtlich vorgeschriebene Kettenregel. MA-145 erweitert bestehendeMA-132 um den Subtraktionsfall; keine neue Karte.",
+      "learning_levels": "Amtliche Lernzielebenen: GS Übertragen aus2064 und FSP Übertragen aus35470. Beide Definitionstabellen S.V/PDF5 bezeichnen die Verwendung bekannter Kenntnisse in vergleichbaren Kontexten. Beschreiben, Erkennen, Verändern und Ableiten sind Zielhandlungen, keine Lernzielebenen. Das Kennen/Einblick gewinnen der GS1/2-FSP1/2-KarteMA-031, das Beherrschen35461 der ZahlenfolgenkarteMA-124 und das Kennen35571 der KnobelkarteMA-131 werden nicht auf diesen Anschluss übertragen.",
+      "number_scope": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 ausdrücklich aus dem zugehörigen Additions-/Subtraktionsziel35479.35485 ist diesem Ziel untergeordnet; die100 werden nicht aus dem übergreifenden Bandziel35415 abgeleitet. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000 sowie ganze Folgen, beliebige Startänderungen und weiterführende Strukturregeln sind nicht abgedeckt.",
+      "prerequisites_and_limits": "Alle ursprünglichen und veränderten Startwerte, beide Operanden, Summen beziehungsweise Differenzen, die Änderung um eins sowie alle relevanten Zwischen- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Bei Addition und Erhöhung liegt die ursprüngliche Summe höchstens bei99, bei Verminderung liegt der ursprüngliche Startwert mindestens bei1. Bei Subtraktion und Erhöhung liegt der ursprüngliche Minuend höchstens bei99. Bei Subtraktion und Verminderung liegt die ursprüngliche Differenz mindestens bei1: Der Minuend muss mindestens um eins größer als der feste Subtrahend sein. Ein positiver Minuend allein genügt hierfür nicht. Für GS gelten die entsprechenden oberen Bedingungen999 statt99. Diese Zulässigkeitsbedingungen sind didaktische Folgerungen aus der Veränderung innerhalb des belegten Zahlenraums, keine neuen amtlichen Zahlenraumgrenzen. Kein Überschreiten mit späterem Ausgleich. Ganze Anzahlen; Einheiten, Dezimalbrüche und Umrechnungen sind nicht Gegenstand. Eine Addition mit bekannter Summe oder eine Subtraktion mit bekannter nichtnegativer Differenz ist bekannt. Der zweite Operand und das Operationszeichen bleiben unverändert; die Änderung des Startwerts um genau eins ist bekannt. Die Ausgangs- und Nachbarbeziehung gehören zu vergleichbaren Kontexten; auf FSP-Seite bleibt der Lebensweltbezug aus35470 Voraussetzung. Das neue Ergebnis wird aus dem bekannten Ergebnis abgeleitet; zwei voneinander unabhängige Neuberechnungen allein belegen diesen Zusammenhang noch nicht. 35485 nennt Nachbaraufgaben ohne vorgeschriebene Operandenrolle, Änderungsrichtung oder Kettendarstellung. Der gewählte lokale Fall und seine Zulässigkeitsbedingungen sind didaktisch. Verändern des zweiten Operanden, gleichzeitige Änderung beider Operanden, beliebige Änderungsbeträge, unbekannte Zeichen oder Regeln und die Fortführung der Änderung durch eine ganze Kette sind hier nicht abgedeckt.187200 erhält keine zusätzliche Kartenzuordnung: Systematische Folgen- und Regelvariation bleibt gesondert offen. Aufgaben, Lernhandlungen und Hilfsmittel legt ausschließlich die Lehrkraft fest; keine automatische Befüllung. Eigene Lehrkraftentwürfe bleiben erhalten; Freitext ist nicht automatisch fachlich validiert.",
+      "remaining": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.",
+      "fsp_bands_checked": [
+        "1/2",
+        "3/4"
+      ]
+    }
+  ],
+  "context_only": [
+    "page912_2064",
+    "page912_187199"
+  ],
+  "band_selection": {
+    "1/2": "37885 unterEinblick gewinnen37851 belegt einen additiven Nachbarfall bis20 und Umkehrbeziehungen. Positiver vorbereitender Bezug, kein Ausschluss wegen20. Der dortige Nachbarbeispieltext nennt keine Minuendenvariation bei festem Subtrahenden. Eine solche Konkretisierung wäre zusätzlich zu begründen. MA031 bleibt unverändert.",
+    "3/4": "35485 unter35479/Übertragen35470 nennt Nachbaraufgaben innerhalb Addieren und Subtrahieren bis100. Dieser stufenbandpassende Pflichtbereich wird bevorzugt; Minuendenrolle und ±1-Richtungen sind ausdrücklich didaktisch.35466-Zählen unterBeherrschen35461 und Knobelstrategien unterKennen35571 ersetzen diese Hierarchie nicht."
+  },
+  "existing_cards_rechecked": [
+    "MA-132",
+    "MA-031",
+    "MA-124",
+    "MA-130",
+    "MA-131"
+  ],
+  "existing_card_review": "MA132 gezielt erweitert;131 andere Mathematikkarten unverändert. MA031 bleibt eigenerGS1/2-FSP1/2-Anschluss;MA124 Zahlenfolgen,MA130 bekannteVorwärtskette,MA131 gekoppelteUnbekannte behalten ihre Grenzen. Keine neue Karte für die verwandte lokale Nachbarbeziehung.",
+  "mathematical_check": {
+    "kind": "Interne Gegenprüfung, keine Unterrichtsaufgaben",
+    "identity": "Bei festem c und delta in{-1,+1}: (a+delta)+c=(a+c)+delta und (a+delta)-c=(a-c)+delta, alle Ausgangs- und Nachbarwerte in0..M. Zulässigkeitsbedingungen unabhängig gegen Bereichsprüfung verglichen.",
+    "results": [
+      {
+        "max": 20,
+        "valid_cases_per_operation": {
+          "addition": 420,
+          "subtraction": 420
+        },
+        "status": "PASS"
+      },
+      {
+        "max": 100,
+        "valid_cases_per_operation": {
+          "addition": 10100,
+          "subtraction": 10100
+        },
+        "status": "PASS"
+      },
+      {
+        "max": 1000,
+        "valid_cases_per_operation": {
+          "addition": 1001000,
+          "subtraction": 1001000
+        },
+        "status": "PASS"
+      }
+    ],
+    "limit": "Bestätigt die ausgewählte Beziehung und Randbedingungen, keine curriculare Vollvalidierung und keine mehrschrittige Strategie."
+  },
+  "counts": {
+    "first_reviews_this_batch": 0,
+    "new_cards": 0,
+    "updated_cards": 1,
+    "cards_total": 132,
+    "same_band": 103,
+    "cross_band": 29,
+    "open_questions_total": 27,
+    "new_open_questions": 0,
+    "no_direct_connections_total": 15,
+    "inventory_rows": 220,
+    "new_inventory_rows": 0,
+    "source_links": 304,
+    "target_anchors": 302
+  },
+  "tests": {
+    "status": "local_passed_live_pending",
+    "scripts": [
+      {
+        "script": "update-mathematik.py",
+        "exit": 0,
+        "output": ""
+      },
+      {
+        "script": "check-deutsch.py",
+        "exit": 0,
+        "output": "PASS: 178 German cards, 117 block decisions, valid source anchors and scripts; Sachunterricht unchanged.\n"
+      },
+      {
+        "script": "prepare-pages.py",
+        "exit": 0,
+        "output": "PASS: teacher information embedded (10 reviewed cases, independent of planning)\nPASS: Pages entry synchronized; updated 2026-11-27\n"
+      },
+      {
+        "script": "check-mathematik.py",
+        "exit": 0,
+        "output": "PASS: 132 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\n"
+      },
+      {
+        "script": "test-mathematik-scope.py",
+        "exit": 0,
+        "output": "PASS: 132 mathematics cards, 304 source links (302 target anchors, 2 context sources), synchronized Pages entry.\nPASS: missing scope, exceeded limits, missing context evidence and invented bound rejected; all valid scopes accepted.\nPASS: reused GS evidence preserves parent/operator/source and separates coverage from context.\nPASS: explicit target-row bounds reject wrong parents, foreign anchors, stage-goal relabelling and inconsistent limits.\nPASS: missing, disabled, hidden or wrongly sourced elective prerequisites rejected.\nPASS: operatorless content requires reviewed evidence; invented, foreign and erased operators rejected.\nPASS: single main targets require matching remark evidence; missing, foreign, invented, child-only, empty and duplicate evidence rejected.\nPASS: evidenced Gestalten accepted; borrowed levels and child actions rejected.\nPASS: nominal single-row evidence rejects invented levels, missing/foreign proof and unrelated child targets.\n"
+      },
+      {
+        "script": "check-learning-objects.py",
+        "exit": 0,
+        "output": "PASS: all 313 reviewed learning objects, 125 isolated copy overrides, source references, counts, selection conditions and synchronized payload.\n"
+      }
+    ],
+    "local_browser": "PASS: targeted MA-031/MA-124/MA-132/MA-122/MA-123/MA-125/MA-126/MA-127/MA-128/MA-129/MA-130/MA-131 mathematics cards: shared-object display/adoption/output and preserved teacher learning-object text; visible scope in cards/goals/output, source links, goal adoption, empty task/aid fields, unchanged teacher drafts, subject isolation and mobile layout; MA-084 operatorless content and mobile320/390.",
+    "local_learning_levels": "PASS: 445 Karten, 890 Kartenseiten, amtliche Belege, Ausschluss von Zielhandlungen, Quellenvererbung und Fachwechsel.",
+    "integrity": "131 andere Mathematikkarten,445 Ebeneneinträge,304 Quellen,302 Zielanker,27 offene Anschlussfragen und alle Deutschdateien unverändert. Nur Audit187201 ergänzt;220 Inventurzeilen;132 Mathematikkarten;root/dist bytegleich.",
+    "limits": "Datenänderung undVersion,keine neueUI-Funktionslogik. Gezielter Browserlauf und vollständige Ebenenanzeigeprüfung445/890;kein neuer vollständiger Funktionslauf aller132 Mathematikkarten undkeine semantische Vollprüfung des Bestands. BeideamtlichenHTML-Quellenerreichbar,gespeichertePDFstextuellgeprüft;kein neuerPDF-Download/Rendernachweis. Gesamtabgleich offen.",
+    "execution_note": "Erster Browserstart durch lokale Prozessbeschränkung verhindert; anschließend mit genehmigtem Browserstart erfolgreich geprüft."
+  },
+  "publication": {
+    "status": "pending",
+    "app_version": "1.446"
+  },
+  "continuation": "GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren."
+}

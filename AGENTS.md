@@ -57,3 +57,8 @@ GS3 strukturierte Aufgabenformate187201 fortsetzen: Regel- und Startwertabhängi
 ## Fortsetzung MA-144
 
 GS3 strukturierte Aufgabenformate187201 fortsetzen: Startwertvariation bei einem bekannten Subtraktionsschritt prüfen, danach Änderungen durch bekannte mehrschrittige Ketten. MA-144 ergänztMA-132 für einen lokalen Additionsübergang mit festem Zuwachs und Startwertänderung um eins in beiden Richtungen. GS/FSP Übertragen, GS1000/FSP100 ausdrücklich.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen; keine zusätzliche Kartenzuordnung dieser Zeile.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganzeNichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.
+
+
+## Fortsetzung MA-145
+
+GS3 strukturierte Aufgabenformate187201 fortsetzen: Fortführung einer Startwertänderung um eins durch eine bekannte mehrschrittige additive/subtraktive Kette prüfen; feste Zeichen und Operanden von veränderten Regeln trennen. MA-145 erweitertMA-132 um den lokalen Subtraktionsnachbarn mit festem Subtrahenden. Beim Vermindern muss die ursprüngliche Differenz mindestens1 sein; positiver Minuend allein genügt nicht. Beide Lernzielebenen Übertragen; GS1000/FSP100 ausdrücklich. Die konkreten Nachbarfälle und Zulässigkeitsbedingungen sind didaktisch.187200 bleibt für systematische Folgen-/Regelvariation gesondert offen.132 Karten,103 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstprüfung187201. Deutsch-Abschluss DE-UZ-052 bewahren.
