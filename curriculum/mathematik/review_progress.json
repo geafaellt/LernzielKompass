@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187200",
-  "next_step": "GS3-187200: konkret bekannte periodische Plus-/Minusregel mit vorgegebener Startphase prüfen, zunächst wiederkehrendes bekanntes Zweischrittmuster. Wiederverwendung/Erweiterung vonMA130 und gegebenenfallsMA132 gegen35479/35485 unterÜbertragen35470 samtLebensweltbezug sowie35578/35580 unterKennen35571 samtWahlbereich prüfen;FSP1/2-37885 und38021/38022 getrennt. Strukturbezug der Periodenregel nicht aus bloßerKettenrechnung ableiten,keine neueKarte nur fürLänge/Startpaar. Danach systematischeStartvariation außerhalb der festenKettenbegrenzung gesondert entscheiden. EigeneBeschreibung bekannter ausgewählterZusammenhänge aufMA133/134 bereitsbelegt;allgemeineRegelentdeckung/-beweise nichtbelegt.134Karten,105stufengleich,29stufenübergreifend,27Anschlussfragen,15ganzeNichtanschlüsse,220Inventurzeilen. App1.450 unverändert;Deutschabgeschlossen(DE-UZ-052).",
+  "next_step": "GS3-187200: konkret bekannte periodische Plus-/Minusregel mit vorgegebener Startphase prüfen, zunächst wiederkehrendes bekanntes Zweischrittmuster. Wiederverwendung/Erweiterung vonMA130 und gegebenenfallsMA132 gegen35479/35485 unterÜbertragen35470 samtLebensweltbezug sowie35578/35580 unterKennen35571 samtWahlbereich prüfen;FSP1/2-37885 und38021/38022 getrennt. Strukturbezug der Periodenregel nicht aus bloßerKettenrechnung ableiten,keine neueKarte nur fürLänge/Startpaar. Danach systematischeStartvariation außerhalb der festenKettenbegrenzung gesondert entscheiden. EigeneBeschreibung bekannter ausgewählterZusammenhänge aufMA133/134 bereitsbelegt;allgemeineRegelentdeckung/-beweise nichtbelegt.134Karten,105stufengleich,29stufenübergreifend,27Anschlussfragen,15ganzeNichtanschlüsse,220Inventurzeilen. App1.450 unverändert;Deutschabgeschlossen(DE-UZ-052). VierDatenprüfungen und mathematischeGegenprüfungen bestanden;Audit aufmain veröffentlicht. KeineAppänderung oder neueBrowser-/Liveprüfung.",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -7190,10 +7190,15 @@
   },
   "latest_audit_publication": {
     "batch": "MA-151",
-    "status": "pending_audit_publication",
+    "status": "published_audit_verified",
+    "commit": "3b29eb29145de325fbc1d5402344a2808e01c80b",
+    "tree": "7e438965bbb484182d814cf2453d66a2a1603a2d",
     "app_version_unchanged": "1.450",
     "app_commit_unchanged": "6cd3290b4e59160302ac2083bfd22f738bbf193b",
-    "limits": "ReinesAudit:keine neueBrowser-/Liveprüfung und kein neuerPages-Nachweis. Veröffentlichungsnachweis der unverändertenApp bleibtMA150."
+    "verification": "Auditcommit mit genau sechs Auditdateien und einem internen mathematischen Prüfsystem überGitHub bestätigt;keineAppdatei geändert.",
+    "limits": "Kein neuer Browser-/Live- oder Pages-Nachweis in diesem reinen Auditlauf; App-Veröffentlichungsnachweis bleibtMA150.",
+    "checked_at": "2026-11-28T02:38:41.224629+00:00",
+    "proof_note": "Der nachfolgende Nachweiscommit dokumentiert diese geprüfte Auditveröffentlichung;keineAppänderung."
   },
   "continuation_correction": {
     "batch": "MA-067",

@@ -1833,4 +1833,4 @@ GS3-187200: konkret bekannte periodische Plus-/Minusregel mit vorgegebener Start
 
 Prüf- und Veröffentlichungsnachweise: curriculum/mathematik/review_batch_151.json.
 
-MA-151: Vier Datenprüfungen sowie Gegenprüfungen periodischer und rekursiver Folgen bestanden. App1.450 und Deutsch bytegleich; keine neue Browser-/Liveprüfung. Reine Auditveröffentlichung noch ausstehend.
+MA-151: Vier Datenprüfungen sowie Gegenprüfungen periodischer und rekursiver Folgen bestanden. Audit veröffentlicht in Commit 3b29eb29145de325fbc1d5402344a2808e01c80b; genau sechs Auditdateien und ein interner mathematischer Test bestätigt. App1.450 und Deutsch bytegleich; keine neue Browser-/Liveprüfung oder neuerPages-Nachweis. App-Nachweis bleibtMA150. Details in review_batch_151.json.
