@@ -1,5 +1,5 @@
 {
-  "last_batch": "MA-150",
+  "last_batch": "MA-151",
   "complete": false,
   "counts": {
     "cards": 134,
@@ -3888,7 +3888,7 @@
     }
   },
   "next_id": "page912_187200",
-  "next_step": "RestfrageGS3-187200 gebündelt weiterprüfen: anspruchsvollere/wechselnde bekannte Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung. Die belegten AusschnitteMA124,MA133,MA134 zusammenführen und verbleibende Anforderungen gegen beide FSP-Bänder differenziert entscheiden; keine neue Karte allein für andere Länge oder anderes Startpaar. Bekannte additive Fortsetzung aus zwei unmittelbaren Vorgängern ist aufMA134 begrenzt geklärt; freie Rekonstruktion und Wirkungen geänderter Startglieder sind davon getrennt. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.134 Karten,105 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052). Sechs Datenprüfungen, mathematische Gegenprüfung sowie gezielte Karten- und vollständige Ebenenanzeigeprüfung lokal/live bestanden; App1.450 aufmain undPages veröffentlicht, Live-Datei bytegleich.",
+  "next_step": "GS3-187200: konkret bekannte periodische Plus-/Minusregel mit vorgegebener Startphase prüfen, zunächst wiederkehrendes bekanntes Zweischrittmuster. Wiederverwendung/Erweiterung vonMA130 und gegebenenfallsMA132 gegen35479/35485 unterÜbertragen35470 samtLebensweltbezug sowie35578/35580 unterKennen35571 samtWahlbereich prüfen;FSP1/2-37885 und38021/38022 getrennt. Strukturbezug der Periodenregel nicht aus bloßerKettenrechnung ableiten,keine neueKarte nur fürLänge/Startpaar. Danach systematischeStartvariation außerhalb der festenKettenbegrenzung gesondert entscheiden. EigeneBeschreibung bekannter ausgewählterZusammenhänge aufMA133/134 bereitsbelegt;allgemeineRegelentdeckung/-beweise nichtbelegt.134Karten,105stufengleich,29stufenübergreifend,27Anschlussfragen,15ganzeNichtanschlüsse,220Inventurzeilen. App1.450 unverändert;Deutschabgeschlossen(DE-UZ-052).",
   "cross_band_review": {
     "MA-002": {
       "same_band_candidate_ids": [
@@ -4209,7 +4209,7 @@
       "decision": "FSP3/4 belegt Alltagszahlen bis100 mit kardinalem und ordinalem Aspekt; daher fürAnzahl/Position aufMA-109 bevorzugt. Seitenzahlen/Schülerzahlen/Entfernungen/Preise/Kalender/Zeit sind keine gleich eindeutigen Belege für eine beliebige Kennzeichnungsfunktion. Der konkrete Linienbezug der Umweltdatenzeile37959 in FSP1/2 begründet den gesonderten stufenübergreifenden Kennzeichnungsanschluss. Nicht wegen eines kleineren Zahlenraums gewählt; keine allgemeine Unmöglichkeit von Kennzeichnungsarbeit im Band3/4 behauptet."
     }
   },
-  "last_review_file": "review_batch_150.json",
+  "last_review_file": "review_batch_151.json",
   "open_questions": [
     {
       "gs_id": "page912_1837",
@@ -4738,9 +4738,9 @@
       "related_gs_ids": [
         "page912_187199"
       ],
-      "scope": "Anspruchsvollere, wechselnde oder rekursive Bildungsregeln und systematische Startzahlvariation; vollständige selbstständige Regelbeschreibung im FSP.",
+      "scope": "Bekannte wechselnde/periodische Bildungsregeln und systematische Startzahlvariation außerhalb der belegten KartenMA124/MA133/MA134; Strukturbezug gegenüber bloßer Rechenausführung.",
       "status": "offen",
-      "reason": "MA134 bestätigt die bekannte additive Fortsetzung aus zwei Vorgängern als begrenzte didaktische Konkretisierung. MA124 bleibt gleichschrittige Fortsetzung;MA133 die vorgegebene Auswahl fester Plus-/Minusregeln;MA130/MA132 bekannte Ketten mit festen zweiten Operanden. Anspruchsvollere oder wechselnde Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung über den bekannten ausgewählten Zusammenhang hinaus bleiben gesondert zu entscheiden. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.",
+      "reason": "Anspruchsvolle Bildungsregeln, Startzahlen nach Regeln verändern undFibonacci stehen beiGS187200 in der Bemerkung, nicht als drei neue Hauptziele. Anspruchsvoll ist keine numerisch bestimmte Schwierigkeitsstufe. Die BestandskartenMA124,MA133,MA134 tragen nur ihre ausgewählten Inhalte. Bekannte wechselnde Regeln können grundsätzlich auf bekannte Rechenbeziehungen zurückgeführt werden; fehlender Formatname imFSP ist kein Ausschlussgrund. Ein konkreter periodischer Regelrest muss deshalb vor einer negativen Gesamtentscheidung geprüft bleiben. Eine bereits vollständig ausgeschriebene endliche Operationsfolge ist rechnerisch eine bekannte Kette; das Ableiten der jeweils nächsten Operation aus einer Periodenregel und bekannter Phase ist ein zusätzlicher Strukturbezug. MA130/MA132 sind bisher nur187201 zugeordnet und werden nicht stillschweigend auf187200 erweitert.",
       "candidate_ids": [
         "page139_37950",
         "page139_37952",
@@ -4753,10 +4753,11 @@
         "page139_35580",
         "page139_35415"
       ],
-      "follow_up": "RestfrageGS3-187200 gebündelt weiterprüfen: anspruchsvollere/wechselnde bekannte Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung. Die belegten AusschnitteMA124,MA133,MA134 zusammenführen und verbleibende Anforderungen gegen beide FSP-Bänder differenziert entscheiden; keine neue Karte allein für andere Länge oder anderes Startpaar. Bekannte additive Fortsetzung aus zwei unmittelbaren Vorgängern ist aufMA134 begrenzt geklärt; freie Rekonstruktion und Wirkungen geänderter Startglieder sind davon getrennt. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.134 Karten,105 stufengleich,29 stufenübergreifend,27 Anschlussfragen,15 ganze Nichtanschlüsse,220 Inventurzeilen. Keine neue Erstzählung; Deutsch bleibt abgeschlossen(DE-UZ-052).",
+      "follow_up": "GS3-187200: konkret bekannte periodische Plus-/Minusregel mit vorgegebener Startphase prüfen, zunächst wiederkehrendes bekanntes Zweischrittmuster. Wiederverwendung/Erweiterung vonMA130 und gegebenenfallsMA132 gegen35479/35485 unterÜbertragen35470 samtLebensweltbezug sowie35578/35580 unterKennen35571 samtWahlbereich prüfen;FSP1/2-37885 und38021/38022 getrennt. Strukturbezug der Periodenregel nicht aus bloßerKettenrechnung ableiten,keine neueKarte nur fürLänge/Startpaar. Danach systematischeStartvariation außerhalb der festenKettenbegrenzung gesondert entscheiden. EigeneBeschreibung bekannter ausgewählterZusammenhänge aufMA133/134 bereitsbelegt;allgemeineRegelentdeckung/-beweise nichtbelegt.134Karten,105stufengleich,29stufenübergreifend,27Anschlussfragen,15ganzeNichtanschlüsse,220Inventurzeilen. App1.450 unverändert;Deutschabgeschlossen(DE-UZ-052).",
       "recorded_by": "MA-130",
-      "last_review": "MA-150",
-      "boundary_note": "Keine freie Rekonstruktion oder Wahl der Regel, kein allgemeiner Eindeutigkeitsbeweis, kein selbstständiges Entdecken der Fibonacci-Regel, keine systematische Änderung der Startglieder oder Begründung ihrer Wirkungen. Die Startwerte müssen nicht1 und1 sein; auch null ist zulässig. Nur die Summenbildung aus den zwei unmittelbar vorherigen Gliedern ist ausgewählt, keine beliebige Rekursion. Eine Folge korrekter isolierter Summen ohne richtige Zuordnung des jeweils aktuellen Vorgängerpaars belegt den Strukturbezug nicht. Es wird kein unveränderter zweiter Operand wie inMA130/MA132 vorausgesetzt."
+      "last_review": "MA-151",
+      "boundary_note": "MA132 bestätigt nur eine didaktisch ausgewählte Änderung um eins bei sonst festen Zeichen und zweiten Operanden. Auch eine bekannte periodische Folge fester Operationen kann für eine festgelegte endliche Länge als solche Kette ausgewertet werden, wenn die Startphase unverändert bleibt. Eine Startwertänderung wirkt dann auf jeden Wert gleichsinnig; bei wertabhängigen Operanden oder geänderter Phase gilt dies nicht allgemein. MA134 trägt bekannte additive Rekursion, aber keine systematische Untersuchung geänderter Startglieder. Die GegenprüfungMA150 zeigt rekursive statt konstanter Fehlerfortpflanzung. Wiederholtes Berechnen verschiedener Startfälle und das Erkennen/Begründen einer Veränderungsbeziehung sind getrennte Anforderungen. Der Nachbarbezug stammt aus35485 unterÜbertragen35470; aus dessen Bemerkung folgt keine allgemeine rekursive Variationskompetenz.",
+      "clarified_description": "Die Teilfrage nach eigener Regelbeschreibung ist für die jeweils bekannten ausgewählten Zusammenhänge aufMA133/MA134 bereits begrenzt geklärt:35580 unterKennen35571 nennt eigene Lösungswege, die Karten verlangen den Bezug zwischen Regel und Übergängen beziehungsweise aktuellem Vorgängerpaar. Übergreifende Sprachziele35415 unterstützen eigenes Beschreiben und Begründen;37739 betrifft sprachliches Begleiten und unterstütztes Erklären. Daraus folgt weder freie Entdeckung beliebiger Bildungsregeln noch ein allgemeiner Beweis ihrer Gültigkeit. Selbstständiges Beschreiben im gelernten Kontext ist mitKennen vereinbar; das Wort selbstständig allein begründet wederAnwenden nochProblemlösen. Die weitergehende Frage darf nicht wegen einer vermeintlich fehlenden allgemeinen Sprachhandlung pauschal als Nichtanschluss gelten."
     },
     {
       "gs_id": "page912_187201",
@@ -5745,15 +5746,15 @@
     },
     {
       "gs_id": "page912_187199",
-      "scope": "MA134 bestätigt die bekannte additive Fortsetzung aus zwei Vorgängern als begrenzte didaktische Konkretisierung. MA124 bleibt gleichschrittige Fortsetzung;MA133 die vorgegebene Auswahl fester Plus-/Minusregeln;MA130/MA132 bekannte Ketten mit festen zweiten Operanden. Anspruchsvollere oder wechselnde Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung über den bekannten ausgewählten Zusammenhang hinaus bleiben gesondert zu entscheiden. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.",
+      "scope": "Anspruchsvolle Bildungsregeln, Startzahlen nach Regeln verändern undFibonacci stehen beiGS187200 in der Bemerkung, nicht als drei neue Hauptziele. Anspruchsvoll ist keine numerisch bestimmte Schwierigkeitsstufe. Die BestandskartenMA124,MA133,MA134 tragen nur ihre ausgewählten Inhalte. Bekannte wechselnde Regeln können grundsätzlich auf bekannte Rechenbeziehungen zurückgeführt werden; fehlender Formatname imFSP ist kein Ausschlussgrund. Ein konkreter periodischer Regelrest muss deshalb vor einer negativen Gesamtentscheidung geprüft bleiben. Eine bereits vollständig ausgeschriebene endliche Operationsfolge ist rechnerisch eine bekannte Kette; das Ableiten der jeweils nächsten Operation aus einer Periodenregel und bekannter Phase ist ein zusätzlicher Strukturbezug. MA130/MA132 sind bisher nur187201 zugeordnet und werden nicht stillschweigend auf187200 erweitert. MA132 bestätigt nur eine didaktisch ausgewählte Änderung um eins bei sonst festen Zeichen und zweiten Operanden. Auch eine bekannte periodische Folge fester Operationen kann für eine festgelegte endliche Länge als solche Kette ausgewertet werden, wenn die Startphase unverändert bleibt. Eine Startwertänderung wirkt dann auf jeden Wert gleichsinnig; bei wertabhängigen Operanden oder geänderter Phase gilt dies nicht allgemein. MA134 trägt bekannte additive Rekursion, aber keine systematische Untersuchung geänderter Startglieder. Die GegenprüfungMA150 zeigt rekursive statt konstanter Fehlerfortpflanzung. Wiederholtes Berechnen verschiedener Startfälle und das Erkennen/Begründen einer Veränderungsbeziehung sind getrennte Anforderungen. Der Nachbarbezug stammt aus35485 unterÜbertragen35470; aus dessen Bemerkung folgt keine allgemeine rekursive Variationskompetenz.",
       "status": "partially_reviewed",
-      "review": "MA-150"
+      "review": "MA-151"
     },
     {
       "gs_id": "page912_187200",
-      "scope": "MA134 bestätigt die bekannte additive Fortsetzung aus zwei Vorgängern als begrenzte didaktische Konkretisierung. MA124 bleibt gleichschrittige Fortsetzung;MA133 die vorgegebene Auswahl fester Plus-/Minusregeln;MA130/MA132 bekannte Ketten mit festen zweiten Operanden. Anspruchsvollere oder wechselnde Regeln, systematische Startzahlvariation und selbstständige Regelbeschreibung über den bekannten ausgewählten Zusammenhang hinaus bleiben gesondert zu entscheiden. Mauer-/Dreiecks- und gekoppelte Unbekanntenfragen bleiben eigenständig.",
+      "scope": "Anspruchsvolle Bildungsregeln, Startzahlen nach Regeln verändern undFibonacci stehen beiGS187200 in der Bemerkung, nicht als drei neue Hauptziele. Anspruchsvoll ist keine numerisch bestimmte Schwierigkeitsstufe. Die BestandskartenMA124,MA133,MA134 tragen nur ihre ausgewählten Inhalte. Bekannte wechselnde Regeln können grundsätzlich auf bekannte Rechenbeziehungen zurückgeführt werden; fehlender Formatname imFSP ist kein Ausschlussgrund. Ein konkreter periodischer Regelrest muss deshalb vor einer negativen Gesamtentscheidung geprüft bleiben. Eine bereits vollständig ausgeschriebene endliche Operationsfolge ist rechnerisch eine bekannte Kette; das Ableiten der jeweils nächsten Operation aus einer Periodenregel und bekannter Phase ist ein zusätzlicher Strukturbezug. MA130/MA132 sind bisher nur187201 zugeordnet und werden nicht stillschweigend auf187200 erweitert. MA132 bestätigt nur eine didaktisch ausgewählte Änderung um eins bei sonst festen Zeichen und zweiten Operanden. Auch eine bekannte periodische Folge fester Operationen kann für eine festgelegte endliche Länge als solche Kette ausgewertet werden, wenn die Startphase unverändert bleibt. Eine Startwertänderung wirkt dann auf jeden Wert gleichsinnig; bei wertabhängigen Operanden oder geänderter Phase gilt dies nicht allgemein. MA134 trägt bekannte additive Rekursion, aber keine systematische Untersuchung geänderter Startglieder. Die GegenprüfungMA150 zeigt rekursive statt konstanter Fehlerfortpflanzung. Wiederholtes Berechnen verschiedener Startfälle und das Erkennen/Begründen einer Veränderungsbeziehung sind getrennte Anforderungen. Der Nachbarbezug stammt aus35485 unterÜbertragen35470; aus dessen Bemerkung folgt keine allgemeine rekursive Variationskompetenz.",
       "status": "partially_reviewed",
-      "review": "MA-150"
+      "review": "MA-151"
     },
     {
       "gs_id": "page912_187201",
@@ -5806,7 +5807,7 @@
       "page912_2064"
     ],
     "rows": 220,
-    "note": "MA150: neuer begrenzter AnschlussMA134,keine neue Inventurzeile oder Erstzählung.134 Karten,105 stufengleich,29 stufenübergreifend,27 offene Fragen,15 ganze Nichtanschlüsse,220 Inventurzeilen.",
+    "note": "MA151 bündelt187200-Restfrage und präzisiertPeriodenkandidat;keine neueKarte,Inventurzeile,Erstprüfung oder ganzeNichtanschlussentscheidung.134Karten,105stufengleich,29stufenübergreifend,27Fragen,15ganzeNichtanschlüsse,220Zeilen.",
     "sampled_gs_blocks": [
       "page912_2267"
     ]
@@ -6402,6 +6403,18 @@
       ],
       "status": "limited_connection_added",
       "note": "GS bis 1 000 ausdrücklich aus2064; FSP bis 100 didaktisch aus dem übergreifenden Bandziel35415 abgeleitet.35571/35578/35580 nennen keine eigene Zahlenraumobergrenze. Die100 aus35479 wird nicht als Grenze des Knobel-Wahlbereichs ausgegeben. Keine vollständige GS-Zieldeckung: Zahlen oberhalb100 bis1000, freie Regelentdeckung, allgemeine Regeluntersuchung und systematische Startzahlvariation sind nicht abgedeckt. Alle Startglieder, beide Summanden jedes Übergangs, sämtliche neu entstehenden Folgenglieder sowie alle relevanten Teil-, Probe- und Kontrollwerte bleiben nichtnegative ganze Zahlen bis 100 einschließlich100; GS entsprechend bis1 000. Die Lehrkraft prüft die gesamte festgelegte Länge vorab: Zwei zulässige Startwerte allein genügen nicht. Auch später entstehende Summen müssen im Rahmen bleiben; keine Überschreitung mit späterem Ausgleich. Keine zusätzliche Berechnung eines außerhalb des Rahmens liegenden nächsten Glieds zum Nachweis des Abbruchs verlangen. Länge und Startpaar müssen zusammen passen; kein pauschaler Höchstwert für einzelne Startglieder wird erfunden. Ganze Anzahlen ohne Einheiten, Dezimalbrüche oder Umrechnungen. "
+    },
+    "follow_up_periodic_rule_boundaries": {
+      "batch": "MA-151",
+      "cards": [
+        "MA-124",
+        "MA-130",
+        "MA-132",
+        "MA-133",
+        "MA-134"
+      ],
+      "status": "boundaries_rechecked_no_card_change",
+      "note": "GS2064 bis1000 ausdrücklich. MA124 nutzt FSP100 ausdrücklich aus35461;MA130/MA132 aus35479. MA133/MA134 leiten100 didaktisch aus35415 ab;Knobelzeilen35571/35577/35578/35580 nennen keine eigene Obergrenze. FSP1/2-37885 nennt20 ausdrücklich;für38021 und seineUnterziele wäre20 didaktisch aus37739 abzuleiten. Beide kleineren Zahlenräume sind kein Ausschlussgrund. Für einen möglichen periodischen Anschluss müssen Operanden und alle Start-,Zwischen-,End-,Probe- undKontrollwerte im jeweiligen Rahmen bleiben; Endwertprüfung allein genügt bei Plus-/Minuswechsel nicht. Keine erfundene maximalePerioden-/Folgenlänge,keinepauschaleStartwertobergrenze,keineAusweitungaufEinheitenoderDezimalzahlen. Anspruchsvolle Bildungsregeln, Startzahlen nach Regeln verändern undFibonacci stehen beiGS187200 in der Bemerkung, nicht als drei neue Hauptziele. Anspruchsvoll ist keine numerisch bestimmte Schwierigkeitsstufe. Die BestandskartenMA124,MA133,MA134 tragen nur ihre ausgewählten Inhalte. Bekannte wechselnde Regeln können grundsätzlich auf bekannte Rechenbeziehungen zurückgeführt werden; fehlender Formatname imFSP ist kein Ausschlussgrund. Ein konkreter periodischer Regelrest muss deshalb vor einer negativen Gesamtentscheidung geprüft bleiben. Eine bereits vollständig ausgeschriebene endliche Operationsfolge ist rechnerisch eine bekannte Kette; das Ableiten der jeweils nächsten Operation aus einer Periodenregel und bekannter Phase ist ein zusätzlicher Strukturbezug. MA130/MA132 sind bisher nur187201 zugeordnet und werden nicht stillschweigend auf187200 erweitert."
     }
   },
   "publication_recheck": {
@@ -7176,16 +7189,11 @@
     }
   },
   "latest_audit_publication": {
-    "batch": "MA-148",
-    "status": "published_audit_verified",
-    "commit": "6cdf8fc4e1c8240a935f447934ce3059925cd22b",
-    "tree": "eee38b9a42b3bd00ae3df372dd3d838af951986a",
-    "app_version_unchanged": "1.448",
-    "app_commit_unchanged": "5821a1f6d50c02bbb6e3d9eff8a01742995d3445",
-    "verification": "main und die sechs geänderten Auditdateien über GitHub erneut gelesen; keine Appdatei geändert.",
-    "limits": "Kein neuer Browser-/Live- oder Pages-Nachweis in diesem reinen Auditlauf; App-Veröffentlichungsnachweis bleibt MA-147.",
-    "checked_at": "2026-11-27T18:32:32.723108+00:00",
-    "proof_note": "Dieser Nachweiscommit dokumentiert die geprüfte Veröffentlichung; keine Appänderung."
+    "batch": "MA-151",
+    "status": "pending_audit_publication",
+    "app_version_unchanged": "1.450",
+    "app_commit_unchanged": "6cd3290b4e59160302ac2083bfd22f738bbf193b",
+    "limits": "ReinesAudit:keine neueBrowser-/Liveprüfung und kein neuerPages-Nachweis. Veröffentlichungsnachweis der unverändertenApp bleibtMA150."
   },
   "continuation_correction": {
     "batch": "MA-067",
@@ -7878,7 +7886,8 @@
       "MA-143": "Amtliche Lernzielebenen: GS Übertragen aus2064; FSP Kennen aus35571. Übertragen meint bekannte Kenntnisse in vergleichbaren Kontexten, Kennen Kenntnisse und Erfahrungen im gelernten Kontext (beide Lehrpläne S.V/PDF5). Probieren, Zurückführen, Finden und Beschreiben sind konkrete Zielhandlungen, keine Ersatz-Lernzielebenen. Weder Einblick gewinnen38021/35504 noch Übertragen35470 oder Anwenden38017 wird auf35571 übertragen.",
       "follow_up_MA148": "GS Übertragen aus2064;187199/187200/187201 sind untergeordnete Inhaltszeilen. Zahlenketten und Fibonacci stehen in unterschiedlichen Bemerkungen187201 beziehungsweise187200. FSP3/4: Übertragen35470 für35479/35485, Beherrschen35461 für35466, Kennen35439 für35442 und Kennen35571 für35577/35578/35580. FSP1/2: Einblick gewinnen37851 für37885, Beherrschen37931 für37950/37952 und eigenes Einblick gewinnen38021 für38022/38035/38037. Anwenden38017 gilt nur für den separaten Grafikblock38019. Definitionen beider PläneS.V/PDF5: Kennen im gelernten Kontext, Übertragen in vergleichbaren Kontexten, Beherrschen routiniert, Einblick gewinnen orientierend. Probieren, Beschreiben, Unterscheiden, Vergleichen und Erkennen sind keine Ersatz-Lernzielebenen. Die Methodenbezeichnung Übertragen innerhalb einer Bemerkung ersetzt ebenfalls nicht die Ebene des zugehörigen Hauptziels.",
       "MA-149": "Amtliche Lernzielebenen: GS Übertragen aus2064 (bekannte Kenntnisse in vergleichbaren Kontexten); FSP Kennen aus35571 (Kenntnisse und Erfahrungen im gelernten Kontext). Beide Definitionstabellen S.V/PDF5. Auswählen, Untersuchen, Probieren und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Einblick gewinnen38021 und Anwenden38017 gehören zu anderen Zielblöcken.",
-      "MA-150": "Amtliche Lernzielebenen: GS Übertragen aus2064, bekannte Kenntnisse in vergleichbaren Kontexten verwenden; FSP Kennen aus35571, über Kenntnisse und Erfahrungen im gelernten Kontext verfügen. Definitionen beider Pläne S.V/PDF5. Fortsetzen, Addieren, Zurückführen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 und Einblick gewinnen38021 werden nicht auf den Knobelblock35571 übertragen."
+      "MA-150": "Amtliche Lernzielebenen: GS Übertragen aus2064, bekannte Kenntnisse in vergleichbaren Kontexten verwenden; FSP Kennen aus35571, über Kenntnisse und Erfahrungen im gelernten Kontext verfügen. Definitionen beider Pläne S.V/PDF5. Fortsetzen, Addieren, Zurückführen und Beschreiben sind Zielhandlungen, keine Lernzielebenen. Übertragen35470 und Einblick gewinnen38021 werden nicht auf den Knobelblock35571 übertragen.",
+      "MA-151": "GS Übertragen aus2064 bleibt Elternniveau von187199/187200. FSP3/4: Beherrschen35461 für35466;Übertragen35470 für35479/35485;Kennen35571 für35577/35578/35580;Einblick gewinnen35504 für35509;Anwenden35582 nur für denTierwelt-Wahlbereich. FSP1/2: Einblick gewinnen37851 für37885,Beherrschen37931 für37950/37952 undEinblick gewinnen38021 für38022/38035/38037. Anwenden38017 gehört zum getrennten Grafikblock. Beschreiben,Unterscheiden,Vergleichen,Fortsetzen undProbieren sind Zielhandlungen. Definitionen beider PläneS.V/PDF5 geprüft; Zielhandlungen und Selbstständigkeitsgrad ersetzen keine amtliche Hauptzielebene. Die Teilfrage nach eigener Regelbeschreibung ist für die jeweils bekannten ausgewählten Zusammenhänge aufMA133/MA134 bereits begrenzt geklärt:35580 unterKennen35571 nennt eigene Lösungswege, die Karten verlangen den Bezug zwischen Regel und Übergängen beziehungsweise aktuellem Vorgängerpaar. Übergreifende Sprachziele35415 unterstützen eigenes Beschreiben und Begründen;37739 betrifft sprachliches Begleiten und unterstütztes Erklären. Daraus folgt weder freie Entdeckung beliebiger Bildungsregeln noch ein allgemeiner Beweis ihrer Gültigkeit. Selbstständiges Beschreiben im gelernten Kontext ist mitKennen vereinbar; das Wort selbstständig allein begründet wederAnwenden nochProblemlösen. Die weitergehende Frage darf nicht wegen einer vermeintlich fehlenden allgemeinen Sprachhandlung pauschal als Nichtanschluss gelten."
     }
   },
   "single_row_operator_evidence": {
